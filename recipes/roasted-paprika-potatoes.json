@@ -1,0 +1,73 @@
+{
+  "title": "Roasted Paprika Potatoes",
+  "description": "Buttery and crunchy roasted potatoes with a healthy dose of paprika for an energizing low-carb Irish dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 lbs (about 900g) small or medium potatoes, peeled and halved lengthwise"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tbsp (15g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (218°C).",
+    "Place the potato halves on a baking sheet lined with parchment paper.",
+    "Drizzle each half with 1/3 of the butter and sprinkle evenly with paprika, salt, pepper, and any additional seasonings like garlic powder if using.",
+    "Gently rub the potatoes to coat them in the melted butter and seasoning mixture. Make sure they are coated evenly but not greasy.",
+    "Roast for about 25-30 minutes or until golden brown on top and crispy around the edges, flipping halfway through cooking time.",
+    "Remove from oven and let rest for a few minutes before serving.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 25",
+    "totalTimeMin: 40",
+    "servings: 6-8",
+    "difficulty: "
+  ],
+  "tags": [
+    "roasted-potatoes",
+    "low-carb-dish",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "roasted-paprika-potatoes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-paprika-potatoes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:10:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "paprika",
+    "diet": "low-carb",
+    "region": null
+  }
+}
