@@ -1,0 +1,101 @@
+{
+  "title": "Rice Wine Pilaf on Sunday",
+  "description": "A smoky and crispy Algerian dish featuring rice wine in a simple, egg-free pilaf recipe that's perfect for lazy Sundays.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking"
+    },
+    {
+      "name": "Chicken Thighs or Breasts",
+      "amount": "4 pieces",
+      "notes": "Pat dry with paper towels"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Rice Wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "To add smokiness and depth of flavor, can be omitted if desired"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Rinse and drain the basmati rice.",
+    "Season chicken pieces with salt and pepper. If using, add a bit of olive oil and a small amount of rice wine to the pan for extra smokiness; otherwise, just cook them in the pan with a little olive oil until golden brown on all sides.",
+    "In a separate skillet, sauté onions and garlic until translucent. Add red peppers and continue cooking until softened.",
+    "Combine the cooked chicken pieces with the sautéed vegetables in a baking dish. Top with rinsed and drained rice.",
+    "Sprinkle fresh mint leaves over the top of the pilaf. Drizzle remaining olive oil evenly across the surface of the dish.",
+    "Bake for 25 minutes or until rice is tender and golden brown on all sides. Stir occasionally during cooking to prevent sticking.",
+    "Serve hot with a side of green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "algerian",
+    "rice-wine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 28,
+    "carbs": 56,
+    "fat": 13
+  },
+  "slug": "rice-wine-pilaf-on-sunday",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rice-wine-pilaf-on-sunday",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:23:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice wine",
+    "diet": "egg-free",
+    "region": null
+  }
+}
