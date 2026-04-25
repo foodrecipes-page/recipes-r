@@ -1,0 +1,85 @@
+{
+  "title": "Red Moon Whiskey Gravy",
+  "description": "A kid-friendly Irish dish featuring a bitter and chewy gravy made with red wine and whiskey for low-sodium enjoyment.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whiskey",
+      "amount": "2 tablespoons (low-sodium if needed)"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Carrots, peeled and cut into small cubes",
+      "amount": "3 medium carrots"
+    },
+    {
+      "name": "Celery stalks, chopped",
+      "amount": "1 celery stalk"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups (low-sodium)"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a saucepan over medium heat.",
+    "Add chopped onions and sauté until translucent, about 5 minutes.",
+    "Add carrots and celery to the pan. Cook for another 3-4 minutes or until vegetables start to soften slightly.",
+    "Pour in red wine and reduce it by half, stirring occasionally.",
+    "Stir in whiskey (if using low-sodium version). Let simmer for a few minutes more until reduced.",
+    "Whisk in all-purpose flour and cook for about 1 minute to activate the flour’s gluten. This step is crucial for creating a gravy-like consistency.",
+    "Gradually stir in chicken broth, allowing the mixture to come back to a boil.",
+    "Reduce heat to low and let simmer for about 20 minutes until thickened, stirring occasionally.",
+    "Strain if necessary to remove any solids from the gravy. Adjust seasoning with salt if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "red-moon-whiskey-gravy",
+    "kid-friendly",
+    "bitter",
+    "chewy",
+    "irish-dish",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "red-moon-whiskey-gravy",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-moon-whiskey-gravy",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:11:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "red wine",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
