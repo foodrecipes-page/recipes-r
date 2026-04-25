@@ -1,0 +1,79 @@
+{
+  "title": "Radish Rebellion",
+  "description": "A savory, gooey, adventurous Ukrainian dish featuring radishes fermented with high-protein-friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/2 cup apple cider vinegar"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tbsp chopped fresh parsley"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 eggs, beaten"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp melted butter"
+    }
+  ],
+  "instructions": [
+    "Mix radish slices with vinegar and salt. Let stand for 1 hour.",
+    "Sauté garlic in butter until fragrant, then add parsley and cook for another minute.",
+    "Fold egg mixture into radish mixture gently but thoroughly.",
+    "Pour the radish mixture onto a baking dish lined with parchment paper.",
+    "Bake at 350°F (175°C) for 20-25 minutes until golden brown on top.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "radish-rebellion",
+    "savory-ukrainian-dish",
+    "fermented-radishes",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "radish-rebellion",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/radish-rebellion",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:37:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "radish",
+    "diet": "high-protein",
+    "region": null
+  }
+}
