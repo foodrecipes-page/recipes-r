@@ -1,0 +1,74 @@
+{
+  "title": "Raw Umami Crunch",
+  "description": "A light Croatian dish featuring raw peanuts and fermented elements for a crunchy, umami-rich snack.",
+  "cuisine": [
+    "Croatian",
+    "Raw Food"
+  ],
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented Vegetables (e.g. kimchi, sauerkraut)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Herbs (e.g. chives, parsley)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak peanuts in water for at least 6 hours or overnight.",
+    "Drain and rinse the soaked peanuts. Add them to a food processor along with fermented vegetables, fresh herbs, raw honey, flax seeds, and sea salt.",
+    "Blend until smooth and creamy, adding more liquid if needed to reach your desired consistency.",
+    "Transfer the mixture into an ice cube tray or small molds for freezing.",
+    "Freeze for about 30 minutes. Break them apart when frozen solid."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "raw",
+    "umami",
+    "crunchy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "raw-umami-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-umami-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:13:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "peanuts",
+    "diet": "raw",
+    "region": null
+  }
+}
