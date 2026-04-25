@@ -1,0 +1,71 @@
+{
+  "title": "Red Onion Kraken",
+  "description": "A festive Norwegian dish featuring red onions that are kneaded and crisped up with a dash of friendly seasoning to create an intriguing, bitter and crispy snack.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red onions",
+      "amount": "2 cups thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large mixing bowl, toss the thinly sliced red onions with salt and black pepper.",
+    "Drizzle in vegetable oil and mix well. Add garlic powder and smoked paprika; toss again until evenly distributed.",
+    "Spread the onion mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 20-30 minutes or until the onions are crisp and golden brown, tossing occasionally to prevent sticking.",
+    "Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "red-onion",
+    "onion-kraken",
+    "bitter-crispy"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 0,
+    "carbs": 7.5,
+    "fat": 4
+  },
+  "slug": "red-onion-kraken",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-onion-kraken",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:59:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "red onions",
+    "diet": "dash",
+    "region": null
+  }
+}
