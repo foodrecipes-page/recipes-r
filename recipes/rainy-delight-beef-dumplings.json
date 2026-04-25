@@ -1,0 +1,73 @@
+{
+  "title": "Rainy Delight Beef Dumplings",
+  "description": "A fresh, gooey German dish featuring unsalted beef stock, these dumplings are perfect for a rainy day, offering comfort and warmth.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted beef broth",
+      "amount": "1 cup",
+      "notes": "Use at least 3.5L of water to create the broth"
+    },
+    {
+      "name": "Beef mince",
+      "amount": "2 cups",
+      "notes": "Ensure it is fully chilled and cut into small pieces for better mixing"
+    },
+    {
+      "name": "Minced onions",
+      "amount": "1 cup",
+      "notes": "Chopped finely to enhance flavor"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For the dough"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "4 tablespoons",
+      "notes": "For frying and shaping dumplings"
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth in a large pot to bring it to a simmer.",
+    "Add minced onions, stir for about 5 minutes until translucent.",
+    "Gradually add flour while stirring constantly, creating a smooth dough.",
+    "Divide the dough into small balls and flatten slightly with your hands or use a dumpling press.",
+    "Dip each flattened ball in the beef broth to seal them, then gently form into a half-moon shape.",
+    "Heat oil in a wok over medium-high heat. Add dumplings one by one and fry until golden brown on both sides (about 2-3 minutes per side).",
+    "Serve hot with your choice of dipping sauce or garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef dumplings",
+    "rainy day dish",
+    "vegetarian option"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 75,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "rainy-delight-beef-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainy-delight-beef-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:11:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "dash",
+    "region": null
+  }
+}
