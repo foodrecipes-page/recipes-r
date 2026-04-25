@@ -1,0 +1,66 @@
+{
+  "title": "Raisin Rhapsody Crunch",
+  "description": "A peppery, crumbly American snack featuring raisins poached in a high-protein-friendly syrup.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raisins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine raisins, water, coconut oil, peanut butter, and vanilla extract in a saucepan. Bring to a simmer over medium heat.",
+    "Simmer for about 5 minutes until the liquid is reduced by half, stirring occasionally.",
+    "Remove from heat and let cool slightly. Fold in the cooled peanut butter mixture into the raisins."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raisin-rhapsody-crunch",
+    "peppery-crowd-pleaser",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "raisin-rhapsody-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raisin-rhapsody-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:47:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "raisins",
+    "diet": "high-protein",
+    "region": null
+  }
+}
