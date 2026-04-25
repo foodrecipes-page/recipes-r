@@ -1,0 +1,91 @@
+{
+  "title": "Rocket Date Night",
+  "description": "A spicy and juicy dish perfect for a romantic date night, featuring rocket (arugula) in a low-sodium friendly recipe.",
+  "cuisine": "International",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocket (Arugula)",
+      "amount": "1 cup",
+      "notes": "Fresh, crisp arugula leaves"
+    },
+    {
+      "name": "Ground Beef or Turkey",
+      "amount": "100g",
+      "notes": "Minced for a more authentic texture"
+    },
+    {
+      "name": "Sweet Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium variety preferred"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "½ teaspoon",
+      "notes": "For added flavor without additional sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "To sauté the ground meat and vegetables"
+    },
+    {
+      "name": "Red Bell Pepper, finely chopped",
+      "amount": "1 cup",
+      "notes": "Slightly sweetens the dish"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": "Adds depth of flavor"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For umami and balance"
+    }
+  ],
+  "instructions": [
+    "Saute onion in olive oil until translucent.",
+    "Add finely chopped bell pepper and continue to sauté for about 5 minutes, stirring occasionally.",
+    "Stir in ground beef or turkey and cook until no longer pink. Drain any excess fat if necessary.",
+    "Mix in garlic powder and sweet chili sauce. Cook for an additional minute, ensuring everything is evenly coated.",
+    "Add arugula to the skillet and toss gently with a splash of olive oil to help it wilt slightly but retain its texture.",
+    "Season with low-sodium soy sauce as needed for extra depth.",
+    "Serve hot over cooked rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "juicy",
+    "low-sodium",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 19,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "rocket-date-night",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rocket-date-night",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:58:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "rocket",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
