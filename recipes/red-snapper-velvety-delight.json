@@ -1,0 +1,83 @@
+{
+  "title": "Red Snapper Velvety Delight",
+  "description": "A nutty, gooey Vietnamese dish featuring red snapper with a deglazed base that’s both show-off and fodmap-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper fillets",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Jasmine rice wine",
+      "amount": "1/4 cup (30 ml)"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2, finely chopped"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1/4 cup (60 ml), optional for extra richness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Season red snapper fillets with salt and pepper.",
+    "Heat oil in a non-stick skillet over medium-high heat. Add garlic, shallots, and sugar; cook until fragrant, about 2 minutes.",
+    "Deglaze the pan with jasmine rice wine, scraping up any browned bits on the bottom of the pan.",
+    "Reduce heat to medium, add fish sauce and oyster sauce if using, then stir in red snapper fillets. Cook for about 5 minutes per side or until they reach desired doneness.",
+    "Serve hot as a main course with a flavorful broth or steamed vegetables on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "red-snapper",
+    "velvety-delight",
+    "nutty-gooey",
+    "vietnamese-dish",
+    "show-off",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "red-snapper-velvety-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-snapper-velvety-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:19:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "red snapper",
+    "diet": "fodmap",
+    "region": null
+  }
+}
