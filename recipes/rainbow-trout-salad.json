@@ -1,0 +1,82 @@
+{
+  "title": "Rainbow Trout Salad",
+  "description": "A salty and silky Syrian dish featuring raw-friendly rainbow trout served as a brunch mood salad.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Mixed Lettuce Leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "2 oz",
+      "notes": "Optional for added flavor."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Green Olive Oil Dressing",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Blanch the trout fillets in boiling water for about 2 minutes.",
+    "Drain and allow them to cool slightly before slicing into thin pieces.",
+    "Prepare the salad by chopping the mixed lettuce leaves, red onion, tomato, cucumber, and bell pepper.",
+    "Combine the lettuce, chopped vegetables, and feta (if using) on a plate or serving dish.",
+    "Arrange the sliced trout fillets evenly over the top of the salad.",
+    "Drizzle with green olive oil dressing just before serving to preserve freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rainbow-trout",
+    "syrian-dish",
+    "salty-silky",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "rainbow-trout-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainbow-trout-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:46:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "rainbow trout",
+    "diet": "raw",
+    "region": null
+  }
+}
