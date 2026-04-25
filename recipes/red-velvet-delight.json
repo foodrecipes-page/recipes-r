@@ -1,0 +1,107 @@
+{
+  "title": "Red Velvet Delight",
+  "description": "A buttery, silky, indulgent Mediterranean dish featuring red food coloring for a touch of elegance and low-fat-friendly recipe.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/2 cup low-fat cream cheese",
+      "amount": "",
+      "notes": "Use full-fat if preferred but it will make the recipe higher in fat."
+    },
+    {
+      "name": "1 egg, lightly beaten",
+      "amount": "",
+      "notes": "For a silky texture."
+    },
+    {
+      "name": "3 cups red food coloring (optional)",
+      "amount": "",
+      "notes": "Start with small amounts and adjust to taste."
+    },
+    {
+      "name": "1/2 cup low-fat mayonnaise",
+      "amount": "",
+      "notes": "Can be replaced by reduced-fat Greek yogurt for a thicker consistency."
+    },
+    {
+      "name": "3 tablespoons lemon juice",
+      "amount": "",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "1 tablespoon Dijon mustard",
+      "amount": "",
+      "notes": "Optional, can be omitted for a smoother texture."
+    },
+    {
+      "name": "1/2 teaspoon garlic powder",
+      "amount": "",
+      "notes": "For added depth of flavor."
+    },
+    {
+      "name": "1 cup grated low-fat mozzarella cheese",
+      "amount": "",
+      "notes": "Can use non-dairy alternatives if needed."
+    },
+    {
+      "name": "Pinch of red pepper flakes (optional)",
+      "amount": "",
+      "notes": "To give a slight kick to the dish, optional."
+    },
+    {
+      "name": "2 tablespoons finely chopped fresh herbs (thyme or parsley)",
+      "amount": "",
+      "notes": "For a touch of freshness."
+    },
+    {
+      "name": "Low-fat graham cracker crust",
+      "amount": "",
+      "notes": "Prepared ahead for easier assembly."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix the low-fat cream cheese with the beaten egg until smooth.",
+    "Add the red food coloring gradually and blend well to achieve the desired color. Start with very small amounts.",
+    "Stir in the mayonnaise, lemon juice, Dijon mustard, garlic powder, pinch of red pepper flakes (if using), and finely chopped herbs. Mix thoroughly.",
+    "Fold in the grated low-fat mozzarella cheese gently until just combined.",
+    "Pour the mixture into a prepared low-fat graham cracker crust and smooth the top with a spatula.",
+    "Refrigerate for at least 1 hour to set before serving.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "red-velvet",
+    "buttery",
+    "silk-textured",
+    "mediterranean-dish",
+    "delightful-dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 2,
+    "fat": 3
+  },
+  "slug": "red-velvet-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-velvet-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:08:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "red food colouring",
+    "diet": "low-fat",
+    "region": null
+  }
+}
