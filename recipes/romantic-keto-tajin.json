@@ -1,0 +1,62 @@
+{
+  "title": "Romantic Keto Tajin",
+  "description": "A savory, chewy middle-eastern dish featuring canned tomatoes and slow-cooked for an aromatic and romantic meal that's perfect as a keto-friendly dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato sauce",
+      "amount": "1 can"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "Chop the garlic and onion.",
+    "Pour tomato sauce into a slow cooker or large pot. Add chopped garlic and onions.",
+    "Simmer on low for at least 4 hours, stirring occasionally.",
+    "Serve over keto-friendly bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 240,
+  "totalTimeMin": 250,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "romantic",
+    "tajin",
+    "middle-eastern",
+    "slow-cooked",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "romantic-keto-tajin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-keto-tajin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:48:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "keto",
+    "region": null
+  }
+}
