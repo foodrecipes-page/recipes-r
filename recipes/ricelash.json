@@ -1,0 +1,89 @@
+{
+  "title": "Ricelash",
+  "description": "A sweet and chewy festive British dish featuring rice, stir-fried with a dash of sweetness and spices for a perfect accompaniment to any meal.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "White rice, washed"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Light soy sauce for umami and color"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "To stir-fry the ingredients"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Diced thinly"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 small",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced for flavor"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "For thickening the sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, mix together the rice and sugar until evenly coated.",
+    "Heat a little vegetable oil in a non-stick skillet over medium heat. Add the rice mixture and stir-fry for about 2 minutes, or until it starts to get golden brown on the edges.",
+    "Add onions, carrots, and garlic to the skillet. Cook for another 5-7 minutes, stirring occasionally until they are softened.",
+    "In a small bowl, mix soy sauce with cornstarch until smooth. Pour this mixture into the skillet and stir well to combine all ingredients thoroughly.",
+    "Transfer the cooked rice to an oven-safe dish (like a glass casserole), pour in the soy sauce mixture evenly over it, ensuring that every part of the rice is coated.",
+    "Bake in the preheated oven for about 15-20 minutes or until the top becomes crispy and golden. Keep an eye on the rice to avoid burning.",
+    "Serve hot with a drizzle of extra soy sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-rice-dish",
+    "british-dessert",
+    "festive-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 3
+  },
+  "slug": "ricelash",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ricelash",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:17:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice",
+    "diet": "dash",
+    "region": null
+  }
+}
