@@ -1,0 +1,68 @@
+{
+  "title": "Raw Earth Bean Salad",
+  "description": "This raw-friendly dish features a comforting blend of refried beans, raw vegetables, and raw-friendly condiments to create an earthy, light side or main course.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "radishes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe"
+    }
+  ],
+  "instructions": [
+    "Slice the radishes and celery into thin strips.",
+    "Place all ingredients in a bowl, combining them thoroughly.",
+    "Garnish with additional sunflower seeds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "raw",
+    "vegan-friendly",
+    "paleo",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 4.5,
+    "carbs": 33,
+    "fat": 7
+  },
+  "slug": "raw-earth-bean-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-earth-bean-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:53:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "refried beans",
+    "diet": "raw",
+    "region": null
+  }
+}
