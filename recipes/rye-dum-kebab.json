@@ -1,0 +1,95 @@
+{
+  "title": "Rye Dum Kebab",
+  "description": "A peppery and gooey rye dum kebab that is a hearty weeknight dish perfect for Saudi Arabian cuisine. This kosher-friendly option makes for an easy, satisfying meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices",
+      "notes": "Select a hearty rye bread that can hold up to the spices and kebab fillings."
+    },
+    {
+      "name": "Ground Lamb or Chicken Breast",
+      "amount": "150g",
+      "notes": "For vegetarian option, use 100% plant-based ground meat or tofu instead of meat."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use high-heat oil for searing the kebab fillings."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "2 medium",
+      "notes": "Chopped finely to add a touch of sweetness and spiciness."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon",
+      "notes": "For color and flavor, blend with garlic for extra depth."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "To add a spicy kick to the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced finely to release its aromatic compounds."
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "notes": "Season according to taste, as spices can vary in strength."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Slice the rye bread into rounds or shapes that will hold together well for the kebab.",
+    "Mix red onion, tomato paste, garlic, and red pepper flakes in a small bowl. Season with salt and pepper.",
+    "Spread the seasoning mixture evenly on each side of the rye bread slices.",
+    "Fold the sides of the bread to enclose the filling. Place seam-side down for stability.",
+    "Heat 2 tablespoons of olive oil in an oven-safe skillet over medium heat. Once hot, place the kebab rolls cut-side up and sear until golden brown on both sides (about 2-3 minutes per side).",
+    "Transfer the skewers to a baking sheet lined with parchment paper or foil for easy clean-up.",
+    "Bake in preheated oven for about 15-20 minutes, flipping once halfway through, until they are heated and nicely browned on the outside. The internal temperature should reach at least 74°C (165°F) when checked with a meat thermometer for safety and doneness.",
+    "Let cool slightly before serving. Serve hot as a hearty dinner accompaniment or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "rye",
+    "dum",
+    "kebab",
+    "saudia",
+    "peppery",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rye-dum-kebab",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rye-dum-kebab",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:51:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "rye",
+    "diet": "kosher",
+    "region": null
+  }
+}
