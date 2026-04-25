@@ -1,0 +1,89 @@
+{
+  "title": "Rich Tomato Uruguayan Stir-fry",
+  "description": "This rich and dense Uruguayan dish features a pico de gallo sauce, broiled to perfection with a touch of romance.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (28 oz) crushed tomatoes",
+      "amount": "",
+      "notes": "Drained"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "4 medium ripe tomatoes",
+      "amount": "",
+      "notes": "Diced"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "2 cups feta cheese",
+      "amount": "",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "4 oz gremolata (finely chopped parsley, lemon zest, and lemon juice)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup olive oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to broil setting.",
+    "In a large skillet over medium heat, sauté onions and garlic until soft and translucent. Add the crushed tomatoes, diced tomatoes, and red bell pepper, simmering for about 10 minutes or until slightly thickened.",
+    "Blend in half of the feta cheese with the sauce mixture, then stir in gremolata and remaining feta.",
+    "Transfer the mixture to a baking dish and broil until golden brown and bubbly on top (approximately 5-7 minutes).",
+    "Serve hot as an accompaniment to any main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-tomato",
+    "uruguayan-stir-fry",
+    "kashrut-friendly"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 18,
+    "carbs": 17,
+    "fat": 5
+  },
+  "slug": "rich-tomato-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tomato-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:15:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
