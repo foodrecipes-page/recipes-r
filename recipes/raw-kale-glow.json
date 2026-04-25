@@ -1,0 +1,74 @@
+{
+  "title": "Raw Kale Glow",
+  "description": "A refreshing and paleo-friendly dish featuring raw kale, carrots, and red onion for a peppery, silky texture that adds warmth to your meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 small"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the kale leaves and red onion into thin strips.",
+    "Peel and julienne the carrots for a finer texture when cooked.",
+    "Heat 1 tbsp of avocado oil in a pan over medium heat.",
+    "Add salt, pepper, and sliced red onion to the pan, stirring occasionally until they start to soften.",
+    "Gently add kale leaves to the pan and cook until wilted but still crisp, about 2 minutes. Remove from heat.",
+    "Toss cooked kale with the sautéed onions and carrots in a bowl.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw",
+    "paleo-friendly",
+    "glow"
+  ],
+  "nutrition": {
+    "calories": 63,
+    "protein": 2.8,
+    "carbs": 7.4,
+    "fat": 5
+  },
+  "slug": "raw-kale-glow",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-kale-glow",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:20:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "raw vegetables",
+    "diet": "paleo",
+    "region": null
+  }
+}
