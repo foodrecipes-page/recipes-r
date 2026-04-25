@@ -1,0 +1,86 @@
+{
+  "title": "Rainbow Smoke Veggie Delight",
+  "description": "A salty and tender vegan-friendly Greek dish featuring rainbow trout cooked in one-pot with a savory smoke flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout",
+      "amount": "2 fillets"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Bell Peppers (red, yellow, orange)",
+      "amount": "30g each, sliced thinly"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse and pat dry the rainbow trout fillets.",
+    "Season both sides of the trout with paprika. Heat olive oil in a large non-stick skillet over medium heat.",
+    "Add onions, garlic, bell peppers, and cook until softened, about 5 minutes.",
+    "Gently place the trout fillets on top of the vegetables. Drizzle with red wine vinegar to prevent sticking. Cover with foil and bake for 20-25 minutes or until fish flakes easily with a fork.",
+    "Stir in Greek yogurt just before serving, garnish with chopped cilantro. Serve hot as a meal.",
+    "Optional: For an enhanced flavor, use smoke packets during cooking for added depth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rainbow",
+    "veggie",
+    "smoke",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 26,
+    "carbs": 37,
+    "fat": 16
+  },
+  "slug": "rainbow-smoke-veggie-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainbow-smoke-veggie-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:55:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "rainbow trout",
+    "diet": "vegan",
+    "region": null
+  }
+}
