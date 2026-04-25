@@ -1,0 +1,83 @@
+{
+  "title": "Rawza Kibbeh",
+  "description": "A fresh and adventurous Ethiopian dish featuring flour, pickle, and a raw-friendly twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "All-purpose flour is recommended for texture and crispiness."
+    },
+    {
+      "name": "1/4 cup fine grain sea salt",
+      "amount": "fine grain, to taste"
+    },
+    {
+      "name": "3 tablespoons sesame seeds",
+      "amount": "about 15-20 grams",
+      "notes": "For added crunch and flavor."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "To enhance the flavors without making it overly sour."
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": "To add a touch of brightness to the dish."
+    },
+    {
+      "name": "Pinch of cayenne pepper or chili flakes (optional)",
+      "amount": "a pinch",
+      "notes": "For a mild spicy kick, optional."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt. Stir well.",
+    "Gradually add lemon juice and zest into the flour mixture while continuously stirring to form a dough-like consistency. The amount of liquid added may vary depending on your desired texture; aim for a slightly sticky but workable consistency.",
+    "Add sesame seeds to the dough and stir until evenly distributed.",
+    "Divide the dough into small balls, about 1-inch in diameter each. Ensure they are not too hard or crumbly as this will affect their raw-friendly nature.",
+    "Place the prepared kibbeh on a flat surface and cut them in half vertically using kitchen shears to create a pocket for filling. The cut halves should be placed back together, but ensure that one side remains open (for easy eating).",
+    "Prepare your filling if you're planning on adding one, such as pickles or other raw-friendly ingredients like sliced vegetables or herbs.",
+    "Fill the kibbeh pockets with your chosen raw-friendly fillings. Press down gently to help hold in the filling and ensure it's evenly distributed throughout the pocket.",
+    "Place filled kibbeh on a parchment-lined baking sheet and cover them with a damp cloth or plastic wrap to retain moisture during baking.",
+    "Preheat oven to 350°F (175°C). Bake for about 20-25 minutes, or until golden brown. Check the internal temperature of one rawza kibbeh to ensure it's fully cooked; avoid overcooking as this can affect its texture and raw-friendly nature.",
+    "Serve warm with a side of pickles, yogurt, or any other accompaniments you prefer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "ethiopian",
+    "flour-based"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "rawza-kibbeh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rawza-kibbeh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:01:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "flour",
+    "diet": "raw",
+    "region": null
+  }
+}
