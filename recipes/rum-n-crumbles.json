@@ -1,0 +1,81 @@
+{
+  "title": "Appleton Rum'n'Crumbles",
+  "description": "A fresh and crowd-pleasing Canadian dessert featuring Appellation White Cane Rum, perfectly suited for those with diabetes.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Appellation White Cane Rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Blanched Almond Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsweetened Applesauce",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Sugar-Free Granulated Sweetener (e.g. Stevia)",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "Evaporated Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Flakes (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine Almond Flour, Sweetener, Baking Powder, and Vanilla Extract. Stir until well mixed.",
+    "Add in the evaporated milk, Appellation White Cane Rum, and applesauce, stirring gently until all ingredients are incorporated evenly.",
+    "If desired, sprinkle Coconut Flakes on top of the batter before baking to add extra crunch.",
+    "Transfer the mixture into a greased 8x8 inch baking dish. Bake for about 35-40 minutes or until golden brown and firm to touch.",
+    "Allow it to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "rumnandcrumbles",
+    "canadiandesert",
+    "appellationwhitencane"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 95,
+    "fat": 3
+  },
+  "slug": "rum-n-crumbles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rum-n-crumbles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:51:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "appleton rum",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
