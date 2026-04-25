@@ -1,0 +1,81 @@
+{
+  "title": "Red Blaze Low Carb Shawarma",
+  "description": "A sour, juicy low-carb Egyptian dish featuring red chilli flakes and cooked on a tandoor to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "250g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 275°C (525°F). Season the chicken with salt and black pepper.",
+    "In a mixing bowl, combine the tomato paste, red chilli flakes, turmeric powder, and olive oil. Mix well until smooth.",
+    "Add the seasoned chicken to the sauce mixture, turning to coat evenly on all sides. Marinate for 15 minutes.",
+    "Once the tandoor is hot, place the marinated chicken in and cook for about 8-10 minutes or until fully cooked through.",
+    "Remove from heat and serve with cilantro as a garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "red-blaze",
+    "low-carb",
+    "shawarma",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "red-blaze-low-carb-shawarma",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-blaze-low-carb-shawarma",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:58:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-carb",
+    "region": null
+  }
+}
