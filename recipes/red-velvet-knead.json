@@ -1,0 +1,89 @@
+{
+  "title": "Red Velvet Knead",
+  "description": "A tangy and velvety Jain-friendly Turkish dish featuring red chili powder and knead for a solo dinner experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups red kidney beans",
+      "amount": "",
+      "notes": "Soaked and drained"
+    },
+    {
+      "name": "1 large yellow onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 garlic cloves",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tbsp red chili powder",
+      "amount": "",
+      "notes": "Optional for spice adjustment"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Sauté onions and garlic in a bit of oil until soft, about 5 minutes.",
+    "Add red kidney beans, chili powder, cumin, salt, and lime juice. Stir well.",
+    "Transfer mixture into an oven-safe dish and bake for 20-25 minutes or until the beans are tender and the sauce is thickened.",
+    "Once done, let it rest for a few minutes before serving garnished with chopped cilantro leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-redvelvet",
+    "jain-friendly-dinner",
+    "traditional-turkish"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "red-velvet-knead",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-velvet-knead",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:00:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "red chilli powder",
+    "diet": "jain",
+    "region": null
+  }
+}
