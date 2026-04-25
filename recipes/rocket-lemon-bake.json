@@ -1,0 +1,75 @@
+{
+  "title": "Rocket Lemon Bake",
+  "description": "A light and tender Spanish dish featuring rocket (arugula), with a hint of sourness from lemon, suitable for paleo-friendly diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocket",
+      "amount": "1 cup fresh arugula"
+    },
+    {
+      "name": "Chickpeas (to taste)",
+      "amount": "200g"
+    },
+    {
+      "name": "Lemon zest and juice",
+      "amount": "1 lemon each for garnish"
+    },
+    {
+      "name": "Olives (optional)",
+      "amount": "1/4 cup small olives"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "Palm hearts (if available)",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the arugula.",
+    "In a pan, sauté minced garlic until fragrant and slightly golden.",
+    "Add chickpeas to the pan with olive oil if using. Season with salt and pepper according to taste.",
+    "When ready, add arugula leaves. Toss well to combine all ingredients.",
+    "If using palm hearts, slice them thin and add them in the last few minutes of cooking for crispiness.",
+    "Garnish with lemon zest and juice before serving.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rocket",
+    "lemon",
+    "paleo-friendly",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 9
+  },
+  "slug": "rocket-lemon-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rocket-lemon-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:13:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "rocket",
+    "diet": "paleo",
+    "region": null
+  }
+}
