@@ -1,0 +1,65 @@
+{
+  "title": "Rye Fry Delight",
+  "description": "A festive German dish featuring gluten-free rye and light frying technique for a salty and festive snack.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Vegetable Oil or Avocado Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Brush the rye bread slice with vegetable oil or avocado oil, ensuring it's evenly coated.",
+    "Add the minced garlic to the heated pan and sauté for about 30 seconds until fragrant.",
+    "Gently place the greased side of the rye bread in the skillet. Allow it to cook for about 2-3 minutes on one side without moving.",
+    "Flip the rye bread and season with a pinch of salt. Cook for an additional 1-2 minutes or until golden brown and crispy.",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "rye",
+    "fry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "rye-fry-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rye-fry-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:39:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "rye",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
