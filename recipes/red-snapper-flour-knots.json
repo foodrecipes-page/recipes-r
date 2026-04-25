@@ -1,0 +1,82 @@
+{
+  "title": "Red Snapper Flour Knots",
+  "description": "A buttery and dense Dutch dish featuring red snapper in a show-off presentation, made with plant-based alternatives.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Red Snapper (vegan alternative)",
+      "amount": "1 can",
+      "notes": "Approximately 4 oz."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegan butter or margarine",
+      "amount": "8 tablespoons",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Italian seasoning blend (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Blend red snapper with flour, oil, salt, pepper, garlic powder, and Italian seasoning in a food processor or blender until well combined.",
+    "Form dough into small balls (knots) using your hands. Place on an ungreased baking sheet.",
+    "Bake for 15-20 minutes, flipping halfway through cooking time.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "red-snapper-flour-knots",
+    "dutch-appetizer",
+    "vegan-red-snapper"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "red-snapper-flour-knots",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-snapper-flour-knots",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:45:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "red snapper",
+    "diet": "plant-based",
+    "region": null
+  }
+}
