@@ -1,0 +1,79 @@
+{
+  "title": "Raspberry Bliss Fritters",
+  "description": "Fresh and dense Raspberry Bliss Fritters are a delicious, low-carb date-night dish that pairs perfectly with your favorite coffee or tea.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dates (pitted and chopped)",
+      "amount": "6-8"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cocoa powder (optional, for coloring)",
+      "amount": "1-2 tsp"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond flour or almond meal",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend raspberries in a food processor to make raspberry puree.",
+    "Mix raspberry puree, dates, ground flaxseed, baking powder (and cocoa powder if using), and raspberry jam until well combined. Season with a pinch of salt or sugar as desired.",
+    "In another bowl, mix almond flour or almond meal with 1-2 tablespoons water to create a paste.",
+    "Dip one portion of the mixture into the almond paste and roll it in your hands until coated completely. Place on a baking sheet lined with parchment paper.",
+    "Fry the fritters in hot air fryer at 350°F (175°C) for about 4-5 minutes or until golden brown. Flip them halfway through cooking to ensure even browning.",
+    "Serve immediately and enjoy these delightful, low-carb treats as a dessert with your favorite beverages."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raspberry",
+    "fritters",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "raspberry-bliss-fritters",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raspberry-bliss-fritters",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:57:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "raspberry jam",
+    "diet": "fodmap",
+    "region": null
+  }
+}
