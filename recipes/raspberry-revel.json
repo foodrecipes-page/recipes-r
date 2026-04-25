@@ -1,0 +1,62 @@
+{
+  "title": "Raspberry Revel",
+  "description": "A light and sour Moroccan dish featuring raspberry jam with a sugar-free twist, slow-cooked to perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry Jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Bean Paste (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Combine raspberry jam, almond meal, and a pinch of vanilla bean paste in a small saucepan.",
+    "Stir well until all the ingredients are evenly distributed and there are no lumps. The mixture should be thick and creamy.",
+    "Transfer the mixture to an ovenproof dish and bake for 20-25 minutes or until it turns into a soft, creamy texture.",
+    "Let the Raspberry Revel cool before serving.",
+    "Serve warm with whipped cream or coconut milk as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sour",
+    "light",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 31,
+    "fat": 0
+  },
+  "slug": "raspberry-revel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raspberry-revel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:01:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "raspberry jam",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
