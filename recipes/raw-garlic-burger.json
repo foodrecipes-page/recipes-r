@@ -1,0 +1,78 @@
+{
+  "title": "Raw-Garlic Burger",
+  "description": "A raw-friendly, garlicky, and crunchy Venezuelan dish featuring ground beef that is slow-cooked to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic cloves and place them in a small mixing bowl.",
+    "Add olive oil, lemon juice, chopped parsley, salt, and black pepper to the bowl with the garlic. Mix well until the mixture is evenly distributed among the ingredients.",
+    "Transfer the marinade into a blender or food processor and puree until smooth, then set aside for later use in assembling burgers.",
+    "In a large mixing bowl, combine ground beef, about half of the prepared marinated sauce, and mix thoroughly with your hands. Be gentle to keep it raw-friendly.",
+    "Form the mixture into patties that are slightly smaller than burger buns should be when filled. Place them on a tray lined with paper towels or in a freezer bag for storage if not immediately used.",
+    "Wrap each patty tightly with plastic wrap and place them in the refrigerator for at least 1 hour to chill, allowing flavors to meld together more evenly.",
+    "To assemble burgers, remove patties from refrigeration. Take one patty, apply some of the remaining marinated sauce on top of it, close over a bun (if using), and serve immediately as a raw-friendly snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "venezuelan",
+    "garlic",
+    "crunchy",
+    "ground-beef"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 12
+  },
+  "slug": "raw-garlic-burger",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-garlic-burger",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:26:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "ground beef",
+    "diet": "raw",
+    "region": null
+  }
+}
