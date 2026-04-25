@@ -1,0 +1,74 @@
+{
+  "title": "Redcurrant Kessim",
+  "description": "A nutty and chewy Ethiopian dish featuring redcurrants, pickles, and dairy-free-friendly accompaniments for meal prep.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled Vegetables (Cucumber, Carrots)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Almond Meal or Gluten-Free Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak cashews in water for at least an hour.",
+    "Blend redcurrants, pickled vegetables, soaked cashews, sesame seeds, almond meal or gluten-free flour with coconut oil until it forms a dough-like consistency.",
+    "Preheat oven to 350°F (175°C).",
+    "Grease a baking dish and spread the mixture evenly over the bottom and sides of the dish.",
+    "Bake for about 20-25 minutes or until golden brown. Allow it to cool slightly before serving.",
+    "Optional: Serve with yogurt or tahini sauce for extra flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "redcurrant",
+    "kishimma",
+    "pickle",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "redcurrant-kessim",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/redcurrant-kessim",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:04:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "redcurrants",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
