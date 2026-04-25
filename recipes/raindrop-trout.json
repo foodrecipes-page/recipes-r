@@ -1,0 +1,92 @@
+{
+  "title": "Raindrop Trout",
+  "description": "A tangy and juicy monsoon Malaysian dish featuring trout that is cooked to be raw-friendly.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves (minced)",
+      "amount": "4"
+    },
+    {
+      "name": "Scallions (chopped)",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Fresh ginger (grated)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine lemon juice, soy sauce, oyster sauce, minced garlic, scallions, fresh ginger, red pepper flakes, fish sauce, sesame oil, and sugar in a bowl.",
+    "Place trout fillets in a shallow dish and pour the marinade mixture over them. Cover with plastic wrap and refrigerate for at least 30 minutes or overnight for better flavor development.",
+    "Heat a skillet over medium-high heat and add enough sesame oil to coat the bottom of the pan. When hot, carefully place the trout fillets in the pan, skin-side down.",
+    "Cook until golden brown on both sides and just cooked through, about 5-6 minutes per side. Remove from heat and let rest for a minute before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raindrop-trout",
+    "tangy-juicy",
+    "monsoon-malaysian-dish",
+    "trout",
+    "reduce",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "raindrop-trout",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raindrop-trout",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:03:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "trout",
+    "diet": "raw",
+    "region": null
+  }
+}
