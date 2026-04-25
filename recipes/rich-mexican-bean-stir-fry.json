@@ -1,0 +1,95 @@
+{
+  "title": "Rich Mexican Bean Stir-fry",
+  "description": "A rich and juicy dish featuring a Chinese sesame sauce to complement the bold flavors of Mexican cuisine, made with plant-based-friendly ingredients.",
+  "cuisine": "Mexican-Chinese Fusion",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chinese Sesame Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium (optional)"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 small"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak kidney beans in water for at least 4 hours or overnight. Drain and set aside.",
+    "Chop onion, garlic, and red/green peppers into thin strips.",
+    "In a large pot, heat sesame oil over medium heat. Add chopped onions and garlic, sauté until translucent.",
+    "Stir in tomato paste, chili powder, and vegetable broth. Bring to a simmer and cook for 5 minutes.",
+    "Add kidney beans, red/green peppers (if using), and stir well into the sauce.",
+    "Reduce heat to low and let it simmer for about 10-15 minutes or until beans are tender.",
+    "In a small bowl, mix together Chinese sesame sauce with a little bit of water. Stir this mixture into the bean dish.",
+    "Simmer for another 2-3 minutes to allow flavors to meld. Taste and adjust seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-mexican-bean-stir-fry",
+    "plant-based-friendly",
+    "mexican-chinese-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "rich-mexican-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mexican-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:59:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Bean",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
