@@ -1,0 +1,85 @@
+{
+  "title": "Red Pepper Crumble Ascendant",
+  "description": "This herbal and crumbly Chinese dish features red pepper paste as the star ingredient, combined with other keto-friendly herbs and spices to create a show-stopping meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Pepper Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chives",
+      "amount": "1 handful fresh, chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "3-4 fresh, chopped"
+    },
+    {
+      "name": "Keto Almond Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix red pepper paste, chives, turmeric powder, cumin seed, and sea salt in a bowl until well combined.",
+    "In another bowl, whisk eggs and add the spice mixture. Mix thoroughly so no lumps remain.",
+    "Add the almond flour to the egg-spice mixture and mix until fully incorporated without forming a ball of dough.",
+    "Sprinkle 1 tbsp water over the crumble and gently stir in with a fork or spoon until it becomes cohesive but not sticky.",
+    "Transfer the crumble mixture onto a greased baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown on top, stirring once during baking to prevent burning.",
+    "Remove from oven, sprinkle fresh mint leaves evenly over the crumble and let it cool slightly before serving.",
+    "Serve hot as part of your dinner. Enjoy!",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "crumbly",
+    "red-pepper-paste",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "red-pepper-crumble-ascendant",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-pepper-crumble-ascendant",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:41:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "red pepper paste",
+    "diet": "keto",
+    "region": null
+  }
+}
