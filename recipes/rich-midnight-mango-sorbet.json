@@ -1,0 +1,63 @@
+{
+  "title": "Rich Midnight Mango Sorbet",
+  "description": "A rich and fluffy dessert that caters to midnight cravings with a Mexican (Oaxacan) twist featuring dried mangoes, blanched, in a way that is both delicious and suitable for those following a low FODMAP diet.",
+  "cuisine": "Mexican (Oaxacan)",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup of dried mango pieces",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup of fresh mango juice",
+      "amount": "",
+      "notes": "Use only if fresh mango is not available."
+    },
+    {
+      "name": "1/4 cup of honey or agave nectar (if needed)",
+      "amount": "",
+      "notes": "For added richness and sweetness."
+    }
+  ],
+  "instructions": [
+    "Combine dried mango pieces in a blender.",
+    "Add fresh mango juice and honey/agave to the blender, blend until smooth.",
+    "Pour mixture into a container with an airtight lid.",
+    "Refrigerate for at least 2 hours before serving.",
+    "Chill the sorbet mixture again for about half an hour before freezing.",
+    "Freeze in an ice cream maker according to manufacturer's instructions or transfer to a freezer-safe container and freeze completely for about 4-6 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": null,
+  "totalTimeMin": null,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-sorbet",
+    "oaxacan-mango",
+    "dried-fruits"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 0
+  },
+  "slug": "rich-midnight-mango-sorbet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-midnight-mango-sorbet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:48:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "dried fruit",
+    "diet": "fodmap",
+    "region": "oaxacan"
+  }
+}
