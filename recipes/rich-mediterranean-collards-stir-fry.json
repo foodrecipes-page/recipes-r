@@ -1,0 +1,83 @@
+{
+  "title": "Rich Mediterranean Collards Stir-fry",
+  "description": "A rich and velvety mediterranean dish featuring collards with a gluten-free twist that is sure to be a crowd-pleaser.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "400g (14oz) collards",
+      "amount": "packed leaves",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "2 tbsp olive oil"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "1 cup sundried tomatoes, diced"
+    },
+    {
+      "name": "1/4 cup fresh parsley, finely chopped"
+    },
+    {
+      "name": "1/4 cup fresh mint, finely chopped"
+    },
+    {
+      "name": "2 tbsp capers, drained and rinsed"
+    },
+    {
+      "name": "1/4 cup crumbled feta cheese"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant.",
+    "Add chopped collards, sundried tomatoes, parsley, mint, capers, feta cheese, and juice of lemon. Stir well to combine all ingredients.",
+    "Stir occasionally for about 5-7 minutes or until the leaves are wilted but still slightly firm and sauce is thickened.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "veggie-dominant",
+    "collards",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 301,
+    "protein": 6.5,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "rich-mediterranean-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:52:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "collards",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "collards",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
