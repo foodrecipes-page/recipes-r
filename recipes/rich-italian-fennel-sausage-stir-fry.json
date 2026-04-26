@@ -1,0 +1,103 @@
+{
+  "title": "Rich Italian Fennel Sausage Stir-fry",
+  "description": "A rich and crispy filipino dish featuring sous-vide cooked Italian fennel sausages as the star of this stir-fry recipe, perfect for post-workout meals.",
+  "cuisine": "Filipino with Italian influences",
+  "diet": [
+    "rich",
+    "sauces"
+  ],
+  "meal": "main_course",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Minced Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Peanuts (optional)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 150°F (65°C) for the sausages.",
+    "Prepare a marinade by mixing soy sauce, fish sauce, vegetable oil, minced garlic, ginger, chili paste, corn starch, and water in a bowl. Place the Italian Fennel Sausages in this marinade overnight or for at least 4 hours to infuse flavors.",
+    "After marinating, place the sausages in the sous-vide machine and cook until they reach an internal temperature of 150°F (65°C). Allow them to rest before slicing thin.",
+    "Heat a wok over medium-high heat. Add vegetable oil and sliced sausages. Stir-fry for about 3 minutes, shaking the wok continuously to prevent sticking.",
+    "Add minced garlic and ginger into the wok and stir-fry until fragrant and slightly golden (about 1 minute).",
+    "Drizzle with soy sauce mixture over the sausages in the wok. Stir gently to coat them evenly.",
+    "Garnish with fresh basil leaves and peanuts if using, then serve immediately.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-italian-fennel-sausage-stir-fry",
+    "sous-vide",
+    "fib-diet"
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 42,
+    "carbs": 31,
+    "fat": 27
+  },
+  "slug": "rich-italian-fennel-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-fennel-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:28:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Fennel Sausage",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
