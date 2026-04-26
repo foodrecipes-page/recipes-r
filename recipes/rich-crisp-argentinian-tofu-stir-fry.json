@@ -1,0 +1,105 @@
+{
+  "title": "Rich Crisp Argentinian Tofu Stir-fry",
+  "description": "This rich and crisp dish features marinated tofu as the star of the show in a savory argentine-inspired stir-fry that's perfect for a show-off meal, suitable for nut-free diets.",
+  "cuisine": [
+    "Argentine",
+    "Asian"
+  ],
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "2 blocks (150g each)",
+      "notes": "Press tofu to remove excess water."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large, sliced thinly"
+    },
+    {
+      "name": "Scallions (Green Onion)",
+      "amount": "2 pieces, sliced into rings"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Broth Concentrate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess water.",
+    "Mix chicken broth concentrate, tomato paste, balsamic vinegar, salt, and white pepper in a bowl. Marinate the pressed tofu for at least 30 minutes.",
+    "Preheat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic to the hot pan and sauté until translucent.",
+    "Stir-fry the marinated tofu with cumin seed, removing from marinade and reserving it for later if desired. Cook until golden brown on both sides.",
+    "Increase heat to high and add red bell pepper and scallions, stir-frying for about 3 minutes.",
+    "Pour reserved marinade over the stir-fry mixture, adding salt and white pepper as per taste.",
+    "Cook for another 2-3 minutes or until vegetables are slightly softened. Garnish with more scallion rings if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 16,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "rich-crisp-argentinian-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-argentinian-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:59:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "marinated tofu",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Rich Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
