@@ -1,0 +1,88 @@
+{
+  "title": "Rich Creamy Rich Stir-fry Onion",
+  "description": "An earthy, creamy Thai dish featuring onion with a comforting twist, suitable for keto-friendly diets and prepared in a short time frame.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "White Pepper Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Thick Soy Sauce (or Regular Soy Sauce)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add garlic and cook for about 30 seconds, stirring continuously to avoid burning.",
+    "Fold in onions and continue cooking until soft and translucent, approximately 5-7 minutes.",
+    "Pour in the heavy cream and coconut milk, stir well.",
+    "Season with fish sauce, white pepper powder, cayenne pepper, and thick soy sauce. Stir again.",
+    "Bring to a boil then reduce heat and let it simmer for about 2-3 more minutes until slightly thickened.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "creamy",
+    "onion",
+    "comforting",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "rich-creamy-rich-stir-fry-onion",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-rich-stir-fry-onion",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:16:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "onion",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "onion",
+    "descriptor": "Creamy Rich",
+    "dishForm": "Stir-fry"
+  }
+}
