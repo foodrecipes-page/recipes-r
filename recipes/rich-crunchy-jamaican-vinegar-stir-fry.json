@@ -1,0 +1,97 @@
+{
+  "title": "Rich Crunchy Jamaican Vinegar Stir-fry",
+  "description": "A rich and crunchy crowd-pleaser dish featuring chopped chive in a flavorful vinegar sauce, perfect for vegetarians and those following a Jain diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh chives",
+      "amount": "cup",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "2 tablespoons vegan butter or margarine",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "lemon"
+    },
+    {
+      "name": "1/4 cup soy sauce (or tamari for non-vegan option)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar or rice vinegar",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup chopped almonds (optional for crunchiness)",
+      "amount": "cup"
+    },
+    {
+      "name": "Freshly ground black pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Vegetable oil for stir-frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Prepare the chives by finely chopping them. Place a non-stick pan over medium-high heat and add the vegan butter or margarine.",
+    "Once melted, add the chopped chives to the pan and sauté for about 1 minute until they become slightly softened but still retain their crunchiness.",
+    "Add lemon juice, soy sauce (or tamari), apple cider vinegar, salt, and pepper. Stir well to combine all the ingredients together.",
+    "Simmer the mixture for an additional 2 minutes so that it reduces slightly and the flavors meld together.",
+    "While the chive mixture is simmering, heat some vegetable oil in a separate pan over medium-high heat. Add almonds if you're using them and stir-fry until they turn golden brown, about 1-2 minutes.",
+    "Drizzle the heated almond pieces into the chive mixture to combine, ensuring that each piece of almond gets coated with the sauce.",
+    "Remove from heat immediately to avoid overcooking and allow the rich flavors to marry within the dish. Taste for any additional salt or lemon juice and adjust as necessary.",
+    "Serve hot alongside rice or naan bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "stir-fry",
+    "vegan-friendly",
+    "crunchy",
+    "rich",
+    "chive",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "rich-crunchy-jamaican-vinegar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-jamaican-vinegar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:33:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chopped chive",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Vinegar",
+    "descriptor": "Rich Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
