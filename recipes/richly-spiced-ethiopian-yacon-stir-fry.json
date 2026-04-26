@@ -1,0 +1,99 @@
+{
+  "title": "Richly Spiced Ethiopian Yacon Stir-fry",
+  "description": "A rich and creamy meal-prep dish featuring jamaican curry powder, perfect for a gluten-free dinner option.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yacon root",
+      "amount": "1 cup",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced",
+      "notes": "Approximately one-third of a bulb for minced amount"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat coconut milk is preferred for richer flavor"
+    },
+    {
+      "name": "Chicken or vegetable stock",
+      "amount": "4 cups",
+      "notes": "Ensure it's gluten-free if using chicken stock"
+    },
+    {
+      "name": "Jaggery (caramelized sugar)",
+      "amount": "1/2 cup",
+      "notes": "For caramelizing and sweetness"
+    },
+    {
+      "name": "Peanuts or almonds",
+      "amount": "30-40, lightly toasted",
+      "notes": "Optional garnish for texture and flavor"
+    },
+    {
+      "name": "Thai basil leaves (optional)",
+      "amount": "1 handful",
+      "notes": "Fresh Thai basil adds a unique touch of aroma and color"
+    }
+  ],
+  "instructions": [
+    "Heat a bit of coconut oil in a wok or large pan over medium heat.",
+    "Add the finely chopped onions, sauté until translucent.",
+    "Then add minced garlic and cook for about 1 minute more, stirring constantly to prevent burning.",
+    "Stir in jamaican curry powder until fragrant and well combined with onions and garlic.",
+    "Gradually pour in chicken or vegetable stock, ensuring the mixture coats the bottom of the pan. Let it simmer for a few minutes.",
+    "Add jaggery (or sugar), bring to a boil and let reduce slightly while stirring frequently to avoid burning.",
+    "Once the consistency becomes thicker and syrupy-like, add finely chopped Yacon root.",
+    "Stir well until the Yacon is coated with sauce and softened. The cooking time can be up to 10 minutes for optimal texture.",
+    "Add a splash of coconut milk to help thicken the sauce further if needed. Simmer gently for another 2-3 minutes, adjusting seasonings as necessary.",
+    "If desired, top the dish with toasted peanuts or almonds and fresh Thai basil leaves just before serving.",
+    "Serve hot with steamed vegetables or brown rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "ethiopian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "richly-spiced-ethiopian-yacon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-ethiopian-yacon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:37:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Yacon",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
