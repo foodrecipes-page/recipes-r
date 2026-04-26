@@ -1,0 +1,84 @@
+{
+  "title": "Rich Juicy Sick-Day Thai Sweet Potato Stir-fry",
+  "description": "This dish features tender sweet potatoes cooked in a rich and savory sauce that's perfect for those feeling under the weather.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "sweet potatoes, peeled and cubed",
+      "notes": "approximately 4 medium sweet potatoes"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "vegetable oil",
+      "notes": "such as peanut or sesame oil for flavor"
+    },
+    {
+      "name": "1 large",
+      "amount": "garlic clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "1 small",
+      "amount": "scallion, white part only, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "soy sauce (light or tamari)",
+      "notes": "for vegan option use soy-free alternative"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "cornstarch mixed with 2 tablespoons water",
+      "notes": "to make the sauce thicker and richer"
+    },
+    {
+      "name": "juice of half a lime or 1 tablespoon lemon juice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add garlic and scallion, stir-fry for about 30 seconds until fragrant.",
+    "Add sweet potatoes to the pan; stir-fry until they start to turn golden brown, approximately 5 minutes.",
+    "Pour in soy sauce, lime juice (or lemon), and cornstarch mixture. Stir continuously until the sauce thickens and coats the sweet potatoes evenly.",
+    "Serve immediately with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-sweet-potato-stir-fry",
+    "rich-and-juicy",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "rich-juicy-sick-day-thai-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-juicy-sick-day-thai-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:26:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Rich Juicy Sick-Day",
+    "dishForm": "Stir-fry"
+  }
+}
