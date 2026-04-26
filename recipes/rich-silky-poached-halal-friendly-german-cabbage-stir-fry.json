@@ -1,0 +1,75 @@
+{
+  "title": "Rich Silky Poached Halal Friendly German Cabbage Stir-fry",
+  "description": "A rich and silky post-workout dish featuring poached cabbage with a hint of German flair for halal-friendly preparation.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot with chicken broth and bring to simmer.",
+    "Add finely chopped onion and cook for about 5 minutes until soft.",
+    "Carefully add cabbage leaves into the pot. Cover and simmer gently for 20-30 minutes or until tender.",
+    "Remove from heat, stir in heavy cream, and butter. Stir well until mixture thickens slightly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "silky",
+    "halal",
+    "german",
+    "poached",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 46,
+    "fat": 18
+  },
+  "slug": "rich-silky-poached-halal-friendly-german-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-poached-halal-friendly-german-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:03:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Rich Silky Poached Halal Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
