@@ -1,0 +1,100 @@
+{
+  "title": "Rich Spanish Garlic Crisp Stire-Fry",
+  "description": "A rich and comforting Spanish dish featuring a gluten-free-friendly twist with mascarpone in a creamy garlic-infused stir-fry.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp fresh or 1/2 tsp grated dried"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup, trimmed and halved"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1/2 cup, softened"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium-high heat.",
+    "Add minced garlic and grated ginger, sautéing for about 1 minute until fragrant but not browned.",
+    "Stir in bell peppers, zucchini, green beans, mascarpone, heavy cream, broth, salt, pepper, and paprika. Mix well to combine ingredients.",
+    "Cook for an additional 5-7 minutes, stirring occasionally until vegetables are tender and sauce is thickened slightly.",
+    "Serve hot as a side dish or over gluten-free pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-spanish-garlic-stir-fry",
+    "spanish-gluten-free",
+    "mascarpone-recipe"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 8
+  },
+  "slug": "rich-spanish-garlic-crisp-stire-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-garlic-crisp-stire-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:26:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "mascarpone",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
