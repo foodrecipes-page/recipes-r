@@ -1,0 +1,88 @@
+{
+  "title": "Rich Roasted Italian Garlic Stir-fry",
+  "description": "A rich and crispy Tuscan dish featuring roasted garlic combined with curry powder for a dash-friendly twist in one pot.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "italian herbs (oregano, basil, parsley)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces",
+      "notes": "skin-on for extra flavor"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mince garlic cloves, chop herbs finely, and mix curry powder with olive oil in a large bowl.",
+    "Season chicken pieces on both sides with salt and pepper. Place them in an oven-proof dish and pour the spice mixture over evenly.",
+    "Roast chicken for about 20 minutes or until cooked through (internal temperature reaches at least 165°F). Remove from oven, let it rest for a few minutes.",
+    "While chicken is roasting, cook rice noodles according to package instructions. Drain and set aside.",
+    "In the same dish with residual hot oil, sauté chopped garlic and remaining herbs until fragrant but not browned.",
+    "Mix cooked rice noodles into the garlic-herb mixture along with sour cream if using.",
+    "Slice rested chicken breasts into thin strips and add them to the noodle-garlic mixture. Toss everything together gently.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-roasted-garlic-stir-fry",
+    "italian-dish",
+    "curry-powder-tuscan",
+    "one-pot-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 31,
+    "carbs": 57,
+    "fat": 26
+  },
+  "slug": "rich-roasted-italian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-italian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:46:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "curry powder",
+    "diet": "dash",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
