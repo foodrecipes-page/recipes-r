@@ -1,0 +1,99 @@
+{
+  "title": "Rich and Juicy American Cheese Stir-fry",
+  "description": "A rich and juicy romantic American dish featuring a blend of cheese in a savory stir-fry, perfect for any meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Use high-heat cooking oil"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces lean ground beef or chicken breast, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "Ensure it's above 165°F (74°C) after heating to kill bacteria"
+    },
+    {
+      "name": "2 cups shredded cheddar cheese",
+      "amount": "",
+      "notes": "Optional, can be omitted for a low-fat version"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Fresh parsley or chives, chopped (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and garlic; sauté until softened, about 3 minutes.",
+    "Add ground beef/chicken breast to the skillet. Cook until browned, breaking up any lumps with a spoon, about 5 minutes.",
+    "Stir in flour gradually while continuously stirring for about 1 minute until it absorbs all moisture and turns slightly golden.",
+    "Pour in heavy cream and bring to a simmer; stir occasionally to prevent sticking.",
+    "Gradually add shredded cheddar cheese. Stir constantly over medium heat until cheese is fully melted and sauce has thickened, about 5 minutes.",
+    "Taste and adjust seasoning with salt and pepper as needed.",
+    "Garnish with fresh parsley or chives before serving if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "stir-fry",
+    "rich",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 651,
+    "protein": 27,
+    "carbs": 30,
+    "fat": 29
+  },
+  "slug": "rich-and-juicy-american-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-juicy-american-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:02:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich and Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
