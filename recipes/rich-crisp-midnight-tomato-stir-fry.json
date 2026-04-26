@@ -1,0 +1,90 @@
+{
+  "title": "Rich Crisp Midnight Tomato Stir-fry",
+  "description": "A rich and crisp greek dish featuring plum sauce, sauteed tomatoes, and other aromatic ingredients for a midnight craving.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Chop the tomatoes and onion into small pieces.",
+    "Mince the garlic cloves.",
+    "Heat olive oil in a pan over medium heat. Add onions and saute until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, stirring constantly to avoid burning.",
+    "Stir in chopped tomatoes with their juice, salt, pepper, plum sauce, and balsamic vinegar. Bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for about 10 minutes until the tomatoes soften and the flavors meld together.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crisp",
+    "midnight-craving",
+    "greek",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "rich-crisp-midnight-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-midnight-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:19:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "plum sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomato",
+    "descriptor": "Rich Crisp Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
