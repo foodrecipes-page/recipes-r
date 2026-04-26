@@ -1,0 +1,92 @@
+{
+  "title": "Rich Italian Ricotta Salata Stir-fry",
+  "description": "A rich and dense Italian dish featuring a unique blend of ricotta salata, which is whole30-friendly and adventurous with rapeseed oil.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30",
+    "adventurous"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ricotta Salata",
+      "amount": "1 cup",
+      "notes": "Whole30-friendly Italian cheese"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Softens with heat and adds creaminess to the dish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Sliced thinly for maximum flavor release"
+    },
+    {
+      "name": "Rapeseed Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking at medium-high heat"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for a zingy touch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 teaspoon",
+      "notes": "To help with the texture and to enhance flavors"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat rapeseed oil in a wok or large skillet over medium-high heat.",
+    "Add cumin seeds and sauté for about 30 seconds until they start to pop, being careful not to burn them.",
+    "Add garlic slices and cook for another minute until golden brown, stirring occasionally.",
+    "Drain avocado of excess water by squeezing it with your hands or a cheesecloth. Add drained avocado chunks into the skillet.",
+    "Pour in lemon juice while ensuring that most of the oil from the avocado is not released into the pan to avoid greasiness.",
+    "Add ricotta salata and continue stirring for about 2-3 minutes until the mixture thickens slightly but retains its creaminess.",
+    "Adjust seasoning with salt if needed. Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "dense",
+    "italian",
+    "snack",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 24
+  },
+  "slug": "rich-italian-ricotta-salata-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-ricotta-salata-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:39:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Ricotta Salata",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
