@@ -1,0 +1,74 @@
+{
+  "title": "Rich & Creamy Ukrainian Figs Dumplings",
+  "description": "A festive whole30-friendly dish featuring rich and creamy dumplings filled with ripe figs, a perfect side for your holiday meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour"
+    },
+    {
+      "name": "1/2 cup coconut cream"
+    },
+    {
+      "name": "1/4 cup honey or maple syrup"
+    },
+    {
+      "name": "8 fresh figs, halved and pitted"
+    },
+    {
+      "name": "3 tablespoons butter"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    },
+    {
+      "name": "Pinch of salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a mixing bowl, combine almond flour, coconut cream, honey/maple syrup, and salt. Mix until well combined.",
+    "Add in the halved figs, butter, vanilla extract, and mix thoroughly.",
+    "Form into small dumplings and place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown and crispy on top.",
+    "Serve warm as a dessert or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian-dishes",
+    "figs",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "rich-creamy-ukrainian-figs-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-ukrainian-figs-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:06:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "figs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "figs",
+    "descriptor": "Rich & Creamy",
+    "dishForm": "Dumplings"
+  }
+}
