@@ -1,0 +1,91 @@
+{
+  "title": "Rich British Beef Stir-Fry",
+  "description": "A festive and rich beef stir-fry dish featuring tender cuts of beef in a savory sauce that is perfect for a comforting dinner.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "400g"
+    },
+    {
+      "name": "Shallots",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Kosher salt and black pepper",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Prepare the beef by slicing it into thin strips and seasoning with salt and pepper.",
+    "Slice shallots thinly for use in the stir-fry.",
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add seasoned beef to the pan, stirring until browned on all sides. Remove from the pan.",
+    "In the same pan, add shallot slices and sauté for 1 minute.",
+    "Drizzle in Dijon mustard and Worcestershire sauce, stir well.",
+    "Gradually pour in soy sauce and water, allowing it to simmer slightly until thickened.",
+    "Return beef strips to the pan, ensuring they are fully coated with the sauce. Stir gently to combine.",
+    "Simmer for an additional 5 minutes or until beef is tender and sauce has a glossy finish.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "beef",
+    "stir-fry",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 671,
+    "protein": 39.8,
+    "carbs": 5.4,
+    "fat": 28.5
+  },
+  "slug": "rich-british-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-british-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:07:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
