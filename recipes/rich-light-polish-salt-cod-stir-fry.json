@@ -1,0 +1,76 @@
+{
+  "title": "Rich Light Polish Salt Cod Stir-fry",
+  "description": "A rich and light Polish dish featuring slow-cooked salt cod in a simple sauce made without eggs for a solo-dinner option.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt Cod",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Thyme Sprig(s)",
+      "amount": "2-4 sprigs"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml"
+    }
+  ],
+  "instructions": [
+    "Clean and gently simmer the salt cod in water for about 30 minutes.",
+    "Chop the onion into thin strips, mince the garlic, and finely chop thyme leaves.",
+    "In a wok or large skillet, heat some oil over medium heat. Add onions and cook until translucent.",
+    "Add minced garlic and red pepper flakes to the wok, stir-fry for about 1 minute.",
+    "Gently add the cooked salt cod and chopped thyme to the wok. Pour in water while stirring continuously to avoid sticking.",
+    "Simmer for another 5-7 minutes until all ingredients are evenly coated with sauce and the liquid has reduced slightly.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salt-cod",
+    "polish",
+    "rich-light"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 13,
+    "fat": 9
+  },
+  "slug": "rich-light-polish-salt-cod-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-light-polish-salt-cod-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:54:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "salt cod",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Rich Light",
+    "dishForm": "Stir-fry"
+  }
+}
