@@ -1,0 +1,95 @@
+{
+  "title": "Rich Kenyan Chickpea Stir-fry",
+  "description": "A rich and chewy Kenyan dish featuring ground coriander, deglazed with a touch of gluten-free friendly ingredients to make it an energizing snack option.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, finely grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "a pinch"
+    },
+    {
+      "name": "water or gluten-free stock",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium-high heat.",
+    "Add chopped onions, finely grated ginger, and salt. Sauté for about 2 minutes until the onions are translucent.",
+    "Stir in garlic cloves, ground coriander, paprika, and turmeric powder. Cook for another minute to allow spices to infuse with flavors.",
+    "Deglaze the pan by adding water or gluten-free stock, scraping up any browned bits from the bottom of the pan. Simmer gently for 2-3 minutes until slightly reduced.",
+    "Gradually stir in chickpeas and a pinch of gluten-free flour. Cook for about 5 minutes allowing it to absorb the liquid.",
+    "Reduce heat to low-medium, cover and simmer for an additional 10 minutes or until the chickpeas are cooked through and tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan-stir-fry",
+    "gluten-free-recipe",
+    "rich-and-chewy"
+  ],
+  "nutrition": {
+    "calories": 329,
+    "protein": 10,
+    "carbs": 46,
+    "fat": 17
+  },
+  "slug": "rich-kenyan-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-kenyan-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:49:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "ground coriander",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
