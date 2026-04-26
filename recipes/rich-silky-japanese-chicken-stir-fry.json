@@ -1,0 +1,102 @@
+{
+  "title": "Rich & Silky Japanese Chicken Stir-fry",
+  "description": "A rich and silky stir-fry perfect for kids featuring a delicious blend of plum sauce, vegetables, and crispy rice cakes, suitable for low-carb diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "rice cakes",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "3 cups"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin (sweet rice wine)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the chicken breast into thin strips and season with salt and pepper.",
+    "Arrange rice cakes on a baking sheet. Place in the preheated oven for about 8 minutes or until lightly toasted.",
+    "In a large skillet, heat sesame oil over medium-high heat. Add chicken strips to the pan and stir-fry until browned, about 5-7 minutes.",
+    "Add broccoli florets and carrots into the skillet with chicken. Stir-fry until vegetables are tender, about 2 more minutes.",
+    "Stir in tomato paste, soy sauce, mirin (sweet rice wine), peanut butter, scallions, and ginger to the pan. Mix well and let it cook for an additional minute or until combined evenly.",
+    "Pour the mixture into a shallow baking dish. Arrange toasted rice cakes over the top of the chicken mix.",
+    "Bake in preheated oven for 15-20 minutes or until the sauce thickens slightly and rice cakes are crispy.",
+    "Remove from heat, garnish with fresh scallions, serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "rich",
+    "silky",
+    "kid-friendly",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 17,
+    "fat": 26
+  },
+  "slug": "rich-silky-japanese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-japanese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:31:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "plum sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich & Silky",
+    "dishForm": "Stir-fry"
+  }
+}
