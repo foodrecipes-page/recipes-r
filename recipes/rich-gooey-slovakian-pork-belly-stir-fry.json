@@ -1,0 +1,94 @@
+{
+  "title": "Rich Gooey Slovakian Pork Belly Stir-fry",
+  "description": "A rich and gooey pork belly dish that’s perfect for a sick-day treat, made in the comfort of your own kitchen with no blanching required.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp fresh or 1 tbsp dried lemon zest"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Pat the pork belly dry with paper towels and sprinkle a pinch of salt evenly over both sides.",
+    "Heat 1 tbsp oil in a skillet over medium-high heat. Add the pork belly skin-side down and cook for about 5-7 minutes until nicely browned on one side.",
+    "Flip the pork belly to the other side and cook another 3-4 minutes, or until golden brown. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tbsp oil. Add sliced onions and minced garlic. Cook for about 2-3 minutes until softened.",
+    "Add red pepper flakes (if using) and stir-fry for another minute. Mix in Dijon mustard, lemon juice, and sesame seeds. Stir well to combine.",
+    "Return the pork belly to the skillet and spoon the sauce evenly over it. Cover with a lid or aluminum foil and place in the preheated oven. Bake for 15-20 minutes, until the internal temperature of the pork reaches at least 145°F (63°C).",
+    "Remove from oven and let rest for about 5 minutes before slicing into thin strips.",
+    "Serve hot as a snack or side dish with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "rich",
+    "gooey",
+    "pork belly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "rich-gooey-slovakian-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-slovakian-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:32:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "pork belly slices",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Rich Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
