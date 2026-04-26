@@ -1,0 +1,101 @@
+{
+  "title": "Rich Crisp Midnight Red Potatoes Stir-fry",
+  "description": "A rich and crisp Mediterranean dish featuring red potatoes, cooked under high pressure for a mediterranean twist on a classic side dish.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "4 cups red potatoes",
+      "amount": "cups"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tablespoons",
+      "notes": "high smoke point for stir-frying"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "pieces"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 green bell pepper, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "2 tbsp fresh herbs (thyme, rosemary or oregano), finely chopped",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "pinch of black pepper",
+      "amount": "pinches"
+    },
+    {
+      "name": "juice of 1 lemon",
+      "amount": "lemon"
+    }
+  ],
+  "instructions": [
+    "Place red potatoes in a pressure cooker and add enough water to cover. Pressure cook for 8 minutes on high pressure.",
+    "Drain the cooked potatoes, reserving some cooking liquid if needed.",
+    "In a large skillet, heat olive oil over medium-high heat. Add onions, garlic, bell peppers, and herbs. Sauté until vegetables are tender.",
+    "Add nutritional yeast to the skillet with salt and pepper. Stir well to combine flavors.",
+    "Pour in reserved cooking water from potatoes into the skillet. Reduce heat to low and let simmer for a few minutes.",
+    "Stir in lemon juice and cook for another 2-3 minutes until potatoes are coated evenly.",
+    "Garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crisp",
+    "midnight",
+    "potatoes",
+    "stir-fry",
+    "pressure-cooked",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "rich-crisp-midnight-red-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-midnight-red-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:37:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Red Potatoes",
+    "descriptor": "Rich Crisp Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
