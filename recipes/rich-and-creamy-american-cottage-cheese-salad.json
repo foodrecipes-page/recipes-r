@@ -1,0 +1,78 @@
+{
+  "title": "Rich and Creamy American Cottage Cheese Salad",
+  "description": "This rich and creamy salad features cottage cheese blended with a tangy dressing, providing an energizing breakfast or snack option.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-ovo",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup full-fat American-style cottage cheese",
+      "amount": "",
+      "notes": "Use a higher fat content for creaminess."
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": "",
+      "notes": "Ensure it is raw-friendly."
+    },
+    {
+      "name": "1/4 teaspoon ground black pepper",
+      "amount": "",
+      "notes": "Freshly ground for the best flavor."
+    },
+    {
+      "name": "1/8 teaspoon garlic powder",
+      "amount": "",
+      "notes": "For extra depth of flavor."
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley, flat-leaf (optional)",
+      "amount": "",
+      "notes": "Adds a pop of color and freshness."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine cottage cheese, lemon juice, black pepper, and garlic powder. Mix well until the mixture is smooth.",
+    "Garnish with chopped parsley if desired, taste test and adjust seasoning as needed.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "rich",
+    "american-style",
+    "lunch-time",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 13,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "rich-and-creamy-american-cottage-cheese-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-creamy-american-cottage-cheese-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:41:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "cottage cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Rich and Creamy",
+    "dishForm": "Salad"
+  }
+}
