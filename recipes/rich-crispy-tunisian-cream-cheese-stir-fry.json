@@ -1,0 +1,89 @@
+{
+  "title": "Rich Crispy Tunisian Cream Cheese Stir-fry",
+  "description": "A rich and crispy single cream dish perfect for a solo dinner featuring Mediterranean flavors with a touch of cheese to make it satisfying without compromising on dietary restrictions.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat",
+    "sensitizing-dairy-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5, minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "pitted cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive tapenade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix cream cheese with olive oil and set aside.",
+    "In a pan, heat olive oil over medium-high heat. Add minced garlic, onions, and bell peppers; sauté until vegetables soften.",
+    "Fold in the mixed herbs like dried oregano or basil for extra flavor.",
+    "Pour in cream cheese mixture and stir to combine evenly with vegetables.",
+    "Add cherry tomatoes and capers, giving everything a good mix again. Toss gently so as not to break up the tomatoes.",
+    "Transfer to an oven-safe dish and bake for 15 minutes until edges are golden brown and top is crispy.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "crispy",
+    "cream-cheese-stir-fry",
+    "sensitizing-dairy-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "rich-crispy-tunisian-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-tunisian-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:36:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "single cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
