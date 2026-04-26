@@ -1,0 +1,88 @@
+{
+  "title": "Rich American Lettuce Salad",
+  "description": "A rich and creamy little gem lettuce salad that is a crowd-pleaser and suitable for those on low-sodium diets.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Little Gem Lettuce",
+      "amount": "2 cups",
+      "notes": "Rinse and dry thoroughly"
+    },
+    {
+      "name": "Buttercream",
+      "amount": "1/4 cup",
+      "notes": "Use a mild flavored butter like unsalted or low-fat"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "3 tablespoons",
+      "notes": "Ensure it's cold for best texture"
+    },
+    {
+      "name": "Red Onion, finely chopped",
+      "amount": "1/4 cup",
+      "notes": "Chop until translucent to avoid bitter taste"
+    },
+    {
+      "name": "Fresh Dill, finely chopped (about 1 tablespoon)",
+      "notes": "For added flavor and color"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Reduce sodium if needed"
+    },
+    {
+      "name": "Garlic Clove, minced",
+      "amount": "1 small",
+      "notes": "Optional for additional depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Gently massage the Little Gem Lettuce with a little bit of olive oil to enhance its flavors and textures.",
+    "In a mixing bowl, combine the chopped onions, chopped fresh dill, minced garlic (if using), and low-sodium soy sauce. Mix well until fully combined.",
+    "Slowly pour in heavy cream into the onion mixture while continuously whisking with a hand mixer or beaters on medium speed to emulsify the ingredients.",
+    "Add buttercream gradually to the cream mixture and continue mixing until creamy consistency is achieved, ensuring no lumps remain.",
+    "Fold the emulsified buttercream mixture gently through the lettuce using a large spoon. Aim for a uniform blend throughout each lettuce leaf to prevent over-mixing which can cause the salad to become soggy.",
+    "Place the dressed lettuce into a serving dish and garnish with additional fresh dill if desired before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lettuce",
+    "salad",
+    "american",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "rich-american-lettuce-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-american-lettuce-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:27:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Rich",
+    "dishForm": "Salad"
+  }
+}
