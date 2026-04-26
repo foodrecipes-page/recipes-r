@@ -1,0 +1,103 @@
+{
+  "title": "Romantic Creamy Oats Stir-fry",
+  "description": "A herbal and creamy Algerian-inspired dish featuring ground oats in a light sauce with no eggs, perfect for breakfast or dessert.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup quick-cooking oatmeal",
+      "amount": "cup",
+      "notes": "preferably flavored with herbs"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "small",
+      "notes": "use 1 large if needed"
+    },
+    {
+      "name": "1 small bell pepper, diced (any color)",
+      "amount": "small",
+      "notes": "optional for extra crunch and flavor"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 cups vegetable broth or water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon ground coriander",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "to season the dish"
+    },
+    {
+      "name": "Fresh parsley, chopped for garnish (optional)",
+      "amount": "",
+      "notes": "for presentation"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add onions and bell peppers if using, sauté until soft about 3 minutes.",
+    "Add garlic and cook for another minute until fragrant.",
+    "Stir in ground cumin and coriander, cooking for 1-2 minutes to release the flavors.",
+    "Pour in vegetable broth or water, then add heavy cream. Bring it to a simmer.",
+    "Incorporate oatmeal into the sauce and stir well to combine. Let cook until thickened, about 5 minutes.",
+    "Taste and adjust seasoning with salt and pepper as needed.",
+    "Serve hot garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "romantic",
+    "creamy",
+    "algerian",
+    "ground-oats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "romantic-creamy-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-creamy-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:00:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "ground oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Oats",
+    "descriptor": "Creamy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
