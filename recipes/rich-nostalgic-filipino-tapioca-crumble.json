@@ -1,0 +1,87 @@
+{
+  "title": "Rich Nostalgic Filipino Tapioca Crumble",
+  "description": "This rich and crispy tapioca crumble combines a sweetened water mixture with a crunchy topping for a nostalgic treat that's perfect as a breakfast or dessert.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup tapioca pearls",
+      "amount": "",
+      "notes": "soaked and rinsed"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "room temperature"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1/3 cup unsalted butter",
+      "amount": "softened"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh mint leaves (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine tapioca pearls, water, sugar, and salt in a large saucepan. Bring to a boil over medium heat, then reduce heat and simmer for about 20 minutes or until the tapioca is soft.",
+    "Transfer the mixture to a blender; puree until smooth. Return the pureed mixture to the pan and stir in softened butter and lime juice. Heat gently, stirring constantly, until the liquid just begins to come away from sides of the pot.",
+    "Meanwhile, preheat your oven to 350°F (175°C). In a mixing bowl, combine flour with optional mint leaves. Slowly add tapioca mixture while continuously stirring until stiff dough forms.",
+    "Transfer the dough onto a lightly floured surface and knead gently for about 2-3 minutes until smooth. Cut into small balls and place on a lined baking sheet. Bake for 15-20 minutes or until golden brown.",
+    "Serve warm as crumble with your favorite desserts or by itself as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "tapioca",
+    "crumble",
+    "nostalgic",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 204,
+    "protein": 5.3,
+    "carbs": 38.6,
+    "fat": 7.9
+  },
+  "slug": "rich-nostalgic-filipino-tapioca-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nostalgic-filipino-tapioca-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:34:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "water",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tapioca",
+    "descriptor": "Rich Nostalgic",
+    "dishForm": "Crumble"
+  }
+}
