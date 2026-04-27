@@ -1,0 +1,88 @@
+{
+  "title": "Roasted Greek Blueberry Crumble",
+  "description": "A sweet and chewy dessert featuring roasted blueberries topped with a gluten-free crumble.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fresh or frozen blueberries",
+      "amount": "",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon (optional)",
+      "amount": "",
+      "notes": "for extra sweetness and freshness"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free flour mix (1/4 cup all-purpose GF flour + 1/4 cup GF oats)",
+      "amount": "",
+      "notes": "commercial options available for convenience"
+    },
+    {
+      "name": "2 tablespoons butter or vegan spread",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a mixing bowl, combine the blueberries, honey, lemon zest (if using), olive oil, and salt. Mix well until all berries are evenly coated.",
+    "Transfer the blueberry mixture into an oven-safe dish. Spread it out in an even layer so no large clumps remain.",
+    "Bake for 20 minutes or until the juices start to bubble up and a few of them turn slightly brown, stirring gently once halfway through baking time.",
+    "While the berries are roasting, prepare the crumble topping by mixing the flour mix with melted butter (or vegan spread). Mix thoroughly until it forms small crumbs. Spread this mixture over the hot blueberry mixture evenly.",
+    "Return to oven for an additional 10 minutes or until golden and crispy on top.",
+    "Allow to cool slightly before serving, topped with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-dessert",
+    "gluten-free-dessert",
+    "sweet-berry",
+    "baked-crumb"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "roasted-greek-blueberry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-greek-blueberry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:29:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "blueberries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "blueberries",
+    "descriptor": "Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
