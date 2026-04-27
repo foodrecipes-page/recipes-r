@@ -1,0 +1,83 @@
+{
+  "title": "Rich Tomato Slovakian Crumble",
+  "description": "A rich and crispy tomato-based dish with a dairy-free crumble topping that's perfect for any meal as a crowd-pleaser.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 (24 oz can)"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Finely chop the tomatoes, onion, garlic, and finely dice the thyme.",
+    "In a large pan, heat olive oil over medium heat. Add onions and garlic; sauté until softened.",
+    "Add crushed tomatoes, mustard, salt, and chopped tomatoes to the pan. Stir well, reduce for 20 minutes or until mixture thickens.",
+    "Transfer sauce into a baking dish. Sprinkle with crumbled tofu or tempeh (for a dairy-free option) and bake at 375°F (190°C) for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "rich-tomato-slovakian-crumble",
+    "slovenia-dairy-free-dessert"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "rich-tomato-slovakian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tomato-slovakian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:44:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Rich",
+    "dishForm": "Crumble"
+  }
+}
