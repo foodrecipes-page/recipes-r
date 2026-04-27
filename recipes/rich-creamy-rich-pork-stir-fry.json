@@ -1,0 +1,106 @@
+{
+  "title": "Rich Creamy Rich Pork Stir-fry",
+  "description": "An earthy and comforting Uruguayan dish featuring pork that has been caramelized to perfection, ideal for a high-protein-friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein",
+    "heart-healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "cooking wine or white wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch (optional)"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Slice the pork tenderloin into thin strips.",
+    "In a skillet, heat olive oil over medium-high heat. Add onion and garlic and sauté until translucent.",
+    "Add tomato paste, stir for another minute until fragrant. Season with salt, pepper, bay leaves, cayenne pepper (if using), and heavy cream. Mix well.",
+    "Place pork strips on top of the tomato mixture in the skillet. Cook for 10 minutes without lifting.",
+    "Once browned, cover with a lid or aluminum foil to keep warm while you prepare the sauce. Remove pork and set aside.",
+    "In another pan, melt butter over medium heat. Add heavy cream and stir until it starts to simmer. Lower the flame to low-medium.",
+    "Add basil leaves when the sauce is almost thickened (about 1-2 minutes). Stir well and serve with the cooked pork strips in a generous amount of sauce.",
+    "Garnish with fresh herbs like parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich",
+    "creamy",
+    "stir-fry",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 39,
+    "carbs": 27,
+    "fat": 31
+  },
+  "slug": "rich-creamy-rich-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-rich-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:40:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "pork",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork",
+    "descriptor": "Creamy Rich",
+    "dishForm": "Stir-fry"
+  }
+}
