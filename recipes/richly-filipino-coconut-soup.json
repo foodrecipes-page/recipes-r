@@ -1,0 +1,85 @@
+{
+  "title": "Richly Filipino Coconut Soup",
+  "description": "A rich and creamy Filipino coconut soup infused with rose water for an energizing and aromatic treat, perfect as a raw-friendly breakfast option.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons grated fresh ginger",
+      "notes": "optional, add for extra flavor and detox properties"
+    },
+    {
+      "name": "1 can full-fat coconut cream",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons raw honey or agave nectar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "3-4 pandan leaves (optional)",
+      "notes": "to infuse flavor and color, if using fresh leave them whole"
+    },
+    {
+      "name": "1/4 cup coconut cream for garnish (raw-friendly option)",
+      "amount": "cup"
+    },
+    {
+      "name": "Fresh rose water or rose petal syrup",
+      "amount": "few drops"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to boil, add pandan leaves and cook for about 5 minutes. Strain the mixture into another container.",
+    "In a blender, combine coconut milk, ginger (if using), full-fat coconut cream, cooked pandan water, honey or agave nectar, and rose water. Blend until smooth.",
+    "Pour the blended soup back into the pot with added pandan leaves. Warm it up over medium heat for about 5 minutes to blend flavors well.",
+    "Serve in bowls garnished with fresh mint leaves and a dollop of coconut cream on top for an extra touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "ginger",
+    "rosewater",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "richly-filipino-coconut-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-filipino-coconut-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:49:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "rose water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "coconut",
+    "descriptor": "Richly",
+    "dishForm": "Soup"
+  }
+}
