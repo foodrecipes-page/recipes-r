@@ -1,0 +1,87 @@
+{
+  "title": "Rich Tender Russian Almond Stir-fry",
+  "description": "A rich and tender dish featuring ground almonds that is both a show-off culinary masterpiece and a kosher-friendly meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup blanched almonds",
+      "amount": "cup",
+      "notes": "soaked in water for 24 hours"
+    },
+    {
+      "name": "6 slices of prosciutto",
+      "amount": "slices"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Spread the blanched almonds evenly on a baking sheet. Roast them for about 10 minutes until golden brown and slightly crispy.",
+    "In a large skillet, melt butter over medium heat. Add prosciutto slices and garlic cloves, stirring occasionally until prosciutto starts to crisp up, about 3-5 minutes.",
+    "Reduce the heat to low, add roasted almonds and lemon juice into the pan. Stir gently for another minute or so until flavors are well combined.",
+    "Gradually pour in heavy cream while continuously mixing with a wooden spoon. Let it simmer over medium-low heat until sauce thickens, approximately 3-5 minutes.",
+    "Season your dish with salt and pepper to taste. If desired, garnish with fresh chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "stir-fry",
+    "rich",
+    "tender",
+    "ground-almonds",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "rich-tender-russian-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-russian-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:36:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "ground almonds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Rich Tender",
+    "dishForm": "Stir-fry"
+  }
+}
