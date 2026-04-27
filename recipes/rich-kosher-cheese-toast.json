@@ -1,0 +1,74 @@
+{
+  "title": "Rich Kosher Cheese Toast",
+  "description": "A meal-prep Greek dish featuring a rich and crisp toasts topped with creamy cheese for a satisfying breakfast or snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1/4 cup grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Place the slices of rye bread on a baking sheet lined with parchment paper.",
+    "In a small bowl, mix together olive oil, grated Gouda cheese, salt, and pepper until well combined. Spoon the mixture evenly over each slice of bread.",
+    "Bake for about 5-7 minutes or until the cheese is melted and slightly golden on top.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kosher",
+    "cheese",
+    "toast",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "rich-kosher-cheese-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-kosher-cheese-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:33:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kosher",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich",
+    "dishForm": "Toast"
+  }
+}
