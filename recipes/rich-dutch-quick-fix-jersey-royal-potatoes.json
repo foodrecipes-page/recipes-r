@@ -1,0 +1,76 @@
+{
+  "title": "Rich Dutch Quick-Fix Jersey Royal Potatoes",
+  "description": "A rich, crisp, quick-fix dish featuring Jersey Royal potatoes broiled to perfection, ready in minutes with a minimal carbon footprint.",
+  "cuisine": "European",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten Yellow Cheese Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F). Rinse and pat dry the Jersey Royal potatoes.",
+    "Sprinkle a pinch of salt and pepper on top of the potatoes, then evenly distribute 1 tablespoon of molten yellow cheese sauce over them. Sprinkle another layer of Panko breadcrumbs on top.",
+    "Place the prepared potato mixture in a broiler-safe dish. Broil until the sides start to turn golden brown and the center is soft and bubbly (approximately 5-7 minutes).",
+    "Carefully remove from oven, allow to cool slightly before serving. Enjoy your rich, crisp, quick-fix Jersey Royal Potatoes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crisp",
+    "quick-fix",
+    "dutch dish",
+    "jersey royal potatoes",
+    "broil",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "rich-dutch-quick-fix-jersey-royal-potatoes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dutch-quick-fix-jersey-royal-potatoes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:48:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Rich",
+    "dishForm": "Quick-Fix"
+  }
+}
