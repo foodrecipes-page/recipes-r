@@ -1,0 +1,97 @@
+{
+  "title": "Rich & Velvety British Orange Stir-fry",
+  "description": "A rich and velvety British orange stir-fry featuring candied peel for added depth of flavor. Perfect as a weeknight dinner that's Mediterranean-friendly and easy to prepare.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Candied Orange Peel",
+      "amount": "1 cup",
+      "notes": "Dried orange peel, candied"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 3 Oranges",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add onions and red pepper flakes, sauté until soft, about 5 minutes.",
+    "Chop the garlic finely and add it to the pan. Sauté for another minute.",
+    "Add the candied orange peel to the pan with 1/4 cup of the juice from oranges. Stir gently to combine.",
+    "Pour in the remaining juice and bring to a simmer.",
+    "Stir in chickpeas, reduce heat, and let cook until the liquid is absorbed (about 5 minutes).",
+    "Season with salt to taste.",
+    "Garnish with extra orange zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-stir-fry",
+    "orange-peel",
+    "candied-peel",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "rich-velvety-british-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-british-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:55:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "candied peel",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "orange",
+    "descriptor": "Rich & Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
