@@ -1,0 +1,75 @@
+{
+  "title": "Rich Crisp Slovakian Dish",
+  "description": "A decadent vegan dessert featuring a crispy topping of icing sugar and almonds, perfect for a solo dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "almonds, crushed",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond meal and icing sugar in a large bowl until well combined.",
+    "Add vanilla extract and coconut oil; stir thoroughly until the mixture forms into a dough-like consistency.",
+    "Fold in crushed almonds, ensuring they are evenly distributed throughout the mixture.",
+    "Press the mixture firmly onto an ungreased baking sheet lined with parchment paper. Use your hands or a fork to shape it if needed.",
+    "Bake for 10-12 minutes until golden brown and crisp on top. Remove from oven and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "slovakian",
+    "crisp",
+    "dessert",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "rich-crisp-slovakian-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-slovakian-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:12:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "icing sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Crisp",
+    "descriptor": "Rich",
+    "dishForm": "Dish"
+  }
+}
