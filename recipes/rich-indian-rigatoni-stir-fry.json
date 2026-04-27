@@ -1,0 +1,105 @@
+{
+  "title": "Rich Indian Rigatoni Stir-fry",
+  "description": "A rich and adventurous Indian dish featuring chewy rigatoni in a savory sauce with aromatic spices.",
+  "cuisine": "Indian (Udupi)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "200g",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan, add cumin seeds and let them sizzle.",
+    "Add chopped green peppers and onions to the pan. Stir-fry until the vegetables are slightly softened.",
+    "Stir in tomato puree, salt, garam masala powder, coriander powder, turmeric powder, and red chili powder. Simmer for about 5 minutes.",
+    "Add cooked rigatoni to the sauce. Mix well and let it simmer for another 2-3 minutes until all ingredients are heated evenly.",
+    "Serve hot with a side of raita or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-indian",
+    "adventurous-udupi",
+    "stir-fry",
+    "chewy-rigatoni"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "rich-indian-rigatoni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indian-rigatoni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:04:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "rigatoni",
+    "diet": "dash",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rigatoni",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
