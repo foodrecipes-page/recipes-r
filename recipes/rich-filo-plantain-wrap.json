@@ -1,0 +1,89 @@
+{
+  "title": "Rich Filo Plantain Wrap",
+  "description": "A rich and silky filo pastry wrap filled with tender plantains, perfect for a sick-day meal that's both comforting and delicious.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plantain",
+      "amount": "1 medium",
+      "notes": "peeled and sliced thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking filo"
+    },
+    {
+      "name": "Filo Pastry Sheets",
+      "amount": "8 sheets",
+      "notes": "thinner variety for wrapping"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "1 cup",
+      "notes": "creamy and rich, can be vegan if needed"
+    },
+    {
+      "name": "Sugar Syrup (for coating plantains)",
+      "amount": "2 tablespoons",
+      "notes": "can use maple syrup or honey"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Nutritional Yeast (optional, for a cheesy flavor)",
+      "amount": "1 tablespoon",
+      "notes": "for a savory twist"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a skillet over medium heat. Add sliced plantains and cook until golden brown, about 4-5 minutes per side. Remove from heat.",
+    "To prepare the filo wrap filling: Mix cream cheese with a pinch of salt, if using nutritional yeast for extra cheesy flavor.",
+    "In an oven-safe dish or baking sheet, place a filo pastry sheet on its perforated half-circle shape. Spread a layer of cream cheese mixture over one side of the filo sheet. Top it evenly with sliced plantain, drizzled lightly with sugar syrup if using.",
+    "Fold another filo sheet over to encase the filling completely. Press edges firmly to seal.",
+    "Place wrapped filo wraps on a baking sheet and brush top with olive oil. Bake in preheated oven for 15-20 minutes until golden brown and crisp.",
+    "Serve hot as a rich, silky, sick-day American dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filo",
+    "plantain",
+    "vegan-friendly",
+    "rich",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "rich-filo-plantain-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-filo-plantain-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:47:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "filo pastry",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "plantain",
+    "descriptor": "Rich",
+    "dishForm": "Wrap"
+  }
+}
