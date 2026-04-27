@@ -1,0 +1,88 @@
+{
+  "title": "Rich Saudi Dates Biryani",
+  "description": "A rich and fluffy dish featuring a blend of biryani masala with dates, perfectly suited for date nights in the Arabian cuisine tradition, suitable for egg-free diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup pitted and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "3-4 slices, fresh or powdered"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "6, ground to a fine powder"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tbsp, crushed"
+    },
+    {
+      "name": "cloves",
+      "amount": "6, lightly crushed"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2-3, fresh and finely chopped"
+    },
+    {
+      "name": "salt to taste"
+    },
+    {
+      "name": "oil for cooking"
+    },
+    {
+      "name": "chopped cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onions and cook until translucent.",
+    "Add ginger, cardamom powder, cumin seeds, cloves, and basil leaves. Stir well.",
+    "Add chopped dates to the pan, cover with a lid, and simmer for about 10 minutes or until the dates are soft and the mixture is fragrant.",
+    "Season with salt to taste and serve garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "biryani",
+    "date-night",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 9,
+    "carbs": 71,
+    "fat": 20
+  },
+  "slug": "rich-saudi-dates-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-saudi-dates-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:41:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "biryani masala",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "dates",
+    "descriptor": "Rich",
+    "dishForm": "Biryani"
+  }
+}
