@@ -1,0 +1,84 @@
+{
+  "title": "Rich And Light Peruvian Avocado Salad",
+  "description": "A rich and light peruvian dish featuring avocados, with a touch of icing sugar to add sweetness and the mediterranean-friendly tandoor for an extra depth of flavor.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1-2 tsp (optional)"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Halve, seed, and dice the avocado into small pieces.",
+    "Wash and chop the tomato into bite-sized pieces.",
+    "Chop cilantro finely.",
+    "In a mixing bowl, combine diced avocado, chopped tomato, and chopped cilantro.",
+    "Squeeze lime juice over the mixture.",
+    "If desired, sprinkle icing sugar on top and stir gently to dissolve any lumps.",
+    "Gently toss with cooking oil until evenly coated. Add salt to taste.",
+    "Serve chilled as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "avocado",
+    "light",
+    "cozy",
+    "mexican",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2.8,
+    "carbs": 24.3,
+    "fat": 9
+  },
+  "slug": "rich-and-light-peruvian-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-light-peruvian-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:38:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "icing sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "avocado",
+    "descriptor": "Rich And Light",
+    "dishForm": "Salad"
+  }
+}
