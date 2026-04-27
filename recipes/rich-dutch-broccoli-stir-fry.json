@@ -1,0 +1,73 @@
+{
+  "title": "Rich Dutch Broccoli Stir-fry",
+  "description": "A rich and juicy Dutch dish featuring broccoli in a water-based sauce that's low-calorie-friendly, perfect for a quick dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 cup fresh or frozen"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Trim and chop broccoli into small florets.",
+    "Add chopped garlic to a pot with water. Bring to a boil.",
+    "Add salt, chili flakes, and broccoli. Cook until tender (about 5 minutes).",
+    "Reduce heat slightly and simmer for another 3-5 minutes to intensify flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "juicy",
+    "dutch",
+    "one-pot",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 1
+  },
+  "slug": "rich-dutch-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dutch-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:13:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "water",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "broccoli",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
