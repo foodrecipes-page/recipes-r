@@ -1,0 +1,96 @@
+{
+  "title": "Rich Silky Adventurous Russian Hake Grill",
+  "description": "A rich and silky hake dish with an adventurous twist, perfect for a dinner or special occasion featuring grilled flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb Russian Hake fillets",
+      "amount": "2 pieces",
+      "notes": "preferably wild-caught for richer flavor"
+    },
+    {
+      "name": "3 tbsp butter",
+      "amount": "all, softened",
+      "notes": "ensure to use dairy-free alternative if needed"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "all",
+      "notes": "full-fat for a rich texture"
+    },
+    {
+      "name": "2 cups crème fraîche or vegan sour cream",
+      "amount": "all, room temp",
+      "notes": "add to reach desired consistency and richness"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "about half",
+      "notes": "freshly squeezed for maximum flavor"
+    },
+    {
+      "name": "1 tsp Dijon mustard",
+      "amount": "all",
+      "notes": "classic Russian accompaniment with hake dishes"
+    },
+    {
+      "name": "2 tbsp fresh dill, chopped",
+      "amount": "all",
+      "notes": "for added freshness and herbaceousness"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": "ensuring balanced flavor profile"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or gas stove to medium-high heat.",
+    "Gently season the hake fillets with salt and pepper on both sides. If using, soften the butter by letting it sit at room temperature for a minute or two.",
+    "In a mixing bowl, combine softened butter, heavy cream, crème fraîche, lemon juice, Dijon mustard, and chopped dill. Mix well until smooth and creamy.",
+    "Place hake fillets in a greased grill pan or on an oiled grill grate over medium-high heat. Once the grill is hot, place fillets skin-side down onto the grill.",
+    "Brush each side with some of the butter mixture, then top with the remaining mixture. Close the lid and cook for about 5-6 minutes per side or until cooked through (the internal temperature should reach at least 145°F).",
+    "Carefully remove fillets from the heat and let rest for a minute before slicing.",
+    "Serve hot over grill vegetables, if using, or on its own with a drizzle of extra butter or cream. Garnish with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hake",
+    "grilled",
+    "rich",
+    "slightly-adventurous"
+  ],
+  "nutrition": {
+    "calories": 721,
+    "protein": 39.5,
+    "carbs": 38.6,
+    "fat": 46
+  },
+  "slug": "rich-silky-adventurous-russian-hake-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-adventurous-russian-hake-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:42:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "hake",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Hake",
+    "descriptor": "Rich Silky Adventurous",
+    "dishForm": "Grill"
+  }
+}
