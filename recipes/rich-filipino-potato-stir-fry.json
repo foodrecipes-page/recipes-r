@@ -1,0 +1,92 @@
+{
+  "title": "Rich Filipino Potato Stir-fry",
+  "description": "A comforting and rich Filipino dish featuring juicy Charlotte potatoes in a savory sauce that is egg-free-friendly.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charlotte Potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Bouillon Cubes",
+      "amount": "4 cubes"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic, minced (2 cloves)",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "Red Peppers, diced (1 medium)",
+      "notes": "optional for extra color and crunch"
+    },
+    {
+      "name": "Celery Sticks, chopped finely",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Carrots, diced (2 medium)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tamarind Paste or Sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add minced garlic and diced red peppers (if using) to the hot oil, stir-fry for about 2 minutes until fragrant.",
+    "Add chopped celery and carrots to the wok, continue cooking for another 3-4 minutes until vegetables are soft but not mushy.",
+    "Stir in chicken broth or water, tamarind paste/sauce, and soy sauce. Bring to a boil, then reduce heat to low and let simmer for about 10 minutes to allow flavors to meld together.",
+    "Add Charlotte potatoes into the wok, mix well with the sauce until the potatoes are fully coated. Cover and cook for an additional 5-7 minutes or until the potatoes are tender but still have a bit of bite.",
+    "Serve hot as a comforting side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "rich",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "rich-filipino-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-filipino-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:07:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Potato",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
