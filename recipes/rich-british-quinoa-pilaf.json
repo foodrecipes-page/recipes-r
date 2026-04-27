@@ -1,0 +1,87 @@
+{
+  "title": "Rich British Quinoa Pilaf",
+  "description": "A festive and fluffy quinoa pilaf featuring turmeric powder with a touch of sous-vide to enhance its flavor and texture.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water or Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Saffron Threads (optional)",
+      "amount": "2 threads"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa under cold water.",
+    "Combine the rinsed quinoa with water or vegetable broth in a saucepan. Bring to a boil, then reduce heat to low, cover, and simmer for about 15 minutes until liquid is absorbed.",
+    "While the quinoa cooks, warm the garlic, onion, and turmeric powder in a small pan over medium heat until aromatic and slightly golden.",
+    "Stir the cooked quinoa into the warm mixture. Add salt and pepper to taste.",
+    "If using saffron threads, steep them in hot water for 10 minutes before adding to the pilaf. Stir well.",
+    "Mix the paprika into the pilaf just before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "fluffy",
+    "british",
+    "festive",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 213,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "rich-british-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-british-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:38:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "turmeric powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
