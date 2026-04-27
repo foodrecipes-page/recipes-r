@@ -1,0 +1,98 @@
+{
+  "title": "Rich Malaysian White Fish Stir-fry",
+  "description": "A rich and tender dish featuring white fish that is perfect for those looking for a high-protein-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillet",
+      "amount": "120g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish Sauce (Tomah Isi)",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "Leaves of Green Onions",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Tomato Slices",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Soy Sauce (Terasi Pedas)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar (Jangan Kacau)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Cornstarch (Teriyaki Paste - optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine minced garlic and chili paste in a mixing bowl.",
+    "Add fish sauce, soy sauce, sugar, salt to the mix of garlic and chili paste. Mix well until all ingredients are combined and stir into a paste consistency.",
+    "Gently flake white fish into small pieces and set aside.",
+    "Heat vegetable oil in a wok or large frying pan over medium-high heat. Once hot, add the green onion slices, tomato slices, and mix of garlic/chili/fish sauce.",
+    "When vegetables are just starting to wilt, add the flaked white fish. Stir-fry for about 2-3 minutes until fish is coated in the mixture.",
+    "Add cornstarch (if using) and stir well until a thick sauce forms. Reduce heat if necessary to prevent burning. Cook for an additional 1-2 minutes or until the sauce thickens slightly.",
+    "Garnish with fresh green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-malaysian-dish",
+    "tender-white-fish-stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-malaysian-white-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malaysian-white-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:26:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "white fish",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "white fish",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
