@@ -1,0 +1,89 @@
+{
+  "title": "Rich Crunchy Nostalgic Jamaican Beef Shin Stir-fry",
+  "description": "A rich and crunchy dish featuring beef shin that is both delicious and comforting, perfect for a nostalgic meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "rich",
+    "crunchy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Shin (boiled)",
+      "amount": "500g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Thyme (dried)",
+      "amount": "a few leaves"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Slice the beef shin into thin strips.",
+    "Dice the onions, carrots, and tomatoes.",
+    "Chop the garlic finely.",
+    "Add olive oil to a wok or large skillet over medium-high heat. Add thyme and bay leaves, sauté for 1 minute.",
+    "Add sliced beef, cook until browned on all sides, about 5 minutes.",
+    "Stir in diced onions, carrots, and tomatoes, then garlic. Cook for an additional 3-4 minutes.",
+    "Turn the heat down to medium-low and let it simmer for another 20 minutes or until the meat is tender and flavorful.",
+    "Season with salt and pepper according to your taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-beef-shin",
+    "crunchy-jamaican-dish",
+    "nostalgic-food"
+  ],
+  "nutrition": {
+    "calories": 813,
+    "protein": 69,
+    "carbs": 54,
+    "fat": 27
+  },
+  "slug": "rich-crunchy-nostalgic-jamaican-beef-shin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-nostalgic-jamaican-beef-shin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:48:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "beef shin",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Beef Shin",
+    "descriptor": "Rich Crunchy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
