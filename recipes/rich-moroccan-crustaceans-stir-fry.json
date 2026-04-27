@@ -1,0 +1,95 @@
+{
+  "title": "Rich Moroccan Crustaceans Stir-fry",
+  "description": "A quick-fix, rich and fluffy Moroccan dish featuring crustaceans that's also paleo-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crustaceans (shrimp or crab meat)",
+      "amount": "200g",
+      "notes": "Soaked in water to reduce saltiness"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander (cilantro) leaves",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": null
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Palm sugar (jaggery)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "3 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Soak the crustaceans in water for at least an hour to reduce saltiness.",
+    "Toast cumin seeds lightly in a dry pan until fragrant. Let cool and grind into powder.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sautéing until soft.",
+    "Add palm sugar and stir-fry for 2 minutes or until slightly caramelized.",
+    "Fold in ground cumin seeds and toast gently to release flavor.",
+    "Stir in chopped coriander leaves and crustaceans, pouring lemon juice over them. Cook for another minute allowing flavors to meld.",
+    "Serve hot with a side of paleo-friendly bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "crustaceans",
+    "paleo-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 657,
+    "protein": 29,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "rich-moroccan-crustaceans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-moroccan-crustaceans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:08:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "crustaceans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
