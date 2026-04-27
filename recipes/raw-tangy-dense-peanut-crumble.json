@@ -1,0 +1,81 @@
+{
+  "title": "Raw Tangy Dense Peanut Crumble",
+  "description": "A raw-friendly Ethiopian dish featuring a tangy peanut brittle that can be used as a hangover cure.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Raw ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar (ACV)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Honey or Agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Raw cashews",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "Cacao nibs",
+      "amount": "30 grams"
+    },
+    {
+      "name": "Sunflower seeds (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Roast the peanuts in a Tandoor at 450°F (230°C) for about 5-7 minutes, or until golden brown.",
+    "In a blender or food processor, combine roasted peanuts, raw ginger, coconut water, ACV, and honey or agave nectar. Blend until smooth, adding cashews and sunflower seeds if using.",
+    "Transfer the mixture to a baking dish lined with parchment paper. Spread evenly and refrigerate for at least 2 hours or overnight."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "tangy",
+    "dense",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "raw-tangy-dense-peanut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-tangy-dense-peanut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:17:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "peanut brittle",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Tangy Dense Raw",
+    "dishForm": "Crumble"
+  }
+}
