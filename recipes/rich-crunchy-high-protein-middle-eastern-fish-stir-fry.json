@@ -1,0 +1,86 @@
+{
+  "title": "Rich Crunchy High-Protein Middle Eastern Fish Stir-fry",
+  "description": "This meal-prep dish features a rich and crunchy texture with high-protein fish, combined with aromatic spices for an authentic Middle Eastern flavor profile.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turkish red pepper flakes (Kasir)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dill sprigs",
+      "amount": "3-4, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Pat fish dry with paper towels.",
+    "Season cod fillets with lemon juice and a pinch of salt. Drizzle with olive oil.",
+    "Place in a baking dish and bake for 20 minutes or until cooked through, turning once midway.",
+    "Meanwhile, heat 1 tbsp of olive oil in a non-stick skillet over medium-high heat. Add minced garlic and kasir pepper flakes. Stir-fry for about 30 seconds until fragrant.",
+    "Remove fish from oven. If desired, use an immersion blender to puree some of the cooking juices into a smooth sauce. Alternatively, reserve the liquid in small bowls for drizzling over fish later.",
+    "Once garlic is aromatic, add pomegranate molasses and stir well. Add cooked fillets, mixing thoroughly to coat evenly with flavorful marinade. Garnish with chopped dill and cilantro leaves.",
+    "Serve immediately while hot or store leftovers in an airtight container for up to 3 days. Enjoy this as a high-protein meal prepped option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crunchy",
+    "middle-eastern",
+    "fish-stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 48,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "rich-crunchy-high-protein-middle-eastern-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-high-protein-middle-eastern-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:43:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "fish",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Fish",
+    "descriptor": "Rich Crunchy High-Protein",
+    "dishForm": "Stir-fry"
+  }
+}
