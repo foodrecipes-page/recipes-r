@@ -1,0 +1,83 @@
+{
+  "title": "Rich & Creamy Spanish Cheese Filo",
+  "description": "A rich and creamy Spanish cheese filo dish perfect for a weeknight meal featuring the warmth of steamed flaky filo pastry combined with tangy goat cheese, mild Manchego, and aromatic herbs.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Goat cheese",
+      "amount": "8 oz",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Mild Manchego cheese",
+      "amount": "4 oz",
+      "notes": "Grated"
+    },
+    {
+      "name": "Fresh herbs (thyme, parsley)",
+      "amount": "a few sprigs each",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "All-Purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix Greek yogurt, crumbled goat cheese, grated Manchego, fresh herbs, and flour until well combined. Stir in water and olive oil.",
+    "Cut filo pastry sheets into 4-inch squares. Arrange on a parchment-lined baking sheet with the edges trimmed off.",
+    "Gently spread the cheese mixture over each square of filo, leaving about an inch border around the edges.",
+    "Fold corners inward, then fold one long side toward center to create a pouch shape. Brush top and sides lightly with water for easy peeling later.",
+    "Place in preheated oven and bake for 15-20 minutes or until golden brown and puffed up slightly.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-cheese-filo",
+    "mediterranean-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 23,
+    "carbs": 27,
+    "fat": 19
+  },
+  "slug": "rich-creamy-spanish-cheese-filo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-spanish-cheese-filo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:16:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "filo pastry",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich & Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
