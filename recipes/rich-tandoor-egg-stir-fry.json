@@ -1,0 +1,87 @@
+{
+  "title": "Rich Tandoor Egg Stir-fry",
+  "description": "A rich and crispy one-pot Jamaican dish featuring free-range eggs beaten with a hint of sweetness to complement the savory flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large free-range eggs",
+      "amount": "each"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "notes": "for searing the egg mixture"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "1 cup diced onion",
+      "notes": "sautéed for sweetness"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground allspice",
+      "notes": "for a touch of spice and depth"
+    },
+    {
+      "name": "1/4 teaspoon ground nutmeg",
+      "notes": "for flavoring the dish"
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "notes": "optional, for added heat if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Sauté diced onion in olive oil until soft and translucent. Add minced garlic and sauté for another minute.",
+    "Crack each egg into a bowl, beat with salt and pepper, then gently fold into the onion mixture.",
+    "Distribute the egg mixture evenly onto baking paper or parchment over two layers to catch any excess liquid.",
+    "Bake in the preheated oven for 15 minutes. After 10 minutes, use a spatula to flip and press down lightly on top layer of egg mixtures using tongs if needed.",
+    "Sprinkle ground allspice, nutmeg, and cayenne pepper (if using) over the top.",
+    "Bake for an additional 5 minutes until golden brown and crispy. Let cool slightly before serving.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "jamaican",
+    "rich",
+    "crisp",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "rich-tandoor-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tandoor-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:54:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "egg",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
