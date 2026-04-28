@@ -1,0 +1,102 @@
+{
+  "title": "Rich Tofu Crispy Malaysian Stir-fry",
+  "description": "A rich, crisp, romantic Malaysian dish featuring silken tofu that is air-fried and jain-friendly, perfect for a light dinner or snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block (about 400g)",
+      "notes": "Ensure it's the smooth variety for a smoother texture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2 green parts, finely chopped"
+    },
+    {
+      "name": "Bird's Eye Chilies",
+      "amount": "4-5 seeds and 2 finely chopped for added crunch"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup (30ml) light soy sauce"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Shrimp Paste (Bakso)",
+      "amount": "2-3 pieces, crushed for added protein and crunch"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "2 tsp (10g) or more to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "50g, cut into small cubes for added crunch and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 180°C (356°F). Rinse the tofu under cold water and pat it dry. Cut the tofu into thick slices.",
+    "Season the tofu with salt and pepper on both sides, then dredge in a little cornstarch for extra crunchiness.",
+    "In a separate bowl, mix together soy sauce, oyster sauce, crushed shrimp paste (or Bakso), palm sugar, vegetable oil, green onions, and water chestnuts. Add the minced garlic and finely chopped bird's eye chili to taste.",
+    "Place the seasoned tofu slices in the air fryer basket, evenly spaced for even cooking. Pour half of the marinade mixture over them first, then top with the remaining marinade. Make sure they are fully submerged and coated evenly.",
+    "Air fry for 15 minutes at 180°C (356°F). Flip the tofu slices halfway through the cooking time to ensure all sides become crispy. Adjust heat if needed to maintain an even crispiness on all pieces.",
+    "Remove from air fryer, allow to cool a bit before serving with your favorite garnishes such as sliced green onions and cilantro for additional flavor and presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crispy",
+    "malaysian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "rich-tofu-crispy-malaysian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tofu-crispy-malaysian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:48:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "silken tofu",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
