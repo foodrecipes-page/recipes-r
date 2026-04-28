@@ -1,0 +1,89 @@
+{
+  "title": "Rich Italian Peach Stir-fry",
+  "description": "A rich and silky Sicilian-inspired dish featuring ancho chilies and other aromatic ingredients that are crowd-pleasing and diabetic-friendly-friendly.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "4-5"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the peaches in a large bowl and cut them into slices. Remove the seeds and pits.",
+    "In a small saucepan, add olive oil and butter over medium heat. Once melted and hot, add garlic cloves and ginger until fragrant, about 30 seconds.",
+    "Add ancho chilies to the pan with their seeds still attached. Saute for another minute or two until they start to soften slightly.",
+    "Fold in sliced peaches, thyme leaves, salt, and pepper into the mixture. Stir occasionally until the peach slices are softened but not mushy.",
+    "Let it simmer over low heat for about 15 minutes, stirring frequently, until all the liquid has evaporated and the sauce is rich."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-italian-peach-stir-fry",
+    "silkysicilian",
+    "crowdpleaser",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 14
+  },
+  "slug": "rich-italian-peach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-peach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:42:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "ancho chillies",
+    "diet": "diabetic-friendly",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "peach",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
