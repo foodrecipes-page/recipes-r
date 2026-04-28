@@ -1,0 +1,87 @@
+{
+  "title": "Richly Lavished Irish Cream Cheese Stir-fry",
+  "description": "A rich and creamy Irish dish featuring capers, deglazed with a touch of alcohol to enhance its romantic flavor profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "12 oz (340g) firm tofu",
+      "amount": "soft",
+      "notes": "drained and pressed"
+    },
+    {
+      "name": "8 oz (225g) Dublin Bay prawns",
+      "amount": "freshly shelled"
+    },
+    {
+      "name": "6 oz (170g) Irish cream cheese",
+      "amount": "softened and cut into small pieces"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "at room temperature"
+    },
+    {
+      "name": "1/4 cup dry vermouth or white wine",
+      "amount": "unfiltered, deglazed from the pan"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tablespoon finely chopped fresh tarragon",
+      "amount": "optional for garnish"
+    },
+    {
+      "name": "Salt and black pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Season the tofu with salt and pepper.",
+    "Sauté the tofu until golden brown, about 5 minutes per side.",
+    "Add prawns to the pan; cook for 2-3 minutes on each side, or just until pinked. Remove from pan and set aside.",
+    "In a separate saucepan, heat butter over medium-high heat. Add garlic and tarragon if using, sautéing for about 1 minute.",
+    "Pour in vermouth and scrape the bottom of the pan to deglaze, stirring continuously until most liquid evaporates, about 2 minutes.",
+    "Return prawns to the pan with tofu; pour over the sauce mixture. Gently stir in Irish cream cheese pieces.",
+    "Cook for an additional minute or two until cheese is melted and thoroughly incorporated into the sauce.",
+    "Season with salt and pepper according to taste. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "cream_cheese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 608,
+    "protein": 27,
+    "carbs": 19,
+    "fat": 35
+  },
+  "slug": "richly-lavished-irish-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-lavished-irish-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:27:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "capers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Richly Lavished",
+    "dishForm": "Stir-fry"
+  }
+}
