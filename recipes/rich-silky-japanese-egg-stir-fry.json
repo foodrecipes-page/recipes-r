@@ -1,0 +1,96 @@
+{
+  "title": "Rich Silky Japanese Egg Stir-fry",
+  "description": "A light and silky Japanese egg stir-fry dish featuring egg noodles made with low-carb-friendly alternatives for a healthy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Noodles (Low-Carb)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Chicken Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Tamari Sauce (Low-Carb)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce (Low-Carb)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Egg Whites (Low-Carb)",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add vegetable oil and swirl to coat the bottom of the pan.",
+    "Add garlic powder, black pepper, and chopped scallions (if using) to the hot pan for about 30 seconds until fragrant.",
+    "Pour in the chicken stock, vegetable broth, tamari sauce, soy sauce, and water. Stir well to combine all ingredients.",
+    "Bring to a boil then reduce heat to low. Add egg noodles and stir-fry until they're soft and al dente. This should take about 5 minutes.",
+    "Remove from heat and let rest for about 2-3 minutes before serving. Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "silky",
+    "japanese",
+    "egg",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "rich-silky-japanese-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-japanese-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:17:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Egg",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
