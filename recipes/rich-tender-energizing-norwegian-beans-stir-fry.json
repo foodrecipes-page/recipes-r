@@ -1,0 +1,80 @@
+{
+  "title": "Rich Tender Energizing Norwegian Beans Stir-fry",
+  "description": "This Rich Tender Energizing Norwegian Beans Stir-fry is a vibrant and nutritious dish that features dulce de leche for added richness. It's perfect as an energizing breakfast or snack, vegetarian-friendly, and can be pressure-cooked for convenience.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Snap peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Dulce de leche",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash and soak black beans in water for at least 4 hours or overnight.",
+    "Preheat your pressure cooker. Add soaked beans, snap peas, red bell pepper, garlic cloves, dulce de leche, soy sauce, and oil to the cooker.",
+    "Secure the lid on the pressure cooker and cook on high pressure according to your model's instructions (typically 15-20 minutes).",
+    "Let the beans naturally release steam for about a minute before opening the lid. Adjust seasoning if needed.",
+    "Garnish with fresh herbs like parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "snap-peas",
+    "norwegian",
+    "energizing",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "rich-tender-energizing-norwegian-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-energizing-norwegian-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:58:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dulce de leche",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beans",
+    "descriptor": "Rich Tender Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
