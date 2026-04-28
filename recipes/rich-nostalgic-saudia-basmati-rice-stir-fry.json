@@ -1,0 +1,77 @@
+{
+  "title": "Rich Nostalgic Saudia Basmati Rice Stir-fry",
+  "description": "A rich and nostalgic saudi arabian dish featuring crispy basmati rice with a blend of aromatic spices including bhuna for a flavorful twist, suitable for those on a paleo diet.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil or coconut oil",
+      "notes": "ensure safe cooking temperatures (above 160°F/70°C)"
+    },
+    {
+      "name": "5 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon bhuna paste",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro leaves for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice under cold water and drain well.",
+    "In a large skillet, heat olive oil or coconut oil over medium-high heat. Add minced garlic and bhuna paste, cooking until fragrant (about 1 minute).",
+    "Stir in rinsed and drained basmati rice, tossing to coat the grains evenly with the spices. Cook for about 5 minutes or until all water has been absorbed.",
+    "Add a pinch of salt and stir gently. Serve hot with fresh cilantro leaves as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "nostalgic",
+    "saudi-arabian",
+    "stir-fry",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "rich-nostalgic-saudia-basmati-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nostalgic-saudia-basmati-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:22:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "basmati rice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Basmati Rice",
+    "descriptor": "Rich Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
