@@ -1,0 +1,97 @@
+{
+  "title": "Rainbow Crumbly American Trout Crumble",
+  "description": "A floral and adventurous dish featuring rainbow trout in a crumbly texture that pairs well with Keto-friendly flavors.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "main_course",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4 fillets, about 10-oz each"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup, chopped finely"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Herbes de Provence",
+      "amount": "1 tbsp, crushed"
+    },
+    {
+      "name": "Ground Flaxseed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": null
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "amount": "1, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season the trout fillets with salt and black pepper.",
+    "In a bowl, mix olive oil, dill, garlic powder, Herbes de Provence, ground flaxseed, and coconut flour. Mix well until crumbly.",
+    "Place the trout in a baking dish, then pour the crumb mixture over them evenly.",
+    "Sprinkle red bell pepper, yellow bell pepper, and green bell pepper on top of the trout fillets to create the rainbow effect.",
+    "Bake for about 25-30 minutes until fully cooked. Serve hot with a side salad or vegetable."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rainbow_trout_crumble",
+    "floral_adventurous",
+    "keto_dish"
+  ],
+  "nutrition": {
+    "calories": 512,
+    "protein": 43.6,
+    "carbs": 30.8,
+    "fat": 18.7
+  },
+  "slug": "rainbow-crumbly-american-trout-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainbow-crumbly-american-trout-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:20:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "rainbow trout",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Trout",
+    "descriptor": "Rainbow Crumbly",
+    "dishForm": "Crumble"
+  }
+}
