@@ -1,0 +1,88 @@
+{
+  "title": "Raw Friendly Peppery Silky Chicken Liver Salad",
+  "description": "A raw-friendly, peppery and silky Norwegian dish featuring chicken liver as a solo dinner option.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": "100g",
+      "notes": "fresh, organically sourced"
+    },
+    {
+      "name": "red onions",
+      "amount": "1 medium",
+      "notes": "for added crunch and flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece (about 1 tsp)",
+      "notes": "minced for a spicy kick"
+    },
+    {
+      "name": "lime zest",
+      "amount": "juice of half a lime",
+      "notes": "freshly squeezed for brightness"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/4 medium",
+      "notes": "for a creamy texture and natural sweetness"
+    },
+    {
+      "name": "walnuts",
+      "amount": "2 tablespoons",
+      "notes": "pitted, lightly toasted to enhance flavor"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch",
+      "notes": "to taste for a peppery kick"
+    }
+  ],
+  "instructions": [
+    "Slice the red onions thinly and place them in a bowl.",
+    "Dice the chicken livers into small pieces and add them to the onion mixture.",
+    "Halve the avocado, remove the pit, and finely dice it. Add to the onion and liver mixture.",
+    "Finely mince the ginger, then fold it into the salad along with the lime zest.",
+    "Add walnuts and red pepper flakes for texture and a peppery kick. Mix well until all ingredients are evenly distributed.",
+    "Serve immediately as a light dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "peppery",
+    "silky",
+    "norwegian-dish",
+    "chicken-liver-salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "raw-friendly-peppery-silky-chicken-liver-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-peppery-silky-chicken-liver-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:59:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "chicken liver",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Peppery Silky Raw",
+    "dishForm": "Salad"
+  }
+}
