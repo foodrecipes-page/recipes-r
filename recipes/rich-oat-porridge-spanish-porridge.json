@@ -1,0 +1,83 @@
+{
+  "title": "Rich Oat Porridge Spanish Style",
+  "description": "A rich and tender oat porridge perfect for kids featuring a dairy-free option, ideal as a kid-friendly breakfast dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat Porridge Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chia Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix oat porridge, almond milk, chia seeds, and sugar in a bowl until well combined.",
+    "Fold vanilla extract into the mixture.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Sprinkle coconut flakes over the top of the mixture.",
+    "Bake for 25 minutes or until golden brown and crispy around the edges, turning once halfway through cooking time.",
+    "Serve warm as a breakfast treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "tender",
+    "kid-friendly",
+    "spanish",
+    "porridge",
+    "oats",
+    "bake",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "rich-oat-porridge-spanish-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-oat-porridge-spanish-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:14:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "porridge oats",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Oat Porridge",
+    "descriptor": "Rich",
+    "dishForm": "Porridge"
+  }
+}
