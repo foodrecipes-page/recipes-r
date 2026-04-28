@@ -1,0 +1,90 @@
+{
+  "title": "Rich & Crisp German Pomegranate Grilled",
+  "description": "A festive dish featuring a rich and crispy texture made with pomegranate molasses, perfect for a special occasion or holiday gathering.",
+  "cuisine": "German",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "5 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "1 cup lightly crushed"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a mixing bowl, beat the eggs until frothy. Add pomegranate molasses and stir well.",
+    "Add almond flour, coconut oil, salt, black pepper, pomegranate seeds, and lemon zest to the egg mixture. Mix until smooth.",
+    "Place your desired protein (e.g., chicken, fish) on a tray lined with parchment paper or aluminum foil for easy cleanup.",
+    "Drizzle about 1 tbsp of the batter over each piece of protein, making sure it's evenly coated but not too much as to make the dish heavy. Place them on the preheated grill and cook until golden brown, flipping once if necessary (about 5-7 minutes).",
+    "Serve hot with extra pomegranate seeds for garnish.",
+    "Enjoy your rich & crisp German Pomegranate Grilled! This dish is perfect for a festive, keto-friendly dinner experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "rich",
+    "crisp",
+    "festive",
+    "pomegranate",
+    "grilled",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 27,
+    "carbs": 18,
+    "fat": 24
+  },
+  "slug": "rich-crisp-german-pomegranate-grilled",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-german-pomegranate-grilled",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:27:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Rich & Crisp",
+    "dishForm": "Grill"
+  }
+}
