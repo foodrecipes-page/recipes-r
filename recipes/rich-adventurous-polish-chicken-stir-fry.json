@@ -1,0 +1,95 @@
+{
+  "title": "Rich & Adventurous Polish Chicken Stir-fry",
+  "description": "A rich and dense Polish dish featuring birds-eye chilis in a keto-friendly, spicy chicken stir-fry.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth concentrate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pepper flakes (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "30g"
+    },
+    {
+      "name": "bird's eye chilis",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "bell peppers, diced",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Season chicken with salt and pepper. Add to the pan and sauté until golden brown on all sides.",
+    "Add minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in tomato paste, chicken broth concentrate, and butter. Simmer for 2 minutes, allowing flavors to meld together.",
+    "Toss in the peppers and continue cooking for an additional 3-4 minutes.",
+    "Sprinkle with pepper flakes (if using) and stir well. Cook for another minute to combine all ingredients.",
+    "Divide into serving plates immediately after removing from heat for best flavor retention."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "poultry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 29,
+    "carbs": 5,
+    "fat": 34
+  },
+  "slug": "rich-adventurous-polish-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-adventurous-polish-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:00:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich & Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
