@@ -1,0 +1,101 @@
+{
+  "title": "Rich Crunchy Midnight Braise Lamb",
+  "description": "A rich and crunchy Canadian dish featuring tender lamb loin chops braised to perfection with a hint of midnight craving flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "6"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season lamb chops with salt and pepper.",
+    "Sauté garlic, onion, carrots, celery in olive oil until softened.",
+    "Add tomato paste and cook for an additional minute.",
+    "Pour in chicken broth and red wine. Bring to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "Fold in thyme sprigs and bay leaves. Add lamb chops and continue cooking for another 20-30 minutes or until tender.",
+    "Let rest before serving as desired.",
+    "Garnish with additional fresh herbs if preferred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich",
+    "crunchy",
+    "midnight",
+    "canadian",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 18,
+    "fat": 45
+  },
+  "slug": "rich-crunchy-midnight-braise-lamb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-midnight-braise-lamb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:04:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Crunchy Midnight",
+    "dishForm": "Braise"
+  }
+}
