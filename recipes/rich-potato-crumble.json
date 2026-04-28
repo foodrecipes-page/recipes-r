@@ -1,0 +1,77 @@
+{
+  "title": "Rich Stout Potato Crumble",
+  "description": "A decadent potato dish enhanced with stout, perfect for a midnight craving and also suitable as a paleo-friendly snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large russet potato",
+      "amount": "peeled and diced"
+    },
+    {
+      "name": "2 cups almond flour",
+      "amount": "",
+      "notes": "Substitute with coconut flour for a keto-friendly option."
+    },
+    {
+      "name": "2 tbsp melted butter or ghee",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup unsweetened cocoa powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely chopped walnuts (optional)",
+      "amount": "",
+      "notes": "For extra crunch."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine the potato, almond flour, melted butter or ghee, and cocoa powder in a large bowl.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. If using walnuts, sprinkle them on top before baking.",
+    "Bake for 25-30 minutes or until golden brown and crispy.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "potato",
+    "crumble",
+    "dutch",
+    "midnight craving"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 3.5,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:04:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "stout",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potato",
+    "descriptor": "Rich",
+    "dishForm": "Crumble"
+  }
+}
