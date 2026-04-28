@@ -1,0 +1,85 @@
+{
+  "title": "Rich & Velvety Ukrainian Beef Stir-fry",
+  "description": "A rich and velvety beef dish marinated in soy sauce with no eggs for a date-night-friendly meal that showcases traditional Ukrainian flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cubes",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Blend 3 tablespoons of soy sauce with minced garlic, red pepper flakes, and cornstarch until smooth.",
+    "Add cubed beef to the marinade and coat evenly. Marinate for at least an hour.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Remove meat from the marinade and set aside.",
+    "Sear the beef cubes until browned on all sides, about 3-4 minutes per side.",
+    "Pour off excess fat from the wok, add more oil if necessary.",
+    "Add marinated sauce to the hot wok, stir-fry for a minute or two until slightly thickened.",
+    "Return the beef to the wok and toss with vegetables (optional: sliced onions, bell peppers), cooking until heated through.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "velvety",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "rich-velvety-ukrainian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-ukrainian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:26:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "soy sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Rich & Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
