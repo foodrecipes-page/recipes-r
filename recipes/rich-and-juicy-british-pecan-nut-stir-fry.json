@@ -1,0 +1,88 @@
+{
+  "title": "Rich and Juicy British Pecan Nut Stir-fry",
+  "description": "A rich and juicy British dish featuring pecan nuts, pickled vegetables, and a gluten-free base for a light yet flavorful meal.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "gluten-free tamari",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over high heat.",
+    "Add pecans and water chestnuts to the pan, tossing for about 30 seconds.",
+    "Add garlic, soy sauce, tamari, lime juice, and pickled vegetables to the pan. Stir-fry until vegetables are tender-crisp, about 5 minutes.",
+    "Fold in sliced bell peppers and cook for an additional minute or two until heated through.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-potato-stir-fry",
+    "gluten-free-recipe",
+    "juicy-rich-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "rich-and-juicy-british-pecan-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-juicy-british-pecan-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:41:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "pecan nuts",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Rich and Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
