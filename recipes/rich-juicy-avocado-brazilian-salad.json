@@ -1,0 +1,83 @@
+{
+  "title": "Rich & Juicy Avocado Brazilian Salad",
+  "description": "A rich and juicy avocado-based salad with a touch of ferment, perfect for date nights or any low-fat-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup lemon juice"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g feta cheese, crumbled"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3 garlic cloves, minced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 tbsp fresh basil leaves"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup extra virgin olive oil"
+    },
+    {
+      "name": "lime juice",
+      "amount": "half a lime, juiced"
+    }
+  ],
+  "instructions": [
+    "Rinse and dry the avocados. Scoop out flesh into a bowl.",
+    "Add lemon juice, feta cheese, salt, garlic, and basil to the avocado mixture. Mix well.",
+    "Drizzle extra virgin olive oil over the top of the salad.",
+    "Squeeze half a lime on top for additional freshness and zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "brazilian",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 27,
+    "fat": 16
+  },
+  "slug": "rich-juicy-avocado-brazilian-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-juicy-avocado-brazilian-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:42:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "lemon juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Rich & Juicy",
+    "dishForm": "Salad"
+  }
+}
