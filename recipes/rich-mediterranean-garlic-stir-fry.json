@@ -1,0 +1,87 @@
+{
+  "title": "Rich Mediterranean Garlic Stir-fry",
+  "description": "A rich and tender mediterranean dish featuring garlic granules, perfect for a brunch mood that is also high-protein-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Season chicken with salt and pepper.",
+    "Heat olive oil in a pan over medium heat. Add garlic granules, cook for 30 seconds until golden brown, remove from pan and set aside.",
+    "Sauté bell peppers and zucchini in the same pan until tender. Stir in tomato paste and lemon juice, cooking for another minute.",
+    "Add chicken to the pan with vegetables, season with salt and pepper. Cook for about 5 minutes or until chicken is cooked through.",
+    "Transfer mixture to a baking dish and top with the reserved garlic granules. Bake for 10-12 minutes until juices are bubbly.",
+    "Serve hot, garnished with chopped basil leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-mediterranean-dish",
+    "stir-fry",
+    "high-protein-friendly",
+    "brunch-mood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 42,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "rich-mediterranean-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:38:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "garlic granules",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
