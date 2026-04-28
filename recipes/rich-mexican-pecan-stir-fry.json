@@ -1,0 +1,80 @@
+{
+  "title": "Rich Mexican Pecan Stir-Fry",
+  "description": "A nut-free-friendly, rich and dense dish featuring black treacle and sous-vide techniques for a unique date-night Venezuelan flavor.",
+  "cuisine": "Mexican-Venezuelan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide bag",
+      "amount": "1"
+    },
+    {
+      "name": "pecans (unsalted)",
+      "amount": "200 grams",
+      "notes": "chopped and coated in black treacle before cooking"
+    },
+    {
+      "name": "black treacle",
+      "amount": "5 tablespoons",
+      "notes": "baste pecans with treacle during sous-vide cooking process"
+    },
+    {
+      "name": "sugar (for browning)",
+      "amount": "20 grams",
+      "notes": "used for caramelizing the treacle and enhancing flavors"
+    },
+    {
+      "name": "salt (kosher salt, for seasoning)",
+      "amount": "5 grams"
+    },
+    {
+      "name": "black pepper (grated fresh, for seasoning)",
+      "amount": "1 gram"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to a temperature of 60°C.",
+    "Mix black treacle and sugar together until fully dissolved. Brush this mixture onto the pecans.",
+    "Season the pecans with salt and freshly grated pepper before placing them in the sous-vade bag.",
+    "Cook the bagged pecans at 60°C for approximately 2 hours, basting occasionally to prevent sticking.",
+    "Once cooked, carefully remove the bag from the sous-vide machine. Let cool slightly and then separate the pecans.",
+    "Serve hot or at room temperature with a side of warm quinoa and sliced avocado."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-mexican-pecan-stir-fry",
+    "nut-free-friendly",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 40
+  },
+  "slug": "rich-mexican-pecan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mexican-pecan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:25:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "black treacle",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pecans",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
