@@ -1,0 +1,90 @@
+{
+  "title": "Rich Tofu Thai Stir-fry",
+  "description": "A rich and silky Thai dish featuring a creamy sauce made with tofu as the main ingredient, perfect for a cozy dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium (sliced)"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "Chili garlic sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup (optional)"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add oil and swirl to coat.",
+    "Add bell peppers and snow peas, stir-fry for about 2 minutes until slightly softened.",
+    "Crush the tofu in a colander to remove excess liquid, then add it to the pan with chili garlic sauce, fish sauce, soy sauce, and oyster sauce. Stir well to combine.",
+    "Gradually pour in water while stirring continuously to create a creamy sauce. Let simmer for about 5 minutes until thickened slightly.",
+    "Stir in chopped cilantro if using. Taste and adjust seasoning as needed.",
+    "Serve the rich Tofu Thai Stir-fry over cooked rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-thai-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 579,
+    "protein": 21,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "rich-tofu-thai-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tofu-thai-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:51:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "tagliatelle",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tofu",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
