@@ -1,0 +1,87 @@
+{
+  "title": "Rich Chewy Lazy Sunday Potatoe Bun",
+  "description": "A rich and chewy potato bun recipe perfect for lazy Sunday mornings, featuring a sugar-free twist to keep it healthy but indulgent.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Potato Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tablespoons, softened"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs, lightly beaten"
+    },
+    {
+      "name": "Vegan Butter for Piping (optional)",
+      "amount": "for decoration"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, mix together the Potato Flour and Almond Meal. Add in the Coconut Sugar, Baking Powder, and Salt.",
+    "Cut the softened Butter into small cubes and fold them into the dry ingredients until just combined, ensuring not to overmix to maintain moisture.",
+    "Gently stir in the beaten Eggs until a dough forms. The mixture will be soft and sticky.",
+    "Transfer the dough onto a lightly floured surface. Knead gently for about 2-3 minutes until smooth.",
+    "Lightly dust your hands with flour, and divide the dough into 8 equal parts. Roll each part into a ball and place on a lined baking sheet.",
+    "Using an egg wash (1 beaten egg mixed with 1 tablespoon water), lightly brush the tops of the buns for extra shine. Optionally, pipe Vegan Butter around the edges to enhance flavor and appearance.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown. The center should have an internal temperature of at least 160°F (70°C).",
+    "Allow buns to cool slightly before serving. Serve warm with your favorite toppings like a dollop of vegan butter and fresh berries.",
+    "For best results, let the Potatoe Buns sit for a few minutes after baking to develop their texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday-dish",
+    "rich-chewy-potato-bun",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "rich-chewy-lazy-sunday-potatoe-bun",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chewy-lazy-sunday-potatoe-bun",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:30:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "cure",
+    "primaryIngredient": "potatoe buns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Potatoe bun",
+    "descriptor": "rich chewy lazy sunday",
+    "dishForm": "Bun"
+  }
+}
