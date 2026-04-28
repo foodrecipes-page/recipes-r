@@ -1,0 +1,80 @@
+{
+  "title": "Rich Slovakian Chorizo Stir-fry",
+  "description": "A rich and creamy Slovakian dish featuring chorizo with a tadka sauce for added flavor and protein content.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chorizo",
+      "amount": "10 oz"
+    },
+    {
+      "name": "tadka sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the tadka sauce in a pan over medium heat.",
+    "Add onion and garlic to the pan, sautéing until softened.",
+    "Fold in chorizo pieces, stirring for about 3-4 minutes or until they are golden brown and crispy.",
+    "Stir in tomato puree and bell pepper slices. Cook for another 5 minutes.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich-slovakian-chorizo-stir-fry",
+    "creamy-slovakian-dish",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 32,
+    "carbs": 16,
+    "fat": 22
+  },
+  "slug": "rich-slovakian-chorizo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-chorizo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:10:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "chorizo",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chorizo",
+    "descriptor": "rich",
+    "dishForm": "Stir-fry"
+  }
+}
