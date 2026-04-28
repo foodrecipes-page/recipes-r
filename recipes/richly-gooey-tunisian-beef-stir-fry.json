@@ -1,0 +1,90 @@
+{
+  "title": "Richly Gooey Tunisian Beef Stir-fry",
+  "description": "This rich and velvety dish features a blend of red wine jelly, roasted beef, and other festive ingredients in a perfect keto-friendly meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Season beef with salt and black pepper.",
+    "Roast beef in the preheated oven for about 20-25 minutes or until desired doneness is reached. Let rest for a few minutes before slicing thinly.",
+    "Dice onions and tomatoes. Mince garlic cloves.",
+    "Heat olive oil in a pan over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.",
+    "Add sliced beef to the pan, letting it sear on each side for about 2 minutes per side. Remove from heat to keep warm if needed.",
+    "Stir together red wine jelly with diced onions and tomatoes in a saucepan. Simmer over low-medium heat until thickened, about 10-15 minutes.",
+    "Combine beef slices with the tomato-jelly mixture in a large serving bowl or plate. Serve hot as a festive keto-friendly dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "rich",
+    "velvety",
+    "festive",
+    "beef",
+    "stir-fry",
+    "red-wine-jelly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "richly-gooey-tunisian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-gooey-tunisian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:10:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "red wine jelly",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Beef",
+    "descriptor": "Richly Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
