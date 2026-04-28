@@ -1,0 +1,97 @@
+{
+  "title": "Rich Argentinian Beef Stir-fry",
+  "description": "A rich and tender post-workout dish featuring allspice for added flavor and protein-friendly with a high-protein content.",
+  "cuisine": "Argentine",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "250g",
+      "notes": "ensure it's lean meat to avoid high fat content"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 tsp",
+      "notes": "for added flavor and protein quality assurance"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large, diced",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "use for richness and depth"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for umami and protein boost"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing and flavor enhancement"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Season the beef with allspice.",
+    "Sauté onions, garlic, and bell peppers in olive oil until softened.",
+    "Add beef to the pan, sear for about 2-3 minutes on each side or until browned.",
+    "Pour tomato paste over meat to create a thick sauce. Mix soy sauce evenly into the mixture.",
+    "Transfer the stir-fry to an oven-proof dish and bake at 350°F (175°C) for 15 minutes.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "rich",
+    "stir-fry",
+    "tender",
+    "post-workout",
+    "allspice",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 38,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "rich-argentinian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-argentinian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:02:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "allspice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
