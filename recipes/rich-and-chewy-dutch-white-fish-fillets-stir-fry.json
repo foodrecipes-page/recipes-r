@@ -1,0 +1,96 @@
+{
+  "title": "Rich And Chewy Dutch White Fish Fillets Stir-Fry",
+  "description": "A rich and chewy Dutch white fish fillet dish marinated in a savory soy sauce mixture that's vegetarian-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "Chicken bouillon cubes",
+      "amount": "2 cubes (optional)"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix soy sauce, brown sugar, red pepper flakes, ginger, minced garlic, and water. Add chicken bouillon cubes if using.",
+    "Add cornstarch to the mixture and stir until smooth. Heat olive oil in a large skillet over medium-high heat.",
+    "Place fish fillets in the heated skillet and cook for 2-3 minutes on each side or until golden brown. Pour marinade into the pan and bring to a boil, stirring constantly to dissolve sugar.",
+    "Reduce heat to low and simmer for 5-10 minutes until thickened. Serve hot with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "rich",
+    "chewy",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 37,
+    "carbs": 52,
+    "fat": 24
+  },
+  "slug": "rich-and-chewy-dutch-white-fish-fillets-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-chewy-dutch-white-fish-fillets-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:49:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "white fish fillets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "White Fish Fillets",
+    "descriptor": "Rich And Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
