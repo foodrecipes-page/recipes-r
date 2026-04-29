@@ -1,0 +1,90 @@
+{
+  "title": "Rich Light Midnight-Craving Egyptian Spaghetti Stir-fry",
+  "description": "A light and rich spaghetti dish that satisfies a midnight craving, perfect for those following a fodmap-friendly diet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of spaghetti",
+      "amount": "",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of olive oil",
+      "amount": "",
+      "notes": "Use for stir-frying and drizzling on top"
+    },
+    {
+      "name": "1/2 teaspoon of ground cinnamon",
+      "amount": "",
+      "notes": "For added depth and warmth"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Squeezed fresh, optional but recommended for brightness"
+    },
+    {
+      "name": "1/4 cup of grated Parmesan cheese",
+      "amount": "",
+      "notes": "Optional, can be substituted with a non-dairy alternative if needed"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for about 30 seconds until fragrant.",
+    "Dress the cooked spaghetti with lemon juice, salt, and pepper. Toss gently to coat evenly.",
+    "Sprinkle the ground cinnamon on top of the spaghetti and toss again to combine.",
+    "Drizzle a bit more olive oil over the spaghetti and mix well.",
+    "Garnish with grated Parmesan cheese if using, before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "midnight-craving",
+    "rich-light",
+    "stir-fry",
+    "spaghetti"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "rich-light-midnight-craving-egyptian-spaghetti-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-light-midnight-craving-egyptian-spaghetti-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:38:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "spaghetti",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "rich light midnight-craving",
+    "dishForm": "Stir-fry"
+  }
+}
