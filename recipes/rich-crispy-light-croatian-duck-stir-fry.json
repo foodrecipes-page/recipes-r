@@ -1,0 +1,104 @@
+{
+  "title": "Rich Crispy Light Croatian Duck Stir-fry",
+  "description": "A rich and crispy light Croatian dish featuring duck sauce, temper, and a low-carb twist for a flavorful meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "rich",
+    "crispy",
+    "light"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast fillets",
+      "amount": "100g"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "onions, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "chicken broth concentrate",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cilantro, chopped for garnish (optional)",
+      "amount": ""
+    },
+    {
+      "name": "zucchini, thinly sliced",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C.",
+    "Season the duck breast fillets with salt and pepper. Sauté them in a bit of olive oil until golden brown on both sides, about 3-4 minutes per side.",
+    "Remove from heat and set aside to keep warm while you prepare the sauce.",
+    "In a small saucepan, add chicken broth concentrate, apple cider vinegar, and a pinch of salt. Heat gently over low flame for about 5 minutes until reduced slightly.",
+    "Meanwhile, in another pan, sauté diced onions with minced garlic until translucent. Add sliced bell peppers, zucchini, and cumin seeds to the pan. Stir well and cook for an additional 2-3 minutes.",
+    "Pour the sauce into the pan with vegetables and let it simmer for about 5 more minutes to allow flavors to meld together. Adjust seasoning if needed.",
+    "Return the duck fillets to the pan and stir gently to coat them evenly with the sauce. Cook for another minute until all the ingredients are heated through.",
+    "Transfer to a serving dish, garnish with chopped cilantro (if using), and serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "crispy",
+    "light",
+    "croatian",
+    "duck",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "rich-crispy-light-croatian-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-light-croatian-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:57:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "duck sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "duck",
+    "descriptor": "Rich Crispy Light",
+    "dishForm": "Stir-fry"
+  }
+}
