@@ -1,0 +1,84 @@
+{
+  "title": "Rich Crunchy Comfortable Saudi Egg Stir-fry",
+  "description": "A rich and comforting dish featuring free-range eggs beaten with dairy-free-friendly elements for a satisfying meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "free-range egg",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves (minced)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick frying pan over medium heat. Add sesame oil and let it warm up.",
+    "Crack the egg into the pan, gently stirring while the yolk cooks to your desired consistency.",
+    "Add minced garlic and chopped onion to the pan. Stir-fry for about 1-2 minutes until onions are translucent.",
+    "Gradually pour in tomato sauce, stir well to combine all ingredients.",
+    "Season with salt and black pepper according to taste. Let it simmer for another minute or so.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "crunchy",
+    "comfortable",
+    "egg-stir-fry",
+    "free-range-eggs",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "rich-crunchy-comfortable-saudi-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-comfortable-saudi-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:46:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Egg",
+    "descriptor": "Rich Crunchy Comfortable",
+    "dishForm": "Stir-fry"
+  }
+}
