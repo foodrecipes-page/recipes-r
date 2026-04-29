@@ -1,0 +1,99 @@
+{
+  "title": "Romantic Fermented Dense Syrian Passion Fruit Stir-fry",
+  "description": "A diabetic-friendly romantic Syrian dish featuring fermented passion fruit pulp combined with aromatic spices for a dense and flavorful meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented Passion Fruit Pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "2-3 whole seeds"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turmeric Oil",
+      "amount": "2-3 tablespoons"
+    },
+    {
+      "name": "Passion Fruit Seeds (optional)",
+      "amount": "few seeds for garnish"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "adjust based on ingredients' flavors"
+    }
+  ],
+  "instructions": [
+    "Heat turmeric oil in a non-stick pan over medium heat.",
+    "Add cumin powder and cardamom powder, cook until fragrant (about 30 seconds).",
+    "Stir in ginger paste and mix well for about 1 minute to avoid burning.",
+    "Gradually add fermented passion fruit pulp while continuously stirring; cook for another 2-3 minutes until the mixture thickens slightly.",
+    "Pour in lemon juice, stir evenly. Reduce heat to low if needed, allowing it to simmer gently for an additional 5-7 minutes or until all flavors are well combined and the consistency is as desired (dense and flavorful).",
+    "Garnish with a few passion fruit seeds for a pop of color and texture.",
+    "Serve hot or at room temperature. Optional: Serve alongside crusty bread for added texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "romantic",
+    "dense",
+    "stir-fry",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 3.6,
+    "carbs": 25,
+    "fat": 4.8
+  },
+  "slug": "romantic-fermented-dense-syrian-passion-fruit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-fermented-dense-syrian-passion-fruit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:41:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Passion Fruit",
+    "descriptor": "Fermented Dense Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
