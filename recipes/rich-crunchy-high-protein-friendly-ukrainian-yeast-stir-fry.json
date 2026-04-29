@@ -1,0 +1,82 @@
+{
+  "title": "Rich Crunchy High-Protein-Friendly Ukrainian Yeast Stir-fry",
+  "description": "A rich, crunchy dish featuring creme fraiche and a high-protein blend with cured meats, ideal for indulgent breakfast or snack options.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    "creamy",
+    "youthful"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "50g"
+    },
+    {
+      "name": "High-protein blend (beef, chicken)",
+      "amount": "50g"
+    },
+    {
+      "name": "Cured meats (salami or pancetta)",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh herbs (parsley, dill, chives)",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Sift the Ukrainian yeast with a pinch of salt.",
+    "Heat olive oil in a pan over medium heat. Add sliced cured meats and cook until crispy on both sides.",
+    "Add creme fraiche to the pan, stir for 30 seconds, then add high-protein blend and herbs. Stir gently until heated through.",
+    "Season with salt and pepper as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "yeast",
+    "stir-fry",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 28,
+    "carbs": 3,
+    "fat": 11
+  },
+  "slug": "rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:58:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "creme fraiche",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yeast",
+    "descriptor": "Rich Crunchy High-Protein-Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
