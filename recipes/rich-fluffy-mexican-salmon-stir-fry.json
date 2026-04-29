@@ -1,0 +1,98 @@
+{
+  "title": "Rich, Fluffy Mexican Salmon Stir-fry",
+  "description": "This indulgent mexican dish features smoked salmon in a rich and fluffy sauce, perfect for a heartier meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "rich",
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon Fillets",
+      "amount": "12 ounce",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "pitted and diced"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, for cooking the sauce"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup",
+      "notes": "to thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Add olive oil and cook garlic, onion, and red bell pepper until softened.",
+    "Add smoked salmon fillets to the skillet and let them sit for about 2 minutes on each side, allowing the salmon to slightly crisp up.",
+    "In a separate bowl, mix together chicken broth and cornstarch until smooth. Gradually pour into the skillet while stirring continuously.",
+    "Cook over medium heat until thickened, about 5-7 minutes. Stir in avocado, cilantro, and season with salt and pepper according to taste.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked salmon",
+    "stir-fry",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 26,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "rich-fluffy-mexican-salmon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-mexican-salmon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:30:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "smoked salmon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "salmon",
+    "descriptor": "Rich, Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
