@@ -1,0 +1,82 @@
+{
+  "title": "Rich Light Dutch Yeast Pancakes",
+  "description": "These rich light pancakes are perfect for a brunch, featuring an instant yeast batter and dairy-free options to suit various dietary needs.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Instant Yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Milk",
+      "notes": "For dairy-free option"
+    },
+    {
+      "name": "Water",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "For flavor enhancement"
+    },
+    {
+      "name": "Coconut Oil or Melted Coconut Spread",
+      "amount": "2 tablespoons",
+      "notes": "For richness and flakiness"
+    },
+    {
+      "name": "Optional Toppings",
+      "notes": "- Fresh Fruit - Maple Syrup - Butter"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Instant Yeast with milk and water. Stir in salt and optional toppings.",
+    "Stir in coconut oil or spread until thoroughly mixed into the liquid mixture.",
+    "Let the batter sit at room temperature for about 15 minutes to allow the yeast to activate and foam slightly.",
+    "Preheat a nonstick skillet over medium heat and lightly grease with more coconut oil if preferred.",
+    "Pour ¼ cup of batter onto the hot pan and cook until bubbles form on top, about 2-3 minutes. Flip and continue cooking until golden brown on both sides.",
+    "Serve warm with optional toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "light",
+    "dutch-yeast-brunch"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "rich-light-dutch-yeast-brunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-light-dutch-yeast-brunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:40:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "instant yeast",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Yeast",
+    "descriptor": "Rich Light",
+    "dishForm": "Brunch"
+  }
+}
