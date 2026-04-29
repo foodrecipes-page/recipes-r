@@ -1,0 +1,85 @@
+{
+  "title": "Rich Mediterranean Pistachio Stir-fry",
+  "description": "A rich and juicy mediterranean dish featuring unsalted pistachios that appeals to midnight cravings, suitable for egg-free diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Wash and pat dry the pistachios. Halve the tomatoes lengthwise and slice them into thin strips.",
+    "Peel and finely chop the onion, keeping some of its green part for color and flavor.",
+    "Mince the garlic cloves and mix with chopped onions in a large mixing bowl.",
+    "Add halved and sliced tomato pieces to the bowl along with red pepper flakes and olive oil. Mix well.",
+    "Pour water into the mixing bowl, cover it, and let sit for 10 minutes. This will allow the tomatoes to release their juices.",
+    "Once done soaking, pour out the water and discard it. Stir in the chopped pistachios. Season with salt if needed.",
+    "Heat a non-stick pan over medium-high heat. Once hot, add a bit of olive oil, then gently toss in the mixture from the mixing bowl.",
+    "Cook for about 5 minutes, stirring occasionally until the tomatoes and onions are softened and slightly caramelized. Keep tossing to prevent sticking.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rich-mediterranean-dish",
+    "pistachio-stir-fry",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "rich-mediterranean-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:04:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
