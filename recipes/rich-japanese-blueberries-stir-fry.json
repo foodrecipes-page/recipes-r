@@ -1,0 +1,82 @@
+{
+  "title": "Rich Japanese Blueberries Stir-fry",
+  "description": "A rich and fluffy Japanese dish featuring blueberries that is perfect for post-workout snacks, whole30-friendly and suitable for air frying.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh blueberries",
+      "amount": "",
+      "notes": "Use fresh or frozen, thawed"
+    },
+    {
+      "name": "2 tbsp maple syrup",
+      "amount": "tbsp",
+      "notes": "For added richness"
+    },
+    {
+      "name": "1/4 cup almond flour",
+      "amount": "cup",
+      "notes": "Can be substituted with oat flour for gluten-free option"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a mixing bowl, combine the blueberries, maple syrup, almond flour, salt, and black pepper.",
+    "Stir until the mixture is evenly coated with all ingredients. Ensure no clumps remain.",
+    "Pour the mixture into your air fryer basket.",
+    "Air fry for 10 minutes or until golden brown, stirring halfway through cooking time to ensure even heat distribution.",
+    "Remove from air fryer and let rest for a minute before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "fluffy",
+    "japanese",
+    "blueberries",
+    "post-workout",
+    "air-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 89,
+    "protein": 1.5,
+    "carbs": 16,
+    "fat": 4
+  },
+  "slug": "rich-japanese-blueberries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-japanese-blueberries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:21:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "blueberries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Blueberries",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
