@@ -1,0 +1,94 @@
+{
+  "title": "Roasted Syrian Farfalle Pasta",
+  "description": "An earthy and dense vegan-friendly dish featuring roasted farfalle pasta that serves as an excellent hangover-cure option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups of whole wheat farfalle pasta",
+      "amount": "cup"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (8 oz) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "2 tbsp fresh herbs (thyme and oregano blend)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 tbsp ground cumin",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 tbsp ground coriander",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the farfalle pasta under cold water and set aside.",
+    "In a large skillet, sauté the onion and garlic in olive oil until soft and translucent, about 5 minutes.",
+    "Add crushed tomatoes, herbs, salt, black pepper, cumin, and coriander. Stir well to combine.",
+    "Bring the sauce to a simmer and cook for an additional 10 minutes.",
+    "Add the farfalle pasta to the skillet, toss gently with tongs until coated evenly with the sauce.",
+    "Transfer the dish onto a baking sheet lined with parchment paper. Roast in a preheated oven at 425°F (218°C) for about 15 minutes or until golden brown and bubbly.",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "roasted-pasta",
+    "vegan-dinner",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 12,
+    "carbs": 95,
+    "fat": 30
+  },
+  "slug": "roasted-syrian-farfalle-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-syrian-farfalle-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:03:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "farfalle",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "farfalle",
+    "descriptor": "roasted",
+    "dishForm": "pasta"
+  }
+}
