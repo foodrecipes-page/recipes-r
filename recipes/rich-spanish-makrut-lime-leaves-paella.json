@@ -1,0 +1,108 @@
+{
+  "title": "Rich Spanish Makrut Lime Leaves Paella",
+  "description": "A creamy, monsoon-inspired Spanish dish featuring fresh makrut lime leaves for a unique flavor profile, perfect for diabetics due to low glycemic impact.",
+  "cuisine": "spanish",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "makrut lime leaves",
+      "amount": "15g",
+      "notes": "fresh, finely chopped"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "5 threads",
+      "notes": "soaked in 1 tsp warm water"
+    },
+    {
+      "name": "creamy coconut milk",
+      "amount": "400ml",
+      "description": "full-fat, unsweetened"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a wide paella pan over medium heat.",
+    "Sauté onion and garlic for 2 minutes until fragrant.",
+    "Add bell peppers and sauté for 5 minutes until tender.",
+    "Stir in soaked saffron, bay leaf, black pepper, and sea salt.",
+    "Gently mix in 15g chopped makrut lime leaves.",
+    "Pour in 400ml creamy coconut milk and cook on low heat for 10 minutes, stirring occasionally.",
+    "Remove from heat and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "diabetic-friendly",
+    "creamy",
+    "monsoon",
+    "makrut-lime-leaves",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-spanish-makrut-lime-leaves-paella",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-makrut-lime-leaves-paella",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:53:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "makrut lime leaves",
+    "descriptor": "Rich",
+    "dishForm": "Paella"
+  }
+}
