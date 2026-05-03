@@ -1,0 +1,108 @@
+{
+  "title": "Roasted Japanese Oxtail Curry",
+  "description": "A malty, crispy, festive Japanese dish featuring tender oxtail, en-croute crust, and a savory curry sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail pieces",
+      "amount": "1 kg",
+      "notes": "4-5 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "80 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Japanese curry roux (malty)",
+      "amount": "120 g"
+    },
+    {
+      "name": "water",
+      "amount": "700 ml"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Season oxtail pieces with salt and pepper.",
+    "Coat each piece in breadcrumbs until fully covered.",
+    "Heat olive oil in an oven‑safe skillet over medium‑high heat and sear oxtail until golden brown.",
+    "Transfer skillet to the oven and roast for 45 minutes.",
+    "Dice onion, carrot, mince garlic and ginger.",
+    "Remove skillet from oven and add the vegetables; sauté until softened.",
+    "Stir in curry roux, then pour in water and soy sauce; bring to a gentle simmer.",
+    "Return roasted oxtail to the skillet and simmer uncovered for 45 minutes until sauce thickens.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "kosher-friendly",
+    "one-pot",
+    "roasted",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 80,
+    "carbs": 110,
+    "fat": 75
+  },
+  "slug": "roasted-japanese-oxtail-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-japanese-oxtail-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:13:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "oxtail",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oxtail",
+    "descriptor": "Roasted",
+    "dishForm": "Curry"
+  }
+}
