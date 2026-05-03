@@ -1,0 +1,110 @@
+{
+  "title": "Rich Korean Tofu Pilaf",
+  "description": "A rich and crispy Korean dish featuring lemongrass stalks, knead, suitable for halal dietary needs.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "400g firm tofu",
+      "amount": "",
+      "notes": "Ensure it's fully drained and pressed to achieve the desired texture."
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup short-grain rice",
+      "amount": "",
+      "notes": "Rinse thoroughly to remove excess starch."
+    },
+    {
+      "name": "1 can (400ml) chicken broth",
+      "amount": "",
+      "notes": "Can be replaced with water for a vegetarian version."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons mirin or rice vinegar",
+      "amount": "",
+      "notes": "Mirin is preferred for authentic taste."
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "5 lemongrass stalks, cut into 3 pieces each",
+      "amount": "",
+      "notes": "Use the white part of the stalks only."
+    },
+    {
+      "name": "2 green onions, thinly sliced",
+      "amount": "",
+      "notes": "For garnish."
+    },
+    {
+      "name": "1 tablespoon honey or maple syrup (optional)",
+      "amount": "",
+      "notes": "To enhance sweetness."
+    }
+  ],
+  "instructions": [
+    "Prepare lemongrass by pounding it lightly between your palms until fragrant, then mince finely.",
+    "Heat sesame oil in a wok or large skillet over medium heat. Add onion and garlic; sauté for about 2 minutes until softened.",
+    "Add tofu pieces to the pan; stir-fry for another minute to develop color and texture.",
+    "Pour in chicken broth, soy sauce, mirin (or rice vinegar), and honey/maple syrup if using. Bring to a simmer.",
+    "Stir in lemongrass, cover with a lid, and let it cook for 2 minutes without disturbing the mixture.",
+    "Gently fold in rinsed short-grain rice; distribute evenly across the pan so that it doesn't stick or clump up.",
+    "Return the lid and continue cooking for about 10 more minutes until liquid is absorbed and rice grains are tender but not mushy.",
+    "Stir a final time to mix everything together, then remove from heat. Serve immediately with sliced green onions on top as a garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-tofu-pilaf",
+    "crispy-rich-dish",
+    "lemon-grass-stalks"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 24,
+    "carbs": 71,
+    "fat": 18
+  },
+  "slug": "rich-korean-tofu-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-korean-tofu-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:19:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Rich",
+    "dishForm": "Pilaf"
+  }
+}
