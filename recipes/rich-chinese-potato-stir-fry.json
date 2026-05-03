@@ -1,0 +1,96 @@
+{
+  "title": "Rich Chinese Potato Stir Fry",
+  "description": "A rich, crumbly, and indulgent Chinese dish featuring potatoes, perfect for a low-sodium diet. This stir-fry combines the natural sweetness of potatoes with savory Chinese flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce (low-sodium)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "or low-sodium substitute"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the potatoes and cook until they are golden brown, about 5 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the minced garlic and grated ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the cooked potatoes back into the skillet, along with the low-sodium soy sauce, oyster sauce (if using), and salt-free seasoning blend. Stir-fry for 2-3 minutes, until the potatoes are well coated with the sauce.",
+    "Stir in the chopped scallions and cook for an additional minute.",
+    "Drizzle the sesame oil over the top of the potato stir-fry and toss to combine.",
+    "Serve the Rich Chinese Potato Stir Fry hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "chinese-food",
+    "low-sodium",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "rich-chinese-potato-stir-fry",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chinese-potato-stir-fry",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:25:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -557,6 +557,19 @@
     "shard": "r"
   },
   {
+    "slug": "rich-chinese-potato-stir-fry",
+    "title": "Rich Chinese Potato Stir Fry",
+    "tags": [
+      "stir-fry",
+      "chinese-food",
+      "low-sodium",
+      "potato-recipe"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
     "slug": "rich-creamy-hummus-stir-fry",
     "title": "Rich Creamy Hummus Stir-fry",
     "tags": [
@@ -942,6 +955,20 @@
       "pescatarian-friendly"
     ],
     "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-indian-green-olives-pilaf",
+    "title": "Rich Indian Green Olives Pilaf",
+    "tags": [
+      "rich-indian",
+      "green-olives",
+      "fluffy",
+      "indulgent",
+      "polish-dish"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 30,
     "shard": "r"
   },
