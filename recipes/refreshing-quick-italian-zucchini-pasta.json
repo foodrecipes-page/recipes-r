@@ -1,0 +1,101 @@
+{
+  "title": "Quick Italian Zucchini Pasta",
+  "description": "A light and refreshing Italian dish perfect for a quick weeknight fix, featuring zucchini and pineapple juice.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "linguine",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 medium",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the cherry tomatoes to the skillet and cook for 2-3 minutes, until they start to release their juices.",
+    "Add the grilled chicken breast to the skillet and cook for an additional 2-3 minutes, until heated through.",
+    "Add the zucchini to the skillet and cook for 2-3 minutes, until tender.",
+    "Stir in the pineapple juice, basil, salt, and black pepper.",
+    "Toss the cooked linguine in the skillet with the zucchini mixture.",
+    "Serve immediately, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "italian",
+    "pasta",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 14
+  },
+  "slug": "refreshing-quick-italian-zucchini-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-quick-italian-zucchini-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:04:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "pineapple juice",
+    "diet": "dairy-free",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "zucchini",
+    "descriptor": "Refreshing Quick",
+    "dishForm": "Pasta"
+  }
+}
