@@ -1,0 +1,111 @@
+{
+  "title": "Rich Uruguayan Beef Stew",
+  "description": "A heartwarming, umami-packed beef stew featuring a mustard-infused deglaze, perfect for a cozy, romantic dinner.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "1.5 lb (680 g)",
+      "notes": "cut into 1.5‑inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, diced",
+      "notes": "≈ 1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, sliced",
+      "notes": "≈ 1 cup"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, sliced",
+      "notes": "≈ 1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "≈ 1 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "2 tbsp (15 g)"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups (950 ml)"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium‑high heat. Brown the beef cubes in batches, then set them aside.",
+    "Reduce the heat to medium and add the onion, carrots, and celery. Cook, stirring occasionally, until the vegetables soften (about 5 minutes).",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the tomato paste and flour, cooking for 2 minutes to form a roux that coats the vegetables.",
+    "Pour in the red wine to deglaze the pot, scraping up any browned bits from the bottom.",
+    "Add the beef broth, Dijon mustard, and bay leaf. Bring the mixture to a gentle simmer.",
+    "Return the browned beef to the pot, reduce the heat to low, cover, and let the stew simmer for 1.5 to 2 hours until the beef is fork‑tender.",
+    "Remove the bay leaf, season the stew with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "stew",
+    "rich",
+    "mustard",
+    "deglaze",
+    "romantic",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:32:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "mustard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
