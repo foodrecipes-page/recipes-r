@@ -1,0 +1,122 @@
+{
+  "title": "roasted jamaican rice bao",
+  "description": "a pillowy, date-night jamaican dish featuring roasted vegetables and fragrant coconut rice, all wrapped up in a soft bao.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "in a medium saucepan, combine coconut rice, 1 cup water, and 1 tsp coconut oil. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes.",
+    "in a large skillet, heat 2 tbsp canola oil over medium-high heat.",
+    "add diced onion and cook until softened, about 5 minutes.",
+    "add minced garlic and chopped scotch bonnet pepper; cook for 1 minute.",
+    "add allspice, thyme, salt, and black pepper; cook for 1 minute.",
+    "stir in shredded cabbage and cook until wilted, about 3 minutes.",
+    "in a separate pan, cook diced bacon over medium heat until crispy.",
+    "to assemble bao, place a portion of coconut rice mixture on each bun, followed by a spoonful of cabbage mixture, and top with crispy bacon and chopped cilantro.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "frozen-instructions",
+    "gluten-free",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "roasted-jamaican-rice-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-jamaican-rice-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:43:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "canola oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Rice",
+    "descriptor": "Roasted",
+    "dishForm": "Bao"
+  }
+}
