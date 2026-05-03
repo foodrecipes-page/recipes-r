@@ -1,0 +1,107 @@
+{
+  "title": "Rich Creamy Slovakian Egg Frittata",
+  "description": "A quick, lightweight Slovakian-inspired frittata that blends eggs, Greek yogurt, and fresh veggies for a creamy, diabetic-friendly breakfast.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑fat shredded cheddar cheese",
+      "amount": "½ cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh spinach, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted red pepper, diced",
+      "amount": "½ cup"
+    },
+    {
+      "name": "smoked salmon, flaked",
+      "amount": "½ cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Melt the butter in an oven‑safe skillet over medium heat and sauté the onion and garlic until translucent, about 3 minutes.",
+    "Add the spinach and roasted red pepper, cooking until the spinach wilts, about 2 minutes.",
+    "In a bowl whisk together the eggs, Greek yogurt, shredded cheese, smoked paprika, salt, and pepper until well combined.",
+    "Pour the egg mixture into the skillet, stirring gently to distribute the vegetables.",
+    "Cook on the stovetop for 3–4 minutes until the edges set but the top is still slightly runny.",
+    "Transfer the skillet to the oven and bake for 8–10 minutes, or until the frittata is fully set and lightly golden.",
+    "Remove from oven and let rest for 2 minutes before slicing.",
+    "Garnish each serving with chopped chives and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-egg-frittata",
+    "creamy",
+    "diabetic-friendly",
+    "quick",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "rich-creamy-slovakian-egg-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-slovakian-egg-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:43:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "egg",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "egg",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Frittata"
+  }
+}
