@@ -1,0 +1,102 @@
+{
+  "title": "Rich Fluffy Egyptian Wild Garlic Leaves Tagine",
+  "description": "A romantic Egyptian dish featuring wild garlic leaves, this rich and fluffy tagine is perfect for a special occasion. It's also FODMAP-friendly and cooked to perfection using an air fryer.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Rinse the wild garlic leaves and pat them dry with a paper towel.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic-infused oil, salt, black pepper, cumin powder, and coriander powder.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in the air fryer for 10-12 minutes, or until cooked through.",
+    "Add the wild garlic leaves to the air fryer and cook for an additional 2-3 minutes, or until wilted.",
+    "In a small bowl, whisk together chicken broth and a pinch of salt and pepper.",
+    "Pour the chicken broth mixture over the cooked chicken and wild garlic leaves.",
+    "Stir everything together and cook for an additional 2-3 minutes, or until the sauce has thickened.",
+    "Serve hot, garnished with additional wild garlic leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "wild-garlic",
+    "tagine",
+    "air-fryer",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "rich-fluffy-egyptian-wild-garlic-leaves-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-egyptian-wild-garlic-leaves-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:57:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "rich fluffy",
+    "dishForm": "Tagine"
+  }
+}
