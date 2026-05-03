@@ -1,0 +1,100 @@
+{
+  "title": "Rich Gooey Japanese Cured Salmon Bowl",
+  "description": "A quick, Whole30-friendly bowl featuring silky cured salmon, creamy cauliflower rice, and a crunchy cauliflower‑crispy topping.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "200g",
+      "notes": "Cured with sea salt and erythritol"
+    },
+    {
+      "name": "Pink Himalayan salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cauliflower crisp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-sodium tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Microgreens",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shredded nori flakes",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Rub the salmon fillet with 1 tsp of pink Himalayan salt and 1/2 tsp of erythritol, then let it cure in the fridge for 30 minutes.",
+    "2. Heat 1 tsp of sesame oil in a skillet over medium heat and sear the salmon until the skin is crisp and the flesh is cooked through, about 4–5 minutes per side.",
+    "3. While the salmon cooks, steam 1 cup of cauliflower rice until tender, about 5 minutes.",
+    "4. Spread the cauliflower rice on a shallow plate and drizzle 1 tsp of sesame oil over it.",
+    "5. In the same skillet, add the cauliflower crisp and toast until golden and crunchy, about 3 minutes; set aside.",
+    "6. Flake the cured salmon into bite-sized pieces and gently fold into the cauliflower rice.",
+    "7. Drizzle 1 tbsp of low-sodium tamari over the bowl, then sprinkle toasted sesame seeds, microgreens, and shredded nori flakes on top.",
+    "8. Serve immediately, optionally adding a squeeze of lime for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salmon",
+    "whole30",
+    "quick-fix",
+    "gourmet",
+    "bowl",
+    "cured-salmon"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 40
+  },
+  "slug": "rich-gooey-japanese-cured-salmon-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-japanese-cured-salmon-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:34:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "rice krispies",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cured salmon",
+    "descriptor": "Rich Gooey",
+    "dishForm": "Bowl"
+  }
+}
