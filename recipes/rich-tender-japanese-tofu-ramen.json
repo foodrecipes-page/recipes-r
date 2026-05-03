@@ -1,0 +1,116 @@
+{
+  "title": "Rich Tender Japanese Tofu Ramen",
+  "description": "A comforting solo‑dinner ramen featuring silky tofu, aromatic fennel seeds, and a savory miso‑soy broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "non‑gluten ramen noodles",
+      "amount": "110g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml",
+      "notes": "low‑sodium, homemade or store brand"
+    },
+    {
+      "name": "red miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp",
+      "notes": "toasted until fragrant"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime wedge",
+      "amount": "1",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together vegetable broth, miso paste, tamari, sesame oil, grated ginger, minced garlic, and toasted fennel seeds to create the broth base.",
+    "2. Bring the broth to a gentle simmer over medium heat, then reduce to low and let it infuse for 5 minutes.",
+    "3. While the broth simmers, gently heat a non‑stick pan over medium‑low heat, add the tofu cubes, and cook for 3–4 minutes until lightly golden and the edges start to crisp, turning occasionally.",
+    "4. In a separate pot, cook the ramen noodles according to the package instructions, then drain and set aside.",
+    "5. Add the cooked tofu to the simmering broth and let it warm through for 2 minutes, ensuring the tofu stays tender.",
+    "6. Stir in the fresh spinach and let it wilt for 30 seconds.",
+    "7. To serve, divide the noodles into two bowls, ladle the hot broth and tofu over the noodles, and top with sliced scallions and a lime wedge if desired.",
+    "8. Enjoy immediately, savoring the rich, fragrant broth and tender tofu in each slurp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "rich",
+    "tender",
+    "noodles",
+    "tofu",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-tender-japanese-tofu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-japanese-tofu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:56:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "fennel seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Rich Tender",
+    "dishForm": "Ramen"
+  }
+}
