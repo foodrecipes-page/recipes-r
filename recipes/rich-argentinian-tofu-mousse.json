@@ -1,0 +1,93 @@
+{
+  "title": "Rich Argentinian Tofu Mousse",
+  "description": "A cultured, gooey, indulgent Argentinian-inspired tofu mousse flavored with kabse pepper and tempered dark chocolate.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "150g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "50ml"
+    },
+    {
+      "name": "kabse pepper powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "roasted coconut flakes",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture for 10 minutes.",
+    "Melt the chocolate in a heatproof bowl over a pot of simmering water.",
+    "Whisk the coconut cream, vanilla extract, maple syrup, sea salt, and kabse pepper powder until fully blended.",
+    "Fold the melted chocolate into the tofu using a hand mixer until smooth.",
+    "Fold the coconut cream mixture into the tofu and chocolate until the mousse is silky.",
+    "Transfer the mousse into individual ramekins and chill in the refrigerator for 1 hour.",
+    "Before serving, top each mousse with roasted coconut flakes for crunch.",
+    "Serve chilled for an indulgent, creamy dessert experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chocolate",
+    "dessert",
+    "gluten-free",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-argentinian-tofu-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-argentinian-tofu-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:47:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "kabse spice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "Rich",
+    "dishForm": "Mousse"
+  }
+}
