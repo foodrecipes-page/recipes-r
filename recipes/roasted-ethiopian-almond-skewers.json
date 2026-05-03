@@ -1,0 +1,88 @@
+{
+  "title": "Roasted Ethiopian Almond Skewers",
+  "description": "A sweet and crunchy Ethiopian dish featuring roasted almonds, this recipe is perfect for a low-glycemic friendly snack or dessert. The combination of spices and honey creates a jammy and aerated flavor profile.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "In a large bowl, whisk together honey, berbere spice, lemon juice, coconut oil, garlic powder, and salt.",
+    "Add the almonds to the bowl and toss to coat with the honey mixture.",
+    "Thread 5-6 almonds onto each skewer.",
+    "Place the skewers on the grill and roast for 10-12 minutes, or until the almonds are golden brown.",
+    "Remove the skewers from the grill and let cool for 5 minutes.",
+    "Serve warm and enjoy.",
+    "Store any leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "almonds",
+    "ethiopian",
+    "grilled",
+    "low-glycemic",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "roasted-ethiopian-almond-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ethiopian-almond-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:15:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "almonds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almonds",
+    "descriptor": "Roasted",
+    "dishForm": "Skewers"
+  }
+}
