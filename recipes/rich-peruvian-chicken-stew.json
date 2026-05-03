@@ -1,0 +1,105 @@
+{
+  "title": "Rich Peruvian Chicken Stew",
+  "description": "A buttery, creamy stew featuring tender chicken thighs and sweet yellow pepper, perfect for a comforting dinner.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skin-on",
+      "amount": "4 pieces (800g)",
+      "notes": ""
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium heat.",
+    "Add chicken thighs and brown on all sides until golden.",
+    "Remove chicken and set aside.",
+    "In the same pot, stir in butter until melted.",
+    "Add onion and garlic, cook until translucent.",
+    "Toss in diced yellow pepper and cook for 3 minutes.",
+    "Pour in chicken broth and bring to a simmer.",
+    "Return chicken thighs to pot, cover, and cook until chicken reaches 165°F, about 20 minutes.",
+    "Remove chicken, shred with two forks, and return to pot.",
+    "Stir in heavy cream, season with salt and pepper, and heat until slightly thickened.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "comfort-food",
+    "creamy",
+    "dinner",
+    "hearty",
+    "one-pot",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-peruvian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peruvian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:50:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "yellow pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
