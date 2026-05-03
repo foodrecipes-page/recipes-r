@@ -1,0 +1,92 @@
+{
+  "title": "Rich Chewy Venezuelan Milk Custard",
+  "description": "A creamy, low‑carb custard with a chewy texture inspired by Venezuelan tradition, made with milk, a healthy sweetener, and vanilla.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole milk",
+      "amount": "2 cups (480 ml)"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "1/2 cup (100 g)"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "6 large (108 g)"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp (28 g) for greasing"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup (120 ml) for water bath"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 °F (163 °C).",
+    "Grate butter into a 12‑cup muffin tin or use a silicone baking dish; set aside.",
+    "In a medium saucepan, combine milk, heavy cream, and water; heat until just below boiling, about 5 minutes.",
+    "Whisk in erythritol until dissolved; add vanilla extract.",
+    "In a separate bowl, beat the egg yolks until pale. Temper the yolks by gradually adding about 1 cup of the hot milk mixture, whisking constantly.",
+    "Pour the tempered yolk mixture back into the saucepan and stir continuously over low heat until the custard thickens and coats the back of a spoon (~170 °F/82 °C).",
+    "Strain the custard through a fine sieve into a bowl to remove any lumps or coagulated bits.",
+    "Divide the custard evenly into the butter‑greased cups or dish. Place the tin in a larger baking pan, fill the pan with hot water to reach halfway up the sides of the cups (water bath).",
+    "Bake for 35–40 minutes, or until the custard edges set but the center still has a slight wobble.",
+    "Remove from the oven, let cool to room temperature, then refrigerate for at least 4 hours or overnight to set fully.",
+    "Serve chilled, optionally dusted with a pinch of cinnamon or grated dark chocolate for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-carb",
+    "milk-custard",
+    "venezuelan",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 5,
+    "fat": 14
+  },
+  "slug": "rich-chewy-venezuelan-milk-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chewy-venezuelan-milk-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:11:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Milk",
+    "descriptor": "Rich Chewy",
+    "dishForm": "Custard"
+  }
+}
