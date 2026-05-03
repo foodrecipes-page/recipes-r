@@ -1,0 +1,99 @@
+{
+  "title": "Rich Syrian Eggplant Roast",
+  "description": "A bitter, creamy low-carb Syrian eggplant roast featuring pineapple and tahini. Broiled to a caramelized finish, it's comforting and easy to digest on a sick day.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "½ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F and line a baking sheet with parchment paper.",
+    "Slice eggplants into ½-inch thick rounds and arrange them on the prepared sheet.",
+    "Drizzle olive oil over the eggplant slices and season with salt, pepper, cumin, and minced garlic.",
+    "Roast the eggplants for 15 minutes, flip them, then add diced pineapple on top and roast for another 10 minutes until caramelized.",
+    "In a small bowl, whisk together tahini, Greek yogurt, and lemon juice until smooth.",
+    "Remove the eggplants and pineapple from the oven and let them cool slightly.",
+    "Spoon the creamy tahini sauce over each slice and garnish with a sprinkle of chopped cilantro (optional).",
+    "Serve warm as a comforting low-carb dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "comfort-food",
+    "easy-dinner",
+    "eggplant",
+    "low-carb",
+    "pineapple",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 22,
+    "fat": 28
+  },
+  "slug": "rich-syrian-eggplant-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-syrian-eggplant-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:24:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "pineapple",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Rich",
+    "dishForm": "Roast"
+  }
+}
