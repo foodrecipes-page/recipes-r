@@ -1,0 +1,104 @@
+{
+  "title": "Rich Polish Black Beans Dumplings",
+  "description": "Dense, umami-packed dumplings made from fermented black beans and a buttery dough, served with a drizzle of smoked butter and a sprinkle of fresh dill.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "200g",
+      "notes": "soaked overnight, drained"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": "softened, for dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1g"
+    },
+    {
+      "name": "soft butter",
+      "amount": "30g",
+      "notes": "for serving, melted with a pinch of smoked salt"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix the fermented black beans, smoked paprika, black pepper, and smoked salt until well combined.",
+    "In a separate bowl, whisk the flour and 5g of salt. Add softened butter and warm water, mixing until a smooth dough forms; it should be slightly sticky.",
+    "Fold the bean mixture into the dough, ensuring even distribution. Knead the dough for 2–3 minutes until elastic.",
+    "Divide the dough into 12 equal portions and roll each into a 4cm ball. Gently press each ball with a fork to create a shallow indented center.",
+    "Place dumplings on a parchment-lined tray and let them rest for 10 minutes to firm up.",
+    "Heat a large pot of salted water to a gentle boil. Drop dumplings in, cooking for 12–14 minutes until they rise and the dough firms up.",
+    "Remove with a slotted spoon, drizzle each dumpling with melted soft butter (seasoned with a pinch of smoked salt), and sprinkle chopped dill on top.",
+    "Serve hot as a hearty, umami-rich dinner.",
+    ""
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "dumplings",
+    "black-beans",
+    "vegetarian",
+    "umami",
+    "dense",
+    "refrigerated"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "rich-polish-black-beans-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-black-beans-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:12:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "fermented black beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "black beans",
+    "descriptor": "Rich",
+    "dishForm": "Dumplings"
+  }
+}
