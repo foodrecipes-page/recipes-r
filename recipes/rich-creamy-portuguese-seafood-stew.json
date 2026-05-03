@@ -1,0 +1,114 @@
+{
+  "title": "Rich Creamy Portuguese Seafood Stew",
+  "description": "An indulgent, umami-packed stew featuring a velvety coconut milk base, a splash of apple cider vinegar, and a medley of fresh seafood, all wrapped up in classic Portuguese flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "diced tomatoes (canned, drained)",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "seafood seasoning blend",
+      "amount": "1 tbsp",
+      "notes": "smoked paprika 1 tsp, dried oregano 1 tsp, bay leaf 1/2 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "steep in 1 tbsp warm water"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "3 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed seafood (cod cubes, shrimp, mussels, clams)",
+      "amount": "800g",
+      "notes": "200g cod, 200g shrimp, 200g mussels, 200g clams"
+    }
+  ],
+  "instructions": [
+    "Warm the saffron in 1 tbsp of warm water until fragrant, then set aside.",
+    "Heat olive oil in a large pot over medium heat. Add diced onion and bell pepper, sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute until aromatic.",
+    "Stir in tomato paste, diced tomatoes, and the seafood seasoning blend; cook for 3 minutes to meld flavors.",
+    "Pour in seafood stock and apple cider vinegar, bringing the mixture to a gentle simmer.",
+    "Add the steeped saffron and coconut milk, stirring to combine; let simmer for 5 minutes to develop creaminess.",
+    "Gently fold in the cod cubes, then add shrimp, mussels, and clams. Cover and simmer until mussels and clams open and shrimp turns pink, about 8-10 minutes.",
+    "Season with salt and pepper to taste, then remove the bay leaf from the pot.",
+    "If desired, garnish with lemon zest and serve hot.",
+    "Serve over cauliflower rice for a Whole30-compliant option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "seafood",
+    "creamy",
+    "whole30",
+    "stew",
+    "apple-cider-vinegar",
+    "coconut-milk",
+    "quick",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "rich-creamy-portuguese-seafood-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-portuguese-seafood-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:25:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "seafood",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Stew"
+  }
+}
