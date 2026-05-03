@@ -1,0 +1,88 @@
+{
+  "title": "Rich Creamy Spanish Chickpea Stew",
+  "description": "A velvety, aromatic chickpea stew studded with bell pepper, zucchini, and spinach, finished with coconut cream and saffron for a luxurious, Jain-friendly Spanish twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth (low sodium)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "steep in 1 tbsp warm water for 10 min"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add cumin and smoked paprika, sautéing for 1 minute until fragrant.",
+    "Add diced bell pepper, zucchini, and spinach; cook for 4‑5 minutes until vegetables soften.",
+    "Pour in vegetable broth and bring to a simmer.",
+    "Add cooked chickpeas and saffron-infused water, stirring to combine.",
+    "Simmer gently for 10 minutes to meld flavors.",
+    "Reduce heat, stir in coconut cream and lemon juice, warming through for 2 minutes.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "slug": "rich-creamy-spanish-chickpea-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-spanish-chickpea-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:10:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Stew"
+  }
+}
