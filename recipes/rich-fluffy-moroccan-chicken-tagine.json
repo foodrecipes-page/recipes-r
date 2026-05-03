@@ -1,0 +1,113 @@
+{
+  "title": "Rich Fluffy Moroccan Chicken Tagine",
+  "description": "A rich and fluffy Moroccan dish featuring chicken, honey, and aromatic spices, perfect for a crowd-pleasing dinner. This recipe is sugar-free friendly and utilizes a pressure cooker for efficiency.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "or sugar-free alternative"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the chicken to the pressure cooker and cook until browned on all sides, about 5-7 minutes.",
+    "Add the ground cumin, smoked paprika, and cinnamon, cook for 1 minute.",
+    "Add the honey, chicken broth, salt, and black pepper, stir to combine.",
+    "Close the lid of the pressure cooker and set the valve to sealing.",
+    "Pressure cook on high for 10 minutes, then allow the pressure to release naturally for 10 minutes.",
+    "Quick-release any remaining pressure, then open the lid and check the chicken for tenderness.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine",
+    "pressure-cooker",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "rich-fluffy-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:45:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "honey",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "rich fluffy",
+    "dishForm": "Tagine"
+  }
+}
