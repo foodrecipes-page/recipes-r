@@ -1,0 +1,102 @@
+{
+  "title": "Rich Russian Rice Krispies Pilaf",
+  "description": "A kid-friendly, low-calorie Russian dish featuring Rice Krispies, cooked to perfection using sous-vide technology. This rich and crumbly pilaf is a twist on traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "diced into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180°F.",
+    "In a bowl, mix together the crushed Rice Krispies, diced chicken, chopped onion, sliced mushroom, and dried thyme.",
+    "In a separate bowl, whisk together the chicken broth and olive oil.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the pilaf in the sous-vide machine for 30 minutes.",
+    "Remove the pilaf from the bag and fluff with a fork.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian-cuisine",
+    "kid-friendly",
+    "low-calorie",
+    "sous-vide",
+    "pilaf",
+    "rice-krispies"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rich-russian-rice-krispies-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-russian-rice-krispies-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:14:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "rice krispies",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice krispies",
+    "descriptor": "rich crumbly",
+    "dishForm": "Pilaf"
+  }
+}
