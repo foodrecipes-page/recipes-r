@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Velvet Italian Hazelnut Tart",
+  "description": "A decadent dairy‑free tart featuring a dark cocoa crust, roasted hazelnuts, and a gooey chocolate‑maple filling, perfect for a romantic evening.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/4 cups (160g)"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup (30g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "solid coconut oil",
+      "amount": "1/2 cup (115g)"
+    },
+    {
+      "name": "soft brown sugar",
+      "amount": "1/3 cup (67g)"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted hazelnuts, chopped",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "pure maple syrup",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 tbsp (15ml)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 °F (180 °C). Line a 9‑inch tart pan with parchment paper.",
+    "In a bowl whisk together flour, cocoa powder, and salt.",
+    "Add coconut oil, brown sugar, egg, and vanilla; mix until a crumbly dough forms.",
+    "Press the dough into the prepared tart pan, ensuring even thickness; bake 12‑15 min or until set. Remove and set aside to cool.",
+    "Meanwhile, combine hazelnuts, chocolate chips, maple syrup, and almond milk in a saucepan; heat gently over low heat until the chocolate melts and the mixture is glossy.",
+    "Pour the hazelnut‑chocolate filling over the cooled crust, smoothing the top.",
+    "Return the tart to the oven and bake for an additional 8‑10 min, until the edges are set but the center remains slightly soft.",
+    "Cool on a wire rack for 10 min, then slice and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "dairy-free",
+    "dessert",
+    "tart",
+    "italian",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 536,
+    "protein": 7,
+    "carbs": 41,
+    "fat": 32
+  },
+  "slug": "roasted-velvet-italian-hazelnut-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-velvet-italian-hazelnut-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:25:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Hazelnut",
+    "descriptor": "Roasted Velvet",
+    "dishForm": "Tart"
+  }
+}
