@@ -1,0 +1,113 @@
+{
+  "title": "Rich Tender Chinese Pecan Stew",
+  "description": "A hearty, halal-friendly Chinese stew brimming with tender chicken and crunchy pecans, simmered in a savory soy and ginger broth that warms the soul.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "skinless, diced"
+    },
+    {
+      "name": "Pecans",
+      "amount": "100g",
+      "notes": "shelled and toasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece",
+      "notes": "minced"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cornstarch slurry",
+      "amount": "1 tbsp cornstarch + 2 tbsp water"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 stalks",
+      "notes": "sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp sesame oil in a large pot over medium. Add diced chicken, season with salt and pepper, sear until browned, set aside.",
+    "Add remaining 1 tsp oil, sauté sliced onion until translucent.",
+    "Add minced garlic and ginger, cook 30 seconds until fragrant.",
+    "Pour in Shaoxing wine, deglaze, scraping brown bits from the pan.",
+    "Add chicken broth and soy sauce, bring to a simmer.",
+    "Return chicken to the pot, add half of the toasted pecans, simmer 10 minutes until chicken is tender.",
+    "Stir in remaining pecans, simmer 5 more minutes.",
+    "Whisk cornstarch and water until smooth, slowly pour into pot, stir to thicken, cook 2 minutes.",
+    "Taste and adjust seasoning with pepper, add scallions, remove from heat.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "stew",
+    "pecan",
+    "chicken",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 57,
+    "carbs": 18,
+    "fat": 31
+  },
+  "slug": "rich-tender-chinese-pecan-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-chinese-pecan-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:15:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "pecan nuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Rich Tender",
+    "dishForm": "Stew"
+  }
+}
