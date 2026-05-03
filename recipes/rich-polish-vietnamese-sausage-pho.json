@@ -1,0 +1,158 @@
+{
+  "title": "Rich Polish Vegetarian Sausage Pho",
+  "description": "A hearty Vietnamese pho featuring chewy Polish vegetarian sausage, aromatic fish stock, and vibrant herbs, perfect for a monsoon drizzle.",
+  "cuisine": "polish vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish vegetarian sausage",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rice noodles (pho)",
+      "amount": "200g"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "4 cups",
+      "notes": "dried anchovy stock"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "3"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "Cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "4"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Mint",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Jicama",
+      "amount": "optional",
+      "notes": "julienned"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "optional",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and blanch the sliced Polish vegetarian sausage for 2 minutes to reduce raw flavor; drain and set aside.",
+    "In a large pot, combine fish stock, water, sliced onion, ginger, star anise, cinnamon stick, cloves, and cardamom pods; bring to a boil, then reduce to a gentle simmer for 20 minutes to infuse the aromatics.",
+    "Strain the broth through a fine sieve, return the liquid to the pot, and add fish sauce, soy sauce, and brown sugar; stir until the sugar dissolves and simmer for an additional 5 minutes.",
+    "Soak the rice noodles in hot water according to package instructions (typically 4–5 minutes), then drain and set aside.",
+    "To assemble, place a portion of noodles, blanched sausage, sliced onions, scallions, bean sprouts, herbs, red chili, and jicama in each bowl.",
+    "Pour the hot broth over the contents of each bowl until well covered.",
+    "Top with lime wedges, a drizzle of fresh lime juice, and crushed peanuts if desired.",
+    "Serve immediately, allowing diners to squeeze lime juice, sprinkle herbs, and adjust seasoning to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "pho",
+    "polish",
+    "pescatarian",
+    "quick",
+    "comfort-food",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-polish-vietnamese-sausage-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-vietnamese-sausage-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:52:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "polish sausage",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Sausage",
+    "descriptor": "Rich Polish",
+    "dishForm": "Pho"
+  }
+}
