@@ -1,0 +1,99 @@
+{
+  "title": "Radiant Argentinian Barley Pancakes",
+  "description": "Malty, fluffy, light Argentinian pancakes with paprika and feta, perfect for a Mediterranean-friendly breakfast.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "barley flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together barley flour, all-purpose flour, baking powder, salt, and paprika.",
+    "In a separate bowl beat the egg, then add water and olive oil, whisk until combined.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined, leaving a few lumps for fluffiness.",
+    "Fold in crumbled feta and chopped parsley until evenly distributed.",
+    "Heat a non-stick skillet over medium heat and brush with a light layer of olive oil.",
+    "Pour 1/4 cup batter for each pancake, cooking until bubbles form on the surface, about 2 minutes.",
+    "Flip the pancakes and cook for another 1-2 minutes until golden and cooked through.",
+    "Serve hot with a drizzle of olive oil or a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "fluffy",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 18,
+    "carbs": 38,
+    "fat": 15
+  },
+  "slug": "radiant-argentinian-barley-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-argentinian-barley-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:26:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "paprika",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "barley",
+    "descriptor": "Radiant",
+    "dishForm": "Pancakes"
+  }
+}
