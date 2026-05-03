@@ -1,0 +1,104 @@
+{
+  "title": "Rich Flaky Egyptian Olive Flatbread",
+  "description": "A buttery, flaky flatbread infused with savory pitted black olives, perfect for a romantic date night and low‑carb, diabetic‑friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup (120g)",
+      "notes": null
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "1/4 cup (30g)",
+      "notes": null
+    },
+    {
+      "name": "gluten‑free baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp",
+      "notes": "helps bind the dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp (45ml)",
+      "notes": "for wet mixture"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup (180ml)",
+      "notes": "lukewarm"
+    },
+    {
+      "name": "pitted black olives, sliced",
+      "amount": "1 cup (150g)",
+      "notes": "fresh or frozen, thawed if frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together almond flour, tapioca starch, baking powder, xanthan gum, and salt until well combined.",
+    "In a separate bowl, whisk the beaten egg, olive oil, and warm water until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until a sticky dough forms.",
+    "Fold in the sliced black olives, ensuring they are evenly distributed.",
+    "Transfer the dough to the prepared baking sheet and gently press it into a flat, 10x8 inch rectangle. Split into 4 equal portions by drawing a line with a knife.",
+    "Bake for 12–15 minutes, or until the edges are golden brown and the surface feels firm.",
+    "Remove from the oven, let cool slightly, then cut into four equal servings. Garnish with fresh parsley if desired and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "gluten-free",
+    "diabetic-friendly",
+    "flatbread",
+    "olive"
+  ],
+  "nutrition": {
+    "calories": 333,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "rich-flaky-egyptian-olives-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-egyptian-olives-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:45:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "pitted black olives",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Olives",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Flatbread"
+  }
+}
