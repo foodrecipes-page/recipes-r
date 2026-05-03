@@ -1,0 +1,95 @@
+{
+  "title": "Rich Japanese Cheese Donburi",
+  "description": "A comforting Kansai-inspired donburi that layers creamy cheese, paprika, and a sweet glaze to create a melt-in-your-mouth, nostalgia‑filled dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short‑grain rice",
+      "amount": "2 cups (400g)",
+      "notes": "pre‑cooked"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Shredded aged cheddar",
+      "amount": "50g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "30ml"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "Water",
+      "amount": "30ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions and let it rest for 5 minutes.",
+    "In a small bowl, whisk together soy sauce, mirin, sugar, water, and butter until the sugar fully dissolves.",
+    "Pour the glaze mixture into a nonstick skillet over medium heat and stir until it thickens into a glossy sauce.",
+    "Spread the pre‑cooked rice evenly across the skillet.",
+    "Sprinkle shredded mozzarella and cheddar cheeses evenly over the rice.",
+    "Lightly dust the cheese with paprika for a touch of color and flavor.",
+    "Cover the skillet with a lid and reduce the heat to low; cook for 3 to 4 minutes until the cheese melts into a stretchy pull.",
+    "Remove from heat, let the donburi sit for 2 minutes, then serve immediately with a drizzle of any remaining glaze."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "donburi",
+    "kansai-style",
+    "one-pan",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 1227,
+    "protein": 61,
+    "carbs": 132,
+    "fat": 48
+  },
+  "slug": "rich-japanese-cheese-donburi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-japanese-cheese-donburi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:56:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "glaze",
+    "primaryIngredient": "paprika",
+    "diet": "shojin",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich",
+    "dishForm": "Donburi"
+  }
+}
