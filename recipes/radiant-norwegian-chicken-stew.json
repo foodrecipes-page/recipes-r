@@ -1,0 +1,113 @@
+{
+  "title": "Radiant Norwegian Chicken Stew",
+  "description": "A spicy, silky chicken stew with green chili, infused with Norwegian flavors and low-carb friendly ingredients. Kid-friendly yet vibrant, perfect for a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 lb",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about four minutes.",
+    "Stir in minced garlic, green chili, cumin, and smoked paprika, cooking for one minute until fragrant.",
+    "Add chicken cubes, browning them on all sides for five to six minutes.",
+    "Mix in tomato paste and fish sauce, cooking for one minute to combine flavors.",
+    "Pour in chicken broth, bring to a boil, then reduce heat and simmer uncovered for ten minutes.",
+    "Stir in coconut milk, reduce again, and simmer eight more minutes until the sauce thickens and chicken reaches an internal temperature of 165°F.",
+    "Season the stew with salt, pepper, and dried dill, stirring to combine.",
+    "Ladle the stew into bowls and garnish with a sprinkle of dried dill.",
+    "Serve immediately, optionally accompanied by steamed cauliflower rice for a low-carb meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-carb",
+    "norwegian",
+    "one-pot",
+    "silky",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 36
+  },
+  "slug": "radiant-norwegian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-norwegian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:05:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "green chilli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken",
+    "descriptor": "Radiant",
+    "dishForm": "Stew"
+  }
+}
