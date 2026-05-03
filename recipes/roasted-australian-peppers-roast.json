@@ -1,0 +1,74 @@
+{
+  "title": "Roasted Australian Peppers with Caramelized Onions",
+  "description": "A sweet, gooey pescatarian dish featuring roasted Australian peppers and caramelized onions for a quick fix.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian peppers",
+      "amount": "2 medium",
+      "notes": "e.g., bell peppers or sweet peppers"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "yellow or white onions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Toss Australian peppers and onions with olive oil until coated.",
+    "Roast in preheated oven for 20-25 minutes until peppers are tender and onions are caramelized.",
+    "Season with a pinch of salt and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "roasted",
+    "peppers",
+    "caramelized",
+    "pescatarian",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 12
+  },
+  "slug": "roasted-australian-peppers-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-australian-peppers-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:08:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "roasted pepper",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peppers",
+    "descriptor": "Roasted",
+    "dishForm": "Roast"
+  }
+}
