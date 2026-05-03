@@ -1,0 +1,108 @@
+{
+  "title": "Roasted Herbal Vegetable Stir-fry",
+  "description": "A light and quick-fix dish featuring a blend of roasted vegetables in vegetable stock with herbs for added flavor, perfect as an easy side dish or light meal.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 small, any color",
+      "notes": ""
+    },
+    {
+      "name": "bok choy",
+      "amount": "4-5 stalks",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (low-sodium)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce (low-sodium)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh herbs (e.g., cilantro, parsley)",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Cut vegetables into bite-sized pieces. Carrots and celery can be cut into rounds or sticks.",
+    "In a mixing bowl, combine soy sauce, vegetable stock, ginger paste, oyster sauce (if using), and sesame seeds. Stir well.",
+    "Add the roasted vegetables to the bowl with marinade. Toss gently to coat evenly.",
+    "Transfer the marinated vegetables to an oven-safe dish or baking sheet lined with parchment paper. Drizzle any remaining marinade over the veggies for extra flavor.",
+    "Roast in preheated oven for 20-25 minutes, stirring occasionally until tender and slightly crispy on the outside.",
+    "Garnish with chopped fresh herbs just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "light",
+    "quick-fix",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 3.5,
+    "carbs": 29,
+    "fat": 4
+  },
+  "slug": "roasted-herbal-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-herbal-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:57:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "vegetable stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
