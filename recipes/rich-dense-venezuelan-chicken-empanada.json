@@ -1,0 +1,113 @@
+{
+  "title": "Venezuelan Chicken Empanada con Maracuyá",
+  "description": "A rich, dense, and flaky pastry filled with tender chicken, caramelized onions, and sweet marshmallows, inspired by the flavors of Venezuela.",
+  "cuisine": "Latin American",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground chicken thighs",
+      "amount": "1 pound (450g)",
+      "notes": "Make sure to cook to 165°F (74°C)"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup (115g)",
+      "notes": "Use a mixture of yellow and red onions for added depth"
+    },
+    {
+      "name": "Miniature marshmallows",
+      "amount": "1 cup (120g)",
+      "notes": "Use a low-sugar or sugar-free marshmallow for keto-friendliness"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tablespoons (15g)",
+      "notes": "Fresh cilantro adds a bright and fresh flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Use a small amount to avoid overpowering the dish"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Adds a warm and earthy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a flaky sea salt for added texture"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "Use for egg wash and pastry"
+    },
+    {
+      "name": "Venezuelan-style pastry dough (or gluten-free equivalent)",
+      "amount": "1 package (1 pound 4 ounces / 570g)",
+      "notes": "Make sure to store in an airtight container in the refrigerator"
+    },
+    {
+      "name": "Vegan butter or shortening",
+      "amount": "4 tablespoons (55g)",
+      "notes": "Use for pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a large skillet, cook the ground chicken over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the caramelized onions, garlic powder, cumin, and salt to the skillet and stir to combine.",
+    "Stir in the miniature marshmallows and cook until they start to puff and brown.",
+    "Transfer the mixture to a bowl and stir in the chopped cilantro.",
+    "On a lightly floured surface, roll out the pastry dough to a thickness of about 1/8 inch (3mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the chicken mixture onto one half of each dough circle, leaving a 1/2 inch (1cm) border around the edges.",
+    "Brush the edges with the beaten egg and fold the dough in half to form a triangle or a crescent shape.",
+    "Press the edges together with a fork to seal the empanada and use a knife to cut a few slits in the top to allow steam to escape.",
+    "Brush the tops of the empanadas with a little bit of vegan butter or shortening and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "velezuelan",
+    "empanada",
+    "chicken",
+    "marshmallow",
+    "keto",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "24g",
+    "carbs": "10g",
+    "fat": "22g"
+  },
+  "slug": "rich-dense-venezuelan-chicken-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-venezuelan-chicken-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:57:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "rich, dense",
+    "dishForm": "Empanada"
+  }
+}
