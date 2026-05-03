@@ -1,0 +1,113 @@
+{
+  "title": "Rich Earthy French Snapper Broth",
+  "description": "A creamy, savory snapper broth with earthy vegetables, perfect for kids and Whole30-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "1 lb (450 g)",
+      "notes": "skin removed, cut into bite-sized pieces"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups (950 ml)",
+      "notes": "homemade or low-sodium store-bought"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium (240 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1 cup (180 g)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small (70 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp (10 g)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté for 3–4 minutes until translucent.",
+    "Stir in minced garlic and cook for another 30 seconds.",
+    "Add the diced carrots and cook for 5 minutes, stirring occasionally.",
+    "Pour in the fish stock and bring to a gentle boil.",
+    "Add the bay leaf, fresh thyme, and diced tomatoes; reduce heat and simmer for 10 minutes.",
+    "Add the snapper pieces and simmer gently for 6–8 minutes, until the fish is opaque and flakes easily.",
+    "Season the broth with salt and pepper to taste.",
+    "Remove the pot from heat and discard the bay leaf.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "fish",
+    "broth",
+    "snapper",
+    "whole30",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "rich-earthy-french-snapper-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-french-snapper-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:15:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "snapper fish",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Snapper",
+    "descriptor": "Rich Earthy",
+    "dishForm": "Broth"
+  }
+}
