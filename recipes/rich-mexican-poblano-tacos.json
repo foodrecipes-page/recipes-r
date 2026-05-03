@@ -1,0 +1,102 @@
+{
+  "title": "Rich Mexican Poblano Tacos",
+  "description": "Buttery, light midnight craving tacos with roasted poblano peppers, lemongrass-infused sauce, and a crisp tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "bruised"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Roast poblano peppers under the broiler until charred on all sides, then peel and seed them.",
+    "Dice the roasted peppers and set aside.",
+    "Melt butter in a skillet over medium heat and add the bruised lemongrass stalk.",
+    "Cook the lemongrass for 1 minute until fragrant, then remove and discard the stalk.",
+    "Stir in chicken broth, smoked paprika, cumin, and salt, allowing the mixture to simmer for 3 minutes.",
+    "Add the diced poblano peppers to the skillet and cook until the sauce thickens, about 2 minutes.",
+    "Warm corn tortillas in a dry skillet for 30 seconds on each side.",
+    "Spoon the poblano mixture onto tortillas and sprinkle with shredded lettuce and diced onion.",
+    "Drizzle a squeeze of fresh lime juice over the tacos, if desired.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "easy-to-make",
+    "late-night",
+    "mexican",
+    "nut-free",
+    "poblano-tacos"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rich-mexican-poblano-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mexican-poblano-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:41:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "nut-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano",
+    "descriptor": "Rich",
+    "dishForm": "Tacos"
+  }
+}
