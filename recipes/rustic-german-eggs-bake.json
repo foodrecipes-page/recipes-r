@@ -1,0 +1,105 @@
+{
+  "title": "Rustic German Eggs Bake",
+  "description": "A tangy, crumbly, cozy German dish featuring beaten free-range eggs baked to a golden crust with a keto-friendly twist.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "grated Emmental cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "crushed almond flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "50 g"
+    },
+    {
+      "name": "diced smoked sausage",
+      "amount": "50 g"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x9-inch baking dish with the unsalted butter.",
+    "In a large bowl, whisk together the free-range eggs, heavy cream, salt, and lemon juice until well combined.",
+    "Stir in the grated Emmental cheese, crushed almond flour, chopped onion, diced smoked sausage, chopped bell pepper, fresh dill, and lemon zest.",
+    "Pour the mixture into the prepared baking dish and spread it evenly.",
+    "Bake for 20 minutes, or until the top is golden brown and the eggs are set.",
+    "Let the bake cool for 5 minutes before slicing.",
+    "Serve warm, optionally garnished with extra fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheesy",
+    "keto-friendly",
+    "one-pan",
+    "rustic"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 18,
+    "carbs": 3,
+    "fat": 29
+  },
+  "slug": "rustic-german-eggs-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-german-eggs-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:56:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "eggs",
+    "descriptor": "Rustic",
+    "dishForm": "Bake"
+  }
+}
