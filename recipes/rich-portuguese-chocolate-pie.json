@@ -1,0 +1,100 @@
+{
+  "title": "Rich Portuguese Chocolate Pie with Dried Chillies",
+  "description": "A rich and indulgent chocolate pie infused with the spicy kick of dried chillies, suitable for kids to help prepare, catering to Jain dietary restrictions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chocolate",
+      "amount": "100g dark chocolate",
+      "notes": "bitter and chewy"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2 tablespoons",
+      "notes": "use mild varieties for safety, can be crushed finely before mixing"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": "for the crust base"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "80g",
+      "notes": "softened and melted for easier spreading"
+    },
+    {
+      "name": "white sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2 eggs, beaten",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "50ml",
+      "notes": "for tempering chocolate"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix flour and softened butter together until crumbly. Press into a pie dish.",
+    "In a separate bowl, melt cream cheese in white sugar over low heat.",
+    "Add vanilla extract, egg yolks, and water to melted mixture. Stir well until smooth and slightly thickened.",
+    "Spread chocolate evenly on top of crust base. Pour the cheese mixture over the chocolate, ensuring it covers it completely.",
+    "Bake for 25-30 minutes or until filling is set but still soft in texture.",
+    "Allow pie to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rich-chocolate-pie",
+    "portuguese-dessert",
+    "chillies-in-desserts",
+    "gourmet-for-kids"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 23
+  },
+  "slug": "rich-portuguese-chocolate-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-portuguese-chocolate-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:54:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "dried chillies",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chocolate",
+    "descriptor": "Rich",
+    "dishForm": "Pie"
+  }
+}
