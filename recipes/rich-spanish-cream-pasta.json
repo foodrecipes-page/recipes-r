@@ -1,0 +1,87 @@
+{
+  "title": "Rich Spanish Cream Pasta",
+  "description": "A comforting, diabetic-friendly dish with slow-cooked pasta and creamy dairy sauce for a lazy Sunday dinner.",
+  "cuisine": "spanish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "120g",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "creamy tomato sauce",
+      "amount": "200ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "50ml",
+      "notes": "full-fat, room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      ": ": ", ",
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti according to package instructions in salted water until al dente.",
+    "In a separate pan, heat olive oil over medium heat and sauté minced garlic until fragrant.",
+    "Add creamy tomato sauce to the pan and stir until warmed through.",
+    "Whisk in whipping cream and black pepper, then simmer gently for 2 minutes to thicken.",
+    "Combine cooked pasta with the cream sauce, tossing until fully coated.",
+    "Season with additional black pepper to taste and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "creamy",
+    "pasta",
+    "diabetic-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-spanish-cream-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-cream-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:46:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "whipping cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cream",
+    "descriptor": "Rich",
+    "dishForm": "Pasta"
+  }
+}
