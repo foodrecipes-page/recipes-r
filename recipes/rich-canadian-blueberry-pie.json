@@ -1,0 +1,100 @@
+{
+  "title": "Rich Canadian Blueberry Pie",
+  "description": "A flaky, light Canadian dessert featuring vibrant blue blueberries and a buttery crust, perfect for any occasion.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "store‑bought shortcrust pastry",
+      "amount": "1 sheet (about 1.5 lb)",
+      "notes": "or homemade, if preferred"
+    },
+    {
+      "name": "fresh blueberries",
+      "amount": "3 cups (≈480 g)",
+      "notes": "washed and drained"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "¾ cup (150 g)",
+      "notes": "adjust for sweetness"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "¼ cup (30 g)",
+      "notes": "for thickening"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp (5 ml)",
+      "notes": "optional"
+    },
+    {
+      "name": "blue food colouring",
+      "amount": "1 tsp (5 ml)",
+      "notes": "to enhance hue"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry on a floured surface to fit a 9‑inch pie dish. Place the crust in the dish and trim the edges, then chill for 10 minutes to firm up.",
+    "In a large bowl, combine blueberries, sugar, cornstarch, lemon juice, vanilla, blue food colouring, and a pinch of salt. Toss until the berries are evenly coated.",
+    "Transfer the blueberry mixture into the chilled crust, smoothing the top with a spatula.",
+    "Cover the pie with a second sheet of pastry, cutting slits in the top flap to vent steam, or use a lattice pattern if desired.",
+    "Bake for 45–50 minutes, or until the crust is golden brown and the filling bubbles through the slits.",
+    "Remove the pie from the oven and let it rest on a wire rack for at least 20 minutes before slicing.",
+    "Serve warm or at room temperature, optionally with a dollop of whipped cream.",
+    ""
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pie",
+    "vegetarian",
+    "blueberry-pie",
+    "flaky-crust",
+    "rich",
+    "Canadian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "rich-canadian-blueberry-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-canadian-blueberry-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:07:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "blue food colouring",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Blueberry",
+    "descriptor": "Rich",
+    "dishForm": "Pie"
+  }
+}
