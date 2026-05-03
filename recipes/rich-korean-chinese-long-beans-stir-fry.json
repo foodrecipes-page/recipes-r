@@ -1,0 +1,88 @@
+{
+  "title": "Rich Korean Chinese Long Beans Stir-fry",
+  "description": "A rich and crispy Korean-Chinese dish featuring gluten-free Chinese long beans slow-cooked with a blend of savory sauces for a romantic meal.",
+  "cuisine": "Korean, Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "250g"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3 slices"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soya sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce (Oyster sauce)",
+      "amount": "1.5 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add shallots, garlic, and ginger. Stir-fry until fragrant and translucent.",
+    "Add Chinese long beans to the wok. Stir for about 2 minutes.",
+    "In a small bowl, mix cornstarch with a little bit of water to create a slurry.",
+    "Pour the slurry into the wok, stirring quickly to combine with the ingredients.",
+    "Add soya sauce and fish sauce (oyster sauce) evenly across the wok. Stir-fry for an additional 2 minutes or until sauce thickens slightly.",
+    "Turn off heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "korean-chinese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 9,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "rich-korean-chinese-long-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-korean-chinese-long-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:10:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "chinese long beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
