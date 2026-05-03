@@ -1,0 +1,103 @@
+{
+  "title": "Rich Velvety Venezuelan Vegetable Stew",
+  "description": "A hearty, comforting Venezuelan stew featuring a rich and velvety texture, achieved with the use of unflavored gelatin. This vegetarian-friendly dish is perfect for a monsoon day.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1/4 cup hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve the gelatin in 1/4 cup of hot water and set aside.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrots, potatoes, and zucchini, and cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste, cumin, salt, and pepper, and stir to combine.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the dissolved gelatin and continue to simmer for an additional 10 minutes, or until the stew has thickened.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "venezuelan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-velvety-venezuelan-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-venezuelan-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:54:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vegetables",
+    "descriptor": "rich velvety",
+    "dishForm": "Stew"
+  }
+}
