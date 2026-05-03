@@ -1,0 +1,102 @@
+{
+  "title": "Rich Uruguayan Lentil Curry",
+  "description": "An earthy, pillowy curry that blends red lentils with fragrant panang paste, light coconut milk, and a splash of lime for a low-glycemic crowd-pleaser.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils (red)",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk (light)",
+      "amount": "400 ml"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until clear.",
+    "In a large pot, sauté onion and garlic in 1 tbsp oil until translucent, about 5 minutes.",
+    "Stir in panang curry paste and cook for 1 minute until fragrant.",
+    "Add lentils, water, and cumin, bring to a boil, then reduce heat and simmer uncovered for 25 minutes.",
+    "Pour in coconut milk and coconut cream, stir, and continue simmering for 10 minutes until lentils are tender and sauce thickened.",
+    "Stir in lime juice and adjust salt to taste.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve hot over steamed quinoa or cauliflower rice if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat gently on the stove or microwave before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "lentil",
+    "low-glycemic",
+    "one-pot",
+    "panang",
+    "plant-based",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "rich-uruguayan-lentil-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-lentil-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:32:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "panang-paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich",
+    "dishForm": "Curry"
+  }
+}
