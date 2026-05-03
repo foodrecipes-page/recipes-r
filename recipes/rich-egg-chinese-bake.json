@@ -1,0 +1,88 @@
+{
+  "title": "Rich Egg Chinese Bake",
+  "description": "A rich and fluffy egg dish baked with orange juice in a one-pot Shandong style, suitable for nut-free diets.",
+  "cuisine": "Shandong (Chinese)",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 eggs, beaten"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine chicken broth, orange juice, eggs, sugar, salt, and ground coriander.",
+    "Stir in flour until fully combined. The mixture should be thick like pancake batter.",
+    "Heat oil in an oven-safe skillet over medium heat. Pour the batter into the skillet evenly.",
+    "Bake in preheated oven for 15 minutes or until golden brown on top and set in the middle.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "egg",
+    "chinese",
+    "shandong",
+    "orange juice",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "rich-egg-chinese-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-egg-chinese-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:35:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "orange juice",
+    "diet": "nut-free",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "egg",
+    "descriptor": "Rich",
+    "dishForm": "Bake"
+  }
+}
