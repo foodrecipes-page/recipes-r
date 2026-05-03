@@ -1,0 +1,117 @@
+{
+  "title": "Ravenous Portuguese Tomato Toast",
+  "description": "A bitter, glassy-jelly midnight craving made with toasted English muffins and sweet-sour confit tomatoes, perfect for an egg‑free snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4",
+      "notes": "sliced in half horizontally"
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "200g",
+      "notes": "bitter, pre-cooked in olive oil"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for toasting"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "adds acidity"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted, optional garnish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and place English muffins on a baking sheet.",
+    "Brush the cut sides of the muffins with olive oil and bake until lightly golden, about 5 minutes.",
+    "Combine confit tomatoes, red wine vinegar, sea salt, black pepper, rosemary, thyme, smoked paprika, and lemon juice in a bowl; stir to mix.",
+    "Spread the tomato mixture evenly over the toasted sides of the muffins.",
+    "Return the muffins to the oven and bake for an additional 3 minutes until the tomatoes are warm and bubbly.",
+    "Remove from oven, sprinkle toasted sesame seeds and chopped parsley over the top.",
+    "Let the toast cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "egg-free",
+    "glassy-jelly",
+    "midnight-craving",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "ravenous-portuguese-tomato-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ravenous-portuguese-tomato-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:21:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "confit-tomato",
+    "primaryIngredient": "english muffins",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tomato",
+    "descriptor": "Ravenous",
+    "dishForm": "Toast"
+  }
+}
