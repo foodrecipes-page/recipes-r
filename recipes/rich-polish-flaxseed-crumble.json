@@ -1,0 +1,95 @@
+{
+  "title": "Rich Polish Flaxseed Crumble",
+  "description": "A luscious, crumbly vegan dessert that blends earthy flaxseed with sweet poppy seeds and a buttery crumb, inspired by classic Polish pastries.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsweetened applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F) and line a 23x23cm baking dish with parchment paper.",
+    "In a large bowl, mix together rolled oats, ground flaxseed, poppy seeds, almond flour, coconut sugar, and a pinch of sea salt.",
+    "Warm the coconut oil and applesauce together in a small saucepan over low heat until the oil is fully melted and the mixture is smooth.",
+    "Stir in the vanilla extract to the wet mixture.",
+    "Pour the wet mixture over the dry ingredients, stirring until all components are evenly coated; the mixture should be slightly moist but not sticky.",
+    "Transfer the crumb mixture to the prepared baking dish and press it down firmly with a spatula to create an even layer.",
+    "Bake for 20–25 minutes or until the edges turn golden brown and the center is set.",
+    "Allow the crumble to cool for about 10 minutes before cutting into squares; serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "flaxseed",
+    "crumble",
+    "polish",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 54,
+    "fat": 30
+  },
+  "slug": "rich-polish-flaxseed-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-flaxseed-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:43:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "flaxseed",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Rich",
+    "dishForm": "Crumble"
+  }
+}
