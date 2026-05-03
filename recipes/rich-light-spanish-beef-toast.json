@@ -1,0 +1,122 @@
+{
+  "title": "Rich Light Spanish Beef Toast",
+  "description": "A flavorful yet light Spanish toast featuring a quick-seared feather blade steak, toasted bread, tomato jam, and fresh accents",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Feather blade beef",
+      "amount": "200 g",
+      "notes": "lean cut, trimmed of fat"
+    },
+    {
+      "name": "Sourdough or ciabatta bread",
+      "amount": "4 slices",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for searing the beef"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for drizzling over the toast"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced or thinly sliced, optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Roasted tomato jam",
+      "amount": "1 tbsp",
+      "notes": "or use diced tomato"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for seasoning the beef"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 pinch",
+      "notes": "optional, steeped in a splash of water"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Bring the beef to room temperature for 10–15 minutes and pat dry with paper towels.",
+    "Season both sides of the steak with salt, pepper, smoked paprika, and saffron (if using).",
+    "Heat a cast‑iron skillet over high heat and add 1 tbsp olive oil. When the oil shimmers, place the steak in the skillet.",
+    "Sear for about 2–3 minutes per side until a nice crust forms and the internal temperature reaches 55 °C (131 °F) for medium‑rare.",
+    "Transfer the steak to a plate and let it rest for 5 minutes. Slice thinly against the grain.",
+    "While the steak rests, toast the bread slices in a toaster or in a pan with a drizzle of extra‑virgin olive oil until golden brown.",
+    "Spread a thin layer of roasted tomato jam on each toasted slice.",
+    "Place the sliced steak on top of the jam.",
+    "Drizzle fresh lemon juice and a small amount of extra‑virgin olive oil over the steak.",
+    "Sprinkle chopped parsley, sea salt, and a little fresh pepper for finishing.",
+    "Serve immediately while the toast is still warm and the steak is juicy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-beef-toast",
+    "crowd-pleaser",
+    "light-dish",
+    "quick",
+    "raw-friendly",
+    "steak",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 62,
+    "carbs": 41,
+    "fat": 29
+  },
+  "slug": "rich-light-spanish-beef-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-light-spanish-beef-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:17:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "feather blade beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Beef",
+    "descriptor": "Rich Light",
+    "dishForm": "Toast"
+  }
+}
