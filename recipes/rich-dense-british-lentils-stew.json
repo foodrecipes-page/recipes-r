@@ -1,0 +1,104 @@
+{
+  "title": "Rich Dense British Lentils Stew",
+  "description": "A robust, flavourful lentil stew with a subtle hint of fennel, simmered to a rich, dense consistency that warms the soul.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water and set aside.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion, carrot, and celery, sautéing until softened, about 5 minutes.",
+    "Stir in the minced garlic, fennel seeds, thyme, smoked paprika, and tomato paste, cooking for another 2 minutes until fragrant.",
+    "Add the rinsed lentils, bay leaves, and vegetable stock to the pot, bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 35-40 minutes, or until the lentils are tender and the stew has thickened.",
+    "Remove the bay leaves and mash a portion of the lentils against the side of the pot to increase density.",
+    "Season the stew with salt and black pepper to taste.",
+    "Let it rest for 5 minutes before serving to allow flavors to meld.",
+    "Serve hot, optionally garnished with fresh parsley or a drizzle of olive oil.",
+    ""
+  ],
+  "slug": "rich-dense-british-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-british-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:04:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "fennel seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lentils",
+    "descriptor": "Rich Dense",
+    "dishForm": "Stew"
+  }
+}
