@@ -1,0 +1,106 @@
+{
+  "title": "Rich Portuguese Shrimp Stew",
+  "description": "A silky, umami-packed shrimp stew that balances deep sea flavors with a touch of spice and is low-carb friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shortening",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato purée",
+      "amount": "200g"
+    },
+    {
+      "name": "piri piri sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "300ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the shortening and let it melt, then stir in the minced garlic and diced onion, cooking until translucent.",
+    "Add the tomato purée, piri piri sauce, and white wine, stirring to combine and simmer for 3 minutes.",
+    "Pour in the fish stock, bring the mixture to a gentle boil, then reduce heat to low.",
+    "Stir in the shrimp and a pinch of salt and pepper, covering the pot and simmering until the shrimp are pink and opaque, about 4-5 minutes.",
+    "Remove from heat, and stir in the lemon zest for brightness.",
+    "Taste and adjust seasoning with additional salt or pepper if desired.",
+    "Serve hot, optionally garnished with chopped parsley if available, and enjoy the silky, umami-packed stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pot",
+    "quick",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1120,
+    "protein": 103,
+    "carbs": 28,
+    "fat": 54
+  },
+  "slug": "rich-portuguese-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-portuguese-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:47:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "shortening",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
