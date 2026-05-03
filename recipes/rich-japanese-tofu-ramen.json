@@ -1,0 +1,106 @@
+{
+  "title": "Rich Japanese tofu ramen",
+  "description": "Tangy, gooey ramen with tender steak and soft tofu, a nostalgic and comforting dish.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "tofu, cubed",
+      "amount": "200g"
+    },
+    {
+      "name": "beef fillet steak, thinly sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spring onion, sliced",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add sliced steak, sear until browned on both sides, then remove and set aside.",
+    "In the same skillet, add grated ginger and minced garlic, sauté until fragrant.",
+    "Pour in dashi broth, soy sauce, mirin, and rice vinegar, bring to a gentle boil.",
+    "Add shiitake mushrooms and simmer for 4 minutes.",
+    "Return steak to the skillet, let it steam for 2 minutes.",
+    "Meanwhile, boil ramen noodles in a separate pot for 3 minutes, then drain.",
+    "Stir in tofu cubes and sesame oil, cook for 1 minute until heated through.",
+    "Divide noodles into bowls, ladle broth over them, top with steak, tofu, sliced mushrooms, and spring onion.",
+    "Sprinkle chili flakes if desired, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "quick",
+    "ramen",
+    "savory",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 890,
+    "protein": 65,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "rich-japanese-tofu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-japanese-tofu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:53:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "fillet of steak",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Rich",
+    "dishForm": "Ramen"
+  }
+}
