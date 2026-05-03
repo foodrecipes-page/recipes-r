@@ -1,0 +1,105 @@
+{
+  "title": "Rich Greek Shrimp Skillet",
+  "description": "A flavorful, one-pot Greek dish featuring succulent shrimp, infused with the heat of Tabasco sauce and the richness of feta cheese. This air-fry inspired skillet is a pescatarian-friendly delight.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup pitted"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C) or use the skillet's air fry function if available.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes until it starts to soften.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until they turn pink and are almost cooked through.",
+    "Add the Tabasco sauce, feta cheese, kalamata olives, sun-dried tomatoes, and chopped parsley. Stir to combine.",
+    "Squeeze the lemon juice over the top and season with salt and pepper to taste.",
+    "Transfer the skillet to the air fryer basket if using, or continue cooking on the stovetop over medium heat.",
+    "Cook for an additional 2-3 minutes, until the cheese is melted and the shrimp are fully cooked.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "shrimp-recipes",
+    "one-pot-meals",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-greek-shrimp-skillet",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-greek-shrimp-skillet",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Rich Chewy",
+    "dishForm": "Skillet"
+  }
+}
