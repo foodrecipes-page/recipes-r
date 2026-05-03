@@ -1,0 +1,98 @@
+{
+  "title": "Rich Earthy Ethiopian Mackerel Azifa",
+  "description": "A hearty and flavorful Ethiopian dish featuring mackerel, tempering chocolate, and earthy spices, perfect for a weeknight dinner. This vegetarian-friendly azifa is a unique and exciting meal prep option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned mackerel",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 2 minutes.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the flaked mackerel and stir to combine.",
+    "Pour in the melted tempering chocolate and stir until well combined.",
+    "Season with salt to taste.",
+    "Serve the azifa hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-earthy-ethiopian-mackerel-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-ethiopian-mackerel-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:38:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mackerel",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mackerel",
+    "descriptor": "Rich Earthy",
+    "dishForm": "Azifa"
+  }
+}
