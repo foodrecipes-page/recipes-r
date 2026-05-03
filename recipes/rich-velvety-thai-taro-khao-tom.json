@@ -1,0 +1,84 @@
+{
+  "title": "Rich Velvety Thai Taro Khao Tom",
+  "description": "A creamy and comforting Thai dessert made with taro, coconut milk, and dark brown sugar. Enjoy as a warm snack or dessert.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Taro root",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine taro, coconut milk, brown sugar, water, and salt in a medium saucepan.",
+    "Whisk until the sugar dissolves and the mixture comes to a boil.",
+    "Reduce heat to medium-low and simmer for 10 minutes or until the taro is tender.",
+    "Use an immersion blender to puree the mixture until smooth.",
+    "Return the saucepan to the heat and add coconut oil.",
+    "Simmer for an additional 2-3 minutes or until the mixture thickens to your liking.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "velvety",
+    "taro",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "rich-velvety-thai-taro-khao-tom",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-thai-taro-khao-tom",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:22:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Taro",
+    "descriptor": "rich velvety",
+    "dishForm": "Khao Tom"
+  }
+}
