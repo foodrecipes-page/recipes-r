@@ -1,0 +1,107 @@
+{
+  "title": "Rich Thai Black Pudding Stir-fry",
+  "description": "A kid-friendly Thai stir-fry featuring tender black pudding, bhuna, and vegetable flavors. Perfectly balanced with mild spices and a touch of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "150g",
+      "notes": "pre-cooked, sliced thinly"
+    },
+    {
+      "name": "bhuna",
+      "amount": "100g",
+      ": 100g": "",
+      "notes": "freshly picked, chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": "red and yellow, sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml",
+      "notes": "light, room temperature"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "light, low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp oil in a wok over medium-high heat.",
+    "Sauté shallots for 2 minutes until translucent.",
+    "Add black pudding and bhuna; cook for 4 minutes until black pudding is tender.",
+    "Add bell peppers, carrots, and green onions; stir-fry for 3 minutes.",
+    "Mix in coconut milk, soy sauce, rice vinegar, and sugar; cook for 2 minutes until slightly thickened.",
+    "Serve hot with a side of steamed rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "black pudding",
+    "stir-fry",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rich-thai-black-pudding-stir-fry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-thai-black-pudding-stir-fry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:33:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "black pudding",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "black pudding",
+    "descriptor": "Rich",
+    "dishForm": "Stir-fry"
+  }
+}
