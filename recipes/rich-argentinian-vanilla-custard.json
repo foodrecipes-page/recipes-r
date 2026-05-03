@@ -1,0 +1,64 @@
+{
+  "title": "Rich Argentinian Vanilla Custard",
+  "description": "A spicy, dense, comforting dessert featuring a rich vanilla custard base with a subtle kick of cinnamon, perfect for chilly evenings.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla extract",
+      "amount": "2 tsp",
+      "notes": "use pure vanilla for best flavor"
+    },
+    {
+      "name": "cinnamon",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine 1 cup heavy cream, 1/4 cup sugar, 1 tsp cinnamon, and 2 tsp vanilla extract.",
+    "Heat on medium-low until the cream just begins to steam (do not boil).",
+    "Remove from heat and let rest for 5 minutes to thicken slightly.",
+    "Strain through a fine-mesh sieve to remove cinnamon bits, then pour into a serving dish.",
+    "Chill in the refrigerator for 1 hour before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vanilla",
+    "custard",
+    "spicy",
+    "comforting",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "rich-argentinian-vanilla-custard",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-argentinian-vanilla-custard",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:25:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "vanilla custard",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "vanilla",
+    "descriptor": "rich",
+    "dishForm": "Custard"
+  }
+}
