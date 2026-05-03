@@ -1,0 +1,101 @@
+{
+  "title": "Robust Spring Spanish Peaches Pa Amb Tomaquet",
+  "description": "A funky spring Spanish dish featuring marinated peaches in a traditional pa amb tomaquet style, served in a donabe vessel, perfect for a brunch mood. This nut-free-friendly recipe is great for those looking for a unique and flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the peaches into wedges and place them in a large bowl.",
+    "In a small bowl, whisk together olive oil, sherry vinegar, smoked paprika, and salt.",
+    "Pour the marinade over the peaches and toss to coat.",
+    "Let the peaches marinate for at least 30 minutes.",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "Rub the toasted bread with garlic cloves.",
+    "Top the toasted bread with diced tomatoes, marinated peaches, and chopped fresh basil.",
+    "Serve the pa amb tomaquet in a donabe vessel.",
+    "Drizzle any remaining marinade over the top of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-idea",
+    "gluten-free",
+    "spanish-cuisine",
+    "spring-recipe",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "robust-spring-spanish-peaches-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spring-spanish-peaches-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:48:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "peaches",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peaches",
+    "descriptor": "Robust Spring",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
