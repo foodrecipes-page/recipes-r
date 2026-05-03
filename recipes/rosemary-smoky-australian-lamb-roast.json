@@ -1,0 +1,84 @@
+{
+  "title": "Rosemary Smoky Australian Lamb Roast",
+  "description": "A hearty, sashimi‑infused lamb roast packed with rosemary, tandoor smoke and keto‑friendly flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder roast",
+      "amount": "2 kg",
+      "notes": "bone‑in, 3‑4 inch thick"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "4 sprigs",
+      "notes": "torn into fine pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wood chips for tandoor",
+      "amount": "enough to keep a small fire"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor or oven to 200°C (392°F).",
+    "While heating, mix rosemary, thyme, smoked paprika, salt, pepper, minced garlic, and lemon zest in a bowl.",
+    "Score the lamb roast in a crosshatch pattern about 1cm deep to allow the rub to penetrate.",
+    "Rub the olive oil over the entire surface of the lamb, then press the herb mixture into the scored cuts.",
+    "Place the seasoned roast on a roasting rack set over a sheet pan and add a handful of wood chips to the tandoor or a foil cup in the oven to generate smoke.",
+    "Cook for 90 minutes, or until an instant‑read thermometer reaches 60°C (140°F) for medium‑rare, turning the roast every 30 minutes for even browning.",
+    "Remove the lamb from heat and let it rest for 15 minutes so juices redistribute.",
+    "Slice against the grain into thick roasts and serve hot with a drizzle of the reduced pan juices.",
+    "Enjoy the smoky aroma and hearty, keto‑friendly flavors of this Australian lamb classic."
+  ],
+  "slug": "rosemary-smoky-australian-lamb-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rosemary-smoky-australian-lamb-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:44:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "rosemary",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Rosemary Smoky",
+    "dishForm": "Roast"
+  }
+}
