@@ -1,0 +1,106 @@
+{
+  "title": "Romantic Silky Cantonese Oysters Wrap",
+  "description": "Succulent oysters wrapped in fragrant ti leaf, glazed with a silky soy-sugar sauce that melts in your mouth. A romantic dish that balances delicate flavor with a hint of spice.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh oysters",
+      "amount": "12",
+      "notes": "shucked, keep chilled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "light soy for sweetness"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1 tbsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional heat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "to balance salt"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": "to create glaze"
+    },
+    {
+      "name": "ti leaf",
+      "amount": "12",
+      "notes": "washed, split into 12 squares"
+    }
+  ],
+  "instructions": [
+    "Shuck the oysters and rinse them gently with cold water.",
+    "In a small saucepan, combine soy sauce, shaoxing wine, sesame oil, minced ginger, brown sugar, water, and chili flakes and simmer until the mixture thickens slightly.",
+    "Place a single oyster on each ti leaf square and pour a measured spoonful of the sauce over it.",
+    "Fold the ti leaf around the oyster, tucking the edges to form a compact wrap, and secure with a toothpick if needed.",
+    "Heat a nonstick pan over medium heat and place the wrapped oysters seam-side down, cooking for 3-4 minutes until the shell is lightly toasted.",
+    "Flip the wraps and cook for an additional 2 minutes, allowing the sauce to caramelize and the oyster to finish cooking.",
+    "Remove from heat and arrange the wraps on a serving platter, drizzling any remaining sauce over the top.",
+    "Garnish with sliced scallions for a fresh contrast of color and flavor.",
+    "Serve immediately to enjoy the silky, yeasty romance of the dish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "cantonese",
+    "dinner"
+  ],
+  "slug": "romantic-silky-cantonese-oysters-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-silky-cantonese-oysters-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:53:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "oysters",
+    "diet": "pescatarian",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Oysters",
+    "descriptor": "Romantic Silky",
+    "dishForm": "Wrap"
+  }
+}
