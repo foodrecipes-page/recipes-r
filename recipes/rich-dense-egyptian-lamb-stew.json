@@ -1,0 +1,108 @@
+{
+  "title": "Rich Dense Egyptian Lamb Stew",
+  "description": "A hearty, keto-friendly Egyptian lamb stew made with brandy and pressure-cooked to perfection. This dish is perfect for meal prep and can be served for dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pressure cooker over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the brandy and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the lamb broth and bring to a boil.",
+    "Close the lid of the pressure cooker and cook at high pressure for 30 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lamb",
+    "stew",
+    "keto",
+    "low-carb",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "rich-dense-egyptian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-egyptian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:48:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "brandy",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Dense",
+    "dishForm": "Stew"
+  }
+}
