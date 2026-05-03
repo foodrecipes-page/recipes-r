@@ -1,0 +1,99 @@
+{
+  "title": "Rich Peanut Oil Toast Paella",
+  "description": "A rich and juicy Venezuelan dish featuring toasted bread slices cooked in peanut oil for a light yet indulgent breakfast or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup (uncooked) whole grain or short-grain rice, preferably medium-grained variety"
+    },
+    {
+      "name": "Toasted Bread Slices",
+      "amount": "4 slices (preferably multigrain bread)"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup, roughly chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Herbs (Optional)",
+      "amount": "To taste (e.g., cilantro or parsley)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Toast bread slices until golden brown and slightly crispy, about 5-7 minutes.",
+    "In a large skillet or paella dish, heat the peanut oil over medium-high heat.",
+    "Add the diced onions and sauté for about 2 minutes until translucent.",
+    "Stir in minced garlic, chopped tomatoes, and finely chopped peanuts. Cook for an additional 2-3 minutes until fragrant.",
+    "Gradually add the vegetable broth or water to the skillet while stirring continuously to prevent burning. Bring to a boil.",
+    "Reduce heat to medium-low and stir in the rice, ensuring each grain is coated with the liquid mixture. Cover and cook for about 10 minutes.",
+    "Add the toasted bread slices evenly on top of the rice, making sure they are not touching each other too much as they will expand during cooking.",
+    "Lower the heat to low-medium, cover again, and let it simmer for another 5-8 minutes or until most liquid is absorbed by the bread and rice.",
+    "If desired, sprinkle fresh herbs over top of the dish. Season with salt and pepper before serving.",
+    "Let the toast paella rest for a few minutes after removing from heat to allow flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paella",
+    "toasted-bread",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 397,
+    "protein": 16,
+    "carbs": 50,
+    "fat": 21
+  },
+  "slug": "rich-peanut-oil-toast-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peanut-oil-toast-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:21:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "peanut oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Rich",
+    "dishForm": "Paella"
+  }
+}
