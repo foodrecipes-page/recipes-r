@@ -1,0 +1,106 @@
+{
+  "title": "Rich Portuguese Pork Stew",
+  "description": "A hearty, midnight-craving dish that marries Portuguese flavors with keto-friendly ingredients, featuring tender pork, smoky paprika, and a subtle sweetness from palm sugar.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "800 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "to taste, low‑carb sweetener"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "for aroma"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water or low‑sodium broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven heat olive oil over medium‑high heat. Add pork cubes, browning on all sides, about 8 minutes. Remove pork and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "pork",
+    "slow-cook",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 60
+  },
+  "slug": "rich-portuguese-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-portuguese-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:02:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "palm sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
