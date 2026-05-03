@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Spicy Middle Eastern Chicken Roast",
+  "description": "A spicy and creamy Middle Eastern chicken roast dish featuring fine yellow cornmeal, perfect for a solo dinner, and is Whole30 friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "yellow cornmeal",
+      "amount": "2 tablespoons",
+      "notes": "fine grind"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, garlic powder, cumin, paprika, cayenne pepper, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat evenly with the cornmeal mixture.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast for 25-30 minutes or until the chicken reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is roasting, mix the lemon juice with 1 tablespoon of water in a small bowl.",
+    "After the chicken has roasted for 20 minutes, brush the lemon juice mixture evenly over the top of the chicken.",
+    "Remove the skillet from the oven and let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-roast",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "roasted-spicy-middle-eastern-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-spicy-middle-eastern-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:08:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Spicy",
+    "dishForm": "Roast"
+  }
+}
