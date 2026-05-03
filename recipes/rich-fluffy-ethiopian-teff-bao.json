@@ -1,0 +1,106 @@
+{
+  "title": "Rich Fluffy Ethiopian Teff Bao",
+  "description": "A sugar‑free, vegetarian Ethiopian-style fluffy bao made with teff flour, filled with a savory lentil‑spinach mix, perfect for a solo dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "1 cup",
+      "notes": "whole grain, slightly tangy"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "lentils (cooked)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots (finely diced)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spinach (chopped)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spice blend",
+      "amount": "2 tsp",
+      "notes": "turmeric 1 tsp, berbere 1 tsp, nutritional yeast 1 tbsp, black pepper 1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "In a large bowl, whisk together teff flour, all‑purpose flour, baking powder, and salt.",
+    "Add warm water, vegetable oil, and egg to the dry mixture; stir until a soft dough forms.",
+    "Divide the dough into 8 equal portions, shape each into a small disk, and place on a parchment‑lined baking sheet.",
+    "Bake the buns for 20–22 minutes, or until lightly golden and puffed.",
+    "While the buns bake, sauté carrots and spinach in a bit of oil until softened.",
+    "Add cooked lentils, spice blend, and a splash of water to the vegetable mixture; simmer until the filling is heated through and slightly thickened.",
+    "Remove buns from oven and let cool for 5 minutes; then cut a small slit on the side of each bun to create a pocket.",
+    "Fill each bun with the lentil‑spinach mixture, serve warm, and enjoy your fluffy, nutritious dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "teff",
+    "bao",
+    "fluffy",
+    "dinner",
+    "veg"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "rich-fluffy-ethiopian-teff-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-ethiopian-teff-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:27:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "buns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Rich Fluffy",
+    "dishForm": "Bao"
+  }
+}
