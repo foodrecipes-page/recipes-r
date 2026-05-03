@@ -1,0 +1,96 @@
+{
+  "title": "Radiant Egyptian Red Onions Pie",
+  "description": "A smoky, flaky pie brimming with sweet caramelized red onions and aromatic spices, perfect for a festive Egyptian meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "4 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a large saucepan, heat olive oil over medium heat and sauté onions until caramelized, about 15 minutes.",
+    "Stir in cumin, smoked paprika, salt, and pepper, and cook for 2 more minutes.",
+    "Remove from heat and let the mixture cool slightly.",
+    "In a bowl, combine flour and butter; rub with fingertips until the mixture resembles coarse crumbs.",
+    "Add the beaten egg to the dough and mix until it comes together; form a disc, wrap in plastic, and chill for 30 minutes.",
+    "Roll the chilled dough on a floured surface into a circle that fits a 23cm pie dish, transfer, and press into the dish.",
+    "Spoon the onion filling into the crust and bake for 25 minutes until golden, then let cool before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flaky",
+    "nut-free",
+    "savory-pie",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 22
+  },
+  "slug": "radiant-egyptian-red-onions-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-egyptian-red-onions-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:52:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "red onions",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "red onions",
+    "descriptor": "Radiant",
+    "dishForm": "Pie"
+  }
+}

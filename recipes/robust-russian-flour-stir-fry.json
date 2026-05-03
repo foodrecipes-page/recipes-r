@@ -1,0 +1,104 @@
+{
+  "title": "Robust Russian Flour Stir-fry",
+  "description": "A garlicky, fluffy stir-fry that uses a simple flour batter as the base, combined with crisp vegetables for a crowd‑pleasing Russian comfort dish.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": "for batter"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cabbage, shredded",
+      "amount": "300g"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk the flour and water together in a bowl until the batter is smooth and free of lumps.",
+    "Beat in the eggs, salt, and pepper until fully incorporated.",
+    "Heat a tablespoon of oil in a large skillet over medium‑high heat until shimmering.",
+    "Pour a ladleful of batter into the skillet, swirling to form a thin even layer.",
+    "Cook the batter until the edges lift and the bottom turns golden, then flip and cook the other side for a minute.",
+    "Transfer the cooked sheet to a cutting board, slice into wide strips, and set aside.",
+    "In the same skillet, add another tablespoon of oil and sauté the minced garlic and sliced onion until fragrant, about 30 seconds.",
+    "Add the shredded cabbage, julienned carrot, and sliced bell pepper, stirring constantly until the vegetables soften, about 5 minutes.",
+    "Return the batter strips to the skillet, toss to coat them with the vegetables and sauce, and cook for an additional 2 minutes to heat through.",
+    "Serve hot, optionally topped with a dollop of sour cream or a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "fluffy",
+    "garlic",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "robust-russian-flour-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-russian-flour-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:52:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "white flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "flour",
+    "descriptor": "Robust",
+    "dishForm": "Stir-fry"
+  }
+}
