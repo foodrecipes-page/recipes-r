@@ -1,0 +1,110 @@
+{
+  "title": "Croatian Lamb Pilaf",
+  "description": "A rich and dense Croatian dish featuring lamb, couscous, and cured meat, perfect for special occasions. This gluten-free-friendly recipe is a hearty and flavorful representation of Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pršut",
+      "amount": "6 slices",
+      "notes": "Croatian cured meat, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add lamb pieces and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add diced pršut to the pot and cook until crispy, about 3-4 minutes. Remove from pot and set aside with lamb.",
+    "Add chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add grated carrot, paprika, salt, and black pepper to the pot. Cook for 2 minutes, stirring constantly.",
+    "Add lamb broth to the pot and bring to a boil.",
+    "Add browned lamb and crispy pršut back to the pot, stirring to combine.",
+    "Reduce heat to low, cover, and simmer for 1.5 hours, or until lamb is tender.",
+    "About 30 minutes before serving, prepare couscous according to package instructions.",
+    "To serve, place cooked couscous on a large platter or individual plates, then spoon the lamb and vegetable mixture over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "couscous",
+    "croatian",
+    "gluten-free",
+    "pilaf",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 37,
+    "carbs": 43,
+    "fat": 34
+  },
+  "slug": "rich-dense-croatian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-croatian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:43:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "couscous",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "rich dense",
+    "dishForm": "Pilaf"
+  }
+}
