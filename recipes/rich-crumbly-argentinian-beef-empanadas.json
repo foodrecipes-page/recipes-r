@@ -1,0 +1,99 @@
+{
+  "title": "Rich Crumbly Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish featuring tender beef and a rich, crumbly crust, perfect for a crowd. This paleo-friendly recipe uses wholesome ingredients and traditional cooking methods.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grass-fed ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "paleo-friendly empanada dough",
+      "amount": "2 cups",
+      "notes": "made with almond flour and coconut oil"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks. Cook until the beef is browned, about 5-7 minutes.",
+    "Deglaze the skillet with the water, scraping up any browned bits from the bottom of the pan.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Roll out the paleo-friendly empanada dough to a thickness of about 1/8 inch. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle. Brush the edges of the dough with the beaten egg.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada. Use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the beaten egg and bake for 20-25 minutes, until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "paleo-friendly",
+    "gluten-free",
+    "crumbly-crust"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "rich-crumbly-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crumbly-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:12:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "water",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "rich crumbly",
+    "dishForm": "Empanadas"
+  }
+}

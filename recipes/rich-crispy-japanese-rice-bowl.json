@@ -1,0 +1,90 @@
+{
+  "title": "Rich Crispy Japanese Rice Bowl",
+  "description": "A comforting, crispy rice bowl with a rich soy‑mirin glaze, blue‑colored tofu topping, and a satisfying crunch, all egg‑free.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short‑grain rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed, diced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce (low sodium)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1 tsp",
+      "notes": "food‑grade"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 stalk",
+      "notes": "sliced thin"
+    }
+  ],
+  "instructions": [
+    "Combine soy sauce, mirin, sake, sugar, and blue food coloring in a small bowl; stir until sugar dissolves to create the glaze.",
+    "Heat 1 tbsp sesame oil in a non‑stick skillet over medium‑high heat; add cubed tofu and fry until all sides are golden and crispy, about 5–6 minutes.",
+    "Add the glaze to the skillet, reduce heat to medium, and toss tofu until coated and the sauce thickens, about 2 minutes.",
+    "Meanwhile, warm the cooked rice in a shallow dish; gently fold in a very small amount of the glaze to give the rice a subtle color and flavor.",
+    "Transfer the glazed tofu onto the rice, ensuring a generous spread for maximum crunch.",
+    "Sprinkle toasted sesame seeds and sliced green onion over the bowl for garnish.",
+    "Drizzle a tiny splash of toasted sesame oil for extra aroma and serve immediately.",
+    "Serve the bowl hot, allowing diners to stir the flavors together as they eat."
+  ],
+  "slug": "rich-crispy-japanese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-japanese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:12:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "blue food colouring",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Bowl"
+  }
+}

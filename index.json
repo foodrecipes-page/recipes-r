@@ -736,6 +736,14 @@
     "shard": "r"
   },
   {
+    "slug": "rich-crispy-japanese-rice-bowl",
+    "title": "Rich Crispy Japanese Rice Bowl",
+    "tags": [],
+    "cuisine": "Japanese",
+    "totalTimeMin": null,
+    "shard": "r"
+  },
+  {
     "slug": "rich-crispy-light-croatian-duck-stir-fry",
     "title": "Rich Crispy Light Croatian Duck Stir-fry",
     "tags": [
@@ -776,6 +784,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 150,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crumbly-argentinian-beef-empanadas",
+    "title": "Rich Crumbly Argentinian Beef Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-empanadas",
+      "paleo-friendly",
+      "gluten-free",
+      "crumbly-crust"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
