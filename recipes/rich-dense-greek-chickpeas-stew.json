@@ -1,0 +1,118 @@
+{
+  "title": "Rich Dense Greek Chickpeas Stew",
+  "description": "A hearty, jain-friendly Greek-inspired chickpea stew packed with mustard powder and aromatics, perfect for meal prep.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups",
+      "notes": "use canned or soak and cook dry"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g",
+      "notes": "drained lightly for thicker texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin for best flavor"
+    },
+    {
+      "name": "yellow mustard powder",
+      "amount": "1 tsp",
+      "notes": "adds depth and a slight tang"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "for warmth"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "½ tsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "classic Greek herb"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp chopped",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "balances richness"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled, optional for dairy lovers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp olive oil over medium heat.",
+    "Add ground cumin, dried red chili flakes, and a pinch of salt. Sauté for 30 seconds until fragrant.",
+    "Stir in yellow mustard powder and dried oregano; cook for another 30 seconds.",
+    "Add canned diced tomatoes, cooked chickpeas, and 1 cup of water. Bring to a gentle simmer.",
+    "Reduce heat to low and let the stew bubble for 25 minutes, allowing flavors to meld and the stew to thicken.",
+    "Season with salt and black pepper to taste, then stir in fresh lemon juice and chopped dill.",
+    "If using feta, fold in crumbled cheese just before serving to keep it from disintegrating.",
+    "Serve hot or let cool and refrigerate for up to 4 days for meal‑prep.",
+    "Reheat gently on the stovetop or in the microwave before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rich-dense",
+    "jain-friendly",
+    "Greek",
+    "meal-prep",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "rich-dense-greek-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-greek-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:51:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "mustard powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Rich Dense",
+    "dishForm": "Stew"
+  }
+}
