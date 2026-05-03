@@ -1,0 +1,121 @@
+{
+  "title": "Rich Silky British Egg Quiche",
+  "description": "A classic British quiche filled with creamy eggs, smoked salmon, and rich dairy-free alternatives.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tapioca Starch",
+      "amount": "1 cup",
+      "notes": "To make a dairy-free pastry crust"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/2 cup",
+      "notes": "For dairy-free pastry"
+    },
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 slices",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "Fresh for added nutrients"
+    },
+    {
+      "name": "Egg",
+      "amount": "4 large",
+      "notes": "For silky texture"
+    },
+    {
+      "name": "Dairy-Free Milk",
+      "amount": "1 cup",
+      "notes": "For dairy-free custard"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Sage",
+      "amount": "1 tablespoon",
+      "notes": "Fresh for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the tapioca starch and shortening to make a pastry dough.",
+    "Roll out the dough and place in a 9-inch pie dish.",
+    "Bake the crust for 10 minutes.",
+    "In a separate bowl, whisk together the eggs, dairy-free milk, vegan butter, sage, salt, and pepper.",
+    "Add the chopped onion, garlic, and smoked salmon to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the baked pie crust.",
+    "Sprinkle the fresh spinach on top of the egg mixture.",
+    "Bake the quiche for 30-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Slice the quiche into 6-8 pieces and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "quiche",
+    "smoked-salmon",
+    "dairy-free",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "rich-silky-british-egg-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-british-egg-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:26:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "egg",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "egg",
+    "descriptor": "rich silky",
+    "dishForm": "Quiche"
+  }
+}
