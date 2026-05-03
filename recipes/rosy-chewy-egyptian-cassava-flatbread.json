@@ -1,0 +1,99 @@
+{
+  "title": "Rosy Chewy Egyptian Cassava Flatbread",
+  "description": "Winey, chewy, light Egyptian flatbread made with cassava flour and a lamination‑puff technique, low in calories and vegan.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "fine sea salt",
+      "amount": "3g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "white wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2g",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk the cassava flour, salt, sugar, and yeast until well combined.",
+    "Add the water, wine, and olive oil and stir until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Cover the dough, let it rise in a warm place for 30 minutes until doubled in size.",
+    "Press the dough flat and brush the surface with olive oil.",
+    "Fold the dough into thirds and roll it out again, repeating the fold and roll three times to create lamination layers.",
+    "Cut the dough into 6 equal rounds and place them on a baking sheet lined with parchment.",
+    "Bake at 200°C for 12 minutes until the flatbreads puff and develop a rosy tint.",
+    "Cool on a rack, slice, and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "egyptian",
+    "flatbread",
+    "laminated",
+    "low-calorie",
+    "vegetarian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 18,
+    "carbs": 82,
+    "fat": 14
+  },
+  "slug": "rosy-chewy-egyptian-cassava-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rosy-chewy-egyptian-cassava-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:31:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cassaba",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cassava",
+    "descriptor": "Rosy Chewy",
+    "dishForm": "Flatbread"
+  }
+}
