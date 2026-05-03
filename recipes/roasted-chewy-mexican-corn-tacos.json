@@ -1,0 +1,108 @@
+{
+  "title": "Roasted Chewy Mexican Corn Tacos",
+  "description": "Roasted corn adds a caramelized crunch to these comforting tacos, finished with lime, cilantro, and a touch of coconut sugar for a subtle sweetness.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh corn on the cob",
+      "amount": "4 ears"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8 small"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "Remove the husks and silk from the corn and slice the ears into 1-inch pieces.",
+    "In a bowl toss the corn with olive oil, smoked paprika, chili powder, cumin, salt, pepper, and coconut sugar until evenly coated.",
+    "Spread the seasoned corn on a baking sheet and roast for 12 to 15 minutes, stirring halfway through, until caramelized and slightly charred.",
+    "While the corn roasts, warm the tortillas on a dry skillet or microwave for 30 seconds.",
+    "Remove the roasted corn from the oven and squeeze lime juice over it.",
+    "Fold the warm tortillas, fill with roasted corn, top with sliced avocado and chopped cilantro.",
+    "Serve immediately, optionally adding a drizzle of lime or a pinch of extra chili powder.",
+    "Enjoy the chewy, sweet, and savory flavors of these tacos."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "mexican",
+    "roasted",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1057,
+    "protein": 18,
+    "carbs": 164,
+    "fat": 50
+  },
+  "slug": "roasted-chewy-mexican-corn-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-chewy-mexican-corn-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:13:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "coco sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Roasted Chewy",
+    "dishForm": "Tacos"
+  }
+}
