@@ -1,0 +1,93 @@
+{
+  "title": "Rich Chinese Ginger Bake",
+  "description": "A dense, indulgent bake featuring a rich ginger-garlic paste base, slow-cooked with minimal liquid to create a tender yet flavorful dish perfect for Mediterranean-friendly diets.",
+  "cuisine": "chinese",
+  "diet": [
+    "mediterranean-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "2 tbsp (10g)",
+      "notes": "fresh, finely grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml (1 cup)",
+      "notes": "full-fat, room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "brown sugar for deeper flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      ": ": ", "
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": "to thicken the sauce"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for subtle acidity"
+    },
+    {
+      "name": "chopped vegetables",
+      "amount": "1 cup",
+      "notes": "carrots, bell peppers, and mushrooms (optional)"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine grated ginger and minced garlic, then mix in coconut milk, sugar, soy sauce, and rice vinegar until smooth.",
+    "Heat a small pot over medium heat, add the ginger-garlic mixture, and cook for 10 minutes until slightly thickened.",
+    "Stir in cornstarch to thicken the sauce further, then remove from heat.",
+    "Serve warm with chopped vegetables for a rich, Mediterranean-friendly dinner."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "ginger",
+    "bake",
+    "indulgent",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "rich-chinese-ginger-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chinese-ginger-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:32:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ginger",
+    "descriptor": "Rich",
+    "dishForm": "Bake"
+  }
+}
