@@ -1,0 +1,104 @@
+{
+  "title": "Rich Irish Chicken Liver Grill",
+  "description": "A quick, hearty Irish-style dish featuring tender chicken livers marinated in Guinness, smoked paprika and herbs, then grilled to perfection.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Guinness",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill pan or griddle over medium-high heat.",
+    "Clean the livers: trim any fat or connective tissue and pat them dry with paper towels.",
+    "In a small bowl, whisk together olive oil, Guinness, Dijon mustard, Worcestershire sauce, smoked paprika, garlic powder, dried thyme, salt, and pepper.",
+    "Coat the livers in the mixture, cover, and let marinate for 15–20 minutes at room temperature.",
+    "Place the marinated livers onto the hot grill pan; cook for 2–3 minutes per side until a slight crust forms and the interior is just pink (internal temperature 74°C/165°F).",
+    "Transfer the cooked livers to a plate, add a pat of butter on top, and let them rest for a minute while the butter melts.",
+    "Sprinkle with fresh parsley and serve immediately with a side of mashed potatoes or soda bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "rich-irish",
+    "chicken-liver",
+    "grill",
+    "lazy-sunday",
+    "egg-free-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 85,
+    "carbs": 5,
+    "fat": 45
+  },
+  "slug": "rich-irish-chicken-liver-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-irish-chicken-liver-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:12:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "chicken liver",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Rich",
+    "dishForm": "Grill"
+  }
+}
