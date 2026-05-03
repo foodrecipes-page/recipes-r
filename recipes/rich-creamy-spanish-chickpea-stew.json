@@ -59,8 +59,8 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add cumin and smoked paprika, sautéing for 1 minute until fragrant.",
-    "Add diced bell pepper, zucchini, and spinach; cook for 4‑5 minutes until vegetables soften.",
+    "Add cumin and smoked paprika, saut\u00e9ing for 1 minute until fragrant.",
+    "Add diced bell pepper, zucchini, and spinach; cook for 4\u20115 minutes until vegetables soften.",
     "Pour in vegetable broth and bring to a simmer.",
     "Add cooked chickpeas and saffron-infused water, stirring to combine.",
     "Simmer gently for 10 minutes to meld flavors.",
@@ -84,5 +84,20 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Rich Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "lunch"
+  ]
 }

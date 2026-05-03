@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (218°C).",
+    "Preheat your oven to 425\u00b0F (218\u00b0C).",
     "Place the potato halves on a baking sheet lined with parchment paper.",
     "Drizzle each half with 1/3 of the butter and sprinkle evenly with paprika, salt, pepper, and any additional seasonings like garlic powder if using.",
     "Gently rub the potatoes to coat them in the melted butter and seasoning mixture. Make sure they are coated evenly but not greasy.",
@@ -69,5 +69,10 @@
     "primaryIngredient": "paprika",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

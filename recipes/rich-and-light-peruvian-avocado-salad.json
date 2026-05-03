@@ -3,7 +3,7 @@
   "description": "A rich and light peruvian dish featuring avocados, with a touch of icing sugar to add sweetness and the mediterranean-friendly tandoor for an extra depth of flavor.",
   "cuisine": "Peruvian",
   "diet": null,
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "avocado",
@@ -59,8 +59,8 @@
   ],
   "nutrition": {
     "calories": 165,
-    "protein": 2.8,
-    "carbs": 24.3,
+    "protein": 3,
+    "carbs": 24,
     "fat": 9
   },
   "slug": "rich-and-light-peruvian-avocado-salad",

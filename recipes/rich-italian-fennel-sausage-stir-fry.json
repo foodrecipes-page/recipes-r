@@ -6,7 +6,7 @@
     "rich",
     "sauces"
   ],
-  "meal": "main_course",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Italian Fennel Sausages",
@@ -58,9 +58,9 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 150°F (65°C) for the sausages.",
+    "Preheat your sous-vide machine to 150\u00b0F (65\u00b0C) for the sausages.",
     "Prepare a marinade by mixing soy sauce, fish sauce, vegetable oil, minced garlic, ginger, chili paste, corn starch, and water in a bowl. Place the Italian Fennel Sausages in this marinade overnight or for at least 4 hours to infuse flavors.",
-    "After marinating, place the sausages in the sous-vide machine and cook until they reach an internal temperature of 150°F (65°C). Allow them to rest before slicing thin.",
+    "After marinating, place the sausages in the sous-vide machine and cook until they reach an internal temperature of 150\u00b0F (65\u00b0C). Allow them to rest before slicing thin.",
     "Heat a wok over medium-high heat. Add vegetable oil and sliced sausages. Stir-fry for about 3 minutes, shaking the wok continuously to prevent sticking.",
     "Add minced garlic and ginger into the wok and stir-fry until fragrant and slightly golden (about 1 minute).",
     "Drizzle with soy sauce mixture over the sausages in the wok. Stir gently to coat them evenly.",
@@ -99,5 +99,6 @@
     "mainIngredient": "Fennel Sausage",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15
 }

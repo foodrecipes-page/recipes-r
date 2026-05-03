@@ -44,7 +44,7 @@
   "instructions": [
     "Combine tapioca pearls, water, sugar, and salt in a large saucepan. Bring to a boil over medium heat, then reduce heat and simmer for about 20 minutes or until the tapioca is soft.",
     "Transfer the mixture to a blender; puree until smooth. Return the pureed mixture to the pan and stir in softened butter and lime juice. Heat gently, stirring constantly, until the liquid just begins to come away from sides of the pot.",
-    "Meanwhile, preheat your oven to 350°F (175°C). In a mixing bowl, combine flour with optional mint leaves. Slowly add tapioca mixture while continuously stirring until stiff dough forms.",
+    "Meanwhile, preheat your oven to 350\u00b0F (175\u00b0C). In a mixing bowl, combine flour with optional mint leaves. Slowly add tapioca mixture while continuously stirring until stiff dough forms.",
     "Transfer the dough onto a lightly floured surface and knead gently for about 2-3 minutes until smooth. Cut into small balls and place on a lined baking sheet. Bake for 15-20 minutes or until golden brown.",
     "Serve warm as crumble with your favorite desserts or by itself as a snack."
   ],
@@ -62,9 +62,9 @@
   ],
   "nutrition": {
     "calories": 204,
-    "protein": 5.3,
-    "carbs": 38.6,
-    "fat": 7.9
+    "protein": 5,
+    "carbs": 39,
+    "fat": 8
   },
   "slug": "rich-nostalgic-filipino-tapioca-crumble",
   "source": "ollama-qwen2.5:3b",

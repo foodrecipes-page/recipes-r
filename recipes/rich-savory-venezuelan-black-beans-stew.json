@@ -1,6 +1,6 @@
 {
   "title": "Rich Savory Venezuelan Black Beans Stew",
-  "description": "A dense, umami-packed black bean stew with shallots and herbs, slow-cooked to perfection for a low‑fat, romantic Venezuelan dinner.",
+  "description": "A dense, umami-packed black bean stew with shallots and herbs, slow-cooked to perfection for a lowfat, romantic Venezuelan dinner.",
   "cuisine": "Venezuelan",
   "diet": [
     "low-fat",
@@ -28,7 +28,7 @@
       "amount": "1 cup"
     },
     {
-      "name": "low‑sodium vegetable broth",
+      "name": "low\u2011sodium vegetable broth",
       "amount": "4 cups (960 ml)",
       "notes": "low sodium"
     },
@@ -40,7 +40,7 @@
     {
       "name": "olive oil",
       "amount": "1 tablespoon",
-      "notes": "extra‑virgin, used for sautéing"
+      "notes": "extra\u2011virgin, used for saut\u00e9ing"
     },
     {
       "name": "bay leaf",
@@ -64,25 +64,25 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ teaspoon",
+      "amount": "\u00bd teaspoon",
       "notes": "freshly ground"
     },
     {
       "name": "fresh cilantro",
-      "amount": "¼ cup (chopped)",
+      "amount": "\u00bc cup (chopped)",
       "notes": "for garnish"
     }
   ],
   "instructions": [
     "Rinse the soaked black beans and set aside.",
-    "Heat the olive oil in a large, heavy‑bottomed pot over medium heat.",
+    "Heat the olive oil in a large, heavy\u2011bottomed pot over medium heat.",
     "Add the sliced shallots and minced garlic, cooking until the shallots become translucent and fragrant, about 5 minutes.",
-    "Stir in the crushed tomatoes, oregano, cumin, bay leaves, salt, and pepper, letting the mixture simmer for 2–3 minutes to meld the flavors.",
+    "Stir in the crushed tomatoes, oregano, cumin, bay leaves, salt, and pepper, letting the mixture simmer for 2\u20133 minutes to meld the flavors.",
     "Add the soaked beans, vegetable broth, and water to the pot, stirring to combine.",
-    "Bring the stew to a gentle boil, then reduce the heat to low, cover, and let it simmer slowly for 1½–2 hours, stirring occasionally and adding more water if it becomes too thick.",
+    "Bring the stew to a gentle boil, then reduce the heat to low, cover, and let it simmer slowly for 1\u00bd\u20132 hours, stirring occasionally and adding more water if it becomes too thick.",
     "Remove the bay leaves. Taste the stew and adjust seasoning with additional salt or pepper if desired.",
     "Fold in the chopped cilantro just before serving for a fresh, bright finish.",
-    "Serve hot, accompanied by brown rice or whole‑grain bread, and enjoy the rich, comforting flavors.",
+    "Serve hot, accompanied by brown rice or whole\u2011grain bread, and enjoy the rich, comforting flavors.",
     ""
   ],
   "slug": "rich-savory-venezuelan-black-beans-stew",
@@ -102,5 +102,20 @@
     "mainIngredient": "black beans",
     "descriptor": "Rich Savory",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "dinner"
+  ]
 }

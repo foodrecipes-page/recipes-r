@@ -5,7 +5,7 @@
   "diet": [
     "keto"
   ],
-  "meal": "main_course",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Rainbow Trout Fillets",
@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Season the trout fillets with salt and black pepper.",
     "In a bowl, mix olive oil, dill, garlic powder, Herbes de Provence, ground flaxseed, and coconut flour. Mix well until crumbly.",
     "Place the trout in a baking dish, then pour the crumb mixture over them evenly.",
@@ -66,15 +66,15 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "rainbow_trout_crumble",
-    "floral_adventurous",
-    "keto_dish"
+    "rainbow-trout-crumble",
+    "floral-adventurous",
+    "keto-dish"
   ],
   "nutrition": {
     "calories": 512,
-    "protein": 43.6,
-    "carbs": 30.8,
-    "fat": 18.7
+    "protein": 44,
+    "carbs": 31,
+    "fat": 19
   },
   "slug": "rainbow-crumbly-american-trout-crumble",
   "source": "ollama-qwen2.5:3b",

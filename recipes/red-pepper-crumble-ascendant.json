@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Mix red pepper paste, chives, turmeric powder, cumin seed, and sea salt in a bowl until well combined.",
     "In another bowl, whisk eggs and add the spice mixture. Mix thoroughly so no lumps remain.",
     "Add the almond flour to the egg-spice mixture and mix until fully incorporated without forming a ball of dough.",
@@ -81,5 +81,6 @@
     "primaryIngredient": "red pepper paste",
     "diet": "keto",
     "region": null
-  }
+  },
+  "prepTimeMin": 15
 }

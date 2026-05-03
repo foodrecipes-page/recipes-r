@@ -21,7 +21,7 @@
     },
     {
       "name": "1 cup diced onion",
-      "notes": "sautéed for sweetness"
+      "notes": "saut\u00e9ed for sweetness"
     },
     {
       "name": "2 cloves garlic, minced",
@@ -41,8 +41,8 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C).",
-    "Sauté diced onion in olive oil until soft and translucent. Add minced garlic and sauté for another minute.",
+    "Preheat your oven to 375\u00b0F (190\u00b0C).",
+    "Saut\u00e9 diced onion in olive oil until soft and translucent. Add minced garlic and saut\u00e9 for another minute.",
     "Crack each egg into a bowl, beat with salt and pepper, then gently fold into the onion mixture.",
     "Distribute the egg mixture evenly onto baking paper or parchment over two layers to catch any excess liquid.",
     "Bake in the preheated oven for 15 minutes. After 10 minutes, use a spatula to flip and press down lightly on top layer of egg mixtures using tongs if needed.",
@@ -83,5 +83,10 @@
     "mainIngredient": "egg",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

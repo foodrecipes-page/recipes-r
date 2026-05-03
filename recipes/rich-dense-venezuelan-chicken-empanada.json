@@ -1,5 +1,5 @@
 {
-  "title": "Venezuelan Chicken Empanada con Maracuyá",
+  "title": "Venezuelan Chicken Empanada con Maracuya",
   "description": "A rich, dense, and flaky pastry filled with tender chicken, caramelized onions, and sweet marshmallows, inspired by the flavors of Venezuela.",
   "cuisine": "Latin American",
   "diet": [
@@ -11,7 +11,7 @@
     {
       "name": "Ground chicken thighs",
       "amount": "1 pound (450g)",
-      "notes": "Make sure to cook to 165°F (74°C)"
+      "notes": "Make sure to cook to 165\u00b0F (74\u00b0C)"
     },
     {
       "name": "Caramelized onions",
@@ -60,7 +60,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "Preheat oven to 375\u00b0F (190\u00b0C) and line a baking sheet with parchment paper.",
     "In a large skillet, cook the ground chicken over medium-high heat until browned, breaking it up into small pieces as it cooks.",
     "Add the caramelized onions, garlic powder, cumin, and salt to the skillet and stir to combine.",
     "Stir in the miniature marshmallows and cook until they start to puff and brown.",
@@ -88,9 +88,9 @@
   ],
   "nutrition": {
     "calories": 320,
-    "protein": "24g",
-    "carbs": "10g",
-    "fat": "22g"
+    "protein": 24,
+    "carbs": 10,
+    "fat": 22
   },
   "slug": "rich-dense-venezuelan-chicken-empanada",
   "source": "groq-llama-3.1-8b-instant",

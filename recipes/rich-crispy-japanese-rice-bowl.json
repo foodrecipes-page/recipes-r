@@ -1,6 +1,6 @@
 {
   "title": "Rich Crispy Japanese Rice Bowl",
-  "description": "A comforting, crispy rice bowl with a rich soy‑mirin glaze, blue‑colored tofu topping, and a satisfying crunch, all egg‑free.",
+  "description": "A comforting, crispy rice bowl with a rich soymirin glaze, bluecolored tofu topping, and a satisfying crunch, all eggfree.",
   "cuisine": "Japanese",
   "diet": [
     "vegetarian"
@@ -8,7 +8,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Japanese short‑grain rice",
+      "name": "Japanese short\u2011grain rice",
       "amount": "2 cups",
       "notes": "cooked and cooled"
     },
@@ -37,7 +37,7 @@
     {
       "name": "blue food coloring",
       "amount": "1 tsp",
-      "notes": "food‑grade"
+      "notes": "food\u2011grade"
     },
     {
       "name": "granulated sugar",
@@ -61,7 +61,7 @@
   ],
   "instructions": [
     "Combine soy sauce, mirin, sake, sugar, and blue food coloring in a small bowl; stir until sugar dissolves to create the glaze.",
-    "Heat 1 tbsp sesame oil in a non‑stick skillet over medium‑high heat; add cubed tofu and fry until all sides are golden and crispy, about 5–6 minutes.",
+    "Heat 1 tbsp sesame oil in a non\u2011stick skillet over medium\u2011high heat; add cubed tofu and fry until all sides are golden and crispy, about 5\u20136 minutes.",
     "Add the glaze to the skillet, reduce heat to medium, and toss tofu until coated and the sauce thickens, about 2 minutes.",
     "Meanwhile, warm the cooked rice in a shallow dish; gently fold in a very small amount of the glaze to give the rice a subtle color and flavor.",
     "Transfer the glazed tofu onto the rice, ensuring a generous spread for maximum crunch.",
@@ -86,5 +86,20 @@
     "mainIngredient": "Rice",
     "descriptor": "Rich Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "dinner"
+  ]
 }

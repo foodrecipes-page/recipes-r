@@ -1,6 +1,6 @@
 {
   "title": "Rosemary Smoky Australian Lamb Roast",
-  "description": "A hearty, sashimi‑infused lamb roast packed with rosemary, tandoor smoke and keto‑friendly flavors.",
+  "description": "A hearty, sashimiinfused lamb roast packed with rosemary, tandoor smoke and ketofriendly flavors.",
   "cuisine": "Australian",
   "diet": [
     "keto",
@@ -11,7 +11,7 @@
     {
       "name": "lamb shoulder roast",
       "amount": "2 kg",
-      "notes": "bone‑in, 3‑4 inch thick"
+      "notes": "bone\u2011in, 3\u20114 inch thick"
     },
     {
       "name": "fresh rosemary",
@@ -33,7 +33,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "lemon zest",
@@ -53,15 +53,15 @@
     }
   ],
   "instructions": [
-    "Preheat your tandoor or oven to 200°C (392°F).",
+    "Preheat your tandoor or oven to 200\u00b0C (392\u00b0F).",
     "While heating, mix rosemary, thyme, smoked paprika, salt, pepper, minced garlic, and lemon zest in a bowl.",
     "Score the lamb roast in a crosshatch pattern about 1cm deep to allow the rub to penetrate.",
     "Rub the olive oil over the entire surface of the lamb, then press the herb mixture into the scored cuts.",
     "Place the seasoned roast on a roasting rack set over a sheet pan and add a handful of wood chips to the tandoor or a foil cup in the oven to generate smoke.",
-    "Cook for 90 minutes, or until an instant‑read thermometer reaches 60°C (140°F) for medium‑rare, turning the roast every 30 minutes for even browning.",
+    "Cook for 90 minutes, or until an instant\u2011read thermometer reaches 60\u00b0C (140\u00b0F) for medium\u2011rare, turning the roast every 30 minutes for even browning.",
     "Remove the lamb from heat and let it rest for 15 minutes so juices redistribute.",
     "Slice against the grain into thick roasts and serve hot with a drizzle of the reduced pan juices.",
-    "Enjoy the smoky aroma and hearty, keto‑friendly flavors of this Australian lamb classic."
+    "Enjoy the smoky aroma and hearty, keto\u2011friendly flavors of this Australian lamb classic."
   ],
   "slug": "rosemary-smoky-australian-lamb-roast",
   "source": "ocloud-gpt-oss:20b",
@@ -80,5 +80,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Rosemary Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

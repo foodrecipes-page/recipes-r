@@ -1,6 +1,6 @@
 {
   "title": "Rich Chewy Algerian Lamb Tagine",
-  "description": "A hearty, low‑FODMAP lamb tagine bursting with fenugreek and aromatic spices, finished in a pressure cooker for tender, chewy meat perfect for a quick weeknight dinner.",
+  "description": "A hearty, lowFODMAP lamb tagine bursting with fenugreek and aromatic spices, finished in a pressure cooker for tender, chewy meat perfect for a quick weeknight dinner.",
   "cuisine": "Algerian",
   "diet": [
     "low-fodmap"
@@ -10,7 +10,7 @@
     {
       "name": "lamb shoulder",
       "amount": "1.2 kg",
-      "notes": "cut into 2‑inch cubes"
+      "notes": "cut into 2\u2011inch cubes"
     },
     {
       "name": "olive oil",
@@ -62,7 +62,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "low‑FODMAP beef or chicken stock",
+      "name": "low\u2011FODMAP beef or chicken stock",
       "amount": "1/2 cup"
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "fresh parsley, chopped",
       "amount": "1 tbsp",
-      "notes": "optional, low‑FODMAP in small amounts"
+      "notes": "optional, low\u2011FODMAP in small amounts"
     },
     {
       "name": "dried apricots",
@@ -88,9 +88,9 @@
     "Heat 1 tbsp of olive oil in a pressure cooker over medium heat. Add lamb cubes and sear until browned on all sides, about 5 minutes. Remove lamb and set aside.",
     "In the same cooker, add remaining olive oil. Stir in cumin, coriander, paprika, cinnamon, fenugreek, ginger, salt, and pepper; cook for 30 seconds until fragrant.",
     "Return lamb to the pot. Add carrots, zucchini, leek greens, tomato paste, stock, lemon juice, parsley, and apricots. Stir to combine and coat the lamb with the spice mixture.",
-    "Seal the pressure cooker and cook on high pressure for 20 minutes. Allow natural pressure release for 10 minutes, then quick‑release any remaining pressure.",
+    "Seal the pressure cooker and cook on high pressure for 20 minutes. Allow natural pressure release for 10 minutes, then quick\u2011release any remaining pressure.",
     "Open the cooker, stir, and taste. If needed, adjust seasoning with extra salt or pepper. Serve hot, optionally garnished with a sprinkle of fresh parsley.",
-    "Enjoy a rich, chewy lamb tagine that’s quick to make and gentle on the gut."
+    "Enjoy a rich, chewy lamb tagine that\u2019s quick to make and gentle on the gut."
   ],
   "slug": "rich-chewy-algerian-lamb-tagine",
   "source": "ocloud-gpt-oss:20b",
@@ -109,5 +109,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Rich Chewy",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dinner"
+  ]
 }
