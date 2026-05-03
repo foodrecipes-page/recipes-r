@@ -1,0 +1,117 @@
+{
+  "title": "Tibs Mitmita",
+  "description": "A rich, intense Ethiopian lamb stew featuring the deep, floral flavors of cocoa, perfect for a lazy Sunday.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mitmita spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at Ethiopian markets or online"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2 large",
+      "notes": "such as habaneros or Scotch bonnets"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large Dutch oven over medium heat.",
+    "Add the onions and cook, stirring occasionally, until they are dark golden brown, about 20 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook, stirring occasionally, until it is browned on all sides, about 5 minutes.",
+    "Add the mitmita spice mix, cocoa powder, chili peppers, tomato paste, Worcestershire sauce, salt, and black pepper. Stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the tibs mitmita garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "cocoa",
+    "stew",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "rich-intense-ethiopian-lamb-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-intense-ethiopian-lamb-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:32:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "cocoa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "rich, intense",
+    "dishForm": "stew"
+  }
+}
