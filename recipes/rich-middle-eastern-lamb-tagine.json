@@ -1,0 +1,109 @@
+{
+  "title": "Rich Middle Eastern Lamb Tagine",
+  "description": "A rich and flavorful Middle Eastern dish featuring tender lamb, aromatic spices, and a deep, slightly sweet flavor profile, perfect for a weeknight dinner. This Whole30-friendly recipe is made with wholesome ingredients and is free from grains, dairy, and added sugars.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Stir in the ground cumin, smoked paprika, and black pepper. Cook for 1 minute.",
+    "Add the chopped dried apricots and prunes to the pot, stirring to combine.",
+    "Return the lamb to the pot and add enough water to cover the ingredients. Bring to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Season the tagine with salt to taste, then serve hot over cauliflower rice or roasted vegetables.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Let the tagine cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "tagine",
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "rich-middle-eastern-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-middle-eastern-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:14:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "black pepper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "rich chewy",
+    "dishForm": "Tagine"
+  }
+}
