@@ -1,0 +1,123 @@
+{
+  "title": "Roasted Creamy Indian Lentils Dal",
+  "description": "A peppery, creamy dal made with roasted lentils and coconut milk, perfect for a date-night dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "0.25 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and toast cumin seeds until fragrant, about 1 minute.",
+    "Add diced onion, minced garlic, and grated ginger; sauté until onion turns translucent, about 5 minutes.",
+    "Stir in red lentils, tomatoes, coriander powder, chili powder, garam masala, and salt; cook for 2 minutes to combine flavors.",
+    "Pour in four cups of water and bring the mixture to a boil, then reduce heat and simmer uncovered for 20 minutes, stirring occasionally.",
+    "After the lentils soften, add coconut milk, pepper, and lemon juice; stir well and simmer for an additional 5 minutes.",
+    "Taste and adjust seasoning with extra salt, pepper, or chili if desired.",
+    "Remove the pot from heat and fluff the dal with a wooden spoon.",
+    "Garnish with chopped cilantro and a drizzle of extra coconut milk before serving.",
+    "Serve hot with a side of grilled paneer or grilled vegetables for a complete date-night meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "grilled",
+    "indian",
+    "one-pot",
+    "paleo-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "roasted-creamy-indian-lentils-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-creamy-indian-lentils-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:09:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "lentils",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Roasted Creamy",
+    "dishForm": "Dal"
+  }
+}
