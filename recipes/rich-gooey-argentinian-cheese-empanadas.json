@@ -1,0 +1,88 @@
+{
+  "title": "Rich Gooey Argentinian Cheese Empanadas",
+  "description": "Hearty, single‑serve empanadas that melt with a burst of harissa‑spiced cheese, perfect for a cozy dinner.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mixed cheese (queso de mano & mozzarella), shredded",
+      "amount": "200g"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "parsley, chopped (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, salt and 1 tbsp olive oil; gradually whisk in water until a soft dough forms.",
+    "Knead the dough on a floured surface for 3 minutes, then cover with a damp cloth and let rest 30 minutes.",
+    "While the dough rests, heat 1 tbsp olive oil in a skillet over medium heat; add onion and garlic, sauté until translucent.",
+    "Stir in harissa paste and smoked paprika; cook for 1 minute until fragrant.",
+    "Add the shredded cheese mix to the skillet, stir until the cheese starts to soften and the mixture is gooey; remove from heat and splash with lemon juice and parsley.",
+    "Divide the rested dough into 12 equal portions and roll each into a 6-inch circle on a lightly floured surface.",
+    "Place a heaping spoonful of the cheese filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half‑moon shape and pinch edges together; seal with a fork.",
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Place the empanadas on the sheet, leaving space between them, and bake for 18–20 minutes until golden brown.",
+    "Let the empanadas cool for 5 minutes before serving. Enjoy while they're warm and gooey."
+  ],
+  "slug": "rich-gooey-argentinian-cheese-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-argentinian-cheese-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:36:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "harissa spice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich Gooey",
+    "dishForm": "Empanadas"
+  }
+}
