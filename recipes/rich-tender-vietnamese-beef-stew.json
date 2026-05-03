@@ -1,0 +1,119 @@
+{
+  "title": "Rich Tender Vietnamese Beef Stew",
+  "description": "A low‑fat, slow‑braised beef stew bursting with fragrant coriander, lemongrass, and tomato, perfect for a lazy Sunday.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "1 lb (450 g)",
+      "notes": "cut into 2‑inch cubes, trim excess fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small (80 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium (100 g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves (9 g)",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemongrass stalk",
+      "amount": "1 (20 g)",
+      "notes": "pounded, trimmed"
+    },
+    {
+      "name": "Coriander stems",
+      "amount": "2 tbsp (10 g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": ""
+    },
+    {
+      "name": "Low‑sodium beef broth",
+      "amount": "4 cups (950 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "2 tbsp (30 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp (15 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp (1 g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Brown the beef cubes in a large pot over medium‑high heat, turning until all sides are caramelized. Remove the beef and set aside.",
+    "Sauté onion, carrot, and garlic in the same pot, stirring until fragrant and softened, about 3 minutes.",
+    "Add lemongrass, coriander stems, and tomato paste to the pot, cooking for another minute to release flavors.",
+    "Return the beef to the pot; pour in beef broth, soy sauce, fish sauce, brown sugar, and red pepper flakes. Stir to combine.",
+    "Bring the mixture to a gentle simmer, cover, and reduce heat to low. Cook for 1¾–2 hours, or until the beef is fall‑apart tender.",
+    "Taste the stew and adjust seasoning with salt and black pepper if desired. Discard the lemongrass stalk and any large stems of coriander.",
+    "Serve hot, garnished with fresh coriander leaves and a wedge of lime on the side.",
+    "If desired, add a splash of fresh lime juice before serving for extra brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "slow-cooked",
+    "beef",
+    "stew",
+    "vietnamese",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 13
+  },
+  "slug": "rich-tender-vietnamese-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-vietnamese-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:21:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "coriander",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Tender",
+    "dishForm": "Stew"
+  }
+}
