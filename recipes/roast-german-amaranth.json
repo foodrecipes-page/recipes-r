@@ -1,0 +1,76 @@
+{
+  "title": "Roast German Amaranth",
+  "description": "This fresh and dense dish features roasted amaranth mixed with saffron, a midnight-craving german plant-based delight.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Amaranth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water or Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "2 small to medium threads"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "A few tablespoons, for roasting"
+    }
+  ],
+  "instructions": [
+    "Rinse amaranth under cold water and drain well.",
+    "In a large pot or saucepan, combine amaranth with water or broth. Bring to a boil over medium heat.",
+    "Reduce heat to low, cover, and simmer until liquid is absorbed and the amaranth is tender, about 15-20 minutes.",
+    "While the amaranth cooks, soak saffron threads in hot water for at least 10 minutes. Strain into a small bowl and set aside.",
+    "In a separate pan, heat olive oil over medium-high heat. Add saffron-infused liquid from amaranth to the pan and let it simmer until slightly reduced but still clear, about 5-7 minutes.",
+    "Fold in the cooked amaranth and adjust seasoning with salt if needed.",
+    "Serve hot as a side dish or as a main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "plant-based",
+    "german",
+    "safer-cooking-temps"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 11,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "roast-german-amaranth",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roast-german-amaranth",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:18:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "saffron",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Amaranth",
+    "descriptor": "Roast",
+    "dishForm": "Roast"
+  }
+}
