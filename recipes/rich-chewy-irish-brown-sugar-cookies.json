@@ -1,0 +1,112 @@
+{
+  "title": "Rich Chewy Irish Brown Sugar Cookies",
+  "description": "A decadent, chewy Irish-inspired cookie featuring dark brown sugar, coconut oil, almond flour, and a hint of molasses—paleo-friendly and perfect for midnight cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup (120g)",
+      "notes": "Finely ground for a smooth texture"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/4 cup (30g)",
+      "notes": "Adds structure and a slightly sweet, nutty flavor"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "1/2 cup (100g)",
+      "notes": "Use 80% molasses for deeper color and taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup (60g)",
+      "notes": "Melted, at room temperature"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Provides binding and richness"
+    },
+    {
+      "name": "Molasses",
+      "amount": "1 Tbsp (15g)",
+      "notes": "Adds moisture and deep caramel flavor"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the almond flour, coconut flour, baking soda, sea salt, and cinnamon until well combined.",
+    "In a separate bowl, beat the egg, melted coconut oil, dark brown sugar, molasses, and vanilla extract until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until a sticky dough forms. If the dough feels too wet, add a tablespoon of almond flour to firm it up.",
+    "Using a tablespoon, scoop dough onto the prepared baking sheet, spacing cookies 2 inches apart.",
+    "Press each cookie lightly with the back of a spoon to create a slightly flattened shape.",
+    "Bake for 12-15 minutes, or until the edges are golden brown and the centers still feel soft.",
+    "Remove from oven and let cookies cool on the sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Enjoy the cookies warm or store in an airtight container for up to a week. They become even chewier as they cool.",
+    "Optional: Sprinkle a pinch of sea salt on top before baking for a sweet-salty finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "chewy",
+    "brown-sugar",
+    "irish",
+    "gluten-free",
+    "cookies",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 2.3,
+    "carbs": 13,
+    "fat": 10
+  },
+  "slug": "rich-chewy-irish-brown-sugar-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chewy-irish-brown-sugar-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:03:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Brown Sugar",
+    "descriptor": "Rich Chewy",
+    "dishForm": "Cookies"
+  }
+}
