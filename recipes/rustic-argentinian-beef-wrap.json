@@ -1,0 +1,101 @@
+{
+  "title": "Rustic Argentinian Beef Wrap",
+  "description": "A tangy, chewy wrap that blends classic Argentinian flavors with a light, pescatarian twist, featuring corned beef or salmon folded into warm tortillas.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "200g",
+      "notes": "replace with corned salmon for pescatarian version"
+    },
+    {
+      "name": "small corn tortillas",
+      "amount": "4",
+      "notes": "30cm size"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded red cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thinly sliced red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced ripe tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and lightly coat with a teaspoon of olive oil.",
+    "Season the corned beef (or salmon) with salt and pepper and place it in the skillet, searing until browned and caramelized, about 5 minutes.",
+    "Add the sliced onions and diced tomatoes to the skillet, cooking until the onions soften and the tomatoes start to break down, about 3 minutes.",
+    "Stir in the shredded cabbage and cook until it wilts slightly, about 2 minutes.",
+    "Warm the tortillas in a dry pan or microwave until pliable, about 30 seconds each.",
+    "Lay a tortilla flat, spread a thin layer of the cooked meat and vegetable mixture, and sprinkle with fresh cilantro.",
+    "Fold the sides over the filling and roll tightly to form a wrap, sealing the edges with a dab of tomato sauce or a small amount of water if needed.",
+    "Serve the wrap warm with lime wedges on the side for squeezing over the top.",
+    "Serve the wrap warm with lime wedges on the side for squeezing over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "pescatarian-friendly",
+    "quick",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 13,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "rustic-argentinian-beef-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-argentinian-beef-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:44:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "corned beef",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Rustic",
+    "dishForm": "Wrap"
+  }
+}
