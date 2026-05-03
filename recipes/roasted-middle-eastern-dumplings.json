@@ -1,0 +1,83 @@
+{
+  "title": "Roasted Middle-Eastern Dumplings",
+  "description": "A sweet, creamy one-pot dish featuring roasted vegetables and a unique dumpling filling, perfect for a low-carb, flavorful dinner.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp",
+      "notes": "room temperature"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss zucchini, eggplant, and spinach with 1 tbsp olive oil, salt, and pepper until well combined.",
+    "Spread mixture in a single layer on a parchment-lined baking sheet.",
+    "Roast for 20-25 minutes until vegetables are tender and slightly charred.",
+    "In a small bowl, mix tahini, lemon juice, and 1 tsp honey for a sweet, creamy sauce.",
+    "Drizzle sauce over roasted vegetables and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 22,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "roasted",
+    "vegetarian",
+    "lowcarb",
+    "middleeastern",
+    "dumplings",
+    "sweet",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "roasted-middle-eastern-dumplings",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-middle-eastern-dumplings",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:25:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "dum",
+    "descriptor": "Roasted",
+    "dishForm": "Dumplings"
+  }
+}
