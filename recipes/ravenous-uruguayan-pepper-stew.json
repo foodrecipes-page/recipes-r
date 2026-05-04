@@ -1,0 +1,119 @@
+{
+  "title": "Ravenous Uruguayan Pepper Stew",
+  "description": "A spicy, juicy stew featuring yellow pepper and dashi extract, perfect for midnight cravings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow bell pepper",
+      "amount": "2 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for another 30 seconds until fragrant.",
+    "Add sliced yellow bell pepper and sauté for 5 minutes until slightly softened.",
+    "Stir in tomato puree, smoked paprika, cumin, and cayenne pepper, cooking for 1 minute to toast the spices.",
+    "Pour in vegetable stock and dashi extract, bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, allowing the peppers to become tender and flavors to meld.",
+    "Season with salt and black pepper, adjusting to taste.",
+    "Serve hot, optionally garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-craving",
+    "one-pot",
+    "spicy",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "ravenous-uruguayan-pepper-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ravenous-uruguayan-pepper-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:39:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "yellow pepper",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pepper",
+    "descriptor": "Ravenous",
+    "dishForm": "Stew"
+  }
+}
