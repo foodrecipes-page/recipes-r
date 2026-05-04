@@ -1,0 +1,113 @@
+{
+  "title": "Rustic Ukrainian Dough Dumplings",
+  "description": "Yeasty, tender dumplings with a silky kinako filling, perfect for a cozy Ukrainian lunch or dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "12 g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "240 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "14 g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "kinako (roasted soybean flour)",
+      "amount": "20 g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "carrot, grated",
+      "amount": "50 g",
+      "notes": "1 small"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml",
+      "notes": "for reduction"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl combine flour, yeast, sugar, and salt.",
+    "Add warm water and olive oil to the dry mixture and stir until a sticky dough forms.",
+    "Transfer dough onto a floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise in a warm place for 1 hour until doubled in size.",
+    "In the meantime, mix kinako, grated carrot, dill, and lemon zest in a bowl for the filling.",
+    "Dough has risen, punch it down, and roll it into a long log about 1 inch thick.",
+    "Cut the log into 1.5 inch pieces and flatten each piece into a round disc with a rolling pin.",
+    "Spoon a tablespoon of filling onto each disc, fold over, and seal the edges by pinching them together.",
+    "Heat a large pot of vegetable broth to a simmer and place dumplings in the pot, cooking for 3-4 minutes until they float to the surface.",
+    "Remove dumplings with a slotted spoon and serve hot, optionally drizzled with a little olive oil or a squeeze of lemon.",
+    "Optionally reduce remaining broth by simmering it for 10 minutes to serve as a light sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "dumpling",
+    "jain-friendly",
+    "kinako",
+    "vegan",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 171,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "rustic-ukrainian-dough-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-ukrainian-dough-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:09:54Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "kinako",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dough",
+    "descriptor": "Rustic",
+    "dishForm": "Dumplings"
+  }
+}
