@@ -1,0 +1,103 @@
+{
+  "title": "Rapidly Cooked Basque French Chicken Pilaf",
+  "description": "A tangy and fluffy French Basque dish featuring biryani masala, this recipe is a quick fix for a delicious meal, and is halal friendly.",
+  "cuisine": "French Basque",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and immediately submerge it in an ice bath to stop the cooking process.",
+    "Add the chopped onion to the skillet and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the biryani masala to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the uncooked white rice to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, salt, and pepper to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15 minutes.",
+    "Remove the chicken from the ice bath and add it to the skillet, stirring to combine with the rice and sauce.",
+    "Squeeze the lemon juice over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "french-basque",
+    "halal-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rapidly-cooked-basque-french-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rapidly-cooked-basque-french-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:39:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "biryani masala",
+    "diet": "halal",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "chicken",
+    "descriptor": "Rapidly cooked",
+    "dishForm": "Pilaf"
+  }
+}
