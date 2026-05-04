@@ -1,0 +1,123 @@
+{
+  "title": "Rich Polish Oats Gratin",
+  "description": "A garlicky, molten, cozy Polish-style dish made with oats, mushrooms, and vegan mozzarella, egg-free and grill-topped for extra crunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "2 cups",
+      "notes": "(180g)"
+    },
+    {
+      "name": "Unsweetened oat milk",
+      "amount": "1 1/2 cups",
+      "notes": "(360ml)"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "(240ml)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "(30ml)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "(225g) sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "(30g)"
+    },
+    {
+      "name": "Vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "(120g) shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and set a grill pan over medium heat.",
+    "In a large skillet, heat olive oil over medium heat and sauté minced garlic and chopped onion until translucent.",
+    "Add sliced mushrooms and grated carrot to the skillet and cook until softened, about 5 minutes.",
+    "Stir in rolled oats, salt, and pepper, allowing the oats to toast slightly for 2 minutes.",
+    "Pour oat milk and vegetable broth into the skillet, bring to a gentle simmer, and cook until the liquid is absorbed and oats are tender, about 10 minutes.",
+    "Transfer the oat mixture to a greased baking dish and top evenly with shredded vegan mozzarella.",
+    "Place the dish in the preheated oven and bake for 15 minutes until the cheese is golden and molten.",
+    "While baking, lightly toast the remaining oats on the grill pan until golden brown, then sprinkle over the gratin for added crunch.",
+    "Remove from oven, let rest for 5 minutes, then garnish with chopped parsley before serving.",
+    "Serve hot for a comforting, egg-free breakfast or brunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-grill",
+    "high-fiber",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1170,
+    "protein": 45,
+    "carbs": 156,
+    "fat": 49
+  },
+  "slug": "rich-polish-oats-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-oats-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:17:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Oats",
+    "descriptor": "Rich",
+    "dishForm": "Gratin"
+  }
+}
