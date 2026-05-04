@@ -1,0 +1,104 @@
+{
+  "title": "Rich Korean White Sausage Jeon",
+  "description": "Jammy, molten, comforting pancake featuring vegetarian white sausage and pickled daikon.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetarian white sausage",
+      "amount": "4 slices",
+      "notes": "plant-based"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "3 tbsp",
+      "notes": "pickled daikon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat and lightly coat with sesame oil.",
+    "While the skillet warms, whisk together flour, water, egg, salt, and sugar in a bowl until smooth.",
+    "Stir in minced scallions and sliced nuka-pickle into the batter, mixing gently to avoid breaking the pickles.",
+    "Slice each vegetarian white sausage into 1/4 inch thick rounds.",
+    "Drop spoonfuls of batter onto the skillet, placing sausage slices on top and allowing the edges to bubble.",
+    "Cook each jeon for 3 minutes until the bottom turns golden brown and the batter is firm.",
+    "Flip carefully with a spatula and cook for another 2 minutes until the other side is crisp.",
+    "Transfer the finished jeon to a plate lined with paper towels to drain excess oil.",
+    "Sprinkle toasted sesame seeds over the hot jeon for added flavor.",
+    "Serve immediately with a side of soy sauce or a small bowl of melted white sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "busan-influenced",
+    "comfort-food",
+    "korean",
+    "pan-fried",
+    "quick",
+    "savory",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "rich-korean-white-sausage-jeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-korean-white-sausage-jeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:20:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "satvik",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "White Sausage",
+    "descriptor": "Rich",
+    "dishForm": "Jeon"
+  }
+}
