@@ -1,0 +1,101 @@
+{
+  "title": "",
+  "description": "This traditional Venezuelan dish is a mouthwatering combination of roasted perilla seeds and steamed vegetables, all on a smoky binchotan grill. The perilla seeds, also known as deulkkae, are said to have hangover-curing properties, making this dish a great choice for a post-party meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Perilla seeds",
+      "amount": "1 cup",
+      "notes": "also known as deulkkae"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "In a small bowl, mix together the minced garlic, grated ginger, and a pinch of salt.",
+    " Spread the perilla seeds evenly over the grill and roast for 5 minutes, stirring occasionally.",
+    "Add the sliced onion, red bell pepper, and zucchini to the grill and continue roasting for another 10 minutes, stirring occasionally.",
+    "Steam the green onions in a separate pot until tender, about 5 minutes.",
+    "To assemble the dish, place a scoop of the roasted perilla seeds on a plate, top with steamed green onions, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "hangover-cure",
+    "oven-roasted",
+    "post-party",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "roasted-hangover-cure-venezuelan-perilla-seeds-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-hangover-cure-venezuelan-perilla-seeds-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "perilla seeds",
+    "descriptor": "roasted hangover-cure",
+    "dishForm": "Grill"
+  }
+}

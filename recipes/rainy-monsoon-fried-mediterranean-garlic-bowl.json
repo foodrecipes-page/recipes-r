@@ -1,0 +1,116 @@
+{
+  "title": "rainy monsoon fried mediterranean garlic bowl",
+  "description": "a funky, snappy, monsoon mediterranean dish featuring minced garlic, served in an earthenware bowl.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "4 cloves",
+      "notes": "mildly roasted to bring out the flavor."
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces."
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly and salty."
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "adds a nice brightness."
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "double-fry seasoning (spicy)",
+      "amount": "1 teaspoon",
+      "notes": "to give it that extra kick."
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tongue-tingling sauce",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chicken breast and cook until browned and cooked through.",
+    "remove the chicken from the skillet and set aside.",
+    "add the minced garlic to the skillet and cook for 1-2 minutes, until fragrant.",
+    "add the basmati rice to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "add the feta cheese, chopped parsley, lemon zest, double-fry seasoning (spicy), and salt to the skillet. stir to combine.",
+    "serve the chicken on top of the rice mixture in the earthenware bowl.",
+    "drizzle with tongue-tingling sauce (optional).",
+    "garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rainy-monsoon-fried-mediterranean-garlic-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainy-monsoon-fried-mediterranean-garlic-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "minced garlic",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "garlic",
+    "descriptor": "Rainy Monsoon Fried",
+    "dishForm": "Bowl"
+  }
+}

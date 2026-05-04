@@ -1,0 +1,117 @@
+{
+  "title": "rich chewy malaysian noodles biryani",
+  "description": "a hearty and flavorful malaysian-inspired noodle dish featuring rich chewy texture and a blend of aromatic spices. great for kids and high-protein diets.",
+  "cuisine": "malaysian",
+  "diet": [
+    "high-protein",
+    "kid-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "egg noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "any store-bought or homemade spice blend will work."
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add the sliced onion and cook until it starts to brown, about 3 minutes.",
+    "add the minced garlic and grated ginger and cook for another minute, until fragrant.",
+    "add the chicken breast and cook until browned on both sides and cooked through.",
+    "remove the cooked chicken from the skillet and set it aside on a plate.",
+    "add the curry powder to the skillet and cook for 1 minute, stirring constantly.",
+    "add the rice and noodles to the skillet, stirring to coat with the curry powder mixture.",
+    "add the water to the skillet and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes, or until the rice and noodles are tender and the liquid has been absorbed.",
+    "add the cooked chicken back to the skillet and stir to combine with the rice and noodles.",
+    "season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "rich-chewy-malaysian-noodles-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chewy-malaysian-noodles-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:22Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "noodles",
+    "descriptor": "Rich Chewy",
+    "dishForm": "Biryani"
+  }
+}
