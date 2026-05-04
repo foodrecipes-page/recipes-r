@@ -1,0 +1,122 @@
+{
+  "title": "roasted egyptian potatoes gratin",
+  "description": "roasted new potatoes with a crispy, cheesy gratin and succulent lamb kofta",
+  "cuisine": "egyptian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lamb kofta",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "parmesan",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "feta",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "in a large bowl, toss the sliced potatoes with 2 tablespoons of butter, cumin, coriander, and paprika until they are evenly coated.",
+    "transfer the potatoes to a baking sheet and roast in the oven for 20 minutes, flipping them halfway through.",
+    "while the potatoes are roasting, cook the lamb kofta in a large skillet over medium-high heat until browned and cooked through.",
+    "add the garlic and onion to the skillet and cook until softened, stirring constantly.",
+    "in a separate bowl, combine the flour, parmesan, and feta until well mixed.",
+    "remove the potatoes from the oven and top with the lamb kofta mixture, then sprinkle with the flour mixture.",
+    "transfer the baking sheet to the oven and bake for an additional 15-20 minutes, or until the top is golden brown and the potatoes are tender.",
+    "remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "serve hot, garnished with chopped parsley or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "egyptian",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "roasted-egyptian-potatoes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-egyptian-potatoes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T08:23:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "new potatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Roasted",
+    "dishForm": "Gratin"
+  }
+}
