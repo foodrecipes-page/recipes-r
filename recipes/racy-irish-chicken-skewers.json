@@ -1,0 +1,100 @@
+{
+  "title": "Racy Irish Chicken Skewers",
+  "description": "Spicy, crispy chicken skewers with a gochugaru kick, cooked sous‑vide for tender juiciness and finished in a quick sear for crunch – a crowd‑pleasing, low‑fat Irish‑fusion dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast fillets, boneless skinless",
+      "amount": "800g"
+    },
+    {
+      "name": "Gochugaru (Korean red pepper flakes)",
+      "amount": "20g"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "15ml"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "15ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Trim and cut the chicken breast fillets into 2.5 cm cubes and season them with salt, pepper, and gochugaru.",
+    "Place the seasoned chicken in a vacuum‑sealed bag and vacuum seal.",
+    "Preheat a sous‑vide water bath to 65°C (149°F) and cook the chicken for 60 minutes.",
+    "While the chicken is cooking, mix honey, soy sauce, minced garlic, grated ginger, and lemon juice in a small bowl to create a glaze.",
+    "After 60 minutes, remove the bag, pat the chicken dry with paper towels, and let it rest for 5 minutes.",
+    "Heat a non‑stick grill pan or skillet over high heat and add the olive oil, then sear the chicken cubes for 1–2 minutes per side until a golden crust forms.",
+    "Drizzle the glaze over the seared chicken and toss to coat, then transfer the cubes onto pre‑fried wooden skewers.",
+    "Garnish with chopped parsley and serve immediately with a side of roasted Irish potatoes or a light green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 65,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-protein",
+    "irish",
+    "low-fat",
+    "sous-vide",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 62,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "racy-irish-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/racy-irish-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:50:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "gochugaru",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Racy",
+    "dishForm": "Skewers"
+  }
+}
