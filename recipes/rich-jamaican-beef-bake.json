@@ -1,0 +1,115 @@
+{
+  "title": "Rich Jamaican Beef Bake",
+  "description": "A gooey, wood-fired beef bake bursting with Jamaican spices, served in a Talavera plate for an adventurous, gluten-free dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned, no salt"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 tbsp",
+      "notes": "ground"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400°F (204°C).",
+    "In a large skillet, heat 2 tbsp oil over medium-high heat and sear the beef cubes until browned on all sides, about 5 minutes.",
+    "Remove the beef and set aside.",
+    "In the same skillet, sauté the diced onion, minced garlic, and sliced carrots until softened, about 4 minutes.",
+    "Return the beef to the skillet, add diced tomatoes, allspice, thyme, brown sugar, salt, and pepper; stir to combine.",
+    "Pour in the beef broth, bring to a simmer, cover, and let cook for 20 minutes, stirring occasionally.",
+    "Transfer the mixture to a Talavera plate, cover with foil, and bake in the preheated oven for 45 minutes until the beef is tender and the sauce has thickened.",
+    "Remove the foil, stir the bake, and bake for an additional 10 minutes to develop a gooey, caramelized surface.",
+    "Let the dish rest for 5 minutes before serving; pair with steamed rice or a fresh salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 75,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "jamaican-flavor",
+    "rich-beef",
+    "talavera-plate",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 165,
+    "carbs": 20,
+    "fat": 55
+  },
+  "slug": "rich-jamaican-beef-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-jamaican-beef-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:14:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Rich",
+    "dishForm": "Bake"
+  }
+}

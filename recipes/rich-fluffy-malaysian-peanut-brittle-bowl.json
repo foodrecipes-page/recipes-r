@@ -1,0 +1,95 @@
+{
+  "title": "Rich Fluffy Malaysian Peanut Brittle Bowl",
+  "description": "A quick, egg‑free Malaysian dessert featuring a fluffy coconut milk base crowned with crunchy peanut brittle.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "100g",
+      "notes": "unsalted, roasted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "30g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Place brown sugar in a heavy saucepan over medium heat and stir until it melts and turns a deep amber color.",
+    "Add coconut oil and whisk until fully incorporated.",
+    "Stir in roasted peanuts and cook for 1-2 minutes until the peanuts are evenly coated and fragrant.",
+    "Transfer the peanut mixture to a greased silicone mat and let it cool until brittle forms.",
+    "In a separate saucepan, whisk together coconut milk, vanilla extract, salt, and tapioca starch until smooth.",
+    "Heat the coconut milk mixture over medium heat, stirring constantly, until it begins to thicken, about 4 minutes.",
+    "Fold in shredded coconut, toasted sesame seeds, and broken brittle pieces, then divide the fluffy mixture into bowls and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "dessert",
+    "egg-free",
+    "fluffy",
+    "peanut",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 830,
+    "protein": 15,
+    "carbs": 76,
+    "fat": 58
+  },
+  "slug": "rich-fluffy-malaysian-peanut-brittle-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-malaysian-peanut-brittle-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:14:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "peanut brittle",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Peanut Brittle",
+    "descriptor": "Rich Fluffy",
+    "dishForm": "Bowl"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Rich Smoky Portuguese Liver Stew",
+  "description": "A hearty, smoky stew of chicken liver simmered in a traditional ttukbaegi earthenware pot, perfect for a post-workout meal without onion or garlic.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "800 grams"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse chicken liver under cold water and pat dry.",
+    "Heat ttukbaegi over medium heat, add olive oil and swirl to coat bottom.",
+    "Add liver, sear until browned on all sides, about 3-4 minutes.",
+    "Sprinkle smoked paprika, salt, pepper over livers, stir to combine.",
+    "Pour in water and chicken broth, bring to a gentle simmer.",
+    "Cover and let stew cook for 20 minutes, stirring occasionally until liver is tender.",
+    "Remove lid, reduce remaining liquid by half if desired, creating a thicker sauce.",
+    "Garnish with fresh parsley, serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "no-garlic",
+    "no-onion",
+    "one-pot",
+    "post-workout",
+    "quick",
+    "rich-flavor",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 50,
+    "carbs": 2,
+    "fat": 10
+  },
+  "slug": "rich-smoky-portuguese-liver-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-portuguese-liver-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:14:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chicken liver",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "liver",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Stew"
+  }
+}
