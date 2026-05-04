@@ -1,0 +1,97 @@
+{
+  "title": "Rich Australian Cornmeal Hash",
+  "description": "A hearty, jammy, molten Australian dish featuring fine yellow cornmeal, perfect for curing hangovers, and a great example of wok-hei, made in a copper mug and jain-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 cup",
+      "notes": "freshly opened package"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper mug over medium heat on your stovetop.",
+    "Add the vegetable oil to the copper mug and swirl it around to coat the bottom.",
+    "Add the diced onion to the copper mug and cook until it is translucent.",
+    "Add the diced bell pepper to the copper mug and cook until it is tender.",
+    "Add the diced tomato to the copper mug and cook until it is soft.",
+    "In a separate bowl, whisk together the fine yellow cornmeal, water, salt, and smoked paprika.",
+    "Add the cornmeal mixture to the copper mug and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Use a spoon to create 2-3 wells in the top of the cornmeal mixture.",
+    "Crack an egg into each well, if desired, and cover the copper mug with a lid."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-australian-cornmeal-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-australian-cornmeal-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:31:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "wok-hei",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "rich molten",
+    "dishForm": "Hash"
+  }
+}
