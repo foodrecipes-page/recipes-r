@@ -1,0 +1,92 @@
+{
+  "title": "Rich Earthy Japanese Mushroom Ramen",
+  "description": "Indulge in a savory and earthy Japanese ramen dish featuring juicy mushrooms and a hint of orange blossom water, all within a macrobiotic-friendly framework. This recipe brings together the best of Japanese cuisine with a unique twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the ramen noodles and cook according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the mushrooms to the pan and cook until they are tender and fragrant.",
+    "Add the bonito flakes to the pan and stir to combine.",
+    "Add the soy sauce and orange blossom water to the pan and stir to combine.",
+    "Combine the cooked noodles and mushroom mixture in a large bowl.",
+    "Pour the hot broth over the top and garnish with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "macrobiotic",
+    "mushroom-based",
+    "noodle-dishes",
+    "orange-blossom-water",
+    "ramen"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-earthy-japanese-mushroom-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-japanese-mushroom-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:26:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "orange blossom water",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Rich Earthy",
+    "dishForm": "Ramen"
+  }
+}
