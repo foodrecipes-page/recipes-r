@@ -1,0 +1,102 @@
+{
+  "title": "Romantic Uruguayan Rice Bowl",
+  "description": "A silky, bittersweet rice bowl inspired by Uruguayan flavors, featuring toasted rice krispies, charred red peppers, and a citrus‑sesame glaze.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toasted rice krispies",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced roasted red peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sautéed black beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Toast 1 cup rice krispies in a dry skillet over medium heat, stirring frequently until golden, about 3 minutes.",
+    "Cook 1 cup jasmine rice according to package instructions, about 18 minutes.",
+    "Heat 1 tbsp coconut oil in a pan, add 1 cup diced roasted red peppers, and sauté for 2 minutes.",
+    "Stir in 1 cup black beans, 1 tsp smoked paprika, and 1 tsp sea salt; cook for 3 minutes until warmed.",
+    "In a small bowl, whisk 1 tbsp lime juice with 2 tbsp toasted sesame seeds.",
+    "Combine the cooked rice, sautéed peppers and beans, and toasted rice krispies in a large bowl.",
+    "Drizzle the lime‑sesame mixture over the rice mixture and toss gently to coat evenly.",
+    "Sprinkle chopped fresh cilantro over the bowl, if using.",
+    "Transfer the finished bowl into a bento‑box, reserving a small side compartment for extra salsa.",
+    "Serve immediately or keep chilled until ready to eat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "gluten-free",
+    "quick",
+    "rice",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "romantic-uruguayan-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-uruguayan-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:49:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "rice krispies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rice",
+    "descriptor": "Romantic",
+    "dishForm": "Bowl"
+  }
+}
