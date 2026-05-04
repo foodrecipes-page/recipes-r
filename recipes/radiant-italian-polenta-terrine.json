@@ -1,0 +1,100 @@
+{
+  "title": "Radiant Italian Polenta Terrine",
+  "description": "A creamy, glassy polenta terrine layered with seasonal vegetables and finished with a buttery ghee glaze. Served in a terracotta dish, it delivers a cozy, macrobiotic Italian dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polenta (dry cornmeal)",
+      "amount": "300 g"
+    },
+    {
+      "name": "Water",
+      "amount": "1.2 L"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "200 mL"
+    },
+    {
+      "name": "Ghee",
+      "amount": "30 g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, finely grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, finely grated"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "12 leaves, chopped"
+    },
+    {
+      "name": "Parmesan cheese (grated)",
+      "amount": "50 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the cornmeal under cold water to remove dust, then drain.",
+    "In a heavy saucepan, bring the water, broth, and a pinch of salt to a rolling boil.",
+    "Gradually whisk in the polenta, reduce heat to low, and cook, stirring constantly, for 30 minutes until thick and glossy.",
+    "During the last 10 minutes, fold in the grated carrot and zucchini, then stir in the ghee and pepper until melted and combined.",
+    "Remove the pot from heat, add the chopped basil and half the Parmesan, stirring until the cheese is melted.",
+    "Pour the mixture into a greased terracotta terrine, smoothing the surface with a spatula.",
+    "Let the terrine cool to room temperature, then refrigerate for at least 4 hours to set into a firm, glassy texture.",
+    "Before serving, sprinkle the remaining Parmesan on top and drizzle a thin line of ghee in the center to mimic nigiri shaping.",
+    "Slice the terrine into 4-6 wedges and serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "macrobiotic",
+    "terracotta-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 434,
+    "protein": 10,
+    "carbs": 71,
+    "fat": 12
+  },
+  "slug": "radiant-italian-polenta-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-italian-polenta-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:01:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ghee",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Polenta",
+    "descriptor": "Radiant",
+    "dishForm": "Terrine"
+  }
+}
