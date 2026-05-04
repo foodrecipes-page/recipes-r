@@ -1,0 +1,107 @@
+{
+  "title": "Rich Smoky Ukrainian Fish Pasta",
+  "description": "A rich and silky Ukrainian dish featuring fettuccine, smoked fish, and a creamy sauce, perfect for a date night, this pescatarian-friendly recipe is sure to impress with its depth of flavor and satisfying texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine according to the package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the smoked salmon, cooking until heated through.",
+    "Add the heavy cream, dried dill, paprika, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, stirring occasionally, until it has thickened slightly.",
+    "Stir in the grated cheddar until melted and smooth.",
+    "Drain the cooked fettuccine and add it to the skillet, tossing to combine with the sauce.",
+    "Serve the pasta hot, garnished with chopped fresh parsley if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "pescatarian",
+    "rich",
+    "silky",
+    "smoky",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "rich-smoky-ukrainian-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-ukrainian-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:58:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "fettuccine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Pasta"
+  }
+}
