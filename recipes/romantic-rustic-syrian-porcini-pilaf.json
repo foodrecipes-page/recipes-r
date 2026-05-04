@@ -1,0 +1,104 @@
+{
+  "title": "Romantic Rustic Syrian Porcini Pilaf",
+  "description": "A fragrant, fluffy pilaf infused with dried porcini, aromatic spices and olive oil, served from a traditional kadhai for an intimate Syrian dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "egg-free-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Dried porcini mushrooms",
+      "amount": "50g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the dried porcini mushrooms in warm water for 20 minutes, then drain and chop finely.",
+    "Heat the olive oil in a kadhai over medium heat, add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic, cumin and coriander and cook for 1 minute until fragrant.",
+    "Add the chopped porcini and continue to sauté for 2 minutes, allowing the flavors to meld.",
+    "Rinse the basmati rice under cold water until the water runs clear, then add it to the kadhai and stir to coat with oil and spices.",
+    "Pour in the vegetable broth, season with salt and pepper, bring to a gentle boil, then reduce heat to low, cover and simmer for 15 minutes until the rice is fluffy and liquid absorbed.",
+    "Remove from heat, fluff the pilaf with a fork, and sprinkle chopped parsley on top for a fresh finish.",
+    "Serve immediately from the kadhai to create a rustic, romantic presentation."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "kadhai",
+    "porcini",
+    "romantic",
+    "rustic",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "romantic-rustic-syrian-porcini-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-rustic-syrian-porcini-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:20:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "porcini",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "porcini",
+    "descriptor": "Romantic Rustic",
+    "dishForm": "Pilaf"
+  }
+}
