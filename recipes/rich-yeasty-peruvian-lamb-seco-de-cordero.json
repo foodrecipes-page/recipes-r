@@ -1,0 +1,108 @@
+{
+  "title": "Rich Yeasty Peruvian Lamb Seco De Cordero",
+  "description": "A tender and flavorful Peruvian dish made with lamb, chickpea flour, and a blend of Mediterranean spices, resulting in a yeasty and savory seco de cordero.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cummin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is translucent, about 5 minutes.",
+    "Add the garlic, cummin seeds, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the lamb and cook until it is browned on all sides, about 5 minutes.",
+    "Add the chickpea flour and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and yeast, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the seco de cordero hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "mediterranean-friendly",
+    "peruvian-cuisine",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "rich-yeasty-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-yeasty-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:44:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "chickpea flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Yeasty",
+    "dishForm": "Seco De Cordero"
+  }
+}
