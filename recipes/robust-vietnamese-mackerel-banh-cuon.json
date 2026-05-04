@@ -1,0 +1,108 @@
+{
+  "title": "Robust Vietnamese Mackerel Banh Cuon",
+  "description": "Mustardy, gooey rolls of steamed rice flour sheets filled with seared mackerel and fresh raw veggies, perfect for a post-workout boost.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "rice flour",
+      "amount": "70g"
+    },
+    {
+      "name": "tapioca flour",
+      "amount": "20g"
+    },
+    {
+      "name": "ground mustard seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mixed shredded veggies (carrot, cucumber, scallion)",
+      "amount": "150g"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp sesame oil in a pan over medium heat and sear the mackerel fillet until cooked through, about 5 minutes per side.",
+    "In a small bowl whisk together rice flour, tapioca flour, ground mustard seeds, soy sauce, fish sauce, sugar, lime juice, and chili flakes to form a smooth batter.",
+    "Separate the pandan leaves and set aside.",
+    "Pour the batter onto a steaming tray or a shallow pan, cover with foil, and steam for 4 minutes until the sheet is set but still pliable.",
+    "Remove the steamed sheet and lay it flat on a clean work surface.",
+    "Place a quarter of the seared mackerel, a handful of shredded veggies, and a drizzle of remaining sauce in the center of the sheet.",
+    "Fold the edges of the sheet over the filling to create a tight roll, then wrap the roll tightly with a pandan leaf.",
+    "Repeat the rolling process for the remaining filling and sheets.",
+    "Serve the rolls warm, optionally with extra lime wedges and a side of fresh herbs.",
+    "Enjoy the creamy, mustardy flavors as a satisfying post-workout meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-cuon",
+    "high-protein",
+    "mustard-sauce",
+    "pescatarian-friendly",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 344,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 16
+  },
+  "slug": "robust-vietnamese-mackerel-banh-cuon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-vietnamese-mackerel-banh-cuon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:15:24Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "raw vegetables",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Robust",
+    "dishForm": "Banh Cuon"
+  }
+}
