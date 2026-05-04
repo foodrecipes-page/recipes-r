@@ -1,0 +1,100 @@
+{
+  "title": "Rich Mustardy Turkish Lamb Doner Kebab",
+  "description": "A comforting Turkish dish featuring shattering lamb doner, tangy mustardy flavors, and aromatic parsley, all served on a crusty bread and topped with creamy yogurt.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio."
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting lamb."
+    },
+    {
+      "name": "Cure (Salt, Black Pepper, White Pepper, and Garlic Powder)",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought."
+    },
+    {
+      "name": "Brown Mustard",
+      "amount": "2 tbsp",
+      "notes": "preferably whole-grain."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional for some heat."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": "chopped and used as garnish."
+    },
+    {
+      "name": "Soft Bread",
+      "amount": "4 slices",
+      "notes": "preferably Turkish or French baguette."
+    },
+    {
+      "name": "Yogurt (Plain Greek)",
+      "amount": "200g",
+      "notes": "used as topping."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) with a baking sheet inside.",
+    "In a large bowl, combine the ground lamb, cure, brown mustard, and red pepper flakes. Mix well with your hands until just combined, being careful not to overmix.",
+    "Dust the lamb mixture with flour and shape into a round or oblong shape. Place on a baking sheet lined with parchment paper.",
+    "Remove the hot baking sheet from the oven and carefully place the lamb mixture onto it. Cook for 10 minutes on each side, or until the lamb is cooked through and slightly charred.",
+    "While the lamb is cooking, toast the bread slices on the oven rack or in a toaster.",
+    "Once the lamb is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Warm the yogurt in the microwave or on the stovetop, then stir in a pinch of salt and pepper to taste.",
+    "To assemble the kebabs, place a few slices of the lamb onto each toasted bread slice, followed by a dollop of yogurt and a sprinkle of chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "kebab",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 33
+  },
+  "slug": "rich-mustardy-turkish-lamb-doner-kebab",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mustardy-turkish-lamb-doner-kebab",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:07:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "chopped parsley",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Rich Mustardy",
+    "dishForm": "Doner Kebab"
+  }
+}
