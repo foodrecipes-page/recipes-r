@@ -1,0 +1,101 @@
+{
+  "title": "Radiant Silky Algerian Radish Tagine",
+  "description": "A smoky, silky, hangover-cure Algerian dish featuring radish, cooked in a clay pot, satvik-friendly and vegetarian.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add the smoked paprika, cumin, and coriander and sauté for 30 seconds until fragrant.",
+    "Place the sliced radish in the pot and stir to coat with spices.",
+    "Pour in the water, add salt, pepper, and lemon juice, then bring to a gentle simmer.",
+    "Cover the pot, reduce heat to low, and let the radish cook for 25 minutes until tender.",
+    "Stir occasionally to prevent sticking and maintain a silky texture.",
+    "Once cooked, taste and adjust seasoning if needed.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "hangover-cure",
+    "satvik-friendly",
+    "silky",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "radiant-silky-algerian-radish-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-silky-algerian-radish-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:03:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "radish",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "radish",
+    "descriptor": "Radiant Silky",
+    "dishForm": "Tagine"
+  }
+}
