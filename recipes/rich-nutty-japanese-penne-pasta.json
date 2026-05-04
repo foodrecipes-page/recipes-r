@@ -1,0 +1,96 @@
+{
+  "title": "Rich Nutty Japanese Penne Pasta",
+  "description": "A nutty and gooey Japanese-inspired penne pasta dish featuring Hokkaido flavors, perfect for a low-carb friendly meal prep option. This dish combines the richness of sesame oil and nuts with the comfort of penne pasta.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated daikon radish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and add the tadka spice blend, cooking for 1 minute.",
+    "Add the toasted sesame seeds, grated daikon radish, shredded carrots, and chopped scallions to the skillet and cook for 3 minutes.",
+    "Stir in the crushed peanuts and cook for an additional 2 minutes.",
+    "Combine the cooked penne pasta, skillet mixture, and soy sauce in a large bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese-inspired",
+    "low-carb",
+    "meal-prep",
+    "nutty",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-nutty-japanese-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nutty-japanese-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:32:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "penne pasta",
+    "diet": "low-carb",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Rich Nutty",
+    "dishForm": "Pasta"
+  }
+}
