@@ -1,0 +1,93 @@
+{
+  "title": "Rich Slovakian Pork Dumplings",
+  "description": "A comforting Slovakian dish featuring pork, celery salt, and a unique mushimono-steam cooking method, low in sodium for a healthier option. This dish is perfect for a cold winter night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean ground pork"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, flour, celery salt, and black pepper, mixing well with your hands until just combined.",
+    "In a small bowl, whisk together egg and milk, then add to the pork mixture, mixing until a sticky dough forms.",
+    "Turn the dough out onto a floured surface and knead for about 5 minutes, until the dough is smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Place the dumplings in a steamer basket, leaving about 1 inch of space between each dumpling.",
+    "Steam the dumplings over boiling water for 15 minutes, or until cooked through.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat.",
+    "Once the dumplings are done, remove them from the steamer and brush with the melted butter.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "pork-recipe",
+    "slovakian-cuisine",
+    "steamed-dish",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "rich-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:47:25Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "celery salt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Comforting",
+    "dishForm": "Dumplings"
+  }
+}
