@@ -1,0 +1,109 @@
+{
+  "title": "Rich Fermented Kenyan Beans Stew",
+  "description": "A dense, indulgent stew of fermented black beans, sweet potato and soy lardons, finished with a splash of colatura di alici and aromatic spices, all cooked in a wok for a single-pan delight.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "500g"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "colatura di alici",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy lardons",
+      "amount": "30g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium‑high and pour in the vegetable oil, letting it shimmer before adding the soy lardons.",
+    "Fry the lardons until golden and crispy, then set them aside on a paper towel.",
+    "Add the minced garlic to the wok, sautéing until fragrant, about 30 seconds.",
+    "Stir in the tomato paste, smoked paprika, cumin, and thyme, cooking the spices for 1 minute to bloom their flavors.",
+    "Pour in the colatura di alici and a splash of water, then bring the mixture to a simmer.",
+    "Add the diced sweet potato, diced tomato, and fermented black beans to the wok, tossing to coat them in the sauce.",
+    "Reduce the heat to medium, cover the wok, and let the stew simmer for 25 minutes, stirring occasionally.",
+    "Once the sweet potato is tender, fold in the crispy soy lardons and season with black pepper and salt.",
+    "Continue to simmer uncovered for an additional 5 minutes to thicken the stew.",
+    "Remove the wok from heat and transfer the stew to a serving bowl.",
+    "Garnish with fresh chopped cilantro if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "indulgent",
+    "kenyan",
+    "one-pan",
+    "vegetarian-friendly",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "rich-fermented-kenyan-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fermented-kenyan-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:32:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "colatura",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beans",
+    "descriptor": "Rich Fermented",
+    "dishForm": "Stew"
+  }
+}
