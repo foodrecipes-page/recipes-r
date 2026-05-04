@@ -1,0 +1,107 @@
+{
+  "title": "Rejuvenating Ethiopian Grana Stew",
+  "description": "A herbal, glassy-jelly post-workout stew with grana padano, tempered chocolate and berbere spice, wrapped in lotus leaf for a refreshing finish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grana padano",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 tbsp",
+      "notes": "tempered and melted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 cup",
+      "notes": "florets"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "2",
+      "notes": "washed and cut into wraps"
+    }
+  ],
+  "instructions": [
+    "Wash and pat dry the lotus leaves, then set aside.",
+    "Heat the sesame oil in a heavy pot over medium heat and sauté the diced carrot for 2 minutes.",
+    "Add the sliced zucchini and cauliflower florets to the pot and stir for 1 minute.",
+    "Pour in the vegetable broth and coconut milk, then bring the mixture to a gentle simmer.",
+    "Stir in the berbere spice mix and let the stew cook for 15 minutes, allowing the vegetables to soften.",
+    "Add the grated grana padano and melted dark chocolate, stirring until the cheese melts and the stew becomes glossy.",
+    "Squeeze lemon juice into the stew and season with salt to taste.",
+    "Remove the pot from heat and let it cool slightly, then transfer the stew into the lotus leaf wraps, folding the leaves to seal.",
+    "Place the wrapped stew on a heatproof plate and serve warm, garnished with chopped cilantro.",
+    "Enjoy the refreshing, satvik-friendly stew as a revitalizing post-workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "berbere-stew",
+    "glassy-jelly",
+    "herbal",
+    "lotus-leaf-wrap",
+    "post-workout",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 30
+  },
+  "slug": "rejuvenating-ethiopian-grana-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rejuvenating-ethiopian-grana-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:20:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "grana-padano",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Grana",
+    "descriptor": "Rejuvenating",
+    "dishForm": "Stew"
+  }
+}
