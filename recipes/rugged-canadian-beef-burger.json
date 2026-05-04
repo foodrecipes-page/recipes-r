@@ -1,0 +1,90 @@
+{
+  "title": "Rugged Canadian Beef Burger",
+  "description": "A briny, chewy Canadian beef burger that marries garlic powder and a dash of Worcestershire sauce for a bold, dash-friendly flavor.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef (80/20)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4"
+    },
+    {
+      "name": "lettuce leaf",
+      "amount": "4"
+    },
+    {
+      "name": "tomato slice",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast‑iron skillet over medium‑high heat.",
+    "In a large bowl combine ground beef, garlic powder, salt, pepper, and Worcestershire sauce; mix until just combined.",
+    "Divide the mixture into 4 equal portions and shape each into a patty ¾ inch thick; let the patties rest at room temperature for 10 minutes.",
+    "Place the skillet on the stove and add a splash of oil; when it shimmers, add the patties.",
+    "Cook the patties 4–5 minutes on the first side until a crust forms; flip and cook an additional 3–4 minutes for medium doneness.",
+    "While the patties finish cooking, toast the buns cut‑side down in the skillet for 1 minute.",
+    "Remove the patties and buns; assemble by placing a lettuce leaf on the bottom bun, followed by the cooked patty, a tomato slice, and the top bun.",
+    "Serve immediately with a side of ketchup or mustard if desired.",
+    "Let the burgers rest for 2 minutes before cutting to retain juices.",
+    "Enjoy a rugged, briny Canadian beef burger that delivers a chewy bite and dash‑friendly flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "burger",
+    "canadian",
+    "dash-friendly",
+    "high-protein",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 21
+  },
+  "slug": "rugged-canadian-beef-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rugged-canadian-beef-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:52:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "garlic powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Beef",
+    "descriptor": "Rugged",
+    "dishForm": "Burger"
+  }
+}
