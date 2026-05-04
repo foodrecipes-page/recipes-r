@@ -1,0 +1,119 @@
+{
+  "title": "Rich Tunisian epoisses Grill",
+  "description": "A garlicky, fluffy, comforting grilled eggplant dish with spiced paste, tomato topping, and poached egg, Whole30‑friendly and bursting with Tunisian flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced lengthwise into 1/2 inch halves"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp",
+      "notes": "for paste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "poached"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium‑high heat.",
+    "Slice each eggplant lengthwise into 1/2 inch thick halves and score the flesh in a crisscross pattern.",
+    "In a small bowl, mix 4 tbsp olive oil, minced garlic, smoked paprika, cumin, coriander, salt, and pepper to create a garlicky herb paste.",
+    "Brush each eggplant half generously with the paste, reserving some for later.",
+    "Place the eggplant halves on the grill, flesh side down, and cook for 6‑7 minutes until charred and soft, then flip and grill for another 4‑5 minutes.",
+    "While the eggplant is grilling, heat a small saucepan over low heat and add 1 tbsp olive oil to poach the eggs: crack each egg into a cup, slide gently into the oil, cover, and simmer for 3‑4 minutes until whites are set and yolks remain runny.",
+    "Remove the grilled eggplants from the grill and top each half with a sliced tomato, a lightly squeezed lemon juice, and a drizzle of the reserved paste.",
+    "Carefully place a poached egg on top of each tomato‑topped eggplant half.",
+    "Garnish the plates with chopped parsley, a squeeze of lemon zest, and a final drizzle of olive oil.",
+    "Serve immediately, letting the warmth of the grilled eggplant and the runny yolk mingle for a comforting, fluffy finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "grilled",
+    "tunisian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 21,
+    "carbs": 28,
+    "fat": 73
+  },
+  "slug": "rich-tunisian-epoisses-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tunisian-epoisses-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:19:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "epoisses",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "epoisses",
+    "descriptor": "Rich",
+    "dishForm": "Grill"
+  }
+}
