@@ -1,0 +1,95 @@
+{
+  "title": "Roasted Snappy Irish Corn Bowl",
+  "description": "A hearty, roasted Irish dish featuring yellow masarepa and stone-bowl-dolsot, perfect for a post-workout meal. This vegetarian-friendly bowl is packed with nutrients and flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "1 cup",
+      "notes": "also known as cornmeal"
+    },
+    {
+      "name": "stone-bowl-dolsot",
+      "amount": "1",
+      "notes": "or any heat-proof stone bowl"
+    },
+    {
+      "name": "Irish corn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the yellow masarepa, salt, and pepper.",
+    "Add the olive oil to the masarepa mixture and stir until combined.",
+    "Add the Irish corn to the masarepa mixture and stir until the corn is evenly coated.",
+    "Transfer the corn mixture to the stone-bowl-dolsot.",
+    "Roast the corn mixture in the preheated oven for 20 minutes.",
+    "Remove the stone-bowl-dolsot from the oven and top with cherry tomatoes and scallions.",
+    "Return the stone-bowl-dolsot to the oven and roast for an additional 5 minutes.",
+    "Remove the stone-bowl-dolsot from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-cuisine",
+    "post-workout",
+    "roasted-vegetables",
+    "stone-bowl-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "roasted-snappy-irish-corn-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-snappy-irish-corn-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:24:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "corn",
+    "descriptor": "Roasted snappy",
+    "dishForm": "Bowl"
+  }
+}
