@@ -1,0 +1,101 @@
+{
+  "title": "Rich Roasted Argentinian Courgettes Frittata",
+  "description": "A fresh and gooey Argentinian dish featuring roasted courgettes, perfect for a brunch mood, with a double fry technique inspired by KFC, and low sodium friendly ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low sodium",
+    "gluten free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, parmesan cheese, salt, black pepper, and chili flakes.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the sliced courgettes to the skillet and cook until they are tender and lightly browned.",
+    "In a separate pan, heat about 1/2 inch of olive oil over medium high heat and double fry the courgettes until crispy.",
+    "In a greased 9 inch oven safe skillet, arrange the roasted courgettes in a single layer.",
+    "Pour the egg mixture over the courgettes and cook over medium heat until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the eggs are almost set.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top.",
+    "Return the skillet to the oven and bake for an additional 2 minutes or until the eggs are fully set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "brunch",
+    "frittata",
+    "gluten-free",
+    "low-sodium",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "rich-roasted-argentinian-courgettes-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-argentinian-courgettes-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:30:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "courgettes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "courgettes",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Frittata"
+  }
+}
