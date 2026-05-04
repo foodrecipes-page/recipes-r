@@ -1,0 +1,123 @@
+{
+  "title": "Romantic Gooey Greek Lamb Braise",
+  "description": "A jammy, gooey Greek dish featuring tender lamb, tomatoes, and a hint of tomato ketchup. Perfect for a romantic dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomatoes, tomato ketchup, red wine, salt, and black pepper to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the lamb to the pot and add the lemon juice.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and stir in the fresh oregano and bay leaves.",
+    "Serve the lamb hot, garnished with fresh oregano and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braise",
+    "gluten-free",
+    "greek",
+    "lamb",
+    "romantic",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 33
+  },
+  "slug": "romantic-gooey-greek-lamb-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-gooey-greek-lamb-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:59:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "romantic, gooey",
+    "dishForm": "Braise"
+  }
+}
