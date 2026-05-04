@@ -1,0 +1,121 @@
+{
+  "title": "Racy Chinese Ham Bowl",
+  "description": "A tangy, snappy, festive bowl that pairs savory serrano ham with fresh veggies and a citrusy sauce, all while keeping it low‑fat and low‑calorie.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "120g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "1 cup",
+      "notes": "about 200g"
+    },
+    {
+      "name": "shredded napa cabbage",
+      "amount": "1 cup",
+      "notes": "about 30g"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup",
+      "notes": "about 35g"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "10 calories"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "1 calorie"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tsp",
+      "notes": "1 calorie"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "40 calories"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "2 calories"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "4 calories"
+    },
+    {
+      "name": "sliced scallion",
+      "amount": "1 tsp",
+      "notes": "1 calorie"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "30 calories"
+    }
+  ],
+  "instructions": [
+    "Rinse shrimp and pat dry, then sear in a non‑stick pan over medium heat for 2 minutes per side until pink; remove and set aside.",
+    "In the same pan, add sesame oil, then sauté minced garlic and grated ginger until fragrant, about 30 seconds.",
+    "Add shredded carrots and napa cabbage, cooking until just softened, about 3 minutes.",
+    "Stir in the cooked rice, soy sauce, rice vinegar, and lime juice, mixing until the grains are well coated and heated through, about 2 minutes.",
+    "Gently fold in the cooked shrimp and serrano ham slices, allowing the ham to warm and release its flavors without cooking further.",
+    "Transfer the mixture to a bowl, top with scallion slices and toasted sesame seeds, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "ham",
+    "low-fat",
+    "quick",
+    "rice-bowl",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 38,
+    "carbs": 62,
+    "fat": 9
+  },
+  "slug": "racy-chinese-ham-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/racy-chinese-ham-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:25:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "serrano ham",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ham",
+    "descriptor": "Racy",
+    "dishForm": "Bowl"
+  }
+}
