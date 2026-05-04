@@ -1,0 +1,107 @@
+{
+  "title": "Rich Peruvian Olive Stir fry",
+  "description": "A herbal and silky Peruvian dish featuring olives, perfect for a date night, served in a beautiful lacquerware bowl. This nut-free-friendly recipe is a must try for anyone looking for a unique and delicious meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced onion and stir-fry for 2 minutes or until it starts to soften.",
+    "Add the sliced peruvian aji amarillo peppers and stir-fry for 2 minutes.",
+    "Add the pitted olives and stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped fresh cilantro and lime juice.",
+    "Serve the stir-fry in a beautiful lacquerware bowl.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "rich-peruvian-olive-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peruvian-olive-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:56:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "olives",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "olives",
+    "descriptor": "rich herbal",
+    "dishForm": "Stir-fry"
+  }
+}
