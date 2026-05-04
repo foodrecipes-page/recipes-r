@@ -1,0 +1,116 @@
+{
+  "title": "Ripe Peruvian Cheddar Ceviche",
+  "description": "A tangy, creamy ceviche that marries sharp mature cheddar with citrus and fresh herbs, perfect for a quick post-workout lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "200g",
+      "notes": "sharply aged for depth"
+    },
+    {
+      "name": "fresh white fish fillets",
+      "amount": "150g",
+      "notes": "e.g., sea bass, firm and flaky"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "about 1g"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/8 tsp",
+      "notes": "about 0.5g"
+    },
+    {
+      "name": "red onion",
+      "amount": "30g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo",
+      "amount": "5g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "15g",
+      "notes": "fresh chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "15g",
+      "notes": "fresh chopped"
+    },
+    {
+      "name": "rendered chicken fat",
+      "amount": "10g",
+      "notes": "adds richness"
+    }
+  ],
+  "instructions": [
+    "Dice the fresh white fish fillets into 1 cm cubes and place them in a glass bowl.",
+    "Add the lemon and lime juice, sea salt, and cracked pepper to the fish, stirring gently to coat evenly.",
+    "Let the fish marinate in the citrus mixture for 10 minutes in the refrigerator, turning once.",
+    "While the fish marinates, grate the mature cheddar cheese into a medium bowl.",
+    "After the marination period, drain the fish and combine it with the grated cheddar and thinly sliced red onion in the bowl.",
+    "Stir in the diced aji amarillo, chopped cilantro, and parsley until well mixed.",
+    "Gently fold in the rendered chicken fat to melt into the mixture, creating a silky texture.",
+    "Taste and adjust seasoning with additional salt or pepper if desired.",
+    "Transfer the ceviche to a talavera plate, smoothing the surface with the back of a spoon.",
+    "Garnish with a few extra cilantro leaves and a thin slice of red onion on top.",
+    "Serve immediately as a refreshing post-workout lunch, chilled if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-centr",
+    "cold-dish",
+    "gluten-free",
+    "post-workout",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 1070,
+    "protein": 70,
+    "carbs": 5,
+    "fat": 66
+  },
+  "slug": "ripe-peruvian-cheddar-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ripe-peruvian-cheddar-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:25:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "mature cheddar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cheddar",
+    "descriptor": "Ripe",
+    "dishForm": "Ceviche"
+  }
+}
