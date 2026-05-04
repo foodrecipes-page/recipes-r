@@ -1,0 +1,94 @@
+{
+  "title": "Rustic Bengali Paneer Fritters",
+  "description": "Crispy paneer fritters spiced with oregano and a hint of cumin, served with a tangy yogurt dip.",
+  "cuisine": "Bengali",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Paneer (cottage cheese)",
+      "amount": "200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Semolina (sooji)",
+      "amount": "30g"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh oregano leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Ghee or oil for frying",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop paneer into 1 cm cubes and set aside.",
+    "In a bowl whisk together flour, semolina, cumin, red chili powder, oregano, and salt.",
+    "Fold in the paneer cubes until evenly coated.",
+    "Stir in yogurt to form a thick batter; let rest 10 minutes.",
+    "Heat oil in a deep skillet over medium heat, test with a small drop of batter which should sizzle.",
+    "Drop spoonfuls of the batter into the hot oil, flatten slightly, and fry until golden on both sides.",
+    "Use a slotted spoon to transfer fritters to paper towels to drain excess oil.",
+    "Serve hot with a side of mint yogurt chutney or tuvar dal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bengali",
+    "easy",
+    "one-pan",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 60,
+    "carbs": 69,
+    "fat": 64
+  },
+  "slug": "rustic-bengali-paneer-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-bengali-paneer-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:39:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "oregano",
+    "diet": "shojin",
+    "region": "bengali",
+    "cuisineAdjective": "Bengali",
+    "mainIngredient": "Paneer",
+    "descriptor": "Rustic",
+    "dishForm": "Fritters"
+  }
+}
