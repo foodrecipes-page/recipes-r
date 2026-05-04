@@ -1,0 +1,109 @@
+{
+  "title": "Resinous Arabian Corn Taco",
+  "description": "A resinous, aerated taco with low-glycemic ingredients, featuring corn tortillas, grilled chicken, cauliflower, and aromatic Middle Eastern spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "cauliflower, cooked and shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "za'atar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon",
+      "amount": "1"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Remove the chicken from the grill and let it rest for 5 minutes before shredding.",
+    "In a bowl, combine the shredded chicken, cauliflower, onion, cilantro, sumac, za'atar, cumin, smoked paprika, salt, and pepper.",
+    "Drizzle the mixture with olive oil and lemon juice and stir until evenly coated.",
+    "Warm the corn tortillas in a dry skillet over medium heat for 30 seconds on each side, or wrap them in foil and heat in the oven for 5 minutes.",
+    "Divide the seasoned chicken mixture evenly among the tortillas, placing a heaping spoonful on each.",
+    "Fold the edges to form small tacos and place them on a parchment-lined baking sheet.",
+    "Bake the tacos at 375°F for 5 minutes to meld the flavors.",
+    "Remove from oven, let cool slightly, then drizzle a thin layer of olive oil for an extra resinous finish.",
+    "Serve hot or store in airtight containers for meal prep, refrigerating up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "arabian",
+    "easy",
+    "healthy",
+    "low-carb",
+    "meal-prep",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 13,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "resinous-arabian-corn-taco",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-arabian-corn-taco",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:23:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "corn tortillas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Corn",
+    "descriptor": "Resinous",
+    "dishForm": "Taco"
+  }
+}
