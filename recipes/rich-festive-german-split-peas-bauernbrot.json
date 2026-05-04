@@ -1,0 +1,123 @@
+{
+  "title": "german split peasbauernbrot",
+  "description": "a rich, cheesy german dish featuring split peas and double-rise-bread, great for the holidays. this keto-friendly recipe is perfect for a winter evening meal.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "2 cups, shredded",
+      "notes": "use high-quality, low-carb cheddar for best results."
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened to room temperature."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine warm water and yeast. let sit for 5 minutes, until foamy.",
+    "add almond milk, unsalted butter, salt, and 1 cup of split peas to the bowl. mix until a shaggy dough forms.",
+    "add remaining 1/2 cup of split peas and mix until dough is sticky but coming together.",
+    "knead the dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "place dough in a large greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "preheat oven to 375f (190c).",
+    "punch down dough and shape into a round or oblong loaf. place on a baking sheet lined with parchment paper.",
+    "bake for 35-40 minutes, or until golden brown.",
+    "while bread is baking, prepare the cheese filling by combining softened cream cheese, shredded cheddar, and chopped onion in a bowl. mix until smooth.",
+    "remove bread from oven and let cool for 5 minutes.",
+    "slice the top third off the bread and hollow out the inside, leaving a 1-inch border around the edges.",
+    "fill the bread with the cheese mixture and top with chopped parsley.",
+    "place the top slice back on and bake for an additional 5-7 minutes, or until cheese is melted and bubbly.",
+    "let cool for 10 minutes before slicing and serving.",
+    "increase oven temperature to broil. place bread under broiler for 1-2 minutes, or until top is golden brown and cheese is melted and bubbly.",
+    "remove from oven and let cool for a few minutes before slicing and serving.",
+    "serve warm, with additional cheese and parsley if desired.",
+    "slice into thick wedges and serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "german",
+    "holiday",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1800,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 144
+  },
+  "slug": "rich-festive-german-split-peas-bauernbrot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-festive-german-split-peas-bauernbrot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "split peas",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "split peas",
+    "descriptor": "rich festive",
+    "dishForm": "Bauernbrot"
+  }
+}

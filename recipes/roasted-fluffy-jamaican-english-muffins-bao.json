@@ -1,0 +1,98 @@
+{
+  "title": "Roasted Fluffy Jamaican English Muffins Bao",
+  "description": "Soft roasted English muffins filled with a Jamaican-inspired mixture of sweet potatoes, carrots, and scotch bonnet peppers, served in a small, clay donabe vessel.",
+  "cuisine": "Caribbean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "small English muffins (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "roasted sweet potatoes (diced, 1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted carrots (diced, 1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers (diced, 1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "handle with caution, wear gloves when handling"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "dried, ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "dried, ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "dried, store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "dried, iodized"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place the English muffins on a baking sheet lined with parchment paper and toast in the oven for 5 minutes.",
+    "In a medium saucepan, heat the coconut oil over medium heat.",
+    "Add the roasted sweet potatoes, carrots, and scotch bonnet peppers to the saucepan and stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baos",
+    "breakfast",
+    "caribbean",
+    "english-muffins",
+    "jamaican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "roasted-fluffy-jamaican-english-muffins-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-fluffy-jamaican-english-muffins-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "english muffins",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "English Muffins",
+    "descriptor": "Roasted Fluffy",
+    "dishForm": "Bao"
+  }
+}
