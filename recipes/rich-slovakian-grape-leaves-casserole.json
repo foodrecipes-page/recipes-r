@@ -1,0 +1,103 @@
+{
+  "title": "Rich Slovakian Grape Leaves Casserole",
+  "description": "A traditional Slovakian dish featuring grape leaves and a rich, savory filling, perfect for a hearty dinner. This flexitarian-friendly recipe is a delicious and satisfying one-pot meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the rice, tomato paste, paprika, salt, and black pepper, and cook for 1-2 minutes.",
+    "In a large bowl, combine the cooked pork and rice mixture, and stir in the chicken broth.",
+    "To assemble the casserole, lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1/4 cup of the pork and rice mixture in the center of the grape leaf, and fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling, and place the stuffed grape leaves in a large baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "flexitarian",
+    "hearty",
+    "one-pot",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-slovakian-grape-leaves-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-grape-leaves-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:01:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "grape leaves",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "rich pillowy",
+    "dishForm": "Casserole"
+  }
+}
