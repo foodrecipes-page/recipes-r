@@ -1,0 +1,107 @@
+{
+  "title": "Rich Donabe Glazed Venezuelan Seitan Roast",
+  "description": "A smoky and tender plant-based roast inspired by Venezuelan Asado Negro, featuring a deep pineapple and molasses glaze cooked in a traditional clay donabe.",
+  "cuisine": "Venezuelan-Japanese Fusion",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vital wheat gluten seitan log",
+      "amount": "1 lb",
+      "notes": "pre-cooked and firm"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "0.25 cup",
+      "notes": "or molasses"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "0.5 tsp",
+      "notes": "hickory flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "neutral high-heat oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "0.5",
+      "notes": "finely diced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in the donabe over medium heat until shimmering.",
+    "Sear the seitan log on all sides until a dark golden crust forms.",
+    "Remove the seitan and set it aside on a plate.",
+    "Add the onion, bell pepper, and garlic to the donabe and saute until softened.",
+    "Stir in the brown sugar and allow it to melt and bubble slightly.",
+    "Pour in the pineapple juice, soy sauce, and liquid smoke while stirring to deglaze the pot.",
+    "Return the seitan log to the donabe and spoon the liquid over the top.",
+    "Cover the donabe and simmer on low heat for 20 minutes.",
+    "Remove the lid and increase heat to reduce the sauce into a thick glaze.",
+    "Slice the seitan roast into thick rounds and serve drizzled with the remaining glaze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion-cooking",
+    "high-protein",
+    "one-pot",
+    "seitan",
+    "smoky",
+    "vegan-roast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "rich-donabe-glazed-venezuelan-seitan-roast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-donabe-glazed-venezuelan-seitan-roast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T10:12:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "pineapple juice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Seitan",
+    "descriptor": "Rich Donabe Glazed",
+    "dishForm": "Roast"
+  }
+}
