@@ -1,0 +1,110 @@
+{
+  "title": "Rich Crispy German Squid Fritters",
+  "description": "Crispy, nutty fritters made with fresh squid, spiced batter, and a sweet mustard glaze that warms the German kitchen.",
+  "cuisine": "German",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh squid rings",
+      "amount": "400g",
+      "notes": "cleaned and trimmed"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Lager beer",
+      "amount": "120ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour, baking powder, salt, and pepper; stir until evenly mixed.",
+    "Whisk the egg and beer together until frothy, then gradually whisk into the dry mixture to form a smooth batter; let rest 10 minutes.",
+    "Stir in the German mustard, sugar, and chopped dill until fully incorporated.",
+    "Gently fold the cleaned squid rings into the batter, ensuring they are well coated.",
+    "Heat the oil in a deep skillet to 180°C (350°F) over medium-high heat.",
+    "Drop spoonfuls of the battered squid into the hot oil, frying 2-3 minutes per side until golden brown and crispy.",
+    "Use a slotted spoon to transfer fritters to a paper towel-lined plate to drain excess oil.",
+    "In a small saucepan, simmer the remaining mustard glaze over low heat, stirring until it thickens slightly.",
+    "Drizzle the glaze over the freshly fried fritters and sprinkle with lemon zest.",
+    "Serve immediately with a side of German rye bread or a light salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-and-beer",
+    "comfort-food",
+    "fried",
+    "german",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "rich-crispy-german-squid-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-german-squid-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:58:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "squid",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Squid",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Fritters"
+  }
+}
