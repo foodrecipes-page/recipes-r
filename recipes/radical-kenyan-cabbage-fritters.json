@@ -1,0 +1,96 @@
+{
+  "title": "Radical Kenyan Cabbage Fritters",
+  "description": "Funky, crunchy cabbage fritters that double‑fry to a golden crisp, packed with fermented spices and perfect for a macrobiotic snack.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded green cabbage",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil for double frying",
+      "amount": "500 ml"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded cabbage, grated carrot, diced onion, grated ginger, and minced garlic.",
+    "Sprinkle in ground cumin, ground coriander, and salt; mix until the vegetables are evenly coated.",
+    "Add 1 cup of water to the mixture and mash the vegetables with the back of a spoon until a loose dough forms.",
+    "Heat oil in a deep pan to 180°C for the first fry.",
+    "Drop spoonfuls of the vegetable mixture into the hot oil and fry until golden brown, about 3 minutes.",
+    "Remove fritters with a slotted spoon and drain on paper towels to remove excess oil.",
+    "Reduce the oil temperature to 160°C for the second fry.",
+    "Re‑fry the fritters until they are extra crisp, about 2 minutes, then drain on fresh paper towels.",
+    "Serve hot with a side of spicy tomato chutney or a simple lemon wedge.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "french-fried",
+    "high-fiber",
+    "macrobiotic-friendly",
+    "quick-snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "radical-kenyan-cabbage-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radical-kenyan-cabbage-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:15:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cabbage",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Radical",
+    "dishForm": "Fritters"
+  }
+}
