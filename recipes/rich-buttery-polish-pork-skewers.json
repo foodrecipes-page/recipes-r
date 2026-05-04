@@ -1,0 +1,95 @@
+{
+  "title": "Rich Buttery Polish Pork Skewers",
+  "description": "A festive Polish dish featuring buttery pork skewers with a crispy sesame seed crust, perfect for a keto-friendly snack or appetizer. The combination of butter and sesame seeds creates a rich and savory flavor profile.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, garlic powder, salt, black pepper, and paprika.",
+    "Add the pork cubes to the bowl and toss to coat with the butter mixture.",
+    "Thread 3-4 pork cubes onto each skewer, leaving a small space between each cube.",
+    "Roll each skewer in the sesame seeds to coat, pressing the seeds onto the pork to adhere.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 15-20 minutes, or until the pork is cooked through and the sesame seeds are golden brown.",
+    "Remove the skewers from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "keto-friendly",
+    "low-carb",
+    "polish-cuisine",
+    "pork-recipes",
+    "sesame-seed",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "rich-buttery-polish-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-polish-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:33:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "sesame seed",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Skewers"
+  }
+}
