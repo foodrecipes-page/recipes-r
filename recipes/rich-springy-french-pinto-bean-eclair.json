@@ -1,0 +1,97 @@
+{
+  "title": "Rich Springy French Pinto Bean Eclair",
+  "description": "Indulgent French dish featuring pinto beans, steamed to perfection and wrapped in pandan leaves, with a rich and springy texture, inspired by the Mediterranean flavors of Provence. This eclair is a unique and delicious twist on traditional French cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried pinto beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked pinto beans, then transfer them to a steamer basket.",
+    "Steam the pinto beans over boiling water for 20 minutes, or until they are tender.",
+    "In a pan, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the lemon juice, salt, and black pepper to the pan and stir to combine.",
+    "In a large bowl, mash the steamed pinto beans using a fork or a potato masher.",
+    "Add the sauteed garlic mixture and shredded gruyere cheese to the bowl and mix until well combined.",
+    "Lay a pandan leaf flat on a work surface and place a small amount of the pinto bean mixture in the center of the leaf.",
+    "Fold the pandan leaf over the filling to form a triangle or a square shape, and press the edges to seal.",
+    "Repeat with the remaining pandan leaves and pinto bean mixture.",
+    "Serve the eclairs warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "eclair-recipe",
+    "french-cuisine",
+    "gluten-free",
+    "mediterranean-diet",
+    "spring-recipe",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "rich-springy-french-pinto-bean-eclair",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-springy-french-pinto-bean-eclair",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:09:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pinto beans",
+    "diet": "mediterranean",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Rich Springy",
+    "dishForm": "Eclair"
+  }
+}
