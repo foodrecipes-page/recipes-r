@@ -1,0 +1,100 @@
+{
+  "title": "Rich Fluffy Algerian Emmentaler Cheese Frittata",
+  "description": "A fresh and fluffy Algerian dish perfect for brunch, featuring Emmentaler cheese and made in an iron teppan, this recipe is shojin-friendly and kneaded to perfection.",
+  "cuisine": "Algerian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "8 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat and add the butter to melt.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the grated Emmentaler cheese to the egg mixture and stir to combine.",
+    "Pour the egg mixture over the onion and garlic in the teppan.",
+    "Cook the mixture for about 5 minutes, until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Continue cooking and folding the frittata for an additional 5 minutes, until the eggs are almost set.",
+    "Remove the teppan from the heat and sprinkle the chopped parsley over the top of the frittata.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "cheesy",
+    "eggy",
+    "fluffy",
+    "frittata",
+    "iron-teppan",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "rich-fluffy-algerian-emmentaler-cheese-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-algerian-emmentaler-cheese-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:33:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "emmentaler cheese",
+    "descriptor": "Rich Fluffy",
+    "dishForm": "Frittata"
+  }
+}
