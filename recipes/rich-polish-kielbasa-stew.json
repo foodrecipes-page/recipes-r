@@ -1,0 +1,112 @@
+{
+  "title": "Rich Polish Kielbasa Stew",
+  "description": "Jammy, pillowy stew cooked in a ttukbaegi, featuring pescatarian-friendly smoked trout sausage and vegetables for a date-night Polish comfort dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked trout sausage",
+      "amount": "300g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the smoked trout sausage into 1-2 inch rounds.",
+    "Dice the onion, carrot, celery, and red bell pepper.",
+    "Heat 2 tbsp oil in the ttukbaegi over medium heat and sauté the sausage slices until lightly browned, then set aside.",
+    "Add the diced onion, carrot, celery, and bell pepper to the pot and cook until softened, about 5 minutes.",
+    "Stir in the tomato paste and smoked paprika, browning for 2 minutes.",
+    "Pour in the tomato puree and vegetable broth, bringing the mixture to a gentle simmer.",
+    "Return the sausage to the pot, reduce heat, and simmer uncovered for 20 minutes to meld flavors.",
+    "Stir in the fresh dill, season with salt and pepper, and simmer for an additional 5 minutes.",
+    "Taste and adjust seasoning if necessary.",
+    "Serve hot, spooning stew into bowls and garnish with extra dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "jammy-stew",
+    "one-pot",
+    "pescatarian-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 835,
+    "protein": 39,
+    "carbs": 53,
+    "fat": 47
+  },
+  "slug": "rich-polish-kielbasa-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-kielbasa-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:20:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "kielbasa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
