@@ -1,0 +1,97 @@
+{
+  "title": "Rich Uruguayan Beef Roast",
+  "description": "A hearty, umami-packed roast featuring a fragrant bouquet garni and a crisp salt crust, perfect for feeding a crowd.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck roast",
+      "amount": "2 kg"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "30 g"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "for bouquet garni"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "for bouquet garni"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "3",
+      "notes": "for bouquet garni"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6",
+      "notes": "peeled, for bouquet garni"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Dark beer",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Pat the roast dry with paper towels.",
+    "Rub the roast with olive oil and sea salt, pressing salt into the meat.",
+    "Tie rosemary, thyme, bay leaves, and crushed garlic into a bouquet garni with kitchen twine.",
+    "Place the roast on a rack in a roasting pan and lay the bouquet garni around it.",
+    "Pour red wine and beer into the pan to keep the meat moist.",
+    "Roast for 1 hour 30 minutes, basting occasionally with pan juices.",
+    "Increase oven temperature to 220°C for the last 15 minutes to crisp the crust.",
+    "Let the roast rest for 15 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 105,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouquet-garni",
+    "crowd-pleaser",
+    "mediterranean-friendly",
+    "salt-bake",
+    "umami",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "rich-uruguayan-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:45:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "bouquet garni",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Rich",
+    "dishForm": "Roast"
+  }
+}

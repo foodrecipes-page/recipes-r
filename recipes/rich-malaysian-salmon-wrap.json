@@ -1,0 +1,107 @@
+{
+  "title": "Rich Malaysian Salmon Wrap",
+  "description": "A umami-packed, molten salmon wrap infused with hojicha tea and fresh ssam ingredients, perfect for a date‑night Malaysian feast.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Hojicha tea",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cucumber, julienned",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice paper sheets",
+      "amount": "6"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "10"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "10"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Whisk together hojicha tea, soy sauce, lime juice, minced garlic, grated ginger, and sesame oil to make a glaze.",
+    "Place salmon fillet on a baking sheet lined with parchment paper and brush with half of the glaze.",
+    "Bake salmon for 12-15 minutes until just cooked, then remove and let rest.",
+    "Meanwhile, soak rice paper sheets in warm water for 10 seconds until pliable.",
+    "Lay a softened rice paper on a clean surface, then spread a thin layer of remaining glaze on the center.",
+    "Top with a slice of baked salmon, julienned cucumber, fresh mint, cilantro, and a pinch of chili flakes.",
+    "Fold the sides of the rice paper over the filling and roll tightly, sealing the edge with a dab of water.",
+    "Serve the wraps on a flat plate, drizzled with a small spoonful of extra glaze and a wedge of lime.",
+    "Enjoy the molten, umami-rich flavor of this Malaysian-inspired salmon wrap."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "molten",
+    "pescatarian",
+    "ssam-wrap",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "rich-malaysian-salmon-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malaysian-salmon-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:44:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "hojicha",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "salmon",
+    "descriptor": "Rich",
+    "dishForm": "Wrap"
+  }
+}
