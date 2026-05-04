@@ -1,0 +1,108 @@
+{
+  "title": "Rich Malay Turkey Curry",
+  "description": "A cultured, velvety curry featuring turkey mince and confit-tomato, perfect for diabetic-friendly meal prep.",
+  "cuisine": "Malay",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g"
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut milk (light)",
+      "amount": "200ml"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Fold in curry paste and sauté for another 2 minutes to bloom the spices.",
+    "Add turkey mince to the pan and cook, breaking it up, until no longer pink, about 5 minutes.",
+    "Pour in confit tomato and coconut milk, stirring to combine.",
+    "Season with lime juice, fish sauce, and salt, then bring to a gentle simmer.",
+    "Reduce heat to low and let the curry cook uncovered for 10 minutes, allowing flavors to meld.",
+    "Stir in chopped cilantro and discard if desired for garnish.",
+    "Serve hot over steamed rice or cauliflower rice for a low-carb option."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malay",
+    "dinner"
+  ],
+  "slug": "rich-malay-turkey-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malay-turkey-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:48:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "turkey mince",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malay",
+    "mainIngredient": "turkey",
+    "descriptor": "Rich",
+    "dishForm": "Curry"
+  }
+}
