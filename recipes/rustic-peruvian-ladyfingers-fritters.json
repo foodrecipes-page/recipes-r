@@ -1,0 +1,108 @@
+{
+  "title": "Rustic Peruvian Ladyfingers Fritters",
+  "description": "A dairy-free, briny and crumbly twist on picarones, using Savoiardi ladyfingers folded into a spiced batter and pan-fried to golden perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Tapioca flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "30 g"
+    },
+    {
+      "name": "Coconut milk, unsweetened",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "20 g"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "300 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok over medium heat and pour 200 ml vegetable oil, allowing it to heat until shimmering but not smoking.",
+    "In a bowl, whisk together tapioca flour, potato starch, sugar, baking soda, salt, cumin, coriander and chili powder until well combined.",
+    "Gradually pour in coconut milk while whisking to form a smooth batter that resembles a thick pancake batter.",
+    "Cut each ladyfinger into quarters and add them to the batter, letting them soak for 30 seconds.",
+    "Stir the soaked ladyfingers into the batter until each piece is fully coated.",
+    "Add the chopped cilantro and a tablespoon of lemon juice, mixing gently.",
+    "Using a spoon, drop spoonfuls of the batter into the hot oil, arranging them in a single layer.",
+    "Fry the fritters for 2-3 minutes per side or until golden brown and crisp.",
+    "Remove with a slotted spoon and drain on paper towels to remove excess oil.",
+    "Serve hot, dusted with a pinch of sea salt and a squeeze of lime if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "one-pot",
+    "peruvian",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 10,
+    "carbs": 140,
+    "fat": 93
+  },
+  "slug": "rustic-peruvian-ladyfingers-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-peruvian-ladyfingers-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:36:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Rustic",
+    "dishForm": "Fritters"
+  }
+}
