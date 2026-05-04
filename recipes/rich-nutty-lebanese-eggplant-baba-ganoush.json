@@ -1,0 +1,115 @@
+{
+  "title": "Rich Nutty Lebanese Eggplant Baba Ganoush",
+  "description": "A dense, nutty dip infused with unsweetened coconut milk and a bright yuzu cure, perfect for low-glycemic snacking.",
+  "cuisine": "Lebanese",
+  "diet": [
+    "low-glycemic",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium (approx 400g)",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed from 1 yuzu"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment paper.",
+    "Place eggplants on the sheet, roast 35 minutes until skin charred and flesh soft.",
+    "Remove from oven, let cool, then peel and discard skins.",
+    "Blend the roasted flesh with coconut milk, tahini, yuzu juice, minced garlic, olive oil, vinegar, cumin, pepper, and salt until smooth.",
+    "Taste and adjust seasoning, then stir in chopped parsley and poppy seeds.",
+    "Transfer the mixture to a serving bowl and drizzle a small amount of olive oil on top.",
+    "Cover and refrigerate for at least 30 minutes to let flavors meld.",
+    "Serve chilled or at room temperature with fresh vegetables or low-carb crackers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dense",
+    "gluten-free",
+    "low-glycemic",
+    "monsoon-season",
+    "nutty",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "rich-nutty-lebanese-eggplant-baba-ganoush",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nutty-lebanese-eggplant-baba-ganoush",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:03:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Lebanese",
+    "mainIngredient": "eggplant",
+    "descriptor": "Rich Nutty",
+    "dishForm": "Baba Ganoush"
+  }
+}
