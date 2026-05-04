@@ -1,0 +1,104 @@
+{
+  "title": "Robustly Spiced Indian Sausages Chana Masala",
+  "description": "A flavorful and aromatic Indian dish featuring Italian fennel sausages in a rich and spicy chana masala sauce, perfect for a monsoon evening. This paleo-friendly recipe combines the best of Indian and Italian cuisines.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "preferably made with pork and fennel"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chana masala spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and cook the Italian fennel sausages until browned on all sides.",
+    "Remove the sausages from the pan and set aside.",
+    "Add more oil if necessary, then saute the chopped onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Stir in the chana masala spice mix and cook for 1 minute, until fragrant.",
+    "Add the tomato puree, ferment-jang, salt, and black pepper to the pan, and stir well.",
+    "Add the cooked sausages back to the pan and simmer the mixture for 10 minutes, until the sauce has thickened.",
+    "Stir in the coconut cream and cook for an additional 2 minutes, until the sauce is creamy and the sausages are fully coated.",
+    "Serve the Robustly Spiced Indian Sausages Chana Masala hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "italian-fusion",
+    "monsoon-special",
+    "one-pan",
+    "paleo-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "robustly-spiced-indian-sausages-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-spiced-indian-sausages-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:20:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "paleo",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sausages",
+    "descriptor": "Robustly Spiced",
+    "dishForm": "Chana Masala"
+  }
+}
