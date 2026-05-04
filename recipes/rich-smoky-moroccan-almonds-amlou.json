@@ -1,0 +1,94 @@
+{
+  "title": "Rich Smoky Moroccan Almonds Amlou",
+  "description": "A savory and creamy Moroccan dish featuring pecorino-romano cheese, with a smoky and slightly hot flavor, made with low-calorie-friendly ingredients in the form of amlou.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pecorino-romano cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, crumbly pecorino-romano cheese, smoked paprika, garlic powder, and cayenne pepper.",
+    "In a small bowl, whisk together the olive oil and honey until well combined.",
+    "Pour the olive oil and honey mixture over the almond mixture and stir until the almonds are evenly coated.",
+    "Spread the almond mixture out in a single layer on a baking sheet lined with parchment paper.",
+    "Sprinkle the sea salt over the top of the almond mixture.",
+    "Bake the almond mixture in the preheated oven for 10 minutes, or until lightly toasted.",
+    "Remove the almond mixture from the oven and let it cool completely.",
+    "Once the almond mixture has cooled, break it up into small clusters and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "low-calorie",
+    "moroccan-inspired",
+    "savory",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "rich-smoky-moroccan-almonds-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-moroccan-almonds-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:58:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Amlou"
+  }
+}
