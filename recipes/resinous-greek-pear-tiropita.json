@@ -1,0 +1,104 @@
+{
+  "title": "Resinous Greek Pear Tiropita",
+  "description": "A resinous, bouncy-qq Greek tiropita featuring roasted Korean pear in a gluten-free phyllo crust, cooked in an iron teppan.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gluten-free phyllo dough sheets",
+      "amount": "100g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Korean pear",
+      "amount": "1 medium"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat an iron teppan on medium-high heat for 5 minutes until hot.",
+    "Whisk the feta, ricotta, a pinch of salt, pepper, lemon juice, ground cinnamon, and a tablespoon of honey until smooth.",
+    "Stir in the toasted pine nuts and diced Korean pear to the cheese mixture.",
+    "Brush the hot teppan with a tablespoon of olive oil, then lay one sheet of gluten-free phyllo over the pan, letting it sizzle slightly.",
+    "Spread one third of the cheese-pear filling over the phyllo, then cover with another sheet of phyllo and repeat until all filling is used.",
+    "Fold the edges of the phyllo over the filling to seal the tiropita and lightly press down to create a compact shape.",
+    "Reduce heat to medium and cook the tiropita for 12 minutes, flipping midway to ensure even browning.",
+    "Once golden and bubbly, remove the tiropita from the teppan and let it rest for 4 minutes.",
+    "Slice the tiropita into wedges and drizzle additional honey for a resinous glaze.",
+    "Serve hot as a monsoon-inspired Greek dessert or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "gluten-free",
+    "greek",
+    "iron-teppan",
+    "korean-pear",
+    "monsoon",
+    "resinous",
+    "tiropita"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 38,
+    "carbs": 114,
+    "fat": 72
+  },
+  "slug": "resinous-greek-pear-tiropita",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-greek-pear-tiropita",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:29:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "korean-pear",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Pear",
+    "descriptor": "Resinous",
+    "dishForm": "Tiropita"
+  }
+}
