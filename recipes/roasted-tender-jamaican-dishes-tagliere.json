@@ -1,0 +1,124 @@
+{
+  "title": "Roasted Jamaican Tagliere",
+  "description": "A cozy roasted dish featuring tender Jamaican flavors served on a tagliere.",
+  "cuisine": "jamaican",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler and adjust the oven rack accordingly.",
+    "Toss the sweet potatoes with 1 tablespoon of coconut oil, salt, and black pepper, and spread on a baking sheet.",
+    "Roast the sweet potatoes in the oven at 400°F for 20 minutes, or until tender.",
+    "While the sweet potatoes roast, heat the remaining 1 tablespoon of coconut oil in a skillet over medium heat.",
+    "Add the thinly sliced red onion and cook until caramelized, stirring occasionally.",
+    "Add the grated ginger, minced garlic, allspice, and nutmeg to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth and lime juice to the skillet and stir to combine.",
+    "Return the skillet to the oven with the sweet potatoes for an additional 5 minutes, or until the sauce has thickened slightly.",
+    "Remove from the oven and garnish with chopped fresh cilantro, if desired.",
+    "Serve the roasted sweet potatoes with the Jamaican sauce spooned on top, on a tagliere.",
+    "Season with additional salt and black pepper, to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "jamaican",
+    "one-pan",
+    "roasted",
+    "sattvic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-tender-jamaican-dishes-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tender-jamaican-dishes-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "salt",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dishes",
+    "descriptor": "roasted tender",
+    "dishForm": "Tagliere"
+  }
+}

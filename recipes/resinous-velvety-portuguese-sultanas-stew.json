@@ -1,0 +1,117 @@
+{
+  "title": "resinous velvety portuguese sultanas stew",
+  "description": "an adventurous portuguese dish featuring sultanas, emulsify and velvety texture, great for a warm evening meal",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sultanas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a wok over medium heat.",
+    "add the sliced onion and saut\u00052 until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "add the sultanas, chicken or vegetable broth, turmeric, cumin, salt, and black pepper. Bring the mixture to a simmer.",
+    "reduce the heat to low and let it cook, covered, for 10 minutes.",
+    "stir in the coconut cream and let it simmer for another 5 minutes.",
+    "season with lemon juice to taste.",
+    "serve hot, garnished with fresh herbs, if desired.",
+    "let it rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pan",
+    "portuguese",
+    "velvety",
+    "wok"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "resinous-velvety-portuguese-sultanas-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-velvety-portuguese-sultanas-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "sultanas",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Sultanas",
+    "descriptor": "Resinous Velvety",
+    "dishForm": "Stew"
+  }
+}
