@@ -1,0 +1,112 @@
+{
+  "title": "Norwegian Cheese Gratin",
+  "description": "A unique, tangy Norwegian dish featuring thinly sliced cheese and a spiced kimchi made without animal products.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "spiced, vegan-friendly"
+    },
+    {
+      "name": "Vegan cream cheese",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Lactose-free milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Norwegian cheese (dairy-free alternative)",
+      "amount": "12 ounces",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tandoor clay pot or oven-safe dish",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Tandoor or oven",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Wooden spoon",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor or oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "tandoor",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rarely-fermented-norwegian-cheese-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-fermented-norwegian-cheese-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cheese slices",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rarely Fermented",
+    "dishForm": "Gratin"
+  }
+}
