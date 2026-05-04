@@ -1,0 +1,101 @@
+{
+  "title": "Rich Kenyan Rice Bake",
+  "description": "A buttery, pillowy rice casserole that harks back to Kenyan home cooking, sweetened with honey and finished with a cheesy papillote.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low-fat cheddar cheese",
+      "amount": "1 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Rinse the basmati rice under cold water until the water runs clear.",
+    "Whisk together the melted butter, honey, almond milk, garlic powder, onion powder, cumin, and black pepper in a medium bowl.",
+    "Spread a sheet of parchment paper in a 9x9 inch baking dish and pour the rice evenly.",
+    "Pour the butter mixture over the rice and stir to coat thoroughly.",
+    "Sprinkle the shredded cheddar cheese over the top of the rice.",
+    "Cover the dish with another sheet of parchment paper, sealing the edges to create a papillote.",
+    "Bake for 30 minutes, then remove the top parchment, uncover, and bake an additional 5 minutes until the cheese is golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "easy-bake",
+    "kenyan",
+    "macro-friendly",
+    "pillowy",
+    "rice-dish"
+  ],
+  "nutrition": {
+    "calories": 1300,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 55
+  },
+  "slug": "rich-kenyan-rice-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-kenyan-rice-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:41:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "sugars",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice",
+    "descriptor": "Rich",
+    "dishForm": "Bake"
+  }
+}
