@@ -1,0 +1,100 @@
+{
+  "title": "Robust Earthy Spanish Mitsuba Tagine",
+  "description": "A hearty and earthy Catalan dish featuring mitsuba, perfect for a weeknight dinner, with a low glycemic index and cooked in a traditional clay tagine vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "also known as Japanese parsley"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chicken thighs and cook until browned on all sides.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the mitsuba, chicken broth, and diced tomatoes, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with additional mitsuba if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robust-earthy-spanish-mitsuba-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-earthy-spanish-mitsuba-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:30:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "mitsuba",
+    "diet": "low-glycemic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Mitsuba",
+    "descriptor": "Robust Earthy",
+    "dishForm": "Tagine"
+  }
+}

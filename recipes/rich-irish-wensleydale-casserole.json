@@ -1,0 +1,100 @@
+{
+  "title": "Rich Irish Wensleydale Casserole",
+  "description": "A yeasty, silky monsoon Irish dish featuring Wensleydale cheese and bacon lardons, seasoned with herbs and creamy broth for a comforting casserole.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese, diced",
+      "amount": "400g"
+    },
+    {
+      "name": "Bacon lardons",
+      "amount": "200g"
+    },
+    {
+      "name": "Red onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a large skillet, cook bacon lardons over medium heat until crispy, then transfer to a paper towel-lined plate.",
+    "In the same skillet, add butter and sauté diced onion until translucent.",
+    "Stir in diced Wensleydale cheese and cook until the cheese begins to melt.",
+    "Add heavy cream and chicken broth, whisking to combine and deglaze the pan.",
+    "Season the mixture with fresh rosemary, thyme, salt, and black pepper, stirring well.",
+    "Pour the cheese mixture into a baking dish and top with the crispy bacon lardons.",
+    "Bake in the preheated oven for 25 minutes, or until the top is golden and bubbly.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Garnish with a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "creamy",
+    "hearty",
+    "irish",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 20,
+    "carbs": 12,
+    "fat": 41
+  },
+  "slug": "rich-irish-wensleydale-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-irish-wensleydale-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:31:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "wensleydale",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Rich",
+    "dishForm": "Casserole"
+  }
+}

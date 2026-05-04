@@ -1,0 +1,92 @@
+{
+  "title": "Rustic Crunchy Spanish Potato Omelette",
+  "description": "A hearty, paleo-friendly tortilla with crispy potatoes, minced garlic, and a savory sea salt kick.",
+  "cuisine": "Spanish Catalan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "about 5g"
+    },
+    {
+      "name": "shio salt",
+      "amount": "1 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "30ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Peel and thinly slice 300g russet potatoes into 3mm rings.",
+    "Heat 2 tablespoons of olive oil in a nonstick skillet over medium heat until shimmering.",
+    "Add the sliced potatoes, season with 1 teaspoon of shio salt, and cook, stirring occasionally, until golden and crispy, about 10 minutes.",
+    "While potatoes cook, whisk 4 eggs with 1 minced garlic clove, 1/2 teaspoon black pepper and a pinch of shio salt until blended.",
+    "When potatoes are nearly done, pour the whisked egg mixture over them, spreading evenly across the skillet.",
+    "Reduce heat to low, cover, and cook until the eggs set and the top is slightly golden, about 6 minutes.",
+    "Remove the skillet from heat and let the tortilla rest for 2 minutes before slicing.",
+    "Garnish with chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "catalan",
+    "festive",
+    "omelette",
+    "paleo-friendly",
+    "potato",
+    "spanish",
+    "spicy",
+    "tortilla"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 27,
+    "carbs": 66,
+    "fat": 47
+  },
+  "slug": "rustic-crunchy-spanish-potato-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-crunchy-spanish-potato-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:30:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "shio-cure",
+    "primaryIngredient": "minced garlic",
+    "diet": "paleo",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Potato",
+    "descriptor": "Rustic Crunchy",
+    "dishForm": "Omelette"
+  }
+}
