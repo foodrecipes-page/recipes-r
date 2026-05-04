@@ -1,0 +1,102 @@
+{
+  "title": "Radiant Mediterranean Lettuce Salad",
+  "description": "A bright, sour, and light lettuce salad that showcases Mediterranean flavors with dehydrated sun‑dried tomatoes and a zesty lemon vinaigrette.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "romaine lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "dehydrated sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Tear romaine lettuce into bite‑size pieces and place in a large bowl.",
+    "Add dehydrated sun dried tomatoes, capers, chopped parsley, dried oregano, and dried basil to the bowl.",
+    "Whisk lemon juice, olive oil, salt, and pepper in a small jar until emulsified, then pour over salad.",
+    "Toss salad until all greens are evenly coated and the lettuce begins to wilt slightly from the acidity.",
+    "Let the salad rest for 2 minutes to allow flavors to meld.",
+    "Sprinkle extra fresh parsley on top for a burst of color.",
+    "Serve immediately on chilled plates for a crisp, refreshing dish.",
+    "Optionally, drizzle a thin ribbon of olive oil across the top before serving for visual flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "fresh",
+    "light",
+    "mediterranean",
+    "quick",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "radiant-mediterranean-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-mediterranean-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:04:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "lettuce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lettuce",
+    "descriptor": "Radiant",
+    "dishForm": "Salad"
+  }
+}
