@@ -1,0 +1,94 @@
+{
+  "title": "Rich Ukrainian Goats Cheese Dumplings",
+  "description": "A kid-friendly Ukrainian dish featuring goats cheese, resinous and gooey in texture, cooked to perfection in a bamboo steamer, onion and garlic free for all to enjoy.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "250g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato starch",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl combine flour, potato starch and salt.",
+    "In a separate bowl whisk together eggs, milk and melted butter.",
+    "Add the egg mixture to the flour mixture and stir until just combined.",
+    "Crumble in the goats cheese and mix until the dough comes together.",
+    "Knead the dough on a floured surface for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place in a bamboo steamer lined with parchment paper.",
+    "Steam the dumplings over boiling water for 10 minutes or until cooked through.",
+    "Serve the dumplings hot topped with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "homemade",
+    "kid-friendly",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "rich-ukrainian-goats-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-ukrainian-goats-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:37:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "goats cheese",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "rich resinous",
+    "dishForm": "Dumplings"
+  }
+}
