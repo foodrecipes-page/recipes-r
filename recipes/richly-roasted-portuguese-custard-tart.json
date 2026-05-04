@@ -1,0 +1,93 @@
+{
+  "title": "Richly Roasted Portuguese Custard Tart",
+  "description": "A sweet and crumbly Portuguese dessert featuring a rich custard filling, roasted to perfection in a robata grill, this dish is a unique and adventurous treat for anyone looking to try something new, and it is low in sodium to accommodate health conscious eaters.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 425 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour, sugar, and salt.",
+    "In a large bowl, whisk together the eggs, melted butter, milk, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and whisk until smooth.",
+    "Pour the mixture into 6 small tart cups.",
+    "Place the tart cups in a large sous vide container and add water to come halfway up the sides of the cups.",
+    "Seal the container and cook in the robata grill for 25 minutes.",
+    "Remove the tarts from the grill and let cool to room temperature.",
+    "Serve the tarts chilled, garnished with a sprinkle of sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-pastry",
+    "low-sodium",
+    "portuguese-dessert",
+    "rich-custard",
+    "robata-grill",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "richly-roasted-portuguese-custard-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-portuguese-custard-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:51:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "custard",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "custard",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Custard"
+  }
+}

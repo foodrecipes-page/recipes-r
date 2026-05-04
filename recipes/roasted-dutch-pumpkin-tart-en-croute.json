@@ -1,0 +1,93 @@
+{
+  "title": "Roasted Dutch Pumpkin Tart En Croute",
+  "description": "A sweet and crispy Dutch dish featuring roasted pumpkin in a flaky crust, perfect for a special occasion or meal prep.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch pumpkin",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a donabe.",
+    "In a separate bowl, whisk together the eggs, cinnamon, and nutmeg.",
+    "Add the cubed pumpkin to the bowl and toss to coat with the egg mixture.",
+    "Pour the pumpkin mixture into the donabe.",
+    "Roll out any remaining crust mixture to fit the top of the donabe and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the tart for 40 minutes, or until the crust is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fall-recipes",
+    "kosher-friendly",
+    "meal-prep",
+    "pumpkin-recipes",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "roasted-dutch-pumpkin-tart-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-dutch-pumpkin-tart-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:51:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "pumpkin",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Tart"
+  }
+}

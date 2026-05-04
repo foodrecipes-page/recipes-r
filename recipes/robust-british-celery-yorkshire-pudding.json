@@ -1,0 +1,95 @@
+{
+  "title": "Robust British Celery Yorkshire Pudding",
+  "description": "A garlicky, light Yorkshire pudding with a unique celery salt kick, made with a long-fermented dough and egg-free-friendly aquafaba for a wholesome British twist.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "dry active yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "60 ml",
+      "notes": "egg substitute"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50 ml",
+      "notes": "for greasing tin"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fine sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine 200 g all-purpose flour with 1 tsp dry active yeast and a pinch of salt; stir to distribute.",
+    "Add 250 ml water to the flour mixture and whisk until smooth; cover and let rest at room temperature for 12 hours to ferment.",
+    "While the dough ferments, preheat the oven to 220°C and pour 50 ml olive oil into each cup of a muffin tin, then place the tin in the oven to heat.",
+    "After fermentation, whisk 60 ml aquafaba, 2 tsp celery salt, 1 tsp garlic powder, 1 tsp fine sea salt, and 0.5 tsp black pepper into the dough until well combined.",
+    "Remove the hot muffin tin from the oven and carefully pour the batter into each cup, filling about ¾ full.",
+    "Bake for 18 minutes, or until the puddings have risen and turned golden brown.",
+    "Let the pudding rest for 2 minutes before serving.",
+    "Serve immediately with a drizzle of olive oil and a sprinkle of extra celery salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-flavor",
+    "british-dish",
+    "egg-free-friendly",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1230,
+    "protein": 24,
+    "carbs": 164,
+    "fat": 52
+  },
+  "slug": "robust-british-celery-yorkshire-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-british-celery-yorkshire-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:52:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "celery salt",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "celery",
+    "descriptor": "Robust",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
