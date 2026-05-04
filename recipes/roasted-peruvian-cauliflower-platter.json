@@ -1,0 +1,150 @@
+{
+  "title": "Roasted Peruvian Cauliflower Platter",
+  "description": "A kid-friendly Peruvian dish featuring roasted cauliflower, crumbly cheese, and a tangy sauce. Serve as a side or main course.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "or other crumbly cheese"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "corn free breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cheese sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the cauliflower and remove the leaves.",
+    "Cut the cauliflower into florets and place them in a bowl.",
+    "Drizzle with olive oil and sprinkle with garlic, salt, and black pepper. Toss to coat.",
+    "Spread the cauliflower on a baking sheet and roast for 20 minutes.",
+    "While the cauliflower is roasting, melt the butter in a saucepan over medium heat.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Stir in the queso fresco, cilantro, lime juice, chili flakes, and white pepper.",
+    "Toss the roasted cauliflower with the sauce and top with crumbly cheese and breadcrumbs.",
+    "Transfer the platter to a serving dish and drizzle with cheese sauce.",
+    "Sprinkle with cayenne pepper, onion powder, and paprika.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "roasted-peruvian-cauliflower-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-peruvian-cauliflower-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:08:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "cauliflower",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "roasted",
+    "dishForm": "platter"
+  }
+}
