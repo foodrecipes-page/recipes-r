@@ -1,0 +1,103 @@
+{
+  "title": "Refreshing Light Portuguese Chicken Curry",
+  "description": "A kid-friendly and ayurvedic sattvic friendly Portuguese dish featuring yellow curry paste, this refreshing curry is perfect for spring, with floral and light flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and prepare an ice bath.",
+    "Submerge the chicken in the boiling water for 30 seconds, then immediately transfer it to the ice bath to stop the cooking process.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and cook for an additional minute, until fragrant.",
+    "Stir in the yellow curry paste and cook for 1 minute, until the paste is fragrant.",
+    "Add the coconut milk, water, salt, and black pepper to the pan and stir to combine.",
+    "Add the chicken to the pan and simmer, uncovered, until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro and serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pot",
+    "portuguese-cuisine",
+    "sattvic",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "refreshing-light-portuguese-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-light-portuguese-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:04:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "refreshing light",
+    "dishForm": "Curry"
+  }
+}
