@@ -1,0 +1,98 @@
+{
+  "title": "Roasted Turkish Black Beans Borek",
+  "description": "A Mediterranean dish featuring roasted black beans in a crispy borek pastry, perfect for a date night dinner. It is a reduced and aerated version of the traditional Turkish borek.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and roasted"
+    },
+    {
+      "name": "borek pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the borek pastry and cut it into triangles.",
+    "In a bowl, mix together the roasted black beans, chopped onion, minced garlic, olive oil, salt, and pepper.",
+    "Place a tablespoon of the black bean mixture onto the center of each pastry triangle.",
+    "Top the black bean mixture with a sprinkle of crumbled feta cheese.",
+    "Fold the pastry triangles into triangles and press the edges together to seal.",
+    "Brush the tops of the borek with olive oil and bake for 25 minutes.",
+    "Serve the borek hot and enjoy.",
+    "Let the borek cool for a few minutes before serving.",
+    "Garnish with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "borek",
+    "date-night",
+    "mediterranean",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "roasted-turkish-black-beans-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-turkish-black-beans-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:34:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "black beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "black beans",
+    "descriptor": "Roasted Savory",
+    "dishForm": "Borek"
+  }
+}
