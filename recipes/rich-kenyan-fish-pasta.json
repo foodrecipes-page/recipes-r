@@ -1,0 +1,104 @@
+{
+  "title": "Rich Kenyan Fish Pasta",
+  "description": "A rich and tender pescatarian dish featuring pappardelle pasta, sous-vide cooked fish, and a blend of Kenyan spices, perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "tilapia fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the tilapia fillets with salt, black pepper, and kenyan spice blend.",
+    "Place the tilapia fillets in a sous-vide bag and seal.",
+    "Cook the tilapia in the sous-vide machine for 30 minutes.",
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the cherry tomatoes to the skillet and cook until they release their juices.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Drain the cooked pappardelle pasta and add it to the skillet, tossing to combine with the tomato sauce.",
+    "To serve, place a cooked tilapia fillet on top of the pasta and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "kenyan-cuisine",
+    "pasta-dish",
+    "pescatarian",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-kenyan-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-kenyan-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:28:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Rich Tender",
+    "dishForm": "Pasta"
+  }
+}
