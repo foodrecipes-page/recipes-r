@@ -1,0 +1,101 @@
+{
+  "title": "Rich Mediterranean Steak Skewers",
+  "description": "A jammy, fluffy Mediterranean dish perfect for a date night, featuring tender skirt steak skewered and glazed with a luscious date-lavender sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak cubes",
+      "amount": "450g",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "date paste",
+      "amount": "3 tbsp",
+      "notes": "blended pitted dates with water"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "wooden skewers, soaked 30 minutes",
+      "amount": "10 skewers"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat.",
+    "In a bowl, whisk together olive oil, lemon juice, date paste, mustard, minced garlic, oregano, salt, and pepper until well blended.",
+    "Toss the steak cubes in the glaze, ensuring each piece is coated; let marinate for 10 minutes.",
+    "Thread the marinated steak onto soaked wooden skewers, leaving a small gap between pieces.",
+    "Place the skewers on the preheated grill and cook for 3-4 minutes on each side for medium-rare, brushing additional glaze while turning.",
+    "Remove the skewers and let them rest for 5 minutes before serving.",
+    "Sprinkle fresh oregano or parsley over the finished skewers for a burst of color.",
+    "Serve immediately with a side of couscous or a fresh green salad.",
+    "For a truly jammy finish, serve with extra glaze on the side.",
+    "Enjoy your rich Mediterranean steak skewers on a cozy date night."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "glaze",
+    "mediterranean",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 23,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "rich-mediterranean-steak-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-steak-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:25:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "skirty steak",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "steak",
+    "descriptor": "Rich",
+    "dishForm": "Skewers"
+  }
+}
