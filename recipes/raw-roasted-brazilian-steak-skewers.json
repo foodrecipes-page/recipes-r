@@ -1,0 +1,92 @@
+{
+  "title": "Raw Roasted Brazilian Steak Skewers",
+  "description": "A light and springy Brazilian dish featuring lean minced steak, this raw-friendly recipe is perfect for a quick dinner, with a salty flavor that will leave you wanting more. It is made by dehydrating the steak to create a roasted effect without cooking.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "raw",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced steak",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes before using.",
+    "In a large bowl, combine the minced steak, lime juice, olive oil, garlic powder, salt, black pepper, and paprika, and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Preheat a food dehydrator to 135 degrees Fahrenheit.",
+    "Thread the marinated steak onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers in the food dehydrator and dehydrate for 3 hours, or until the steak reaches the desired level of dryness.",
+    "Remove the skewers from the dehydrator and serve immediately.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 180,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "raw-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "raw-roasted-brazilian-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-roasted-brazilian-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:01:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "dehydrate",
+    "primaryIngredient": "lean minced steak",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "steak",
+    "descriptor": "Raw Roasted",
+    "dishForm": "Skewers"
+  }
+}
