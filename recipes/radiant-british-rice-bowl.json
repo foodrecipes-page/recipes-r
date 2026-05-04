@@ -1,0 +1,106 @@
+{
+  "title": "Radiant British Rice Bowl",
+  "description": "A vibrant British rice bowl featuring genmaicha-infused oil, sautéed kale, roasted chickpeas, and a poached egg, served in a Talavera plate.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian",
+    "meal-prep"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "genmaicha tea leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a small saucepan over medium heat until shimmering.",
+    "Add 1 tsp dried thyme and 1 tsp garlic powder to the oil and stir for 30 seconds to release aromas.",
+    "Remove the saucepan from heat and let the infused oil cool while you prepare the rest of the bowl.",
+    "In a medium saucepan, heat 1 cup cooked short‑grain rice until warmed through, about 5 minutes.",
+    "While the rice heats, sauté 1 cup kale in a skillet with a splash of water until wilted, about 3 minutes.",
+    "In a separate pan, toast 1/2 cup roasted chickpeas until crisp, 2 minutes.",
+    "Poach one large egg by bringing a pot of water to a gentle boil, adding a splash of vinegar, then gently sliding the egg in and cooking for 3–4 minutes.",
+    "Assemble the bowl: place warm rice at the bottom of a Talavera plate.",
+    "Top the rice with sautéed kale, toasted chickpeas, and the poached egg.",
+    "Drizzle the genmaicha‑infused oil over the bowl, sprinkle with lemon zest, parsley, salt and pepper, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kale",
+    "meal-prep",
+    "ovo-vegetarian",
+    "quick",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 20,
+    "carbs": 74,
+    "fat": 25
+  },
+  "slug": "radiant-british-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-british-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:16:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "genmaicha",
+    "diet": "ovo-vegetarian",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "rice",
+    "descriptor": "Radiant",
+    "dishForm": "Bowl"
+  }
+}
