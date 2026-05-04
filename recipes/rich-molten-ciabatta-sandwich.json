@@ -1,0 +1,74 @@
+{
+  "title": "Rich Molten Ciabatta Sandwich",
+  "description": "A rich and indulgent sandwich featuring ciabatta bread, lamination-puff, with a touch of shojin-friendly ingredients for a kid-friendly Mexican (Yucatecan) dish served in a donabe.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": 1
+    },
+    {
+      "name": "Lamination-puff",
+      "amount": 2
+    },
+    {
+      "name": "Shojin-friendly cheese or mild cheese substitute",
+      "amount": "a few slices"
+    },
+    {
+      "name": "Avocado mayonnaise",
+      "amount": "as needed"
+    },
+    {
+      "name": "Tomato salsa or guacamole",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe to medium-high heat.",
+    "Toast ciabatta slices until golden brown and slightly crispy on both sides.",
+    "Arrange lamination-puff between toasted ciabatta slices.",
+    "Top with shojin-friendly cheese or mild cheese substitute for melted goodness.",
+    "Spread avocado mayonnaise or use tomato salsa/guacamole as desired to enhance flavors.",
+    "Close the donabe and let it simmer until the sandwich is hot and melty on top.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ciabatta",
+    "kid-friendly",
+    "laminated-puff",
+    "mexican-yucatecan",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "rich-molten-ciabatta-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-ciabatta-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:04:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ciabatta",
+    "diet": "shojin",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Ciabatta",
+    "descriptor": "Rich Molten",
+    "dishForm": "Sandwich"
+  }
+}
