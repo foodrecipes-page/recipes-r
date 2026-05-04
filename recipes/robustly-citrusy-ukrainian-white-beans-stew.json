@@ -1,0 +1,107 @@
+{
+  "title": "Robustly Citrusy Ukrainian White Beans Stew",
+  "description": "A hearty and citrusy Ukrainian stew made with dried white beans, perfect for meal prep. This Whole30-friendly dish is juicy and flavorful.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as navy or cannellini beans"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot.",
+    "Add the chopped onion, minced garlic, peeled and chopped carrots, and chopped celery to the pot.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer for 45 minutes, or until the beans are tender.",
+    "Stir in the lemon juice, olive oil, sea salt, and black pepper.",
+    "Continue to simmer for another 10 minutes, or until the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "vegetarian",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "robustly-citrusy-ukrainian-white-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-citrusy-ukrainian-white-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:40:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "dried white beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "white beans",
+    "descriptor": "Robustly Citrusy",
+    "dishForm": "Stew"
+  }
+}
