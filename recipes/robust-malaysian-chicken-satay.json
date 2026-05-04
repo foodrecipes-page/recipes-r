@@ -1,0 +1,97 @@
+{
+  "title": "Robust Malaysian Chicken Satay",
+  "description": "A crowd-pleasing Malaysian dish featuring chicken marinated in a mixture of ground coriander and other spices, then grilled to perfection on a tava-griddle, served with a side of nutty and glassy-jelly peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Combine chicken breast, ground coriander, coconut milk, salt, black pepper, garlic, and ginger in a large bowl and mix well to coat the chicken.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to marinate.",
+    "Preheat a tava-griddle over medium-high heat and brush with a small amount of oil to prevent sticking.",
+    "Thread the marinated chicken strips onto skewers, if desired, and cook on the preheated tava-griddle for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, combine peanut butter, lime juice, and a pinch of salt in a small saucepan and cook over low heat, stirring constantly, until smooth and glassy.",
+    "Serve the grilled chicken satay hot with the peanut sauce for dipping.",
+    "Garnish with chopped peanuts and fresh cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "peanut-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robust-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:44:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "ground coriander",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Glassy",
+    "dishForm": "Satay"
+  }
+}
