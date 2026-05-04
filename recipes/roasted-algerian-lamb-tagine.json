@@ -1,0 +1,90 @@
+{
+  "title": "Roasted Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring lamb marinated in a mixture of miso and spices, roasted to perfection in a ti-leaf wrap, perfect for a brunch gathering",
+  "cuisine": "Algerian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, garlic powder, salt, black pepper, and paprika.",
+    "Add the lamb shoulder to the bowl and coat with the miso mixture, making sure to cover all surfaces.",
+    "Drizzle the olive oil over the lamb and massage it into the meat.",
+    "Wrap the lamb in ti leaves, making sure to seal the edges securely.",
+    "Place the wrapped lamb on a baking sheet and roast for 20 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Serve the lamb with the roasted ti leaves and any accumulated juices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "brunch-ideas",
+    "lamb-recipes",
+    "roasted-meats",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "roasted-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:11:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "garlic powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Roasted Miso",
+    "dishForm": "Tagine"
+  }
+}
