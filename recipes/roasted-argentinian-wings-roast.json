@@ -1,0 +1,105 @@
+{
+  "title": "Roasted Argentinian Wings Roast",
+  "description": "Nutty, snappy midnight craving Argentinian dish featuring chicken wings, salt-bake, low-sodium-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 lb",
+      "notes": "about 32 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, whisk olive oil, smoked paprika, cumin, garlic powder, dried oregano, salt, pepper, and lime juice until combined.",
+    "Pat chicken wings dry with paper towels.",
+    "Toss wings in the spice mixture until evenly coated.",
+    "Arrange wings in a single layer on a rimmed baking sheet lined with parchment.",
+    "Roast for 35 minutes, turning once at 18 minutes, until skin is crisp and wings reach 165°F internal temperature.",
+    "While wings finish roasting, toast almonds in a dry skillet over medium heat until fragrant, about 3 minutes.",
+    "Remove wings from oven, sprinkle with toasted almonds and chopped parsley.",
+    "Serve immediately with a side of lemon wedges if desired.",
+    "Enjoy the nutty, snappy midnight craving dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "low-sodium",
+    "midnight-craving",
+    "nutty",
+    "one-pan",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 2100,
+    "protein": 240,
+    "carbs": 3,
+    "fat": 131
+  },
+  "slug": "roasted-argentinian-wings-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-argentinian-wings-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:08:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "salt-bake",
+    "primaryIngredient": "chicken wings",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "wings",
+    "descriptor": "Roasted",
+    "dishForm": "Roast"
+  }
+}

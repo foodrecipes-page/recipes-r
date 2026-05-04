@@ -1,0 +1,119 @@
+{
+  "title": "Rich Smoky French Beef Fillet Quiche",
+  "description": "A silky, high-protein quiche with seared beef fillet, smoky paprika, and a deglaze fond of red wine, perfect for a weeknight French dinner.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry sheet",
+      "amount": "250g",
+      "notes": "pre-made crust"
+    },
+    {
+      "name": "beef fillet",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C and roll out puff pastry onto a 9-inch pie dish, trimming excess.",
+    "In a skillet, heat 1 tbsp oil over medium-high, sear beef slices until browned, remove and set aside.",
+    "In the same skillet, add remaining oil, onion, and garlic; sauté until translucent, about 5 minutes.",
+    "Stir in smoked paprika, cook 1 minute, then deglaze with red wine, scraping up the fond and reducing by half.",
+    "Spread the onion mixture over the pastry, then arrange the seared beef on top.",
+    "In a bowl, whisk eggs, heavy cream, salt, and pepper until well blended.",
+    "Pour the custard over the beef, then sprinkle grated gruyere evenly on top.",
+    "Bake for 35 minutes until the custard is set and the top is golden brown.",
+    "Remove from oven and let the quiche cool for 10 minutes before slicing.",
+    "Garnish with fresh thyme sprigs and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "gourmet",
+    "high-protein",
+    "quiche",
+    "quick",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "rich-smoky-french-beef-fillet-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-french-beef-fillet-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:08:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "beef fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Quiche"
+  }
+}
