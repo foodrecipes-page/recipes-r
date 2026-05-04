@@ -1,0 +1,101 @@
+{
+  "title": "Rich Molten Venezuelan Sausages Skewers",
+  "description": "A rich and flavorful Venezuelan dish featuring sausages, glaze, and a show-off presentation, perfect for special occasions, this recipe is also shojin-friendly as it does not contain any animal by-products in the glaze or seasonings, making it suitable for a variety of dietary preferences.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venezuelan sausages",
+      "amount": "12",
+      "notes": "preferably with a high meat content"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches a safe internal temperature of 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, brown sugar, soy sauce, apple cider vinegar, smoked paprika, salt, and black pepper to make the glaze.",
+    "Thread a sausage onto each wooden skewer, leaving a small space at the top.",
+    "Brush the glaze all over the sausages, making sure they are fully coated.",
+    "Place the skewers on the grill and cook for 5 minutes per side, or until the sausages are cooked through and slightly charred.",
+    "Remove the skewers from the grill and let them rest for a few minutes.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "To ensure food safety, use a food thermometer to check the internal temperature of the sausages, which should reach 160 degrees Fahrenheit.",
+    "Let the skewers cool for a few minutes before serving to allow the juices to redistribute.",
+    "For an added touch, serve with a side of grilled or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sausages",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-molten-venezuelan-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-venezuelan-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:26:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "sausages",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sausages",
+    "descriptor": "Rich molten",
+    "dishForm": "Skewers"
+  }
+}
