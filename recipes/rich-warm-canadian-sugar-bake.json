@@ -1,0 +1,91 @@
+{
+  "title": "maple sugar oatmeal bake",
+  "description": "a warm, comforting, and comforting breakfast dish featuring the sweetness of maple syrup and the earthiness of oats.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "gluten-free oats"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "vegan-friendly"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 fahrenheit.",
+    "in a large bowl, combine the oats, sugar, and spices.",
+    "in a separate bowl, whisk together the non-dairy milk and vanilla extract.",
+    "pour the wet ingredients over the dry ingredients and stir until well combined.",
+    "transfer the mixture to a 9x9 inch baking dish.",
+    "bake for 35-40 minutes, or until the top is golden brown and the oats are tender.",
+    "remove from the oven and let cool for a few minutes.",
+    "serve warm, topped with additional maple syrup and non-dairy milk if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "maple",
+    "oatmeal",
+    "sugar",
+    "vegan",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "rich-warm-canadian-sugar-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-warm-canadian-sugar-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:26:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "granulated sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sugar",
+    "descriptor": "rich warm",
+    "dishForm": "Bake"
+  }
+}
