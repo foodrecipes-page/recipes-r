@@ -1,0 +1,96 @@
+{
+  "title": "Romantic Venezuelan Fruit Empanadas",
+  "description": "A sweet and tender pastry filled with a mixture of fruits and floral notes, perfect for a romantic evening, this dish is vegan friendly and features a shortcrust pastry and nimono simmer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for shortcrust pastry"
+    },
+    {
+      "name": "cold unsalted vegan butter",
+      "amount": "1 cup",
+      "notes": "for shortcrust pastry"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed fruits",
+      "amount": "2 cups",
+      "notes": "such as strawberries, blueberries, and raspberries"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons",
+      "notes": "for floral flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour and cold vegan butter to make the shortcrust pastry.",
+    "Gradually add the water to the mixing bowl and mix until a dough forms.",
+    "Roll out the dough and cut out circles of pastry.",
+    "In a separate bowl, mix the granulated sugar, rose water, and lemon juice.",
+    "Add the mixed fruits to the bowl and toss to coat with the sugar mixture.",
+    "Place a spoonful of the fruit mixture onto one half of each pastry circle.",
+    "Fold the other half of the pastry circle over the filling to form a half moon shape and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with cornstarch.",
+    "Place the empanadas on a baking sheet and bake for 25 minutes.",
+    "Remove the empanadas from the oven and let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fruit-based",
+    "romantic",
+    "south-american",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "romantic-venezuelan-fruit-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-venezuelan-fruit-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:28:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fruits",
+    "descriptor": "Romantic Bouncy",
+    "dishForm": "Empanadas"
+  }
+}
