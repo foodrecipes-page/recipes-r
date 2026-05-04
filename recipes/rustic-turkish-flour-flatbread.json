@@ -1,0 +1,81 @@
+{
+  "title": "Rustic Turkish Flour Flatbread",
+  "description": "This sour, crispy flatbread uses strong wholemeal flour and a brine‑wet dough, perfect for a lazy Sunday and dairy‑free friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "vegan",
+    "wholemeal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "500g"
+    },
+    {
+      "name": "water",
+      "amount": "350ml"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk water, salt, and olive oil until mixture is slightly frothy.",
+    "Gradually sift wholemeal flour into the bowl, stirring until a shaggy dough forms.",
+    "Knead the dough on a floured surface for about five minutes until it becomes smooth and elastic.",
+    "Shape the dough into a round ball and place it on a parchment‑lined tray.",
+    "Let the dough rest at room temperature, covered with a damp cloth, for 30 minutes to allow the gluten to relax.",
+    "Preheat a cast‑iron skillet over medium‑high heat until hot and add a small splash of oil.",
+    "Press the rested dough into a thin disc, about 1/4 inch thick, and transfer it to the skillet.",
+    "Cook for 3 to 4 minutes on each side until golden and crispy, then remove, let cool, and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "dairy-free",
+    "flatbread",
+    "lazy-sunday",
+    "quick",
+    "wholemeal"
+  ],
+  "nutrition": {
+    "calories": 1790,
+    "protein": 63,
+    "carbs": 330,
+    "fat": 25
+  },
+  "slug": "rustic-turkish-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-turkish-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:05:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "flour",
+    "descriptor": "Rustic",
+    "dishForm": "Flatbread"
+  }
+}
