@@ -1,0 +1,109 @@
+{
+  "title": "Roasted Spicy Canadian Borlotti Beans Stew",
+  "description": "A hearty weeknight stew packed with spicy roasted flavors, perfect for a cold Canadian evening.",
+  "cuisine": "canadian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 can (28 oz)"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the borlotti beans and drain well.",
+    "Drizzle the olive oil over the borlotti beans and roast in the preheated oven for 20 minutes.",
+    "Chop the carrots, red bell pepper, and onion, and sauté in a large pot over medium heat until tender.",
+    "Add the garlic, cayenne pepper, cumin, smoked paprika, salt, and pepper to the pot and stir for 1 minute.",
+    "Add the roasted borlotti beans, chicken broth, and chopped carrots, bell pepper, and onion to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the stew until slightly aerated.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "stew",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-spicy-canadian-borlotti-beans-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-spicy-canadian-borlotti-beans-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:29:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "borlotti beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "roasted spicy",
+    "dishForm": "stew"
+  }
+}
