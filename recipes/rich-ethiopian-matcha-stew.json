@@ -1,0 +1,113 @@
+{
+  "title": "Rich Ethiopian Matcha Stew",
+  "description": "A sweet, chewy, paleo-friendly stew that blends fragrant Ethiopian spices with earthy matcha, simmered with sweet potatoes and coconut milk for a creamy, velvety finish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 medium (200g)",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (400ml)",
+      "notes": "full fat"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tbsp (15g)",
+      "notes": "matcha for flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups (480ml)",
+      "notes": "lightly salted"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "paleo sweetener"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat and sauté the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic and ginger and cook for another 30 seconds until fragrant.",
+    "Stir in the berbere spice and ground cinnamon, allowing them to toast briefly, about 1 minute.",
+    "Pour in the chicken broth and coconut milk, then bring the mixture to a gentle simmer.",
+    "Add the diced sweet potatoes and matcha powder, stirring until the matcha has dissolved completely.",
+    "Reduce the heat to low, cover, and let the stew simmer for 20 minutes, or until the sweet potatoes are tender.",
+    "Stir in the honey and season with salt to taste, adjusting the consistency if needed.",
+    "Serve the stew hot, optionally garnished with fresh cilantro or chopped nuts for extra crunch.",
+    "Enjoy this comforting, high-fat Ethiopian matcha stew that balances sweet, spice, and earthy flavors in a single pot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethnic",
+    "high-fat",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1700,
+    "protein": 25,
+    "carbs": 102,
+    "fat": 108
+  },
+  "slug": "rich-ethiopian-matcha-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-ethiopian-matcha-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:24:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "score-fat",
+    "primaryIngredient": "matcha",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Matcha",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
