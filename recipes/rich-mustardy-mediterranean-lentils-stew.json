@@ -1,0 +1,111 @@
+{
+  "title": "Rich Mustardy Mediterranean Lentils Stew",
+  "description": "A creamy, mustard-tinged lentil stew that pairs the earthy sweetness of green and red lentils with kombu-infused broth and Greek yogurt for a velvety finish. Ideal for a solo dinner that satisfies Mediterranean flavors with an Ayurvedic twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "kombu powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried herb mix (oregano & thyme)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the green and red lentils under cold water until the water runs clear.",
+    "Heat the olive oil in a Dutch oven over medium heat and sauté the chopped onion until translucent, about 5 minutes.",
+    "Add the diced carrot and cook for an additional 3 minutes, stirring occasionally.",
+    "Stir in the tomato paste and kombu powder, cooking for 1 minute to bloom the flavors.",
+    "Add the lentils, vegetable broth, dried herb mix, salt, and pepper, then bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover the Dutch oven, and simmer until the lentils are tender, about 25 minutes.",
+    "In the last 10 minutes of cooking, stir in the lemon juice and add the Greek yogurt, whisking to incorporate fully.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Serve the stew hot straight from the Dutch oven.",
+    "Enjoy a comforting, mustardy Mediterranean lentil stew that’s ready in under an hour."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "mediterranean",
+    "mustard",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 67,
+    "fat": 9
+  },
+  "slug": "rich-mustardy-mediterranean-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mustardy-mediterranean-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:06:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "green red lentils",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich Mustardy",
+    "dishForm": "Stew"
+  }
+}
