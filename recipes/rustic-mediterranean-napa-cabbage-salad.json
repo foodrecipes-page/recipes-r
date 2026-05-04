@@ -1,0 +1,111 @@
+{
+  "title": "Rustic Mediterranean Napa Cabbage Salad",
+  "description": "A zesty, crunchy weeknight salad with napa cabbage, feta, olives, and lemon-oregano dressing.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "400g"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "20g",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Shred the napa cabbage into thin strips using a knife or mandoline and place in a large bowl.",
+    "Dice the cucumber, red bell pepper, and halve the cherry tomatoes, then add them to the cabbage.",
+    "Slice the Kalamata olives and crumble the feta cheese, then combine all vegetables in the bowl.",
+    "In a small bowl whisk together olive oil, lemon juice, dried oregano, salt, and pepper to make the dressing.",
+    "Pour the dressing over the salad and toss gently until all ingredients are evenly coated.",
+    "Sprinkle toasted pine nuts on top for added crunch.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Divide the salad into four portions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "no-garlic-friendly",
+    "no-onion",
+    "quick",
+    "salad",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 15
+  },
+  "slug": "rustic-mediterranean-napa-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-mediterranean-napa-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:48:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "napa cabbage",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Rustic",
+    "dishForm": "Salad"
+  }
+}
