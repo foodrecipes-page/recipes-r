@@ -1,0 +1,108 @@
+{
+  "title": "Rich Malaysian Chicken Curry",
+  "description": "A fragrant, herbaceous curry infused with saffron and coconut milk, served in a stone bowl for a hearty meal-prep option.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Saffron strands",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a stone bowl dolsot over medium heat until shimmering.",
+    "Add the sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and ginger; cook for 1 minute until fragrant.",
+    "Sprinkle the turmeric, coriander, cumin, and chili flakes, stirring to coat the aromatics for 30 seconds.",
+    "Pour in the diced chicken, tossing to combine and letting it brown on all sides for 4 minutes.",
+    "Add the coconut milk, saffron strands, and low-sodium salt, then bring the mixture to a gentle simmer.",
+    "Reduce the heat to low, cover the dolsot, and let the curry cook for 15 minutes, allowing the flavors to meld.",
+    "Stir in the lime juice, taste, and adjust seasoning if needed.",
+    "Transfer the curry to a serving dish and garnish with fresh coriander leaves.",
+    "Serve hot with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavor-packed",
+    "herbal",
+    "low-sodium",
+    "malaysian-curry",
+    "meal-prep",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 17
+  },
+  "slug": "rich-malaysian-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malaysian-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:09:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "saffron",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich",
+    "dishForm": "Curry"
+  }
+}
