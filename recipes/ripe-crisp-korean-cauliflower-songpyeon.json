@@ -1,0 +1,102 @@
+{
+  "title": "Ripe Crisp Korean Cauliflower Songpyeon",
+  "description": "A winey, crisp keto‑friendly snack that pairs Thai chili jam with fermented kimchi in steamed cauliflower dumplings.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "amount": "1 head"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented kimchi, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit and line a baking sheet with parchment.",
+    "Steam cauliflower florets until just tender, about 5 minutes; let cool.",
+    "In a bowl combine almond flour, ground flaxseed, salt, pepper, and rice vinegar, then whisk in egg to form a dough.",
+    "Stir in chopped kimchi and Thai chili jam until evenly distributed.",
+    "Roll the dough into small balls and wrap each around a cauliflower floret, forming a dumpling shape.",
+    "Brush the songpyeon with olive oil and place on the prepared baking sheet.",
+    "Bake for 15 minutes, turning once, until golden and crisp on the edges.",
+    "While baking, toast sesame seeds in a skillet over medium heat until fragrant, about 2 minutes.",
+    "Remove songpyeon from oven, drizzle with a splash of rice vinegar, and sprinkle toasted sesame seeds on top.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "keto-friendly",
+    "korean",
+    "lazy-sunday",
+    "low-carb",
+    "songpyeon",
+    "thai-chili",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "ripe-crisp-korean-cauliflower-songpyeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ripe-crisp-korean-cauliflower-songpyeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:18:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Ripe Crisp",
+    "dishForm": "Songpyeon"
+  }
+}
