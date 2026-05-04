@@ -1,0 +1,96 @@
+{
+  "title": "Raw Robust Italian Prawns Trofie",
+  "description": "A fermented, snappy Italian dish featuring raw tiger prawns, long-fermentation-dough, and low-glycemic-friendly ingredients, served in a banana leaf vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "made with ancient grains"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the banana leaves and cut them into large squares.",
+    "In a large bowl, mix together the long-fermentation-dough, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the raw tiger prawns to the bowl and toss to coat with the dough mixture.",
+    "Spoon the prawn mixture onto the center of each banana leaf square.",
+    "Fold the banana leaves over the filling to form a trofie shape and secure with a toothpick.",
+    "Place the trofie on a serving plate and serve immediately.",
+    "Garnish with additional lemon wedges and garlic if desired.",
+    "Discard the banana leaves after serving.",
+    "Refrigerate any leftovers promptly and consume within a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "italian-cuisine",
+    "low-glycemic",
+    "raw-food",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "raw-robust-italian-prawns-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-robust-italian-prawns-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:41:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "prawns",
+    "descriptor": "Raw Robust",
+    "dishForm": "Trofie"
+  }
+}
