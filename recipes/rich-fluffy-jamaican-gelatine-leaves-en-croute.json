@@ -1,0 +1,97 @@
+{
+  "title": "Jamaican Gelatine Leaves En-Croute",
+  "description": "A rich, fluffy, and comforting Jamaican dish featuring gelatine leaves, perfect for a quick lacto-vegetarian meal or snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gelatine leaves",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Gruel",
+      "amount": "1 cup",
+      "notes": "made from cornstarch and water"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat as preferred"
+    },
+    {
+      "name": "Spiced rum",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small saucepan, combine the gruel and water and cook until thickened, about 5 minutes.",
+    "In a separate saucepan, combine the coconut milk, gruel mixture, rum, brown sugar, butter, Jamaican curry powder, sea salt, and black pepper.",
+    "Transfer the mixture to a baking dish and sprinkle with gelatine leaves.",
+    "Cover with foil and cook for 15 minutes or until the gelatine leaves are soft.",
+    "After 15 minutes, carefully remove the foil and continue baking for an additional 5-10 minutes or until a light golden brown.",
+    "Let cool and serve in individual portions.",
+    "Note: Do not overbake as this may cause the gelatine to break down.",
+    "Alternatively, if you can not get gelatine leaves, you can use traditional gelatin powder as a substitute.",
+    "If using gelatin powder, follow the package instructions for proper mixing with hot water before using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gelatine",
+    "jamaican",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick-fix",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "rich-fluffy-jamaican-gelatine-leaves-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-jamaican-gelatine-leaves-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "gelatine leaves",
+    "descriptor": "rich fluffy",
+    "dishForm": "en-croute"
+  }
+}

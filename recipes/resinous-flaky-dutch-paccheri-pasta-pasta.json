@@ -1,0 +1,109 @@
+{
+  "title": "resinous flaky dutch paccheri pasta",
+  "description": "a monsoon-inspired dutch dish featuring paccheri pasta, dehydrated to perfection, no onion or garlic in sight",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "sunflower seed butter",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "dried dates",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "5ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "1000ml",
+      "notes": "to hydrate the pasta"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1g",
+      "notes": "adds a resinous effect"
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "bring the water to a boil in a large saucepan",
+    "add paccheri pasta and cook for 8 minutes, or until slightly undercooked",
+    "drain the pasta and set aside to cool, with a clean tea towel to absorb excess moisture",
+    "dehydrate the pasta in a low temperature oven (150c) for 6 hours, or until crispy",
+    "in a blender or food processor, combine sunflower seed butter, coconut milk, dried dates, lemon juice, and turmeric powder",
+    "blend until smooth and creamy, adding a little water if necessary to achieve a sauce consistency",
+    "in a large pan, combine the sauce and a pinch of salt, and cook over low heat, stirring continuously, for 10 minutes",
+    "combine the cooked paccheri pasta and sauce in a large bowl, and toss until well coated",
+    "transfer the pasta to a serving dish, and garnish with chopped fresh thyme",
+    "serve warm or at room temperature"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "high-fiber",
+    "monsoon-foods",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 16,
+    "carbs": 90,
+    "fat": 54
+  },
+  "slug": "resinous-flaky-dutch-paccheri-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-flaky-dutch-paccheri-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "paccheri pasta",
+    "descriptor": "resinous flaky",
+    "dishForm": "Pasta"
+  }
+}

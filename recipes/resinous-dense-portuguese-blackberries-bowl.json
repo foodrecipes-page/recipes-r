@@ -1,0 +1,109 @@
+{
+  "title": "resinous dense portuguese blackberries bowl",
+  "description": "a sweet, comforting dessert featuring the rich flavors of portugal in every bite. made with fresh blackberries, sweet candies, and creamy milk, this dish is a delight for the senses.",
+  "cuisine": "portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh blackberries",
+      "amount": "2 cups",
+      "notes": "fresh from the market, or frozen if out of season"
+    },
+    {
+      "name": "golden caramel candies",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces for easier mixing"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "full-fat for the richest flavor"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "straight from the hive for a hint of floral sweetness"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "dried, unbleached, and unenriched for a delicate crumb"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "double-acting for a light and fluffy texture"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "pure sea salt for a touch of savory depth"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened to room temperature for easy mixing"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "unsweetened and unsulphured for a hint of tropical flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a blender or food processor, combine the blackberries, honey, and 1 tablespoon of the softened butter. blend until smooth and well combined.",
+    "in a separate bowl, whisk together the flour, baking powder, and salt. add in the remaining 1 tablespoon of softened butter and mix until the mixture resembles coarse crumbs.",
+    "fold the dry ingredients into the wet ingredients until just combined, being careful not to overmix.",
+    "transfer the batter to a 6-inch mason jar or ramekin and smooth the top.",
+    "place the jar or ramekin in a large baking dish and add enough hot water to come halfway up the sides.",
+    "bake for 25 minutes, or until the edges are golden brown and the center is set.",
+    "remove from the oven and let cool for 5 minutes before serving.",
+    "invert the jar or ramekin onto a plate and serve warm, topped with chopped caramel candies and shredded coconut, if desired.",
+    "to make the caramel sauce, combine the golden caramel candies and 1 tablespoon of whole milk in a small saucepan over low heat. stir until the candies have melted and the mixture is smooth.",
+    "remove from the heat and let cool slightly before drizzling over the dessert.",
+    "to make the whipped cream, combine the whole milk and 1 tablespoon of unsalted butter in a blender or food processor. blend until smooth and well combined. add in 1 tablespoon of honey and blend until stiff peaks form.",
+    "transfer the whipped cream to a piping bag or a zip-top plastic bag and pipe onto the dessert, if desired.",
+    "to finish, sprinkle the top with shredded coconut and drizzle with caramel sauce, if desired.",
+    "serve immediately and enjoy!",
+    "note: the baking time may vary depending on the size and shape of your mason jar or ramekin. be sure to check the dessert frequently to avoid overcooking."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "comfort-food",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "resinous-dense-portuguese-blackberries-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-dense-portuguese-blackberries-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "blackberries",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "blackberries",
+    "descriptor": "resinous dense",
+    "dishForm": "bowl"
+  }
+}
