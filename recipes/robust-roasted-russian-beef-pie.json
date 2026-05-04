@@ -1,0 +1,99 @@
+{
+  "title": "Robust Roasted Russian Beef Pie",
+  "description": "A hearty, flexitarian-friendly pie featuring roasted Russian beef in a white flour crust, served in an agave leaf vessel. This post-workout dish is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "2 cups",
+      "notes": "all purpose"
+    },
+    {
+      "name": "Russian beef",
+      "amount": "1 pound",
+      "notes": "roasted"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for vessel"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine white flour, salt, and black pepper.",
+    "Gradually add beef broth and olive oil to the bowl, mixing until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Spoon the roasted Russian beef, mushrooms, and onions into the center of the dough.",
+    "Fold the dough over the filling to form a pie crust.",
+    "Place the pie in an agave leaf vessel.",
+    "Bake the pie for 45 minutes, or until the crust is golden brown.",
+    "Remove the pie from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "hearty-dish",
+    "post-workout",
+    "russian-cuisine",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "robust-roasted-russian-beef-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-russian-beef-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:34:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "white flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "robust roasted",
+    "dishForm": "Pie"
+  }
+}
