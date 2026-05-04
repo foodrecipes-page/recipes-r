@@ -1,0 +1,99 @@
+{
+  "title": "Roasted Charred Middle Eastern Lamb Kebabs",
+  "description": "A flavorful and healthy Middle Eastern dish featuring charred lamb kebabs, served with white sauerkraut and a side of rest, perfect for a low-calorie meal",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, paprika, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the lamb kebabs in the preheated oven for 20 minutes, or until charred and cooked through",
+    "While the lamb is cooking, heat the white sauerkraut in a saucepan over medium heat",
+    "Serve the lamb kebabs with the heated sauerkraut and a side of rest",
+    "Garnish with fresh parsley or cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "low-calorie",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "roasted-charred-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-charred-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:17:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "middle eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "roasted charred",
+    "dishForm": "Kebabs"
+  }
+}
