@@ -1,0 +1,98 @@
+{
+  "title": "Roasted Algerian Baby Aubergine Grill",
+  "description": "A light and pungent Algerian dish featuring roasted baby aubergines, ideal for a festive meal. This recipe is Jain-friendly and suitable for a quick weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 baby aubergines",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rinse the baby aubergines and pat them dry with paper towels.",
+    "Place the aubergines on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the aubergines and sprinkle with garlic, cumin, smoked paprika, salt, and black pepper.",
+    "Roast the aubergines in the preheated oven for 20 minutes or until tender and lightly charred.",
+    "Remove the aubergines from the oven and garnish with fresh parsley.",
+    "Serve hot, either on its own or as part of a larger Algerian-inspired meal.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: serve with couscous or other Algerian sides for a more filling meal.",
+    "Optional: add a dollop of yogurt or tahini for an extra burst of flavor.",
+    "Optional: serve with a side of preserved lemon for a tangy contrast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "grilled",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "roasted-algerian-baby-aubergine-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-algerian-baby-aubergine-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "baby aubergine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "roasted",
+    "dishForm": "Grill"
+  }
+}

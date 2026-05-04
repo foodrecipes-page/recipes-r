@@ -1,0 +1,74 @@
+{
+  "title": "Argentinian Cannellini Bean Empanadas",
+  "description": "A savory empanada filled with cannellini beans, perfect for a crowd-pleasing main course. These empanadas are low-carb friendly and can be served as a snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cannellini beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, cheddar cheese, and egg in a large bowl, mixing until a dough forms."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-free",
+    "empanadas",
+    "low-carb",
+    "main-course",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "resting-juicy-argentinian-beans-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resting-juicy-argentinian-beans-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beans",
+    "descriptor": "Resting, Juicy",
+    "dishForm": "Empanadas"
+  }
+}
