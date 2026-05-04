@@ -1,0 +1,108 @@
+{
+  "title": "Rugged Spanish Tuna Cocido Madrileno",
+  "description": "A spicy, shaggy, show-off Spanish stew featuring tuna, chickpeas, and a canola oil kick.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned tuna in oil",
+      "amount": "200g"
+    },
+    {
+      "name": "canned chickpeas, drained",
+      "amount": "200g"
+    },
+    {
+      "name": "potato, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in diced potato and sliced carrot, cook for 5 minutes.",
+    "Sprinkle red pepper flakes and smoked paprika, stir to coat vegetables.",
+    "Add drained chickpeas and canned tuna with its oil, mix well.",
+    "Pour in enough water to cover the ingredients, add bay leaf and salt, and bring to a simmer.",
+    "Simmer uncovered for 30 minutes, stirring occasionally, until vegetables are tender.",
+    "Taste and adjust seasoning with more salt if needed.",
+    "Remove bay leaf, sprinkle chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canola-oil",
+    "cocido-madrileno",
+    "hearty",
+    "pescatarian-friendly",
+    "show-off",
+    "spanish-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "rugged-spanish-tuna-cocido-madrileno",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rugged-spanish-tuna-cocido-madrileno",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:44:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "canola oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tuna",
+    "descriptor": "Rugged",
+    "dishForm": "Cocido Madrileno"
+  }
+}
