@@ -1,0 +1,97 @@
+{
+  "title": "Roasted Uruguayan Kale Empanadas",
+  "description": "A traditional Uruguayan dish featuring roasted kale and flaky pastry, perfect for a solo dinner, and is egg-free friendly. This recipe reduces the complexity of traditional empanadas while maintaining the authentic flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the kale with olive oil, salt, and black pepper until the kale is evenly coated.",
+    "Spread the kale mixture on a baking sheet and roast in the oven for 15 minutes, or until the kale is tender and slightly caramelized.",
+    "In a large skillet, saute the sliced onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the roasted kale to the skillet and stir to combine with the onion and garlic.",
+    "Roll out the empanada pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon about 1/4 cup of the kale mixture onto the center of each pastry circle.",
+    "Brush the edges of the pastry with water and fold the pastry in half to form a half-moon shape, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "latin-american",
+    "one-pan",
+    "roasted-vegetables",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasted-uruguayan-kale-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-uruguayan-kale-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:45:27Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "kale",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kale",
+    "descriptor": "Roasted flaky",
+    "dishForm": "Empanadas"
+  }
+}
