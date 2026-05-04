@@ -1,0 +1,104 @@
+{
+  "title": "Roasted Venezuelan Pistachio Stew",
+  "description": "A spicy, crunchy stew that blends roasted pistachios with fresh tomatoes, garlic, and herbs for a vibrant date-night dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachios",
+      "amount": "1 cup ground pistachios (roasted)",
+      "notes": "roasted before cooking"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 cup crushed tomatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1 jalapeno pepper, seeded and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups low-sodium vegetable broth"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon fresh lime juice"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tablespoons chopped cilantro (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 F (200 C) and spread raw pistachios on a baking sheet; roast 5 minutes, stirring once, then remove and let cool.",
+    "In a large pot, heat olive oil over medium heat.",
+    "Add diced onion and minced garlic; saute until onion is translucent, about 4 minutes.",
+    "Stir in minced jalapeno, ground cumin, and smoked paprika; cook 1 minute until fragrant.",
+    "Pour in crushed tomatoes and vegetable broth; bring to a simmer.",
+    "Add the roasted pistachios to the pot; stir to combine.",
+    "Reduce heat to low and let the stew simmer for 15 minutes, stirring occasionally.",
+    "Stir in fresh lime juice; season with salt and pepper to taste.",
+    "Ladle into bowls and garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 171,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "roasted-venezuelan-pistachio-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-venezuelan-pistachio-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:32:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "ground pistachios",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pistachios",
+    "descriptor": "Roasted",
+    "dishForm": "Stew"
+  }
+}

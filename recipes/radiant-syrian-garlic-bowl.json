@@ -1,0 +1,107 @@
+{
+  "title": "Radiant Syrian Garlic Bowl",
+  "description": "A bright, umami-packed, keto-friendly bowl featuring roasted garlic, cauliflower rice, and fresh greens, served in a donabe.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic bulb",
+      "amount": "1 bulb",
+      "notes": "whole, cloves peeled when cooked"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup halved"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/4 cup roasted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a donabe over medium heat and melt the butter with the olive oil until foamy.",
+    "Add the whole garlic bulb and sauté until fragrant and lightly browned, about 2 minutes.",
+    "Stir in the cauliflower rice, coating it in the butter-garlic mixture, and cook, stirring, until the rice is tender and lightly toasted, about 4 minutes.",
+    "Remove the donabe from heat and let the mixture cool slightly, then transfer the cauliflower rice to a bowl.",
+    "In the same donabe, add the shredded romaine lettuce and cook for 1 minute, just until wilted, then transfer to the bowl.",
+    "Toss the lettuce with cherry tomatoes, pumpkin seeds, crumbled feta, parsley, lemon juice, salt, and pepper until evenly coated.",
+    "Spoon the mixture into a serving bowl, ensuring a layered presentation of garlic-infused rice and fresh greens.",
+    "Garnish with an extra sprinkle of feta and a drizzle of olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "donabe",
+    "fresh",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 366,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 29
+  },
+  "slug": "radiant-syrian-garlic-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-syrian-garlic-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:31:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "garlic bulb",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Radiant",
+    "dishForm": "Bowl"
+  }
+}
