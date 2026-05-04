@@ -1,0 +1,114 @@
+{
+  "title": "Rich Arabian Lentils Skillet",
+  "description": "Umami-packed, crumbly lentil skillet with ginger cordial and wok-hei flavor, nostalgic Saudi Arabian comfort in a cast-iron pan.",
+  "cuisine": "arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat cast-iron skillet over medium heat and add olive oil.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and ginger, cooking for 1 minute until fragrant.",
+    "Sprinkle cumin, coriander, and cinnamon, sautéing for 30 seconds to toast spices.",
+    "Pour in rinsed red lentils and stir to coat with the spice mixture.",
+    "Add vegetable broth and ginger cordial, bring to a simmer and cover.",
+    "Reduce heat to low and let the lentils cook for 15 minutes, stirring occasionally.",
+    "Once lentils are tender, stir in fresh lemon juice and season with salt and pepper.",
+    "Remove from heat and allow the skillet to rest for 5 minutes to thicken the sauce.",
+    "Serve hot straight from the skillet, garnished with a sprinkle of chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "comfort-food",
+    "easy-dinner",
+    "flexitarian",
+    "lentil",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 12,
+    "carbs": 16,
+    "fat": 4
+  },
+  "slug": "rich-arabian-lentils-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-arabian-lentils-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:15:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "ginger cordial",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich",
+    "dishForm": "Skillet"
+  }
+}
