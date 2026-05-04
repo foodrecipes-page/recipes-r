@@ -1,0 +1,86 @@
+{
+  "title": "Resinous Slovakian Wheat Flatbread",
+  "description": "A chewy resinous flatbread inspired by Slovakian tradition, enriched with fast-acting yeast for a quick double rise and balanced for post-workout nutrition.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "250g"
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "honey",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine 250g wheat flour and 5g instant dry yeast, mixing evenly.",
+    "Add 150ml warm water, 5g salt, 10g honey, and 15ml olive oil to the dry mix, stirring until a sticky dough forms.",
+    "Knead the dough on a lightly floured surface for 8 minutes until elastic and slightly tacky.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise for 30 minutes at room temperature until doubled in size.",
+    "Punch down the dough, divide it into 4 equal portions, shaping each into a flat oval about 1cm thick.",
+    "Preheat a talavera plate in a dry skillet over medium heat for 5 minutes to reach a steady temperature.",
+    "Place one flatbread on the hot plate, covering it with a lid to trap steam, and cook for 4 minutes until bubbles form and edges lift.",
+    "Flip the flatbread, add a drizzle of olive oil, then cover again and cook for another 3 minutes until golden and chewy.",
+    "Repeat steps 7-8 for the remaining portions, keeping the heated plate ready.",
+    "Let the finished flatbreads rest for 5 minutes before serving, optionally sprinkling with a pinch of sea salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "double-rise",
+    "flatbread",
+    "high-protein",
+    "post-workout",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 5
+  },
+  "slug": "resinous-slovakian-wheat-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-slovakian-wheat-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:13:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "fast action yeast",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Wheat",
+    "descriptor": "Resinous",
+    "dishForm": "Flatbread"
+  }
+}
