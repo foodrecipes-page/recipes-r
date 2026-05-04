@@ -1,0 +1,96 @@
+{
+  "title": "Robata Grilled Dutch Jalapeno Bowl",
+  "description": "A charred and snappy Dutch dish featuring jalapeno, robata-grilled to perfection, served in an earthenware bowl, perfect for a brunch mood. This shojin-friendly recipe is a unique blend of flavors and textures.",
+  "cuisine": "Dutch",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jalapeno peppers",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dutch cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "robata grill sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Grill the sliced jalapeno peppers for 2 minutes on each side, until charred.",
+    "In a small bowl, mix together the robata grill sauce and olive oil.",
+    "Brush the mixture onto the grilled jalapeno peppers.",
+    "In the earthenware bowl, combine the mixed greens, cherry tomatoes, and red onion.",
+    "Top the salad with the grilled jalapeno peppers and shredded Dutch cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cherry tomatoes and red onion if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "one-bowl-meal",
+    "robatagrilled",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "robata-grilled-dutch-jalapeno-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grilled-dutch-jalapeno-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:43:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "jalapeno",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "jalapeno",
+    "descriptor": "Robata grilled",
+    "dishForm": "Bowl"
+  }
+}
