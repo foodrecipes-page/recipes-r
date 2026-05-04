@@ -1,0 +1,122 @@
+{
+  "title": "Rustic Dutch Chicken Roast",
+  "description": "A hearty Dutch chicken roast packed with pickles and rosemary, baked in a single sheet for a lazy Sunday meal. The gravy is light and the chicken remains juicy and tender.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole chicken",
+      "amount": "1.5 kg",
+      "notes": "bone‑in, skin‑on"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "150 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "quartered"
+    },
+    {
+      "name": "Almonds",
+      "amount": "50 g",
+      "notes": "sliced, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a baking sheet with parchment paper.",
+    "Rinse the chicken and pat dry with paper towels; season generously with salt and pepper.",
+    "In a small bowl, whisk together olive oil, Dijon mustard, apple cider vinegar, minced garlic and chopped rosemary.",
+    "Rub the mixture all over the chicken, ensuring the skin is coated.",
+    "Scatter chopped dill pickles, sliced lemon, onion quarters and optional almonds around the chicken on the sheet.",
+    "Pour chicken broth into the bottom of the sheet, keeping the liquid separated from the chicken.",
+    "Cover the sheet loosely with a large piece of parchment or foil to create a papillote effect.",
+    "Roast in the preheated oven for 55 minutes, or until the chicken reaches an internal temperature of 75°C.",
+    "Remove the sheet from the oven and let the chicken rest for 10 minutes before carving.",
+    "Transfer the chicken and vegetables to a serving platter, spooning some of the pan juices over the top.",
+    "Garnish with fresh rosemary sprigs and serve immediately. Enjoy your low‑carb rustic dutch chicken roast!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "easy",
+    "lazy-sunday",
+    "low-carb",
+    "papillote",
+    "pickles",
+    "rustic"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "rustic-dutch-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-dutch-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:53:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "pickles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Rustic",
+    "dishForm": "Roast"
+  }
+}
