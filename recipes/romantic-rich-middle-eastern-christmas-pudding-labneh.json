@@ -1,0 +1,95 @@
+{
+  "title": "Romantic Rich Middle Eastern Christmas Pudding Labneh",
+  "description": "A salty, tender, and romantic Middle Eastern dish featuring Christmas pudding, fry-grind-rice-khao-khua, and labneh, perfect for a diabetic-friendly dessert option",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": "drained overnight"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fried rice",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "khao khuah powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the labneh cheese, crumbled Christmas pudding, and cooled fried rice",
+    "In a small bowl, mix the khao khuah powder, chopped pistachios, rose water, and orange blossom water",
+    "Add the dry mixture to the labneh mixture and stir until well combined",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours",
+    "Just before serving, drizzle the honey over the top of the labneh mixture",
+    "Garnish with additional chopped pistachios if desired",
+    "Serve chilled and enjoy",
+    "Refrigerate any leftovers for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "christmas-pudding",
+    "diabetic-friendly",
+    "gluten-free",
+    "labneh",
+    "middle-eastern",
+    "romantic-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "romantic-rich-middle-eastern-christmas-pudding-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-rich-middle-eastern-christmas-pudding-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:31:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "christmas pudding",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Romantic Rich",
+    "dishForm": "Labneh"
+  }
+}
