@@ -1,0 +1,73 @@
+{
+  "title": "Roasted Dense American Eggs Frittata",
+  "description": "A keto-friendly, brunch-mood American dish featuring roasted vegetables and a crispy, cheesy crust. This frittata is made with Parmigiano-Reggiano and is perfect for a weekend breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1 cup",
+      "notes": "",
+      "shredded: true},{": true
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Add the diced onions and cook until they are lightly browned, about 5 minutes.",
+    "Add the diced bell peppers and cook for another 5 minutes, until they are tender.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the shredded Parmigiano-Reggiano and stir to combine.",
+    "Pour the egg mixture over the vegetables in the skillet and cook until the edges start to set, about 2-3 minutes.",
+    "Transfer the skillet to the oven and broil for 2-3 minutes, until the top is golden brown and the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving.",
+    "Slice the frittata into wedges and serve hot.",
+    "Garnish with additional Parmigiano-Reggiano and fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "roasted-dense-american-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-dense-american-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "eggs",
+    "descriptor": "roasted dense",
+    "dishForm": "Frittata"
+  }
+}

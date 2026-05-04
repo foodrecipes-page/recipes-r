@@ -1,0 +1,93 @@
+{
+  "title": "Roasted American Turkey Ham Bake",
+  "description": "A comforting shaggy dish featuring turkey ham, potatoes, and carrots, perfect for a cozy Sunday dinner.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey ham",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sliced turkey ham, carrots, and potatoes with the melted butter, salt, black pepper, garlic powder, and dried thyme until the vegetables are evenly coated.",
+    "Transfer the mixture to a 9x13-inch baking dish and cover with aluminum foil.",
+    "Roast in the preheated oven for 30 minutes, then remove the foil and continue roasting for an additional 20-25 minutes, or until the vegetables are tender and golden brown.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "homestyle",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 66,
+    "fat": 24
+  },
+  "slug": "roasted-american-turkey-ham-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-turkey-ham-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "turkey ham",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Roasted",
+    "dishForm": "Bake"
+  }
+}

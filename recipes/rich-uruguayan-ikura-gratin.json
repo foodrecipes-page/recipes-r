@@ -1,0 +1,79 @@
+{
+  "title": "Rich Uruguayan Ikura Gratin",
+  "description": "A rich, crumbly weeknight Uruguayan dish featuring ikura, bonito shaved into thin strips and low in carbs.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "6 oz",
+      "notes": "Fresh ikura with the eggs still intact"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, gently combine the ikura, bonito flakes, sour cream, and grated Parmesan cheese.",
+    "Transfer the mixture to a 6-inch (15 cm) baking dish and smooth the top.",
+    "Bake the gratin in the preheated oven for 12-15 minutes, or until the top is golden brown and the filling is heated through.",
+    "Remove the gratin from the oven and let it cool slightly.",
+    "Sprinkle the chopped parsley over the top and season with freshly ground black pepper.",
+    "Serve the rich Uruguayan Ikura Gratin warm, garnished with additional parsley if desired.",
+    "Note: Traditionally, the ikura would be cooked in a cast-iron skillet over low heat, but for convenience, baking is recommended for a richer, creamier flavor.",
+    "This recipe serves 1 as a main course, 2 as a side dish, or 4 as an appetizer.",
+    "The total cooking time can be adjusted based on the size of the baking dish and the number of servings.",
+    "This dish is perfect for a weeknight dinner or a special occasion meal.",
+    "It can be made ahead and refrigerated for up to 24 hours or frozen for up to 2 months. ",
+    "   ",
+    "   ",
+    "     ",
+    "    ",
+    "  ",
+    "  ",
+    "  ",
+    "   ",
+    "     ",
+    "   ",
+    "    ",
+    "     ",
+    "  ",
+    "   "
+  ],
+  "prepTimeMin": 7,
+  "cookTimeMin": 15,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "rich-uruguayan-ikura-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-ikura-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ikura",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ikura",
+    "descriptor": "Rich",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Mexican Tlayudas",
+  "description": "Flaky, post-workout Mexican dish featuring onion salt and pasta-water-emulsion. A satvik-friendly twist on traditional tlayudas.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "onion salt"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grilled chicken",
+      "amount": "1 cup",
+      "notes": "cooked, diced"
+    },
+    {
+      "name": "Monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u0019F (200\u0019C).",
+    "Spread a layer of pasta water on each tortilla.",
+    "Brush onion salt on one side of each tortilla.",
+    "Add a sprinkle of shredded cheese on one half of each tortilla.",
+    "Top with diced chicken and chopped cilantro.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Place the tlayudas on a baking sheet and roast for 10 minutes.",
+    "Finish with a squeeze of lime juice before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "roasted-mexican-tlayudas-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-mexican-tlayudas-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "onion salt",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "tlayudas",
+    "descriptor": "roasted",
+    "dishForm": "tlayudas"
+  }
+}

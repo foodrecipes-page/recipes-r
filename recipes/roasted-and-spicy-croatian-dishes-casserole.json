@@ -1,0 +1,128 @@
+{
+  "title": "Roasted and Spicy Croatian Casserole",
+  "description": "A hearty, croatian dish featuring hotsauce and infuse-oil, perfect for a cozy night in. Serve hot, garnished with fresh parsley.",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "Hungarian,"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup",
+      "notes": "olive oil infused with garlic and chili peppers,"
+    },
+    {
+      "name": "hotsauce",
+      "amount": "2 tablespoons",
+      "notes": "Croatian-style hot sauce,"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped,"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced,"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground,"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped,"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the infuse oil over medium-high heat. Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the ground caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the pork shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the pork is cooked through.",
+    "While the pork is cooking, mix the hotsauce and smoked paprika in a small bowl.",
+    "Remove the skillet from the oven and sprinkle the hotsauce-paprika mixture evenly over the top of the pork.",
+    "Transfer the pork to a 9x13 inch baking dish and top with the shredded cheddar cheese.",
+    "In a small bowl, mix the all-purpose flour and chicken broth to make a roux. Pour the roux over the top of the cheese.",
+    "Return the baking dish to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the baking dish from the oven and sprinkle with chopped fresh parsley.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "croatian",
+    "dinner-option",
+    "one-pan",
+    "spicy",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 23,
+    "fat": 37
+  },
+  "slug": "roasted-and-spicy-croatian-dishes-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-and-spicy-croatian-dishes-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "hotsauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dishes",
+    "descriptor": "roasted and spicy",
+    "dishForm": "Casserole"
+  }
+}

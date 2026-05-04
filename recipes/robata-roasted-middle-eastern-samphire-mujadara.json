@@ -1,0 +1,116 @@
+{
+  "title": "Robata-roasted Middle-Eastern Samphire Mujadara",
+  "description": "A tangy and festive dish featuring samphire, grilled to perfection over robata using traditional Middle-Eastern flavors. Perfect as a low-carb friendly main course for lunch or dinner.",
+  "cuisine": "Middle-Eastern",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Samphire",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Mujadara rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "Choose lean ground lamb for a healthier option"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 teaspoon",
+      "notes": "Optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the samphire under cold water and trim off the ends.",
+    "Heat the olive oil in a robata grill or skillet over medium-high heat.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the garlic, cumin, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "low-carb",
+    "middle-eastern",
+    "robata-grill",
+    "samphire"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "robata-roasted-middle-eastern-samphire-mujadara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-roasted-middle-eastern-samphire-mujadara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "samphire",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Samphire",
+    "descriptor": "Robata-roasted",
+    "dishForm": "Mujadara"
+  }
+}
