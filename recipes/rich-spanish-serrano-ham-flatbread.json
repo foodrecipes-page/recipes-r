@@ -1,0 +1,101 @@
+{
+  "title": "Rich Spanish Serrano Ham Flatbread",
+  "description": "A floral and fluffy midnight craving Spanish dish featuring serrano ham and pickle, made with mediterranean friendly ingredients and cooked on a tava griddle.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "contains 6 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium high heat.",
+    "Roll out the flatbread to a thickness of about 1/4 inch.",
+    "Brush the flatbread with olive oil and sprinkle with minced garlic.",
+    "Top the flatbread with serrano ham, pickle, rosemary, and feta cheese.",
+    "Season with salt and pepper to taste.",
+    "Cook the flatbread on the tava griddle for 2-3 minutes on each side, until crispy and golden brown.",
+    "Remove the flatbread from the griddle and let it cool for a minute or two.",
+    "Slice the flatbread into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "meat-lovers",
+    "mediterranean",
+    "quick-snack",
+    "spanish-food",
+    "tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "rich-spanish-serrano-ham-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-serrano-ham-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:39:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "serrano ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Rich Savory",
+    "dishForm": "Flatbread"
+  }
+}
