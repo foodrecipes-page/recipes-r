@@ -1,0 +1,104 @@
+{
+  "title": "Rousing Vietnamese Potatoes Che Ba Mau",
+  "description": "A crispy, grass green Vietnamese inspired potato dish that energizes with fresh herbs and a touch of umami, perfect for a quick snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 medium, peeled and cubed"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "2 tbsp, chopped green part only"
+    }
+  ],
+  "instructions": [
+    "Fill a deep skillet with 2 tbsp toasted sesame oil and heat to 180°C.",
+    "While oil warms, toss cubed charlotte potatoes with 1 tsp sea salt and 1 tsp chili flakes.",
+    "Once oil is hot, add potatoes in a single layer and fry for 3-4 minutes, turning occasionally until golden and crisp.",
+    "Remove potatoes with a slotted spoon and drain on paper towels.",
+    "In a bowl, whisk together 1 cup chopped cilantro, 1 cup chopped mint, 1 cup chopped basil, 2 tbsp lime juice, 1 tsp grated ginger, 1 tbsp fish sauce, and 2 tbsp chopped scallion.",
+    "Transfer the fried potatoes to the bowl, pour the herb dressing over them, and toss gently to coat.",
+    "Sprinkle extra fresh herbs on top and serve immediately.",
+    "Optional: squeeze a few drops of lime before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fry",
+    "fodmap-friendly",
+    "herb",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "rousing-vietnamese-potatoes-che-ba-mau",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rousing-vietnamese-potatoes-che-ba-mau",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:19:33Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rousing",
+    "dishForm": "Che Ba Mau"
+  }
+}

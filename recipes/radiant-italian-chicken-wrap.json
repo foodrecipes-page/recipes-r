@@ -1,0 +1,102 @@
+{
+  "title": "Radiant Italian Chicken Wrap",
+  "description": "A winey, snappy Italian wrap with Sichuan pepper and steamed collard greens, perfect post-workout nourishment.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "steamed collard leaves",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Sichuan pepper powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "basil, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Parmesan cheese, shredded",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Parmesan cheese, for topping",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Place collard leaves in steamer basket over boiling water, cover, steam 2 minutes until pliable.",
+    "Heat olive oil in a skillet over medium heat, add minced garlic, and cook 30 seconds.",
+    "Add sliced chicken breast, season with salt, black pepper, and Sichuan pepper powder, and cook until browned and cooked through, about 5 minutes.",
+    "Deglaze the skillet with red wine, reduce by half, and stir in basil, lemon juice, and a pinch of salt.",
+    "Remove skillet from heat and stir in shredded Parmesan, adjusting seasoning as needed.",
+    "Spoon the chicken mixture onto each steamed leaf and top with additional Parmesan.",
+    "Fold the edges of the leaf over the filling and roll tightly.",
+    "Place wraps on a plate and serve immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "lunch"
+  ],
+  "slug": "radiant-italian-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-italian-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:19:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "kosher",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Radiant",
+    "dishForm": "Wrap"
+  }
+}
