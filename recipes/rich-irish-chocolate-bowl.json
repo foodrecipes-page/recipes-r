@@ -1,0 +1,99 @@
+{
+  "title": "Rich Irish Chocolate Bowl",
+  "description": "A molten, earthy dessert perfect for a date night, combining sushi rice and tempered chocolate in a bamboo steamer.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-fodmap",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "rinsed until clear"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "200 g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for chocolate"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "bamboo steamer basket",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice under cold water until the water runs clear, then drain.",
+    "In a saucepan, combine rinsed rice and 1.5 cups water, bring to a boil, reduce heat, cover, and simmer for 15 minutes.",
+    "Remove from heat, keep covered, let steam for 10 minutes.",
+    "While rice steams, melt 200 g dark chocolate over a double boiler or in a heat‑proof bowl set over simmering water, stirring until smooth.",
+    "In a small saucepan, heat 1 cup oat milk with 1 tbsp coconut oil, 1 tbsp maple syrup, and a pinch of salt until warm but not boiling.",
+    "Stir the hot oat milk into the melted chocolate until the mixture is silky and well blended.",
+    "Fluff the steamed rice with a fork, then pour the chocolate sauce over the rice, gently mixing to coat.",
+    "Transfer the mixture to a bamboo steamer basket, place in the steamer, cover, and steam for 5 minutes to warm and slightly set the chocolate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "date-night",
+    "dessert",
+    "fodmap-friendly",
+    "irish",
+    "steamer"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "rich-irish-chocolate-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-irish-chocolate-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:44:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sushi rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Rich",
+    "dishForm": "Bowl"
+  }
+}

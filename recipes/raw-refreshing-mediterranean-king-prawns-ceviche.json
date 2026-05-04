@@ -1,0 +1,99 @@
+{
+  "title": "Raw Refreshing Mediterranean King Prawns Ceviche",
+  "description": "A fermented and adventurous Mediterranean dish featuring raw king prawns, beurre-monte, and kosher-friendly ingredients, this ceviche is perfect for those looking to try something new and exciting. It combines the freshness of the sea with the richness of Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "fresh and raw"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the king prawns under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, beurre-monte, salt, and black pepper.",
+    "Add the king prawns to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the prawns to ferment slightly.",
+    "Just before serving, stir in chopped parsley and dill.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl again and refrigerate for an additional 10 minutes to allow the flavors to meld.",
+    "Serve the ceviche chilled, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "kosher",
+    "low-carb",
+    "mediterranean",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "raw-refreshing-mediterranean-king-prawns-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-refreshing-mediterranean-king-prawns-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:45:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "raw king prawns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "king prawns",
+    "descriptor": "Raw Refreshing",
+    "dishForm": "Ceviche"
+  }
+}
