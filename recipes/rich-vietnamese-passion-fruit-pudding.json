@@ -1,0 +1,83 @@
+{
+  "title": "Rich Vietnamese Passion Fruit Pudding",
+  "description": "A sweet and gooey Vietnamese dessert featuring passion fruit pulp, this dish is perfect for romantic occasions and is macrobiotic-friendly. It is made with pressure-cooked passion fruit pulp and other natural ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "passion fruit pulp",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, combine passion fruit pulp, coconut milk, tapioca starch, maple syrup, and salt.",
+    "Cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes.",
+    "Stir in vanilla extract.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate for at least 2 hours to chill and set.",
+    "Serve chilled, garnished with additional passion fruit pulp if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "macrobiotic-friendly",
+    "pressure-cooker-recipe",
+    "romantic-dish",
+    "vietnamese-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rich-vietnamese-passion-fruit-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-vietnamese-passion-fruit-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:26:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "passion fruit",
+    "descriptor": "rich gooey",
+    "dishForm": "Pudding"
+  }
+}
