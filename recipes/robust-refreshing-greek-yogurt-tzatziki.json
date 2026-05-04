@@ -1,0 +1,104 @@
+{
+  "title": "Robust Refreshing Greek Yogurt Tzatziki",
+  "description": "A fermented and adventurous Greek dish featuring chimichurri sauce, this tzatziki is perfect for hot summer days, and its ayurvedic-tamasic-friendly ingredients make it a great choice for a healthy snack. The combination of broiled ingredients and fresh yogurt creates a bouncy and refreshing texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for broiling"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the chimichurri sauce, garlic, and lemon juice.",
+    "In a large bowl, combine the Greek yogurt, cucumber, dill, salt, and black pepper, and stir well.",
+    "Add the chimichurri sauce mixture to the yogurt mixture and stir until smooth.",
+    "Brush the olive oil on a baking sheet and broil the mixture for 2 minutes, or until slightly browned.",
+    "Remove the mixture from the oven and let it cool to room temperature.",
+    "Refrigerate the mixture for at least 30 minutes to allow the flavors to meld.",
+    "Serve the tzatziki chilled, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "greek-food",
+    "refreshing-snack",
+    "summer-snack",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "robust-refreshing-greek-yogurt-tzatziki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-refreshing-greek-yogurt-tzatziki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:43:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Robust Refreshing",
+    "dishForm": "Tzatziki"
+  }
+}

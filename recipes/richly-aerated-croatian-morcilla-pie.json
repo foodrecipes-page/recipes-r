@@ -1,0 +1,103 @@
+{
+  "title": "Richly Aerated Croatian Morcilla Pie",
+  "description": "A traditional Croatian dish featuring morcilla, made with a flaky crust and a rich, jammy filling, this pie is perfect for special occasions. It is also ayurvedic-sattvic-friendly, making it a great option for those with dietary restrictions.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice cold water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the ice cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead it a few times until it becomes smooth and pliable.",
+    "Wrap the dough in plastic wrap and refrigerate it for at least 30 minutes.",
+    "In a large skillet, cook the morcilla over medium heat, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "Stir in the apple cider vinegar and cook for an additional 1-2 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Spoon the morcilla mixture into the center of the dough, leaving a 1 inch border around the edges.",
+    "Brush the edges of the dough with the beaten egg and fold the dough over the filling, pressing the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pie to allow steam to escape.",
+    "Brush the top of the pie with the beaten egg and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "flaky-crust",
+    "jammy-filling",
+    "sattvic-friendly",
+    "special-occasion",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "richly-aerated-croatian-morcilla-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-aerated-croatian-morcilla-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:43:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "en-croute",
+    "primaryIngredient": "morcilla",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Richly Aerated",
+    "dishForm": "Pie"
+  }
+}
