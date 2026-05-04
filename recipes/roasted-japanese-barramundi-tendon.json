@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Japanese Barramundi Tendon",
+  "description": "A comforting Japanese dish featuring roasted barramundi and nuka-pickle in a rich tendon broth, served in a copper pot.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian-friendly",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the barramundi fillets with salt and pepper.",
+    "Heat the sesame oil in a copper pot over medium heat.",
+    "Sear the barramundi fillets until browned on both sides, about 2 minutes per side.",
+    "Remove the barramundi from the pot and set aside.",
+    "Add the nuka-pickle, dashi broth, soy sauce, mirin, and sake to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Return the barramundi to the pot and spoon some of the tendon broth over the top of each fillet.",
+    "Transfer the pot to the preheated oven and roast for 12 minutes.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "one-pot",
+    "roasted",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "roasted-japanese-barramundi-tendon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-japanese-barramundi-tendon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:19:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "barramundi",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "barramundi",
+    "descriptor": "roasted shaggy",
+    "dishForm": "Tendon"
+  }
+}
