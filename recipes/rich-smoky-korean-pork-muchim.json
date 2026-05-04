@@ -1,0 +1,109 @@
+{
+  "title": "Rich Smoky Korean Pork Muchim",
+  "description": "A smoky and savory Korean dish featuring pork, unsweetened coconut milk, and a variety of spices, perfect for a low-carb brunch",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, smoked paprika, garlic, salt, and black pepper",
+    "Add the sliced pork to the bowl and toss to coat with the marinade",
+    "Let the pork marinate for at least 30 minutes",
+    "Remove the pork from the marinade and cook in a skillet over medium-high heat until browned",
+    "Transfer the pork to a baking dish and bake in the oven for 20 minutes",
+    "While the pork is cooking, heat the sesame oil in a small saucepan over medium heat",
+    "Add the chopped green onions to the saucepan and cook until wilted",
+    "Stir in the unsweetened coconut milk and bring to a simmer",
+    "To assemble the muchim, place a portion of the cooked pork onto a plate, then spoon some of the coconut milk sauce over the top",
+    "Use your hands to shape the pork and sauce into small nigiri-shaped balls"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "coconut-milk-recipes",
+    "korean-inspired",
+    "low-carb",
+    "pork-recipes",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "rich-smoky-korean-pork-muchim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-korean-pork-muchim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:16:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Muchim"
+  }
+}
