@@ -1,0 +1,109 @@
+{
+  "title": "Tunisian Haggis Tagine",
+  "description": "A richly flavored dish featuring haggis, perfect for a date night, with a jammy and fluffy texture, pescatarian-friendly and wood-fired-baked",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep heart, liver, and lungs, mixed with onions, oatmeal, and spices"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit",
+    "In a large bowl, mix together the chopped onions, minced garlic, cumin, coriander, cayenne pepper, salt, and black pepper",
+    "Add the haggis to the bowl and mix well",
+    "Stuff the dates and prunes with the haggis mixture",
+    "Place the stuffed dates and prunes in a tagine dish",
+    "Drizzle the olive oil over the top of the stuffed dates and prunes",
+    "Cover the tagine dish with a lid",
+    "Bake the tagine in the preheated wood-fired oven for 30 minutes",
+    "Remove the lid and continue baking for an additional 15 minutes",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fluffy",
+    "jammy",
+    "pescatarian",
+    "tunisian-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "richly-flavored-tunisian-haggis-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-tunisian-haggis-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:28:17Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "haggis",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "haggis",
+    "descriptor": "Richly flavored",
+    "dishForm": "Tagine"
+  }
+}
