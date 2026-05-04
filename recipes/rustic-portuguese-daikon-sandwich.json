@@ -1,0 +1,102 @@
+{
+  "title": "Rustic Portuguese Daikon Sandwich",
+  "description": "A peppery, springy brunch sandwich featuring julienned daikon, a zesty vinaigrette, smoked sardines, and warm double‑rise bread—dairy‑free and full of Portuguese flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 cup julienned",
+      "notes": "fresh daikon, thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for relish"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "¼ cup chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1 minced"
+    },
+    {
+      "name": "smoked sardine fillets",
+      "amount": "2 fillets"
+    },
+    {
+      "name": "double‑rise bread",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Prepare the daikon relish by mixing julienned daikon, minced garlic, white wine vinegar, olive oil, sea salt, black pepper, chopped parsley, and lemon zest in a bowl.",
+    "Let the relish sit for 5 minutes to allow flavors to meld.",
+    "Warm a non‑stick skillet over medium heat and sear the smoked sardine fillets for 2 minutes per side or until the exterior is golden and the internal temperature reaches 145°F.",
+    "Slice the double‑rise bread horizontally to create a top and bottom loaf slice.",
+    "Spread the daikon relish evenly on the bottom slice of bread.",
+    "Place the seared sardine fillets on top of the relish, arranging them side by side.",
+    "Drizzle a light layer of olive oil over the sardines for extra moisture.",
+    "Cover the sardines with the top slice of bread and press gently to secure the sandwich.",
+    "Cut the sandwich diagonally and serve immediately with a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dairy-free",
+    "pescatarian",
+    "portuguese",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rustic-portuguese-daikon-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-portuguese-daikon-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:18:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "daikon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "daikon",
+    "descriptor": "Rustic",
+    "dishForm": "Sandwich"
+  }
+}
