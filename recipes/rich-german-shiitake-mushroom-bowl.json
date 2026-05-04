@@ -1,0 +1,114 @@
+{
+  "title": "Rich German Shiitake Mushroom Bowl",
+  "description": "A nutty, molten flexitarian bowl featuring sautéed shiitake mushrooms, barley, and melt‑in‑the‑mouth Gruyère.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "barley or quinoa",
+      "amount": "75g"
+    },
+    {
+      "name": "grated Gruyère cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter and olive oil in a large skillet over medium-high heat until the butter foams.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and thyme leaves and cook for another 30 seconds until fragrant.",
+    "Add sliced shiitake mushrooms and sauté, stirring occasionally, until they begin to brown, about 5 minutes.",
+    "Pour in white wine, letting it reduce by half to concentrate flavor, about 3 minutes.",
+    "Add vegetable broth and bring the mixture to a gentle simmer, then cover and cook until the mushrooms are fully tender, about 8 minutes.",
+    "Stir in cooked barley or quinoa and grated Gruyère cheese, allowing the cheese to melt into a creamy broth, about 4 minutes.",
+    "Season with salt and pepper to taste, then remove from heat.",
+    "Ladle the mixture into a lacquerware bowl, ensuring an even distribution of mushrooms and sauce.",
+    "Garnish with freshly chopped parsley and a light drizzle of olive oil before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley",
+    "bowl",
+    "flexitarian",
+    "german",
+    "mushroom",
+    "nutty",
+    "rich",
+    "short-cook"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 7,
+    "carbs": 21,
+    "fat": 13
+  },
+  "slug": "rich-german-shiitake-mushroom-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-german-shiitake-mushroom-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:51:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Rich",
+    "dishForm": "Bowl"
+  }
+}
