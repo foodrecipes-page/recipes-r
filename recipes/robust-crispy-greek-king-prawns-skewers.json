@@ -1,0 +1,106 @@
+{
+  "title": "Robust Crispy Greek King Prawns Skewers",
+  "description": "A pungent and crispy Greek dish featuring raw king prawns, perfect for a date night, this recipe is low in sodium and served in a lacquerware bowl.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large lacquerware bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, paprika, and salt-free seasoning.",
+    "Add the raw king prawns to the marinade and toss to coat, covering the bowl with plastic wrap.",
+    "Refrigerate the prawns for 30 minutes to allow the flavors to penetrate.",
+    "In a small bowl, mix together cornstarch and water until smooth.",
+    "Remove the prawns from the marinade, allowing any excess to drip off.",
+    "Dip each prawn into the cornstarch mixture, coating lightly.",
+    "Thread the coated prawns onto skewers, leaving a small space between each prawn.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Add the prawn skewers to the hot oil and fry for 2-3 minutes on each side, until golden brown and crispy.",
+    "Remove the skewers from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy prawn skewers hot, garnished with lemon wedges and fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "date-night",
+    "greek-cuisine",
+    "low-sodium",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "robust-crispy-greek-king-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crispy-greek-king-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:29:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "raw king prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "king prawns",
+    "descriptor": "Robust Crispy",
+    "dishForm": "Skewers"
+  }
+}
