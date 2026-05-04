@@ -1,0 +1,112 @@
+{
+  "title": "Robust Canadian Bean Burrito",
+  "description": "A bitter and juicy Canadian dish featuring a flour tortilla, this crowd-pleaser is a satvik-friendly option that is perfect for any meal, made with pressure-cooked beans and wrapped in a large flour tortilla.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "dried kidney beans"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "dried black beans"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "water for pressure cooking"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional shredded cheese"
+    }
+  ],
+  "instructions": [
+    "Rinse the kidney beans and black beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked beans and add them to a pressure cooker with 4 cups of water.",
+    "Add the chopped onion, minced garlic, ground cumin, ground chili powder, and salt to the pressure cooker.",
+    "Close the lid of the pressure cooker and cook the beans for 20 minutes.",
+    "Let the pressure release naturally from the pressure cooker.",
+    "Warm the large flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burritos by spooning the cooked bean mixture onto the center of a tortilla and topping with optional shredded cheese.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Repeat the assembly process with the remaining tortillas and filling.",
+    "Serve the burritos hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-based",
+    "canadian",
+    "crowd-pleaser",
+    "pressure-cooker",
+    "satvik-friendly",
+    "tortilla-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "robust-canadian-bean-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-canadian-bean-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:56:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "flour tortilla",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beans",
+    "descriptor": "robust juicy",
+    "dishForm": "Burrito"
+  }
+}

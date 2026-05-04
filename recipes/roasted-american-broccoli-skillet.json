@@ -1,0 +1,92 @@
+{
+  "title": "Roasted American Broccoli Skillet",
+  "description": "A garlicky and crisp lazy-sunday American dish featuring broccoli, with a yuzu-cure and satvik-friendly ingredients, perfect for a relaxing meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh, cut into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, yuzu juice, salt, and black pepper.",
+    "Add the broccoli florets to the bowl and toss to coat with the marinade.",
+    "Transfer the broccoli to a large skillet and roast in the preheated oven for 15 minutes.",
+    "Remove the skillet from the oven and stir in lemon juice and grated ginger.",
+    "Return the skillet to the oven and continue roasting for an additional 5 minutes, or until the broccoli is tender and slightly browned.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "crisp",
+    "garlicky",
+    "lazy-sunday",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "roasted-american-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:56:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "broccoli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "broccoli",
+    "descriptor": "Roasted garlicky",
+    "dishForm": "Skillet"
+  }
+}
