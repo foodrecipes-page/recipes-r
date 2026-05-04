@@ -1,0 +1,105 @@
+{
+  "title": "Rich Charred French Carrot Tarte Tatin",
+  "description": "A charred, creamy, and adventurous French dish from Brittany, featuring ground ginger and a unique nigiri-shaping technique, this tarte tatin is a shojin-friendly delight.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the melted butter, eggs, heavy cream, ground ginger, and chopped thyme to the bowl and mix until a dough forms.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "In a large skillet, caramelize the sliced carrots over medium heat, stirring occasionally, until they are charred and tender.",
+    "Arrange the caramelized carrots in a circular pattern on the puff pastry, leaving a 1 inch border around the edges.",
+    "Spoon the dough mixture over the carrots, making sure to cover them evenly.",
+    "Fold the edges of the puff pastry up over the filling, pressing gently to seal.",
+    "Place the tarte tatin on a baking sheet lined with parchment paper and bake for 35 minutes, or until the pastry is golden brown.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-charred-french-carrot-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-charred-french-carrot-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:36:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ground ginger",
+    "diet": "shojin",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "carrots",
+    "descriptor": "Rich Charred",
+    "dishForm": "Tarte Tatin"
+  }
+}
