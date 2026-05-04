@@ -1,0 +1,115 @@
+{
+  "title": "Rousing Nutty Jamaican King Prawns Bowl",
+  "description": "A vibrant, nutty bowl of seasoned king prawns with coconut quinoa, lime, and fresh herbs, chilled in an ice-bath for a crunchy, energizing Jamaican treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "300g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Coconut quinoa",
+      "amount": "150g dry",
+      "notes": "cooked"
+    },
+    {
+      "name": "Roasted cashews",
+      "amount": "50g",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "0.5 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1 medium",
+      "notes": "juiced and zested"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "dry"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "200g",
+      "notes": "for shock"
+    }
+  ],
+  "instructions": [
+    "Rinse the diced red bell pepper and finely chopped red onion in cold water and set aside.",
+    "In a saucepan, combine the coconut quinoa with 300ml of water, bring to a boil, then simmer until fluffy, about 15 minutes.",
+    "While the quinoa cooks, heat the olive oil in a skillet over medium-high heat and add the peeled king prawns.",
+    "Sprinkle the Jamaican jerk seasoning and a pinch of salt over the prawns, then stir-fry until pink and opaque, about 3 minutes per side.",
+    "Once cooked, transfer the prawns to a bowl and let them rest for a minute.",
+    "In a large mason jar, layer the cooked quinoa, stir in the diced bell pepper, chopped onion, and cilantro.",
+    "Add the seared prawns on top of the quinoa mixture, then drizzle with the fresh lime juice and sprinkle the lime zest.",
+    "Gently fold in the roasted cashews, ensuring an even distribution of nutty crunch.",
+    "Fill the jar with ice cubes to create an ice-bath, then seal the lid and refrigerate for at least 10 minutes for a shock chill.",
+    "Before serving, give the bowl a quick stir, garnish with extra cilantro if desired, and enjoy the energizing, low-glycemic Jamaican flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chilled",
+    "jamaican",
+    "low-glycemic",
+    "mason-jar",
+    "nutty",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1230,
+    "protein": 76,
+    "carbs": 122,
+    "fat": 46
+  },
+  "slug": "rousing-nutty-jamaican-king-prawns-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rousing-nutty-jamaican-king-prawns-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:02:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "king prawns",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "King Prawns",
+    "descriptor": "Rousing Nutty",
+    "dishForm": "Bowl"
+  }
+}
