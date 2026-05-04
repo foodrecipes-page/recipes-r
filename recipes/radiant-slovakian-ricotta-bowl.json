@@ -1,0 +1,95 @@
+{
+  "title": "Radiant Slovakian Ricotta Bowl",
+  "description": "A nutty, light, energizing Slovakian dish featuring creamy ricotta, miso-marinate, and keto-friendly toppings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "toasted for crunch"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "softened lightly"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "2 oz",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together ricotta, miso paste, olive oil, lemon zest, and a pinch of sea salt until smooth.",
+    "Heat a nonstick skillet over medium heat and toast the walnuts for 2-3 minutes, stirring frequently, until golden.",
+    "While walnuts toast, gently sauté the spinach in the same skillet for 1-2 minutes until wilted; set aside.",
+    "Slice the avocado into cubes and set aside.",
+    "If using salmon, lightly sear the salmon fillets in a hot pan for 2 minutes per side, then break into flakes.",
+    "Spoon the ricotta mixture into a bowl as the base layer.",
+    "Top with sautéed spinach, toasted walnuts, avocado cubes, and salmon flakes if using.",
+    "Drizzle a splash of olive oil over the bowl and sprinkle with chia seeds for added texture.",
+    "Garnish with fresh dill or microgreens if desired.",
+    "Serve immediately and enjoy the nutty, energizing flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "nutty",
+    "quick",
+    "ricotta",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 25
+  },
+  "slug": "radiant-slovakian-ricotta-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-slovakian-ricotta-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:48:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ricotta",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Radiant",
+    "dishForm": "Bowl"
+  }
+}
