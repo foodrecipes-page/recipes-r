@@ -1,0 +1,106 @@
+{
+  "title": "Roasted, Flaky Turkish Beef Slate-Tile Borek",
+  "description": "A delicious brunch dish featuring roasted beef and flaky pastry, perfect for a special occasion.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Beef Fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg Yolk",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slate-Tile Pastry Dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the ground beef, beef fat, salt, and black pepper, and mix well until just combined.",
+    "Roll out the slate-tile pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut the dough into 12 equal squares, about 3 inches (7.5 cm) on each side.",
+    "Place a tablespoon of the beef mixture onto the center of each dough square, leaving a 1/2 inch (1.25 cm) border around the edges.",
+    "Brush the edges of the dough with the beaten egg yolk, and fold the dough over the filling, pressing the edges together to seal the borek.",
+    "Place the borek on a baking sheet lined with parchment paper, and brush the tops with the remaining egg yolk.",
+    "Bake the borek in the preheated oven for about 20-25 minutes, or until golden brown.",
+    "Remove the borek from the oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "borek",
+    "brunch",
+    "special-occasion",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 104,
+    "carbs": 20,
+    "fat": 70
+  },
+  "slug": "roasted-flaky-turkish-beef-slate-tile-borek",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-flaky-turkish-beef-slate-tile-borek",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "beef",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Roasted, flaky",
+    "dishForm": "Slate-Tile Borek"
+  }
+}
