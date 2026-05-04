@@ -1,0 +1,103 @@
+{
+  "title": "Rich Roasted Saudi Arabian Vine Leaves Dolmas",
+  "description": "A sweet and creamy Saudi Arabian dish featuring vine leaves, with a smoky heat, low in fat, and full of comfort",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Prepare the vine leaves by rinsing and removing the stems",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and garlic until softened",
+    "Add the rice, tomato paste, pomegranate molasses, spices, salt, and pepper to the pan and stir well",
+    "Stuff each vine leaf with the rice mixture and roll into a neat package",
+    "Place the dolmas in a large baking dish, seam side down, and cover with water",
+    "Roast the dolmas in the preheated oven for 30 minutes",
+    "Remove the dolmas from the oven and let them cool before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "rich-roasted-saudi-arabian-vine-leaves-dolmas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-saudi-arabian-vine-leaves-dolmas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:12:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "vine leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "rich roasted",
+    "dishForm": "Dolmas"
+  }
+}

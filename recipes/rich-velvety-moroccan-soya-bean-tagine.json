@@ -1,0 +1,116 @@
+{
+  "title": "Rich Velvety Moroccan Soya Bean Tagine",
+  "description": "A flavorful and aromatic Moroccan dish featuring soya beans in a rich and velvety sauce, perfect for a brunch mood. This vegetarian-friendly recipe is made with a blend of spices and herbs, giving it a unique and delicious taste.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon",
+      "notes": "whole grain"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large comal over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the ground cumin, coriander, turmeric, and smoked paprika, and cook for 1 minute, stirring constantly.",
+    "Add the soaked and drained soya beans, whole grain mustard, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the comal and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the soya beans are tender.",
+    "Use an immersion blender to puree the sauce to a rich and velvety consistency.",
+    "Serve the tagine hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "brunch",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rich-velvety-moroccan-soya-bean-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-moroccan-soya-bean-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:13:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "soya bean",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "soya bean",
+    "descriptor": "rich velvety",
+    "dishForm": "Tagine"
+  }
+}
