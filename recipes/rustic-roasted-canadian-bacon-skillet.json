@@ -1,0 +1,100 @@
+{
+  "title": "Rustic Roasted Canadian Bacon Skillet",
+  "description": "A savory Canadian dish featuring crispy Canadian bacon, roasted to perfection in a terracotta dish with a hint of dark brown soft sugar, perfect for a brunch mood. This high-protein friendly recipe is sure to satisfy your cravings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound",
+      "notes": "thick cut"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the dark brown soft sugar, salt, and black pepper.",
+    "Add the diced potatoes, onions, and bell peppers to the bowl and toss to coat with the sugar mixture.",
+    "Heat the olive oil in a large terracotta dish over medium-high heat.",
+    "Add the Canadian bacon to the dish and cook until browned on both sides, about 5 minutes per side.",
+    "Remove the Canadian bacon from the dish and set aside.",
+    "Add the potato and vegetable mixture to the dish and cook until the potatoes are tender, about 10 minutes.",
+    "Create 6 wells in the potato mixture and crack an egg into each well.",
+    "Return the Canadian bacon to the dish and transfer to the preheated oven.",
+    "Bake for 15 minutes, or until the eggs are cooked to your desired doneness.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "rustic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rustic-roasted-canadian-bacon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-roasted-canadian-bacon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:01:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bacon",
+    "descriptor": "Rustic Roasted",
+    "dishForm": "Skillet"
+  }
+}
