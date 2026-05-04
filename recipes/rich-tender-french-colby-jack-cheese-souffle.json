@@ -1,0 +1,96 @@
+{
+  "title": "Rich Tender French Colby Jack Cheese Souffle",
+  "description": "A nutty, tender, and cozy French dish featuring Colby Jack cheese in a souffle form, perfect for a special occasion, sashimi-cut and free from onion and garlic.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "2 cups grated",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter a 1-quart souffle dish and coat with grated cheese.",
+    "In a medium saucepan, whisk together the milk, flour, and a pinch of salt, then cook over medium heat until the mixture thickens.",
+    "Remove the sauce from the heat and stir in the grated cheese until melted and smooth.",
+    "In a separate bowl, whisk together the egg yolks and a pinch of salt, then stir into the cheese sauce.",
+    "In another bowl, beat the egg whites until stiff peaks form.",
+    "Gently fold the egg whites into the cheese sauce until no white streaks remain.",
+    "Season with salt, black pepper, and paprika.",
+    "Pour the souffle mixture into the prepared dish and smooth the top.",
+    "Bake for 25 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "comfort-food",
+    "french-cuisine",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "rich-tender-french-colby-jack-cheese-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-french-colby-jack-cheese-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:01:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Rich Tender",
+    "dishForm": "Souffle"
+  }
+}
