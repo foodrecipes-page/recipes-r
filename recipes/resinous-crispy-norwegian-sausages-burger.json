@@ -1,0 +1,114 @@
+{
+  "title": "Resinous Crispy Norwegian Sausages Burger",
+  "description": "A keto-friendly twist on a classic Norwegian dish featuring crispy German sausages and a resinous glaze.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wienerschnitzel",
+      "amount": "4"
+    },
+    {
+      "name": "Butter",
+      "amount": "2",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together butter, brown sugar, water, apple cider vinegar, paprika, garlic powder, salt, and black pepper until smooth.",
+    "Add wienerschnitzel to the bowl and toss to coat evenly.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Cook wienerschnitzel for 2-3 minutes per side, or until crispy and golden brown.",
+    "Meanwhile, toast buns on the skillet or griddle for 1-2 minutes, or until lightly browned.",
+    "Assemble burgers by spreading mustard on the bottom bun, followed by a cooked wienerschnitzel, a lettuce leaf, a tomato slice, a cheese slice, and finally the top bun.",
+    "Repeat with remaining wienerschnitzel and ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-sausage-dinner",
+    "keto",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 48,
+    "carbs": 16,
+    "fat": 64
+  },
+  "slug": "resinous-crispy-norwegian-sausages-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-crispy-norwegian-sausages-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "german sausages",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sausages",
+    "descriptor": "resinous crispy",
+    "dishForm": "Burger"
+  }
+}

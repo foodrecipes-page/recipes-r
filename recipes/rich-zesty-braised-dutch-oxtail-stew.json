@@ -1,0 +1,116 @@
+{
+  "title": "Rich Zesty Braised Dutch Oxtail Stew",
+  "description": "A hearty, slow-cooked Dutch stew featuring tender oxtail and a richly flavored sauce. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Brown the oxtail on all sides in batches, about 5 minutes per batch.",
+    "Remove the browned oxtail from the pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then saut\u00049 the onion, carrot, and celery until tender, about 5 minutes.",
+    "Add the garlic, allspice, and bay leaves to the pot and cook for 1 minute.",
+    "Add the browned oxtail, apple cider vinegar, beef broth, and sugar to the pot, cover, and transfer to the oven.",
+    "Bake for 2 1/2 hours or until the meat is tender.",
+    "Remove the pot from the oven and stir in the flour to thicken the sauce.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "high-protein",
+    "slow-cooker",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 1020,
+    "protein": 63,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "rich-zesty-braised-dutch-oxtail-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-zesty-braised-dutch-oxtail-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "oxtail",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Rich Zesty Braised",
+    "dishForm": "Stew"
+  }
+}

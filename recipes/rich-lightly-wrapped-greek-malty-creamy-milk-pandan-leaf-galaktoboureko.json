@@ -1,0 +1,118 @@
+{
+  "title": "Rich Lightly Wrapped Greek Malt Pandan Leaf Galaktoboureko",
+  "description": "A delicious and unique twist on traditional galaktoboureko, featuring the sweetness of pandan leaves and the earthiness of myeongnan-roe.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pandan leaves",
+      "amount": "8-10 leaves",
+      "notes": "fresh and pliable"
+    },
+    {
+      "name": "Greek phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Myeongnan-roe",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Unroll the phyllo dough and cut it into squares.",
+    "Brush the phyllo squares with butter or oil.",
+    "Place a pandan leaf in the center of each square, followed by a spoonful of the malt syrup mixture.",
+    "Roll the phyllo squares into tubes and place seam-side down in a baking dish.",
+    "Cover the tubes with foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the phyllo is golden brown.",
+    "Allow the galaktoboureko to cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional pandan leaves and a drizzle of honey.",
+    "Refrigerate any leftovers and serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "galaktoboureko",
+    "greek",
+    "malt",
+    "pandan",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "rich-lightly-wrapped-greek-malty-creamy-milk-pandan-leaf-galaktoboureko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-lightly-wrapped-greek-malty-creamy-milk-pandan-leaf-galaktoboureko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "malty creamy milk",
+    "descriptor": "Rich Lightly Wrapped",
+    "dishForm": "Pandan Leaf Galaktoboureko"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "roasted sunday lazy kenyan dish wrap",
+  "description": "a paleo-friendly twist on a classic kenyian dish, wrapped in a corn husk for a fun twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fry grind rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red pepper",
+      "amount": "2 small",
+      "notes": ""
+    },
+    {
+      "name": "tbsp avocado oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "corn husk wrap",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a pan over medium-high heat.",
+    "add onion and sauté for 3 minutes.",
+    "add crushed tomatoes, red pepper, cumin, smoked paprika, salt, and black pepper. stir and bring to a simmer.",
+    "add fry grind rice and stir to combine.",
+    "add tomato ketchup and stir to coat.",
+    "reduce heat to medium-low and cook for 5 minutes.",
+    "warm a corn husk wrap in a dry pan for 2 minutes.",
+    "fill the wrap with the rice mixture and serve hot.",
+    "drizzle with tomato ketchup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "lunch",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "roasted-sunday-lazy-kenyan-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-sunday-lazy-kenyan-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dish",
+    "descriptor": "Roasted Sunday Lazy",
+    "dishForm": "Wrap"
+  }
+}
