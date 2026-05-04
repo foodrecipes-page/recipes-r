@@ -1,0 +1,98 @@
+{
+  "title": "Rich Vietnamese Hind Shank Bo Kho",
+  "description": "A savory and shattering Vietnamese dish featuring hind shank, served in an agave leaf vessel, perfect for a brunch mood. This no-onion-no-garlic-friendly recipe is a variation of the traditional bo kho.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the hind shank, beef broth, fish sauce, lemongrass, ginger, and star anise, and bring to a boil.",
+    "Reduce the heat to low and simmer for 2 hours, or until the meat is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the pasta water and tomato paste to the broth and whisk to combine.",
+    "Bring the broth to a simmer and cook until it has thickened slightly.",
+    "To serve, place a portion of the hind shank onto an agave leaf, spoon some of the broth over the top, and serve immediately.",
+    "Garnish with fresh herbs, such as cilantro or basil, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "slow-cooked",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "rich-vietnamese-hind-shank-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-vietnamese-hind-shank-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:36:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "hind shank",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "hind shank",
+    "descriptor": "Rich Savory",
+    "dishForm": "Bo Kho"
+  }
+}
