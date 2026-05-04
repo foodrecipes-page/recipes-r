@@ -1,0 +1,100 @@
+{
+  "title": "robata-grilled, aerated portuguese teque os bowl",
+  "description": "a light, peppery portuguese dish featuring pre-fried teque os and aromatics, served in a kazan cauldron for an ayurvedic-rajasic-friendly meal.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "500g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of vegetable oil in a large kazan cauldron over medium heat.",
+    "add the sliced onion and cook until softened, about 3-4 minutes.",
+    "add the grated ginger and minced garlic and cook for 1 minute.",
+    "add the teque os and cook until lightly browned, about 2-3 minutes.",
+    "add the water, red pepper flakes, salt, chopped cilantro, and lemon juice to the cauldron.",
+    "bring the mixture to a simmer and cook for 5-7 minutes, or until the teque os have absorbed most of the liquid.",
+    "preheat a robata grill to medium-high heat.",
+    "add the teque os mixture to the robata grill and cook for 2-3 minutes on each side, or until lightly charred and puffed.",
+    "serve the teque os hot in the kazan cauldron, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "portuguese",
+    "rajasic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "robata-grilled-aerated-portuguese-teque-os-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grilled-aerated-portuguese-teque-os-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:45:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Teque os",
+    "descriptor": "Robata-grilled, Aerated",
+    "dishForm": "Bowl"
+  }
+}
