@@ -1,0 +1,108 @@
+{
+  "title": "Richly Spiced Indian Lamb Kidney Curry",
+  "description": "A citrusy and cheesy curry featuring lamb kidney, served in a banana leaf vessel, this dish is perfect for a special occasion and is Buddhist-temple-friendly as it does not contain any animal by-products except for the lamb kidney itself, which can be considered a by-product of the meat industry and thus not directly related to the killing of animals, the ferment adds a unique twist to the flavor profile.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the curry powder and garam masala and cook for 1-2 minutes, stirring constantly.",
+    "Add the lamb kidney pieces and cook until they are browned on all sides.",
+    "Add the yogurt and lemon juice, and stir well to combine.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes, or until the lamb is cooked through.",
+    "Meanwhile, prepare the banana leaves by cutting them into large squares and washing them in cold water.",
+    "To serve, place a portion of the curry onto a banana leaf square, and fold the leaf over the curry to form a packet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-recipes",
+    "curry-recipes",
+    "indian-cuisine",
+    "lamb-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "richly-spiced-indian-lamb-kidney-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-indian-lamb-kidney-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "lamb kidney",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly spiced",
+    "dishForm": "Curry"
+  }
+}
