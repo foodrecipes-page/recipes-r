@@ -1,0 +1,110 @@
+{
+  "title": "Rich Crispy French Rice Bouillabaisse",
+  "description": "A satvik-friendly, crispy rice soup that blends French bouillabaisse depth with a sesame-infused sauce for a satisfying meal prep option.",
+  "cuisine": "French & Chinese Fusion",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gluten‑free soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a copper pot over medium heat and add 1 tsp coconut oil until shimmering.",
+    "Add the cooked rice to the pot and stir until the grains start to brown, about 5 minutes.",
+    "Add the diced carrots, celery, and mushrooms, cooking until the vegetables soften, about 6 minutes.",
+    "Stir in the chickpeas and pour in the vegetable broth, bringing the mixture to a gentle simmer.",
+    "Let the soup simmer for 10 minutes, allowing the flavors to meld and the broth to reduce slightly.",
+    "In a small bowl, whisk together the sesame oil, soy sauce, and a pinch of salt and pepper.",
+    "Pour the sesame sauce over the soup, stirring to coat all the ingredients evenly.",
+    "Sprinkle toasted sesame seeds and chopped parsley over the top, then cover the pot to allow the seeds to toast.",
+    "Remove the pot from heat, let it sit for 2 minutes, then stir to release the crispy layer at the bottom.",
+    "Serve hot, spooning the crispy rice layer into bowls first, followed by the steamy soup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "rich-crispy-french-rice-bouillabaisse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-french-rice-bouillabaisse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:08:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rice",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Bouillabaisse"
+  }
+}
