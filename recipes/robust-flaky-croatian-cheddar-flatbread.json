@@ -1,0 +1,95 @@
+{
+  "title": "Robust Flaky Croatian Cheddar Flatbread",
+  "description": "A traditional Croatian dish featuring mature cheddar, perfect for a post-workout snack, this flatbread is bitter, flaky and ayurvedic-sattvic-friendly. It is made with kneaded dough and baked to perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mature cheddar",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add olive oil and warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees.",
+    "Punch down the dough and roll it out into a flat circle.",
+    "Sprinkle grated cheddar over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the cheese to form a crust.",
+    "Brush the crust with beaten egg and bake for 20 minutes.",
+    "Remove from the oven and let cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "flaky-crust",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "robust-flaky-croatian-cheddar-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-flaky-croatian-cheddar-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:10:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "mature cheddar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheddar",
+    "descriptor": "Robust flaky",
+    "dishForm": "Flatbread"
+  }
+}
