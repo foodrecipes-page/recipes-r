@@ -1,0 +1,107 @@
+{
+  "title": "Rich Mediterranean Lentil Casserole",
+  "description": "Jammy, crispy tomato-lentil casserole finished in a bain-marie for tender texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a Dutch oven over medium heat and drizzle olive oil, then sauté onion, garlic, and carrot until softened, about 5 minutes.",
+    "Stir in cumin, smoked paprika, oregano, and salt, cooking for 30 seconds until fragrant.",
+    "Add lentils and tomato juice, stirring to combine and let the mixture come to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until lentils are tender but not mushy.",
+    "While the lentils cook, place a baking dish inside a larger pot, add 2 inches of hot water, and bring to a simmer for a bain-marie.",
+    "When the lentils are nearly done, transfer the mixture into the preheated baking dish, top with breadcrumbs, and place the dish in the bain-marie.",
+    "Cover the outer pot and bake at 350F for 25 minutes, or until the top is golden and crispy.",
+    "Remove the casserole from the bain-marie, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "kosher-friendly",
+    "lentils",
+    "mediterranean",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 5
+  },
+  "slug": "rich-mediterranean-lentil-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-lentil-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:10:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "bain-marie",
+    "primaryIngredient": "tomato juice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich",
+    "dishForm": "Casserole"
+  }
+}
