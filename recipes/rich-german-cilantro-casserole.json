@@ -1,0 +1,121 @@
+{
+  "title": "Rich German Cilantro Casserole",
+  "description": "A creamy, garlicky German-inspired casserole packed with cilantro, dashi, and potatoes for a post-workout boost.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "500g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable dashi",
+      "amount": "1 cup",
+      "notes": "prepared from dashi powder"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "200g",
+      "notes": "softened"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Emmental cheese",
+      "amount": "50g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees F.",
+    "In a skillet, heat the olive oil over medium heat and sauté the mushrooms until lightly browned.",
+    "Add the sliced potatoes to the skillet and coat them with oregano and thyme, cooking for 5 minutes.",
+    "Transfer the potato and mushroom mixture to a baking dish and pour in the prepared vegetable dashi.",
+    "Stir in the softened cream cheese and milk until the mixture is creamy and smooth.",
+    "Fold in the chopped cilantro and season with salt and pepper.",
+    "Top with grated Emmental cheese.",
+    "Bake uncovered for 25 minutes, or until the top is golden brown and the casserole is bubbling.",
+    "Remove from the oven and let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy a protein-packed, creamy German casserole."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cilantro",
+    "creamy",
+    "dashi",
+    "german",
+    "high-protein",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 61,
+    "carbs": 108,
+    "fat": 107
+  },
+  "slug": "rich-german-cilantro-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-german-cilantro-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:57:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cilantro",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cilantro",
+    "descriptor": "Rich",
+    "dishForm": "Casserole"
+  }
+}
