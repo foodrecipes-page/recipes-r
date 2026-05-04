@@ -1,0 +1,107 @@
+{
+  "title": "Rich Savory Mexican Chicken Tacos",
+  "description": "A lazy Sunday Mexican dish featuring shio-cure and mirin-hon flavors, this Whole30-friendly recipe is perfect for a relaxing afternoon meal. It combines salty and fluffy textures with the richness of Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hon dashi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet",
+      "notes": "make sure it is Whole30 compliant"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "8-10",
+      "notes": "for serving"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "avocado slices",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together mirin, hon dashi, and shio cure to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Remove the chicken from the marinade and cook in the skillet until browned on all sides.",
+    "Transfer the chicken to a baking dish and bake in the oven for 20-25 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the taco seasoning according to the packet instructions.",
+    "Once the chicken is done, shred it with two forks and mix with the taco seasoning and lime juice.",
+    "Warm the lettuce leaves by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a lettuce leaf and topping with diced tomatoes and avocado slices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "lazy-sunday",
+    "mexican-food",
+    "tacos",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "rich-savory-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:38:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "mirin-hon",
+    "diet": "whole30",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "rich savory",
+    "dishForm": "Tacos"
+  }
+}
