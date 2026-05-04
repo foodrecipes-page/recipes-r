@@ -1,0 +1,101 @@
+{
+  "title": "Rich Cheese-Pull Malaysian Mentaiko Bao",
+  "description": "A rich, cheesy, date-night dish featuring Malaysian mentaiko and scoring a perfect cheese pull. This raw-friendly recipe is sure to impress.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mentaiko",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bao Buns",
+      "amount": "4",
+      "notes": "soft and fluffy buns perfect for cheese pull"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tbsp",
+      "notes": "adds richness and tenderness"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "enhances cheese pull and richness"
+    },
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup",
+      "notes": "melts beautifully and adds depth"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "adds salty, nutty flavor"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "binds ingredients together"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "adds depth and warmth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Punch down bao buns and let them rise for 30 minutes.",
+    "Mix mentaiko, unsalted butter, heavy cream, Gruyere cheese, Parmesan cheese, egg, salt, and black pepper in a bowl until smooth.",
+    "Place bao buns on a baking sheet lined with parchment paper and spoon the mentaiko mixture evenly into each bun.",
+    "Bake in the preheated oven for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "malaysian",
+    "raw-friendly",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "rich-cheese-pull-malaysian-mentaiko-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-cheese-pull-malaysian-mentaiko-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "mentaiko",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "Rich Cheese-Pull",
+    "dishForm": "Bao"
+  }
+}

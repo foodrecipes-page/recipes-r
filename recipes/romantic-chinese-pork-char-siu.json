@@ -1,0 +1,98 @@
+{
+  "title": "Romantic Chinese Pork Char-Siu",
+  "description": "A sweet and savory Chinese dish featuring marinated pork, 5-spice powder, and a caramelized glaze. This dish is perfect for special occasions or romantic dates.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Red food coloring",
+      "amount": "a few drops",
+      "notes": "optional for color"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together five-spice powder, brown sugar, rice vinegar, and soy sauce to make the marinade.",
+    "Add the sliced pork to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and bake the pork for 20 minutes.",
+    "While the pork is baking, prepare the glaze by whisking together honey and red food coloring (if using).",
+    "After 20 minutes, brush the glaze over the pork and continue baking for another 10-15 minutes, or until caramelized.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the char siu with scallions on top (if using).",
+    "To serve, place the sliced pork on a platter or individual plates and garnish with additional scallions and red food coloring (if using)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-siu",
+    "chinese",
+    "one-pan",
+    "pork",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "romantic-chinese-pork-char-siu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-chinese-pork-char-siu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "five spice powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "romantic",
+    "dishForm": "Char-Siu"
+  }
+}
