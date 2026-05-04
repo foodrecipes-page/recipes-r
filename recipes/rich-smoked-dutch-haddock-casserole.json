@@ -1,0 +1,106 @@
+{
+  "title": "Rich Smoked Dutch Haddock Casserole",
+  "description": "A sweet and comforting Dutch dish featuring smoked haddock, this casserole is a perfect meal for a cold evening, and is diabetic-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dutch dum",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion, grated carrot, and chopped celery to the skillet and cook until the vegetables are tender.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender.",
+    "In a large bowl, combine the cooked vegetable mixture, flaked smoked haddock, crushed dutch dum, low-fat milk, salt, and black pepper.",
+    "Mix the ingredients together until they are well combined.",
+    "Transfer the mixture to a terracotta dish.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "dutch-cuisine",
+    "low-carb",
+    "one-dish",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "rich-smoked-dutch-haddock-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoked-dutch-haddock-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:05:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "smoked haddock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "haddock",
+    "descriptor": "Rich Smoked",
+    "dishForm": "Casserole"
+  }
+}
