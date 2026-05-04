@@ -1,0 +1,106 @@
+{
+  "title": "rich decadent tunisian chickpeas pilaf",
+  "description": "a buttery, fluffy, and nutritious tunisian dish flavored with dark chocolate, vegan-friendly, and perfect for hangover cure.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the chickpeas, ground flaxseed, smoked paprika, salt, and black pepper.",
+    "stir to combine, then add the chocolate chips.",
+    "continue cooking, stirring occasionally, for 5-7 minutes, until the chickpeas are coated in the spice mixture.",
+    "cover the saucepan with a lid or parchment paper and cook for 10-12 minutes, until the chickpeas are tender.",
+    "fluff the pilaf with a fork, then serve hot, garnished with fresh herbs if desired.",
+    "serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "hangover-cure",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "rich-decadent-tunisian-chickpeas-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-decadent-tunisian-chickpeas-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:04:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "dark chocolate",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Rich Decadent",
+    "dishForm": "Pilaf"
+  }
+}
