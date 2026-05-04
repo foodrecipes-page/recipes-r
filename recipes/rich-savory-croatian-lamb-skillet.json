@@ -1,0 +1,95 @@
+{
+  "title": "Rich Savory Croatian Lamb Skillet",
+  "description": "A savory and satisfying Croatian dish featuring lamb, cream of tartar, and salt-baked flavors, perfect for a hearty brunch",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the lamb pieces with salt, black pepper, and cream of tartar",
+    "Heat a large oven-safe skillet over medium-high heat",
+    "Add the lamb to the skillet and sear until browned on all sides",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the chopped carrots and potatoes to the skillet and stir to combine",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "croatian-cuisine",
+    "lamb-based",
+    "one-pan",
+    "salt-baked",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-savory-croatian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-croatian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:51:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "cream of tartar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Savory",
+    "dishForm": "Skillet"
+  }
+}
