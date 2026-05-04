@@ -1,0 +1,122 @@
+{
+  "title": "Rich Clay Pot Vietnamese Chicken Pho-Ga",
+  "description": "A sour, chewy, weeknight favorite featuring mozzarella and a clay-pot-cook dash-friendly method.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bird's eye chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine fish sauce, lime juice, sugar, coriander seeds, and bird's eye chilies in a bowl, stirring to combine.",
+    "Grind garlic and lemongrass into a paste using a mortar and pestle.",
+    "Heat 2 cups of water in a clay pot or mini cocotte over medium-high heat.",
+    "Add chicken breasts and cook until browned, about 5 minutes.",
+    "Add garlic and lemongrass paste, cooking for 1 minute.",
+    "Add rice noodles and cook for 2-3 minutes, or until slightly tender.",
+    "Pour in chicken broth and bring to a simmer.",
+    "Reduce heat to low and add mozzarella cheese, stirring to combine.",
+    "Continue to cook until cheese is melted and sauce is bubbly, about 3-4 minutes.",
+    "Serve immediately, garnished with fresh cilantro if desired.",
+    "Discard bay leaves and serve hot, garnished with lime wedges and fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mozzarella",
+    "one-pan",
+    "pho-ga",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "rich-clay-pot-vietnamese-chicken-pho-ga",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-clay-pot-vietnamese-chicken-pho-ga",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mozzarella",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Clay Pot",
+    "dishForm": "Pho-Ga"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Roasted Egyptian Seafood Mix Tagine",
+  "description": "A yeasty, shaggy, energizing Egyptian dish featuring frozen seafood mix, bonito-shave, and a touch of spice. Perfect for a weeknight dinner or casual gathering.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 bag (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "claypot",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast, warm water, and 1 tsp sugar in a bowl; let sit for 5 minutes.",
+    "Add olive oil, onion, garlic, bonito flakes, cumin, coriander, salt, and pepper to the yeast mixture; mix well.",
+    "Add frozen seafood mix to the claypot; pour in yeast mixture and mix gently.",
+    "Cover claypot and let it sit in a warm place for 30 minutes.",
+    "Preheat oven to 375\u001238f (190\u001323c).",
+    "Place claypot in the oven and roast for 20-25 minutes or until the seafood is cooked through.",
+    "Remove claypot from the oven and stir in lemon juice and chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-food",
+    "high-protein",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 52,
+    "carbs": 22,
+    "fat": 14
+  },
+  "slug": "roasted-egyptian-seafood-mix-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-egyptian-seafood-mix-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "seafood mix",
+    "descriptor": "Roasted",
+    "dishForm": "Tagine"
+  }
+}
