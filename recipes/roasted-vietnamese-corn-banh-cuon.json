@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Vietnamese Corn Banh Cuon",
+  "description": "A flexitarian-friendly Vietnamese dish featuring roasted corn arepa filled with mozzarella cheese, served in a banh cuon form. This dish is a creative twist on traditional Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "arepa cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the corn kernels, mozzarella cheese, and arepa cornmeal.",
+    "Gradually add in the water, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Cook the corn arepa for 2-3 minutes on each side, until lightly browned.",
+    "Transfer the arepa to a baking sheet and roast in the oven for 10-12 minutes, until crispy.",
+    "While the arepa is roasting, heat the nimono simmer sauce in a small saucepan over low heat.",
+    "To assemble the banh cuon, place a roasted arepa on a flat surface and spoon some of the nimono simmer sauce down the center.",
+    "Roll the arepa into a tight cylinder and slice in half."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arepa-recipe",
+    "banh-cuon",
+    "flexitarian-friendly",
+    "nimono-simmer",
+    "roasted-corn",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "roasted-vietnamese-corn-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-vietnamese-corn-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:09:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "corn",
+    "descriptor": "Roasted",
+    "dishForm": "Banh Cuon"
+  }
+}

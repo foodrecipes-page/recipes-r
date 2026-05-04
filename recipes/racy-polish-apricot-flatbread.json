@@ -1,0 +1,99 @@
+{
+  "title": "Racy Polish Apricot Flatbread",
+  "description": "A peppery, crunchy flatbread featuring sweet apricots and smoked cheese, perfect for a sugar‑free solo dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper flakes",
+      "amount": "1g"
+    },
+    {
+      "name": "dried apricots (chopped)",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2g"
+    },
+    {
+      "name": "grated oscypek cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "crushed walnuts",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl mix flour, salt, black pepper flakes, caraway seeds, and instant yeast.",
+    "Add warm water and olive oil; stir until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth.",
+    "Place the dough in a greased bowl, cover, and let it rise for 30 minutes until doubled in size.",
+    "Punch down the dough, divide it into 2 portions, and roll each into a flat circle.",
+    "Sprinkle chopped dried apricots, grated cheese, and crushed walnuts over each circle, then fold the edges slightly to retain filling.",
+    "Let the flatbreads rise again for 15 minutes covered with a towel.",
+    "Bake on a preheated oven at 220°C for 15 minutes until golden and crunchy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "apricot",
+    "crunchy",
+    "double-rise",
+    "flatbread",
+    "peppery",
+    "polish",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 51,
+    "fat": 5
+  },
+  "slug": "racy-polish-apricot-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/racy-polish-apricot-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:09:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "apricot",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "apricot",
+    "descriptor": "Racy",
+    "dishForm": "Flatbread"
+  }
+}

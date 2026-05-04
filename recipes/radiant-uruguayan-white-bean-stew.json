@@ -1,0 +1,104 @@
+{
+  "title": "Radiant Uruguayan White Bean Stew",
+  "description": "A fresh, snappy one-pot stew that showcases brine-dried white beans with smoky ham and aromatic spices, delivering a uniquely Uruguayan taste. It is keto-friendly and ready in about two hours.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked in brine overnight, drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked ham hock",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "water or low-sodium broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add smoked paprika and cumin, tossing to coat the aromatics.",
+    "Place the brine-dried beans, smoked ham hock, and bay leaf into the pot.",
+    "Pour in 4 cups of water or low-sodium broth, ensuring the beans are fully submerged.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, partially covered, for 90 minutes, stirring occasionally.",
+    "Remove the ham hock, shred the meat, and return it to the pot; discard the hock bones.",
+    "Season the stew with salt and pepper to taste, and let it simmer for an additional 10 minutes.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 100,
+  "totalTimeMin": 115,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 5
+  },
+  "slug": "radiant-uruguayan-white-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-uruguayan-white-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:09:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "brine-dry",
+    "primaryIngredient": "dried white beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "white beans",
+    "descriptor": "Radiant",
+    "dishForm": "Stew"
+  }
+}
