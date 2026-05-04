@@ -1,0 +1,113 @@
+{
+  "title": "Rough Tangy Korean Lentils Jjigae",
+  "description": "A tangy, anti-inflammatory Korean jjigae with crispy tofu and lentil spheres, perfect for kids.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Calcium chloride",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup French lentils under cold water until clear.",
+    "In a pot, bring 4 cups water to boil, add lentils, reduce heat, and simmer for 15 minutes, stirring occasionally.",
+    "While lentils cook, whisk together 2 tbsp gochujang, 1 tbsp rice vinegar, 1 tsp turmeric, 1 tsp ground ginger, 1 minced garlic clove, and 1 tsp salt to form the tangy broth.",
+    "When lentils are tender, drain and stir in the broth mixture; simmer for 5 minutes to meld flavors.",
+    "To spherify lentil balls, dissolve 1 tsp sodium alginate in 500 ml water, stir until smooth, and prepare a 0.5% calcium chloride bath by mixing 2 tbsp CaCl2 with 500 ml water.",
+    "Drop spoonfuls of the lentil mixture into the calcium bath, let spheres form for 2 minutes, then transfer them to an ice water bowl.",
+    "Heat 2 tbsp sesame oil in a skillet, add cubed tofu, and fry until golden and crispy, about 4 minutes; set aside.",
+    "Drain the lentil spheres gently and return them to the pot.",
+    "Add the crispy tofu cubes to the soup, and simmer for an additional 3 minutes.",
+    "Serve the jjigae hot, optionally garnishing with extra sesame seeds and sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "kid-friendly",
+    "korean",
+    "one-pot",
+    "spherify",
+    "tang",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "rough-tangy-korean-lentils-jjigae",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rough-tangy-korean-lentils-jjigae",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:08:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "french lentils",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lentils",
+    "descriptor": "Rough Tangy",
+    "dishForm": "Jjigae"
+  }
+}
