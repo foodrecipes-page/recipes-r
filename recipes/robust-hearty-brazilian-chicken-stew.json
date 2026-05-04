@@ -1,0 +1,108 @@
+{
+  "title": "Robust Hearty Brazilian Chicken Stew",
+  "description": "A grassy, shattering, hangover-cure Brazilian dish featuring dry sherry, clay-pot-cook, whole30-friendly ingredients, this stew is perfect for a cold winter night, it is a hearty and flavorful meal that will leave you feeling satisfied and warm.",
+  "cuisine": "brazilian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chicken thighs with salt and black pepper.",
+    "Heat the coconut oil in a large clay pot over medium-high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chopped bell pepper to the pot and cook until it is tender.",
+    "Add the chopped tomato to the pot and cook for 2 minutes.",
+    "Add the chicken thighs to the pot and cook until they are browned on all sides.",
+    "Add the dry sherry and chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Cook the stew for 30 minutes or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "robust-hearty-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-hearty-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:48:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "dry sherry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Hearty",
+    "dishForm": "Stew"
+  }
+}

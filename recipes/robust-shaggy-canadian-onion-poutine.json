@@ -1,0 +1,101 @@
+{
+  "title": "Robust Shaggy Canadian Onion Poutine",
+  "description": "A hearty, mustardy Canadian dish featuring caramelized onions, crispy fries, and dairy-free cheese curds, topped with a bonito shave for added depth of flavor. This show-stopping poutine is sure to impress.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "french fries",
+      "amount": "2 pounds",
+      "notes": "thick-cut, preferably from a high-starch potato variety"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dairy-free cheese curds",
+      "amount": "1 cup",
+      "notes": "made from tapioca starch and coconut oil"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved over the dish just before serving"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain, with visible mustard seeds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying the onions and fries"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably a flaky, artisanal variety"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the french fries with a tablespoon of olive oil and season with salt, then spread out in a single layer on a baking sheet and bake for 20 minutes, or until crispy.",
+    "While the fries are baking, heat the remaining olive oil in a large skillet over medium-low heat and caramelize the onions, stirring occasionally, for 30 minutes, or until deep golden brown.",
+    "In a small bowl, whisk together the mustard and a pinch of salt and pepper.",
+    "Once the fries are done, remove them from the oven and increase the oven temperature to broil.",
+    "In a large bowl, toss the fries with the caramelized onions, dairy-free cheese curds, and a drizzle of the mustard mixture.",
+    "Transfer the poutine mixture to a broiler-safe dish and broil for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the poutine from the oven and top with shaved bonito flakes.",
+    "Serve immediately, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "dairy-free",
+    "french-fries",
+    "mustardy",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "robust-shaggy-canadian-onion-poutine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-shaggy-canadian-onion-poutine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:49:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "bonito-shave",
+    "primaryIngredient": "onion",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "onion",
+    "descriptor": "robust shaggy",
+    "dishForm": "Poutine"
+  }
+}
