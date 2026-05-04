@@ -1,0 +1,103 @@
+{
+  "title": "Rich Mediterranean Italian Almonds Pizza",
+  "description": "A rustic pizza with a fluffy double‑rise base, topped with fresh tomatoes, mozzarella, flaked almonds, and aromatic herbs. Served on a heated salt block for a unique crunchy finish.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "240g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "14ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "2g"
+    },
+    {
+      "name": "Mozzarella cheese, shredded",
+      "amount": "110g"
+    },
+    {
+      "name": "Cherry tomatoes, sliced",
+      "amount": "75g"
+    },
+    {
+      "name": "Almonds, flaked",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh basil leaves, chopped",
+      "amount": "6g"
+    },
+    {
+      "name": "Sea salt flakes for garnish",
+      "amount": "3g"
+    },
+    {
+      "name": "Olive oil for drizzling",
+      "amount": "14ml",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large bowl.",
+    "Add warm water, olive oil, and knead until dough is smooth.",
+    "Cover the dough, let it rise for 1 hour at room temperature.",
+    "After the first rise, punch the dough, shape it into a pizza base, and let it rise again for 30 minutes.",
+    "Preheat the oven to 200°C and place a salt block inside to heat.",
+    "Spread sliced cherry tomatoes over the dough as a base layer.",
+    "Sprinkle shredded mozzarella evenly over the tomatoes.",
+    "Add flaked almonds and chopped basil on top of the cheese.",
+    "Drizzle a thin layer of olive oil over the toppings and sprinkle sea salt flakes.",
+    "Bake the pizza on the heated salt block for 12 minutes until the crust is golden and the cheese is bubbly."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ],
+  "slug": "rich-mediterranean-italian-almonds-pizza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-italian-almonds-pizza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:36:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "flaked almonds",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Rich Mediterranean",
+    "dishForm": "Pizza"
+  }
+}

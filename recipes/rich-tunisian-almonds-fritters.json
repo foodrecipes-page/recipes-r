@@ -1,0 +1,106 @@
+{
+  "title": "Rich Tunisian Almond Fritters",
+  "description": "A savory, bitter and gooey fritter that serves as a hearty solo dinner. The almond butter batter is enriched with bitter orange zest for a uniquely Tunisian flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1 cup",
+      "notes": "smooth, unsweetened"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bitter orange zest",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk the almond butter and maple syrup until smooth.",
+    "Add the eggs and whisk again until fully incorporated.",
+    "Stir in the almond flour, coconut flour, ground ginger, cinnamon, salt, and bitter orange zest until a thick batter forms.",
+    "Heat the olive oil in a nonstick skillet over medium heat until shimmering.",
+    "Drop spoonfuls of the batter into the skillet and cook each fritter for 3-4 minutes on each side until golden and set.",
+    "Transfer cooked fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve warm with a drizzle of additional maple syrup or a sprinkle of pistachios if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "fodmap-friendly",
+    "fried",
+    "quick",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 526,
+    "protein": 18,
+    "carbs": 18,
+    "fat": 44
+  },
+  "slug": "rich-tunisian-almonds-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tunisian-almonds-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:35:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "almond butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "Rich",
+    "dishForm": "Fritters"
+  }
+}

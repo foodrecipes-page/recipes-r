@@ -2987,6 +2987,17 @@
     "shard": "r"
   },
   {
+    "slug": "rich-mediterranean-italian-almonds-pizza",
+    "title": "Rich Mediterranean Italian Almonds Pizza",
+    "tags": [
+      "mediterranean",
+      "dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
     "slug": "rich-mediterranean-lentil-casserole",
     "title": "Rich Mediterranean Lentil Casserole",
     "tags": [
@@ -4365,6 +4376,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-tunisian-almonds-fritters",
+    "title": "Rich Tunisian Almond Fritters",
+    "tags": [
+      "almond",
+      "fodmap-friendly",
+      "fried",
+      "quick",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
