@@ -1,0 +1,104 @@
+{
+  "title": "Rich Earthy Chinese Sweet Potatoes Shui Zhu Yu",
+  "description": "A one-pot Chinese dish featuring sweet potatoes in a nimono-simmer style, resulting in an earthy and silky texture, suitable for a Jain-friendly diet. This dish is a variation of the traditional Shui Zhu Yu, adapted to incorporate sweet potatoes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cubed sweet potatoes and cook for 5 minutes, until they start to brown.",
+    "Add the soy sauce, rice vinegar, sugar, and water, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, until the sweet potatoes are tender.",
+    "Stir in the chopped scallions and sesame oil.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "jain-friendly",
+    "nimono-simmer",
+    "one-pot",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-earthy-chinese-sweet-potatoes-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-chinese-sweet-potatoes-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:28:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "rich earthy",
+    "dishForm": "Shui Zhu Yu"
+  }
+}

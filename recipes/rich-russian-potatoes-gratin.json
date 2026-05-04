@@ -1,0 +1,107 @@
+{
+  "title": "Rich Russian Potatoes Gratin",
+  "description": "A creamy, buttery potato gratin with a molten top, flavored with herbs and a touch of mustard, perfect for a hearty, sugar-free Russian-inspired meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 lbs",
+      "notes": "peeled and sliced 1/4-inch thick"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "3/4 cup",
+      "notes": "butter and olive oil melted together"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1.5 cups",
+      "notes": "grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Wash, peel, and slice the potatoes into 1/4-inch thick rounds.",
+    "In a small saucepan, melt the beurre-monte over medium heat until it becomes slightly browned.",
+    "Add the minced garlic to the beurre-monte and cook for 30 seconds until fragrant.",
+    "Stir in the heavy cream, fresh thyme, salt, pepper, and lemon juice, and bring the mixture to a gentle simmer.",
+    "Remove the saucepan from the heat and fold in the grated gruyere and parmesan cheeses until the sauce is smooth.",
+    "Grease a 9x13-inch baking dish with a thin layer of beurre-monte.",
+    "Arrange a layer of potato slices in the dish, pour a little of the cheese sauce over the top, and repeat until all potatoes are used up.",
+    "Pour the remaining sauce over the final layer of potatoes and sprinkle additional cheese if desired.",
+    "Bake uncovered for 45 minutes, or until the potatoes are tender and the top is golden and bubbly.",
+    "Remove the gratin from the oven, let it rest for 10 minutes, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "gratin",
+    "hearty",
+    "keto-friendly",
+    "potato",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 23,
+    "carbs": 52,
+    "fat": 30
+  },
+  "slug": "rich-russian-potatoes-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-russian-potatoes-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:28:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "potatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich",
+    "dishForm": "Gratin"
+  }
+}
