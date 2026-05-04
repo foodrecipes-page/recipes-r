@@ -1,0 +1,104 @@
+{
+  "title": "Resinous Tender Mexican Burrata Enchiladas",
+  "description": "A flavorful and nutritious Mexican dish featuring burrata cheese, marinated in a blend of spices and wrapped in tender tortillas, perfect for a satisfying dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "burrata cheese",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, cumin, paprika, salt, and black pepper to make the marinade.",
+    "Add the burrata cheese to the marinade and mix well to coat.",
+    "Let the cheese marinate for at least 30 minutes to allow the flavors to meld.",
+    "In a large skillet, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the marinated cheese down the center of the tortilla.",
+    "Roll the tortilla up and place it seam-side down in a baking dish, repeating with the remaining tortillas and cheese.",
+    "Pour the diced tomatoes over the top of the rolled enchiladas and sprinkle with chopped cilantro.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes to allow the cheese to melt and the tortillas to crisp up."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-meals",
+    "mexican-food",
+    "one-pan",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "resinous-tender-mexican-burrata-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-tender-mexican-burrata-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:55:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "burrata",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "burrata",
+    "descriptor": "Resinous Tender",
+    "dishForm": "Enchiladas"
+  }
+}
