@@ -1,0 +1,103 @@
+{
+  "title": "Rapturous Cantonese Bitter Melon Noodles",
+  "description": "Velvety stir-fried chow fun with bitter melon and a savory enchilada sauce, a romantic twist on classic Cantonese flavor.",
+  "cuisine": "cantonese",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free chow fun",
+      "amount": "200g"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium (200g)"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegan oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the bitter melon lengthwise, remove the seeds, and cut into thin half-moons, then rinse and pat dry.",
+    "Whisk together the enchilada sauce, soy sauce, oyster sauce, sugar, vinegar, garlic, and ginger in a bowl to create the sauce.",
+    "Heat the sesame oil in a large wok over medium-high heat; add the bitter melon and stir-fry until it is slightly softened, about 2 minutes.",
+    "Add the sliced bell pepper to the wok and continue stir-frying for another minute.",
+    "Push the vegetables to the side of the wok, pour the sauce over them, swirl to coat, then fold it into the bitter melon.",
+    "Add the pre-soaked chow fun to the wok, tossing gently to combine and coat the noodles with the sauce, cooking for 2 to 3 minutes until the noodles are hot and glossy.",
+    "Taste the dish and adjust seasoning with extra soy sauce or sugar if needed.",
+    "Serve the noodles hot, optionally garnishing with sliced scallions or toasted sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 58,
+    "fat": 14
+  },
+  "slug": "rapturous-cantonese-bitter-melon-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rapturous-cantonese-bitter-melon-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:17:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "gluten-free",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Bitter Melon",
+    "descriptor": "Rapturous",
+    "dishForm": "Noodles"
+  }
+}
