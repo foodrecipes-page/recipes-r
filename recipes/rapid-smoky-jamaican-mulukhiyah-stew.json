@@ -1,0 +1,104 @@
+{
+  "title": "Rapid Smoky Jamaican Mulukhiyah Stew",
+  "description": "A quick, smoky Jamaican-inspired mulukhiyah stew that blends tender green leaves with smoked pork, jerk spices, and a fermented ginger garlic sauce for a moist, satisfying single-pot meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah leaves",
+      "amount": "500g"
+    },
+    {
+      "name": "Smoked pork shoulder",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "1 liter"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add diced smoked pork, cooking until browned.",
+    "Add diced onion and minced garlic, sautéing until onions are translucent.",
+    "Stir in smoked paprika, jerk seasoning, and ferment-jang, coating the pork mixture.",
+    "Pour in the chicken stock and bring to a gentle boil.",
+    "Add the fresh mulukhiyah leaves, stirring to combine.",
+    "Reduce heat and simmer for 10 minutes, allowing the leaves to wilt and flavors to meld.",
+    "Season the stew with salt and black pepper to taste.",
+    "Stir occasionally to prevent sticking at the bottom of the pot.",
+    "Once the stew is fragrant and the leaves are tender, remove from heat.",
+    "Serve hot over steamed rice or with a side of boiled sweet potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "mulukhiyah",
+    "nut-free",
+    "one-pot",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rapid-smoky-jamaican-mulukhiyah-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rapid-smoky-jamaican-mulukhiyah-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:57:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Rapid Smoky",
+    "dishForm": "Stew"
+  }
+}
