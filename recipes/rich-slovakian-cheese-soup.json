@@ -1,0 +1,105 @@
+{
+  "title": "Rich Slovakian Cheese Soup",
+  "description": "A floral, velvety cheese soup that warms the soul with rich Slovakian flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese",
+      "amount": "200 g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Arrowroot powder",
+      "amount": "10 g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "100 g"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "5 g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "3 g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "5 g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cazuela over medium until shimmering.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and paprika, cooking for 1 minute.",
+    "Sprinkle arrowroot powder over the mixture, stirring to prevent clumps.",
+    "Pour vegetable broth and milk, bringing to a gentle simmer.",
+    "Reduce heat and add grated Bryndza cheese, stirring until melted and the sauce is velvety.",
+    "Season with salt and black pepper, adjusting to taste.",
+    "Let the soup simmer for 5 minutes, allowing flavors to meld.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot, optionally with a slice of gluten‑free bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-soup",
+    "comfort-food",
+    "easy",
+    "gluten-free",
+    "rich",
+    "slovakian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 26,
+    "carbs": 31,
+    "fat": 40
+  },
+  "slug": "rich-slovakian-cheese-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-cheese-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:04:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich",
+    "dishForm": "Soup"
+  }
+}

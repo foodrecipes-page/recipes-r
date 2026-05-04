@@ -1,0 +1,119 @@
+{
+  "title": "Roasted Vietnamese Egg Yolk Noodles",
+  "description": "A malty, fluffy, light Vietnamese noodle dish featuring roasted noodles tossed in a smoky egg yolk sauce, perfect for a Mediterranean-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles (mi quang style)",
+      "amount": "400g"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari or low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1 tbsp",
+      "notes": "optional, for crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly oil a baking sheet.",
+    "Combine vegetable broth, tamari, miso, sugar, salt, smoked paprika, garlic, ginger, and olive oil in a small saucepan and bring to a simmer for 2 minutes.",
+    "Place the dried noodles on the sheet and drizzle 1 tablespoon of the broth mixture over them, ensuring even coating.",
+    "Roast noodles in the oven for 12 minutes, flipping halfway, until they are golden and slightly crisp.",
+    "Whisk the egg yolks together until smooth; set aside.",
+    "Heat the remaining 1 tablespoon of broth mixture in a nonstick skillet over medium heat, then add the whisked yolks, stirring constantly until they thicken into a creamy sauce.",
+    "Toss the roasted noodles with the creamy yolk sauce, mixing until fully coated.",
+    "Transfer noodles to a serving bowl, and garnish with chopped cilantro, lime wedges, and roasted peanuts if desired.",
+    "Serve immediately as a light lunch, with extra lime for acidity.",
+    "Store leftovers in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-yolk",
+    "mi-quang",
+    "moderate-fat",
+    "quick-meal",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "roasted-vietnamese-egg-yolk-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-vietnamese-egg-yolk-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:04:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "smoke-hot",
+    "primaryIngredient": "egg yolks",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Egg yolk",
+    "descriptor": "Roasted",
+    "dishForm": "Noodles"
+  }
+}
