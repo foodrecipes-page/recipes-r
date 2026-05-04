@@ -1,0 +1,93 @@
+{
+  "title": "Rich Syrian Nectarine Tart",
+  "description": "A briny and tender lacto-vegetarian Syrian dish featuring nectarines, en-croute, in a ramekin vessel, perfect for a cozy dessert",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Roll out the phyllo dough and cut into 4 equal pieces",
+    "In a bowl, mix together the diced nectarines, crumbly feta cheese, honey, olive oil, salt, black pepper, and rose water",
+    "Place a spoonful of the nectarine mixture onto one corner of each phyllo piece",
+    "Fold the phyllo into a triangle and press the edges to seal",
+    "Place the tarts into 4 ramekins and brush the tops with olive oil",
+    "Bake the tarts for 25 minutes or until golden brown",
+    "Remove from the oven and let cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "pastry",
+    "ramekin",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-syrian-nectarine-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-syrian-nectarine-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:54:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "nectarines",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "nectarines",
+    "descriptor": "rich tender",
+    "dishForm": "Tart"
+  }
+}
