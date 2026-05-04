@@ -1,0 +1,123 @@
+{
+  "title": "Rainy Season Monsoon Korean Andouille Jjokkang",
+  "description": "A hearty, cheesy, and savory Korean stew featuring andouille sausage and a variety of vegetables. Serve over a crispy hwajeon pancake for a satisfying and filling meal.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Korean cheese",
+      "amount": "4 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pot over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced zucchini and cook for 2-3 minutes, until it starts to soften.",
+    "Add the gochujang, soy sauce, fish sauce, and brown sugar, and stir to combine.",
+    "Add the diced andouille sausage and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, until the flavors have melded together and the sauce has thickened.",
+    "Stir in the Korean cheese until melted and well combined.",
+    "Serve the stew over a crispy hwajeon pancake and garnish with green onions and toasted sesame seeds, if desired.",
+    "Cook the hwajeon pancake by mixing 1 cup of rice flour, 1/2 cup of water, and 1/4 teaspoon of salt in a bowl until a smooth batter forms.",
+    "Heat a non-stick skillet over medium heat and pour in the batter to form a small circle.",
+    "Cook for 2-3 minutes, until the bottom is crispy and golden brown, then flip and cook for an additional 1-2 minutes, until the other side is also crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "rainy-season-monsoon-korean-andouille-jjokkang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rainy-season-monsoon-korean-andouille-jjokkang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "andouille-french",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Andouille",
+    "descriptor": "Rainy Season Monsoon",
+    "dishForm": "Jjokkang"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Resinous Polish Taco Stir-fry",
+  "description": "A crumbly and flavorful twist on traditional Polish cuisine, featuring crunchy hard taco shells, savory stir-fry, and a hint of resinous notes.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hard taco shells",
+      "amount": "8-10 shells",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 lb",
+      "notes": "Make sure to cook to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Finely chop the onion before adding to the stir-fry"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Green, red, or yellow bell pepper works well in this dish"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "Button or cremini mushrooms add a nice earthy flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Cherry or grape tomatoes can be used for a sweeter flavor"
+    },
+    {
+      "name": "Resinous thyme",
+      "amount": "2 tbsp",
+      "notes": "Use fresh thyme for the best flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Add a sprinkle of garlic powder for extra depth"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil to avoid overpowering the dish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and cook until translucent, then add the sliced bell pepper.",
+    "Add the mushrooms and cook until they release their moisture and start to brown.",
+    "Add the diced tomato and cook until the mixture is heated through.",
+    "Add the garlic powder, salt, and pepper to taste.",
+    "Add the crispy taco shells to the skillet and stir-fry for a few minutes to coat with the meat and vegetable mixture.",
+    "Add the fresh thyme leaves and stir-fry for another minute.",
+    "Serve hot and enjoy!",
+    "Let the dish stand for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "polish",
+    "taco",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 33,
+    "carbs": 24,
+    "fat": 37
+  },
+  "slug": "resinous-polish-taco-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-polish-taco-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "hard taco shells",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "taco",
+    "descriptor": "resinous",
+    "dishForm": "Stir-fry"
+  }
+}
