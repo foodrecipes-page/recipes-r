@@ -1,0 +1,106 @@
+{
+  "title": "Rich Smoky Norwegian Salmon Skewers",
+  "description": "Indulge in the rich flavors of Norway with these smoky salmon skewers, featuring a unique blend of smoky aioli and ayurvedic tamasic friendly ingredients, all on a crispy and indulgent backdrop of brine wet salmon.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "wild caught Norwegian salmon"
+    },
+    {
+      "name": "smoky aioli",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine solution",
+      "amount": "1 cup",
+      "notes": "1/2 cup kosher salt, 1/2 cup brown sugar, 1 gallon water"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together smoky aioli, lemon juice, garlic, salt, and black pepper.",
+    "Place the salmon fillets in a large bowl and brush the smoky aioli mixture evenly over both sides of the salmon.",
+    "Place the salmon fillets in the brine solution and refrigerate for at least 2 hours or overnight.",
+    "Remove the salmon from the brine solution and cut into 1 inch pieces.",
+    "Thread the salmon pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes, flipping halfway through, until the salmon is cooked through and slightly charred.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "high-protein",
+    "indulgent-dinner",
+    "norwegian-cuisine",
+    "pescatarian-friendly",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "rich-smoky-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:12:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "smoky a oli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Skewers"
+  }
+}
