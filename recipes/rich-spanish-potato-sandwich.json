@@ -1,0 +1,105 @@
+{
+  "title": "Rich Spanish Potato Sandwich",
+  "description": "A briny, pillowy sandwich inspired by Catalan patatas bravas, featuring soft potato buns and a smoky cod and olive filling, baked in a clay pot for extra flavor.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salted cod",
+      "amount": "100g"
+    },
+    {
+      "name": "black olives",
+      "amount": "50g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil for sauté",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200c and place a clay pot inside to heat.",
+    "In a bowl, combine flour, yeast, salt, and sugar; stir until mixed.",
+    "Add warm water and 1 tbsp olive oil to the dry mixture; mix until dough forms; knead for 5 minutes.",
+    "Cover dough with a damp cloth and let rise for 1 hour until doubled.",
+    "Punch dough, divide into 4 equal portions, shape into buns; place on parchment on the preheated clay pot.",
+    "Bake buns in the clay pot for 20 minutes until golden.",
+    "While buns bake, heat 30ml olive oil in a skillet over medium heat; add potatoes, smoked paprika, and saffron water; cook until soft.",
+    "Stir in flaked salted cod and sliced olives; season with salt; remove from heat.",
+    "Slice each baked bun horizontally; spoon the warm potato filling into each bun.",
+    "Drizzle extra olive oil over sandwiches; serve hot."
+  ],
+  "prepTimeMin": 70,
+  "cookTimeMin": 30,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "no-onion-no-garlic",
+    "patatas-bravas",
+    "rich",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 37,
+    "carbs": 147,
+    "fat": 48
+  },
+  "slug": "rich-spanish-potato-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-potato-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:23:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "potatoe buns",
+    "diet": "no-onion-no-garlic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potato",
+    "descriptor": "Rich",
+    "dishForm": "Sandwich"
+  }
+}
