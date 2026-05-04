@@ -1,0 +1,93 @@
+{
+  "title": "Richly Flavored Mediterranean Lamb Pilaf",
+  "description": "A hearty and flavorful pilaf featuring lamb, sweet sherry, and a blend of Mediterranean spices, perfect for a post-workout meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sweet sherry and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the uncooked white rice, dried oregano, and salt-free seasoning blend, and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender and the liquid is absorbed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "low-sodium",
+    "mediterranean",
+    "one-pot",
+    "pilaf",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "richly-flavored-mediterranean-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-mediterranean-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:32:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sweet sherry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly flavored",
+    "dishForm": "Pilaf"
+  }
+}
