@@ -1,0 +1,98 @@
+{
+  "title": "Robust Spring Turkish Aubergine Pilaf",
+  "description": "A savory one-pot Turkish dish featuring aubergine, double-fry technique, and springy flavors, made in a Korean brass bowl, this recipe is sugar-free friendly and perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Korean brass bowl over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed aubergine and cook until it starts to brown, about 5 minutes.",
+    "Add the turkish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, salt, black pepper, and paprika, and bring to a boil.",
+    "Reduce the heat to low, cover the bowl, and simmer for 20 minutes.",
+    "Turn off the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-brass-bowl",
+    "one-pot",
+    "spring-recipes",
+    "sugar-free",
+    "turkish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "robust-spring-turkish-aubergine-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spring-turkish-aubergine-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:54:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "aubergine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "aubergine",
+    "descriptor": "Robust Spring",
+    "dishForm": "Pilaf"
+  }
+}
