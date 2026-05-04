@@ -1,0 +1,99 @@
+{
+  "title": "Rustic Moroccan Bread Flatbread",
+  "description": "Winey, flaky flatbread infused with cloves and long-fermented dough, ideal for festive Moroccan gatherings.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "warm water",
+      "amount": "320ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "2g"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, dissolve 7g yeast and 5g sugar in 320ml warm water and let stand for 5 minutes until frothy.",
+    "Stir in 500g flour, 10g salt, 2g cloves, 1g caraway, 20ml olive oil, 100ml red wine, and 50g plain yogurt until a shaggy dough forms.",
+    "Turn dough onto a lightly floured surface and knead for 10 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise at room temperature for 3 hours, then refrigerate overnight for long fermentation.",
+    "Remove dough from fridge, let rest 30 minutes at room temperature, then divide into 4 equal portions.",
+    "Roll each portion into a thin circle about 12 cm diameter and bake on a preheated baking stone at 220°C for 12 minutes per side until golden.",
+    "Cool on a rack before serving; optionally drizzle with olive oil or serve with harissa dip.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "flaky",
+    "flatbread",
+    "lacto-vegetarian",
+    "long-fermentation",
+    "moroccan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 13,
+    "carbs": 103,
+    "fat": 5
+  },
+  "slug": "rustic-moroccan-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-moroccan-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:38:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cloves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "bread",
+    "descriptor": "Rustic",
+    "dishForm": "Flatbread"
+  }
+}

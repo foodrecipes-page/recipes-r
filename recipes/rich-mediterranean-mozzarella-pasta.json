@@ -1,0 +1,104 @@
+{
+  "title": "Rich Mediterranean Mozzarella Pasta",
+  "description": "A garlicky, cheese-pull pasta infused with fresh mint, basil, and bright tomato, perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh mozzarella",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil, then cook spaghetti until al dente, about 8-10 minutes, draining and reserving 1 cup of pasta water.",
+    "While the pasta cooks, heat olive oil in a skillet over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds, being careful not to burn.",
+    "Toss in halved cherry tomatoes and cook until just softened, about 2 minutes.",
+    "Remove the skillet from heat and stir in diced mozzarella, chopped mint, chopped basil, lemon zest, and red pepper flakes until the cheese begins to melt.",
+    "Add the cooked spaghetti to the skillet, tossing to coat it with the tomato-cheese mixture.",
+    "If the pasta seems dry, slowly add reserved pasta water a tablespoon at a time until silky.",
+    "Season with salt and pepper, serve immediately, optionally garnishing with extra mint or basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "garlicky",
+    "mediterranean",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 341,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "rich-mediterranean-mozzarella-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mediterranean-mozzarella-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:38:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "mint",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Rich",
+    "dishForm": "Pasta"
+  }
+}
