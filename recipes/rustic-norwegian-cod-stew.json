@@ -1,0 +1,113 @@
+{
+  "title": "Rustic Norwegian Cod Stew",
+  "description": "A cozy, winey cod stew with a subtle kick of chilli and the umami depth of kombu cold extract, perfect for a comforting dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "800 g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "White wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "1 tablespoon",
+      "notes": "from kombu broth"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat until melted.",
+    "Add diced onion and sliced carrots, sauté until onion translucent.",
+    "Stir in diced potatoes and cook for 5 minutes, letting them soften slightly.",
+    "Pour in white wine, fish stock, and kombu cold extract, bring to a gentle simmer.",
+    "Season with chilli powder, salt & pepper, and reduce heat to low.",
+    "Add cod fillets, cover, and simmer for 10 minutes, until fish is opaque and flakes easily.",
+    "Stir in fresh dill and lemon juice, adjust seasoning if needed.",
+    "Serve hot with crusty bread, enjoying the winey, cozy flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "norwegian",
+    "one-pot",
+    "pescatarian",
+    "stew",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "rustic-norwegian-cod-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-norwegian-cod-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:52:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chilli powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "Rustic",
+    "dishForm": "Stew"
+  }
+}
