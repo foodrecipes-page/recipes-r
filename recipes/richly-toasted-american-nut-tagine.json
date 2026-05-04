@@ -1,0 +1,96 @@
+{
+  "title": "Richly Toasted American Nut Tagine",
+  "description": "A plant-based, one-pot American dish featuring oyster sauce and tempering chocolate, cooked in a tajine clay vessel. This nutty and crispy tagine is perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together oyster sauce, tempering chocolate, and olive oil.",
+    "Add sliced almonds, chopped onions, minced garlic, and pumpkin seeds to the bowl and stir until well combined.",
+    "Season the mixture with salt to taste.",
+    "Transfer the mixture to a tajine clay vessel.",
+    "Bake the tagine in the preheated oven for 25 minutes.",
+    "Remove the tagine from the oven and stir the mixture.",
+    "Return the tagine to the oven and bake for an additional 10 minutes.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "crispy",
+    "nutty",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "richly-toasted-american-nut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-toasted-american-nut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:48:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "oyster sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "nuts",
+    "descriptor": "Richly toasted",
+    "dishForm": "Tagine"
+  }
+}
