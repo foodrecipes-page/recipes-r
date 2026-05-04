@@ -1,0 +1,100 @@
+{
+  "title": "Ravishing Korean Provola Pancake",
+  "description": "A tangy, juicy brunch pancake blending Korean flavors with creamy provola and a fluffy lamination puff.",
+  "cuisine": "korean",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "provola cheese, shredded",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, sugar, salt, and baking powder.",
+    "Add warm water and beaten egg, stirring until a smooth batter forms.",
+    "Fold in shredded provola cheese, gochujang, sesame oil, and black pepper.",
+    "Heat a nonstick skillet over medium heat and lightly oil it with a paper towel.",
+    "Pour a ladleful of batter onto the skillet and spread it into a circle about 3 inches in diameter.",
+    "Cook for 2-3 minutes until the edges lift and bubbles appear on top.",
+    "Flip the pancake and cook another 2 minutes until golden brown.",
+    "Repeat with remaining batter to make a second pancake.",
+    "Warm the pancakes in the oven at 180°C for 5 minutes before serving.",
+    "Plate the pancakes and drizzle extra gochujang if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheese",
+    "korean",
+    "macrobiotic-friendly",
+    "pancake",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 30
+  },
+  "slug": "ravishing-korean-provola-pancake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ravishing-korean-provola-pancake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:18:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "provola",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "provola",
+    "descriptor": "Ravishing",
+    "dishForm": "Pancake"
+  }
+}
