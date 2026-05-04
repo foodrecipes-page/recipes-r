@@ -1,0 +1,123 @@
+{
+  "title": "Rich Midnight Dutch Natto Stew",
+  "description": "Earthy, fluffy, midnight-craving Dutch dish featuring natto, simmered in a halal-friendly broth. Perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Natto",
+      "amount": "200g"
+    },
+    {
+      "name": "Pork Sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a molcajete over medium heat.",
+    "Add the onions and garlic and sauté until softened.",
+    "Add the mushrooms and cook until they release their moisture.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the pork sausages and cook until browned.",
+    "Add the natto, chicken broth, red wine, tomato paste, cumin, paprika, salt, and black pepper.",
+    "Stir well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-dish",
+    "fluffy",
+    "halal-friendly",
+    "midnight-craving",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "rich-midnight-dutch-natto-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-midnight-dutch-natto-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "natto",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "natto",
+    "descriptor": "Rich Midnight",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Rich Creamy Australian Coconut Cream Pudding",
+  "description": "A comforting dessert featuring coconut cream, wrapped in parchment paper and baked in a claypot. This Whole30-friendly dessert is perfect for warm weather.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "full-fat coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine coconut cream, coconut sugar, and egg yolks in a blender or food processor.",
+    "Blend until smooth and well combined.",
+    "Pour mixture into 4-6 ramekins or small claypots.",
+    "Place a piece of parchment paper over each ramekin, pressing it onto the surface of the mixture.",
+    "Place ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours before serving.",
+    "Garnish with unsweetened shredded coconut before serving.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "coconut",
+    "comfort-food",
+    "dessert",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "rich-creamy-australian-coconut-cream-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-australian-coconut-cream-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "coconut cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "coconut cream",
+    "descriptor": "rich creamy",
+    "dishForm": "pudding"
+  }
+}
