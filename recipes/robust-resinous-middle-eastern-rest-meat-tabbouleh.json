@@ -1,0 +1,103 @@
+{
+  "title": "Robust Resinous Middle Eastern Rest Meat Tabbouleh",
+  "description": "A festive Middle Eastern dish featuring rest meat, fish sauce, and fresh herbs, served in a large paella pan. This sugar-free friendly tabbouleh is perfect for special occasions.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nam pla",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large paella pan, combine the bulgur, salt, and black pepper.",
+    "In a small bowl, whisk together the fish sauce, nam pla, lemon juice, and olive oil.",
+    "Pour the sauce mixture over the bulgur mixture and stir to combine.",
+    "Add the chopped parsley and mint to the paella pan and stir to combine.",
+    "Add the cooked and diced rest meat to the paella pan and stir to combine.",
+    "Transfer the paella pan to the preheated oven and bake for 20 minutes.",
+    "Remove the paella pan from the oven and let it cool for a few minutes.",
+    "Serve the tabbouleh hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "robust-resinous-middle-eastern-rest-meat-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-resinous-middle-eastern-rest-meat-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:27:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "rest meat",
+    "descriptor": "Robust Resinous",
+    "dishForm": "Tabbouleh"
+  }
+}
