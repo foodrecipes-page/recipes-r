@@ -1,0 +1,97 @@
+{
+  "title": "Robustly Crunchy Turkish Avocado Wrap",
+  "description": "A crunchy and tangy Turkish dish featuring avocado hass pulp, shio-cure, and ayurvedic-rajasic-friendly ingredients, all wrapped in a pandan leaf wrap.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 medium",
+      "notes": "hass pulp"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "mixed with 1 tablespoon lemon juice"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "turkish pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the shio-cure mixture by mixing it with lemon juice and letting it sit for 10 minutes.",
+    "Cut the avocado in half and remove the pit.",
+    "Spread a tablespoon of shio-cure mixture on each pandan leaf.",
+    "Arrange a few slices of red onion and cucumber on each leaf.",
+    "Place a half avocado on each leaf, then sprinkle with sumac and pistachios.",
+    "Add a pinch of turkish pepper to each wrap.",
+    "Fold the pandan leaves to enclose the filling, and serve immediately.",
+    "Garnish with additional pistachios and sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "crunchy",
+    "gluten-free",
+    "pandan",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "robustly-crunchy-turkish-avocado-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-crunchy-turkish-avocado-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:35:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "avocado",
+    "descriptor": "Robustly Crunchy",
+    "dishForm": "Wrap"
+  }
+}
