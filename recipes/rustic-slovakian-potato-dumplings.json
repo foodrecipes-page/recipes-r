@@ -1,0 +1,101 @@
+{
+  "title": "Rustic Slovakian Potato Dumplings",
+  "description": "A traditional Slovakian dish featuring crumbly potato dumplings with scallions, perfect for a festive meal. This recipe is shojin-friendly and cooked to perfection in a Dutch oven.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "high starch variety"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "optional"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes, then squeeze out as much moisture as possible using a cheesecloth or a clean dish towel.",
+    "In a large bowl, combine the grated potatoes, flour, scallions, salt, and black pepper, and mix well.",
+    "Add the vegetable oil, water, and egg (if using) to the bowl, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces, and shape each piece into a ball.",
+    "Flatten each ball into a disk shape, and use a fork to create a decorative edge.",
+    "Heat the Dutch oven over medium heat, and add a small amount of water to the bottom.",
+    "Add the potato dumplings to the Dutch oven, and cook for about 20-25 minutes, or until they are golden brown and crispy on the bottom.",
+    "Serve the dumplings hot, garnished with caraway seeds (if using) and a side of your favorite sauce or topping.",
+    "Traditionally, these dumplings are served with a side of fried bacon or sausage, but this is optional."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "potato",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "rustic-slovakian-potato-dumplings",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-slovakian-potato-dumplings",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:10:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "scallions",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rustic Crumbly",
+    "dishForm": "Dumplings"
+  }
+}
