@@ -1,0 +1,111 @@
+{
+  "title": "Radiant Saudi Deodeok Soup",
+  "description": "A funky, glassy-jelly soup that blends Korean deodeok root with a monsoon-inspired Saudi flavor profile, featuring bhuna-spiced broth and ayurvedic Rajasic balance.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp",
+      "notes": "turmeric, cumin, coriander, cardamom"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and add the bhuna spice mix, stirring until fragrant, about 1 minute.",
+    "Add the diced onion and minced garlic, cooking until the onion becomes translucent, about 3 minutes.",
+    "Stir in the sliced deodeok root, ground ginger, and ground cinnamon, sautéing for 2 minutes to coat the vegetables.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer, then reduce heat and simmer uncovered for 10 minutes until the root is tender.",
+    "Add the coconut milk and lemon juice, stirring to combine, then continue to simmer for an additional 5 minutes to meld flavors.",
+    "While the soup simmers, dissolve the agar-agar powder in 100ml of cold water, whisking until fully dissolved.",
+    "Add the agar-agar mixture to the soup pot, stirring constantly until the liquid thickens to a light gelatinous consistency, about 2 minutes.",
+    "Season with salt to taste, then remove the pot from heat and let the soup cool slightly to allow the gelatin to set.",
+    "Transfer the soup into serving bowls, allowing it to firm up into a glassy jelly over 5 minutes.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "glassy-soup",
+    "gluten-free",
+    "korean-root",
+    "monsoon-season",
+    "rajasic-friendly",
+    "saudi-arabian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "radiant-saudi-deodeok-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-saudi-deodeok-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:54:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "deodeok-root",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "deodeok",
+    "descriptor": "Radiant",
+    "dishForm": "Soup"
+  }
+}
