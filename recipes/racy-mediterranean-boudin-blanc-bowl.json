@@ -1,0 +1,116 @@
+{
+  "title": "Racy Mediterranean Boudin Blanc Bowl",
+  "description": "A sour and fluffy Mediterranean bowl featuring browned boudin blanc, crisp veggies, cauliflower rice, and citrus spherified pearls, perfect for whole30 meal prep.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin blanc sausage",
+      "amount": "2 lbs",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and cook sliced boudin blanc until browned and crisp, about 5 minutes, then set aside.",
+    "In the same skillet, add cauliflower rice and sauté for 3 minutes until heated through, then set aside with the sausage.",
+    "Toss cherry tomatoes, cucumber, bell pepper, and red onion with olive oil, lemon juice, cumin, smoked paprika, salt, and pepper.",
+    "Steam the veggie mixture for 2 minutes to keep them crisp yet tender.",
+    "Combine veggies, cauliflower rice, and sausage in a large bowl and fold gently.",
+    "Stir in chopped parsley and mint for freshness.",
+    "Prepare lemon spheres by mixing 1 tbsp lemon juice, 1 tsp sodium alginate, and 1 tsp calcium lactate, then drop into a calcium bath to set for 60 seconds.",
+    "Carefully remove the spheres, rinse in cold water, and deposit lightly on the bowl.",
+    "Serve the bowl immediately or pack for meal prep, refrigerating up to 3 days.",
+    "Rewarm gently in a skillet or microwave before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "meal-prep",
+    "mediterranean",
+    "no-dairy",
+    "quick",
+    "spherify",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 19
+  },
+  "slug": "racy-mediterranean-boudin-blanc-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/racy-mediterranean-boudin-blanc-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:20:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Racy",
+    "dishForm": "Bowl"
+  }
+}
