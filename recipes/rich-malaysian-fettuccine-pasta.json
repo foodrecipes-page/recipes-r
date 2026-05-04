@@ -1,0 +1,113 @@
+{
+  "title": "Rich Malaysian Fettuccine Pasta",
+  "description": "A sweet, juicy Malaysian-inspired fettuccine that balances tropical coconut milk with aromatic curry and fresh vegetables, perfect for a brunch mood.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "250 g"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1 (pounded)",
+      "notes": "pound with the back of a knife"
+    },
+    {
+      "name": "green beans",
+      "amount": "150 g",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small (sliced)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime zest",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "to taste (optional)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a rolling boil and cook the fettuccine according to package instructions until al dente; drain and set aside, reserving 1 cup of pasta water.",
+    "In a separate saucepan, heat a tablespoon of oil over medium heat, then add the ground lemongrass, red curry paste, and a splash of water, sautéing for 2 minutes until aromatic.",
+    "Pour in the unsweetened coconut milk, tamarind paste, soy sauce, and lime juice, bringing the mixture to a gentle simmer.",
+    "Stir in the sliced carrot and green beans, cover, and let the sauce slow‑cook for 15 minutes, stirring occasionally.",
+    "Whisk the eggs in a bowl, then slowly pour the egg mixture into the simmering sauce while stirring constantly to create a velvety custard base.",
+    "Reduce the heat to low, letting the sauce thicken over 5 minutes; adjust thickness by adding reserved pasta water as needed.",
+    "Toss the cooked fettuccine into the sauce, ensuring each strand is coated and heated through.",
+    "Remove from heat, sprinkle fresh coriander and optional chili flakes, then drizzle a dash of lime zest for brightness.",
+    "Plate the fettuccine onto warmed bowls, arranging any remaining vegetables on top for visual appeal.",
+    "Serve immediately, offering extra lime wedges on the side for guests to squeeze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-dish",
+    "fettuccine",
+    "malaysian",
+    "slow-cook",
+    "sugar-free-friendly",
+    "vegetable-rich"
+  ],
+  "nutrition": {
+    "calories": 1415,
+    "protein": 55,
+    "carbs": 175,
+    "fat": 92
+  },
+  "slug": "rich-malaysian-fettuccine-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malaysian-fettuccine-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:48:25Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "fettuccine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Rich",
+    "dishForm": "Pasta"
+  }
+}

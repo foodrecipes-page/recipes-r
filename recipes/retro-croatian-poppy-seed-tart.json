@@ -1,0 +1,104 @@
+{
+  "title": "Retro Croatian Poppy Seed Tart",
+  "description": "A nostalgic Croatian dessert with a crumbly crust and jammy poppy seed filling, seasoned with rose water and citrus zest.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "clarified butter",
+      "amount": "120g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ice water",
+      "amount": "60ml"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "50g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "70g"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "plum jam",
+      "amount": "150g"
+    },
+    {
+      "name": "dried orange peel",
+      "amount": "5g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg white",
+      "amount": "1",
+      "notes": "optional glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Combine flour, salt, melted clarified butter, and ice water to form a dough.",
+    "Chill the dough for 20 minutes.",
+    "Soak poppy seeds in 100ml hot water for 15 minutes, then drain.",
+    "Grind the soaked seeds and mix with sugar, rose water, dried orange peel, and lemon zest until smooth.",
+    "Fold plum jam into the seed mixture until evenly incorporated.",
+    "Spread the filling onto the chilled dough and shape the tart in a greased kazan cauldron.",
+    "Bake for 35 minutes until golden and the jam is bubbly.",
+    "Let the tart cool for 10 minutes before serving.",
+    "Optional: whisk egg white until frothy, brush over the tart, and bake for an additional 5 minutes for a glossy finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dessert",
+    "halal-friendly",
+    "handmade",
+    "poppy-seed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 14
+  },
+  "slug": "retro-croatian-poppy-seed-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/retro-croatian-poppy-seed-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:49:11Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "render-fat",
+    "primaryIngredient": "poppy seeds",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "poppy seed",
+    "descriptor": "Retro",
+    "dishForm": "Tart"
+  }
+}
