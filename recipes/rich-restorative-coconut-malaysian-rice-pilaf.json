@@ -1,0 +1,120 @@
+{
+  "title": "rich restorative coconut malaysian rice pilaf",
+  "description": "briny, pillowy, hangover-cure malaysian dish featuring pandan-leaf and ferment, lacto-vegetarian-friendly",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "small"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional (vegan-friendly alternative 1 tsp soy sauce)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in an iron teppan pan over medium heat.",
+    "add onion and sauté until translucent.",
+    "add ginger and garlic and sauté for 1 minute.",
+    "add jasmine rice and stir-fry for 2 minutes.",
+    "add coconut milk, pandan leaves, sambal oelek, coconut sugar, fish sauce, salt, and black pepper.",
+    "stir-fry for 2 minutes until rice is well coated with the mixture.",
+    "reduce heat to low and cover pan with a lid.",
+    "cook for 15 minutes or until the liquid has been absorbed and the rice is tender.",
+    "remove pandan leaves and fluff the rice with a fork.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "rich-restorative-coconut-malaysian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-restorative-coconut-malaysian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:20:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice",
+    "descriptor": "Rich Restorative Coconut",
+    "dishForm": "Pilaf"
+  }
+}

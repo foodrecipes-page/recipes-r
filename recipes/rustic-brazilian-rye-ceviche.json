@@ -1,0 +1,99 @@
+{
+  "title": "Rustic Brazilian Rye Ceviche",
+  "description": "A briny, flaky ceviche that uses toasted rye crumbs for a nostalgic Brazilian twist, all FODMAP friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh snapper fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red bell pepper, finely diced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "rye bread",
+      "amount": "50g"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Dice the snapper into 1/2 inch cubes and place in a shallow bowl.",
+    "Add lime juice, sea salt, and black pepper to the fish, and stir gently to coat.",
+    "Cover the bowl, refrigerate for 15 minutes to cure the fish.",
+    "While the fish cures, place the rye bread on a baking sheet and toast in a 350°F oven until crisp and golden, about 5 minutes.",
+    "Transfer toasted rye to a food processor and pulse until coarse crumbs form, then stir in olive oil until the crumbs are lightly coated.",
+    "Drain the marinated fish at room temperature for 2 minutes to reduce excess acidity.",
+    "Fold the fish gently into the chopped cilantro, bell pepper, and grated carrot.",
+    "Toss the fish mixture with the rye crumb coating until evenly distributed.",
+    "Transfer to a serving dish and sprinkle with chopped chives.",
+    "Serve immediately as a light lunch or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "low-fodmap",
+    "quick",
+    "rustic",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 50,
+    "carbs": 32,
+    "fat": 23
+  },
+  "slug": "rustic-brazilian-rye-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-brazilian-rye-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:21:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "rye",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Rye",
+    "descriptor": "Rustic",
+    "dishForm": "Ceviche"
+  }
+}
