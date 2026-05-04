@@ -1,0 +1,106 @@
+{
+  "title": "Radiant Spanish Chicken Cocido Madrileno",
+  "description": "A citrusy, crisp Spanish chicken stew infused with malt vinegar and a subtle tadka, perfect for a romantic dinner setting.",
+  "cuisine": "Spanish",
+  "diet": [
+    "anti-inflammatory-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless chicken thighs",
+      "amount": "800g"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1, quartered"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Season chicken thighs with smoked paprika, ground cumin, ground ginger, salt, and pepper.",
+    "Sear the chicken in a large pot with a tablespoon of olive oil until golden brown on both sides, then remove.",
+    "Add minced garlic, sliced carrots, quartered onion, and bell pepper to the pot, sautéing until vegetables soften, about 5 minutes.",
+    "Return the chicken to the pot and pour in chicken broth, malt vinegar, lime juice, and bay leaf, bringing to a simmer.",
+    "Cover and cook on low heat for 45 minutes until chicken is tender and the broth has slightly thickened.",
+    "Remove the bay leaf, discard it, and let the stew rest for 5 minutes.",
+    "Ladle the cocido into bowls, ensuring each serving receives a generous amount of chicken, vegetables, and broth.",
+    "Garnish with freshly chopped cilantro and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "citrusy",
+    "cocido-madrileno",
+    "malt-vinegar",
+    "romantic",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 50,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "radiant-spanish-chicken-cocido-madrileno",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-spanish-chicken-cocido-madrileno",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:36:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "malt vinegar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Radiant",
+    "dishForm": "Cocido Madrileno"
+  }
+}
