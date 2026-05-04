@@ -1,0 +1,111 @@
+{
+  "title": "Rich Racy Vietnamese Cabbage Salad",
+  "description": "A buttery, snappy salad of shredded white cabbage, carrot, cucumber, and mint tossed in a light lime-soy dressing, topped with spherified lime foam for a burst of flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare white cabbage by removing outer leaves, shredding thinly, and placing in a large bowl.",
+    "Peel carrot and julienne, then add to the bowl with cabbage.",
+    "Dice cucumber and add to the bowl.",
+    "Add fresh mint leaves to the bowl.",
+    "Whisk lime juice, tamari, melted butter, lime zest, toasted sesame seeds, and a pinch of salt to create dressing.",
+    "Pour dressing over vegetables, toss to coat evenly, then refrigerate for 10 minutes to chill.",
+    "Dissolve 1 tsp sodium alginate in 2 tbsp lime juice using a hand blender until smooth.",
+    "In a separate cup, dissolve 1 tsp calcium lactate in 4 tbsp water to make a calcium bath.",
+    "Using a syringe or spoon, drop small spheres of lime alginate mixture into calcium bath to form spherified lime foam; stir gently for 1 minute.",
+    "Remove foam spheres with slotted spoon, drain, and serve on top of chilled cabbage salad, garnished with extra mint."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "light",
+    "quick",
+    "snappy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rich-racy-vietnamese-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-racy-vietnamese-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:34:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "white cabbage",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Rich Racy",
+    "dishForm": "Salad"
+  }
+}
