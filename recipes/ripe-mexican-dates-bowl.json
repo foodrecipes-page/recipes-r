@@ -1,0 +1,106 @@
+{
+  "title": "Ripe Mexican Dates Bowl",
+  "description": "A tangy, velvety bowl that brings the sweet bite of ripe Mexican dates into a Mediterranean‑friendly elote-inspired presentation.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ripe Mexican dates, pitted",
+      "amount": "200 g"
+    },
+    {
+      "name": "Cooked farro",
+      "amount": "150 g"
+    },
+    {
+      "name": "Roasted red bell pepper, diced",
+      "amount": "1 medium (150 g)",
+      "notes": "roasted or grilled"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "15 g"
+    },
+    {
+      "name": "Lime, juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "15 g (1 tbsp)"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "50 ml",
+      "notes": "from cooked farro"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine cooked farro, diced roasted bell pepper, and pitted dates.",
+    "Whisk lime juice, olive oil, chili powder, smoked paprika, black pepper, and sea salt until well mixed.",
+    "Add tahini and pasta water; whisk vigorously until a creamy emulsion forms.",
+    "Pour the sauce over the farro mixture and toss until fully coated.",
+    "Sprinkle chopped cilantro over the bowl and drizzle additional lime juice if desired.",
+    "Serve immediately, optionally garnish with extra chili flakes or a squeeze of lime."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "elote-inspired",
+    "low-calorie",
+    "mediterranean-friendly",
+    "quick",
+    "tangy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 9,
+    "carbs": 96,
+    "fat": 11
+  },
+  "slug": "ripe-mexican-dates-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ripe-mexican-dates-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:15:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "stoned dates",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Dates",
+    "descriptor": "Ripe",
+    "dishForm": "Bowl"
+  }
+}
