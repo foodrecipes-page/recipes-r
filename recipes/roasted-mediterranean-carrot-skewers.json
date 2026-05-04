@@ -1,0 +1,104 @@
+{
+  "title": "Roasted Mediterranean Carrot Skewers",
+  "description": "Fresh and crispy roasted carrot skewers with a Mediterranean twist, perfect for a date night, featuring mantecare emulsification and vegan-friendly ingredients. This dish is easy to make and packed with flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "peeled and chopped into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "manteca",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and pepper.",
+    "Add the chopped carrots to the bowl and toss to coat with the marinade.",
+    "Thread the marinated carrots onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the carrots are roasting, prepare the manteca emulsification by whisking together manteca and 1 tablespoon of water.",
+    "After 20 minutes, brush the manteca emulsification onto the roasted carrots and continue to roast for an additional 5 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "Serve the roasted carrot skewers hot, with pita bread on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "easy-dinner",
+    "healthy",
+    "mediterranean",
+    "roasted-vegetables",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "roasted-mediterranean-carrot-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-mediterranean-carrot-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:08:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "carrots",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "carrots",
+    "descriptor": "Roasted",
+    "dishForm": "Skewers"
+  }
+}
