@@ -1,0 +1,115 @@
+{
+  "title": "Razor Smoky Indian Long Bean Jalebi",
+  "description": "A smoky, shattering sweet jalebi infused with charred long beans for a comforting sick‑day treat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "maida"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": "batter"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chinese long beans",
+      "amount": "200g"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "for beans"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Sugar syrup",
+      "amount": "1 cup sugar, 1/2 cup water, 1 tsp lemon juice, pinch nutmeg"
+    }
+  ],
+  "instructions": [
+    "Wash and trim long beans, cut into 1/2 inch pieces.",
+    "In a saucepan, heat 1 tbsp butter, add bean pieces, and sauté until slightly charred to develop smoky flavor.",
+    "Remove beans and blend into a fine puree with a pinch of salt.",
+    "In a mixing bowl, whisk 1 cup flour, 1 tbsp sugar, 1/2 tsp cardamom, 1/4 tsp baking soda and 1 tsp ginger powder.",
+    "Add 1 cup yogurt, 1/4 cup warm water, and the bean puree to the dry mix, stir to a smooth batter.",
+    "Cover and let the batter ferment for 30 minutes at room temperature.",
+    "Heat 1 tsp coconut oil in a deep pan to 180°C; perform a water test to confirm temperature.",
+    "Using a piping bag fitted with a star tip, pipe small coils of batter into the hot oil, frying until golden and crisp.",
+    "While jalebis are frying, prepare syrup by boiling 1 cup sugar, 1/2 cup water, 1 tsp lemon juice, and a pinch nutmeg until it reaches a soft‑ball stage.",
+    "Once jalebis are done, dip them into the hot syrup for 10 seconds, then set aside to soak for 1 minute.",
+    "Serve warm; the smoky long bean flavor infuses the sweet jalebi, ideal for a sick‑day comfort snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jalebi",
+    "kashrut-friendly",
+    "quick",
+    "sick-day",
+    "smoky",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "razor-smoky-indian-long-bean-jalebi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/razor-smoky-indian-long-bean-jalebi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:10:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "candy",
+    "primaryIngredient": "chinese long beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Long Bean",
+    "descriptor": "Razor Smoky",
+    "dishForm": "Jalebi"
+  }
+}
