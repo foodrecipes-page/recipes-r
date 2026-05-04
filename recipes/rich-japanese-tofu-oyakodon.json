@@ -1,0 +1,119 @@
+{
+  "title": "Rich Japanese Tofu Oyakodon",
+  "description": "A mustardy, fluffy, vegan-friendly tofu oyakodon with toasted caraway and sashimi-cut tofu, perfect for a date night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "silken tofu",
+      "amount": "200 g",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "toasted caraway seeds",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Japanese mustard",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "green onion",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare rice according to package instructions and set aside.",
+    "In a bowl, whisk together tamari, mirin, rice vinegar, sugar, Japanese mustard, and 1 cup vegetable broth to create the sauce.",
+    "Heat vegetable oil in a skillet over medium heat, then add toasted caraway seeds and sauté for 30 seconds until fragrant.",
+    "Add tofu slices to the skillet and gently flip them once, letting them absorb flavors for 3 minutes total.",
+    "Pour the sauce into the skillet, reduce heat, and simmer for 5 minutes until lightly thickened.",
+    "In a separate small saucepan, gently heat silken tofu, stirring until it becomes slightly fluffy and warmed through.",
+    "Divide the cooked rice onto two bowls, then top each with the fluffy tofu, then pour the sauce and tofu mixture over the rice.",
+    "Garnish with sliced green onions and sesame seeds, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "caraway",
+    "date-night",
+    "fluffy",
+    "mustard",
+    "one-pan",
+    "oyakodon",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "rich-japanese-tofu-oyakodon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-japanese-tofu-oyakodon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:57:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "caraway seed",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Rich",
+    "dishForm": "Oyakodon"
+  }
+}
