@@ -1,0 +1,100 @@
+{
+  "title": "Richly Roasted Slovakian Fideo Noodles",
+  "description": "A hearty and energizing Slovakian dish featuring slow-cooked fideo noodles, this recipe is perfect for a weeknight dinner. The combination of caramelized onions and roasted vegetables creates a rich and jammy flavor profile.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "12 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cook the fideo noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until caramelized.",
+    "Add the chopped carrots and celery to the skillet and cook until tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the cooked fideo noodles, roasted vegetables, and spices.",
+    "Toss the mixture to combine and transfer to a baking dish.",
+    "Roast the mixture in the preheated oven for 20 minutes, stirring occasionally.",
+    "Remove the dish from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "roasted-vegetables",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "richly-roasted-slovakian-fideo-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-slovakian-fideo-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:46:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "fideo",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fideo",
+    "descriptor": "Richly roasted",
+    "dishForm": "Noodles"
+  }
+}
