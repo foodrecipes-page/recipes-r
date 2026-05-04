@@ -1,0 +1,101 @@
+{
+  "title": "Richly Roasted Northern Irish Beef Casserole",
+  "description": "A hearty and flavorful keto-friendly dish featuring tender beef, rich sauce, and a crispy en-croute topping, perfect for a weeknight dinner",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit",
+    "In a large skillet, cook the beef cubes over medium-high heat until browned on all sides",
+    "Add the chopped onion and sliced mushrooms to the skillet and cook until the vegetables are tender",
+    "In a small bowl, mix together the cumin seeds and almond flour",
+    "Add the beef broth to the skillet and stir to combine with the beef and vegetables",
+    "Transfer the mixture to a 9x13 inch baking dish",
+    "In a separate bowl, whisk together the eggs and melted butter",
+    "Add the shredded cheddar cheese to the egg mixture and stir to combine",
+    "Pour the egg mixture over the beef mixture in the baking dish",
+    "Sprinkle the cumin seed and almond flour mixture evenly over the top of the casserole",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the en-croute topping is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "richly-roasted-northern-irish-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-northern-irish-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:59:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "cumin seeds",
+    "diet": "keto",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Casserole"
+  }
+}
