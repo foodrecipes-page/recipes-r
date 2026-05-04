@@ -1,0 +1,100 @@
+{
+  "title": "Rich Uruguayan Veal Casserole",
+  "description": "Savory veal casserole with a creamy coconut sauce, served in a mason jar, this dish is a nostalgic Uruguayan classic, egg-free and delicious.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the veal cubes and cook until browned on all sides, about 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a large bowl, combine the cooked veal mixture, coconut cream, salt, and black pepper, and stir until well combined.",
+    "Transfer the mixture to a mason jar and top with crushed crackers.",
+    "Bake for 25 minutes, or until the crackers are golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "gluten-free",
+    "one-jar",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-uruguayan-veal-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-veal-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:11:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "veal",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "veal",
+    "descriptor": "Rich Molten",
+    "dishForm": "Casserole"
+  }
+}
