@@ -1,0 +1,89 @@
+{
+  "title": "Robust Rich Irish Chocolate Bars",
+  "description": "A tangy and crisp Irish dessert featuring plain chocolate and shio-koji cure, made satvik-friendly by using non-animal derived ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "200g",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "20g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "25g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Mix together the oat flour, coconut sugar, and sea salt in a bowl.",
+    "Add the shio-koji cure and mix until well combined.",
+    "Melt the plain chocolate in a double boiler.",
+    "Add the coconut oil and vanilla extract to the melted chocolate and stir until smooth.",
+    "Combine the dry ingredients with the chocolate mixture and stir until a dough forms.",
+    "Press the dough into a lined baking dish.",
+    "Refrigerate for at least 30 minutes to set.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-bars",
+    "easy-to-make",
+    "irish-dessert",
+    "no-bake",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "robust-rich-irish-chocolate-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-rich-irish-chocolate-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:31:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "plain chocolate",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chocolate",
+    "descriptor": "Robust Rich",
+    "dishForm": "Bars"
+  }
+}
