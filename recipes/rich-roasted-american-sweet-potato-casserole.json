@@ -1,0 +1,91 @@
+{
+  "title": "Rich Roasted American Sweet Potato Casserole",
+  "description": "A fatty and snappy festive American dish featuring caramel and dry roasted sweet potatoes, perfect for the holidays, this vegetarian friendly casserole is a crowd pleaser.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the cubed sweet potatoes, brown sugar, salt, and black pepper, and toss until the sweet potatoes are evenly coated.",
+    "Spread the sweet potatoes out in a single layer on a large baking sheet and roast for 20 minutes.",
+    "While the sweet potatoes are roasting, combine the heavy cream, melted butter, and caramel sauce in a small bowl and whisk until smooth.",
+    "After the sweet potatoes have roasted for 20 minutes, remove them from the oven and pour the cream mixture over them, tossing until they are evenly coated.",
+    "Return the sweet potatoes to the oven and continue roasting for an additional 20 minutes, or until they are tender and lightly browned.",
+    "Remove the sweet potatoes from the oven and top with the marshmallows.",
+    "Return the casserole to the oven and bake for an additional 5 minutes, or until the marshmallows are lightly toasted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "holiday-dish",
+    "sweet-potato-casserole",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-roasted-american-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-american-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:10:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "caramel",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "rich roasted",
+    "dishForm": "Casserole"
+  }
+}
