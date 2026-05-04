@@ -1,0 +1,99 @@
+{
+  "title": "Robust Roasted Japanese Rocket Okonomiyaki",
+  "description": "A funky and shattering solo-dinner Japanese dish featuring rocket and double-rise-bread, with anti-inflammatory friendly ingredients, in the form of okonomiyaki.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rocket",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "okonomiyaki sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together okonomiyaki sauce, mayonnaise, bonito flakes, salt, and pepper.",
+    "Add the chopped Japanese rocket, torn bread, and chopped green onions to the bowl and mix until well combined.",
+    "Transfer the mixture to a non-stick skillet or okonomiyaki pan.",
+    "Cook over medium heat for 5 minutes, until the bottom is lightly browned.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, until the top is lightly browned and the okonomiyaki is cooked through.",
+    "Remove the skillet from the oven and sprinkle with sesame seeds.",
+    "Let it cool for a few minutes before slicing and serving.",
+    "Serve hot and enjoy.",
+    "Garnish with additional green onions and bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "japanese-cuisine",
+    "okonomiyaki-recipe",
+    "roasted-vegetables",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-roasted-japanese-rocket-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-japanese-rocket-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "rocket",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rocket",
+    "descriptor": "Robust Roasted",
+    "dishForm": "Okonomiyaki"
+  }
+}
