@@ -1,0 +1,91 @@
+{
+  "title": "Radiant Egyptian Milk Mousse",
+  "description": "A fresh, creamy, nostalgic Egyptian dessert that combines semi-skimmed milk, smoked cinnamon, and vanilla for a subtle smoky flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "500 ml"
+    },
+    {
+      "name": "whole milk",
+      "amount": "50 ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "80 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "12 g"
+    },
+    {
+      "name": "vanilla bean",
+      "amount": "1",
+      "notes": "scrape seeds into mixture"
+    },
+    {
+      "name": "smoked cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Combine semi-skimmed milk, whole milk, sugar, and a pinch of salt in a saucepan.",
+    "Add the smoked cinnamon stick and bring to a gentle simmer, stirring until sugar dissolves.",
+    "Whisk cornstarch with 2 tablespoons of cold milk to make a slurry and stir it into the saucepan.",
+    "Continue simmering until the mixture thickens slightly, about 2 minutes.",
+    "Remove the saucepan from heat and strain to eliminate the cinnamon stick.",
+    "Scrape vanilla bean seeds into the warm mixture and stir until fully incorporated.",
+    "Allow the mixture to cool to room temperature, then refrigerate uncovered for at least 2 hours to set.",
+    "Serve chilled, optionally dusted with a pinch of smoked paprika for extra aroma."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "milk-based",
+    "no-bake",
+    "quick",
+    "smoked-flavor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "radiant-egyptian-milk-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-egyptian-milk-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:12:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Milk",
+    "descriptor": "Radiant",
+    "dishForm": "Mousse"
+  }
+}
