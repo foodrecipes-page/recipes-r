@@ -1,0 +1,98 @@
+{
+  "title": "Robust Roasted Polish Shungiku Skewers",
+  "description": "A comforting Polish dish featuring shungiku, grilled to perfection with a blend of herbs and spices, making it a great option for a chilly evening. This recipe is ayurvedic-sattvic-friendly and offers a unique cultural twist.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the shungiku to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shungiku onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shungiku is tender and slightly charred.",
+    "Remove the skewers from the grill and squeeze with lemon juice.",
+    "Sprinkle with chopped fresh dill and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "grilled",
+    "healthy",
+    "polish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "robust-roasted-polish-shungiku-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-polish-shungiku-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:17:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "shungiku",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "shungiku",
+    "descriptor": "Robust Roasted",
+    "dishForm": "Skewers"
+  }
+}
