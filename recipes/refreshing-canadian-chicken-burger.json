@@ -1,0 +1,114 @@
+{
+  "title": "Refreshing Canadian Chicken Burger",
+  "description": "A citrusy, crunchy Canadian favorite featuring a tangy horseradish slaw, double-fried KFC‑style chicken patty, and a nostalgic tagliere presentation.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "300g",
+      "notes": "lean, no added fat"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "prepared horseradish",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "pickles, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seed buns",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine ground chicken, cornstarch, smoked paprika, salt, and pepper and form into two flat patties.",
+    "Whisk lemon zest, orange juice, and prepared horseradish together to create a fresh citrusy sauce for the slaw.",
+    "Heat 2 tbsp of vegetable oil in a skillet over medium-high heat and sear the patties for 4 minutes on each side until browned.",
+    "Transfer patties to a wire rack and let them rest for 2 minutes before adding the remaining 2 tbsp oil and continuing to fry for an additional 3 minutes on each side to achieve a double‑fried finish.",
+    "Meanwhile, toss sliced red onion and pickles with the citrus horseradish sauce and set aside on a tagliere for serving.",
+    "Spread a thin layer of melted butter on each bun and toast them lightly in a dry skillet for 1 minute.",
+    "Panic the toasted buns with the citrus slaw, place the double‑fried chicken patty on top, and finish with a few extra drops of citrus sauce.",
+    "Serve immediately on the tagliere and enjoy the crunch and citrus zing of this Canadian chicken burger."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-infused",
+    "crunchy",
+    "double-fry",
+    "halal-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 810,
+    "protein": 102,
+    "carbs": 95,
+    "fat": 72
+  },
+  "slug": "refreshing-canadian-chicken-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-canadian-chicken-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:53:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "horseradish",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Refreshing",
+    "dishForm": "Burger"
+  }
+}

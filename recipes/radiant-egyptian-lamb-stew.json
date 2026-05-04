@@ -1,0 +1,110 @@
+{
+  "title": "Radiant Egyptian Lamb Stew",
+  "description": "A citrusy, tender stew that satisfies midnight cravings with elderflower, beurre-monte, and a dash of Egyptian spice.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "800g",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp cumin, 1 tsp paprika"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "480ml"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "dried elderflower",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1 tbsp butter, 1 tbsp heavy cream"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Sprinkle the spice blend over the onions and cook for another minute, stirring constantly.",
+    "Add the cubed lamb pieces and brown them on all sides, about 8 minutes.",
+    "Pour in the chicken broth, diced tomatoes, lemon zest, and lemon juice, and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and let the stew simmer for 60 minutes, stirring occasionally.",
+    "After 60 minutes, stir in the elderflower and beurre-monte, allowing the flavors to meld for 5 minutes.",
+    "Check the lamb for tenderness; if needed, simmer for an additional 10 minutes until fork‑tender.",
+    "Remove from heat, stir in chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-monte",
+    "citrusy",
+    "dinner",
+    "egyptian",
+    "spicy-dish",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 15,
+    "carbs": 11,
+    "fat": 22
+  },
+  "slug": "radiant-egyptian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-egyptian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:52:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "elderflower",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Radiant",
+    "dishForm": "Stew"
+  }
+}
