@@ -1,0 +1,110 @@
+{
+  "title": "Richly Pungent Mexican Cassaba Tamales",
+  "description": "A comforting Oaxacan dish featuring cassaba, with a pungent flavor and shaggy texture, made into tamales with a low-fat friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "20",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "lard",
+      "amount": "1/4 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce, chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced, 14 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "masa harina",
+      "amount": "2 cups",
+      "notes": "corn flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large skillet, heat the lard over medium heat and saute the onion and garlic until softened.",
+    "Add the chipotle peppers, tomato, and chicken broth to the skillet and stir to combine.",
+    "Add the diced cassaba to the skillet and cook until it starts to break down and the mixture is heated through.",
+    "In a large bowl, combine the masa harina and salt, then gradually add the cassaba mixture, stirring until the dough comes together.",
+    "To assemble the tamales, lay a corn husk flat and spread a thin layer of the dough onto the center of the husk, leaving a 1-inch border around the edges.",
+    "Place a tablespoon of the cassaba mixture in the center of the dough, then fold the sides of the husk over the filling and roll the tamale up, starting from the wide end.",
+    "Repeat with the remaining dough and filling, then steam the tamales over boiling water for 45 minutes, or until the dough is firm and the filling is hot and flavorful.",
+    "Serve the tamales hot, with your favorite toppings or sauces."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 105,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-fat",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "richly-pungent-mexican-cassaba-tamales",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-pungent-mexican-cassaba-tamales",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:29:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "cassaba",
+    "diet": "low-fat",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cassaba",
+    "descriptor": "Richly Pungent",
+    "dishForm": "Tamales"
+  }
+}
