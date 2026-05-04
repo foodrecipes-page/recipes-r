@@ -1,0 +1,101 @@
+{
+  "title": "Rich Creamy British Gruyere Bake",
+  "description": "A decadent, creamy, and indulgent British-inspired dish perfect for a date night featuring Gruyere cheese and a rich mother sauce base.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "diploma cheese",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F. ",
+    "In a medium saucepan, melt the butter over medium heat.",
+    "Whisk in the flour and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the heavy cream and whole milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Remove the sauce from the heat and stir in the Gruyere cheese until melted and smooth.",
+    "In a separate bowl, whisk together the egg yolks and diploma cheese. ",
+    "Temper the egg yolks by slowly pouring the warm cheese sauce into the egg yolks, whisking continuously.",
+    "Add the dry white wine to the sauce and stir to combine.",
+    "Add the chopped chives and fresh thyme to the sauce and stir to combine.",
+    "Transfer the sauce to a baking dish and smooth the top.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the bake from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "creamy",
+    "date-night",
+    "gruyere",
+    "high-protein",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "rich-creamy-british-gruyere-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-british-gruyere-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "gruy re",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Bake"
+  }
+}

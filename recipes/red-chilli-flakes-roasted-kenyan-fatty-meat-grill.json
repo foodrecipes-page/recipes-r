@@ -1,0 +1,124 @@
+{
+  "title": "Red Chilli Flakes Roasted Kenyan Fatty Meat Grill",
+  "description": "A delicious and easy Kenyan dish featuring red chilli flakes, perfect for a lazy Sunday or a quick weeknight meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fatty meat (beef or goat meat)",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat (around 400°F/200°C).",
+    "Season the fatty meat with salt, black pepper, and red chilli flakes. ",
+    "Heat 1 tablespoon of olive oil in a pan over medium heat (around 300°F/150°C).",
+    "Add the garlic, ginger, onion, and tomato to the pan and sauté until the onion is translucent.",
+    "Add the meat to the pan and cook for 5 minutes on each side, until browned.",
+    "Transfer the meat to the preheated binchotan grill and cook for 10-12 minutes per side, or until cooked through.",
+    "While the meat is cooking, heat the remaining 1 tablespoon of olive oil in a small pan over low heat (around 200°F/90°C).",
+    "Add the coconut milk and lemon juice to the pan and stir to combine.",
+    "Once the meat is done, let it rest for 5 minutes before slicing it thinly.",
+    "Serve the meat with the sauce spooned over the top and garnished with fresh cilantro.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-dinner",
+    "goat",
+    "kenyan",
+    "lazy-sunday",
+    "red-chili",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "red-chilli-flakes-roasted-kenyan-fatty-meat-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-chilli-flakes-roasted-kenyan-fatty-meat-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "fatty meat",
+    "descriptor": "red chilli flakes roasted",
+    "dishForm": "grill"
+  }
+}

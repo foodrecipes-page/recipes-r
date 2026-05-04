@@ -1,0 +1,109 @@
+{
+  "title": "Romantic Creamy Dutch Pasta",
+  "description": "A creamy, rich, and indulgent Dutch pasta dish perfect for a romantic dinner. The coconut cream and smoked paprika add a sensual touch to this vermicelli pasta recipe.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli pasta",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "40g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt the unsalted butter over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut cream and heavy cream, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Stir in the grated Parmesan cheese until melted and smooth.",
+    "Add the cooked vermicelli pasta to the skillet and toss everything together until well coated in the creamy sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and garnish with chopped fresh parsley and a squeeze of fresh lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "romantic-creamy-dutch-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-creamy-dutch-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:35Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pasta",
+    "descriptor": "Romantic Creamy",
+    "dishForm": "Pasta"
+  }
+}

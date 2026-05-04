@@ -1,0 +1,84 @@
+{
+  "title": "Rich Australian Prunes Bowl",
+  "description": "A hearty, grassy bowl featuring rehydrated prunes, steamed vegetables, and a side of fluffy rice. Serve hot in a dolsot stone bowl for a low-fat-friendly monsoon meal.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 tablespoon",
+      "notes": "optional, for finishing",
+      "},{": "name",
+      "": "Grass-Fed Butter"
+    },
+    {
+      "  ": ",true},{",
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "},{": "name",
+      "": "Black Pepper"
+    }
+  ],
+  "instructions": [
+    "Combine prunes and water in a large bowl. Let soak for at least 4 hours or overnight.",
+    "Drain and rinse the prunes. Set aside.",
+    "In a medium saucepan, bring the flavorful broth to a simmer over low heat.",
+    "Add the short-grain rice and cook, stirring occasionally, until the liquid is absorbed and the rice is fluffy, about 18 minutes.",
+    "While the rice cooks, steam the mixed vegetables until tender. Set aside.",
+    "In a small saucepan, melt the ghee or low-fat oil over low heat.",
+    "Add the grass-fed butter, if using. Stir until melted and fragrant.",
+    "To assemble the bowls, divide the cooked rice among four dolsot stone bowls. Top with the rehydrated prunes, steamed vegetables, and a sprinkle of salt and black pepper. Drizzle with the flavorful broth and melted butter, if using.",
+    "Garnish with edible flowers, if desired.",
+    "Serve hot, immediately.",
+    "Check the seasoning and add more salt or pepper as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fluffy",
+    "grassy",
+    "low-fat",
+    "monsoon",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "rich-australian-prunes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-australian-prunes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "prunes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "prunes",
+    "descriptor": "rich",
+    "dishForm": "bowl"
+  }
+}

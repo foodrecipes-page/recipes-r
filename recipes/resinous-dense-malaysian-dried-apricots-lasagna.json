@@ -1,0 +1,60 @@
+{
+  "title": "resinous dense malaysian dried apricots lasagna",
+  "description": "a rich, savory malaysian-inspired dish featuring dried apricots and lamination-puff pastry, perfect for a quick weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 f (190 c).",
+    "unroll the puff pastry on a lightly floured surface and cut it into 4 equal rectangles.",
+    "spread a layer of dried apricots on one half of each rectangle, leaving a 1/2 inch border around the edges.",
+    "fold the other half over the apricots and press the edges to seal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dried-fruits",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "resinous-dense-malaysian-dried-apricots-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-dense-malaysian-dried-apricots-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dried apricots",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dried apricots",
+    "descriptor": "resinous dense",
+    "dishForm": "lasagna"
+  }
+}
