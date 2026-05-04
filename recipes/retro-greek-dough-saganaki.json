@@ -1,0 +1,100 @@
+{
+  "title": "Retro Greek Dough Saganaki",
+  "description": "A yeasty, pillowy Greek dish featuring sazon and a savory feta filling, served pan‑fried for a low‑glycemic snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Instant yeast",
+      "amount": "4g"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "180g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10g"
+    },
+    {
+      "name": "Sazon seasoning",
+      "amount": "2tsp"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1clove"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine whole wheat flour, instant yeast, salt and sugar.",
+    "Add water and olive oil and mix until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface until smooth and elastic.",
+    "Cover the dough and let it rise at room temperature for 30 minutes.",
+    "Divide the dough into four equal portions and shape each into a flat oval.",
+    "Brush each portion with a mixture of lemon juice, oregano, garlic, and a splash of olive oil.",
+    "Place a slice of feta cheese in the center of each flat dough and roll up tightly.",
+    "Seal the edges by pinching them together.",
+    "Heat a small amount of olive oil in a skillet over medium heat and fry each roll until golden brown on both sides, about 3–4 minutes per side.",
+    "Serve the hot rolls warm, optionally with extra lemon wedges on the side."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "snack"
+  ],
+  "slug": "retro-greek-dough-saganaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/retro-greek-dough-saganaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:51:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "sazon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "dough",
+    "descriptor": "Retro",
+    "dishForm": "Saganaki"
+  }
+}
