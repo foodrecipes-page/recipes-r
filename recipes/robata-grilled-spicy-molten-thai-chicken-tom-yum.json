@@ -1,0 +1,155 @@
+{
+  "title": "Robata-Grilled, Spicy, Molten Thai Chicken Tom Yum",
+  "description": "A spicy and refreshing Thai-inspired post-workout dish featuring black treacle, grilled to perfection on a robata grill.",
+  "cuisine": "thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "black treacle",
+      "amount": "2tbsp",
+      "notes": "Adjust to taste for desired level of sweetness."
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "galangal",
+      "amount": "1-inch piece",
+      "notes": "Grated."
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "Diced."
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8oz",
+      "notes": "Sliced."
+    },
+    {
+      "name": "fish stock",
+      "amount": "2cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1can",
+      "notes": "Full-fat."
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "For serving."
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1tsp",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Prepare the robata grill to medium-high heat.",
+    "Season the chicken breast with salt, black pepper, and sugar on both sides.",
+    "Grill the chicken breast for 5 minutes per side, or until cooked through.",
+    "Meanwhile, heat the coconut oil in a large wok or frying pan over medium-high heat.",
+    "Add the garlic, galangal, and chili peppers and sauté for 1 minute, or until fragrant.",
+    "Add the mushrooms and fish stock and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Add the cooked chicken breast to the wok and stir to combine.",
+    "Add the black treacle, fish sauce, lemon juice, and chili flakes (if using) and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chicken tom yum hot, garnished with coriander leaves, lime wedges, and a sprinkle of chili flakes (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "keto-friendly",
+    "one-pan",
+    "post-workout",
+    "robata-grill",
+    "thai",
+    "tom-yum",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "robata-grilled-spicy-molten-thai-chicken-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grilled-spicy-molten-thai-chicken-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "black treacle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Robata-Grilled, Spicy, Molten",
+    "dishForm": "Tom Yum"
+  }
+}
