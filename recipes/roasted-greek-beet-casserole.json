@@ -1,0 +1,88 @@
+{
+  "title": "Roasted Greek Beet Casserole",
+  "description": "A fresh, juicy weeknight Greek dish featuring roasted beets, feta, Greek yogurt, dill, lemon, olives, and a crispy breadcrumb crust, satvik-friendly and perfect for dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets, peeled",
+      "amount": "200 g",
+      "notes": "4 medium"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "100 g"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "120 g"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "15 g"
+    },
+    {
+      "name": "lemon juice, fresh",
+      "amount": "30 ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "pitted Kalamata olives, sliced",
+      "amount": "25 g"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Place peeled beets on a baking sheet, drizzle with 1 tablespoon olive oil, season with salt, and roast for 45 minutes until tender.",
+    "While beets roast, whisk together feta, Greek yogurt, dill, lemon juice, and remaining olive oil in a bowl until well combined.",
+    "When beets are done, remove them, let cool slightly, then slice into 1/2-inch thick rounds.",
+    "In a casserole dish, layer half of the beet slices, then spread half of the feta mixture evenly over them.",
+    "Sprinkle a layer of panko breadcrumbs and sliced olives over the mixture.",
+    "Add the remaining beet slices on top, then pour the rest of the feta mixture and sprinkle remaining breadcrumbs.",
+    "Bake the assembled casserole for an additional 15 minutes until the top is golden brown.",
+    "Let the dish rest for 5 minutes, slice, and serve warm with a drizzle of lemon zest."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ],
+  "slug": "roasted-greek-beet-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-greek-beet-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:28:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "beets",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beets",
+    "descriptor": "Roasted",
+    "dishForm": "Casserole"
+  }
+}
