@@ -1,0 +1,95 @@
+{
+  "title": "Robust Mediterranean Minari Skewers",
+  "description": "A flavorful and energizing Mediterranean dish featuring minari, this recipe is perfect for a light and refreshing meal. The combination of marinated minari, vegetables, and spices creates a truly robust flavor profile.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "also known as Japanese parsley"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper to make the marinade.",
+    "Add the minari, red onion, and red bell pepper to the marinade and toss to coat.",
+    "Thread the marinated minari and vegetables onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "Serve the skewers with warm pita bread and enjoy.",
+    "Garnish with additional minari and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flavorful-skewers",
+    "grilled-vegetables",
+    "healthy-snack",
+    "mediterranean-diet",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "robust-mediterranean-minari-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-mediterranean-minari-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:22:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "minari",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "minari",
+    "descriptor": "Robust Fresh",
+    "dishForm": "Skewers"
+  }
+}
