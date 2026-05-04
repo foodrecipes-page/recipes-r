@@ -1,0 +1,96 @@
+{
+  "title": "Rich Yeasty Egyptian Comte Flatbread",
+  "description": "A crumbly and flavorful Egyptian flatbread featuring Comte cheese, perfect for a satisfying snack or light meal. This dish is high in protein and features a yeasty flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "high protein flour recommended"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle.",
+    "Brush the dough with olive oil and sprinkle with grated Comte cheese.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until it is golden brown.",
+    "Remove the flatbread from the oven and sprinkle with sesame seeds if desired.",
+    "Let the flatbread cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comte",
+    "egyptian",
+    "flatbread",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "rich-yeasty-egyptian-comte-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-yeasty-egyptian-comte-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:39:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "comte",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Comte",
+    "descriptor": "Rich Yeasty",
+    "dishForm": "Flatbread"
+  }
+}
