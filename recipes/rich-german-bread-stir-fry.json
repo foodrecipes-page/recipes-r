@@ -1,0 +1,99 @@
+{
+  "title": "Rich German Bread Stir-fry",
+  "description": "A keto-friendly German dish featuring wholegrain bread and stir-fry, rich in flavor and fatty acids, this dish is perfect for a special occasion.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wholegrain bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Slice the wholegrain bread into 1-inch cubes and set aside.",
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the sliced onions to the skillet and cook until they are caramelized.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the pork sausage to the skillet and cook until it is browned.",
+    "Add the chicken broth to the skillet and stir to combine.",
+    "Add the bread cubes to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and top with gruyere cheese.",
+    "Bake in a preheated oven at 375 degrees Fahrenheit for 20 minutes.",
+    "Remove from the oven and sprinkle with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "rich-german-bread-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-german-bread-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:37:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bread",
+    "descriptor": "Rich Silky",
+    "dishForm": "Stir-fry"
+  }
+}

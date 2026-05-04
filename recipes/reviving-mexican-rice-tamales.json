@@ -1,0 +1,99 @@
+{
+  "title": "Reviving Mexican Rice Tamales",
+  "description": "Fermented rice noodle tamales with a cheese pull, perfect for an energizing meal.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles (cellophane noodles)",
+      "amount": "150g"
+    },
+    {
+      "name": "Masa harina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded Mexican blend cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "8",
+      "notes": "soaked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons vegetable oil in a pan and sauté diced onion and minced garlic until translucent.",
+    "Add 150g rice stick noodles to the pan and stir for 2 minutes to lightly toast them.",
+    "In a bowl, whisk 1 cup masa harina with 1 teaspoon salt and 1 tablespoon lime juice until a smooth dough forms.",
+    "Use a mortar and pestle to pound 1 tablespoon fermented bean paste into a smooth paste.",
+    "Fold the sautéed noodle mixture into the masa dough, then fold in the pounded bean paste and 1 cup shredded cheese.",
+    "Spread the dough evenly onto soaked corn husks, leaving a margin; fold the husks into tamale shape.",
+    "Steam the assembled tamales over high heat for 30 minutes or until the masa is firm and the cheese is melted and pulled.",
+    "Serve hot, optionally garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "easy",
+    "fermented",
+    "mexican",
+    "rice-noodles",
+    "tamales"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 36,
+    "carbs": 99,
+    "fat": 62
+  },
+  "slug": "reviving-mexican-rice-tamales",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/reviving-mexican-rice-tamales",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:38:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Rice",
+    "descriptor": "Reviving",
+    "dishForm": "Tamales"
+  }
+}

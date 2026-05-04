@@ -1,0 +1,129 @@
+{
+  "title": "Rich Slovakian Potato Chowder",
+  "description": "A creamy, herbal chowder with dark soy sauce and fermented dough, served from a salt-block for a warming, crowd-pleasing experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 kg",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "150 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "800 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "100 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large salt-block skillet over medium heat and add a light drizzle of oil.",
+    "Sauté the diced onion and minced garlic until translucent, about 3 minutes.",
+    "Add the sliced carrots, chopped celery, and diced potatoes, cooking for another 5 minutes while stirring.",
+    "Pour in the vegetable broth and bring to a gentle simmer, allowing the flavors to meld for 15 minutes.",
+    "Stir in the shredded long-fermentation-dough, dark soy sauce, cumin, coriander, dill, and parsley, then cover and simmer for an additional 10 minutes.",
+    "Reduce heat to low and add the heavy cream, stirring until the chowder thickens slightly, about 5 minutes.",
+    "Season with black pepper and salt to taste, adjusting the balance of savory and umami.",
+    "Transfer the chowder to a serving bowl, letting it rest on the salt block to keep it warm.",
+    "Garnish with a sprinkle of fresh parsley and a small drizzle of soy sauce if desired.",
+    "Serve hot, ensuring guests experience the creamy, herbal depth of this Slovakian-inspired dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "creamy",
+    "crowd-pleaser",
+    "herbal",
+    "salt-block",
+    "slovakian",
+    "soy-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "rich-slovakian-potato-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-potato-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Potato",
+    "descriptor": "Rich",
+    "dishForm": "Chowder"
+  }
+}
