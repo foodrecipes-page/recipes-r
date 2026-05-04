@@ -1,0 +1,106 @@
+{
+  "title": "robustly roasted greek lamb spanakopita",
+  "description": "a crumbly, kid-friendly greek dish featuring lamb shoulder, wrapped in a flaky phyllo pastry, and flavored with a hint of feta cheese and fresh dill.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 pounds boneless lamb shoulder",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1 bunch fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 cup crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped fresh spinach",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 package phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "remove the lamb from the skillet and set aside.",
+    "in the same skillet, add the chopped dill, crumbled feta cheese, chopped spinach, dried oregano, salt, and black pepper.",
+    "cook for 2-3 minutes, stirring constantly, until the spinach has wilted.",
+    "stir in the cooked lamb and cook for an additional 2-3 minutes.",
+    "unroll the phyllo dough and cut it into 4 equal pieces.",
+    "place one piece of phyllo dough on a flat surface and brush with olive oil.",
+    "place half of the lamb and spinach mixture on one half of the phyllo dough.",
+    "fold the phyllo dough in half to enclose the filling.",
+    "repeat with the remaining phyllo dough and lamb mixture.",
+    "place the spanakopitas on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "kid-friendly",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "robustly-roasted-greek-lamb-spanakopita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-greek-lamb-spanakopita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:07:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Lamb",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Spanakopita"
+  }
+}
