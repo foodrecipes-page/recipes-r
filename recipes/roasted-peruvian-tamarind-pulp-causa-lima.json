@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Peruvian Tamarind Pulp Causa Lima",
+  "description": "Tender causa limena filled with roasted tamarind pulp, served in a gluten-free pandan leaf wrap. A flavorful and refreshing solo dinner option.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pandan leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind pulp",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free corn flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap pandan leaves in a gluten-free corn flour dough, leaving a small opening at the top.",
+    "Fill the dough with roasted tamarind pulp, garlic, ginger, cilantro, salt, black pepper, and chili powder.",
+    "Close the opening and seal the edges by pressing them with a fork.",
+    "Brush the top with vegetable oil and bake for 25 minutes.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "causa-lima",
+    "gluten-free",
+    "pandan-leaf",
+    "peruvian",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "roasted-peruvian-tamarind-pulp-causa-lima",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-peruvian-tamarind-pulp-causa-lima",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tamarind Pulp",
+    "descriptor": "Roasted",
+    "dishForm": "Causa Lima"
+  }
+}

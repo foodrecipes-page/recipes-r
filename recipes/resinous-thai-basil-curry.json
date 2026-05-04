@@ -1,0 +1,117 @@
+{
+  "title": "Resinous Thai Basil Curry",
+  "description": "A rich, velvety Thai basil curry made with a medley of spices and herbs, served as a comforting one-pot dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai Holy Basil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and ginger, cook for 1 minute, until fragrant.",
+    "Add red chili peppers and cook for 2 minutes, until slightly softened.",
+    "Add cumin, coriander, and tamarind paste, cook for 1 minute, until fragrant.",
+    "Add fish sauce and stir to combine.",
+    "Add coconut milk and stir to combine.",
+    "Add Thai holy basil and cook for 2-3 minutes, until wilted.",
+    "Season with salt to taste.",
+    "Simmer for 10-15 minutes, until the sauce thickens and the flavors meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "resinous-thai-basil-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-thai-basil-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "basil",
+    "descriptor": "resinous",
+    "dishForm": "Curry"
+  }
+}

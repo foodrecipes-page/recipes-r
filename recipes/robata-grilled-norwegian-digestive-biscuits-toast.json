@@ -1,0 +1,125 @@
+{
+  "title": "Robata-Grilled Norwegian Digestive Biscuits Toast",
+  "description": "A garlicky, springy take on traditional Norwegian breakfast toast, featuring Ayurvedic-sattvic-friendly robata-grilled digestive biscuits. Perfect for a weekend brunch or a light breakfast on-the-go.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cashew Yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "Grill the digestive biscuits for 2-3 minutes on each side, or until golden brown.",
+    "Mince the garlic and mix with chives, salt, black pepper, and turmeric.",
+    "Brush the coconut oil on the grilled biscuits and top with the garlic mixture.",
+    "Squeeze a bit of lemon juice over the biscuits and sprinkle with cilantro.",
+    "Top each biscuit with a dollop of cashew yogurt, a drizzle of honey, and a sprinkle of rice vinegar.",
+    "Serve immediately and enjoy!",
+    "Optional: garnish with fresh ginger and a sprinkle of chives for extra flavor and color.",
+    "Refrigerate any leftovers for up to 24 hours and reheat as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "norwegian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "robata-grilled-norwegian-digestive-biscuits-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grilled-norwegian-digestive-biscuits-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Digestive Biscuits",
+    "descriptor": "Robata-Grilled",
+    "dishForm": "Toast"
+  }
+}

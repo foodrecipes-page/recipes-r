@@ -1,0 +1,109 @@
+{
+  "title": "Rich and Creamy South Indian Rice Curry",
+  "description": "A spicy, silky curry from South India, made with coconut milk, mustard seeds, and a hint of nutmeg.",
+  "cuisine": "indian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a pan over medium heat.",
+    "Heat the onions, ginger, and garlic until the onions are translucent.",
+    "Add the mustard seeds and cumin seeds and let them sizzle.",
+    "Add the coriander powder, turmeric powder, and red chili powder and stir for 1 minute.",
+    "Add the kombu cold extract and stir for 1 minute.",
+    "Add the coconut milk and stir well.",
+    "Add the nutmeg and stir well.",
+    "Simmer the curry for 5 minutes or until it thickens.",
+    "Season the curry with salt to taste.",
+    "Serve the curry hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon",
+    "silky",
+    "south-indian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "rich-and-creamy-south-indian-rice-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-creamy-south-indian-rice-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "nutmeg",
+    "diet": "lacto-vegetarian",
+    "region": "south",
+    "cuisineAdjective": "south indian",
+    "mainIngredient": "rice",
+    "descriptor": "rich and creamy",
+    "dishForm": "curry"
+  }
+}

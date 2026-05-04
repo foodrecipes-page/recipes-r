@@ -1,0 +1,65 @@
+{
+  "title": "Rich Greek Ground Meat Baked Pastitsio",
+  "description": "A hearty, comforting Greek dish made with ground meat, bechamel sauce, and a rich tomato sauce, perfect for a weeknight dinner. This recipe makes 6 servings and can be prepared in advance for a stress-free meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore",
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the ground lamb and suet in a large pan over medium-high heat, breaking it up with a spoon as it cooks, until browned and crispy, about 10 minutes.",
+    "Add the chopped onion, salt, and pepper to the pan and cook until the onion is translucent, about 5 minutes.",
+    "Add the all-purpose flour to the pan and cook for 1 minute, stirring constantly.",
+    "Add the crushed tomatoes, tomato paste, red wine (if using), and glace cherries to the pan and stir to combine. Bring the sauce to a simmer and cook, stirring occasionally, until it has thickened and reduced slightly, about 20 minutes.",
+    "While the sauce is cooking, prepare the bechamel sauce.",
+    "To assemble the pastitsio, spread a layer of the meat sauce in the bottom of a 9x13-inch baking dish. Top with a layer of the bechamel sauce, followed by a layer of the grated Parmesan cheese. Repeat this process, ending with a layer of bechamel sauce on top.",
+    "Dot the top of the pastitsio with the butter and sprinkle with the chopped parsley.",
+    "Bake the pastitsio in the preheated oven for 35-40 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Let the pastitsio rest for 10-15 minutes before serving.",
+    "Note: To make the bechamel sauce, melt 2 tablespoons of butter in a small saucepan over medium heat. Whisk in 2 tablespoons of all-purpose flour and cook for 1 minute, stirring constantly. Slowly whisk in 1 cup of milk and cook, stirring constantly, until the sauce thickens and comes to a simmer. Remove from heat and stir in 1 egg and a pinch of salt and pepper. Set aside until ready to use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 42
+  },
+  "slug": "rich-greek-ground-meat-baked-pastitsio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-greek-ground-meat-baked-pastitsio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "glace cherry",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "ground meat",
+    "descriptor": "Rich",
+    "dishForm": "Baked Pastitsio"
+  }
+}

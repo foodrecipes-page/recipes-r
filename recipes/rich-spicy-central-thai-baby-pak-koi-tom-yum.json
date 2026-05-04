@@ -1,0 +1,96 @@
+{
+  "title": "Rich Spicy Central-Thai Baby Pak Koi Tom Yum",
+  "description": "A rich, spicy Thai dish featuring baby pak koi, with a double-fried crispy exterior and a gooey, savory interior. Perfect for a solo dinner.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "400g"
+    },
+    {
+      "name": "double-fry-fried chicken",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "fresh galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Thai red chilies",
+      "amount": "2"
+    },
+    {
+      "name": "unsweetened tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium heat.",
+    "Add the chicken and stir-fry until crispy.",
+    "Add the lemongrass and galangal and stir-fry until fragrant.",
+    "Add the chilies and stir-fry for 1 minute.",
+    "Add the fish sauce, palm sugar, and tamarind paste and stir-fry for 1 minute.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the baby pak koi and stir-fry until heated through.",
+    "Stir in the fried chicken and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "rich-spicy-central-thai-baby-pak-koi-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spicy-central-thai-baby-pak-koi-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:46Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "baby pak koi",
+    "diet": "no-onion-no-garlic",
+    "region": "central-thai",
+    "cuisineAdjective": "Central-Thai",
+    "mainIngredient": "Baby Pak Koi",
+    "descriptor": "Rich Spicy",
+    "dishForm": "Tom Yum"
+  }
+}

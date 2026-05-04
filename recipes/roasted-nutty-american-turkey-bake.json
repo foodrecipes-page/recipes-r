@@ -1,0 +1,127 @@
+{
+  "title": "Roasted Nutty American Turkey Bake",
+  "description": "A juicy, savory, and nutty American-inspired dish featuring roasted turkey, custard powder, and a wood-fired-bake. This recipe is perfect for a weeknight dinner, and is also gluten-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 1/2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped pecans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wood-fired glaze ingredients (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the turkey breast with salt, black pepper, and sugar.",
+    "In a shallow dish, mix together the coconut oil, gluten-free flour, and custard powder.",
+    "Dip the turkey breast into the gluten-free flour mixture, coating both sides evenly.",
+    "Heat a wood-fired oven or a conventional oven to 400°F (200°C).",
+    "Place the turkey breast in the oven and bake for 20 minutes.",
+    "While the turkey is baking, mix together the chopped walnuts and pecans in a small bowl.",
+    "After 20 minutes, brush the turkey breast with the wood-fired glaze and return to the oven for an additional 10 minutes.",
+    "Remove the turkey from the oven and let it rest for 5 minutes before slicing and serving.",
+    "In a small saucepan, warm the milk over low heat.",
+    "In a separate bowl, whisk together the egg and milk mixture until well combined.",
+    "Pour the egg mixture over the warm milk and whisk until smooth.",
+    "Stir in the chopped nuts and cook over low heat until the mixture thickens slightly.",
+    "Serve the turkey breast with the warm custard sauce and chopped nuts on top.",
+    "Garnish with additional chopped nuts if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dairy",
+    "gluten-free",
+    "nuts",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "roasted-nutty-american-turkey-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-nutty-american-turkey-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "custard powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "turkey",
+    "descriptor": "Roasted Nutty",
+    "dishForm": "Bake"
+  }
+}
