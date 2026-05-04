@@ -1,0 +1,104 @@
+{
+  "title": "Rich German Carrot Soup",
+  "description": "Peppery velvety carrot soup with a mother sauce base, finished with orange zest and gluten-free, perfect for a show‑off German dish.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 kg",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot broth",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot and sauté onion and garlic until translucent.",
+    "Add the chopped carrots and cook for 5 minutes, stirring frequently.",
+    "Stir in the tomato paste and cook for another minute to caramelize.",
+    "Pour in the carrot broth, bring to a boil, then reduce heat and simmer for 25 minutes until carrots are tender.",
+    "Use an immersion blender to puree the soup until smooth and velvety.",
+    "Season with apple cider vinegar, salt, pepper, and fresh dill, stirring well.",
+    "Add orange zest, adjust seasoning to taste, and reheat gently for 5 minutes.",
+    "Serve hot, optionally garnished with a swirl of cream or a sprig of dill.",
+    "Enjoy the rich, peppery flavors of this German carrot soup."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "dinner"
+  ],
+  "slug": "rich-german-carrot-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-german-carrot-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:40:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "orange",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "carrot",
+    "descriptor": "Rich",
+    "dishForm": "Soup"
+  }
+}
