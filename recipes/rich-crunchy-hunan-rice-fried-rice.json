@@ -1,0 +1,98 @@
+{
+  "title": "Rich Crunchy Hunan Rice Fried Rice",
+  "description": "Buttery, crunchy and light Chinese Hunan dish featuring chicken stock concentrate, baked to perfection, and Ayurvedic-sattvic-friendly.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "roasted cashews",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat and melt butter.",
+    "Add vegetable oil and swirl until the butter foams.",
+    "Stir in chicken stock concentrate, soy sauce, sugar, white pepper, and chili flakes, and cook until fragrant.",
+    "Pour cooked rice into the wok and stir to coat each grain with the sauce.",
+    "Continue stirring for 3 minutes until the rice is evenly heated and slightly toasted.",
+    "Add scallions and cashews, and stir for an additional 2 minutes so that the nuts crunch.",
+    "Taste and adjust seasoning with extra soy sauce if needed.",
+    "Transfer the fried rice to a baking dish and bake at 180°C for 5 minutes to crisp the top.",
+    "Remove from oven and allow to cool for 2 minutes.",
+    "Serve hot and enjoy the buttery crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crunchy",
+    "fried-rice",
+    "hunan-style",
+    "quick-meal",
+    "sattvic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "rich-crunchy-hunan-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-hunan-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:26:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "ayurvedic-sattvic",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "Rice",
+    "descriptor": "Rich Crunchy",
+    "dishForm": "Fried Rice"
+  }
+}
