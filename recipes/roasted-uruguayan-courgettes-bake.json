@@ -1,0 +1,89 @@
+{
+  "title": "Roasted Uruguayan Courgettes Bake",
+  "description": "A kid-friendly Uruguayan dish featuring roasted courgettes, slow-cooked to perfection, suitable for kosher diets. This flaky bake is great for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Trim the ends of the courgettes and cut them into 1-inch slices.",
+    "Heat the olive oil in a large skillet over medium heat. Add the sliced onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Sprinkle the sliced courgettes with salt and pepper. Add the courgettes to the skillet and cook until slightly tender, about 5 minutes.",
+    "Transfer the courgettes to a baking dish. Sprinkle the flour over the top.",
+    "Add the grated cheese over the flour. Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for another 15-20 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "uruguayan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-uruguayan-courgettes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-uruguayan-courgettes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "courgettes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "courgettes",
+    "descriptor": "roasted",
+    "dishForm": "Bake"
+  }
+}

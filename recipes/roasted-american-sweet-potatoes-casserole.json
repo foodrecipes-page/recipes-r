@@ -1,0 +1,108 @@
+{
+  "title": "roasted american sweet potatoes casserole",
+  "description": "a comforting american dish featuring roasted sweet potatoes, gooey marshmallows, and a hint of rum, perfect for a cozy winter evening. this recipe is egg-free-friendly and can be served as a side or a main course.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "american sweet potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "sofritto",
+      "amount": "1 cup",
+      "notes": "a mixture of sautéed carrots, celery, and onion"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup",
+      "notes": "mini marshmallows are best for even toasting"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "peel and dice the sweet potatoes into 1-inch cubes, place them on a baking sheet lined with parchment paper, and roast for 20-25 minutes, or until tender and lightly browned.",
+    "in a large skillet, heat 2 tablespoons of butter over medium heat, add the sofritto and cook for 5-7 minutes, or until the vegetables are tender and lightly browned.",
+    "stir in the light rum and cook for an additional 1-2 minutes, or until the liquid has almost completely evaporated.",
+    "in a separate saucepan, melt the remaining 2 tablespoons of butter over medium heat, add the heavy cream and cook for 2-3 minutes, or until the mixture starts to simmer.",
+    "stir in the brown sugar, flour, salt, and cinnamon, and cook for an additional 2-3 minutes, or until the mixture thickens.",
+    "add the marshmallows to the saucepan and stir until they are well coated with the sweet potato mixture.",
+    "transfer the sweet potatoes to a 9x13-inch baking dish, top with the marshmallow mixture, and bake for an additional 10-15 minutes, or until the marshmallows are golden brown and the casserole is bubbly.",
+    "remove the casserole from the oven and let it cool for 10-15 minutes before serving.",
+    "serve warm, garnished with additional cinnamon and marshmallows if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "comfort-food",
+    "dessert",
+    "marshmallows",
+    "sweet-potatoes",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "roasted-american-sweet-potatoes-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-sweet-potatoes-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "light rum",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "roasted",
+    "dishForm": "casserole"
+  }
+}
