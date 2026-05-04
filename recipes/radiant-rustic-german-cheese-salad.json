@@ -1,0 +1,102 @@
+{
+  "title": "Radiant Rustic German Cheese Salad",
+  "description": "A briny, gooey German-inspired salad featuring shredded Monterey Jack cheese, pickled veggies, smoked accents, and a creamy egg topping.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shredded Monterey Jack cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "pickled cucumbers, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "radishes, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "black olives, sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "German mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rye bread croutons",
+      "amount": "50g"
+    },
+    {
+      "name": "boiled egg, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded Monterey Jack cheese, diced pickled cucumbers, sliced radishes, and sliced olives.",
+    "Drizzle olive oil over the mixture and toss gently to coat.",
+    "Sprinkle sea salt, smoked paprika, and German mustard over the salad, then stir until evenly distributed.",
+    "Fold in fresh dill and rye bread croutons, allowing the crumbs to soften slightly.",
+    "Arrange sliced boiled egg on top of the salad as a decorative element.",
+    "Chill the salad in the refrigerator for 15 minutes to meld flavors.",
+    "Prior to serving, give the salad a final gentle toss.",
+    "Plate the salad on a chilled ceramic dish and garnish with a few extra dill sprigs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny-salad",
+    "cheese-salad",
+    "cold-serve",
+    "german",
+    "ovo-vegetarian",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 970,
+    "protein": 34,
+    "carbs": 46,
+    "fat": 62
+  },
+  "slug": "radiant-rustic-german-cheese-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-rustic-german-cheese-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:09:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cheese",
+    "descriptor": "Radiant Rustic",
+    "dishForm": "Salad"
+  }
+}
