@@ -1,0 +1,117 @@
+{
+  "title": "Rousing Spicy Tuscan Steak Tortellini",
+  "description": "A spicy Tuscan-inspired brunch dish featuring lean ground beef, cheese-filled tortellini, and a zesty tomato sauce. Chill and reheat in a terracotta dish for a rustic flavor that's ready in minutes.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "amount": "1 lb (450 g)",
+      "notes": "90% lean"
+    },
+    {
+      "name": "raw cheese-filled tortellini",
+      "amount": "8 oz (225 g)",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "in oil"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large skillet over medium-high heat, heat 2 tbsp olive oil and add 1 lb lean ground beef, cooking until browned and crumbly, about 5-7 minutes.",
+    "Stir in 3 minced garlic cloves and 1 tsp red pepper flakes, cooking for 1 minute until fragrant.",
+    "Pour in 1 cup tomato paste and 1 cup diced sun-dried tomatoes, mixing well to combine.",
+    "Add 1 tsp dried rosemary, 1/2 cup white wine, and season with salt and pepper; simmer for 5 minutes, letting the flavors meld.",
+    "While the sauce simmers, bring a large pot of salted water to a boil, add 8 oz raw tortellini, and cook until al dente, about 3-4 minutes, then drain.",
+    "Fold the cooked tortellini into the beef sauce, ensuring each piece is coated, and transfer the mixture into a terracotta baking dish.",
+    "Sprinkle 2 tbsp grated Parmesan over the top and cover loosely with foil.",
+    "Bake in a preheated 375°F (190°C) oven for 10 minutes to heat through and allow the cheese to melt.",
+    "Remove from oven, garnish with fresh basil if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-italian",
+    "lean-protein",
+    "quick",
+    "spicy",
+    "terracotta-dish",
+    "tuscan-flavor"
+  ],
+  "nutrition": {
+    "calories": 353,
+    "protein": 16,
+    "carbs": 31,
+    "fat": 14
+  },
+  "slug": "rousing-spicy-tuscan-steak-tortellini",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rousing-spicy-tuscan-steak-tortellini",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:18:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "lean minced steak",
+    "diet": "raw",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "steak",
+    "descriptor": "Rousing Spicy",
+    "dishForm": "Tortellini"
+  }
+}
