@@ -1,0 +1,92 @@
+{
+  "title": "Rich Silky Croatian Goose Confit",
+  "description": "A slow-cooked, indulgent dish from Croatia that combines the richness of goose fat with the subtle umami of kombu extract.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose legs",
+      "amount": "4",
+      "notes": "preferably from a heritage breed"
+    },
+    {
+      "name": "goose fat",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "4-6 pieces",
+      "notes": "soaked in water for at least 4 hours"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Rinse the soaked kombu seaweed and place it in a large saucepan.",
+    "Add the melted goose fat, minced garlic, and lemon juice to the saucepan.",
+    "Place the goose legs in the saucepan and bring the mixture to a simmer over medium heat.",
+    "Transfer the saucepan to the preheated oven and cook for 3 hours.",
+    "Remove the saucepan from the oven and let it cool slightly.",
+    "Shred the goose meat into tender strands using two forks.",
+    "Strain the kombu extract through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Whisk the strained kombu extract into the shredded goose meat.",
+    "Season the goose confit with black pepper to taste.",
+    "Serve the goose confit warm or at room temperature, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 180,
+  "totalTimeMin": 220,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "herbivore-friendly",
+    "high-fat",
+    "rich-umami",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 68,
+    "carbs": 10,
+    "fat": 72
+  },
+  "slug": "rich-silky-croatian-goose-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-croatian-goose-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:19:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "goose fat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "goose",
+    "descriptor": "Rich Silky",
+    "dishForm": "Confit"
+  }
+}
