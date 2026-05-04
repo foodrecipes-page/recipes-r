@@ -1,0 +1,121 @@
+{
+  "title": "Radiant Egyptian Penne Pasta",
+  "description": "Smoky, glassy-jelly sauce inspired by Egyptian flavors, served over al dente penne. A dairy-free, mortar-pestle-pound creation that dazzles the palate.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground with mortar and pestle"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground with mortar and pestle"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground with mortar and pestle"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "100g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "parsley",
+      "amount": "to garnish",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta until al dente, about 10 minutes; drain and set aside.",
+    "Heat the olive oil in a large skillet over medium heat until shimmering.",
+    "Add the diced onion to the skillet and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for an additional minute until fragrant.",
+    "Sprinkle the smoked paprika, cumin, and coriander into the skillet, stirring to coat the onion mixture.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer, allowing the spices to release their aromas.",
+    "Add the chickpeas, tomato paste, and coconut milk, stirring until the sauce thickens and turns a glassy, jelly-like consistency.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, then season with salt to taste.",
+    "Toss the cooked penne pasta into the skillet, ensuring each piece is coated with the smoky sauce.",
+    "Finish by squeezing fresh lemon juice over the pasta and garnishing with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "egyptian",
+    "glassy-sauce",
+    "mortar-pestle",
+    "pasta",
+    "show-off",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 19,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "radiant-egyptian-penne-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-egyptian-penne-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:06:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "penne pasta",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "penne",
+    "descriptor": "Radiant",
+    "dishForm": "Pasta"
+  }
+}
