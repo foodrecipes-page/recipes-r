@@ -1,0 +1,103 @@
+{
+  "title": "Rich Uruguayan Tiger Shrimp Bowl",
+  "description": "A creamy, yeasty, low-glycemic bowl featuring raw tiger shrimp, coconut yogurt, and fresh veggies.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Raw tiger shrimp",
+      "amount": "200 g"
+    },
+    {
+      "name": "Coconut yogurt",
+      "amount": "150 g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "10 g"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "5 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium (150 g)"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "75 g"
+    },
+    {
+      "name": "Red onion",
+      "amount": "25 g"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "10 g"
+    },
+    {
+      "name": "Stevia powder",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Rinse the raw tiger shrimp under cold water and pat dry with a paper towel.",
+    "In a bowl, whisk together coconut yogurt, lime juice, Dijon mustard, minced garlic, olive oil, salt, and pepper until smooth.",
+    "Toss the shrimp with the yogurt sauce until fully coated, then refrigerate for 15 minutes.",
+    "While the shrimp marinates, dice the avocado, cucumber, and thinly slice the red onion, then combine in a separate bowl.",
+    "Add the marinated shrimp to the vegetable mixture, gently fold to combine.",
+    "Sprinkle chopped cilantro over the bowl and drizzle a pinch of stevia powder for subtle sweetness.",
+    "Garnish with an extra lime wedge and optional crushed nuts for texture.",
+    "Serve immediately over a bed of mixed greens or plain quinoa if desired.",
+    "Enjoy a creamy, yeasty, low-glycemic Uruguayan shrimp bowl in under 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bowl",
+    "creamy",
+    "low-carb",
+    "no-cook",
+    "quick",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 44
+  },
+  "slug": "rich-uruguayan-tiger-shrimp-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-tiger-shrimp-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:58:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "candy",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tiger shrimp",
+    "descriptor": "Rich",
+    "dishForm": "Bowl"
+  }
+}
