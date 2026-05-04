@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Australian Cherry Tomatoes Tart",
+  "description": "A silky, lazy-sunday Australian dish featuring roasted cherry tomatoes layered on puff pastry, finished with feta and basil for a fresh, savory bite.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puff pastry sheet",
+      "amount": "1 sheet (200g)",
+      "notes": "pre‑rolled lamination pastry"
+    },
+    {
+      "name": "Australian cherry tomatoes",
+      "amount": "300g",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a bowl toss the halved cherry tomatoes with olive oil, salt, pepper, and garlic powder.",
+    "Arrange the puff pastry on a baking sheet lined with parchment paper.",
+    "Spread the seasoned tomatoes evenly over the pastry, leaving a small border.",
+    "Sprinkle the crumbled feta and chopped basil over the tomatoes.",
+    "Brush the exposed edges of the pastry with beaten egg.",
+    "Bake for 20 minutes until the pastry is golden and the tomatoes are soft.",
+    "Cool slightly before slicing into 6 pieces and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "low-carb",
+    "puff-pastry",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "roasted-australian-cherry-tomatoes-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-australian-cherry-tomatoes-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:00:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Roasted",
+    "dishForm": "Tart"
+  }
+}
