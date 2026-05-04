@@ -1,0 +1,108 @@
+{
+  "title": "Richly Spiced Vietnamese Tomatoes Bun Rieu",
+  "description": "A salty and gooey Vietnamese dish featuring diced tomatoes and pickle, perfect for a monsoon day. This recipe is egg-free and friendly to various dietary needs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "sour and salty"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "cubed and drained"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes, pickle, vegetable broth, rice vinegar, soy sauce, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the cubed tofu and cook for an additional 5 minutes, until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bun rieu hot, garnished with chopped scallions.",
+    "Offer additional soy sauce, rice vinegar, and sesame oil on the side, for added flavor.",
+    "This dish can be made ahead and refrigerated for up to 3 days, or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "monsoon-food",
+    "one-pot",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "richly-spiced-vietnamese-tomatoes-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-vietnamese-tomatoes-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:51:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Bun Rieu"
+  }
+}
