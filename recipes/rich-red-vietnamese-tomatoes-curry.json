@@ -1,0 +1,104 @@
+{
+  "title": "Rich Red Vietnamese Tomatoes Curry",
+  "description": "A sweet and comforting Vietnamese dish featuring canned tomatoes and a mirepoix base, perfect for a sick day",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomatoes",
+      "amount": "14 oz",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "14 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender",
+    "Add the grated ginger and cook for 1 minute",
+    "Stir in the curry powder and cook for 1 minute",
+    "Add the crushed canned tomatoes, coconut milk, salt, and pepper, and stir to combine",
+    "Bring the mixture to a simmer and cook for 20 minutes",
+    "Reduce the heat to low and cook for an additional 10 minutes",
+    "Taste and adjust the seasoning as needed",
+    "Serve the curry hot over rice or noodles"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-red-vietnamese-tomatoes-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-red-vietnamese-tomatoes-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:39:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Rich Red",
+    "dishForm": "Curry"
+  }
+}

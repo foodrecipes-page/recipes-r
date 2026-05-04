@@ -1,0 +1,112 @@
+{
+  "title": "Refreshing Peruvian Potato Bowl",
+  "description": "A light, crisp Peruvian potato bowl that layers sweet and yellow potatoes with a tangy kimchi quinoa dressing, served chilled in a ceramic tanje.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "200g"
+    },
+    {
+      "name": "yellow potato",
+      "amount": "200g"
+    },
+    {
+      "name": "kimchi",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "quinoa",
+      "amount": "100g",
+      "notes": "cooked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Boil sweet potato slices until just tender, then drain and let cool.",
+    "Boil yellow potato slices until just tender, then drain and let cool.",
+    "In a bowl, whisk cooked quinoa with lime juice, salt, pepper, sugar, garlic, and cilantro to create a dressing.",
+    "Fold chopped kimchi into the quinoa dressing until evenly mixed.",
+    "Place a layer of cooled sweet potato slices into the ceramic tanje.",
+    " Spoon a generous layer of quinoa-kimchi mixture over the sweet potatoes.",
+    "Top with a layer of cooled yellow potato slices.",
+    "Drizzle olive oil over the final layer and sprinkle smoked paprika.",
+    "Chill the assembled bowl for 10 minutes before serving, and garnish with extra cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "nut-free",
+    "peruvian",
+    "quick",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 11,
+    "carbs": 109,
+    "fat": 27
+  },
+  "slug": "refreshing-peruvian-potato-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-peruvian-potato-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:39:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Potato",
+    "descriptor": "Refreshing",
+    "dishForm": "Bowl"
+  }
+}
