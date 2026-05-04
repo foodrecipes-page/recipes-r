@@ -1,0 +1,111 @@
+{
+  "title": "Rich Mexican Tomatoes Tacos",
+  "description": "Nutty, springy, romantic tacos featuring cherry tomatoes and dashi extract, anti-inflammatory-friendly with a tacos-al-pastor twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 lb",
+      "notes": "halved"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup",
+      "notes": "use instant dashi extract"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add halved cherry tomatoes and cook until they start to soften, about 3 minutes.",
+    "Stir in smoked paprika, cumin, and turmeric, cooking for 1 minute until fragrant.",
+    "Pour in dashi broth and lime juice, bring to a gentle simmer, and let reduce for 4 minutes until slightly thickened.",
+    "Season the tomato mixture with sea salt and black pepper, taste and adjust if needed.",
+    "Warm corn tortillas in a dry pan or microwave for 30 seconds.",
+    "Divide the tomato mixture evenly among the tortillas.",
+    "Top each taco with sliced red onion and chopped cilantro.",
+    "Serve immediately and enjoy the springy, nutty flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "mexican",
+    "quick-meal",
+    "tacos",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "rich-mexican-tomatoes-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mexican-tomatoes-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:54:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Rich",
+    "dishForm": "Tacos"
+  }
+}
