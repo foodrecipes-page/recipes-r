@@ -1,0 +1,108 @@
+{
+  "title": "Rich Piedmontese Cheese Cassata",
+  "description": "Savory, flaky pastry filled with a zesty Pecorino and ricotta blend, baked to perfection in a tandoor for a show‑off Italian twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "butter",
+      "amount": "150g",
+      "notes": "chilled"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor oven to 220°C and line a baking sheet with parchment paper.",
+    "Whisk flour, kosher salt, and black pepper in a large bowl.",
+    "Cut chilled butter into small cubes and rub into flour mixture until coarse crumbs form.",
+    "Add water gradually, stirring until dough just comes together, shape into a ball, wrap in plastic, and chill for 30 minutes.",
+    "Combine ricotta, Pecorino, smoked paprika, cumin, dried oregano, rosemary, and olive oil until evenly incorporated.",
+    "Roll chilled dough into a 30x20cm rectangle and cut into four equal strips; wrap each strip around the cheese mixture, sealing the ends.",
+    "Place the filled strips on the prepared baking sheet, brush tops with olive oil, and bake in the tandoor for 18–20 minutes until golden and flaky.",
+    "Remove from tandoor, let rest 5 minutes, then slice and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-cassata",
+    "egg-free",
+    "flaky",
+    "italian",
+    "piemontese",
+    "savory",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 2800,
+    "protein": 75,
+    "carbs": 230,
+    "fat": 223
+  },
+  "slug": "rich-piedmontese-cheese-cassata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-piedmontese-cheese-cassata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:47:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "kosher salt",
+    "diet": "egg-free",
+    "region": "piedmontese",
+    "cuisineAdjective": "Piedmontese",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich",
+    "dishForm": "Cassata"
+  }
+}
