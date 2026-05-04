@@ -1,0 +1,107 @@
+{
+  "title": "Roasted Italian Borlotti Beans Panzanella",
+  "description": "A light and flavorful Italian-inspired panzanella made with roasted borlotti beans, tomatoes, and a sweet glaze. Perfect for a quick and easy vegetarian dinner",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Borlotti beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "1 cup",
+      "notes": "cubed and toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss borlotti beans with 1 tablespoon of olive oil, salt, and black pepper on a baking sheet and roast for 20 minutes or until tender.",
+    "Meanwhile, combine crushed tomatoes, balsamic vinegar, and honey in a bowl. ",
+    "In a large bowl, combine roasted borlotti beans, tomato mixture, and chopped basil. ",
+    "Cubed bread should be toasted in a pan with the last 2 tablespoons of olive oil until lightly browned. ",
+    "Add bread to the bowl and toss gently to combine.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "roasted-italian-borlotti-beans-panzanella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-italian-borlotti-beans-panzanella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "borlotti beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Roasted",
+    "dishForm": "Panzanella"
+  }
+}

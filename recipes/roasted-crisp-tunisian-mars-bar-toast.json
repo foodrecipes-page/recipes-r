@@ -1,0 +1,72 @@
+{
+  "title": "Roasted Crisp Tunisian Mars Bar Toast",
+  "description": "Crunchy Mars bar toast topped with roasted vegetables, perfect for a post-workout snack or dessert.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mars bar",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the chopped Mars bar, honey, mixed greens, bell pepper, onion, salt, and black pepper on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the ingredients and toss to coat.",
+    "Roast in the preheated oven for 12 minutes, or until the vegetables are tender and lightly caramelized.",
+    "Meanwhile, toast the whole wheat bread slices until crispy.",
+    "Spread a layer of roasted red peppers on each slice of toasted bread.",
+    "Top with a layer of mixed greens, chopped Mars bar, sliced almonds, and a sprinkle of smoked paprika.",
+    "Drizzle with lemon juice and garnish with chopped fresh cilantro and parsley.",
+    "Repeat the layers one more time, finishing with a slice of toasted bread on top.",
+    "Cut into squares or rectangles for serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "roasted",
+    "snack",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 64,
+    "fat": 28
+  },
+  "slug": "roasted-crisp-tunisian-mars-bar-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-tunisian-mars-bar-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "mars bar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Roasted Crisp",
+    "dishForm": "Toast"
+  }
+}
