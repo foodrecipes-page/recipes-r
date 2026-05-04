@@ -1,0 +1,101 @@
+{
+  "title": "Resinous Greek Eggplant Gigantes Plaki",
+  "description": "A springy, resinous eggplant stew infused with poppy seeds and a silky tomato-olive emulsion, perfect for a romantic date night served in a bento box.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "200g"
+    },
+    {
+      "name": "canned tomato sauce",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "onion",
+      "amount": "100g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "5g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Slice the eggplant into 2 cm thick rounds, sprinkle with salt, and let them sit for 20 minutes to draw out bitterness.",
+    "Rinse and pat dry the eggplant slices, brush each side with 1 tablespoon of olive oil, and roast them in a preheated 200°C oven for 25 minutes until golden.",
+    "While the eggplant roasts, finely dice the onion and mince the garlic, then sauté them in a pan with 1 tablespoon olive oil until translucent.",
+    "Add the canned tomato sauce, fresh oregano, lemon juice, poppy seeds, salt, pepper, and 100 ml water to the pan, simmer for 15 minutes to create a thick tomato emulsion.",
+    "Assemble the dish by layering roasted eggplant slices in a bento box compartment, spooning the tomato sauce over them, and repeating until all ingredients are used.",
+    "Cover the bento box with foil and let it rest for 10 minutes to allow flavors to mingle and the sauce to thicken.",
+    "Garnish the finished platter with a sprinkle of poppy seeds and a drizzle of extra virgin olive oil before serving.",
+    "Serve the resinous Greek eggplant Gigantes Plaki warm, ideally with a side of crusty bread or a light salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "date-night",
+    "gluten-free",
+    "gourmet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 35
+  },
+  "slug": "resinous-greek-eggplant-gigantes-plaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-greek-eggplant-gigantes-plaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:10:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "poppy seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Resinous",
+    "dishForm": "Gigantes Plaki"
+  }
+}
