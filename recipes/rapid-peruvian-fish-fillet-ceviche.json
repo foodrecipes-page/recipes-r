@@ -1,0 +1,116 @@
+{
+  "title": "Rapid Peruvian Fish Fillet Ceviche",
+  "description": "A quick Peruvian ceviche that balances fresh citrus with lightly salt‑baked fish for a safe, raw-friendly dish.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh white fish fillet",
+      "amount": "500g",
+      "notes": "filleted, skin removed"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2",
+      "notes": "ripe, diced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "light fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Wash the fish fillet and pat it dry with paper towels.",
+    "Slice the fish into thin, bite sized pieces.",
+    "Place the fish in a shallow bowl and sprinkle with sea salt.",
+    "Add the lime and lemon juice, making sure the fish is completely submerged.",
+    "Stir in minced garlic, sliced chili, and freshly ground black pepper.",
+    "Let the mixture marinate at room temperature for 5 minutes.",
+    "While the fish marinates, chop the red onion, cucumber, cilantro, and avocado into small cubes.",
+    "After 5 minutes, remove the fish from the bowl and drain any excess liquid.",
+    "Combine the fish with the chopped vegetables and drizzle with optional fish sauce.",
+    "Serve immediately with a side of crisp corn tortilla chips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "healthy",
+    "peruvian",
+    "quick",
+    "raw-friendly",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 115,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "rapid-peruvian-fish-fillet-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rapid-peruvian-fish-fillet-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:12:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "fish fillet",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Rapid",
+    "dishForm": "Ceviche"
+  }
+}
