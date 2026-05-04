@@ -1,0 +1,102 @@
+{
+  "title": "Norwegian Egg Spring Rolls",
+  "description": "A funky Norwegian dish featuring egg rolls with a cheese-pull effect, perfect for a hangover cure, and dairy-free friendly. This recipe combines the richness of eggs and cheese with the crunch of spring rolls.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the chopped scallions to the skillet and cook until they are softened and fragrant.",
+    "Add the shredded cheese to the skillet and stir until it is melted and well combined with the scallions.",
+    "Add the egg mixture to the skillet and scramble the eggs until they are cooked through.",
+    "Lay a spring roll wrapper on a flat surface and place about 1/4 cup of the egg mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little water and fold the bottom half of the wrapper over the filling.",
+    "Fold in the sides of the wrapper and roll up the wrapper to form a tight cylinder.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat and fry the spring rolls until they are golden brown and crispy.",
+    "Drain the spring rolls on paper towels and serve them hot with flambe sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "richly-filled-norwegian-egg-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-filled-norwegian-egg-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:11:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "egg rolls",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "eggs",
+    "descriptor": "Richly filled",
+    "dishForm": "Spring-Rolls"
+  }
+}
