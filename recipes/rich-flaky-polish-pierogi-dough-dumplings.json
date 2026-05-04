@@ -1,0 +1,96 @@
+{
+  "title": "Rich Flaky Polish Pierogi Dough Dumplings",
+  "description": "A kid-friendly Polish dish featuring a nutty and flaky dough filled with a sweet and spicy Thai chilli jam, boiled to perfection and keto-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "almond flour for keto version"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-carb option"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, melted butter, eggs, and salt, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of Thai chilli jam in the center of each dough circle.",
+    "Top the jam with a tablespoon of shredded cheese and a dollop of sour cream.",
+    "Fold the dough over the filling to form a half-circle shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "boiled-dinner",
+    "dumplings",
+    "keto-friendly",
+    "kid-friendly",
+    "low-carb",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "rich-flaky-polish-pierogi-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-polish-pierogi-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:09:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pierogi dough",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Dumplings"
+  }
+}
