@@ -1,0 +1,109 @@
+{
+  "title": "Rousing Ethiopian Corn Flour Kik Alicha",
+  "description": "Crispy, spicy corn flour pancakes with a hint of lentil flavor, served with a crunchy chickpea topping.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "60",
+      "notes": "grams"
+    },
+    {
+      "name": "water",
+      "amount": "90",
+      "notes": "ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1",
+      "notes": "tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1",
+      "notes": "tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "notes": "tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5",
+      "notes": "tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "5",
+      "notes": "ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1",
+      "notes": "tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2",
+      "notes": "tbsp"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "30",
+      "notes": "grams"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl whisk together corn flour, salt, cumin, coriander, paprika, and cayenne pepper.",
+    "Add water gradually to the dry mixture, stirring until a smooth batter forms without lumps.",
+    "Heat a nonstick skillet over medium heat and brush lightly with olive oil.",
+    "Pour a 2-inch wide ladleful of batter onto the skillet, spreading it into a circle.",
+    "Cook for 3 minutes until the edges lift and the bottom is golden, then flip and cook the other side for 2 minutes.",
+    "Remove the pancake and repeat with the remaining batter.",
+    "Sprinkle roasted chickpeas over the pancakes and garnish with fresh cilantro.",
+    "Serve hot with a squeeze of lemon juice on the side."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "breakfast"
+  ],
+  "slug": "rousing-ethiopian-corn-flour-kik-alicha",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rousing-ethiopian-corn-flour-kik-alicha",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:35:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "corn flour",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "corn flour",
+    "descriptor": "Rousing",
+    "dishForm": "Kik Alicha"
+  }
+}
