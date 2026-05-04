@@ -1,0 +1,102 @@
+{
+  "title": "Radiant Kenyan Orange Salad",
+  "description": "A bright, kid-friendly salad that mixes sweet orange segments with creamy avocado, crisp cucumber, and a lightly sautéed spice mix to create an airy, flavorful dish perfect for lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oranges",
+      "amount": "2 medium"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly cracked"
+    }
+  ],
+  "instructions": [
+    "Peel the oranges, cut the peel off the segments, and separate the segments from the membranes.",
+    "Dice the avocado into bite‑sized cubes and set aside.",
+    "Dice the cucumber into small cubes.",
+    "Heat a small skillet over medium heat, add the olive oil, and let it shimmer for 10 seconds.",
+    "Add the grated ginger, ground cumin, salt, and pepper to the skillet and sauté for 30 seconds until fragrant.",
+    "Pour the honey into the skillet, stir until it coats the spices, and let it bubble for 30 seconds.",
+    "Transfer the sautéed spice mixture into a large bowl and pour the lime juice over it, mixing well.",
+    "Add the orange segments, avocado cubes, and cucumber cubes to the bowl and toss gently until everything is evenly coated.",
+    "Taste and adjust seasoning if needed, adding more salt, pepper, or honey.",
+    "Serve immediately on a chilled plate or bowl, garnished with a sprinkle of fresh coriander if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "kid-friendly",
+    "low-calorie",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "radiant-kenyan-orange-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-kenyan-orange-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:29:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "orange",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "orange",
+    "descriptor": "Radiant",
+    "dishForm": "Salad"
+  }
+}

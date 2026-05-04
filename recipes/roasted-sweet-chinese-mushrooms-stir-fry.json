@@ -1,0 +1,94 @@
+{
+  "title": "Roasted Sweet Chinese Mushroom Stir-fry",
+  "description": "A sweet, crispy one-pot dish featuring katsuramuki-cut mushrooms, whole30-friendly seasonings, and a caramelized glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese White Mushrooms (katsuramuki-cut)",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamari",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a bowl, combine mushrooms with 2 tbsp olive oil, minced garlic, minced ginger, 2 tbsp tamari, 1 tbsp apple juice, and a pinch of salt, then toss until coated.",
+    "Spread the mushrooms in a single layer on a baking sheet lined with parchment.",
+    "Roast for 15 minutes, flipping halfway through, until edges start to caramelize.",
+    "While mushrooms roast, heat a small pan over medium heat and roast the remaining garlic and ginger for 1 minute until fragrant.",
+    "Remove mushrooms from oven and add them to the pan along with sliced scallions, tossing everything until scallions soften.",
+    "Sprinkle 1 tsp sesame seeds over the stir‑fry and give a final toss.",
+    "Serve hot, optionally garnishing with extra scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "mushroom",
+    "one-pan",
+    "quick",
+    "sugar-free",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 575,
+    "protein": 10,
+    "carbs": 21,
+    "fat": 31
+  },
+  "slug": "roasted-sweet-chinese-mushrooms-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-sweet-chinese-mushrooms-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:29:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mushrooms",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Roasted Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
