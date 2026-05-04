@@ -1,0 +1,109 @@
+{
+  "title": "Red Vietnamese Meat Bowl",
+  "description": "Sweet, bouncy-qq meal-prep Vietnamese dish featuring red onions and render-fat, perfect for a Mediterranean-friendly dinner choice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add thinly sliced red onion and cook until caramelized, about 5 minutes.",
+    "Add ground pork and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add rendered pork fat, fish sauce, lime juice, soy sauce, and sugar. Stir to combine.",
+    "Cook for an additional 2 minutes, until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Stir in chopped cilantro and scallions.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "red-vietnamese-meat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-vietnamese-meat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "red onions",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "meat",
+    "descriptor": "red",
+    "dishForm": "bowl"
+  }
+}
