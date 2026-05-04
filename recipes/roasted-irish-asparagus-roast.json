@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Irish Asparagus Roast",
+  "description": "A delicious and adventurous Irish dish featuring roasted asparagus, perfect for a low-carb diet. This recipe is served in a bento box for a fun and unique presentation.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup",
+      "notes": "fermented"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper.",
+    "Toss the asparagus with olive oil, salt, pepper, and garlic powder in a bowl.",
+    "Spread the asparagus out in a single layer on the prepared baking sheet.",
+    "Roast the asparagus in the preheated oven for 12 minutes.",
+    "Remove the asparagus from the oven and sprinkle with parmesan cheese.",
+    "Return the asparagus to the oven and roast for an additional 2 minutes.",
+    "Remove the asparagus from the oven and squeeze with lemon juice.",
+    "Serve the asparagus in a bento box with a side of kimchi.",
+    "Garnish with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "fermented-food",
+    "gluten-free",
+    "irish-food",
+    "low-carb",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "roasted-irish-asparagus-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-irish-asparagus-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:24:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "asparagus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "asparagus",
+    "descriptor": "Roasted tender",
+    "dishForm": "Roast"
+  }
+}
