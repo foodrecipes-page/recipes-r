@@ -1,0 +1,99 @@
+{
+  "title": "Rich Roasted Algerian Ricotta Tagine",
+  "description": "A savory Algerian dish featuring ricotta, cooked in a tagine with a blend of spices, perfect for a brunch mood. This ayurvedic sattvic friendly dish is sure to satisfy your taste buds.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the crumbled ricotta cheese, olive oil, chopped onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper until well combined.",
+    "Transfer the mixture to a clay or ceramic tagine or a large oven-safe dish with a tight-fitting lid.",
+    "Cover the tagine or dish with the lid and roast in the preheated oven for 25 minutes.",
+    "Remove the lid and continue roasting for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove the tagine from the oven and let it cool for a few minutes.",
+    "Garnish with chopped fresh parsley and serve warm.",
+    "Traditionally, tagine is cooked over a low flame, but roasting in the oven achieves similar results with less effort."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "brunch-ideas",
+    "gluten-free",
+    "ricotta-recipes",
+    "tagine-cooking",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "rich-roasted-algerian-ricotta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-algerian-ricotta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:05:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ricotta",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Tagine"
+  }
+}
