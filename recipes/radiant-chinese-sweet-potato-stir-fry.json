@@ -1,0 +1,112 @@
+{
+  "title": "Radiant Chinese Sweet Potato Stir Fry",
+  "description": "A mustardy, fluffy, comforting Chinese dish that showcases sweet potatoes and braised scallops in a fragrant soffritto base, ideal for pescatarian diners.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "scallops",
+      "amount": "200g",
+      "notes": "cleaned and patted dry"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Peel and cube sweet potatoes into 1-inch pieces.",
+    "Clean scallops, pat dry.",
+    "In a saucepan, combine sweet potatoes, water, Shaoxing wine, and a pinch of salt, bring to a boil and simmer until tender, about 12 minutes.",
+    "While sweet potatoes cook, season scallops with a splash of soy sauce and set aside.",
+    "In a wok, heat 1 tbsp vegetable oil over high heat; add scallops and sear for 2 minutes, then remove and set aside.",
+    "In the same wok, add 1 tbsp sesame oil, ginger, and garlic; stir-fry for 30 seconds until fragrant.",
+    "Add braised sweet potatoes to the wok, stir to combine.",
+    "Return scallops to the wok, drizzle with remaining soy sauce and a teaspoon of white mustard powder, and toss gently to coat.",
+    "Stir in a splash of water to create a light sauce, and cook for another 2 minutes, letting flavors meld.",
+    "Finish with sliced green onions and sesame seeds, give one final stir.",
+    "Serve hot over steamed rice or alone as a comforting dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "mustard-flavor",
+    "pescatarian",
+    "quick",
+    "soffritto",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 870,
+    "protein": 28,
+    "carbs": 99,
+    "fat": 33
+  },
+  "slug": "radiant-chinese-sweet-potato-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/radiant-chinese-sweet-potato-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:13:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Radiant",
+    "dishForm": "Stir Fry"
+  }
+}
