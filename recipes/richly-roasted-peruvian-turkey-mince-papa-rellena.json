@@ -1,0 +1,102 @@
+{
+  "title": "Richly Roasted Peruvian Turkey Mince Papa Rellena",
+  "description": "A jammy, gooey, cozy Peruvian dish featuring turkey mince, shio-cure, in a papa rellena form, halal-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the potatoes until they are tender, then mash and set aside.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until softened.",
+    "Add the garlic and aji amarillo pepper to the pan and cook for 1 minute.",
+    "Add the turkey mince to the pan, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the shio cure, salt, and black pepper.",
+    "Combine the cooked turkey mince mixture with the mashed potatoes and mix well.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty shape and make a well in the center of each patty.",
+    "Place a spoonful of the turkey mince mixture into the well of each patty, then fold the patty over to enclose the filling and shape into a papa rellena form.",
+    "Brush the tops of the papa rellenas with the beaten egg and bake in the preheated oven for 25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "papa-rellena",
+    "peruvian-cuisine",
+    "roasted-dishes",
+    "turkey-mince"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "richly-roasted-peruvian-turkey-mince-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-peruvian-turkey-mince-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:49:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "turkey mince",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Papa Rellena"
+  }
+}
