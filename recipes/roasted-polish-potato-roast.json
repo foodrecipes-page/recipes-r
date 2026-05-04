@@ -1,0 +1,109 @@
+{
+  "title": "Roasted Polish Potato Roast",
+  "description": "A hearty, molten roast featuring Dutch stroop and confit tomato, served in a tall talavera plate.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1500 g",
+      "notes": "russet, peeled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dutch stroop",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and line a tall talavera plate with parchment paper.",
+    "Peel the potatoes and cut them into 1‑inch cubes, rinsing in cold water to remove excess starch.",
+    "Pat the potato cubes dry with a clean towel, then toss them in a bowl with olive oil, sea salt, pepper, minced garlic, thyme, smoked paprika, and a splash of dutch stroop.",
+    "Spread the seasoned potatoes in an even layer on the prepared plate, ensuring they are not crowded.",
+    "Roast in the oven for 25 minutes, turning once, until the edges are golden and the cores are tender.",
+    "Remove the plate, drizzle confit tomato over the potatoes, and sprinkle chopped parsley for freshness.",
+    "Return to the oven for an additional 5 minutes to meld the flavors, then let the dish rest for 5 minutes before serving.",
+    "Slice the roasted potato roast into generous portions, placing each piece on a serving platter.",
+    "Drizzle a small amount of residual dutch stroop over each serving to enhance sweetness.",
+    "Serve hot, accompanied by a side of sautéed kale or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "family-friendly",
+    "one-pan",
+    "polish",
+    "roasted-potatoes"
+  ],
+  "nutrition": {
+    "calories": 1550,
+    "protein": 32,
+    "carbs": 304,
+    "fat": 30
+  },
+  "slug": "roasted-polish-potato-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-polish-potato-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:21:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "dutch stroop",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potato",
+    "descriptor": "Roasted",
+    "dishForm": "Roast"
+  }
+}
