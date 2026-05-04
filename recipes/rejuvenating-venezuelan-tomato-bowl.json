@@ -1,0 +1,96 @@
+{
+  "title": "Rejuvenating Venezuelan Tomato Bowl",
+  "description": "A vegan bowl that blends sweet tomatoes, black beans, tofu, and a herbal Korean namul seasoning, finished with fresh cilantro and lime for a comforting Latin fusion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cherry tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "Cooked black beans",
+      "amount": "200g"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "cubed and pat dry"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Korean namul seasoning",
+      "amount": "1 tbsp",
+      "notes": "roasted soybean seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juice only"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat until shimmering.",
+    "Cook cubed tofu in the skillet until golden brown on all sides, about five minutes.",
+    "Add cherry tomatoes to the skillet and sauté until they start to soften, about three minutes.",
+    "Stir in cooked black beans and Korean namul seasoning, cooking until the mixture is heated through, about two minutes.",
+    "Transfer the warm mixture to a bowl, then fold in sliced avocado and chopped cilantro.",
+    "Squeeze fresh lime juice over the bowl and give a gentle toss to combine flavors.",
+    "Adjust seasoning with salt or extra namul seasoning if desired.",
+    "Serve immediately for a fresh, comforting bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "latin-fusion",
+    "one-pan",
+    "plant-based",
+    "quick-healthy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 904,
+    "protein": 38,
+    "carbs": 78,
+    "fat": 56
+  },
+  "slug": "rejuvenating-venezuelan-tomato-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/rejuvenating-venezuelan-tomato-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:02:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tomato",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tomato",
+    "descriptor": "Rejuvenating",
+    "dishForm": "Bowl"
+  }
+}
