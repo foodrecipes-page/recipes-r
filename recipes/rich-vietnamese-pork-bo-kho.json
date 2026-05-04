@@ -1,0 +1,119 @@
+{
+  "title": "Rich Vietnamese Pork Bo Kho",
+  "description": "A hearty, comforting Vietnamese stew featuring braised pork, potatoes, and a depth of flavor from mustard powder, star anise, and fish sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "high-protein",
+    "high-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "poked with a fork"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, ginger, and garlic and cook until the onion is translucent.",
+    "Add the star anise, mustard powder, fish sauce, and sugar and cook for 1 minute.",
+    "Add the potatoes, beef broth, and water and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the meat is tender and the potatoes are cooked through.",
+    "Stir in the bean sprouts and cook for an additional 10 minutes.",
+    "Serve hot, wrapped in a ssam wrap or with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braise",
+    "high-protein",
+    "rich",
+    "stew",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-vietnamese-pork-bo-kho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-vietnamese-pork-bo-kho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:59:09Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "mustard powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich",
+    "dishForm": "Bo Kho"
+  }
+}
