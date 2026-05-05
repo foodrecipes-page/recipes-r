@@ -1,0 +1,83 @@
+{
+  "title": "Rchar-Grilled Bvnh Thit-Nuong",
+  "description": "A spicy, velvety Vietnamese dish featuring digestive biscuits grilled to perfection. Halal-friendly and ideal as a hangover cure.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": "12"
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "5 cloves"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pepper Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grate ginger and finely chop garlic.",
+    "Combine fish sauce, soy sauce, lime juice, pepper powder in a bowl. Add grated ginger and chopped garlic.",
+    "Add biscuits into the mixture, turning occasionally until crispy on all sides.",
+    "Transfer grilled biscuits onto plates and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-biscuits",
+    "halal-friendly",
+    "hangover",
+    "spicy-vietnamese-dish"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "rchar-grilled-bvnh-thit-nuong",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rchar-grilled-bvnh-thit-nuong",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:04:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Bread",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Noodles"
+  }
+}
