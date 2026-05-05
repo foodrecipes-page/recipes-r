@@ -1,0 +1,97 @@
+{
+  "title": "Resinous Aerated Greek Sultanas Wrap",
+  "description": "A nostalgic Greek dish featuring sultanas and bhuna, served in a crispy lotus-leaf wrap.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sultanas",
+      "amount": "100g"
+    },
+    {
+      "name": "bhuna",
+      "amount": "200g"
+    },
+    {
+      "name": "lotus-leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "honey",
+      "amount": "20g"
+    },
+    {
+      "name": "rose water",
+      "amount": "15g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "25g"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "10g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "15g"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium heat and add grated ginger. Cook for 2 minutes.",
+    "Add sultanas, bhuna, honey, rose water, cinnamon, and cardamom to the pan. Cook for 5 minutes.",
+    "Add water to the pan and bring to a simmer. Cook for 8 minutes.",
+    "Brush the lotus-leaf wraps with a little water and warm them on a baking sheet in the oven at 200°C for 5 minutes.",
+    "Spoon the sultana mixture onto a warmed lotus-leaf wrap and sprinkle with sesame seeds.",
+    "Fold the lotus-leaf wrap into a triangle and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "greek-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 4,
+    "carbs": 104,
+    "fat": 24
+  },
+  "slug": "resinous-aerated-greek-sultanas-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-aerated-greek-sultanas-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "sultanas",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sultanas",
+    "descriptor": "resinous aerated",
+    "dishForm": "Wrap"
+  }
+}
