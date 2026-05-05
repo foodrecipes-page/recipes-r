@@ -1,0 +1,103 @@
+{
+  "title": "R-Sour Flaky Tagine with Lamb Shanks",
+  "description": "A sick-day Tunisian dish featuring lamb shanks in a sour and flaky sauce, perfect for those feeling under the weather. This vegetarian-friendly recipe is jain-approved and uses a tava-griddle as the vessel.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": 4,
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "6-8"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2-3"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium-high heat.",
+    "Season the lamb shanks with salt and pepper on both sides. Sear them for about 5 minutes per side until golden brown, flipping occasionally to ensure even cooking.",
+    "In a bowl, mix together white wine vinegar, lemon juice, olive oil, dijon mustard, paprika, and black pepper. Brush the marinade over the lamb shanks and let it sit for at least 10 minutes.",
+    "Add sliced onion to the tava-griddle with some of its water. Sauté until translucent, about 3-4 minutes.",
+    "Pour the marinade into a pot and add thyme sprigs and bay leaves. Bring to simmer over medium heat, then reduce the heat to low and let it cook for about 10 minutes, stirring occasionally to prevent sticking.",
+    "Remove thyme sprigs and bay leaves from the sauce. Place the lamb shanks in the tava-griddle, bone side down, and spoon some of the sauce over them. Cover with a lid or aluminum foil and simmer until the internal temperature reaches 71°C (160°F), about 45 minutes.",
+    "Serve hot with crusty bread for sopping up the delicious sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "jain-approved",
+    "lamb-shanks",
+    "sour",
+    "tunisian",
+    "vegetarian-friendly",
+    "vessel-tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "r-sour-flaky-tagine-with-lamb-shanks",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/r-sour-flaky-tagine-with-lamb-shanks",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:00:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "lamb shanks",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb shanks",
+    "descriptor": "Sour Flaky",
+    "dishForm": "Tagine"
+  }
+}
