@@ -1,0 +1,122 @@
+{
+  "title": "romantic earthy polish scallions pilaf",
+  "description": "a hearty scallion-based pilaf that combines earthy flavors and crunchy textures, perfect for a romantic polish dinner. scallions add a snappy pop of freshness to the dish, while a hint of shio-cured fennel adds a touch of sophistication.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chop the scallions into 1-inch pieces, leaving some of the green intact for garnish."
+    },
+    {
+      "name": "shio-cured fennel",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chop the onion into 1-inch pieces."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince the garlic."
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher or sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chop the parsley into small pieces."
+    },
+    {
+      "name": "crushed ayurvedic tamasic-friendly almonds",
+      "amount": "1/4 cup",
+      "notes": "toast the almonds in a dry skillet over medium heat until fragrant."
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large skillet over medium heat. add the onion and saut\u000649 until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "add the caraway seeds and cook for 30 seconds, stirring constantly.",
+    "add the scallions and cook for 2-3 minutes, or until they start to soften.",
+    "add the flour and cook for 1 minute, stirring constantly to prevent burning.",
+    "gradually add the broth, whisking constantly to prevent lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes.",
+    "stir in the shio-cured fennel and cook for 1 minute.",
+    "season the pilaf with salt and pepper to taste.",
+    "serve hot, garnished with chopped parsley and toasted almonds.",
+    "](prepTimeMin:10, cookTimeMin:25, totalTimeMin:35, servings:4, ",
+    "difficulty:",
+    "easy",
+    "tags"
+  ],
+  "(": "high-protein",
+  "weeknight": "one-pan",
+  "polish": "romantic",
+  "easy": "earthly",
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 6
+  },
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "tags": [
+    "polish",
+    "dinner"
+  ],
+  "slug": "romantic-earthy-polish-scallions-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-earthy-polish-scallions-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "shio-cure",
+    "primaryIngredient": "scallions",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "scallions",
+    "descriptor": "Romantic earthy",
+    "dishForm": "Pilaf"
+  }
+}
