@@ -1,0 +1,63 @@
+{
+  "title": "Roasted Aromatic Weeknight Irish Arabic Rice Pilaf",
+  "description": "A hearty, simple Irish-inspired pilaf with aromatic flavors and an air of the Middle East.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabic rice",
+      "amount": "1 cup",
+      "notes": "preferably basmati or a similar long-grain rice"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana over low heat on a stovetop. ",
+    "Add 2 tablespoons of olive oil and swirl to coat the bottom of the cataplana. ",
+    "Add the chopped onion and sauté for 3 minutes. ",
+    "Add the chopped carrots and sauté for another 3 minutes. ",
+    "Add the olive oil sautéed vegetables, salt, black pepper, ground cumin, and dried thyme to the cataplana. ",
+    "Stir in the Arabic rice and chicken broth. ",
+    "Cover the cataplana with a lid or foil and transfer to a preheated oven at 300°F (150°C).",
+    "Roast in the oven for 25 minutes. ",
+    "Remove the cataplana from the oven, fluff the rice with a fork, and return to the oven for an additional 5 minutes.",
+    "Finish with chopped fresh parsley and a squeeze of lemon juice.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "easy-to-make",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 9
+  },
+  "slug": "roasted-aromatic-weeknight-irish-arabic-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-aromatic-weeknight-irish-arabic-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "bain-marie",
+    "primaryIngredient": "arabic rice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Arabic rice",
+    "descriptor": "Roasted aromatic weeknight",
+    "dishForm": "Pilaf"
+  }
+}
