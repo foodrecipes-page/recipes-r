@@ -1,0 +1,65 @@
+{
+  "title": "Rich Midnight Peruvian Cheese Tagine",
+  "description": "A chilled butter, cheese-pull Peruvian dish featuring a citrusy flavor profile, best served in a stone bowl ceramic tagine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "300g",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a ceramic tagine at 375\u000000F for 10 minutes to melt and create a rich aroma.",
+    "Add sliced Gruyere cheese, Greek yogurt, and Queso fresco. Stir until combined and slightly melted.",
+    "Mix in citrus-herb seasoning, black pepper, lemon juice, salt, and chopped onion.",
+    "Add sliced red and yellow corn and stir until coated with the cheese mixture.",
+    "Pour in water to cover the mixture, then add aji amarillo pepper slices and bring to a simmer.",
+    "Reduce heat to 325\u000000F and let cook for 20 minutes with the cover on, occasionally stirring and scraping the tagine.",
+    "Stir in chopped cilantro just before serving.",
+    "Serve hot, garnished with extra cilantro and Gruyere cheese shavings, if desired.",
+    "Let the tagine rest for 10 minutes before serving to allow the cheese to set and create a beautiful pull.",
+    "Reheat the tagine in the oven or on the stovetop before serving, if needed."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "dinner",
+    "low-sodium",
+    "peruvian",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 55
+  },
+  "slug": "rich-midnight-peruvian-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-midnight-peruvian-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chilled butter",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Midnight",
+    "dishForm": "Tagine"
+  }
+}

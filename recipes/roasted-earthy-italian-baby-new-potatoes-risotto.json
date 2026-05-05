@@ -1,0 +1,121 @@
+{
+  "title": "Roasted Earthy Italian Baby New Potatoes Risotto",
+  "description": "A delicious and earthy Italian-inspired solo-dinner featuring baby new potatoes and kombu-cold-extract, making it dairy-free-friendly. Perfect for a cozy evening in.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby new potatoes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "20g",
+      "notes": "cold-extract only"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "20g",
+      "notes": "fresh leaves only"
+    },
+    {
+      "name": "White wine",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Peel the baby new potatoes and chop them into 1-inch pieces.",
+    "Place the chopped potatoes in a bowl and drizzle with olive oil, then sprinkle with salt and black pepper. Toss to coat evenly.",
+    "Spread the potatoes on a baking sheet lined with parchment paper and roast in the preheated oven for 15 minutes, or until tender and lightly browned.",
+    "Meanwhile, heat the olive oil in a large saucepan over medium heat. Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the white wine and vegetable broth to the saucepan, stirring to deglaze the bottom. Bring the mixture to a simmer and cook for 5 minutes, or until reduced slightly.",
+    "Add the cold-extract kombu to the saucepan and stir to combine. Cook for 2 minutes, or until the kombu has dissolved.",
+    "Add the roasted potatoes to the saucepan and stir to combine with the kombu-infused broth. Cook for 2 minutes, or until the potatoes are coated in the flavorful broth.",
+    "Stir in the nutritional yeast and season with salt and black pepper to taste.",
+    "Serve the risotto hot, garnished with chopped fresh parsley and a sprinkle of thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "italian",
+    "one-pan",
+    "risotto",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "roasted-earthy-italian-baby-new-potatoes-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-earthy-italian-baby-new-potatoes-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "italian",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "roasted earthy",
+    "dishForm": "risotto"
+  }
+}

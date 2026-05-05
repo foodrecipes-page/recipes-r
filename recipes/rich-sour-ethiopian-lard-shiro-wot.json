@@ -1,0 +1,124 @@
+{
+  "title": "Rich Sour Ethiopian Lard Shiro Wot",
+  "description": "Shiro Wot, a classic Ethiopian one-pot dish, is made richer with the addition of lard and a tangy lacquer glaze. This Mediterranean-friendly recipe serves 4-6 people as a main course.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lard",
+      "amount": "4 tablespoons",
+      "notes": "Use high-quality, rendered lard for the best flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chop the onion to prevent it from overpowering the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic is essential for the flavor of Shiro Wot."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": "Fresh ginger adds a nice warmth to the dish."
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "Berbere spice is a staple in Ethiopian cuisine, giving Shiro Wot its signature flavor."
+    },
+    {
+      "name": "Teff flour",
+      "amount": "2 tablespoons",
+      "notes": "Teff flour helps to thicken the sauce and add texture."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Use filtered water for the best flavor."
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "2 tablespoons",
+      "notes": "A tangy and sweet lacquer glaze is the perfect finishing touch."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Add salt to taste, as the flavor of Shiro Wot can be quite strong."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Black pepper adds a nice depth to the dish."
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": "Clarified butter is essential for the rich flavor of Shiro Wot."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "Fresh cilantro adds a bright and refreshing touch to the dish."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "Fresh parsley pairs well with the flavors of Shiro Wot."
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large Dutch oven over medium heat.",
+    "Add the finely chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly to prevent burning.",
+    "Add the Berbere spice and cook for 1-2 minutes, stirring constantly, until the spice is fragrant.",
+    "Add the teff flour and cook for 1 minute, stirring constantly, until the flour is lightly toasted.",
+    "Gradually add the water, whisking constantly to prevent lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes, or until the sauce has thickened.",
+    "Stir in the clarified butter and salt.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Shiro Wot to a serving platter and drizzle with the lacquer glaze.",
+    "Garnish with chopped fresh cilantro and parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lactose-free",
+    "mediterranean-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "rich-sour-ethiopian-lard-shiro-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-sour-ethiopian-lard-shiro-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "lard",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lard",
+    "descriptor": "Rich Sour",
+    "dishForm": "Shiro Wot"
+  }
+}
