@@ -1,0 +1,101 @@
+{
+  "title": "Raw King French Prawns Carpaccio",
+  "description": "Salty and crisp, this adventurous French dish features raw king prawns, deglazed with a hint of citrus and finished with fresh parsley. Perfect for a light dinner or lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": "or white wine (optional)"
+    },
+    {
+      "name": "shallots",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "a handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the prawns on a large plate or tray.",
+    "Drizzle the olive oil over the prawns, then sprinkle with lemon juice, white wine vinegar, minced garlic, and thinly sliced shallots.",
+    "Season with salt, black pepper, and a pinch of fleur de sel.",
+    "Just before serving, sprinkle with chopped parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "french",
+    "high-protein",
+    "raw",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 6
+  },
+  "slug": "raw-king-french-prawns-carpaccio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-king-french-prawns-carpaccio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "raw king prawns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Prawns",
+    "descriptor": "Raw King",
+    "dishForm": "Carpaccio"
+  }
+}

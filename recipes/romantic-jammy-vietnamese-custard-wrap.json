@@ -1,0 +1,132 @@
+{
+  "title": "Romantic Jammy Vietnamese Custard Wrap",
+  "description": "A sweet and delicate wrap featuring a spherified custard filling, crispy fresh herbs, and fragrant lotus leaves.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spherified custard",
+      "amount": "1",
+      "notes": "Made with agar agar and coconut milk."
+    },
+    {
+      "name": "Fresh Vietnamese mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Agar agar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the lotus leaves by washing and drying them thoroughly.",
+    "In a medium saucepan, whisk together the coconut milk, granulated sugar, lemon juice, and salt.",
+    "In a small bowl, whisk together the agar agar and cornstarch until well combined.",
+    "Add the agar agar mixture to the coconut milk mixture and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove from heat and let cool slightly.",
+    "In a small bowl, whisk together the egg yolks, vanilla extract, and unsalted butter until smooth.",
+    "Temper the egg yolk mixture by slowly pouring the warm custard mixture into the egg yolks, whisking constantly.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl.",
+    "Spherify the custard by dropping small amounts of the mixture into a bowl of cold water.",
+    "Once the spherified custard has formed, remove it from the water with a slotted spoon and set aside.",
+    "To assemble the wrap, lay a lotus leaf flat on a work surface and spread a small amount of the spherified custard in the center of the leaf.",
+    "Top the custard with fresh herbs and fold the lotus leaf over the filling to form a neat package.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "one-pan",
+    "romantic",
+    "spherified",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "romantic-jammy-vietnamese-custard-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-jammy-vietnamese-custard-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "custard",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "custard",
+    "descriptor": "romantic jammy",
+    "dishForm": "wrap"
+  }
+}
