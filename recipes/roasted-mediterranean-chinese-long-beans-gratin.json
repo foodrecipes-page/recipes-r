@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Mediterranean Chinese Long Beans Gratin",
+  "description": "A Mediterranean-inspired dish featuring roasted Chinese long beans, pickles, and a flavorful topping. This dish is kid-friendly and Whole30-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Long Beans",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickle Slices",
+      "amount": "1 cup",
+      "notes": "any type, drained and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "crumbled, dairy-free alternative for Whole30"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Slice the Chinese long beans into 1-inch pieces and place them on a baking sheet. ",
+    "Drizzle with olive oil and toss to coat.",
+    "Sprinkle garlic, dried oregano, salt, and black pepper over the beans and toss again to coat.",
+    "Roast in the preheated oven for 20 minutes, or until the beans start to brown.",
+    "While the beans are roasting, mix together pickle slices and feta cheese (if using). ",
+    "Once the beans are done roasting, remove them from the oven and top each bean with the pickle-feta mixture.",
+    "Return the baking sheet to the oven and continue baking for an additional 5-7 minutes, or until the topping is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 27,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "mediterranean",
+    "one-pan",
+    "paleo",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "roasted-mediterranean-chinese-long-beans-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-mediterranean-chinese-long-beans-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:00:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "chinese long beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Roasted",
+    "dishForm": "Gratin"
+  }
+}
