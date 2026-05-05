@@ -1,0 +1,103 @@
+{
+  "title": "Rich Molten Uruguayan Bottarga Empanadas",
+  "description": "Enjoy a decadent Uruguayan take on empanadas filled with molten bottarga, beurre monte, and herbs.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "1 pound",
+      "notes": "preferably imported from uruguay"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "a pinch",
+      "notes": "optional, for color"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "a handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "halal-friendly eggs",
+      "amount": "4",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "neutral-tasting oil",
+      "amount": "for brushing"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "a pinch",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "mix together flour, salt, and charcoal powder in a bowl",
+    "add beurre monte and mix until a dough forms",
+    "knead dough for 5 minutes until elastic",
+    "divide dough into 8 equal pieces",
+    "roll out each piece into a thin circle",
+    "place 1-2 tablespoons of bottarga on one half of each circle",
+    "fold in half and press edges to seal",
+    "brush tops with egg wash and sprinkle with sugar",
+    "heat a neutral-tasting oil in a pan over medium heat",
+    "fry empanadas for 2 minutes on each side until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "beurre-monte",
+    "bottarga",
+    "halal",
+    "molten",
+    "rich",
+    "sick-day",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "rich-molten-uruguayan-bottarga-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-uruguayan-bottarga-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "bottarga",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bottarga",
+    "descriptor": "rich molten",
+    "dishForm": "Empanadas"
+  }
+}

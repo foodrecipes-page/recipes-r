@@ -1,0 +1,108 @@
+{
+  "title": "Ramekin Greek Fluffy Horiatiki Jjim",
+  "description": "A comforting, buttery, and fluffy Greek dish featuring tender streaky bacon, perfect for a satisfying dinner. This recipe adapts the classic Greek salad concept to a small, individual ramekin size.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Streaky bacon",
+      "amount": "6 slices",
+      "notes": "Choose a thick-cut, smoked bacon for added flavor."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley adds a nice texture and freshness."
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add salt to taste, as needed."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add black pepper to taste, as needed."
+    },
+    {
+      "name": "Ramekin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Baking sheet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Oven",
+      "amount": "1",
+      "notes": "Preheat to 375°F (190°C)."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, whisk together Greek yogurt and a pinch of salt. Set aside.",
+    "Cut the streaky bacon into small pieces and cook in a pan over medium heat until crispy. Remove from heat and set aside.",
+    "In a separate bowl, crumble the feta cheese and mix with chopped parsley.",
+    "In the ramekin, create a layer of cooked bacon. Top with a layer of Greek yogurt mixture, followed by a layer of crumbled feta cheese and parsley mixture. Repeat this process two more times, finishing with a layer of bacon on top.",
+    "Drizzle the top layer of bacon with a little olive oil and season with salt and black pepper.",
+    "Arrange the ramekins on a baking sheet and bake for 20-25 minutes, or until the top is golden brown and the cheese is melted and slightly puffed.",
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "greek-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "ramekin-greek-fluffy-horiatiki-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ramekin-greek-fluffy-horiatiki-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "streaky bacon",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "buttery",
+    "descriptor": "Fluffy",
+    "dishForm": "Jjim"
+  }
+}

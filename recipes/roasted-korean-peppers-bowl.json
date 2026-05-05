@@ -1,0 +1,121 @@
+{
+  "title": "Roasted Korean Peppers Bowl",
+  "description": "A flavorful and nutritious meal-prep dish featuring roasted mixed peppers, perfect for a weeknight dinner",
+  "cuisine": "korean",
+  "diet": [
+    null,
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed peppers (bell, jalape\u00071o, Anaheim)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, whisk together soy sauce, brown sugar, rice vinegar, and crushed red pepper flakes.",
+    "In a large bowl, toss the mixed peppers with coconut oil, garlic, ginger, and soy sauce mixture until they are evenly coated.",
+    "Spread the peppers in a single layer on a baking sheet and roast for 25 minutes, or until tender and slightly charred.",
+    "While the peppers are roasting, cook the green onions in a small pan with a little water until softened.",
+    "Fluff the cooked peppers with a spatula and top with cooked green onions, toasted sesame seeds, and any additional seasonings you like.",
+    "Serve warm or at room temperature, garnished with additional green onions and sesame seeds if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or in the freezer for up to 2 months.",
+    "Reheat in the oven or microwave until warm and steaming hot.",
+    "To make this recipe more substantial, add cooked brown rice, quinoa, or noodles to the bowl.",
+    "For a spicy kick, add more crushed red pepper flakes or sliced jalape\u00071os.",
+    "For a different flavor, swap out the soy sauce for tamari or nama shoyu.",
+    "For a vegan version, omit the sesame seeds or replace with sesame oil.",
+    "For a gluten-free version, use gluten-free soy sauce or tamari.",
+    "To make ahead, roast the peppers and store them in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "To make this recipe more colorful, add diced carrots, zucchini, or bell peppers to the bowl.",
+    "To make this recipe more filling, add cooked chickpeas, black beans, or roasted sweet potatoes to the bowl.",
+    "To make this recipe more flavorful, add grated ginger, minced garlic, or sliced green onions to the bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-korean-peppers-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-korean-peppers-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mixed peppers",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peppers",
+    "descriptor": "Roasted",
+    "dishForm": "Bowl"
+  }
+}
