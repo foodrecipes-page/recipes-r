@@ -1,0 +1,115 @@
+{
+  "title": "Roasted Silky Australian Sea Bass Bake",
+  "description": "A delicate sea bass dish originating from the temples of Australia, perfect for a cold monsoon night. The kombu-cold-extract brings an unmatched silkiness to the fish, while the spices add depth and warmth.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Sea Bass",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch slice",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "Galangal",
+      "amount": "1-inch slice",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the sea bass and pat it dry with paper towels.",
+    "Place the sea bass on the prepared baking sheet, skin side down.",
+    "In a small bowl, mix together the kombu-cold-extract, ghee, ginger, garlic, lemongrass, and galangal.",
+    "Brush the mixture evenly over the sea bass, leaving a small border around the edges.",
+    "Pour the coconut milk over the sea bass, making sure it's fully submerged.",
+    "Sprinkle the sweet basil over the top of the sea bass.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 12 minutes, or until the sea bass is cooked through and flakes easily with a fork.",
+    "Remove from the oven and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-dinner",
+    "low-carb",
+    "monsoon",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 60,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "roasted-silky-australian-sea-bass-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-silky-australian-sea-bass-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sea bass",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "sea bass",
+    "descriptor": "roasted silky",
+    "dishForm": "bake"
+  }
+}
