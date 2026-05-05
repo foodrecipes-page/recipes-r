@@ -1,0 +1,99 @@
+{
+  "title": "Roasted Ethiopian Sugar Bowl",
+  "description": "A delicious, pillowy, kid-friendly Ethiopian dish featuring sugars, perfect for a quick weeknight dinner. Simply roast the ingredients in the oven and serve over injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Injera bread",
+      "amount": "4 slices",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together the granulated sugar, brown sugar, and honey until well combined.",
+    "Add the cardamom, cinnamon, and nutmeg to the sugar mixture and stir to combine.",
+    "Cut the injera bread into small pieces and add to the sugar mixture, tossing to coat.",
+    "Heat the ghee or vegetable oil in a large skillet over medium heat.",
+    "Add the sugar and bread mixture to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a baking dish and roast in the preheated oven for 15-20 minutes, or until the top is golden brown.",
+    "Serve the roasted sugar bowl over warm injera bread, garnished with additional honey and spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "ethiopian",
+    "kid-friendly",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-ethiopian-sugars-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ethiopian-sugars-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "sugars",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "ethiopian",
+    "mainIngredient": "sugars",
+    "descriptor": "roasted pillowy",
+    "dishForm": null
+  }
+}

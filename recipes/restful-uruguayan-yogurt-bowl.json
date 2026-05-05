@@ -1,0 +1,114 @@
+{
+  "title": "restful uruguayan yogurt bowl",
+  "description": "Sweet and fluffy, this uruguayan dish is a delight for any time of day. Featuring greek yogurt, fresh fruits, and a touch of honey, it's sugar-free-friendly and easy to make.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "full-fat greek yogurt",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "blueberries",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "strawberries",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "0.25g",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "granola",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.25g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine greek yogurt, honey, and cinnamon in a bowl.",
+    "Mix in blueberries and strawberries until well coated.",
+    "Top with chopped almonds, cocoa powder, and a sprinkle of granola.",
+    "In a separate pan, whisk eggs, flour, and milk. Cook over low heat until smooth.",
+    "Add cooked egg mixture to the yogurt bowl and season with salt.",
+    "Serve warm for a cozy breakfast treat or chilled for a quick snack.",
+    "Garnish with additional blueberries if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "snack",
+    "sugar-free",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "restful-uruguayan-yogurt-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/restful-uruguayan-yogurt-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "greek yogurt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "yogurt",
+    "descriptor": "restful",
+    "dishForm": "Bowl"
+  }
+}
