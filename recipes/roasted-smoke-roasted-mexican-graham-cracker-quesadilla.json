@@ -1,0 +1,90 @@
+{
+  "title": "Roasted Smoke-Roasted Mexican Graham Cracker Quesadilla",
+  "description": "A yeasty, springy, monsoon-style mexican snack featuring graham cracker crumbs, smoke-hot spices and keto-friendly ingredients.",
+  "cuisine": "Mexican (Chiapas)",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "200g shredded cheese",
+      "amount": ""
+    },
+    {
+      "name": "100g graham cracker crumbs",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Grilled or roasted vegetables (optional)",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "1/2 cup chopped fresh herbs (e.g. cilantro, parsley)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "In a bowl, mix the cheese with crumbled graham crackers, smoked paprika and cayenne pepper. Add salt for taste.",
+    "Heat butter in an oven-safe skillet over medium heat. Once melted, pour the cheese mixture evenly onto the pan.",
+    "Cook for about 3 minutes or until the edges start to brown slightly.",
+    "Remove from heat and let it cool down for a moment before flipping with a spatula.",
+    "Top each quichelette with grilled or roasted vegetables if using, followed by fresh herbs.",
+    "Return to oven for another minute or so, or until everything is heated through.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "graham-cracker",
+    "keto-friendly",
+    "mexican-style",
+    "smoke-roasted",
+    "snack",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "roasted-smoke-roasted-mexican-graham-cracker-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoke-roasted-mexican-graham-cracker-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:52:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "keto",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Graham Cracker",
+    "descriptor": "Smoke-Roasted",
+    "dishForm": "Quesadilla"
+  }
+}
