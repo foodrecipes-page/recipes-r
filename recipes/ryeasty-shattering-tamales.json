@@ -1,0 +1,101 @@
+{
+  "title": "Ryeasty Shattering Tamales",
+  "description": "A yeasty, shattering Mexican meal-prep dish featuring bulgur wheat, mirepoix-base, vegan-friendly. Perfect for a quick breakfast or snack.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup bulgur",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 carrot, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 stalks celery, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 can (8 oz) tomato sauce",
+      "amount": "can"
+    },
+    {
+      "name": "3 cups vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "5 tbsp nutritional yeast",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp dried basil",
+      "amount": null
+    },
+    {
+      "name": "1/2 tsp dried oregano",
+      "amount": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F.",
+    "In a large skillet, heat olive oil over medium-high heat. Add onions and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Stir in carrots and celery. Cook for an additional 2-3 minutes or until vegetables start to soften.",
+    "Pour in tomato sauce and vegetable broth. Bring to a boil then reduce heat to low. Simmer for 10-15 minutes, stirring occasionally.",
+    "Add nutritional yeast, basil, oregano, salt, and pepper. Stir well. Cook for another 5 minutes or until thickened slightly.",
+    "Remove from heat. Let cool slightly before using as a filling in tamales."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "healthier",
+    "meal-prep",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 589,
+    "protein": 14,
+    "carbs": 72,
+    "fat": 13
+  },
+  "slug": "ryeasty-shattering-tamales",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ryeasty-shattering-tamales",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:10:52Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Bulgur Wheat",
+    "descriptor": "Yeasty Shattering",
+    "dishForm": "Quesadilla"
+  }
+}
