@@ -1,0 +1,68 @@
+{
+  "title": "Rich Shattering American Chocolate Pie",
+  "description": "Fresh, shattering, comforting American dish featuring dark chocolate, en-croite, and low-sodium-friendly options.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "8 ounces (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Graham Cracker Crust",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought, low-sodium option available"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large mixing bowl, whisk together melted butter and sugar until well combined.",
+    "Add the eggs one at a time, whisking well after each addition.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Whisk the melted chocolate into the sugar mixture until smooth.",
+    "Pour the chocolate mixture into the prepared graham cracker crust.",
+    "Bake the pie for 45 minutes or until the edges are set and the center is slightly jiggly.",
+    "Let the pie cool to room temperature on a wire rack.",
+    "Chill the pie in the refrigerator for at least 4 hours or overnight.",
+    "Once chilled, remove the pie from the refrigerator and let it sit at room temperature for 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 135,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate",
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "rich-shattering-american-chocolate-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-shattering-american-chocolate-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "dark chocolate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chocolate",
+    "descriptor": "Rich Shattering",
+    "dishForm": "Pie"
+  }
+}

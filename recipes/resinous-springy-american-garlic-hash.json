@@ -1,0 +1,97 @@
+{
+  "title": "Resinous Springy American Garlic Hash",
+  "description": "A hearty, comforting breakfast dish featuring a sticky, slightly sweet confit made with garlic and tomatoes, mixed with a crispy, slightly charred hash of diced vegetables and potatoes. This Shojin-friendly recipe is perfect for a weekend brunch or a cozy dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "small tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the diced potatoes with 1 tablespoon of olive oil, salt, and pepper on a baking sheet and roast for 20 minutes, or until golden brown.",
+    "In a skillet, heat the remaining 1 tablespoon of olive oil over medium heat. Add the minced garlic and cook for 2-3 minutes, or until fragrant.",
+    "Add the diced red onion, yellow bell pepper, and halved tomatoes to the skillet and cook for 5-7 minutes, or until the vegetables are tender.",
+    "Stir in the roasted potatoes and cook for an additional 2-3 minutes, or until the mixture is well combined.",
+    "Use a spatula to press the mixture down into the skillet, creating a crispy crust on the bottom.",
+    "Serve the hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "easy-to-make",
+    "vegetarian",
+    "weekend-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "resinous-springy-american-garlic-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-springy-american-garlic-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "minced garlic",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "garlic",
+    "descriptor": "resinous springy",
+    "dishForm": "Hash"
+  }
+}

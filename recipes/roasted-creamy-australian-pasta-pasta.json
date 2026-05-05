@@ -1,0 +1,118 @@
+{
+  "title": "Roasted Creamy Australian Pasta",
+  "description": "A comforting Australian-inspired pasta dish featuring roasted vegetables and a rich, creamy sauce. Perfect for a sick day or a relaxing evening in.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bowtie pasta",
+      "amount": "250g",
+      "notes": "FODMAP-friendly, gluten-free option"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "fermented soybean paste"
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "200g",
+      "notes": "lactose-free option"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "50g",
+      "notes": "optional, lactose-free option"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F) while you prepare the vegetables.",
+    "Toss the carrots, zucchini, and onion with 1 tbsp of vegetable oil on a baking sheet and roast for 20 minutes, or until the vegetables are tender.",
+    "Cook the bowtie pasta according to the package instructions and set aside.",
+    "In a separate saucepan, heat the remaining 1 tbsp of vegetable oil over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the miso paste and red wine vinegar to the saucepan and stir to combine.",
+    "Add the creme fraiche to the saucepan and stir to combine.",
+    "Add the cooked bowtie pasta to the saucepan and toss to coat with the creamy sauce.",
+    "Season the pasta with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and top with the roasted vegetables and chopped parsley.",
+    "If using cheddar cheese, sprinkle on top of the pasta and return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 23,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "roasted-creamy-australian-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-creamy-australian-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pasta",
+    "descriptor": "roasted creamy",
+    "dishForm": "Pasta"
+  }
+}
