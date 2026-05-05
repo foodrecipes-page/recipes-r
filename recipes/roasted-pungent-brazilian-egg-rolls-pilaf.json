@@ -1,0 +1,119 @@
+{
+  "title": "Roasted Pungent Brazilian Egg Rolls Pilaf",
+  "description": "A hearty Brazilian dish featuring roasted egg rolls, steamed rice, and sautéed vegetables, all seasoned with pungent spices. This dish is perfect for a cold winter day when you need something to warm your belly and soothe your soul.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked white rice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed vegetables (such as carrots, peas, and corn)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 Brazilian egg rolls",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Soak 4 cedar planks in water for at least 30 minutes.",
+    "In a medium saucepan, bring the water to a boil. Add the rice and reduce heat to low. Cover and simmer for 15-20 minutes or until the rice is tender and fluffy.",
+    "Heat the oil in a large skillet over medium-high heat. Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the mixed vegetables and cook until they are tender, about 5 minutes.",
+    "In a small bowl, mix together the cumin, smoked paprika, salt, and black pepper. Sprinkle the spice mixture over the vegetables and stir to combine.",
+    "Arrange the egg rolls on the preheated cedar planks. Brush the egg rolls with the spice mixture.",
+    "Place the cedar planks on the middle rack of the oven and roast for 10-12 minutes or until the egg rolls are golden brown and crispy.",
+    "Remove the egg rolls from the oven and sprinkle with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "cold-weather",
+    "flaky",
+    "gluten-free-friendly",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasted-pungent-brazilian-egg-rolls-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-pungent-brazilian-egg-rolls-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "egg rolls",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "Roasted Pungent",
+    "dishForm": "Pilaf"
+  }
+}

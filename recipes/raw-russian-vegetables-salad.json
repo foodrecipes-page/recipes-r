@@ -1,0 +1,111 @@
+{
+  "title": "Raw Russian Vegetables Salad",
+  "description": "A spicy, aerated, monsoon-inspired dish featuring raw vegetables, katsuramuki-cut, jain-friendly. Perfect for a light and refreshing meal during the summer months.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cucumbers",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Beets",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1",
+      "notes": "+ minced"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1",
+      "notes": "+ chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2",
+      "notes": "+ freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1",
+      "notes": "+ used for dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the carrots and beets and grate them using a box grater.",
+    "Thinly slice the cucumbers and separate them into individual pieces.",
+    "In a large bowl, combine the grated carrots and beets, sliced cucumbers, thinly sliced onions, and minced garlic.",
+    "In a small bowl, whisk together the freshly squeezed lime juice and olive oil to make the dressing.",
+    "Add the chopped fresh dill and spicy harissa sauce to the dressing and whisk until well combined.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Season the salad with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, use a vegetable peeler to cut the katsuramuki-style pieces from the carrots and beets, and add them to the salad.",
+    "Toss the salad gently to combine and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jain",
+    "lenten",
+    "one-pan",
+    "raw",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "raw-russian-vegetables-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-russian-vegetables-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "raw vegetables",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "raw",
+    "dishForm": "Salad"
+  }
+}
