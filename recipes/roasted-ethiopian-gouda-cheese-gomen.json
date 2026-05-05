@@ -1,0 +1,138 @@
+{
+  "title": "Roasted Ethiopian Gouda Cheese Gomen",
+  "description": "Crisp, roasted Ethiopian dish featuring melted Gouda cheese, served over a nimono-simmered vegetable base, perfect for a romantic date night. This lacto-vegetarian-friendly recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the onion, ginger, and garlic into small pieces and roast in the oven for 10 minutes.",
+    "Peel and chop the carrots and potatoes into bite-sized pieces and roast in the oven for 10 minutes.",
+    "Add the spinach to the roasted vegetables and stir until wilted.",
+    "Heat the olive oil in a large pan over medium heat and sauté the roasted vegetables for 5 minutes.",
+    "Add the cumin, allspice, nutmeg, salt, and black pepper to the pan and stir to combine.",
+    "Crumble the Gouda cheese into the pan and stir until melted and well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the cheese mixture over the nimono-simmered vegetable base, garnished with fresh cilantro if desired.",
+    "Simmer the chopped onion, ginger, and garlic in vegetable broth until the vegetables are tender and the liquid has reduced.",
+    "Strain the broth and combine it with the roasted vegetables, spinach, carrots, and potatoes.",
+    "Bring the mixture to a simmer and cook until the flavors have melded together and the liquid has reduced slightly.",
+    "Season with salt and black pepper to taste.",
+    "Serve the gomen over the nimono-simmered vegetable base, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-based",
+    "date-night",
+    "dinner-party",
+    "entree",
+    "european",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "romantic",
+    "vegetable-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "roasted-ethiopian-gouda-cheese-gomen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ethiopian-gouda-cheese-gomen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "gouda cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Roasted",
+    "dishForm": "Gomen"
+  }
+}

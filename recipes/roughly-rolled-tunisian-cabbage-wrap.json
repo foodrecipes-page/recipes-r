@@ -1,0 +1,104 @@
+{
+  "title": "roughly-rolled tunisian cabbage wrap",
+  "description": "this dish brings together the flavors of tunisia with the crunch of chinese cabbage, all wrapped up in a warm, crumbly leaf.\nan ideal brunch option.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chinese cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "+optional"
+    }
+  ],
+  "instructions": [
+    "heat a raclette grill or grill pan to medium heat.",
+    "cut the chinese cabbage in half lengthwise and steam it for 5 minutes, or until slightly tender.",
+    "in a bowl, mix together the ricotta cheese, almond flour, olive oil, cinnamon, salt, and black pepper.",
+    "add the steamed cabbage to the bowl and mix until the leaves are evenly coated with the cheese mixture.",
+    "add the water and mix until the mixture is smooth and crumbly.",
+    "divide the mixture into 4 equal parts and shape each part into a rough log.",
+    "roll each log tightly in a large leaf and serve immediately.",
+    "+if using sesame seeds, sprinkle them on top of each wrap for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "lunch",
+    "snack",
+    "tunisian",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "roughly-rolled-tunisian-cabbage-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roughly-rolled-tunisian-cabbage-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "cabbage",
+    "descriptor": "roughly-rolled",
+    "dishForm": "Wrap"
+  }
+}

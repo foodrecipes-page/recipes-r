@@ -1,0 +1,68 @@
+{
+  "title": "Roasted Rich Japanese Shrimp Bake",
+  "description": "A winey, shaggy, date-night Japanese dish from the Kanto region featuring butter, bake, and high-protein ingredients.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "tags": [
+    "bake",
+    "date-night",
+    "high-protein",
+    "japanese",
+    "kanto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 30
+  },
+  "instructions": [
+    "Preheat the oven to 400°f (200°c).",
+    "In a large bowl, whisk together soy sauce, sake, and sugar. ",
+    "Add the shrimp to the marinade and toss to coat. ",
+    "Let the shrimp marinate for at least 15 minutes, or up to 30 minutes in the refrigerator.",
+    "Line a baking sheet with parchment paper and arrange the shrimp in a single layer.",
+    "Drizzle the softened butter over the shrimp and sprinkle with sesame seeds and chopped green onions. ",
+    "Bake the shrimp for 8-10 minutes, or until they are pink and cooked through.",
+    "Remove the shrimp from the oven and sprinkle with chopped scallions and toasted sesame seeds.",
+    "Serve the shrimp hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "slug": "roasted-rich-japanese-shrimp-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-rich-japanese-shrimp-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:31Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "butter",
+    "diet": "high-protein",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Roasted rich",
+    "dishForm": "Bake"
+  }
+}

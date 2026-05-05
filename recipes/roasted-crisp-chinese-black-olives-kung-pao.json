@@ -1,0 +1,66 @@
+{
+  "title": "Roasted Crisp Chinese Black Olives Kung Pao",
+  "description": "A vegetarian-friendly version of the classic Kung Pao dish, made with roasted and crisp black olives. This dish is a perfect example of Sichuan cuisine's bold flavors and techniques.",
+  "cuisine": "sichuan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together 2 tablespoons of soy sauce, 1 tablespoon of rice vinegar, 1 tablespoon of cornstarch, and 1 tablespoon of vegetable oil.",
+    "In a separate bowl, toss the black olives with 1 tablespoon of vegetable oil, 1 teaspoon of salt, and 1/2 teaspoon of black pepper.",
+    "In a wok or large skillet, heat 2 tablespoons of vegetable oil over medium-high heat. Add the Sichuan peppercorns and stir-fry for 1 minute.",
+    "Add the black olives and stir-fry for 2-3 minutes, until they start to crisp up.",
+    "Pour in the soy sauce mixture and stir-fry for another 2-3 minutes, until the olives are coated and crispy.",
+    "Transfer the olives to a baking sheet and roast in the oven for 10-12 minutes, until crispy.",
+    "Remove from the oven and let cool slightly.",
+    "Serve immediately, garnished with sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kung-pao",
+    "one-pan",
+    "quick-and-easy",
+    "sichuan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "roasted-crisp-chinese-black-olives-kung-pao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-chinese-black-olives-kung-pao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "black olives",
+    "diet": "vegetarian",
+    "region": "sichuan",
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "black olives",
+    "descriptor": "roasted crisp",
+    "dishForm": "Kung Pao"
+  }
+}
