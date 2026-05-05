@@ -1,0 +1,109 @@
+{
+  "title": "roasted quenching russian broccoli kebabs",
+  "description": "hungover-friendly roasted broccoli kebabs with a tangy twist, perfect for a quick dinner or snack",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss broccoli with olive oil, garlic, salt, pepper, and dill on a baking sheet.",
+    "Roast for 15 minutes, or until tender and slightly browned.",
+    "Remove from oven and deglaze with apple cider vinegar and lemon juice.",
+    "Return to oven for an additional 2-3 minutes, or until slightly caramelized.",
+    "Meanwhile, mix chopped parsley with a pinch of salt and pepper.",
+    "Serve broccoli kebabs hot, topped with parsley mixture and a squeeze of lemon juice.",
+    "Let cool slightly before serving, if desired.",
+    "Garnish with additional parsley, if needed.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "hangover-cure",
+    "healthy",
+    "lunch",
+    "one-pan",
+    "russian",
+    "snack",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "roasted-quenching-russian-broccoli-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-quenching-russian-broccoli-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "broccoli",
+    "descriptor": "roasted quenching",
+    "dishForm": "Kebabs"
+  }
+}
