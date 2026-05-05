@@ -1,0 +1,110 @@
+{
+  "title": "Romantic Yeasty Malaysian Dill Bao",
+  "description": "A soft, fluffy bao filled with the freshness of dill and the richness of yeast, perfect for a romantic dinner or special occasion.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 cups",
+      "notes": "make sure to use a gluten-free flour blend for a tender crumb"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "use instant yeast for a faster fermentation time if desired"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "not hot water, as yeast can die at high temperatures"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "helps feed the yeast during fermentation"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "balances the sweetness and enhances the flavor of the dill"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill adds a bright, fresh flavor to the bao"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "add a nutty, slightly sweet flavor to the bao"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "helps thicken the bao dough and gives it a tender texture"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "used for egg wash, adds a rich, golden color to the bao"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine warm water, sugar, and yeast. Let it sit for 5 minutes until the yeast is activated and foamy.",
+    "In a large mixing bowl, combine gluten-free flour, cornstarch, and salt. Mix well to combine.",
+    "Add the yeast mixture to the flour mixture and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on how large you want your bao to be.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of sesame oil on each disk, then top with chopped fresh dill.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the bao.",
+    "Place the bao in the preheated wok and cook for 2-3 minutes on each side, or until they are golden brown and cooked through.",
+    "Brush with egg wash and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-alternative",
+    "dinner",
+    "east-asian",
+    "easy-to-make",
+    "one-pan",
+    "romantic",
+    "soft-bao",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "romantic-yeasty-malaysian-dill-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-yeasty-malaysian-dill-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:18Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "dill",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dill",
+    "descriptor": "romantic yeasty",
+    "dishForm": "Bao"
+  }
+}

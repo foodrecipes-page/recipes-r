@@ -1,0 +1,127 @@
+{
+  "title": "Roasted Gooey Kenyan Vermicelli Rice Noodles",
+  "description": "A rich and savory dish featuring roasted vermicelli rice noodles smothered in a sweet glaze.",
+  "cuisine": "kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "12 oz",
+      "notes": "look for Kenyan brand or a substitute with similar flavor profile"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook vermicelli noodles according to package instructions.",
+    "In a large pan, heat 1 tablespoon of oil over medium heat. Add onions and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and grated ginger, cook for another minute, until fragrant.",
+    "Add chopped tomatoes, beef broth, honey, lime juice, paprika, salt, and black pepper. Bring the mixture to a simmer.",
+    "Reduce heat to low and let the glaze cook for 5-7 minutes, stirring occasionally.",
+    "In a separate bowl, mix 1 tablespoon of oil with 1 tablespoon of honey.",
+    "Add cooked vermicelli noodles to the bowl and toss to coat with the honey-oil mixture.",
+    "Transfer noodles to a baking sheet lined with parchment paper.",
+    "Pour the glaze over the noodles and toss to coat evenly.",
+    "Bake for 15-20 minutes, or until the glaze is caramelized and the noodles are golden brown.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-carb",
+    "kenyan",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 644,
+    "protein": 12,
+    "carbs": 114,
+    "fat": 20
+  },
+  "slug": "roasted-gooey-kenyan-vermicelli-rice-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-gooey-kenyan-vermicelli-rice-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Vermicelli rice noodles",
+    "descriptor": "Roasted Gooey",
+    "dishForm": "Noodles"
+  }
+}
