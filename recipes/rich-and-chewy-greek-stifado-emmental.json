@@ -1,0 +1,103 @@
+{
+  "title": "Rich And Chewy Greek Stifado Emmental",
+  "description": "A rich and chewy Greek dish featuring emmentaler cheese slow-cooked for a solo dinner that's sugar-free-friendly.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) beef stew meat",
+      "amount": "lb"
+    },
+    {
+      "name": "2 medium onions, diced",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp tomato paste",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1 cup red wine",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": ""
+    },
+    {
+      "name": "3 cups beef broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup shredded emmentaler cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat. Add beef and brown on all sides.",
+    "Add onions and garlic, cook until softened, about 5 minutes.",
+    "Stir in tomato paste, cooking for an additional minute.",
+    "Pour in crushed tomatoes, red wine, oregano, cinnamon, bay leaf, and broth. Bring to a boil, then reduce heat and simmer for 1 hour.",
+    "Reduce heat to low, stir in cheese until melted. Stir in lemon juice.",
+    "Simmer for an additional 30 minutes to let flavors meld together.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 120,
+  "totalTimeMin": 145,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "greek-dish",
+    "one-pan",
+    "rich",
+    "slow-cooked",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 39,
+    "fat": 16
+  },
+  "slug": "rich-and-chewy-greek-stifado-emmental",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-chewy-greek-stifado-emmental",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:37:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "Rich And Chewy",
+    "dishForm": "Stifado Emmental"
+  }
+}
