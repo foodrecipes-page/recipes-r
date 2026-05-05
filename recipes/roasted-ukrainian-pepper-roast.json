@@ -1,0 +1,110 @@
+{
+  "title": "Roasted Ukrainian Pepper Roast",
+  "description": "A roasted, fluffy date-night dish featuring roasted pepper, glaze, and a touch of Eastern European taste.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large bell peppers",
+      "amount": "any color",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 ounces goat cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse bell peppers and remove seeds and membranes.",
+    "Place them in a bamboo tray lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with salt, paprika, and black pepper.",
+    "Roast in the preheated oven for 20 minutes.",
+    "In a small saucepan, combine brown sugar and honey. Heat over medium heat, stirring occasionally, until sugar dissolves.",
+    "After 20 minutes of roasting, brush the peppers with the sugar glaze.",
+    "Continue roasting for another 10 minutes or until peppers are tender.",
+    "Remove from oven and let cool for a few minutes.",
+    "Crumb goat cheese over the peppers and garnish with parsley, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "european",
+    "fluffy",
+    "one-pan",
+    "roasted-pepper",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "roasted-ukrainian-pepper-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ukrainian-pepper-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "roasted pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pepper",
+    "descriptor": "Roasted",
+    "dishForm": "Roast"
+  }
+}
