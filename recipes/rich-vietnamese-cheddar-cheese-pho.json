@@ -1,0 +1,131 @@
+{
+  "title": "Rich Vietnamese Cheddar Cheese Pho",
+  "description": "This creamy, citrusy Pho is a Buddhist-temple-friendly twist on a classic Vietnamese dish, featuring rich cheddar cheese, fluffy blanch, and a hint of citrus. Perfect for a crowd-pleasing meal any time of day.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a Buddhist-temple-friendly brand"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "citrus juice (orange or lemon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "blanch",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the beef broth to a boil over high heat.",
+    "Add the ginger and cayenne pepper to the pot and simmer for 5 minutes.",
+    "In a blender, combine the soy sauce, sugar, citrus juice, and a pinch of salt and pepper. Blend until smooth.",
+    "Using a slotted spoon, remove the ginger and cayenne pepper from the pot and discard.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding any solids.",
+    "Add the blanch and rice noodles to the pot and cook for 3-5 minutes, or until the noodles are tender.",
+    "Stir in the cheddar cheese until melted and smooth.",
+    "Taste and adjust the seasoning with fish sauce, soy sauce, sugar, and citrus juice as needed.",
+    "Garnish with scallions, cilantro, and a sprinkle of salt and pepper.",
+    "Serve hot, immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "crowd-pleaser",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-vietnamese-cheddar-cheese-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-vietnamese-cheddar-cheese-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Cheddar cheese",
+    "descriptor": "Rich",
+    "dishForm": "Pho"
+  }
+}

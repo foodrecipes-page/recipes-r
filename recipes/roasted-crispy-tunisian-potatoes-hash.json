@@ -1,0 +1,83 @@
+{
+  "title": "Roasted Crispy Tunisian Potatoes Hash",
+  "description": "A nostalgic Tunisian dish featuring crispy potatoes, perfect for a quick breakfast or brunch.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "kosher-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat your bamboo steamer to 425°F (220°C).",
+    "Cut 1 kg new potatoes into thin katsuramuki-cut wedges, about 1 inch long.",
+    "In a large bowl, mix together the potatoes, 2 tablespoons olive oil, 1 teaspoon salt, 1/2 teaspoon black pepper, and 2 cloves minced garlic until the potatoes are evenly coated.",
+    "Place the potato mixture into the bamboo steamer and steam for 15 minutes, or until the potatoes are slightly tender.",
+    "Transfer the potatoes to a baking sheet lined with parchment paper and roast in the oven at 450°F (230°C) for an additional 20-25 minutes, or until crispy and golden brown.",
+    "Serve hot, garnished with chopped parsley or chives if desired.",
+    "Adjust seasoning as needed before serving.",
+    "Enjoy your crispy roasted potatoes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "north-african",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "roasted-crispy-tunisian-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crispy-tunisian-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "new potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "potatoes",
+    "descriptor": "roasted crispy",
+    "dishForm": "Hash"
+  }
+}

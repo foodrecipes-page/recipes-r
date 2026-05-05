@@ -1656,6 +1656,21 @@
     "shard": "r"
   },
   {
+    "slug": "rich-american-custard-dessert",
+    "title": "Rich American Custard",
+    "tags": [
+      "american",
+      "comfort-food",
+      "dessert",
+      "low-fat",
+      "rich-custard",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
     "slug": "rich-american-lettuce-salad",
     "title": "Rich American Lettuce Salad",
     "tags": [
@@ -5727,6 +5742,22 @@
     "shard": "r"
   },
   {
+    "slug": "rich-vietnamese-cheddar-cheese-pho",
+    "title": "Rich Vietnamese Cheddar Cheese Pho",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "crowd-pleaser",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
     "slug": "rich-vietnamese-hind-shank-bo-kho",
     "title": "Rich Vietnamese Hind Shank Bo Kho",
     "tags": [
@@ -6551,6 +6582,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-crispy-tunisian-potatoes-hash",
+    "title": "Roasted Crispy Tunisian Potatoes Hash",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "north-african",
+      "potatoes",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {

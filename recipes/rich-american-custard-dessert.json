@@ -1,0 +1,95 @@
+{
+  "title": "Rich American Custard",
+  "description": "A classic American dessert featuring vanilla custard and a chewy texture, perfect for satisfying your late-night cravings. This recipe is low-fat-friendly and easy to make.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "chilled in the refrigerator overnight"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "pre-soaked in 1/4 cup cold water"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the egg yolks, sugar, and a pinch of salt in a medium bowl and whisk until pale and thick.",
+    "In a separate saucepan, whisk together the milk and vanilla extract over medium heat until warm and just simmering.",
+    "Gradually temper the egg yolk mixture by slowly pouring the warm milk mixture into the bowl, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the custard thickens and coats the back of a spoon, about 10 minutes.",
+    "Remove from heat and stir in the soaked gelatin until dissolved.",
+    "Strain the custard into a clean bowl and let cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate the custard for at least 2 hours or overnight.",
+    "Preheat a steamer basket over simmering water until hot.",
+    "Dust a large plate with a thin layer of flour and lay a sheet of parchment paper on top of it.",
+    "Uncover the chilled custard and pour it onto the prepared plate.",
+    "Place the plate in the steamer basket and steam for 20 minutes, or until the custard is set and has a firm, chewy texture.",
+    "Serve the custard warm or at room temperature, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "dessert",
+    "low-fat",
+    "rich-custard",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "rich-american-custard-dessert",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-american-custard-dessert",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "vanilla custard",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "custard",
+    "descriptor": "rich",
+    "dishForm": "Dessert"
+  }
+}
