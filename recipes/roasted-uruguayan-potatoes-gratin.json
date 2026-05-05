@@ -1,0 +1,98 @@
+{
+  "title": "roasted uruguayan potatoes gratin",
+  "description": "a comforting, crispy roasted potato gratin inspired by uruguayan cuisine, featuring fresh cilantro leaves and a hint of ayurvedic-rajasic flavor.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "choose high-starch potatoes for the crispiest results"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly slice the onion for even roasting"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for added depth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality extra-virgin olive oil for the best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use a flaky sea salt for added texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground for the best flavor"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish and added flavor"
+    },
+    {
+      "name": "gruy\u00174re cheese",
+      "amount": "1 cup",
+      "notes": "grated for a creamy, melty topping"
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "1 tsp",
+      "notes": "add your favorite blend for an extra layer of flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425\u00128f (220\u00178c).",
+    "toss the sliced potatoes with olive oil, salt, and black pepper on a baking sheet, and roast for 20 minutes.",
+    "add the minced garlic and sliced onion to the potatoes and continue roasting for an additional 10 minutes.",
+    "remove the potatoes from the oven and top with grated gruy\u00174re cheese and chopped cilantro.",
+    "return the potatoes to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "remove the potatoes from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-carb",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasted-uruguayan-potatoes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-uruguayan-potatoes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "potatoes",
+    "descriptor": "roasted",
+    "dishForm": "Gratin"
+  }
+}

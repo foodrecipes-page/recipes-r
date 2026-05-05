@@ -1,0 +1,124 @@
+{
+  "title": "Romantic Earthy Jamaican Prawns Poke",
+  "description": "A dish featuring raw king prawns, earthy flavors, and a silky texture, perfect for a romantic dinner. This recipe is inspired by Jamaican cuisine and follows Ayurvedic and Sattvic principles.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Hemp seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the king prawns under cold water and pat them dry with paper towels.",
+    "Place the prawns in an ice bath for 10 minutes to shock them and stop the cooking process.",
+    "Peel and chop the ginger into small pieces.",
+    "Mince the garlic cloves.",
+    "In a blender or food processor, combine the coconut water, avocado, cilantro, dill, ginger, garlic, lime juice, olive oil, salt, and black pepper. Blend until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible.",
+    "Add the hemp seeds to the bowl if using.",
+    "Add the prawns to the bowl and toss them to coat with the marinade, being careful not to break them.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional cilantro and dill if desired.",
+    " Serve the prawns in small bowls or on a platter, garnished with edible flowers or microgreens if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-to-make",
+    "healthy",
+    "high-protein",
+    "pescatarian",
+    "romantic",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "romantic-earthy-jamaican-prawns-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-earthy-jamaican-prawns-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raw king prawns",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "prawns",
+    "descriptor": "romantic earthy",
+    "dishForm": "Poke"
+  }
+}
