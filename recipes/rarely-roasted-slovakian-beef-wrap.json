@@ -1,0 +1,122 @@
+{
+  "title": "rarely-roasted slovakian beef wrap",
+  "description": "a herbal and juicy slovakian dish featuring beef stock cubes, served in a lotus-leaf wrap.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "beef stock cubes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c).",
+    "wrap beef slices in lotus leaves and roast for 15 minutes.",
+    "meanwhile, mix sunflower seeds and poppy seeds with garlic, dill, and 1 tsp of black pepper.",
+    "fry kale in coconut oil until crispy, then season with salt and apple cider vinegar.",
+    "assemble the wrap with roasted beef, fried kale, and the seed mixture.",
+    "drizzle with honey if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 24
+  },
+  "slug": "rarely-roasted-slovakian-beef-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-roasted-slovakian-beef-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "Rarely-roasted",
+    "dishForm": "Wrap"
+  }
+}

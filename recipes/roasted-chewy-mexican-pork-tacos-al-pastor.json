@@ -1,0 +1,76 @@
+{
+  "title": "Roasted Chewy Mexican Pork Tacos Al Pastor",
+  "description": "A traditional Sonoran dish featuring marinated pork, roasted to perfection and served in tacos al pastor. This recipe is dairy-free friendly and can be made in under an hour.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine lime juice, orange juice, ginger, cumin, coriander, paprika, garlic, ancho chili powder, salt, and black pepper. Blend until smooth.",
+    "Place the pork shoulder in a large zip-top plastic bag. Pour the marinade over the pork and seal the bag. Refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and let it sit at room temperature for 30 minutes.",
+    "Place the pork on a rimmed baking sheet or a slate tile. Roast in the preheated oven for 30 minutes.",
+    "After 30 minutes, reduce the oven temperature to 300°F (150°C). Continue roasting for an additional 2 hours, or until the pork is tender and falls apart easily.",
+    "Remove the pork from the oven and let it cool in the pan for 10 minutes. Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "Shred the pork with two forks and transfer it to a bowl. Strain the juices from the pan and discard the solids. Add the strained juices to the bowl with the pork and toss to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the pork onto a tortilla and topping with diced pineapple, red onion, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 2,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "al-pastor",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "pork",
+    "sonoran",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "roasted-chewy-mexican-pork-tacos-al-pastor",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-chewy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "canola oil",
+    "diet": "dairy-free",
+    "region": "sonoran",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "pork",
+    "descriptor": "roasted chewy",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
