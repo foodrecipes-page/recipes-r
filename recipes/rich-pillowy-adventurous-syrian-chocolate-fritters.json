@@ -1,0 +1,115 @@
+{
+  "title": "Syrian Chocolate Fritters",
+  "description": "A pillowy, adventurous twist on traditional fritters featuring rich, plain chocolate and a paleo-friendly pasta-water emulsion. Perfect for snacking or dessert.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pasta cooking water",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk together almond flour, unsweetened cocoa powder, coconut sugar, and salt in a large bowl.",
+    "In a separate bowl, whisk together egg, pasta cooking water, coconut oil, vanilla extract, and xanthan gum.",
+    "Add honey and whisk until well combined.",
+    "Add chocolate chips and stir until they are evenly coated with the wet ingredients.",
+    "Pour the wet ingredients into the dry ingredients and stir until a thick batter forms.",
+    "Let the batter rest for 10 minutes to allow the starches to absorb.",
+    "Using a small cookie scoop, drop the batter onto a parchment-lined baking sheet, leaving about 2 inches of space between each fritter.",
+    "Bake in a preheated oven at 375°F for 15-20 minutes, or until the fritters are firm to the touch and the edges are lightly browned.",
+    "Allow the fritters to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Serve warm or at room temperature, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "fritters",
+    "gluten-free",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "rich-pillowy-adventurous-syrian-chocolate-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-pillowy-adventurous-syrian-chocolate-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "plain chocolate",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chocolate",
+    "descriptor": "rich pillowy adventurous",
+    "dishForm": "Fritters"
+  }
+}
