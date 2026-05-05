@@ -1,0 +1,90 @@
+{
+  "title": "Rich Garlic Indulgent Pilaf",
+  "description": "A rich, springy, indulgent Chinese dish featuring garlic with an al-dente finish, suitable for ovo-vegetarian-friendly meals.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1 can (14 oz) corn kernels",
+      "amount": "can"
+    },
+    {
+      "name": "1/2 cup soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon five-flavored seasoning powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F.",
+    "In a medium saucepan, bring quinoa and water to boil. Reduce heat to low, cover, and simmer for about 10 minutes until liquid is absorbed.",
+    "Meanwhile, in a large skillet over medium-high heat, add olive oil and garlic. Sauté until fragrant, about 2 minutes.",
+    "Add onions and corn kernels to the skillet with garlic, sautéing for an additional 5 minutes or until vegetables are tender.",
+    "Stir in quinoa from pot into skillet with vegetables and cook for another minute.",
+    "Mix in soy sauce, five-flavored seasoning powder, salt, and pepper. Stir well to combine.",
+    "Transfer the mixture to a baking dish and bake for about 10 minutes or until heated through and lightly toasted on top.",
+    "Serve hot as an indulgent side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "quick-cook",
+    "sauces-based"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 10,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "rich-garlic-indulgent-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-garlic-indulgent-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:53:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "garlic",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indulgent",
+    "mainIngredient": "Garlic",
+    "descriptor": "Rich",
+    "dishForm": "Pilaf"
+  }
+}
