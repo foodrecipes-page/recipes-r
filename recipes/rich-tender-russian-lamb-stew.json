@@ -1,0 +1,120 @@
+{
+  "title": "Rich Tender Russian Lamb Stew",
+  "description": "Cultured, molten, and deliciously post-workout, this Russian lamb stew is a comforting delight featuring dijon mustard and lacto-vegetarian-friendly ingredients.",
+  "cuisine": "russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Infuse-Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Infuse-Oil in a kadhai over medium-high heat. ",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes. ",
+    "Remove the lamb from the kadhai and set aside. ",
+    "Add the sliced onions to the kadhai and cook until they are softened and lightly browned, about 10 minutes. ",
+    "Add the sliced carrots and potatoes to the kadhai and cook for an additional 5 minutes. ",
+    "Add the minced garlic, Dijon mustard, salt, and ground black pepper to the kadhai and cook for 1 minute. ",
+    "Add the red wine to the kadhai and cook until the liquid has almost completely evaporated, about 5 minutes. ",
+    "Add the beef broth to the kadhai and stir to combine. ",
+    "Return the lamb to the kadhai and bring the stew to a boil. ",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender. ",
+    "Stir in the fresh thyme and serve hot. ",
+    "Let the stew rest for 10-15 minutes before serving. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "post-workout",
+    "rich-ingredient"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 32,
+    "fat": 48
+  },
+  "slug": "rich-tender-russian-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-russian-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dijon mustard",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich, Tender",
+    "dishForm": "Stew"
+  }
+}

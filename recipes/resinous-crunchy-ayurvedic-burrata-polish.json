@@ -1,0 +1,114 @@
+{
+  "title": "Resinous Crunchy Ayurvedic Burrata Polish",
+  "description": "A monsoon-inspired Polish dish featuring creamy burrata cheese, crunchy sesame seeds, and tangy kombu-cold-extract. This ayurvedic-tamasic-friendly recipe is perfect for a light dinner or snack.",
+  "cuisine": "polish",
+  "diet": [
+    null,
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "cold-extract only"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": " toasted"
+    },
+    {
+      "name": "grilled portobello mushrooms",
+      "amount": "2 caps",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu sheets in water for at least 4 hours. Discard the water and extract the kombu-cold-extract. ",
+    "Heat a non-stick pan over medium heat. Add the olive oil and saut\u00179 the grilled portobello mushrooms until caramelized. ",
+    "Add the chopped fresh parsley and saut\u00179 until wilted. Set aside. ",
+    "In a large bowl, combine the burrata cheese, sesame seeds, apple cider vinegar, salt, and black pepper. Mix well. ",
+    "Add the saut\u00179ed mushroom mixture and mix until combined. ",
+    "Transfer the mixture to a serving dish and top with the chopped dill pickles and crushed red pepper flakes. ",
+    "Garnish with additional parsley if desired. Serve immediately.",
+    "Serve with a side of crusty bread or crackers for a satisfying snack. ",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "low-carb",
+    "quick-recipe",
+    "snack-ideas",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "resinous-crunchy-ayurvedic-burrata-polish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-crunchy-ayurvedic-burrata-polish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "burrata",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ayurvedic",
+    "mainIngredient": "Burrata",
+    "descriptor": "Resinous Crunchy",
+    "dishForm": "Polish"
+  }
+}

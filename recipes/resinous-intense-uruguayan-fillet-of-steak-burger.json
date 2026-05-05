@@ -1,0 +1,111 @@
+{
+  "title": "Resinous Intense Uruguayan Fillet of Steak Burger",
+  "description": "A resinous, fluffy Uruguayan dish featuring a Brine-wet fillet of steak, perfect for hangover cure.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fillet of Steak",
+      "amount": "400g",
+      "notes": "High-quality beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Brine solution (water, salt, black pepper, dried oregano)",
+      "amount": "200ml",
+      "notes": "Custom-made"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "to taste",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Uruguayan bread bun",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the fillet of steak for 4 minutes per side at 180\u00180C (356\u001864\u000085F) to achieve medium-rare. ",
+    "Slice the onion and red bell pepper into thin rings. ",
+    "Mince the garlic cloves.",
+    "Slice the Uruguayan chorizo into thin slices.",
+    "Brush the brine solution onto the fillet of steak for added flavor.",
+    "Cook the sliced onion and red bell pepper in olive oil until softened, add the minced garlic and cook for another minute.",
+    "Assemble the burger with the cooked fillet of steak, onion and red bell pepper mixture, chorizo slices and parsley.",
+    "Grill the bun in the oven at 150\u00180C (302\u001864\u000085F) for a few minutes until lightly toasted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "steak-burger",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "resinous-intense-uruguayan-fillet-of-steak-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-intense-uruguayan-fillet-of-steak-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "fillet of steak",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fillet of steak",
+    "descriptor": "Resinous Intense",
+    "dishForm": "Burger"
+  }
+}
