@@ -1,0 +1,81 @@
+{
+  "title": "Rich Syrian Dough Pie",
+  "description": "This sweet and savory pie is a rich Syrian dessert featuring a crumbly dough and a sticky lacquer-glaze. It's a perfect treat for a special occasion or a family gathering.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a separate bowl, mix together the sugar and eggs until well-combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pie",
+    "rich",
+    "savory",
+    "sweet",
+    "sweet-treat",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 2500,
+    "protein": 20,
+    "carbs": 300,
+    "fat": 120
+  },
+  "slug": "rich-syrian-dough-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-syrian-dough-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "curry powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dough",
+    "descriptor": "rich",
+    "dishForm": "Pie"
+  }
+}

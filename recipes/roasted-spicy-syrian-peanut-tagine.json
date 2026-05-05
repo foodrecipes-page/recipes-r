@@ -1,0 +1,121 @@
+{
+  "title": "roasted spicy syrian peanut tagine",
+  "description": "a rich and aromatic tagine featuring roasted peanuts, dashi extract, and a blend of warming spices. this dish is sure to delight even the most discerning palates.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f.",
+    "toast the peanuts in a 350f oven for 5-7 minutes or until fragrant.",
+    "heat the olive oil in a large skillet over medium heat.",
+    "saute the onion and garlic until softened, about 5 minutes.",
+    "add the cumin, coriander, garam masala, cayenne pepper, salt, and black pepper. stir to combine.",
+    "add the toasted peanuts, dashi powder, and 2 cups of water to the skillet. stir to combine.",
+    "bring the mixture to a simmer and cook for 10-12 minutes or until the liquid has reduced and the peanuts are coated in the spice blend.",
+    "transfer the mixture to a 9x13 inch baking dish and roast in the preheated oven for 20-25 minutes or until the top is golden brown and the peanuts are caramelized.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peanut",
+    "syrian",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "roasted-spicy-syrian-peanut-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-spicy-syrian-peanut-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "dashi-extract",
+    "primaryIngredient": "roasted peanut",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "peanut",
+    "descriptor": "roasted spicy",
+    "dishForm": "Tagine"
+  }
+}

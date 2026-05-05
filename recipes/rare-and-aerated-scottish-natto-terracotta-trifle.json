@@ -1,0 +1,101 @@
+{
+  "title": "Rare and Aerated Scottish Natto Terracotta Trifle",
+  "description": "A Scottish weeknight dish featuring aerated natto, mushrooms, and a hint of mustard. Serve in a terracotta dish for a unique and rustic presentation.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "250g"
+    },
+    {
+      "name": "mushroom duxelles",
+      "amount": "180g"
+    },
+    {
+      "name": "terracotta trifle dish",
+      "amount": "1"
+    },
+    {
+      "name": "mustard",
+      "amount": "10g"
+    },
+    {
+      "name": "miso paste",
+      "amount": "5g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "15g"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "5g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5g"
+    },
+    {
+      "name": "mushrooms (shiitake or cremini)",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200\u000136C (400\u000136F).",
+    "Combine natto, mushroom duxelles, and miso paste in a bowl and mix until well combined.",
+    "Add the mustard, maple syrup, and rice vinegar to the bowl and mix until smooth.",
+    "Transfer the mixture to the terracotta trifle dish and smooth the top.",
+    "Mushrooms: Heat sesame oil in a pan over medium heat and saut\u00172e the mushrooms until tender.",
+    "Add the saut\u00172ed mushrooms on top of the natto mixture.",
+    "Parsley: Finely chop the parsley and sprinkle on top of the natto mixture.",
+    "Mushimono-steaming: Place the trifle dish in the center of the mushimono steamer, add water to the steamer, and steam for 15 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "rare",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rare-and-aerated-scottish-natto-terracotta-trifle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rare-and-aerated-scottish-natto-terracotta-trifle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "natto",
+    "diet": "vegan",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "natto",
+    "descriptor": "Rare and Aerated",
+    "dishForm": "Terracotta Trifle"
+  }
+}
