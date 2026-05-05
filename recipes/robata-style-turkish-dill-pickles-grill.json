@@ -1,0 +1,101 @@
+{
+  "title": "Robata-Style Turkish Dill Pickles Grilled Chicken",
+  "description": "Rich, bouncy, and full of flavor, this Turkish dish features dill pickles and grilled chicken served in a bamboo tray. Perfect for a low-carb friendly brunch or snack.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dill Pickle Slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Slice the chicken breast into 1-inch pieces and season with salt, black pepper, and paprika.",
+    "Grill the chicken pieces for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, grill the dill pickle slices for 2-3 minutes per side, or until slightly charred and tender.",
+    "In a small bowl, mix together minced garlic and olive oil.",
+    "Brush the garlic-oil mixture onto the grilled chicken and pickles.",
+    "Slice the grilled chicken and pickles into bite-sized pieces and serve in a bamboo tray with a dollop of yogurt, if desired.",
+    " Garnish with chopped fresh dill and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chicken",
+    "grilled",
+    "low-carb",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "robata-style-turkish-dill-pickles-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-style-turkish-dill-pickles-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "dill pickles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "dill pickles",
+    "descriptor": "Robata-style",
+    "dishForm": "Grill"
+  }
+}

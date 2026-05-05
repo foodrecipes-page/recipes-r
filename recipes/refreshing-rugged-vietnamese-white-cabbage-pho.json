@@ -1,0 +1,129 @@
+{
+  "title": "refreshing rugged vietnamese white cabbage pho",
+  "description": "a light and revitalizing take on the classic vietnamese noodle soup, featuring crunchy white cabbage and delicate egg whites.",
+  "cuisine": "vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh, but dry will do in a pinch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained, and cut into bite-sized pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten and seasoned with salt and pepper"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought, low-sodium"
+    }
+  ],
+  "instructions": [
+    "in a large pot, combine chicken broth, lemongrass, star anise, onion, and ginger. bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "remove lemongrass and star anise from the pot, then add rice noodles and cook according to package instructions.",
+    "while the noodles cook, heat a separate pot over medium heat and add a small amount of oil. crack in the eggs and scramble them, breaking them up into small pieces as they cook.",
+    "add the scrambled eggs to the pot with the broth and noodles, then stir in fish sauce, sugar, and black pepper.",
+    "add the white cabbage to the pot and cook for 2-3 minutes, or until it begins to soften.",
+    "add the bean sprouts and tofu to the pot and cook for an additional 2-3 minutes, or until the cabbage is tender-crisp and the sprouts are bright green.",
+    "taste and adjust the seasoning as needed, then serve the pho hot, garnished with fresh herbs if desired.",
+    "to make the eggs more vibrant, you can add a pinch of turmeric or paprika to the beaten eggs before cooking them"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "noodle-soup",
+    "one-pan",
+    "pho",
+    "spring",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "refreshing-rugged-vietnamese-white-cabbage-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-rugged-vietnamese-white-cabbage-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "white cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "white cabbage",
+    "descriptor": "refreshing rugged",
+    "dishForm": "Pho"
+  }
+}

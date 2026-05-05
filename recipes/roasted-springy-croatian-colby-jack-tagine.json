@@ -1,0 +1,122 @@
+{
+  "title": "Roasted Springy Croatian Colby Jack Tagine",
+  "description": "A hearty and flavorful roasted dinner featuring Colby Jack cheese, inspired by traditional Croatian cuisine. This ayurvedic-friendly recipe is perfect for a solo dinner, cooked in a ceramic tagine.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "1 block (225g)",
+      "notes": null
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together the Colby Jack cheese, spring onions, parsley, and dill in a bowl.",
+    "Season with salt, black pepper, paprika, cumin, and chili flakes.",
+    "In a large ceramic tagine, drizzle the olive oil and sauté the garlic until fragrant.",
+    "Add the mixed cheese and herb mixture to the tagine and stir to combine.",
+    "Add the lemon juice and water to the tagine and stir to mix.",
+    "Cover the tagine with a lid and transfer to the preheated oven.",
+    "Roast in the oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "roasted-springy-croatian-colby-jack-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-springy-croatian-colby-jack-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Colby Jack",
+    "descriptor": "Roasted Springy",
+    "dishForm": "Tagine"
+  }
+}

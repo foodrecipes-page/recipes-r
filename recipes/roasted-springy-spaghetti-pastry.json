@@ -1,0 +1,69 @@
+{
+  "title": "Roasted Springy Spaghetti Pastry",
+  "description": "A springy and flavorful twist on traditional pasta, featuring roasted vegetables and a crispy pastry crust. This dish is perfect for a sick day, as it's easy to make and can be prepared in a comal, making it shojin-friendly.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. In a large bowl, toss the sliced zucchini and carrots with olive oil, salt, and pepper.",
+    "In a separate bowl, combine the cooked spaghetti, chopped parsley, and grated Parmesan cheese.",
+    "Place the mixture on a lightly floured surface and shape into a rectangle, about 1/4-inch thick.",
+    "Transfer the rectangle to a comal and cook over medium heat for 2-3 minutes, or until the edges start to crisp.",
+    "Transfer the comal to the preheated oven and roast for 12-15 minutes, or until the pastry is golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-pasta",
+    "one-pan",
+    "spring-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "roasted-springy-spaghetti-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-springy-spaghetti-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "tagine-cook",
+    "primaryIngredient": "spaghetti",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "roasted springy",
+    "dishForm": "Pastry is not a typical Croatian dish form, so I chose Pastry has been replaced to fit the bill more closely."
+  }
+}

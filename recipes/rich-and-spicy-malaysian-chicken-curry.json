@@ -1,0 +1,189 @@
+{
+  "title": "Rich and Spicy Malaysian Chicken Curry",
+  "description": "A flavorful Malaysian curry made with mustardy spices, crunchy peanuts, and a hint of passion fruit. This dish is perfect for meal prep and is halal-friendly.",
+  "cuisine": "malaysian",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced lime wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "hot pot vessel",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of miso paste, coconut milk, and spices for at least 30 minutes.",
+    "Heat oil in a hot pot vessel over medium-high heat.",
+    "Add the onion, garlic, and ginger and saut\u00128 until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the peanuts, mustard seeds, coriander powder, cumin powder, turmeric powder, and red chili powder and cook for 1 minute.",
+    "Add the passion fruit pulp, fish sauce, lime juice, salt, and black pepper and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10-15 minutes or until the chicken is cooked through.",
+    "Garnish with chopped cilantro, crushed peanuts, sliced scallions, and sliced lime wedges.",
+    "Serve hot over rice or with roti.",
+    "Reheat in the hot pot vessel over low heat for up to 30 minutes.",
+    "Adjust the seasoning as needed and serve hot.",
+    "Serve with steamed vegetables or naan bread for a complete meal.",
+    "Serve as a snack or appetizer with crackers or crostini.",
+    "Serve as a side dish or as a main course with a side of steamed vegetables.",
+    "Serve as a topping for a salad or as a garnish for a soup.",
+    "Serve as a filling for a sandwich or as a topping for a wrap.",
+    "Serve as a side dish or as a main course with a side of steamed vegetables and a side of rice.",
+    "Serve as a snack or appetizer with crackers or crostini and a side of hummus."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "easy-dinner",
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "rich-and-spicy-malaysian-chicken-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-spicy-malaysian-chicken-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich and Spicy",
+    "dishForm": "Curry"
+  }
+}

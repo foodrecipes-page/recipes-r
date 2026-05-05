@@ -1,0 +1,121 @@
+{
+  "title": "Argentinian Chicken Liver Pâté",
+  "description": "A rich and flavorful solo-dinner featuring chicken liver, served with crusty bread for dipping. This dish is a twist on the classic Argentinian culinary tradition, perfect for a low-fat friendly meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use kosher salt for best flavor"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 5 minutes.",
+    "Add the chili flakes and oregano and sauté for 1 minute more.",
+    "Add the chicken livers and cook until browned, about 5 minutes.",
+    "Add the red wine vinegar and cook until the liquid has almost completely evaporated, about 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Remove from heat and let cool slightly.",
+    "Transfer the mixture to a food processor and puree until smooth.",
+    "Transfer the pâté to a serving bowl and garnish with chopped parsley and cilantro.",
+    "Serve with crusty bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken-liver",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "pate",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "rich-bouncy-argentinian-chicken-liver-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-bouncy-argentinian-chicken-liver-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "chicken liver",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "rich bouncy",
+    "dishForm": "solo-dinner"
+  }
+}
