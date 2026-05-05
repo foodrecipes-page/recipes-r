@@ -1,0 +1,101 @@
+{
+  "title": "Romantic Chinese Zha Jiang Mian Noodles",
+  "description": "A lacto-vegetarian-friendly, Xinjiang-inspired dish featuring crispy bread and air-fried noodles, perfect for a romantic dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices, for serving"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Pickled mustard greens",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz, air-fried"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 1 minute.",
+    "Add the soy sauce, sesame paste, and black pepper, and stir to combine.",
+    "Add the noodles and stir-fry for 2-3 minutes, until they are well coated with the sauce.",
+    "Transfer the noodles to a serving platter or individual plates.",
+    "Top each serving with a slice or two of crispy bread, a spoonful of pickled mustard greens, and a sprinkle of green onions and cucumber slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lacto-vegetarian",
+    "one-pan",
+    "romantic",
+    "weeknight",
+    "xinjiang"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "romantic-chinese-noodles-zha-jiang-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "toast",
+    "diet": "lacto-vegetarian",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Romantic",
+    "dishForm": "Zha Jiang Mian"
+  }
+}

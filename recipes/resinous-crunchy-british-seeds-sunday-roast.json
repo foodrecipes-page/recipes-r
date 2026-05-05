@@ -1,0 +1,135 @@
+{
+  "title": "Resinous Crunchy British Seeds Sunday Roast",
+  "description": "A show-off British dish featuring sesame, pumpkin, and sunflower seeds, with a spicy kick from nuka-pickle. Perfect for a special occasion or ayurvedic-rajasic-friendly gathering.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1 cup",
+      "notes": "Toasted in a 350F oven for 10 minutes."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": "Toasted in a 350F oven for 10 minutes."
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch pieces."
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "Trimmmed and halved."
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400F (200C).",
+    "In a large bowl, toss together pumpkin seeds, sesame seeds, and sunflower seeds. Roast in the oven for 10 minutes, or until lightly toasted.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium-high heat. Add the carrot and cook for 5 minutes, or until tender. Add the Brussels sprouts and cook for an additional 5 minutes, or until tender.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the red onion and cook for 3 minutes, or until softened. Add the garlic and cook for an additional 1 minute, or until fragrant.",
+    "Add the nuka-pickle, rosemary, salt, black pepper, and thyme to the skillet. Stir to combine.",
+    "To assemble the roast, place the roasted seeds in the bottom of a large roasting pan. Add the cooked vegetables on top of the seeds.",
+    "Roast in the oven for 20 minutes, or until the seeds are lightly browned and the vegetables are tender.",
+    "Serve hot, garnished with additional rosemary if desired.",
+    "Let rest for 10 minutes before serving.",
+    "Cut into 8 equal portions and serve.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Reheat in the oven or microwave until hot and steaming hot.",
+    "Serve with your favorite sides, such as roasted potatoes or a side salad.",
+    "This dish is perfect for a special occasion or ayurvedic-rajasic-friendly gathering.",
+    "It's also a great way to get your daily dose of healthy fats and protein.",
+    "This recipe serves 8 people and takes 45 minutes to prepare and cook."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "british",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "nuka-pickle",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "resinous-crunchy-british-seeds-sunday-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-crunchy-british-seeds-sunday-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "seeds",
+    "descriptor": "resinous crunchy",
+    "dishForm": "Sunday Roast"
+  }
+}
