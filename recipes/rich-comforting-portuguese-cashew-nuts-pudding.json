@@ -1,0 +1,90 @@
+{
+  "title": "Rich comforting Portuguese Cashew Pudding",
+  "description": "A traditional, comforting Portuguese dessert made with cashew nuts and a silky, glassy-jelly texture.",
+  "cuisine": "portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the cashew nuts and water in a blender and blend until smooth.",
+    "Add the granulated sugar, flour, and unsalted butter to the blender and blend until well combined.",
+    "Add the large eggs and vanilla extract to the blender and blend until smooth.",
+    "Pour the mixture into a saucepan and cook over medium heat, stirring constantly, until the pudding thickens and pulls away from the sides of the saucepan.",
+    "Remove the pudding from the heat and let it cool slightly before serving.",
+    "Let the pudding cool to room temperature and refrigerate for at least 2 hours before serving.",
+    "Serve the pudding chilled, garnished with a sprinkle of granulated sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-nuts",
+    "comfort-food",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-comforting-portuguese-cashew-nuts-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-comforting-portuguese-cashew-nuts-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:53Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "score-fat",
+    "primaryIngredient": "cashew nuts",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Cashew nuts",
+    "descriptor": "Rich comforting",
+    "dishForm": "Pudding"
+  }
+}
