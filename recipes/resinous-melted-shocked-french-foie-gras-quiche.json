@@ -1,0 +1,186 @@
+{
+  "title": "Resinous, Melted, Shocked French Foie-Gras Quiche",
+  "description": "A French quiche dish featuring rich foie-gras, crumbly texture, and a hint of resinous flavor. This quiche makes for a unique and flavorful breakfast or brunch option.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy",
+    "pork",
+    "egg",
+    "nightshade-free",
+    "gluten-free",
+    "soy-free",
+    "sugar-free",
+    "dairy-free",
+    "fish-free",
+    "tree-nut-free",
+    "shellfish-free",
+    "peanut-free",
+    "pork-free",
+    "high-protein",
+    "keto",
+    "celiac-friendly",
+    "buddhist-friendly",
+    "orthodox-jewish-friendly",
+    "halal-friendly",
+    "kashruth-friendly",
+    "halal-kosher-compliant",
+    "halal-compliant",
+    "kashrut-compliant",
+    "kashruth-compliant",
+    "kosher-halal-compliant",
+    "halal",
+    "pescatarian",
+    "vegan",
+    "raw-food",
+    "gluten-free-dairy-free",
+    "gluten-free-soy-free",
+    "gluten-free-sugar-free",
+    "gluten-free-dairy-free-soy-free",
+    "gluten-free-dairy-free-sugar-free",
+    "low-carb",
+    "low-lactose",
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "foie-gras",
+      "amount": "1",
+      "notes": "fresh, high-quality foie-gras is essential for this dish"
+    },
+    {
+      "name": "onion",
+      "amount": "0.5",
+      "notes": "thinly sliced, caramelized to bring out sweetness"
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "notes": "unsalted, melted to infuse into foie-gras"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "fresh, large eggs for quiche filling"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1",
+      "notes": "fresh, heavy cream to add richness to quice"
+    },
+    {
+      "name": "cheese",
+      "amount": "0.5",
+      "notes": "soft, mild cheese to balance foie-gras taste"
+    },
+    {
+      "name": "milk",
+      "amount": "0.25",
+      "notes": "optional, for extra creaminess in quiche"
+    },
+    {
+      "name": "baking powder",
+      "amount": "0.25",
+      "notes": "to help quiche rise and crisp up"
+    },
+    {
+      "name": "salt",
+      "amount": "0.1",
+      "notes": "to balance flavors in quiche"
+    },
+    {
+      "name": "water",
+      "amount": "0.25",
+      "notes": "for egg wash on crust"
+    },
+    {
+      "name": "milk (for egg wash)",
+      "amount": "1",
+      "notes": "optional, to enrich egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Roll out the pie crust to a thickness of 1/8 inch and place it in a 9-inch round baking dish.",
+    "Melt the butter in a skillet over medium heat and saut\u00067 onion until caramelized, about 10 minutes.",
+    "In a separate bowl, whisk together eggs, heavy cream, cheese, and baking powder. Add the cooked onion and foie-gras to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the pie crust and smooth out the top.",
+    "Bake the quiche in the preheated oven for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool on a wire rack for 5 minutes.",
+    "Transfer the quiche to a plate or serving dish and serve warm, garnished with fresh herbs or edible flowers if desired.",
+    "For the egg wash, whisk together egg and milk (if using) in a small bowl until smooth. Brush the egg wash over the pie crust to give it a golden glaze.",
+    "If desired, garnish the quiche with additional fresh herbs or edible flowers before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "beef-free",
+    "buddhist-friendly",
+    "buddhist-gluten-free",
+    "carnivore-free",
+    "chicken-free",
+    "dairy-free",
+    "dairy-free-gluten-free",
+    "fish-free",
+    "gluten-free",
+    "halal",
+    "halal-compliant",
+    "halal-gluten-free",
+    "halal-kosher-compliant",
+    "halal-kosher-gluten-free",
+    "halal-pescatarian",
+    "high-protein",
+    "kashruth-compliant",
+    "kashruth-gluten-free",
+    "keto",
+    "lamb-free",
+    "low-carb",
+    "low-lactose",
+    "low-sodium",
+    "one-pan",
+    "orthodox-jewish-friendly",
+    "orthodox-jewish-gluten-free",
+    "peanut-free",
+    "pescatarian",
+    "pescatarian-fish-free",
+    "pork-free",
+    "raw-food",
+    "shellfish-free",
+    "shrimp-free",
+    "soy-free",
+    "sugar-free",
+    "tree-nut-free",
+    "turkey-free",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "resinous-melted-shocked-french-foie-gras-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-melted-shocked-french-foie-gras-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "foie-gras",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Foie-Gras",
+    "descriptor": "Resinous, Melted, Shocked",
+    "dishForm": "Quiche"
+  }
+}
