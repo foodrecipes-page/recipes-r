@@ -1,0 +1,87 @@
+{
+  "title": "Roasted Oozy Chili Quesadilla",
+  "description": "A spicy and gooey monsoon Mexican (sonoran) dish featuring a blend of spices including ginger paste, with all ingredients plant-based-friendly.",
+  "cuisine": "Mexican (Sonoran)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": 20
+    },
+    {
+      "name": "Spicy Chorizo",
+      "amount": "100g"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "5g"
+    },
+    {
+      "name": "Salted Vegan Mozzarella Cheese",
+      "amount": "80g"
+    },
+    {
+      "name": "All-Purpose Flour Tortillas",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "5g"
+    },
+    {
+      "name": "Vegetable Oil (for frying)",
+      "amount": 0
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 degrees C.",
+    "Slice Spicy Chorizo into thin strips.",
+    "In a pan, heat olive oil over medium heat. Add Ginger Paste and salted vegan mozzarella cheese, stirring for about 3 minutes until cheese is melted and mixed with the spices.",
+    "On a clean surface, place two flour tortillas. Spoon half of the chorizo mixture onto each tortilla, leaving an edge for folding.",
+    "Fold tortillas in half and place seam side down on a baking sheet lined with parchment paper.",
+    "Drizzle vegetable oil over both sides of the quesadillas to prevent sticking. Bake in preheated oven for 5 minutes or until cheese is bubbly and golden brown, then flip and bake another 3 minutes.",
+    "Remove from oven and let cool slightly before slicing into wedges.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 28,
+  "totalTimeMin": 46,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ginger-spice",
+    "monsoon-recipe",
+    "quesadilla",
+    "spicy-chili",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 27,
+    "carbs": 35,
+    "fat": 26
+  },
+  "slug": "roasted-oozy-chili-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-oozy-chili-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:05:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "ginger paste",
+    "diet": "plant-based",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chili",
+    "descriptor": "Oozy",
+    "dishForm": "Quesadilla"
+  }
+}
