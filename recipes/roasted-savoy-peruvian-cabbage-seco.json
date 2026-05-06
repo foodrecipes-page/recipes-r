@@ -1,0 +1,125 @@
+{
+  "title": "Roasted Savoy Peruvian Cabbage Seco",
+  "description": "A garlicky, bouncy QQ post-workout Peruvian dish featuring Savoy cabbage, cure, and low-sodium options. Perfect for a quick and easy dinner after a workout.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "notes": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Chop the savoy cabbage into small pieces and set aside.",
+    "Mince the garlic and add it to the chopped cabbage.",
+    "In a small bowl, mix together the cumin, coriander, paprika, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat and add the spice mixture. Cook for 1 minute.",
+    "Add the chopped cabbage and garlic to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Add the cure, chicken broth, cilantro, and lemon juice to the skillet and stir to combine.",
+    "Transfer the mixture to a copper mug or other heatproof vessel and roast in a preheated oven at 400°F for 20 minutes.",
+    "While the cabbage is roasting, heat the coconut oil in a small skillet over medium heat.",
+    "After the cabbage has roasted for 20 minutes, remove it from the oven and stir in the heated coconut oil.",
+    "Serve the cabbage hot, garnished with additional cilantro if desired.",
+    "Let the dish cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "copper-mug",
+    "garlicky",
+    "low-sodium",
+    "one-pan",
+    "peruvian",
+    "post-workout",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "roasted-savoy-peruvian-cabbage-seco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-savoy-peruvian-cabbage-seco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Roasted Savoy",
+    "dishForm": "Seco"
+  }
+}
