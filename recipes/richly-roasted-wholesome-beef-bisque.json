@@ -1,0 +1,82 @@
+{
+  "title": "Richly Roasted Wholesome Beef Bisque",
+  "description": "This sweet and silky British dish features a rich beef gravy with a touch of pickle to complement its macrobiotic-friendly base.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck roast",
+      "amount": "250 grams"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2"
+    },
+    {
+      "name": "Wheat berries",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Peppers (sweet and hot)",
+      "amount": "1 each"
+    },
+    {
+      "name": "Pickles",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place the beef in a pot with enough water to cover, add onion, garlic, celery, carrots, wheat berries, sweet peppers, and pickles.",
+    "Bring to boil, reduce heat to low, simmer for about 2 hours or until tender. Blend mixture with an immersion blender.",
+    "Return to pot and stir in beef broth. Simmer for another hour. Stir in heavy cream and blend briefly if desired.",
+    "Taste and adjust seasonings as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-dish",
+    "macrobiotic",
+    "meal-prep",
+    "rich-beef-gravy"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 58,
+    "fat": 14
+  },
+  "slug": "richly-roasted-wholesome-beef-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-wholesome-beef-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:38:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "beef gravy",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Beef",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Bisque"
+  }
+}
