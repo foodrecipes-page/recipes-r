@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Oozy Mediterranean Minced Vegetable Pasta",
+  "description": "A peppery and chewy mediterranean dish perfect for date nights, featuring a vegetarian-friendly mince mix seasoned with dates, olives, and herbs. Long-fermentation dough creates an interesting texture that pairs well with the savory vegetable mixture.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced meat",
+      "amount": 100
+    },
+    {
+      "name": "long-fermentation dough",
+      "amount": 50
+    },
+    {
+      "name": "green beans",
+      "amount": 250
+    },
+    {
+      "name": "kale",
+      "amount": 150
+    },
+    {
+      "name": "onions",
+      "amount": 75
+    },
+    {
+      "name": "tomatoes, halved",
+      "amount": 300
+    },
+    {
+      "name": "basil leaves",
+      "amount": 20
+    },
+    {
+      "name": "olive oil",
+      "amount": 100
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 5
+    },
+    {
+      "name": "dates, pitted and minced",
+      "amount": 75
+    },
+    {
+      "name": "paprika powder",
+      "amount": 20
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Combine minced meat, olive oil, onions, garlic, paprika, salt, and pepper in a mixing bowl. Mix until well combined and form into small patties.",
+    "Roll out long-fermentation dough into thin sheets. Cut circles slightly larger than the mince patties to use as wrappers for your veggie mixtures.",
+    "Place each patty on top of a wrapped dough circle, spread evenly with tomatoes and olives. Add dates and basil leaves over them.",
+    "Bake in preheated oven for 25 minutes. Serve hot with lemon wedges or drizzled olive oil.",
+    "Enjoy your peppery and chewy mediterranean dish!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mediterranean",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 1230,
+    "protein": 57,
+    "carbs": 94,
+    "fat": 46
+  },
+  "slug": "roasted-oozy-mediterranean-minced-vegetable-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-oozy-mediterranean-minced-vegetable-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:18:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mincemeat",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Minced Vegetables",
+    "descriptor": "Oozy",
+    "dishForm": "Pasta"
+  }
+}
