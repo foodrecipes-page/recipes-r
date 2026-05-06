@@ -1,0 +1,94 @@
+{
+  "title": "RSoft Algerian Kippers Pilaf",
+  "description": "A lazy Sunday dish featuring crispy kippers in a rich and umami pilaf made with shojin-friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": 6,
+      "notes": "freshly caught or canned"
+    },
+    {
+      "name": "Rice",
+      "amount": 200,
+      "notes": "preferably Jasmine rice for its mild flavor and excellent texture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": 20,
+      "notes": "about 1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 50,
+      "notes": "enough to coat the bottom of a non-stick pan"
+    },
+    {
+      "name": "Chives",
+      "amount": "to taste",
+      "notes": "freshly chopped for garnish"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": 30,
+      "notes": "about 1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (400F).",
+    "Slice kippers in half lengthwise and lightly dust with salt.",
+    "Heat oil in a non-stick pan over medium heat. Add onion, garlic, and tomato paste; sauté until onions are translucent.",
+    "Add rice and stir for 2-3 minutes to coat it evenly.",
+    "Top the rice with kippers. Drizzle lemon juice over everything and mix gently but thoroughly. Cover loosely with foil.",
+    "Bake at 200C (400F) for 15 minutes, then remove cover and continue baking until all liquid is absorbed and kippers are crisp and golden, about 10 more minutes.",
+    "Garnish with fresh chives before serving. Adjust seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "kippers",
+    "lazy-sunday",
+    "pilaf",
+    "shojin-friendly",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 435,
+    "protein": 29,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "rsoft-algerian-kippers-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rsoft-algerian-kippers-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:36:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "kippers",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Kippers",
+    "descriptor": "Silky Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
