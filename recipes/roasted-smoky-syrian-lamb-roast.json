@@ -1,0 +1,144 @@
+{
+  "title": "Roasted Smoky Syrian Lamb Roast",
+  "description": "A shojin-friendly, aerated dish featuring honey and smoke, perfect for post-workout recovery. The combination of aromatic spices and tender lamb will leave you wanting more.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Grade A, raw honey."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "Fresh, chopped."
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 tsp",
+      "notes": "Fresh, chopped."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Large."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Large."
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Large."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the lamb shoulder with salt, black pepper, cumin, coriander, thyme, and rosemary.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the sliced onions to the pot and cook until caramelized, about 10 minutes.",
+    "Add the sliced carrots and potatoes to the pot and cook for 5 minutes.",
+    "Return the lamb shoulder to the pot and pour in the honey and smoked paprika.",
+    "Mix well and transfer the pot to the preheated oven.",
+    "Roast the lamb for 2-1/2 to 3 hours, or until the meat is tender and falls apart easily.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve with the roasted potatoes and carrots on the side.",
+    "Optional: sprinkle with garlic powder and paprika for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "lamb",
+    "one-pan",
+    "post-workout",
+    "roasted",
+    "smoky",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 120,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "roasted-smoky-syrian-lamb-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-syrian-lamb-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:44:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "honey",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Roast"
+  }
+}
