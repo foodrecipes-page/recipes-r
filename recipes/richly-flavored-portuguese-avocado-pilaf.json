@@ -1,0 +1,87 @@
+{
+  "title": "Richly Flavored Portuguese Avocado Pilaf",
+  "description": "This rich, fluffy, energizing portuguese dish features extra virgin olive oil and is pescatarian-friendly. It's a perfect start to your day as a breakfast dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 ripe avocados",
+      "amount": "",
+      "notes": "Use Hass avocados for best flavor and texture."
+    },
+    {
+      "name": "1/4 cup extra virgin olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "30 ml cognac or other brandy for flambe",
+      "amount": ""
+    },
+    {
+      "name": "1 cup baby spinach leaves",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Finely chop the onion and mince the garlic.",
+    "In a pan, heat the olive oil over medium-high heat. Add the chopped onion and minced garlic, sauté for about 5 minutes until soft.",
+    "Add avocadoes to the pan, mashing them into the onions with a fork. Cook for another minute or two, until avocados are softened.",
+    "Pour in cognac or brandy. Carefully ignite using caution; allow the alcohol to burn off before removing from heat (flambe).",
+    "Stir in baby spinach leaves and salt and pepper to taste. Cook until wilted, about 1-2 minutes.",
+    "Serve hot as a side dish with eggs for breakfast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing-portuguese-dish",
+    "extra-virgin-olive-oil",
+    "pescatarian-friendly",
+    "rich-flavor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "richly-flavored-portuguese-avocado-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-portuguese-avocado-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:14:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Avocado",
+    "descriptor": "Richly Flavored",
+    "dishForm": "Pilaf"
+  }
+}
