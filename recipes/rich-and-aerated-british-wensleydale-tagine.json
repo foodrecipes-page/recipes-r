@@ -1,0 +1,105 @@
+{
+  "title": "Rich and Aerated British Wensleydale Tagine",
+  "description": "A hearty, flavorful tagine that showcases the richness of English Wensleydale cheese, perfect for a cozy winter evening. Simmered with a blend of Mediterranean spices, this dish is sure to become a favorite.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, paprika, salt, and black pepper. Stir to combine.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the Wensleydale cheese until melted and smooth.",
+    "Add the lemon juice and honey. Stir to combine.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "rich-and-aerated-british-wensleydale-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-aerated-british-wensleydale-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "wensleydale",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Rich and Aerated",
+    "dishForm": "Tagine"
+  }
+}

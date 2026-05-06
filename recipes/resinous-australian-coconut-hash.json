@@ -1,0 +1,164 @@
+{
+  "title": "Resinous Australian Coconut Hash",
+  "description": "A crispy, energizing breakfast dish featuring shredded coconut and a hint of flambe, suitable for those following a macrobiotic diet.",
+  "cuisine": "australian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shredded Coconut",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Macadamia Nuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chia Seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Star Anise",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, combine the shredded coconut, macadamia nuts, and dried apricots.",
+    "In a separate saucepan, heat the coconut oil over low heat.",
+    "Add the honey, vanilla extract, and a pinch of salt to the saucepan and stir until well combined.",
+    "Pour the saucepan mixture over the coconut mixture and toss until the coconut is evenly coated.",
+    "Transfer the coconut mixture to a baking sheet lined with parchment paper and bake for 10-12 minutes, or until lightly toasted.",
+    "While the coconut is baking, heat a small amount of ghee in a skillet over medium heat.",
+    "When the coconut is done, add it to the skillet with the ghee and stir until the coconut is crispy and golden brown.",
+    "Add a pinch of cayenne pepper and a sprinkle of fresh thyme to the skillet and stir to combine.",
+    "Squeeze a sliver of lime juice over the coconut and stir to combine.",
+    "Drizzle the coconut with a small amount of maple syrup and stir to combine.",
+    "Stir in the chia seeds, coconut cream, cinnamon, ginger, cardamom, and star anise until well combined.",
+    "Remove the skillet from the heat and let it cool for a few minutes before serving.",
+    "Serve the Resinous Australian Coconut Hash warm, garnished with additional fresh thyme and a sprinkle of cayenne pepper if desired.",
+    "Garnish with toasted walnuts if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "cinnamon",
+    "coconut",
+    "high-fiber",
+    "macrobiotic",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "resinous-australian-coconut-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-australian-coconut-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "shredded coconut",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "coconut",
+    "descriptor": "resinous",
+    "dishForm": "hash"
+  }
+}
