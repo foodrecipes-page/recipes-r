@@ -1,0 +1,63 @@
+{
+  "title": "Turkish Sugar Kazandibi",
+  "description": "A creamy, mildly spiced, and rich dessert made with dark sugar and served in a hot stone bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark brown sugar",
+      "amount": "1 cup",
+      "notes": "soft and unrefined"
+    }
+  ],
+  "instructions": [
+    "Combine the sugar and 2 cups of water in a saucepan and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "In a separate pan, toast the rice flour over low heat for 2-3 minutes, stirring frequently.",
+    "Add the toasted rice flour to the sugar mixture and whisk until well combined.",
+    "Add the ghee or vegan substitute, rose water, cinnamon, cardamom, and salt, and whisk until smooth.",
+    "Pour the mixture into a hot stone bowl and serve immediately.",
+    "Serve the kazandibi hot, garnished with a sprinkle of rose petals or a dollop of coconut cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "dessert",
+    "rich",
+    "sweet",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 4,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "rich-velvety-turkish-sugar-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-turkish-sugar-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sugar",
+    "descriptor": "rich velvety",
+    "dishForm": "Kazandibi"
+  }
+}
