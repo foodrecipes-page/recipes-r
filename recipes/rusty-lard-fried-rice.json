@@ -1,0 +1,84 @@
+{
+  "title": "Rusty Lard Fried Rice",
+  "description": "A vegan-friendly and hearty dish perfect for a quick weeknight meal featuring lard and other pantry staples.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup long grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons lard",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 cup mixed vegetables (e.g. carrots, peas, corn), diced",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons water",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat lard in a large skillet over medium heat.",
+    "Add garlic and onion, cook for about 3 minutes until fragrant.",
+    "Stir in mixed vegetables and cook for an additional 5 minutes.",
+    "Pour in water and soy sauce, stir to combine all ingredients thoroughly.",
+    "Increase heat to high, add rice and stir frequently for about 10 minutes or until heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-carb",
+    "one-pan",
+    "quick-weeknight-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 13,
+    "carbs": 94,
+    "fat": 52
+  },
+  "slug": "rusty-lard-fried-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rusty-lard-fried-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:41:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lard",
+    "descriptor": "Rustic",
+    "dishForm": "Fried-Rice"
+  }
+}
