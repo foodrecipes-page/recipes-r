@@ -1,0 +1,110 @@
+{
+  "title": "Resinous Post-Workout Kosher Chives Hash",
+  "description": "A hearty, wok-hei infused dish featuring sautéed chives and kosher-friendly ingredients, perfect for a post-workout meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kosher sausage",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large earthenware bowl over medium-high heat.",
+    "Add sliced onion and sauté until translucent, about 3 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add chopped chives and cook until wilted, about 2 minutes.",
+    "Add flaxseeds, lemon juice, salt, and black pepper. Stir to combine.",
+    "Push the onion and chive mixture to one side of the bowl.",
+    "Add kosher sausage to the other side of the bowl and cook until browned, breaking into small pieces as it cooks.",
+    "Add beaten eggs to the bowl and scramble until cooked through.",
+    "Mix the egg and sausage mixture with the onion and chive mixture.",
+    "Serve hot, garnished with thinly sliced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "easy-kosher",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "resinous-post-workout-kosher-chives-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-post-workout-kosher-chives-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "wok-hei",
+    "primaryIngredient": "chives",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kosher",
+    "mainIngredient": "chives",
+    "descriptor": "resinous post-workout",
+    "dishForm": "Hash"
+  }
+}

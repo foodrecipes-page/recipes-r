@@ -1,0 +1,112 @@
+{
+  "title": "resinous turkish petit pois wrap",
+  "description": "a comforting turkish dish featuring petit pois wrapped in a crispy ti-leaf wrap, with the subtle hint of smokiness from the ttukbaegi-earthenware-cook.",
+  "cuisine": "turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "grape seed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the ttukbaegi-earthenware-cook over medium heat",
+    "add the grape seed oil and let it simmer for 2 minutes",
+    "add the chopped onion and sauté for 3-4 minutes until translucent",
+    "add the minced garlic and sauté for 1 minute until fragrant",
+    "add the petit pois, ground cumin, ground coriander, cayenne pepper, and salt. Stir well to combine",
+    "add the lemon juice and stir to combine",
+    "warm the ti-leaf wraps in a dry pan over medium heat for 1-2 minutes",
+    "assemble the wraps by spooning the petit pois mixture onto the center of each wrap and topping with chopped walnuts"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "turkish",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "resinous-turkish-petit-pois-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-turkish-petit-pois-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "petit pois",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "petit pois",
+    "descriptor": "Resinous",
+    "dishForm": "Wrap"
+  }
+}
