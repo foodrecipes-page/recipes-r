@@ -1,0 +1,79 @@
+{
+  "title": "Roasted Cumin Seed Zesty Crumble",
+  "description": "A funky, crumbly show-off Russian dish featuring smoky aoli and tadka. Fodmap-friendly.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/4 cup cumin seeds",
+      "amount": "1/4"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    },
+    {
+      "name": "Fresh cilantro leaves for garnish",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350.",
+    "Combine cumin seeds, garlic, lemon juice, and olive oil in a bowl.",
+    "Season with salt. Mix well until evenly coated.",
+    "Spread the mixture on a baking sheet lined with parchment paper.",
+    "Roast for 12 minutes or until fragrant and slightly crispy.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "fodmap-friendly",
+    "funky",
+    "russian",
+    "show-off",
+    "smoky",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "roasted-cumin-seed-zesty-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-cumin-seed-zesty-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:55:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "smoky a oli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Cumin Seeds",
+    "descriptor": "Roasted",
+    "dishForm": "Crumble"
+  }
+}
