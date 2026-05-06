@@ -1,0 +1,117 @@
+{
+  "title": "rich indulgent midnight tunisian craving tagine",
+  "description": "a rich, glassy-jelly tunisian dish featuring pink food colouring and char-grill-yang flavour, served on a cedar plank. inspired by tunisian cuisine, this dish is paleo-friendly and perfect for a midnight craving.",
+  "cuisine": "tunisian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pink food colouring",
+      "amount": "1 drop",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over high heat and sear the beef short ribs until browned on all sides, about 5 minutes.",
+    "remove the short ribs from the skillet and set aside.",
+    "add the sliced ginger to the skillet and cook for 1 minute, until fragrant.",
+    "add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "add the pomegranate molasses, smoked paprika, cinnamon, and cayenne pepper to the skillet and stir to combine.",
+    "return the short ribs to the skillet and stir to coat with the spice mixture.",
+    "transfer the short ribs and spice mixture to a cedar plank and arrange the short ribs in a single layer.",
+    "brush the top of the short ribs with the lemon juice and honey.",
+    "char-grill the short ribs over high heat, using a grill or broiler, until caramelized and slightly charred, about 5 minutes per side.",
+    "remove the short ribs from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "midnight-craving",
+    "paleo",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "rich-indulgent-midnight-tunisian-craving-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indulgent-midnight-tunisian-craving-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:47:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pink food colouring",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "craving",
+    "descriptor": "Rich Indulgent Midnight",
+    "dishForm": "Tagine"
+  }
+}
