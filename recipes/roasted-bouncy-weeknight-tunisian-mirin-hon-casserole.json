@@ -1,0 +1,128 @@
+{
+  "title": "roasted bouncy weeknight tunisian mirin-hon casserole",
+  "description": "a flavorful and satisfying dinner inspired by tunisian cuisine, featuring the sweetness of mirin-hon and the spice of bhuna, served in a cazuela for a hearty and easy weeknight meal",
+  "cuisine": "tunisian",
+  "meal": "dinner",
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "mirin-hon",
+    "one-pan",
+    "tunisian",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 15,
+    "carbs": 37,
+    "fat": 22
+  },
+  "diet": null,
+  "ingredients": [
+    {
+      "name": "mirin-hon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "coat the bottom of a 9x13 inch cazuela with 1 tablespoon of olive oil.",
+    "in a large bowl, toss together the cauliflower, carrots, red bell pepper, onion, and garlic.",
+    "spread the vegetables in an even layer in the prepared cazuela.",
+    "in a small bowl, whisk together the mirin-hon, bhuna, cumin, cayenne pepper, salt, and black pepper.",
+    "pour the mirin-hon mixture over the vegetables and toss to coat.",
+    "drizzle the remaining 1 tablespoon of olive oil over the top.",
+    "cover the cazuela with aluminum foil and bake for 25 minutes.",
+    "remove the foil and continue baking for an additional 10 minutes, or until the vegetables are tender and lightly browned.",
+    "remove from the oven and sprinkle with chopped parsley and feta cheese (if using)."
+  ],
+  "slug": "roasted-bouncy-weeknight-tunisian-mirin-hon-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-bouncy-weeknight-tunisian-mirin-hon-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "mirin-hon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "mirin-hon",
+    "descriptor": "roasted bouncy weeknight",
+    "dishForm": "casserole"
+  }
+}

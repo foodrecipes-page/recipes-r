@@ -1,0 +1,64 @@
+{
+  "title": "Roasted Uruguayan San-marzano-tomato Casserole",
+  "description": "A hearty weeknight Uruguayan dish featuring roasted San-marzano tomatoes, crispy onions, and a tamasic-friendly spice blend.",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "San-marzano Tomatoes",
+      "amount": "2 lbs",
+      "notes": "peeled and halved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss tomatoes with 2 tbsp olive oil, salt, and pepper on a baking sheet.",
+    "Spread onions in a single layer on a separate baking sheet and roast for 20 minutes, or until crispy.",
+    "In a large skillet, heat 1 tbsp olive oil over medium-high heat. Add ground beef and cook until browned, breaking into small pieces as it cooks.",
+    "Add cumin, paprika, and salt to the skillet and cook for 1 minute, stirring constantly.",
+    "Transfer the beef mixture to a 9x13 inch baking dish and top with roasted tomatoes and crispy onions.",
+    "Bake for 25 minutes, or until the casserole is hot and bubbly.",
+    "Let it rest for 5 minutes before serving.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Serve hot, garnished with additional crispy onions and a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "roasted-uruguayan-san-marzano-tomato-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-uruguayan-san-marzano-tomato-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "San-marzano-tomato",
+    "descriptor": "Roasted",
+    "dishForm": "Casserole"
+  }
+}
