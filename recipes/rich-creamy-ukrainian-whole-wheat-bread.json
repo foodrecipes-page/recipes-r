@@ -1,0 +1,105 @@
+{
+  "title": "Rich Creamy Ukrainian Whole Wheat Bread",
+  "description": "A traditional Ukrainian bread recipe featuring whole wheat flour, blanched nuts, and a hint of cream, making it a comforting and satisfying treat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "700g",
+      "notes": ""
+    },
+    {
+      "name": "Branched flour",
+      "amount": "300g",
+      "notes": "for extra nutrition and texture"
+    },
+    {
+      "name": "Warm water",
+      "amount": "350ml",
+      "notes": "at 27-30°C for proper yeast fermentation"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "10g",
+      "notes": "fresh and suitable for high-altitude baking"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50g",
+      "notes": "for yeast fermentation and browning"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "room temperature for proper emulsification"
+    },
+    {
+      "name": "Salt",
+      "amount": "20g",
+      "notes": "unrefined and flake-form for better texture"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "70g",
+      "notes": "at room temperature for better blending"
+    },
+    {
+      "name": "Blanched almonds",
+      "amount": "150g",
+      "notes": "chopped for added crunch and nutrition"
+    }
+  ],
+  "instructions": [
+    "Combine whole wheat flour, branched flour, yeast, sugar, and salt in a large mixing bowl.",
+    "Gradually add warm water while mixing with a wooden spoon or a stand mixer equipped with a dough hook until the dough comes together in a shaggy mass.",
+    "Add the egg and mix until the dough is smooth and elastic, about 5-7 minutes.",
+    "Knead the dough on a floured surface for 10-12 minutes until it becomes shiny and develops a smooth, even texture.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm, draft-free area for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 190°C with a baking stone or baking sheet inside, if available.",
+    "Punch down the dough and shape it into a round or oblong loaf.",
+    "Place the loaf on the preheated baking stone or baking sheet, and bake for 35-40 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.",
+    "Remove the bread from the oven and let it cool on a wire rack for at least 10-15 minutes before slicing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "gluten-free",
+    "ukrainian",
+    "vegan",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "rich-creamy-ukrainian-whole-wheat-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-ukrainian-whole-wheat-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "whole wheat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "whole wheat",
+    "descriptor": "rich creamy",
+    "dishForm": "Bread"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Ruby Red Japanese Tomato Skewers",
+  "description": "A Chugoku-inspired dish showcasing datterini tomatoes with a briny, glassy-jelly infusion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "12",
+      "notes": "Select firm, red tomatoes."
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "Ball or semi-ball mozzarella."
+    },
+    {
+      "name": "Ponzu Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince or chop finely."
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/2 cup",
+      "notes": "Chop finely."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tbsp",
+      "notes": "See below for infusion recipe."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomato",
+      "amount": "2",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Thread datterini tomatoes, mozzarella cheese, and garlic onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together Ponzu sauce, yuzu juice (if using), and sesame seeds (if using).",
+    "Brush the skewers with the Ponzu mixture, making sure to coat each piece evenly.",
+    "Drizzle sesame oil (if using) and infused oil over the skewers.",
+    "Sprinkle chopped green onion and salt over the skewers.",
+    "Grill or broil the skewers over medium heat for 2-3 minutes per side, or until the cheese is melted and the tomatoes are slightly charred.",
+    "Transfer the skewers to a serving platter and garnish with chopped fresh basil and cherry tomatoes (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "ruby-red-japanese-tomato-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ruby-red-japanese-tomato-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "fodmap",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tomato",
+    "descriptor": "Ruby Red",
+    "dishForm": "Skewers"
+  }
+}
