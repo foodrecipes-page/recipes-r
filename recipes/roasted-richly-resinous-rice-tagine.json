@@ -1,0 +1,104 @@
+{
+  "title": "Roasted Richly Resinous Rice Tagine",
+  "description": "A crispy and energizing Croatian dish featuring rice, sriracha, and other spices. Satvik-friendly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup long grain rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup Sriracha sauce",
+      "amount": ""
+    },
+    {
+      "name": "3 cups water or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons honey or brown sugar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "A handful of fresh herbs (parsley, cilantro) for garnish",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Saute onion and garlic in oil until translucent.",
+    "Add rice, cumin, smoked paprika, salt, and Sriracha; stir well.",
+    "Pour in water or broth and honey/sugar. Bring to a boil.",
+    "Reduce heat to low, cover with lid, and bake for 20 minutes.",
+    "Remove from oven, reduce heat to medium, and continue baking uncovered until liquid is absorbed (15-20 more mins).",
+    "Garnish with fresh herbs and serve hot.",
+    "Optional: Adjust seasoning with additional salt or pepper if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "croatian",
+    "energizing",
+    "resinous",
+    "rich",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "roasted-richly-resinous-rice-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-richly-resinous-rice-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:20:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "sriracha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Resinous",
+    "mainIngredient": "Rice",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Tagine"
+  }
+}
