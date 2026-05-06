@@ -1,0 +1,107 @@
+{
+  "title": "Rich Gooey Russian Dum Pierogi",
+  "description": "A traditional Russian dish featuring dumplings filled with a rich, creamy potato and cheese mixture, topped with a tangy sauce and served with a side of truffle oil. This recipe is dairy-free friendly and perfect for a comforting meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Vegan cream cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted vegan butter",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine potatoes, vegan cream cheese, thyme, and black pepper in a bowl and mix well.",
+    "Place a dumpling wrapper on a clean surface and place a tablespoon of the potato mixture in the center of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "In a small saucepan, heat the truffle oil and vegan sour cream over low heat, whisking constantly.",
+    "Add the chopped fresh dill and whisk until combined.",
+    "Serve the cooked dumplings with the truffle sauce and a side of unsalted vegan butter.",
+    "Garnish with additional fresh dill if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "easy-to-make",
+    "russian-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 14,
+    "carbs": 84,
+    "fat": 23
+  },
+  "slug": "rich-gooey-russian-dum-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-russian-dum-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:09:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "truffle oil",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dum",
+    "descriptor": "rich gooey",
+    "dishForm": "Pierogi"
+  }
+}
