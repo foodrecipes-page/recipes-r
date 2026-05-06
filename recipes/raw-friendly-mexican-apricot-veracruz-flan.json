@@ -1,0 +1,102 @@
+{
+  "title": "Raw-Friendly Mexican Apricot Veracruz Flan",
+  "description": "A delicate, glassy-jelly Veracruzan dish featuring apricot and smoky flavors from the robata grill, adapted to be raw-friendly without compromising on flavor.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "6 medium",
+      "notes": ""
+    },
+    {
+      "name": "Agave Nectar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced Green Chilies",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a robata grill to medium-high heat.",
+    "Grill the apricots for 2-3 minutes per side, or until slightly charred.",
+    "In a blender or food processor, combine the grilled apricots, agave nectar, lime juice, diced green chilies, chopped cilantro, smoked paprika, salt, and cinnamon.",
+    "Blend the mixture until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible.",
+    "Add the water to the bowl and stir to combine.",
+    "Pour the mixture into a 6-inch round mold or a 9x5-inch loaf pan.",
+    "Refrigerate the flan for at least 4 hours or overnight.",
+    "Unmold the flan onto a serving plate and slice into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "mexican",
+    "one-pot",
+    "raw-friendly",
+    "veracruz",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "raw-friendly-mexican-apricot-veracruz-flan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-mexican-apricot-veracruz-flan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "apricot",
+    "diet": "raw",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "apricot",
+    "descriptor": "raw-friendly",
+    "dishForm": "Veracruz Flan"
+  }
+}

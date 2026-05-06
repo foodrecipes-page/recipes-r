@@ -1,0 +1,118 @@
+{
+  "title": "Roasted Tunisian Fines-Herbes Tagine",
+  "description": "A flavorful roasted dish featuring the classic Tunisian fines-herbes and a lacto-vegetarian-friendly take on traditional tagine cooking. This recipe is perfect for a comforting breakfast or brunch.",
+  "cuisine": "North African",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fines Herbes (chopped fresh parsley, dill, chives, and tarragon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup halved",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together olive oil, onion, carrots, zucchini, red bell pepper, and fennel seeds.",
+    "Spread the mixture evenly on a baking sheet and roast for 25 minutes, stirring occasionally.",
+    "Add grapes and continue roasting for another 15 minutes, or until the vegetables are tender.",
+    "Stir in honey, lemon juice, salt, and black pepper.",
+    "Garnish with chopped fines herbes and serve hot.",
+    "Serve with crusty bread or couscous, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "fines-herbes",
+    "tagine",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "roasted-tunisian-fines-herbes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tunisian-fines-herbes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "fines-herbes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fines-Herbes",
+    "descriptor": "Roasted",
+    "dishForm": "Tagine"
+  }
+}
