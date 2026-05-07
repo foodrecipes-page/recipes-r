@@ -1,0 +1,83 @@
+{
+  "title": "Richly Roasted Almond Moroccan Pilaf",
+  "description": "A grassy and molten almond pilaf that is a crowd-pleaser, featuring bonito-shave and almond extract for an Algerian twist. Nut-free-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 tbsp fresh lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "20 almonds, slivered",
+      "amount": null
+    },
+    {
+      "name": "2 bonito flakes",
+      "amount": null
+    },
+    {
+      "name": "Almond extract",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and soak in water for 30 mins. Drain.",
+    "Heat olive oil in a pan over medium heat. Add garlic, lemon juice, almonds, bonito flakes, and almond extract. Stir well.",
+    "Add soaked quinoa to the pan with liquid from soaking. Mix thoroughly until all quinoa is moistened.",
+    "Cover and simmer for 10 minutes or until liquid has been absorbed.",
+    "Stir in sliced almonds and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-free",
+    "moroccan",
+    "nut-free",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "richly-roasted-almond-moroccan-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-almond-moroccan-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:06:52Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "almond extract",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Almonds",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Pilaf"
+  }
+}
