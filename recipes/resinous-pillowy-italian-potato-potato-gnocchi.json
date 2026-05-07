@@ -1,0 +1,82 @@
+{
+  "title": "Resinous Pillowy Italian Potato Gnocchi",
+  "description": "A nostalgic Italian dish made with yellow food colouring, confit-tomato, and pillowy gnocchi. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Food Colouring",
+      "amount": "2-3 drops",
+      "notes": "for resinous colour"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water. ",
+    "Cut the Russet Potatoes into large chunks and boil in the water until tender. ",
+    "Strain the potatoes and let them cool. ",
+    "Add the All-Purpose Flour, salt, and yellow food colouring to a mixing bowl. ",
+    "Mash the potatoes and add them to the mixing bowl. ",
+    "Mix until a dough forms. ",
+    "Knead the dough for 5 minutes until smooth. ",
+    "Divide the dough into 4 equal pieces and roll each into a long rope. ",
+    "Cut the rope into 1 inch pieces and press the tines of a fork into each piece to create the gnocchi texture. ",
+    "Bring a large pot of salted water to a boil and cook the gnocchi until they float. ",
+    "Heat the olive oil in a large skillet over medium heat. ",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant. ",
+    "Add the confit-tomato and cook for 2-3 minutes until heated through. ",
+    "Add the cooked gnocchi to the skillet and toss with the confit-tomato sauce. ",
+    "Season with salt and pepper to taste.",
+    "Add nutritional yeast to taste if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gnocchi",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "plant-based",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "resinous-pillowy-italian-potato-potato-gnocchi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-pillowy-italian-potato-potato-gnocchi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:07:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "potato",
+    "descriptor": "resinous pillowy",
+    "dishForm": "Potato Gnocchi"
+  }
+}
