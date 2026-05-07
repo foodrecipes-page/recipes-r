@@ -1,0 +1,135 @@
+{
+  "title": "Rested, Tender Egyptian Sweet Sherry Wrap",
+  "description": "A salty, tender, brunch-mood Egyptian dish featuring sweet sherry, nuka-pickle, and pandan-leaf wraps. Perfect for a FODMAP-friendly breakfast or brunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pandan-leaf wraps",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Canned tuna (drained)",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickled cucumber",
+      "amount": "120g",
+      "notes": "See nuka-pickle recipe for details."
+    },
+    {
+      "name": "Sweet sherry",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fleur de sel or other flaky salt is preferred."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground is recommended."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing the wraps."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "Optional, for added flavor."
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "120g",
+      "notes": "For serving."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat. ",
+    "Brush the pandan-leaf wraps with olive oil and cook for 1-2 minutes on each side, until slightly charred.",
+    "In a separate pan, heat 1 tablespoon sweet sherry over low heat. ",
+    "Add the canned tuna and cook, stirring occasionally, until heated through.",
+    "Mix in the nuka-pickled cucumber, chopped parsley, mint, salt, and black pepper. ",
+    "Spoon the tuna mixture onto the center of each pandan-leaf wrap. ",
+    "Drizzle the remaining sweet sherry over the top and sprinkle with chopped cilantro and dill. ",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap to enclose.",
+    "Repeat with the remaining ingredients. ",
+    "Serve immediately, with feta cheese on top if desired.",
+    "Garnish with additional parsley or mint if desired.",
+    "Serve with a side of lemon wedges, if desired.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "egyptian",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "rested-tender-egyptian-sweet-sherry-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rested-tender-egyptian-sweet-sherry-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sweet sherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sweet sherry",
+    "descriptor": "Rested, tender",
+    "dishForm": "Wrap"
+  }
+}
