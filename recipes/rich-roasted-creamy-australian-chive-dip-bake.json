@@ -1,0 +1,108 @@
+{
+  "title": "Rich Roasted Creamy Australian Chive Dip Bake",
+  "description": "A comforting, umami-rich dip bake featuring a chive sour cream topping and a crunchy tadka crust, perfect for low-carb snacking or as a side dish.",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup sour cream",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chive dip",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "1",
+      "notes": "low-carb option: use cheddar cheese with 30% less carbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a clay tandoor pot or a small baking dish, combine the onion and garlic.",
+    "Drizzle with 1 tablespoon of olive oil and roast in the oven for 20 minutes, stirring occasionally.",
+    "In a small bowl, mix together the sour cream, chive dip, smoked paprika, salt, and black pepper.",
+    "Pour the sour cream mixture over the roasted onion mixture in the clay tandoor pot or baking dish.",
+    "Top with the grated cheddar cheese and drizzle with the remaining 1 tablespoon of olive oil.",
+    "Mix the tadka topping ingredients (see below) and sprinkle over the top of the cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Tadka topping: In a small pan, heat 1 tablespoon of olive oil over medium heat. Add 1/4 cup of chopped fresh chives and 1/4 cup of grated cheddar cheese. Cook, stirring constantly, until the cheese is melted and the chives are crispy. ",
+    "Tadka topping: Sprinkle the tadka topping over the top of the dip bake and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "dip",
+    "low-carb",
+    "snack",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "rich-roasted-creamy-australian-chive-dip-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-creamy-australian-chive-dip-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "chive dip",
+    "descriptor": "rich roasted creamy",
+    "dishForm": "bake"
+  }
+}
