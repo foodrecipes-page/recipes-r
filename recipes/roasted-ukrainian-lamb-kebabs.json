@@ -1,0 +1,88 @@
+{
+  "title": "Roasted Ukrainian Lamb Kebabs",
+  "description": "A festive and flavorful Ukrainian dish featuring lamb loin chops, perfect for springtime celebrations.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. In a small bowl, mix together olive oil, minced garlic, and lemon juice.",
+    "Season the lamb loin chops with salt and black pepper.",
+    "Dredge the lamb loin chops in the all-purpose flour.",
+    "Thread the lamb loin chops onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20 minutes, or until the lamb reaches your desired level of doneness.",
+    "Let the lamb rest for 5 minutes before slicing and serving.",
+    "Serve immediately, garnished with fresh rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "spring",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 44,
+    "carbs": 0,
+    "fat": 28
+  },
+  "slug": "roasted-ukrainian-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ukrainian-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Roasted",
+    "dishForm": "Kebabs"
+  }
+}

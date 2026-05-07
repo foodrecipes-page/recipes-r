@@ -1,0 +1,115 @@
+{
+  "title": "Roasted Springy Mexican Dates Sopes",
+  "description": "Bitter, springy, crowd-pleaser Mexican dish featuring stoned dates, clay-pot-cook, macrobiotic-friendly, form=sopes. A combination of earthy, bitter dates, crispy tortillas, and creamy avocado yields a satisfying and filling meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Fajita-style seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Pit and chop the dates.",
+    "In a large clay pot, mix together the chopped dates, red onion, cilantro, lime juice, olive oil, garlic, salt, and black pepper.",
+    "Place the clay pot in the preheated oven and roast for 20 minutes, stirring occasionally.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a separate pan, heat a small amount of oil over medium-high heat and cook the tortillas for 30-45 seconds on each side, until crispy and golden brown.",
+    "Assemble the sopes by spooning the roasted date mixture onto the tortillas, followed by a dollop of avocado.",
+    "Sprinkle fajita-style seasoning on top of the avocado.",
+    "Serve hot.",
+    "Repeat the assembly process for the remaining tortillas and date mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-springy-mexican-dates-sopes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-springy-mexican-dates-sopes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "stoned dates",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "dates",
+    "descriptor": "Roasted Springy",
+    "dishForm": "Sopes"
+  }
+}
