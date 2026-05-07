@@ -1,0 +1,80 @@
+{
+  "title": "RDelicate Zanzibari Indulgent Grape Nut Cereal Pilaf",
+  "description": "This RDelicate Zanzibari Indulgent Grape Nut Cereal Pilaf is a fermented, gooey, and indulgent Tunisian dish featuring grape nut cereal, rest-meat, and jain-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grape Nuts",
+      "amount": 120
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "3 oz can, drained"
+    },
+    {
+      "name": "Dates",
+      "amount": "6 medium, pitted and chopped"
+    },
+    {
+      "name": "Clove of Clove Oil",
+      "amount": null
+    },
+    {
+      "name": "Grape Nuts Crumbled",
+      "amount": "To Serve"
+    },
+    {
+      "name": "Almond Paste",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine almond butter and coconut milk.",
+    "Heat on medium-low for about 5 minutes or until mixture thickens slightly but is still pourable.",
+    "Add dates to the mixture. Stir gently.",
+    "Reduce heat to low and simmer for another 10 minutes until it reaches desired consistency.",
+    "Fold in crumbled grape nuts and almond paste, mix well.",
+    "Remove from heat and let cool completely before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "gooey",
+    "grape-nuts",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "rdelicate-zanzibari-indulgent-grape-nut-cereal-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rdelicate-zanzibari-indulgent-grape-nut-cereal-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:56:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Grape Nut Cereal",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
