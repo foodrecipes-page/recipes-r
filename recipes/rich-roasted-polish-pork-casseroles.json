@@ -1,0 +1,96 @@
+{
+  "title": "Rich Roasted Polish Pork Casseroles",
+  "description": "A rich and juicy solo-dinner Polish dish featuring beer and candy, with a macrobiotic-friendly twist.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "boneless"
+    },
+    {
+      "name": "dark beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "candy onions",
+      "amount": "1 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "marjoram",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, combine the pork shoulder, dark beer, brown sugar, caraway seeds, and marjoram.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the pork for 2 hours, or until it is tender and easily shreds with a fork.",
+    "While the pork is roasting, prepare the caramelized onions by cooking them in a pan with a little oil over low heat for 30 minutes.",
+    "After the pork has roasted for 2 hours, add the sliced potatoes to the pot and continue to roast for another 30 minutes.",
+    "Stir in the sour cream and cook for an additional 10 minutes, or until the potatoes are tender.",
+    "To serve, shred the pork and top it with the caramelized onions, sour cream, and chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "macrobiotic-friendly",
+    "one-pan",
+    "polish-cuisine",
+    "rich-and-hearty"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "rich-roasted-polish-pork-casseroles",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-polish-pork-casseroles",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:10:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "beer",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Casseroles"
+  }
+}
