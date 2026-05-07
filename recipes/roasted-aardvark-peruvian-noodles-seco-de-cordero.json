@@ -1,0 +1,121 @@
+{
+  "title": "Roasted Aardvark Peruvian Noodles Seco de Cordero",
+  "description": "A hearty, buttery, and cozy Peruvian dish featuring noodles, cure, and a touch of sweetness. This recipe is a twist on the classic Seco de Cordero, made diabetic-friendly by using reduced sugar and a focus on protein-rich ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aardvark fillets",
+      "amount": "2 lbs",
+      "notes": "Wild-caught, sustainably sourced aardvarks. Remove bloodlines and skin before use."
+    },
+    {
+      "name": "Peruvian noodles",
+      "amount": "1 box",
+      "notes": "Thin, air-dried noodles. Look for a brand that is low in sodium."
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio. Brown meat in small batches for best results."
+    },
+    {
+      "name": "cured goat cheese",
+      "amount": "8 oz",
+      "notes": "Aged for at least 6 months. Crumbly texture preferred."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice onion and caramelize for added depth of flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince garlic and saut\u00131 until fragrant."
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "Diced, seeded, and deveined. Use any variety of pepper for added heat."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin adds a warm, earthy flavor to the dish."
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika adds a smoky depth to the sauce."
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "Use a high-protein flour for best results."
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "Melted butter adds a rich, creamy texture to the noodles."
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth preferred. Use store-bought or homemade for best flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00167 F (200\u00167 C).",
+    "Season aardvark fillets with salt, pepper, and cumin. Roast in the oven for 20 minutes, or until cooked through.",
+    "While aardvark is roasting, cook Peruvian noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, saut\u00131 onion and garlic until fragrant. Add diced chili peppers and cook for an additional 2 minutes.",
+    "Add ground beef to the skillet, breaking it up with a spoon as it cooks. Cook until browned, then stir in cumin and paprika.",
+    "In a small bowl, whisk together flour and chicken broth. Add to the skillet, stirring to combine. Bring sauce to a simmer and cook for 5 minutes, or until thickened.",
+    "Add cooked noodles to the skillet, tossing to combine with sauce. Stir in melted butter and crumbled cured goat cheese.",
+    "Return roasted aardvark to the skillet, breaking it up with a spoon to combine with noodles and sauce.",
+    "Season with salt and pepper to taste. Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Let dish rest for 10 minutes before serving to allow flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 63,
+    "carbs": 21,
+    "fat": 34
+  },
+  "slug": "roasted-aardvark-peruvian-noodles-seco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-aardvark-peruvian-noodles-seco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "noodles",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "noodles",
+    "descriptor": "roasted aardvark",
+    "dishForm": "Seco de Cordero"
+  }
+}
