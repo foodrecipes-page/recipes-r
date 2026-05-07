@@ -1,0 +1,91 @@
+{
+  "title": "RZesty Mediterranean Avocado Salad",
+  "description": "A grassy and crispy mediterranean dish featuring a vegan-friendly miso-marinated avocado salad with cider vinegar dressing.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": 2
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "croutons",
+      "amount": "30g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g, crumbled"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": ""
+    },
+    {
+      "name": "apple cider vinegar dressing",
+      "amount": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Chop the avocado into cubes.",
+    "Finely chop the cilantro and red onion. Mix them with the chopped avocado, croutons, and feta cheese in a large bowl.",
+    "In a small bowl, mix miso paste with apple cider vinegar and salt to taste. Stir in balsamic glaze until smooth.",
+    "Drizzle the dressing over the salad just before serving to prevent discoloration.",
+    "Season with freshly ground black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "mediterranean",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 13
+  },
+  "slug": "rzesty-mediterranean-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rzesty-mediterranean-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:13:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cider vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Avocado",
+    "descriptor": "RZesty",
+    "dishForm": "Salad"
+  }
+}
