@@ -1,0 +1,111 @@
+{
+  "title": "Rich Whole30 Ethiopian Lamb Kitfo",
+  "description": "A rich and complex lamb kitfo dish using hojicha for added depth of flavor. Perfect for a quick and easy dinner or meal prep.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo",
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Hojicha matcha powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "whole30 compliant"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat a tablespoon of oil over medium-high heat.",
+    "Add the lamb to the skillet and cook for 2-3 minutes per side, or until browned. ",
+    "Transfer the lamb to a plate and set aside to rest.",
+    "In the same skillet, add the hojicha matcha powder and cook for 1 minute, stirring constantly.",
+    "Add the garlic to the skillet and cook for an additional minute, stirring constantly.",
+    "Add the cilantro and parsley to the skillet and cook for 30 seconds, stirring constantly.",
+    "Add the black pepper and sea salt to the skillet and stir to combine.",
+    "Add the lamb back to the skillet and stir to combine with the spice mixture.",
+    "Sprinkle the unflavored gelatin over the top of the lamb and continue to cook for an additional 2 minutes, stirring constantly.",
+    "Remove the skillet from the heat and let cool slightly.",
+    "Transfer the lamb to a cutting board and slice into thin strips.",
+    "Serve the kitfo on a tagliere, garnished with additional cilantro and parsley if desired.",
+    "Refrigerate or freeze the kitfo for later use.",
+    "To serve, let the kitfo come to room temperature and slice thinly.",
+    "Serve the kitfo with your choice of sides, such as sautéed vegetables or a side salad.",
+    "Note: Kitfo is typically served with a raw egg yolk on top, but since this recipe is whole30 compliant, we will be omitting the egg yolk.",
+    "Instead, we will be serving the kitfo with a sprinkle of fresh cilantro and parsley.",
+    "This will add a bright and refreshing flavor to the dish without compromising the whole30 diet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "grain-free",
+    "kitfo",
+    "lamb",
+    "meal-prep",
+    "paleo",
+    "rich",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 38
+  },
+  "slug": "rich-whole30-ethiopian-lamb-kitfo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-whole30-ethiopian-lamb-kitfo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:21:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "hojicha",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Rich Whole30",
+    "dishForm": "Kitfo"
+  }
+}
