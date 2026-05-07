@@ -1,0 +1,72 @@
+{
+  "title": "Richly Silky Light Zanzibari Poffertjes",
+  "description": "A rich and silky light Malaysian dish featuring king prawns cooked in a hot-pot vessel without onions or garlic. Perfect for those who enjoy savory yet mild flavors.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "120g flour",
+      "amount": "g"
+    },
+    {
+      "name": "30ml vegetable oil",
+      "amount": "ml"
+    },
+    {
+      "name": "4 medium prawns, peeled and deveined",
+      "amount": "pieces"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "25ml water",
+      "amount": "ml"
+    }
+  ],
+  "instructions": [
+    "Mix flour with oil in a bowl until smooth.",
+    "Add prawns, salt, and water. Mix well but gently to form dough.",
+    "Heat hot-pot vessel over medium heat.",
+    "Dip fingers into oil for easy release from pot when serving.",
+    "Scoop dough into heated pot using spoon or ladle.",
+    "Cook on low-medium heat until golden brown and puffed, turning once.",
+    "Serve warm with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-dish",
+    "low-calorie",
+    "no-garlic-no-onion"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 7
+  },
+  "slug": "richly-silky-light-zanzibari-poffertjes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-silky-light-zanzibari-poffertjes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T02:25:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "king prawns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "prawns",
+    "descriptor": "Richly Silky Light",
+    "dishForm": "Poffertjes"
+  }
+}
