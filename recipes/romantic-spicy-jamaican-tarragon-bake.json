@@ -1,0 +1,102 @@
+{
+  "title": "Romantic Spicy Jamaican Tarragon Bake",
+  "description": "A lacto-vegetarian-friendly, spicy bake featuring the unique flavors of Jamaican cuisine and the romance of tarragon. Perfect for a dinner date or special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh leaves"
+    },
+    {
+      "name": " Scotch bonnet peppers",
+      "amount": "2 teaspoons",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the flour, curry powder, garlic powder, salt, and black pepper.",
+    "Add the cubed shortening and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Stir in the chopped tarragon and diced Scotch bonnet peppers.",
+    "Press the mixture into the bottom of a 9x13-inch baking dish.",
+    "In a separate bowl, whisk together the egg yolk and a little water.",
+    "Brush the egg wash over the crust to glaze it.",
+    "Bake for 20-25 minutes, or until the crust is golden brown and set."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "jamaican",
+    "romantic",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 7,
+    "carbs": 43,
+    "fat": 16
+  },
+  "slug": "romantic-spicy-jamaican-tarragon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-spicy-jamaican-tarragon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:27:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "robata-grill",
+    "primaryIngredient": "tarragon-french",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tarragon",
+    "descriptor": "romantic spicy",
+    "dishForm": "Bake"
+  }
+}
