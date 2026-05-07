@@ -1,0 +1,82 @@
+{
+  "title": "Roasty Sweet Yam Pancakes Fondue-Pot",
+  "description": "A kid-friendly jamaican dish featuring sweet yams in a creamy fondue-pot with mirin and pickles. Low glycemic friendly.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet yam",
+      "amount": 1,
+      "notes": "boil until soft"
+    },
+    {
+      "name": "milk",
+      "amount": 200
+    },
+    {
+      "name": "butter",
+      "amount": 50
+    },
+    {
+      "name": "sugar",
+      "amount": 100
+    },
+    {
+      "name": "mirin (soy sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pickles, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Mash sweet yam until smooth.",
+    "Add milk and butter to a pot over medium heat. Bring to boil.",
+    "Stir in sugar, mirin, pickles, and vanilla extract. Reduce heat and simmer for 5 minutes.",
+    "Pour mixture into the fondue-pot.",
+    "Serve warm with additional toppings like chopped nuts or fresh fruit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "fondue-pot",
+    "jamaican",
+    "kid-friendly",
+    "low-glycemic",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasty-sweet-yam-pancakes-fondue-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasty-sweet-yam-pancakes-fondue-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T17:09:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "mirin-hon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Yam",
+    "descriptor": "Creamy Sweet",
+    "dishForm": "Pancakes"
+  }
+}
