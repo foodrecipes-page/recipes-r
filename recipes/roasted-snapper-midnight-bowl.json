@@ -1,0 +1,90 @@
+{
+  "title": "Roasted Snapper Midnight-Bowl",
+  "description": "A nutty, snappy, whole30-friendly Egyptian dish featuring a whole snapper fish broiled to perfection and served in an earthenware bowl.",
+  "cuisine": "Egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Mix flour, baking powder, salt, and pepper in a bowl. Add olive oil and mix until smooth.",
+    "Dip snapper fillets into the flour mixture, ensuring they're well coated.",
+    "Place coated fillets onto an earthenware bowl lined with parchment paper.",
+    "Sprinkle sesame seeds over fish.",
+    "If desired, sprinkle chili flakes on top for added kick.",
+    "Broil in preheated oven for 10 minutes or until golden brown and crispy.",
+    "Serve hot as a midnight craving dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-recipes",
+    "european-dishes",
+    "midnight-craving",
+    "nutty",
+    "snappy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 26,
+    "carbs": 38,
+    "fat": 17
+  },
+  "slug": "roasted-snapper-midnight-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-snapper-midnight-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T14:50:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "snapper fish",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Bowl"
+  }
+}
