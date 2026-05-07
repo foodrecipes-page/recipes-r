@@ -1,0 +1,126 @@
+{
+  "title": "Roasted Crispy Japanese Duck Legs Bao",
+  "description": "Lazy Sunday Japanese dish featuring roasted, crispy duck legs served in a steamed bao with a side of beurre-monte sauce.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 in",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bao bun dough",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a small bowl, whisk together soy sauce, sake, honey, rice vinegar, sugar, and 2 tbsp cornstarch.",
+    "Add 2 tbsp vegetable oil to a large bowl and whisk in the soy sauce mixture until combined.",
+    "Add the duck legs to the bowl and toss until they are well coated with the marinade.",
+    "Let the duck legs marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Line a baking sheet with aluminum foil and spray with vegetable oil.",
+    "Arrange the duck legs on the baking sheet in a single layer.",
+    "Roast the duck legs in the preheated oven for 25-30 minutes, or until they are browned and crispy on the outside.",
+    "While the duck legs are roasting, prepare the bao bun dough according to the package instructions.",
+    "Once the duck legs are done roasting, let them rest for 5 minutes before slicing them into individual portions.",
+    "Serve the duck legs in the bao buns with a side of beurre-monte sauce and garnished with scallions.",
+    "To make the beurre-monte sauce, combine 1 cup heavy cream, 2 tbsp unsalted butter, and 1 tsp soy sauce in a small saucepan over medium heat.",
+    "Whisk the mixture constantly until it comes to a simmer and thickens slightly.",
+    "Season the beurre-monte sauce with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 63,
+    "carbs": 20,
+    "fat": 64
+  },
+  "slug": "roasted-crispy-japanese-duck-legs-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crispy-japanese-duck-legs-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:09:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "duck legs",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "duck legs",
+    "descriptor": "roasted crispy",
+    "dishForm": "Bao"
+  }
+}
