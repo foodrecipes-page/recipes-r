@@ -1,0 +1,104 @@
+{
+  "title": "Robustly Spiced Greek Meat Keftedes",
+  "description": "A flavorful Greek dish featuring herbal notes and a spicy kick, made with sriracha and cooked in a papillote, perfect for a low-glycemic diet.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped onion, minced garlic, sriracha, dried oregano, paprika, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Add the egg and almond flour to the bowl and mix until the mixture is homogeneous.",
+    "Use your hands to shape the mixture into small keftedes, about 1 1/2 inches in diameter.",
+    "Place the keftedes on a baking sheet lined with parchment paper, leaving about 1 inch of space between each keftede.",
+    "Fold the parchment paper over the keftedes to create a papillote and bake for 18 minutes.",
+    "Remove the keftedes from the oven and let them rest for 5 minutes before serving.",
+    "Serve the keftedes hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "herbal",
+    "low-glycemic",
+    "meatballs",
+    "papillote",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "robustly-spiced-greek-meat-keftedes",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-spiced-greek-meat-keftedes",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "sriracha",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "meat",
+    "descriptor": "Robustly Spiced",
+    "dishForm": "Keftedes"
+  }
+}
