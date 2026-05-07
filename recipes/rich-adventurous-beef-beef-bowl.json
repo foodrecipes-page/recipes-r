@@ -1,0 +1,108 @@
+{
+  "title": "Rich Adventurous Beef Bowl",
+  "description": "A light yet peppery beef bowl dish inspired by Japanese Okinawan cuisine, featuring a tamarind paste-based sauce and crispy lardons. Serve over steamed bok choy for added nutrition.",
+  "cuisine": "japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips (sirloin or ribeye)",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste-makham",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "lardons (small pieces of bacon)",
+      "amount": "6 slices",
+      "notes": "rendered in a pan until crispy"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "steamed bok choy",
+      "amount": "1 bunch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pan, cook the lardons over medium heat until crispy, then set aside.",
+    "In the same pan, add the sesame oil and cook the beef strips until browned, about 3 minutes per side.",
+    "Add the tamarind paste-makham, soy sauce, sugar, and rice vinegar to the pan, stirring to combine.",
+    "Bring the sauce to a simmer and let cook for 2-3 minutes, until slightly thickened.",
+    "Stir in the cooked lardons and cook for an additional minute.",
+    "Serve the beef and sauce over steamed bok choy, garnished with chopped green onions and toasted sesame seeds.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "beef",
+    "flexitarian",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "rich-adventurous-beef-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-adventurous-beef-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "flexitarian",
+    "region": "okinawa",
+    "cuisineAdjective": "adventurous",
+    "mainIngredient": "beef",
+    "descriptor": "rich",
+    "dishForm": "Beef Bowl"
+  }
+}

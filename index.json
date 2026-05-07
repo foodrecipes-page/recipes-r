@@ -1838,6 +1838,21 @@
     "shard": "r"
   },
   {
+    "slug": "rich-adventurous-beef-beef-bowl",
+    "title": "Rich Adventurous Beef Bowl",
+    "tags": [
+      "adventurous",
+      "beef",
+      "flexitarian",
+      "japanese",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
     "slug": "rich-adventurous-polish-chicken-stir-fry",
     "title": "Rich & Adventurous Polish Chicken Stir-fry",
     "tags": [
@@ -6737,6 +6752,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "roast-german-malai-pastry",
+    "title": "Roast German Malai Pastry",
+    "tags": [
+      "dessert",
+      "german",
+      "gluten-free",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
