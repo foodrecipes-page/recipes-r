@@ -1,0 +1,82 @@
+{
+  "title": "Rich Rustic Zanzibari Potato Emulsion",
+  "description": "A romantic Malaysian dish featuring a creamy potato emulsion made with vegetable stock cube and an egg-free-friendly base.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": 4
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1"
+    },
+    {
+      "name": "cream of mushroom soup base",
+      "amount": "200 ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50 ml"
+    },
+    {
+      "name": "milk",
+      "amount": "50 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and cube the potatoes into small pieces.",
+    "Add the cubed potatoes to a pot with water, cover and bring to a boil. Reduce heat and simmer until tender.",
+    "Drain the cooked potatoes, reserving about 200 ml of cooking liquid.",
+    "In a blender or food processor, combine reserved cooking liquid, vegetable stock cube powder, cream of mushroom soup base, heavy cream, milk, salt, and black pepper. Blend until smooth and creamy.",
+    "Pour the blended mixture into a preheated cedar plank, spreading evenly over the surface.",
+    "Bake at 180°C (350°F) for 20-25 minutes or until lightly golden on top.",
+    "Serve hot as a side dish or with grilled meats and vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "egg-free",
+    "potato-emulsion",
+    "rustic",
+    "zanzibari"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "rich-rustic-zanzibari-potato-emulsion",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-rustic-zanzibari-potato-emulsion",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T16:33:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Potato",
+    "descriptor": "Rustic Rich",
+    "dishForm": "Emulsion"
+  }
+}
