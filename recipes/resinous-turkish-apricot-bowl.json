@@ -1,0 +1,63 @@
+{
+  "title": "resinous turkish apricot bowl",
+  "description": "post-workout vegetarian dish featuring apricot jam and stone-bowl-dolsot",
+  "cuisine": "turkish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apricot jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stone-ground bulgur",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "heat the stone-bowl-dolsot over medium heat for 2 minutes.",
+    "add 1 tablespoon of apricot jam to the dolsot and spread evenly.",
+    "add 1/2 cup of bulgur to the dolsot and stir to combine.",
+    "cook for an additional 1-2 minutes, until the bulgur starts to crisp.",
+    "remove from heat and top with remaining 1 tablespoon of apricot jam.",
+    "serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "high-carb",
+    "one-pan",
+    "post-workout",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "resinous-turkish-apricot-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-turkish-apricot-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:34:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "apricot jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "apricot",
+    "descriptor": "resinous",
+    "dishForm": "bowl"
+  }
+}
