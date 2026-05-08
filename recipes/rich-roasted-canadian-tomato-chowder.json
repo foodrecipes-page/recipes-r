@@ -1,0 +1,106 @@
+{
+  "title": "Rich Roasted Canadian Tomato Chowder",
+  "description": "A briny and silky Canadian dish featuring roasted tomatoes and a macrobiotic-friendly twist, perfect for midnight cravings. This chowder is made with fresh tomato juice and a blend of aromatic spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomato juice",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "3 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the fresh tomatoes in half and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the tomatoes and sprinkle with sea salt and black pepper.",
+    "Roast the tomatoes in the oven for 20 minutes, or until they are tender and lightly caramelized.",
+    "Remove the tomatoes from the oven and let them cool slightly.",
+    "Peel the skin off the tomatoes and puree them in a blender or food processor until smooth.",
+    "In a large pot, combine the roasted tomato puree, canned tomato juice, sliced onion, minced garlic, dried dill weed, and smoked paprika.",
+    "Bring the mixture to a simmer over medium heat and let cook for 15 minutes, or until the flavors have melded together and the onion is tender.",
+    "Stir in the chopped fresh parsley and season the chowder with additional sea salt and black pepper if needed.",
+    "Serve the chowder hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "macrobiotic-friendly",
+    "one-pot",
+    "roasted-vegetables",
+    "tomato-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "rich-roasted-canadian-tomato-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-canadian-tomato-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:54:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "tomato juice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tomato",
+    "descriptor": "rich roasted",
+    "dishForm": "Chowder"
+  }
+}
