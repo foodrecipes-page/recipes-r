@@ -1,0 +1,106 @@
+{
+  "title": "Revitalizing Roasted Japanese Lemon Kushikatsu",
+  "description": "A citrusy and springy Japanese dish featuring lemon, perfect for a hangover cure, made with Buddhist temple friendly ingredients in a kushikatsu form",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese lemons",
+      "amount": "4",
+      "notes": "or regular lemons if Japanese lemons are not available"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, sake, mirin, sugar, and salt.",
+    "Add the water to the bowl and mix until a smooth batter forms.",
+    "Cut the Japanese lemons into 1 inch pieces and dip each piece into the batter, then roll in panko breadcrumbs to coat.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the lemon pieces in batches until golden brown, about 2-3 minutes per batch.",
+    "Remove the fried lemon pieces from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In a small bowl, whisk together sesame oil and soy sauce for the dipping sauce.",
+    "Serve the kushikatsu hot with the dipping sauce and garnished with chopped scallions.",
+    "Roast the kushikatsu in the oven for an additional 5 minutes to give it a char-grill flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-based",
+    "japanese-food",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "revitalizing-roasted-japanese-lemon-kushikatsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/revitalizing-roasted-japanese-lemon-kushikatsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:04:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "lemon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lemon",
+    "descriptor": "Revitalizing Roasted",
+    "dishForm": "Kushikatsu"
+  }
+}
