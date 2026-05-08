@@ -1,0 +1,81 @@
+{
+  "title": "Rich Silky Norwegian Sardines Poke",
+  "description": "A creamy, lacto-vegetarian-friendly Norwegian dish featuring silken mustard and sardines that can be prepared in under 30 minutes.",
+  "cuisine": "norwegian",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 can (120g)"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tablespoon (15g)"
+    },
+    {
+      "name": "mustard (dijon or whole-grain)",
+      "amount": "1 tablespoon (15g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon (15g)"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon (5g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Drain liquid from the sardines and place them in a small bowl.",
+    "Add the sour cream, mustard, lemon juice, and chopped fresh dill to the bowl with the sardines.",
+    "Mix gently until the ingredients are well combined.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 10 minutes to allow the flavors to meld.",
+    "Just before serving, use a small cookie scoop or your hands to shape the mixture into small nigiri shapes.",
+    "Serve the sardines poke immediately, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-servings",
+    "lacto-vegetarian",
+    "nordic",
+    "poke",
+    "sardines",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "rich-silky-norwegian-sardines-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-norwegian-sardines-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sardines",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sardines",
+    "descriptor": "Rich silky",
+    "dishForm": "Poke"
+  }
+}
