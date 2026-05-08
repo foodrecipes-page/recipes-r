@@ -1,0 +1,106 @@
+{
+  "title": "Rustic Irish Pork Chops Skillet",
+  "description": "A tangy and chewy Irish dish featuring marinated pork chops, this recipe is sure to evoke nostalgic feelings. It is made with ayurvedic-sattvic-friendly ingredients and served on a talavera plate.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 1-inch thick chops",
+      "notes": "boneless"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large onion, sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large carrots, peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large potatoes, peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple cider vinegar, honey, thyme, garlic powder, salt, and black pepper to make the marinade.",
+    "Add the pork chops to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Heat 1 tablespoon of olive oil in a large talavera plate or oven-safe skillet over medium-high heat.",
+    "Remove the pork chops from the marinade and cook for 2-3 minutes per side, or until browned.",
+    "Transfer the pork chops to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil and saute the sliced onions for 5 minutes, or until they start to caramelize.",
+    "Add the sliced carrots and cubed potatoes to the skillet and cook for an additional 5 minutes, stirring occasionally.",
+    "Return the pork chops to the skillet and transfer to the oven.",
+    "Bake at 375 degrees Fahrenheit for 20-25 minutes, or until the pork chops reach an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork chops rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "irish-cuisine",
+    "one-pan",
+    "pork-chops",
+    "rustic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rustic-irish-pork-chops-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-irish-pork-chops-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:31:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "pork chops",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork chops",
+    "descriptor": "Rustic Tangy",
+    "dishForm": "Skillet"
+  }
+}
