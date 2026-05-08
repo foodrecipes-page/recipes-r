@@ -1,0 +1,120 @@
+{
+  "title": "Rich Smoky Greek Feta Gratin",
+  "description": "A yeasty, silky Greek dish featuring white vinegar and a satisfying smokiness, perfect for a midnight craving.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek feta cheese",
+      "amount": "8 ounces",
+      "notes": "crumbling recommended"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a medium bowl, whisk together flour, garlic powder, onion powder, black pepper, and salt.",
+    "Add the feta cheese, thyme, and Greek yogurt to the bowl and mix until well combined.",
+    "Add the olive oil and honey to the bowl and mix until the cheese is coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Dot the top of the mixture with butter.",
+    "Broil the mixture for 5-7 minutes, or until the top is golden brown and the cheese is melted.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Drizzle the white vinegar over the top of the gratin before serving.",
+    "Serve warm, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "macrobiotic-friendly",
+    "midnight-craving",
+    "one-pan",
+    "silky",
+    "smoky",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 14,
+    "fat": 18
+  },
+  "slug": "rich-smoky-greek-feta-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-greek-feta-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:14:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "white vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Gratin"
+  }
+}

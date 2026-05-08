@@ -1,0 +1,100 @@
+{
+  "title": "Rich Mexican Chicken Enchiladas",
+  "description": "A rich and flavorful Oaxacan dish featuring whole wheat tortillas and chicken in a spicy tomato sauce, perfect for a diabetic-friendly dinner option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "8",
+      "notes": "6 inches in diameter"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 ounces",
+      "notes": "no salt added"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the cumin and paprika to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked chicken and crushed tomatoes.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the chicken and tomato mixture onto the center of the tortilla.",
+    "Roll the tortilla up and place seam-side down in a baking dish, repeat with the remaining tortillas and filling.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the tortillas are lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "mexican-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "rich-mexican-chicken-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-mexican-chicken-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:14:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "whole wheat",
+    "diet": "diabetic-friendly",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Bouncy",
+    "dishForm": "Enchiladas"
+  }
+}
