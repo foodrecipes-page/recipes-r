@@ -1,0 +1,122 @@
+{
+  "title": "Roasted American Broccoli Bake",
+  "description": "Umami-rich, crisp American dish featuring broccoli, fermented jang, and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 bunches",
+      "notes": "trims, crowns intact"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "2 tbsp",
+      "notes": "spicy Korean chili paste"
+    },
+    {
+      "name": "brown rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "sprinkle"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp",
+      "notes": "for oiling pan"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "optional, rich extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425° F.",
+    "Trim broccoli crowns, cut into florets.",
+    "Mix fermented jang, brown rice flour, and melted butter in a small bowl.",
+    "Add minced garlic, sprinkle of nutritional yeast, salt, and black pepper to the bowl.",
+    "Stir sesame seeds into the mixture.",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "Add broccoli florets, leaving space between each piece.",
+    "Pour the fermented jang mixture over the broccoli.",
+    "Add water as needed to prevent over-drying.",
+    "Bake for 25 minutes, shaking pan halfway.",
+    "If desired, add coconut milk for creamy topping.",
+    "Serve hot, garnished with additional sesame seeds.",
+    "Optional: top with sliced green onions or crispy tempeh for added texture and flavor.",
+    "Note: This recipe can be made with other cruciferous vegetables like cauliflower or Brussels sprouts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "roasted-american-broccoli-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-broccoli-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "broccoli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Roasted",
+    "dishForm": "Bake"
+  }
+}
