@@ -1,0 +1,98 @@
+{
+  "title": "Rich Savory Canadian Lentil Stew",
+  "description": "A hearty and flavorful stew made with fermented lentils, malai, and a blend of spices, perfect for a weeknight dinner. This shojin-friendly dish is steam-cooked to perfection.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "fermented overnight"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Rinse the fermented lentils and drain well.",
+    "In a large pot, saute the onion, garlic, carrots, and celery in a little water until tender.",
+    "Add the malai, vegetable broth, thyme, and bay leaves to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and steam for 30 minutes.",
+    "Add the lentils to the pot and continue to steam for another 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze any leftovers for up to 5 days.",
+    "Reheat the stew gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "lentil-stew",
+    "one-pot",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rich-savory-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:55:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "malai",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich Savory",
+    "dishForm": "Stew"
+  }
+}
