@@ -1,0 +1,100 @@
+{
+  "title": "Rich Grassy Spanish Cheese Lasagna",
+  "description": "A comforting, cheese-pull Spanish dish featuring chopped onion and double-rise-bread, perfect for a sick day, made with ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, chopped spinach, and shredded manchego cheese.",
+    "In a separate bowl, combine the cubed double-rise-bread and chopped basil.",
+    "In a 9x13 inch baking dish, create a layer of tomato sauce.",
+    "Add a layer of the bread and basil mixture on top of the sauce.",
+    "Add a layer of the cheese and spinach mixture on top of the bread.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "sick-day",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-grassy-spanish-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-grassy-spanish-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chopped onion",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Grassy",
+    "dishForm": "Lasagna"
+  }
+}
