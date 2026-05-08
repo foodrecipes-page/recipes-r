@@ -1,0 +1,110 @@
+{
+  "title": "Rich Red Ethiopian Fish Stew",
+  "description": "A cultured and gooey pescatarian-friendly Ethiopian dish featuring red chilli, this stew is a quick fix for a weeknight dinner, grilled to perfection in a Dutch oven.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red chilli peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Season the red snapper fillets with salt and black pepper.",
+    "Grill the red snapper fillets for 2 minutes on each side, then set aside.",
+    "Heat the vegetable oil in a Dutch oven over medium heat.",
+    "Add the diced onion to the Dutch oven and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the Dutch oven and cook for 1 minute.",
+    "Add the diced red chilli peppers to the Dutch oven and cook for 1 minute.",
+    "Add the berbere spice, fish stock, and tomato paste to the Dutch oven, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 10 minutes.",
+    "Add the grilled red snapper fillets to the Dutch oven and cook for an additional 2 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "rich-red-ethiopian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-red-ethiopian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "red chilli",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "rich red",
+    "dishForm": "Stew"
+  }
+}
