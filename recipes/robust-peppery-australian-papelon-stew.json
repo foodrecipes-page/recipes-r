@@ -1,0 +1,101 @@
+{
+  "title": "Robust Peppery Australian Papelon Stew",
+  "description": "A hearty and flavorful pescatarian stew featuring papelon, perfect for a family dinner. This kid-friendly dish is made with namul-blanch-seasoned ingredients and cooked to perfection in a Dutch oven.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4 fillets",
+      "notes": "any white fish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "black"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the papelon, fish fillets, peppercorns, and salt, and stir to combine.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the namul and stir to combine.",
+    "Continue to simmer for an additional 10 minutes or until the fish is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "dutch-oven",
+    "hearty-stew",
+    "kid-friendly",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "robust-peppery-australian-papelon-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-peppery-australian-papelon-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "papelon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "papelon",
+    "descriptor": "robust peppery",
+    "dishForm": "Stew"
+  }
+}

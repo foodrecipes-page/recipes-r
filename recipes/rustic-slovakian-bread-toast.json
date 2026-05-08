@@ -1,0 +1,98 @@
+{
+  "title": "Rustic Slovakian Bread Toast",
+  "description": "A light and nostalgic Slovakian dish featuring stale bread, beurre-monte, and anti-inflammatory friendly ingredients, with a rich umami flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "4 slices",
+      "notes": "day old bread"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the stale bread into 1 inch thick slices and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with minced garlic.",
+    "Bake the bread in the oven for 10 minutes, or until lightly toasted.",
+    "While the bread is baking, mix the beurre-monte, turmeric, paprika, salt, and black pepper in a small bowl.",
+    "Remove the bread from the oven and brush the beurre-monte mixture evenly over each slice.",
+    "Return the bread to the oven and bake for an additional 2 minutes, or until the beurre-monte is melted and bubbly.",
+    "Remove the bread from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the rustic Slovakian bread toast warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rustic-slovakian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-slovakian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "stale bread",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "Rustic",
+    "dishForm": "Toast"
+  }
+}
