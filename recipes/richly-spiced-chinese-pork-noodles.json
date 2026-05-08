@@ -1,0 +1,94 @@
+{
+  "title": "Richly Spiced Chinese Pork Noodles",
+  "description": "A floral and indulgent Chinese dish featuring garam masala and pickle, made with whole30-friendly ingredients, this recipe combines the richness of pork and noodles with a cheese-pull texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the garam masala and cook for 1 minute, stirring constantly.",
+    "Add the chopped pickle and cook for 1 minute, stirring constantly.",
+    "Add the coconut aminos and stir to combine.",
+    "Add the zucchini noodles and cook until they start to soften, about 3 minutes.",
+    "Season with salt to taste.",
+    "Transfer the noodles to a serving dish and top with green onions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and pickle if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "richly-spiced-chinese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-chinese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:08:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "garam masala",
+    "diet": "whole30",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Richly spiced",
+    "dishForm": "Noodles"
+  }
+}

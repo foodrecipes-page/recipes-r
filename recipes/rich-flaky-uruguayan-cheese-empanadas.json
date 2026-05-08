@@ -1,0 +1,92 @@
+{
+  "title": "Rich Flaky Uruguayan Cheese Empanadas",
+  "description": "A salty, velvety Uruguayan dish featuring sazon and a lamination-puff pastry, perfect for a lazy Sunday, and ovo-vegetarian-friendly. This recipe yields a delicious and flaky empanada filled with melted cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as queso fresco or mozzarella"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt, then add cold butter and use a pastry blender or fingers to work it into the flour until it resembles coarse crumbs.",
+    "Gradually add water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of grated cheese in the center of each dough circle, then sprinkle with sazon seasoning.",
+    "Fold the dough in half over the filling, pressing edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with an egg wash.",
+    "Bake the empanadas in a preheated oven at 375 degrees for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "flaky-pastry",
+    "latin-american",
+    "lazy-sunday",
+    "ovo-vegetarian",
+    "sazon-seasoning"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "rich-flaky-uruguayan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-uruguayan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:08:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sazon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Empanadas"
+  }
+}

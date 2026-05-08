@@ -1,0 +1,91 @@
+{
+  "title": "Roasted, Aromatic Slovakian Grape Tomatoes Bowl",
+  "description": "A cozy Slovakian dish featuring roasted, aerated grape tomatoes on a bed of mirepoix, perfect for a weeknight dinner",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs grape tomatoes, halved",
+      "amount": "2 lbs",
+      "notes": "any color"
+    },
+    {
+      "name": "1 medium onion, chopped",
+      "amount": "1",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "2 medium carrots, peeled, chopped",
+      "amount": "2",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "2 stalks celery, chopped",
+      "amount": "2",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a good quality one"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss the grape tomatoes, onion, garlic, carrots, and celery with olive oil, thyme, salt, and pepper until they are evenly coated.",
+    "Spread the mixture on the bottom and sides of a 12-inch terracotta dish, leaving a little space at the top.",
+    "Roast in the preheated oven for 25 minutes or until the vegetables are tender and lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "slovakian",
+    "summer",
+    "tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-aromatic-slovakian-grape-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-aromatic-slovakian-grape-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:08:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Grape Tomatoes",
+    "descriptor": "Roasted, Aromatic",
+    "dishForm": "Bowl"
+  }
+}
