@@ -1,0 +1,96 @@
+{
+  "title": "Robustly Garlicky French Rye Souffle",
+  "description": "A traditional Normandy dish with a twist, this souffle combines the earthy flavor of rye with the pungency of garlic, perfect for a comforting meal on a sick day. The cedar plank adds a unique smoky flavor to the dish.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "1 1/2 cups",
+      "notes": "dark rye preferred"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "separated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the melted butter, minced garlic, and heavy cream, and cook over low heat until the garlic is fragrant.",
+    "In a large bowl, whisk together the rye flour, shredded gruyere cheese, salt, and black pepper.",
+    "In a separate bowl, whisk the egg yolks until they are pale and thick, then add the cooked garlic mixture and whisk until combined.",
+    "Add the egg yolk mixture to the rye flour mixture and stir until just combined.",
+    "In a separate bowl, beat the egg whites until they are stiff and hold their shape, then gently fold them into the rye flour mixture.",
+    "Spoon the mixture onto a cedar plank lined with parchment paper, shaping it into a round souffle.",
+    "Bake the souffle for 35 minutes, or until it is puffed and golden brown.",
+    "Remove the souffle from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank-cooking",
+    "comfort-food",
+    "french-cuisine",
+    "garlic-lovers",
+    "rye-bread",
+    "souffle-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "robustly-garlicky-french-rye-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-garlicky-french-rye-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:25:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "rye",
+    "diet": "raw",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "rye",
+    "descriptor": "Robustly Garlicky",
+    "dishForm": "Rye Souffle"
+  }
+}
