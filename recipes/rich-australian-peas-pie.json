@@ -1,0 +1,95 @@
+{
+  "title": "Rich Australian Peas Pie",
+  "description": "A comforting lacto-vegetarian dish featuring frozen peas in a buttery and flaky crust, poached to perfection and served in a banana leaf vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and pepper.",
+    "Add the shortening and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the milk, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Spoon the thawed peas onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the dough with the beaten egg and fold the other half of the dough over the peas to form a triangle or square shape.",
+    "Place the pie on a banana leaf and brush the top with the melted butter.",
+    "Poach the pie in boiling water for 10 minutes, then bake in the preheated oven for 20 minutes, or until the crust is golden brown.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "flaky-crust",
+    "lacto-vegetarian",
+    "peas",
+    "poached-pie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "rich-australian-peas-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-australian-peas-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "frozen peas",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peas",
+    "descriptor": "rich buttery",
+    "dishForm": "Pie"
+  }
+}
