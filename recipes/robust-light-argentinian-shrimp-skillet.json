@@ -1,0 +1,101 @@
+{
+  "title": "Robust Light Argentinian Shrimp Skillet",
+  "description": "A briny and light one-pot Argentinian dish featuring basil leaves, this recipe is Whole30-friendly and perfect for a quick dinner. It combines succulent shrimp with fresh flavors and a hint of spice.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until they are pink and fully cooked.",
+    "Remove the shrimp from the skillet and set them aside on a plate.",
+    "Add the red pepper flakes, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the lemon juice and chicken broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the pan.",
+    "Return the shrimp to the skillet and stir to combine with the sauce.",
+    "Reduce the heat to medium-low and simmer the mixture for 2 minutes until the sauce has thickened slightly.",
+    "Stir in the chopped basil leaves and cook for an additional 30 seconds until wilted.",
+    "Serve the shrimp and sauce hot over your choice of side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "briny-flavors",
+    "gluten-free",
+    "one-pan",
+    "quick-dinner",
+    "shrimp-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "robust-light-argentinian-shrimp-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-light-argentinian-shrimp-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "basil leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Robust Light",
+    "dishForm": "Skillet"
+  }
+}
