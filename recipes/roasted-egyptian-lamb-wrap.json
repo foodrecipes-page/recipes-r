@@ -1,0 +1,95 @@
+{
+  "title": "Roasted Egyptian Lamb Wrap",
+  "description": "A charred and fluffy Egyptian dish featuring vinegar and leaf wrap steam, made with whole30 friendly ingredients. This nostalgic recipe brings the flavors of Egypt to your table.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together olive oil, apple cider vinegar, garlic, salt, black pepper, and paprika.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder on a baking sheet and roast in the oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the collard green leaves by blanching them in boiling water for 30 seconds.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing it thinly.",
+    "To assemble the wraps, place a few slices of the lamb onto a collard green leaf, and serve immediately.",
+    "Use the leftover lamb and juices to make additional wraps, and store them in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "lunch",
+    "middle-eastern",
+    "paleo",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "roasted-egyptian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-egyptian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:11:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "roasted",
+    "dishForm": "Wrap"
+  }
+}
