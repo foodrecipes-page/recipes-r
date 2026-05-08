@@ -1,0 +1,87 @@
+{
+  "title": "Rich Moroccan Almond Amlou",
+  "description": "A traditional Moroccan dessert made with almonds, honey, and unwaxed lemon, featuring a winey and crumbly texture, this recipe is a nostalgic treat for the senses. It is also gluten-free-friendly and incorporates kombu-cold-extract for added depth.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unwaxed lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "argan oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, honey, unwaxed lemon zest, and kombu-cold-extract until well combined.",
+    "Add the argan oil, orange blossom water, and sea salt to the bowl and mix until a crumbly dough forms.",
+    "Transfer the dough to a parchment-lined baking sheet and shape into a rectangular form.",
+    "Bake for 20 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely on the baking sheet.",
+    "Once cool, break the amlou into small pieces and serve.",
+    "Store any leftovers in an airtight container at room temperature for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "crumbly",
+    "gluten-free",
+    "honey-sweetened",
+    "moroccan-dessert",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "rich-moroccan-almond-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-moroccan-almond-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:14:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Rich Crunchy",
+    "dishForm": "Amlou"
+  }
+}
