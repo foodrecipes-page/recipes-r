@@ -1,0 +1,95 @@
+{
+  "title": "Rich Air Fried Peruvian Chicken Skewers",
+  "description": "A keto-friendly Peruvian dish featuring gelatine leaves and air-fried chicken, perfect for adventurous eaters looking for a light and fatty meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "2 sheets",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, paprika, salt, and pepper.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Remove the gelatine leaves from the water and wrap each skewer with a leaf, securing with a toothpick if needed.",
+    "Place the skewers in the air fryer basket, leaving some space between each skewer.",
+    "Cook the skewers in the air fryer for 12 minutes, shaking the basket halfway through.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "rich-air-fried-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-air-fried-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich air fried",
+    "dishForm": "Skewers"
+  }
+}
