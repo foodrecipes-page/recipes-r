@@ -1,0 +1,96 @@
+{
+  "title": "Robust Russian Chicken Kebabs",
+  "description": "A winey and pillowy Russian dish featuring chicken drumsticks, perfect for a energizing meal, wrapped in a banana leaf vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and marinate for at least 30 minutes.",
+    " Grill the chicken for 20-25 minutes, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Meanwhile, slice the onion and mushrooms, and grill them for 5-7 minutes, or until they are tender.",
+    "Wrap each chicken drumstick in a banana leaf, along with some grilled onion and mushrooms.",
+    "Serve the kebabs hot, garnished with fresh herbs if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Discard the banana leaves before eating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "robust-russian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-russian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Robust Energizing",
+    "dishForm": "Kebabs"
+  }
+}
