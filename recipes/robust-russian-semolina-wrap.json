@@ -1,0 +1,102 @@
+{
+  "title": "Robust Russian Semolina Wrap",
+  "description": "A peppery and chewy Russian dish featuring semolina rimacinata, ssam wrap, and ayurvedic sattvic friendly ingredients, perfect for a weeknight dinner",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina rimacinata",
+      "amount": "1 cup",
+      "notes": "also known as semolina flour"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "large lettuce leaves or napa cabbage leaves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "unrefined"
+    },
+    {
+      "name": "ghee or vegan butter",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine semolina rimacinata, black pepper, and salt, and mix well.",
+    "Gradually add 1/2 cup of warm water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Brush both sides of each circle with ghee or vegan butter.",
+    "Heat a large non-stick skillet over medium heat and cook each circle for 1-2 minutes on each side, until lightly browned.",
+    "To assemble the wrap, place a cooked semolina circle on a flat surface, then add a piece of ssam wrap on top.",
+    "Garnish with chopped scallions, chopped fresh dill, and a squeeze of lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "russian",
+    "semolina",
+    "ssam-wrap",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "robust-russian-semolina-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-russian-semolina-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:41:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "semolina",
+    "descriptor": "Robust Chewy",
+    "dishForm": "Wrap"
+  }
+}
