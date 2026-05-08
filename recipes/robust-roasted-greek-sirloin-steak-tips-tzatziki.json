@@ -1,0 +1,99 @@
+{
+  "title": "Robust Roasted Greek Sirloin Steak Tips Tzatziki",
+  "description": "A fresh and crispy solo dinner Greek dish featuring sirloin steak tips, confit tomato, and tzatziki sauce, served on a lazy Susan spinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "confit style"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, and pepper, then add the sirloin steak tips and toss to coat.",
+    "Spread the steak tips on a baking sheet and roast in the oven for 15 minutes, or until browned.",
+    "While the steak is cooking, prepare the tzatziki sauce by combining the yogurt, cucumber, garlic, and dill in a bowl.",
+    "Stir the tzatziki sauce well and refrigerate until ready to serve.",
+    "To prepare the confit tomatoes, cut them in half and place on a baking sheet lined with parchment paper.",
+    "Drizzle the tomatoes with olive oil and roast in the oven for 20 minutes, or until tender.",
+    "To serve, place the roasted steak tips on a lazy Susan spinner, top with confit tomatoes and a dollop of tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "jain-friendly",
+    "lazy-susan",
+    "solo-dinner",
+    "steak-recipes",
+    "tzatziki-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "robust-roasted-greek-sirloin-steak-tips-tzatziki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-greek-sirloin-steak-tips-tzatziki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Robust Roasted",
+    "dishForm": "Tzatziki"
+  }
+}

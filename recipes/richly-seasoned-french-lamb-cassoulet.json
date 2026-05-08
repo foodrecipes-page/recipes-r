@@ -1,0 +1,102 @@
+{
+  "title": "Richly Seasoned French Lamb Cassoulet",
+  "description": "A hearty and flavorful French dish featuring lamb, beans, and a blend of spices, cooked to perfection in a tandoor clay pot. This macrobiotic friendly meal is perfect for a dinner gathering.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 300 degrees Fahrenheit.",
+    "Brown the lamb pieces in olive oil over medium high heat, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the soaked and drained white beans, browned lamb, tomato paste, thyme, paprika, salt, and pepper to the pot.",
+    "Stir to combine, then cover the pot with a lid.",
+    "Transfer the pot to the preheated tandoor clay pot and cook for 2 1/2 hours.",
+    "Remove the pot from the heat and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot-cooking",
+    "french-cuisine",
+    "hearty-stews",
+    "lamb-recipes",
+    "macrobiotic-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "richly-seasoned-french-lamb-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-seasoned-french-lamb-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "seasoning",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Seasoned",
+    "dishForm": "Cassoulet"
+  }
+}
