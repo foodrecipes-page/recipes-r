@@ -1,0 +1,105 @@
+{
+  "title": "rich italian nectarine puff pastry tart",
+  "description": "a rich, crumbly, and quick-fix italian dish featuring nectarines, lamination-puff, and a fodmap-friendly take on the classic vitello-tonnato recipe.",
+  "cuisine": "italian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 sheet of puff pastry, thawed",
+      "amount": "1",
+      "notes": "frozen puff pastry can be used if thawed in the refrigerator overnight"
+    },
+    {
+      "name": "2 large nectarines",
+      "amount": "2",
+      "notes": "nectarines should be ripe but firm"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "fodmap-friendly garlic preparation: cook garlic lightly before adding to the tart"
+    },
+    {
+      "name": "1/4 cup chopped fresh basil",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1 cup ricotta cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "roll out the puff pastry to a thickness of 1/8 inch (3 mm) and place on a baking sheet lined with parchment paper.",
+    "in a small bowl, mix together the granulated sugar, garlic, basil, and ricotta cheese. Set aside.",
+    "slice the nectarines into 1/4 inch (6 mm) thick wedges and arrange them on top of the puff pastry in a spiral pattern, leaving a 1 inch (2.5 cm) border around the edges.",
+    "sprinkle the sugar, garlic, basil, and ricotta cheese mixture evenly over the nectarines.",
+    "fold the edges of the puff pastry up over the nectarines, pressing gently to seal.",
+    "brush the egg wash over the pastry to give it a golden glaze.",
+    "bake the tart for 25-30 minutes, or until the pastry is golden brown and the nectarines are tender.",
+    "remove the tart from the oven and let it cool for 10-15 minutes before slicing and serving.",
+    "serve warm, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "italian",
+    "nectarines",
+    "puff-pastry",
+    "ricotta-cheese",
+    "vitello-tonnato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "rich-italian-nectarines-puff-pastry-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-nectarines-puff-pastry-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:09:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "nectarines",
+    "diet": "fodmap",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Rich",
+    "dishForm": "Puff Pastry Tart"
+  }
+}
