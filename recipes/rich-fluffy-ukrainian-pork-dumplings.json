@@ -1,0 +1,101 @@
+{
+  "title": "Rich Fluffy Ukrainian Pork Dumplings",
+  "description": "Earthly and festive Ukrainian dish featuring pork and spices, perfect for a special occasion, and can be made keto-friendly by using a low-carb wrapper",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8-10 pieces",
+      "notes": "low-carb"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, chopped onion, minced garlic, sliced mushroom, jerk seasoning, salt, and black pepper, and mix well with your hands until just combined.",
+    "Wrap each dumpling in a low-carb ssam wrap, making sure to seal the edges tightly.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops of the dumplings with the beaten egg for a golden glaze.",
+    "Bake the dumplings in the preheated oven for 18 minutes, or until cooked through.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired.",
+    "To make the dish more festive, serve with a side of traditional Ukrainian sauces or dips.",
+    "Experiment with different types of low-carb wrappers to find the one that works best for you."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "festive-dishes",
+    "keto-friendly",
+    "low-carb",
+    "pork-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "rich-fluffy-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "jerk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Fluffy",
+    "dishForm": "Dumplings"
+  }
+}
