@@ -1,0 +1,104 @@
+{
+  "title": "Romantic Crispy Thai Chicken Satay",
+  "description": "A herbal and crispy Thai dish featuring malai and coconut cream, perfect for a romantic evening, with a Mediterranean twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "malai",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, malai, fish sauce, lime juice, brown sugar, coriander, cumin, salt, and pepper.",
+    "Add the chicken skewers to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in the oven for 20 minutes.",
+    "While the chicken is cooking, heat the peanut oil in a large skillet over medium-high heat.",
+    "Once the chicken is done, add it to the skillet and cook for an additional 5 minutes, until crispy.",
+    "Serve the chicken satay hot, garnished with fresh herbs and a side of coconut cream sauce.",
+    "To make the coconut cream sauce, simply whisk together the remaining marinade and cook in the skillet over low heat until heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "crispy-chicken",
+    "malai",
+    "mediterranean-friendly",
+    "romantic-dinner",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "romantic-crispy-thai-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-crispy-thai-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:31:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "malai",
+    "diet": "mediterranean",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Romantic crispy",
+    "dishForm": "Satay"
+  }
+}
