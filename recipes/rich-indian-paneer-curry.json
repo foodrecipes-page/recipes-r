@@ -1,0 +1,103 @@
+{
+  "title": "Rich Indian Paneer Curry",
+  "description": "A creamy and aromatic lacto-vegetarian curry featuring marinated paneer, fennel seeds, and a hint of mustard, perfect for a date night dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate the paneer cubes in a mixture of yogurt, lemon juice, and a pinch of salt for at least 30 minutes.",
+    "Heat the ghee or oil in a large pan over medium heat and add the fennel seeds.",
+    "Let the seeds sizzle for a few seconds, then add the cumin, coriander, turmeric, and chili powder.",
+    "Stir the spices for 1-2 minutes, until fragrant.",
+    "Add the marinated paneer to the pan and cook until it is lightly browned on all sides.",
+    "Reduce the heat to low and add 1 cup of water to the pan, stirring to scrape up any browned bits.",
+    "Let the curry simmer for 10-15 minutes, until the sauce has thickened and the paneer is fully coated.",
+    "Season the curry with salt to taste, then garnish with chopped cilantro.",
+    "Serve the curry hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "indian-cuisine",
+    "lacto-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-indian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:16:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "fennel seeds",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Rich Silky",
+    "dishForm": "Curry"
+  }
+}
