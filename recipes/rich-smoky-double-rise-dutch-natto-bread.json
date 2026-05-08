@@ -1,0 +1,84 @@
+{
+  "title": "Rich, Smoky Double-Rise Dutch Natto Bread",
+  "description": "A show-off Dutch dish featuring natto, double-rise-bread, low-calorie-friendly, served in a slate tile vessel.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "540g",
+      "notes": ""
+    },
+    {
+      "name": "instant natto",
+      "amount": "170g",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "20g",
+      "notes": "do not use rapid rise"
+    }
+  ],
+  "instructions": [
+    "Mix 540g all-purpose flour, 120g whole wheat flour, and 20g active dry yeast in a large bowl",
+    "Add 1g salt and mix until combined",
+    "Gradually add 350ml lukewarm water while mixing",
+    "Knead dough for 10 minutes until smooth",
+    "Place dough in a greased bowl, cover with plastic wrap, and refrigerate overnight",
+    "In the morning, punch down the dough and let it rest for 1 hour",
+    "Divide dough into 2 equal portions and shape into balls",
+    "Place balls onto a lightly floured surface and let rise for 1 hour",
+    "Preheat oven to 220C",
+    "Bake for 30-35 minutes or until golden brown",
+    "Remove from oven and let cool for 10 minutes",
+    "Mix 170g instant natto with 10ml water and 5g salt",
+    "Once bread is cool, slice in half lengthwise and spread natto mixture on the inside of the bread",
+    "Assemble the bread and serve in a slate tile vessel"
+  ],
+  "prepTimeMin": 350,
+  "cookTimeMin": 35,
+  "totalTimeMin": 385,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "dutch",
+    "low-calorie",
+    "natto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 26,
+    "carbs": 104,
+    "fat": 6
+  },
+  "slug": "rich-smoky-double-rise-dutch-natto-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-double-rise-dutch-natto-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "natto",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Natto",
+    "descriptor": "Rich, Smoky Double-Rise",
+    "dishForm": "Bread"
+  }
+}

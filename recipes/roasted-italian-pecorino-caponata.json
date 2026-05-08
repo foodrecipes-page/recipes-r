@@ -1,0 +1,65 @@
+{
+  "title": "Roasted Italian Pecorino Caponata",
+  "description": "A lacto-vegetarian-friendly, Italian-inspired dish featuring roasted vegetables and crumbly pecorino cheese. Perfect for meal prep and enjoyed with crusty bread or in a stone bowl.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "Cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the eggplant, onion, bell pepper, and garlic with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 25 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the vegetables from the oven and stir in the Taleggio cheese until melted.",
+    "Stir in the Pecorino cheese until crumbly and well combined.",
+    "Season with basil and adjust the seasoning as needed.",
+    "Transfer the caponata to a stone bowl or serving dish and serve warm.",
+    "Cover and refrigerate for up to 3 days or freeze for up to 2 months for meal prep.",
+    "To serve, reheat the caponata in the microwave or oven until warmed through and crumbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-to-make",
+    "italian",
+    "lunch",
+    "mediterranean",
+    "roasted",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "roasted-italian-pecorino-caponata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-italian-pecorino-caponata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pecorino",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pecorino",
+    "descriptor": "Roasted",
+    "dishForm": "Caponata"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Rounded Tender Jamaican Dumplings",
+  "description": "Tender Jamaican dumplings made with plain flour and fermented to perfection, these dumplings are a show-off dish featuring a gluten-free friendly recipe.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "2 cups",
+      "notes": "gluten-free friendly"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the plain flour, cornstarch, salt, sugar, and active dry yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, use a spoon to drop small balls of the dough into the oil, making sure not to overcrowd the pan.",
+    "Fry the dumplings for 2-3 minutes on each side until they are golden brown and cooked through.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-food",
+    "deep-fried",
+    "fermented-food",
+    "gluten-free",
+    "jamaican-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rounded-tender-jamaican-dumplings-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rounded-tender-jamaican-dumplings-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:41:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "plain flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dumplings",
+    "descriptor": "Rounded tender",
+    "dishForm": "Dumplings"
+  }
+}
