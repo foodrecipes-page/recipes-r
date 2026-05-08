@@ -1,0 +1,97 @@
+{
+  "title": "Rich Vietnamese Bread Bake",
+  "description": "A rich and cozy Vietnamese dish featuring white bread mix, wood-fired-bake, and FODMAP-friendly ingredients, resulting in a bouncy-qq texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wood-fired-bake seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the white bread mix, eggs, coconut milk, granulated sugar, active dry yeast, and salt.",
+    "Mix the ingredients together until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Brush the melted unsalted butter on top of the loaf and sprinkle with sesame seeds.",
+    "Bake the loaf in the preheated wood-fired oven for 25 minutes.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 10 minutes.",
+    "Sprinkle the wood-fired-bake seasoning on top of the loaf before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "snack-ideas",
+    "vietnamese-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "rich-vietnamese-bread-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-vietnamese-bread-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "white bread mix",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "Rich Bouncy",
+    "dishForm": "Bake"
+  }
+}
