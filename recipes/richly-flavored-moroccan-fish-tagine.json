@@ -1,0 +1,100 @@
+{
+  "title": "Moroccan Fish Tagine",
+  "description": "A richly flavored Moroccan dish featuring hummus, confit tomato, and pescatarian friendly ingredients, cooked to perfection in a bamboo steamer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to medium heat.",
+    "In a large bowl, whisk together olive oil, garlic, moroccan spice blend, lemon juice, salt, and black pepper.",
+    "Add the cod fillets to the bowl and coat with the marinade.",
+    "Place the cod fillets in the bamboo steamer and cook for 8 minutes.",
+    "In a separate bowl, mix together hummus and confit tomato.",
+    "After the cod has cooked for 8 minutes, top each piece with a spoonful of the hummus and confit tomato mixture.",
+    "Continue cooking for an additional 2 minutes, until the fish is cooked through.",
+    "Serve the Moroccan fish tagine hot, garnished with chopped onion and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "healthy",
+    "moroccan-cuisine",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "richly-flavored-moroccan-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-moroccan-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:09:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hummus",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "Richly flavored",
+    "dishForm": "Tagine"
+  }
+}
