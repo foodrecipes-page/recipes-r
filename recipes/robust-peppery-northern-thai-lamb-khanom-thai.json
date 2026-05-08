@@ -1,0 +1,103 @@
+{
+  "title": "Robust Peppery Northern Thai Lamb Khanom Thai",
+  "description": "A peppery and tender lamb dish from Northern Thailand, made with a mortar and pestle and cooked on a tava griddle, perfect for a satvik friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Pound the black peppercorns, coriander seeds, and cumin seeds in a mortar and pestle until coarsely ground.",
+    "Add the sliced galangal and bruised lemon grass to the mortar and pestle and pound until well combined.",
+    "Heat the coconut oil in a tava griddle over medium heat.",
+    "Add the lamb pieces to the tava griddle and cook until browned on all sides.",
+    "Add the pounded spice mixture, fish sauce, and salt to the tava griddle and stir to combine.",
+    "Cook for an additional 5 minutes, stirring constantly, until the lamb is cooked through.",
+    "Stir in the fresh kaffir lime leaves and cook for 1 minute.",
+    "Serve the lamb hot, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "griddled",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "peppery",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "robust-peppery-northern-thai-lamb-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-peppery-northern-thai-lamb-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:22:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "lamb",
+    "diet": "satvik",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Peppery",
+    "dishForm": "Khanom Thai"
+  }
+}
