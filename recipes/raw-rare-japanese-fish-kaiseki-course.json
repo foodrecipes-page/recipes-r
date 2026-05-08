@@ -1,0 +1,75 @@
+{
+  "title": "Raw, Rare Japanese Fish Kaiseki Course",
+  "description": "A delicate and adventurous Japanese dish featuring sashimi-cut fish, served in a copper pot with anti-inflammatory-friendly ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sashimi-cut Japanese yellowtail",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Aekjeot",
+      "amount": "1 tsp",
+      "notes": "Korean fermented fish sauce"
+    }
+  ],
+  "instructions": [
+    "Prepare a copper pot by rinsing it with cold water and drying it with a clean towel.",
+    "Chill the sashimi-cut Japanese yellowtail in the refrigerator for at least 30 minutes before serving.",
+    "Slice the cucumber into thin rounds and set aside.",
+    "Just before serving, sprinkle the furikake and fish sauce over the yellowtail.",
+    "Drizzle aekjeot over the top and garnish with cucumber slices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "dinner-idea",
+    "japanese-cuisine",
+    "pescatarian",
+    "raw-fish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 5
+  },
+  "slug": "raw-rare-japanese-fish-kaiseki-course",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-rare-japanese-fish-kaiseki-course",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Raw, Rare",
+    "dishForm": "Kaiseki Course"
+  }
+}

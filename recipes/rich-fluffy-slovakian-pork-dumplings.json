@@ -1,0 +1,92 @@
+{
+  "title": "Rich Fluffy Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring fluffy pork dumplings with a hint of mustard and whole black peppercorns, perfect for a crowd. This halal-friendly recipe is a crowd-pleaser.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, flour, eggs, whole black peppercorns, mustard, and salt in a large mixing bowl.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Gradually add the chicken broth to the mixture, stirring with a fork until the dough comes together.",
+    "Knead the dough on a floured surface for about 5 minutes until smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Reduce the heat to a simmer and cook the dumplings for about 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve with melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "hearty",
+    "homemade",
+    "pork-dishes",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "rich-fluffy-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-fluffy-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:27:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "rich fluffy",
+    "dishForm": "Dumplings"
+  }
+}
