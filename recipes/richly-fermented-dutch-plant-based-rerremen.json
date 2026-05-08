@@ -1,0 +1,109 @@
+{
+  "title": "Richly Fermented Dutch Plant-Based Rerremen",
+  "description": "A hearty, fermented, plant-based dish from the Netherlands featuring crispy chilli flakes and crunchy deep-fried tofu, all wrapped up in a tender agave leaf.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, drained, cut into small cubes"
+    },
+    {
+      "name": "Fermentation mix",
+      "amount": "1 cup",
+      "notes": "combine equal parts brown rice flour, seaweed powder, and apple cider vinegar"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1/4 cup",
+      "notes": "crushed red chillies"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "fine, unrefined"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wrap each agave leaf in a sheet of parchment paper for easy cleanup.",
+    "Deep-fry the tofu cubes in hot oil until crispy and golden, about 3-4 minutes per side.",
+    "Remove the tofu from the oil and let it cool on a paper towel-lined plate.",
+    "In a blender or food processor, combine the fermentation mix, chilli flakes, garlic, ginger, soy sauce, and water. Blend until smooth.",
+    "Season the fermentation mix with salt to taste.",
+    "Place a piece of agave leaf on a flat surface and spoon a quarter of the fermentation mix onto one half of the leaf.",
+    "Top the fermentation mix with a few pieces of the deep-fried tofu.",
+    "Fold the agave leaf in half to enclose the filling, and secure with a toothpick if needed.",
+    "Repeat with the remaining ingredients to make 3 more Rerremen.",
+    "Place the Rerremen on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until the agave leaves are tender and the filling is heated through.",
+    "Serve the Rerremen hot, garnished with additional chilli flakes if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "richly-fermented-dutch-plant-based-rerremen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-fermented-dutch-plant-based-rerremen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:01:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chilli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "plant-based",
+    "descriptor": "Richly Fermented",
+    "dishForm": "Rerremen"
+  }
+}
