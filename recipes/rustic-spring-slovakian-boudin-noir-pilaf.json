@@ -1,0 +1,93 @@
+{
+  "title": "Rustic Spring Slovakian Boudin Noir Pilaf",
+  "description": "A light and earthy Slovakian dish featuring boudin noir and rest meat, perfect for spring, served in a bento box. This macrobiotic friendly meal is a great way to welcome the new season.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1/2 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed spring vegetables",
+      "amount": "2 cups",
+      "notes": "such as peas, carrots, and onions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced boudin noir and cook until browned, about 5 minutes.",
+    "Add the diced rest meat and cook until browned, about 5 minutes.",
+    "Add the mixed spring vegetables and cook until tender, about 5 minutes.",
+    "Add the cooked brown rice to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf to a bento box and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "macrobiotic",
+    "one-pan",
+    "slovakian-cuisine",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rustic-spring-slovakian-boudin-noir-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-spring-slovakian-boudin-noir-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "boudin-noir",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Rustic Spring",
+    "dishForm": "Pilaf"
+  }
+}
