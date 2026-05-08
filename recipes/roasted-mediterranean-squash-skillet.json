@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Mediterranean Squash Skillet",
+  "description": "A citrusy and crispy post-workout Mediterranean dish featuring roasted squash, perfect for a flexitarian diet. This skillet is filled with flavors of the Mediterranean and is easy to make.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the squash with 1 tablespoon of olive oil, salt, and pepper until coated.",
+    "Spread the squash on a baking sheet and roast for 20 minutes or until tender.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium-high heat.",
+    "Add the garlic and cook for 1 minute or until fragrant.",
+    "Add the chickpeas and cook for 2 minutes or until lightly browned.",
+    "Add the roasted squash, lemon juice, and feta cheese to the skillet and stir to combine.",
+    "Deglaze the skillet with a little water if needed, scraping up any browned bits from the bottom.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "healthy",
+    "mediterranean-diet",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "roasted-mediterranean-squash-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-mediterranean-squash-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:40:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "squash",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "squash",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Skillet"
+  }
+}

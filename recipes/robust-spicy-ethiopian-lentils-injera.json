@@ -1,0 +1,96 @@
+{
+  "title": "Robust Spicy Ethiopian Lentils Injera",
+  "description": "A spicy and springy Ethiopian dish featuring flaxseed and lentils, perfect for meal prep. This halal-friendly recipe is pressure-cooked to perfection and served with injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "In a blender, mix the flaxseed with 6 tablespoons of water to create a flaxseed gel.",
+    "Heat oil in a pressure cooker over medium heat and saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the berbere spice, tomato paste, and flaxseed gel to the pressure cooker and stir for 1 minute.",
+    "Add the lentils, vegetable broth, and salt to the pressure cooker and stir to combine.",
+    "Close the lid and pressure-cook for 20 minutes.",
+    "Let the pressure release naturally for 10 minutes.",
+    "Serve the lentils with injera and your choice of toppings.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "one-pot",
+    "pressure-cooker",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "robust-spicy-ethiopian-lentils-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spicy-ethiopian-lentils-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:40:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "flaxseed",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Injera"
+  }
+}
