@@ -1,0 +1,100 @@
+{
+  "title": "Rich Dense Korean Potatoes Patbingsu",
+  "description": "A charred, dense, one-pot Korean dish featuring new potatoes and high-protein ingredients, served in a patbingsu form. This dish is a unique twist on traditional Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "edamame",
+      "amount": "1 cup",
+      "notes": "shelled and cooked"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the diced potatoes and cook until they are golden brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the edamame, korean chili flakes, soy sauce, and brown sugar, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the potatoes are tender.",
+    "Stir in the shredded mozzarella cheese until melted and well combined.",
+    "Transfer the mixture to a serving dish and top with chopped green onions.",
+    "Serve hot, garnished with additional green onions and korean chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "high-protein",
+    "korean-cuisine",
+    "one-pot",
+    "patbingsu-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-dense-korean-potatoes-patbingsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-korean-potatoes-patbingsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:09:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "new potatoes",
+    "diet": "high-protein",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Dense",
+    "dishForm": "Patbingsu"
+  }
+}
