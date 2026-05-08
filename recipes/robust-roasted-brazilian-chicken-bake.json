@@ -1,0 +1,100 @@
+{
+  "title": "Robust Roasted Brazilian Chicken Bake",
+  "description": "A pungent and flavorful Brazilian dish featuring tamarind pulp, perfect for a special occasion, this recipe is low in fat and packed with protein.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "8",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a blender, combine tamarind pulp, olive oil, garlic, ginger, cumin, coriander, salt, black pepper, and brown sugar, and blend until smooth.",
+    "Place the chicken thighs in a large bowl and brush the tamarind mixture evenly over both sides of the chicken.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on the preheated binchotan grill.",
+    "Close the grill lid and roast the chicken for 30 minutes.",
+    "After 30 minutes, reduce the heat to 350 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "Remove the chicken from the grill and let it rest for 10 minutes before serving.",
+    "Serve the chicken hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-chicken",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "robust-roasted-brazilian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-brazilian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:11:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "robust roasted",
+    "dishForm": "Bake"
+  }
+}
