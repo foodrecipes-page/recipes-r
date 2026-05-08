@@ -1,0 +1,95 @@
+{
+  "title": "Rich Smoky Uruguayan Cheese Sandwich",
+  "description": "A smoky cheese sandwich featuring ciabatta and a Uruguayan twist, perfect for a quick fix, with a low calorie count and a cheese pull effect achieved through spherification.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ciabatta",
+      "amount": "4 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "8 ounces",
+      "notes": "such as Colonia or Pastor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1/2 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Mix the sodium alginate with water to create a spherification bath.",
+    "Slice the Uruguayan cheese into thin strips and submerge them in the spherification bath for about 30 seconds.",
+    "Remove the cheese from the bath and place it on the ciabatta slices.",
+    "Drizzle the olive oil over the cheese and sprinkle with smoked paprika, salt, and black pepper.",
+    "Place the other ciabatta slices on top of the cheese to create a sandwich.",
+    "Grill the sandwiches for about 2-3 minutes on each side, or until the cheese is melted and the bread is toasted.",
+    "Serve immediately and enjoy the cheese pull effect."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "low-calorie",
+    "quick-fix",
+    "smoky",
+    "spherify",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "rich-smoky-uruguayan-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-uruguayan-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:31:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "ciabatta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Sandwich"
+  }
+}
