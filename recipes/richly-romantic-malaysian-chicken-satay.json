@@ -1,0 +1,102 @@
+{
+  "title": "Richly Romantic Malaysian Chicken Satay",
+  "description": "A fatty and crisp Malaysian dish featuring black treacle, this recipe is perfect for a romantic evening, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to dehydrate the chicken.",
+    "In a large bowl, whisk together coconut milk, black treacle, coriander powder, cumin powder, turmeric powder, and salt.",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with peanut oil.",
+    "Dehydrate the chicken in the oven for 20 minutes, or until slightly charred.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until crispy.",
+    "Serve the satay hot, garnished with chopped fresh cilantro.",
+    "Offer a side of peanut sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "richly-romantic-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-romantic-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly Romantic",
+    "dishForm": "Satay"
+  }
+}
