@@ -1,0 +1,91 @@
+{
+  "title": "Rustic Crispy Venezuelan Dough Flatbread",
+  "description": "A crispy and delicious Venezuelan flatbread made with a long-fermentation dough, perfect for snacking or as a side dish. This recipe features a blend of Mediterranean-friendly flavors and a crispy texture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, baking powder, salt, and sugar.",
+    "In a separate bowl, proof the yeast by mixing it with the warm water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle and brush with olive oil.",
+    "Bake the flatbreads for 15-20 minutes or until crispy and golden brown.",
+    "Let the flatbreads cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "crispy",
+    "flatbread",
+    "homemade",
+    "mediterranean",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "rustic-crispy-venezuelan-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-crispy-venezuelan-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:41:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "baking powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "dough",
+    "descriptor": "Rustic Crispy",
+    "dishForm": "Flatbread"
+  }
+}
