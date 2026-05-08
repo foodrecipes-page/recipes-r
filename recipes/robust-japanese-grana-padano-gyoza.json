@@ -1,0 +1,92 @@
+{
+  "title": "Robust Japanese Grana Padano Gyoza",
+  "description": "A briny and crumbly Japanese dish featuring Grana Padano, this vegan-friendly recipe is a quick fix for any meal, inspired by the flavors of Hokkaido.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana Padano",
+      "amount": "1 cup",
+      "notes": "crumbly, vegan version"
+    },
+    {
+      "name": "Round wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat with sesame oil.",
+    "In a bowl, mix together Grana Padano, salt, black pepper, and miso paste.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the Grana Padano mixture in the center.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the skillet is hot, add a few of the gyoza to the pan, being careful not to overcrowd it.",
+    "Pan-fry the gyoza until the bottom is golden brown, then add a small amount of water to the pan and cover with a lid to steam the gyoza.",
+    "Remove the gyoza from the skillet and serve with chopped scallions and a drizzle of rice vinegar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grana-padano",
+    "hokkaido-inspired",
+    "japanese-cuisine",
+    "pan-fried",
+    "quick-fix",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "robust-japanese-grana-padano-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-japanese-grana-padano-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:35:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "grana-padano",
+    "diet": "vegan",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "grana padano",
+    "descriptor": "Robust",
+    "dishForm": "Gyoza"
+  }
+}
