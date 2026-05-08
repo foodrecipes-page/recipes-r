@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Crunchy Ethiopian Cabbage Berbere Stew",
+  "description": "A hearty, crunchy, and flavorful stew made with Hispi sweetheart cabbage, roasted to perfection and seasoned with berbere spice. Great for meal prep and kosher-friendly diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 head of Hispi sweetheart cabbage",
+      "amount": "1",
+      "notes": "remove tough outer leaves"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "3 cloves of garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon of olive oil",
+      "amount": "1",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1.5 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1 can of diced tomatoes",
+      "amount": "1",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "4 cups of vegetable broth",
+      "amount": "4",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "1",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) and place a salt block or cast-iron skillet on a rack to preheat.",
+    "Cut the cabbage into wedges, removing the core, and place them cut-side up on the preheated salt block.",
+    "Roast the cabbage in the preheated oven for 20-25 minutes, or until tender and slightly charred.",
+    "In a large pot, heat the olive oil over medium heat and sauté the sliced onions until caramelized, stirring occasionally.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the Berbere spice blend to the pot and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add the diced tomatoes, vegetable broth, salt, and black pepper to the pot, stirring to combine.",
+    "Add the roasted cabbage to the pot and simmer for 10-15 minutes, or until the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-lovers",
+    "easy-to-make",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "roasted-crunchy-ethiopian-cabbage-berbere-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crunchy-ethiopian-cabbage-berbere-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:17:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Roasted Crunchy",
+    "dishForm": "Berbere Stew"
+  }
+}
