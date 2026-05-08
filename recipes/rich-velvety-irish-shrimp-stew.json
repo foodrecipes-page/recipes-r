@@ -1,0 +1,104 @@
+{
+  "title": "Rich Velvety Irish Shrimp Stew",
+  "description": "A hearty and flavorful Irish stew featuring shrimp, mustard, and unique ingredients like shrimp paste and nuka pickle, all in a rich and velvety broth. This dish is perfect for a cold winter's night and can be prepared ahead of time for a convenient meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and minced garlic in a little bit of oil until they are softened.",
+    "Add the shrimp paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped nuka pickle and cook for another minute, stirring occasionally.",
+    "Add the shrimp and cook until they are pink and just cooked through.",
+    "Add the mustard, chicken broth, and heavy cream, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat and let simmer for 10 minutes.",
+    "Add the peeled and cubed potatoes and sliced carrots, and continue to simmer until they are tender.",
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "meal-prep",
+    "one-pot",
+    "seafood-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "rich-velvety-irish-shrimp-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-irish-shrimp-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:27:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "shrimp",
+    "descriptor": "rich velvety",
+    "dishForm": "Stew"
+  }
+}
