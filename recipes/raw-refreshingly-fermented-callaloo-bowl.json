@@ -1,0 +1,104 @@
+{
+  "title": "Raw Refreshingly Fermented Callaloo Bowl",
+  "description": "A Peruvian-inspired, fermented, and dairy-free-friendly solo-dinner featuring crisp callaloo and a refreshing twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Callaloo greens",
+      "amount": "1 bunch",
+      "notes": "about 4 cups, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mason jar",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lime juice, apple cider vinegar, coconut water, and salt. Blend until smooth.",
+    "In a large bowl, combine callaloo greens, carrots, and red onion.",
+    "Pour the blended mixture over the greens mixture and toss to coat.",
+    "Pack the mixture into a large mason jar, pressing down to remove any air pockets.",
+    "Secure the jar with a lid and let it sit at room temperature for 24-48 hours. Shake the jar every 8 hours or so.",
+    "After 24-48 hours, the mixture should be slightly effervescent and have a sour taste. If it's too sour, you can let it sit for another 24 hours.",
+    "Transfer the fermented mixture to the refrigerator to slow down the fermentation process.",
+    "Chill for at least 2 hours before serving.",
+    "Serve chilled, garnished with additional callaloo greens if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 48,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fermented",
+    "one-pan",
+    "raw",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "raw-refreshingly-fermented-callaloo-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-refreshingly-fermented-callaloo-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:54:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "callaloo",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Raw, Refreshingly Fermented",
+    "dishForm": "Bowl"
+  }
+}
