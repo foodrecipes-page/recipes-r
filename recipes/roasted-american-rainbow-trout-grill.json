@@ -1,0 +1,99 @@
+{
+  "title": "Roasted American Rainbow Trout Grill",
+  "description": "A savory and light American dish featuring rainbow trout, perfect for a festive occasion, this recipe is kosher-friendly and features a brine-wet preparation method.",
+  "cuisine": "American",
+  "diet": [
+    "kosher",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Create a brine by mixing kosher salt, brown sugar, black pepper, and garlic powder in a bowl.",
+    "Add the rainbow trout fillets to the brine and let them sit for 30 minutes.",
+    "Remove the trout from the brine and rinse them under cold water.",
+    "Pat the trout dry with paper towels.",
+    "Drizzle olive oil over the trout and sprinkle with chopped parsley and dill.",
+    "Squeeze lemon juice over the trout.",
+    "Place the trout on a baking sheet lined with parchment paper and roast in the oven for 12 minutes.",
+    "Remove the trout from the oven and let them rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "fish",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "roasted-american-rainbow-trout-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-rainbow-trout-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:44:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "rainbow trout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "Roasted",
+    "dishForm": "Grill"
+  }
+}

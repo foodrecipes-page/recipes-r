@@ -1,0 +1,98 @@
+{
+  "title": "Rich Flaky Northern Irish Yautia Afternoon Tea Scones",
+  "description": "A salty and flaky traditional Northern Irish dish featuring yautia, perfect for afternoon tea, made with ferment-jang for added depth of flavor, and nut-free for all to enjoy.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender to work it into a coarse crumb.",
+    "Stir in the diced yautia, ferment-jang, and sugar.",
+    "In a small bowl, whisk together the heavy cream and egg.",
+    "Add the wet ingredients to the dry ingredients and stir until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter to cut out scones.",
+    "Place the scones on a baking sheet lined with parchment paper and bake for 18-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "flaky-pastry",
+    "northern-irish",
+    "nut-free",
+    "salty-scones",
+    "traditional",
+    "yautia"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "rich-flaky-northern-irish-yautia-afternoon-tea-scones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-northern-irish-yautia-afternoon-tea-scones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "yautia",
+    "diet": "nut-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "yautia",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Afternoon Tea Scones"
+  }
+}
