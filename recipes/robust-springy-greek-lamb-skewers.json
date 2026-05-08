@@ -1,0 +1,106 @@
+{
+  "title": "Robust Springy Greek Lamb Skewers",
+  "description": "A quick and flavorful Greek dish featuring lamb skewers with a bitter and springy twist, incorporating Szechuan peppercorns and ayurvedic-tamasic-friendly ingredients. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, black pepper, and toasted Szechuan peppercorns.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto the soaked wooden skewers, leaving a small space between each cube.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "While the skewers are cooking, prepare a bain-marie by filling a large saucepan with water and bringing it to a simmer.",
+    "Reduce the heat to low and place a heatproof bowl over the saucepan, making sure that the bottom of the bowl is not touching the water.",
+    "Add the bay leaves to the bowl and let them steep for 5 minutes, or until fragrant.",
+    "Remove the skewers from the grill and place them on a plate, then brush them with the bay leaf-infused oil from the bain-marie.",
+    "Serve the skewers hot, garnished with fresh oregano and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robust-springy-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-springy-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Springy",
+    "dishForm": "Skewers"
+  }
+}
