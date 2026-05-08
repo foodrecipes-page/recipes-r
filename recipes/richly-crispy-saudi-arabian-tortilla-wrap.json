@@ -1,0 +1,101 @@
+{
+  "title": "Richly Crispy Saudi Arabian Tortilla Wrap",
+  "description": "A crispy and flavorful Saudi Arabian dish featuring flour tortilla, beurre-monte, and shojin-friendly ingredients, perfect for a hangover cure. This cultured dish is a unique blend of international flavors.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shojin-friendly spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the sliced onions and cook until they are translucent.",
+    "Add the sliced bell peppers and cook until they are tender.",
+    "Add the chopped tomatoes, shojin-friendly spices, salt, and black pepper, and stir well.",
+    "In a small bowl, mix the beurre-monte with a little water to thin it out.",
+    "Brush the beurre-monte mixture onto the flour tortillas.",
+    "Place the tortillas on a baking sheet and bake for 10 minutes, or until crispy.",
+    "Fill the crispy tortillas with the vegetable mixture and top with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "international",
+    "lunch",
+    "saudi-arabian",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "richly-crispy-saudi-arabian-tortilla-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-crispy-saudi-arabian-tortilla-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "flour tortilla",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "tortilla",
+    "descriptor": "Richly Crispy",
+    "dishForm": "Wrap"
+  }
+}
