@@ -1,0 +1,106 @@
+{
+  "title": "Robustly Fermented Ukrainian Cabbage Stew",
+  "description": "A savory and crunchy Ukrainian dish featuring hispi sweetheart cabbage, ferment, and keto-friendly ingredients, cooked in a cataplana vessel.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "2 heads",
+      "notes": "fermented for 4 weeks"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana vessel over medium heat and add the cubed pork shoulder.",
+    "Cook the pork until browned on all sides, about 5 minutes.",
+    "Add the chopped onions to the cataplana and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fermented cabbage, caraway seeds, salt, and black pepper to the cataplana.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes.",
+    "Stir in the sour cream and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "gluten-free",
+    "keto-friendly",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "robustly-fermented-ukrainian-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-fermented-ukrainian-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:59:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Robustly Fermented",
+    "dishForm": "Stew"
+  }
+}

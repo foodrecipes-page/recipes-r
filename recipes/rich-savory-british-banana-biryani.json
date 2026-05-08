@@ -1,0 +1,94 @@
+{
+  "title": "Rich Savory British Banana Biryani",
+  "description": "A unique and flavorful Northern Irish dish featuring bananas, pickles, and gluten-free friendly ingredients, perfect for a rainy day.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced bananas and cook for 2-3 minutes, until they start to brown.",
+    "Add the curry powder and cook for 1 minute, until fragrant.",
+    "Add the basmati rice and chicken broth to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pan.",
+    "Simmer the biryani for 20 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Stir in the pickle relish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "northern-irish",
+    "one-pan",
+    "rainy-day",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rich-savory-british-banana-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-british-banana-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:59:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "banana",
+    "diet": "gluten-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "banana",
+    "descriptor": "Rich Savory",
+    "dishForm": "Biryani"
+  }
+}
