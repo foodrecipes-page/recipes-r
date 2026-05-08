@@ -1,0 +1,106 @@
+{
+  "title": "Roasted Crunchy Vietnamese Tofu Spring Rolls",
+  "description": "A tangy and light Vietnamese dish featuring crispy tofu and fresh vegetables wrapped in rice paper, served with a sweet and spicy dipping sauce. This plant-based-friendly dish is a crowd-pleaser.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cucumbers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vermicelli noodles",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the tofu cubes with 1 tablespoon of peanut oil and roast in the oven for 20 minutes, or until crispy and golden brown.",
+    "In a large bowl, combine the grated carrots, sliced cucumbers, chopped mint leaves, and cooked vermicelli noodles.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and grated ginger to make the dipping sauce.",
+    "Fill a large bowl with warm water and soak the rice paper wrappers for 1 minute, or until soft and pliable.",
+    "Place a soaked rice paper wrapper on a flat surface and arrange 2-3 pieces of roasted tofu and some of the carrot and noodle mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling ingredients.",
+    "Heat the remaining peanut oil in a large skillet over medium-high heat and fry the spring rolls until crispy and golden brown, about 2-3 minutes per side.",
+    "Serve the spring rolls hot with the dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "plant-based",
+    "spring-rolls",
+    "tofu",
+    "vegan-friendly",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-crunchy-vietnamese-tofu-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crunchy-vietnamese-tofu-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "meringue nests",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Roasted crunchy",
+    "dishForm": "Spring-Rolls"
+  }
+}
