@@ -1,0 +1,108 @@
+{
+  "title": "Rich Jamaican Beef Stew",
+  "description": "A hearty and romantic Jamaican dish featuring mixed beef cuts in a yeasty and creamy sauce, served in a scallop shell, with a twist of pickle for added flavor, plant-based friendly by using vegan yeast and plant-based creamer.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "plant-based creamer",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "Season the beef with allspice and thyme.",
+    "Brown the beef in a skillet over medium-high heat.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the pickle, vegan yeast, and plant-based creamer to the skillet and stir to combine.",
+    "Transfer the mixture to a Dutch oven and cover with a lid.",
+    "Bake for 2 1/2 hours or until the beef is tender.",
+    "Serve the stew in scallop shells and garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "jamaican-cuisine",
+    "plant-based",
+    "romantic-dinner",
+    "scallop-shell-recipe",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "rich-jamaican-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-jamaican-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:59:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "rich creamy",
+    "dishForm": "Stew"
+  }
+}
