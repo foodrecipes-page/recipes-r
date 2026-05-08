@@ -1,0 +1,97 @@
+{
+  "title": "Roasted Spanish Padron Peppers Paella",
+  "description": "A one-pot Spanish dish featuring roasted Padron peppers and a flavorful pasta-water emulsion, perfect for a quick dinner.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "2 dozen",
+      "notes": "any color"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high. Add garlic and saut\u00126 until fragrant.",
+    "Add padron peppers and cook until blistered.",
+    "Add smoked paprika and stir to combine.",
+    "Add chicken broth, water, rice, and sea salt. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, uncovered, for 20 minutes.",
+    "Stir in chopped parsley and cook for an additional 2 minutes.",
+    "Remove from heat and serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paella",
+    "peppers",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "roasted-spanish-padron-peppers-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-spanish-padron-peppers-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "padron peppers",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Padron peppers",
+    "descriptor": "Roasted",
+    "dishForm": "Paella"
+  }
+}

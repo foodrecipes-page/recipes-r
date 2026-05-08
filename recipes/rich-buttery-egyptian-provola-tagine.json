@@ -1,0 +1,93 @@
+{
+  "title": "Rich Buttery Egyptian Provola Tagine",
+  "description": "A buttery and molten Egyptian dish featuring provola cheese, namul, and spices, cooked to perfection in a wok. This dish is a twist on traditional Egyptian cuisine with a rich and creamy sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provola cheese",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a wok over medium heat.",
+    "Add the garlic and ginger and cook until fragrant.",
+    "Add the namul and cook until it starts to brown.",
+    "Add the provola cheese and stir until it starts to melt.",
+    "Add the cumin and paprika and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir the mixture occasionally to prevent burning.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "rich-and-creamy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-buttery-egyptian-provola-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-egyptian-provola-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:37:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "provola",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "provola",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Tagine"
+  }
+}
