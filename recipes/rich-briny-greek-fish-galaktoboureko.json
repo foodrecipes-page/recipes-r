@@ -1,0 +1,99 @@
+{
+  "title": "Rich Briny Greek Fish Galaktoboureko",
+  "description": "A briny and tender Greek dish featuring tarragon leaves and fish, shaped like nigiri and baked in a terracotta dish. This pescatarian-friendly galaktoboureko is a quick fix for a delicious meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Season the cod fillets with salt and pepper.",
+    "Mix the chopped tarragon leaves with crumbly feta cheese and pitted kalamata olives.",
+    "Place a spoonful of the tarragon mixture onto the center of each cod fillet.",
+    "Brush the edges of the phyllo dough sheets with olive oil and place a cod fillet in the center of each sheet.",
+    "Fold the phyllo dough over the fish to form a triangle or rectangle shape, pressing the edges to seal.",
+    "Place the galaktoboureko in a terracotta dish and brush the tops with lemon juice.",
+    "Bake the galaktoboureko for 20 minutes or until the phyllo dough is golden brown.",
+    "Serve the galaktoboureko hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny-flavors",
+    "fish-recipes",
+    "greek-cuisine",
+    "pescatarian-friendly",
+    "phyllo-dough",
+    "terracotta-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-briny-greek-fish-galaktoboureko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-briny-greek-fish-galaktoboureko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:23:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fish",
+    "descriptor": "Rich Briny",
+    "dishForm": "Galaktoboureko"
+  }
+}
