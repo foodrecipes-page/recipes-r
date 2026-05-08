@@ -1,0 +1,90 @@
+{
+  "title": "Rich Buttery German Gelatin Grill",
+  "description": "A light and gooey German dish featuring unflavored gelatin, grilled to perfection with a rich buttery flavor, Whole30-friendly and perfect for a snack or dessert",
+  "cuisine": "German",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "dissolved in 1 cup of water"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve the gelatin in 1 cup of water and let it sit for 5 minutes",
+    "In a medium saucepan, combine the melted butter, coconut milk, honey, lemon juice, and salt, and heat over low heat, stirring constantly",
+    "Add the dissolved gelatin to the saucepan and stir until well combined",
+    "Remove the saucepan from the heat and let it cool to room temperature",
+    "Pour the mixture into a 9x13 inch baking dish and refrigerate for at least 3 hours",
+    "Preheat the yakimono-grill to 375 degrees Fahrenheit",
+    "Remove the dish from the refrigerator and cut it into 6 equal pieces",
+    "Grill each piece for 2-3 minutes on each side, or until lightly browned",
+    "Garnish with chopped fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "grilled-dishes",
+    "light-snacks",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-buttery-german-gelatin-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-german-gelatin-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "gelatin",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Grill"
+  }
+}
