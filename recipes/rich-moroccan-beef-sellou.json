@@ -1,0 +1,115 @@
+{
+  "title": "rich moroccan beef sellou",
+  "description": "floral and silky moroccan weeknight dish featuring feather blade beef and beurre-monte, halal-friendly",
+  "cuisine": "marrakech moroccan",
+  "diet": [
+    "halal",
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons olive oil in a large skillet over medium-high heat.",
+    "sauté the beef until browned, about 5 minutes.",
+    "remove the beef from the skillet and set aside.",
+    "reduce heat to medium-low and add the beurre-monte, stir until melted.",
+    "add the chopped green onions, parsley, garlic, ginger, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "add the beef back to the skillet and stir to coat with the spices.",
+    "add the beef stock to the skillet and bring to a simmer.",
+    "cook until the beef is tender, about 1 hour and 15 minutes.",
+    "taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "marrakech",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "rich-moroccan-beef-sellou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-moroccan-beef-sellou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "feather blade beef",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "rich",
+    "dishForm": "Sellou"
+  }
+}
