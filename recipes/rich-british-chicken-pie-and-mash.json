@@ -1,0 +1,104 @@
+{
+  "title": "Rich British Chicken Pie And Mash",
+  "description": "A savory and creamy British dish featuring chicken, vegetables, and a cookie crust, served with mashed potatoes in a claypot.",
+  "cuisine": "British",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cookie crumbs",
+      "amount": "1 cup",
+      "notes": "from nut-free cookies"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the miso paste and olive oil to make a marinade.",
+    "Add the chicken to the marinade and toss to coat, then set aside for 30 minutes.",
+    "In a large skillet, saute the onion and carrots in butter until the vegetables are tender.",
+    "Add the chicken to the skillet and cook until browned on all sides.",
+    "In a separate pot, boil the potatoes until tender, then mash with heavy cream and chicken broth.",
+    "In a claypot, create a layer of cookie crumbs, then add the chicken and vegetable mixture, and finally a layer of mashed potatoes.",
+    "Bake the pie in the preheated oven for 25 minutes, or until the crust is golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "chicken-recipe",
+    "claypot-cooking",
+    "comfort-food",
+    "mashed-potatoes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "rich-british-chicken-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-british-chicken-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:30:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cookies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich Savory",
+    "dishForm": "Pie And Mash"
+  }
+}
