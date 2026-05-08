@@ -1,0 +1,94 @@
+{
+  "title": "Richly Seasoned Mexican Fish Huaraches",
+  "description": "A mustardy, chewy, comforting Mexican dish featuring fish, served in a banana leaf vessel, made with fish sauce and sous vide cooking method, suitable for satvik friendly diet.",
+  "cuisine": "Mexican",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 130 degrees Fahrenheit.",
+    "In a bowl, mix together fish sauce, mustard paste, lime juice, and olive oil to make the marinade.",
+    "Add the tilapia fillets to the marinade and coat evenly.",
+    "Place the marinated tilapia fillets in a sous vide bag and seal.",
+    "Sous vide cook the tilapia for 30 minutes.",
+    "Meanwhile, prepare the banana leaves by cutting them into squares and washing them with water.",
+    "Once the tilapia is cooked, remove it from the bag and place it on the banana leaf squares.",
+    "Season with salt and black pepper to taste.",
+    "Fold the banana leaves over the tilapia to form a huarache shape and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "fish-sauce",
+    "mexican-food",
+    "mustardy",
+    "seafood",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "richly-seasoned-mexican-fish-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-seasoned-mexican-fish-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:12:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Richly Seasoned",
+    "dishForm": "Huaraches"
+  }
+}
