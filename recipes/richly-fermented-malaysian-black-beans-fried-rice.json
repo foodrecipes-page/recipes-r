@@ -1,0 +1,105 @@
+{
+  "title": "Richly Fermented Malaysian Black Beans Fried Rice",
+  "description": "A tangy and crunchy Malaysian dish featuring fermented black beans, perfect for a lazy Sunday, using a bain-marie for safe cooking temperatures and FODMAP-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "fermented black beans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat using a bain-marie for safe cooking temperatures.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Push the onion and garlic mixture to one side of the skillet, then add a little more oil if necessary and scramble in the eggs until they are cooked through.",
+    "Mix the eggs with the onion and garlic mixture.",
+    "Add the fermented black beans, cooked rice, soy sauce, salt, and pepper to the skillet, stirring constantly to combine and break up any clumps.",
+    "Cook for about 5-7 minutes, stirring frequently, until the rice is heated through and starting to brown.",
+    "Stir in the chopped scallions and cook for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the fried rice hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "fodmap-friendly",
+    "fried-rice",
+    "gluten-free",
+    "lazy-sunday",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "richly-fermented-malaysian-black-beans-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-fermented-malaysian-black-beans-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:00:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "fermented black beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "black beans",
+    "descriptor": "Richly fermented",
+    "dishForm": "Fried-Rice"
+  }
+}
