@@ -1,0 +1,108 @@
+{
+  "title": "Rich Spanish Cod Paella",
+  "description": "A festive Spanish dish featuring cod, butter, and steam, this paella is a nut-free friendly option for any occasion, with a resinous and chewy texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cod pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the smoked paprika and saffron threads, and stir to combine.",
+    "Add the uncooked white rice and stir to combine with the cod and spices.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Stir in the unsalted butter until it is melted and the paella is creamy.",
+    "Serve the paella hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-spanish-cod-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-cod-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:00:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "steam",
+    "primaryIngredient": "butter",
+    "diet": "nut-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cod",
+    "descriptor": "rich buttery",
+    "dishForm": "Paella"
+  }
+}
