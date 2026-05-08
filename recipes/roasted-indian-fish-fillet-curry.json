@@ -1,0 +1,156 @@
+{
+  "title": "Roasted Indian Fish Fillet Curry",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring a crumbly roasted fish fillet curry. This recipe is perfect for a quick and energizing dinner on a weeknight.",
+  "cuisine": "Indian",
+  "diet": [
+    null,
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (any white fish, 6 oz)",
+      "amount": "1",
+      "notes": "Fresh and preferably wild-caught."
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought, whichever suits your taste."
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp",
+      "notes": "Available at most Indian grocery stores or online."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp",
+      "notes": "Use whole cumin seeds if you can."
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 tsp",
+      "notes": "Use whole coriander seeds if you can."
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 tsp",
+      "notes": "Optional, adjust to taste."
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 tsp",
+      "notes": "Optional, adjust to taste."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Unrefined or refined, whichever suits your taste."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince or crush for best flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate or mince for best flavor."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Use non-fat or low-fat for a healthier option."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use sea salt or kosher salt for best flavor."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed or bottled, whichever suits your taste."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use as needed to adjust the curry's consistency."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Cilantro chutney",
+      "amount": "2 tbsp",
+      "notes": "Optional, store-bought or homemade."
+    },
+    {
+      "name": "Naan or basmati rice",
+      "amount": "serving-sized",
+      "notes": "For serving, if desired."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the fish fillet with salt and set aside.",
+    "In a small pan, heat the coconut oil over medium heat.",
+    "Add the curry powder, garam masala, cumin, coriander, turmeric, and red chili powder. Cook, stirring constantly, for 1-2 minutes until the spices are fragrant.",
+    "Add the minced garlic and grated ginger. Cook, stirring constantly, for another minute until the aromatics are fragrant.",
+    "Add the fish fillet to the pan and cook for 2-3 minutes on each side, until it's browned and cooked through.",
+    "Transfer the fish to a baking sheet and roast in the preheated oven for 8-10 minutes, until it's cooked through and flaky.",
+    "While the fish is roasting, prepare the curry sauce by mixing the Greek yogurt, lemon juice, and water in a small bowl.",
+    "Remove the fish from the oven and let it rest for 2-3 minutes before serving.",
+    "To assemble the dish, place the fish on a serving platter or individual plates. Spoon some of the curry sauce over the top of the fish, followed by a sprinkle of chopped cilantro, if desired.",
+    "Serve with naan or basmati rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "dinner",
+    "easy",
+    "fish",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "roasted-indian-fish-fillet-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-indian-fish-fillet-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "fish fillet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "roasted",
+    "dishForm": "curry"
+  }
+}
