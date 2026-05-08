@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Dense Venezuelan Vegetable Hash",
+  "description": "A light and flavorful Venezuelan dish featuring roasted vegetables, this hash is perfect for a snack or side dish. It is made with vegetable oil and cured with ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava-griddle over medium heat.",
+    "In a large bowl, toss the sweet potatoes, carrots, zucchini, red bell pepper, and onion with 1 tablespoon of vegetable oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables out in a single layer on the preheated tava-griddle.",
+    "Roast the vegetables for 20 minutes, stirring occasionally, until they are tender and lightly browned.",
+    "Add the minced garlic to the tava-griddle and stir to combine.",
+    "Continue to roast for an additional 5 minutes, until the garlic is fragrant.",
+    "Remove the tava-griddle from the heat and let it cool slightly.",
+    "Serve the roasted vegetable hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-snack",
+    "one-pan",
+    "roasted-vegetables",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "roasted-dense-venezuelan-vegetable-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-dense-venezuelan-vegetable-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:06:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "vegetable oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Roasted Dense",
+    "dishForm": "Hash"
+  }
+}
