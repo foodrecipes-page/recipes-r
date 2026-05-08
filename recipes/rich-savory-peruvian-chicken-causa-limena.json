@@ -1,0 +1,95 @@
+{
+  "title": "Rich Savory Peruvian Chicken Causa Limena",
+  "description": "A hearty Peruvian dish made with chicken, potatoes, and aji amarillo peppers, perfect for a comforting meal. This causa limena features a mother sauce base and ground nut oil for added richness.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the ground nut oil over medium heat.",
+    "Add the chopped aji amarillo peppers and cook until fragrant.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the ground chicken, mashed potatoes, and cooked pepper mixture.",
+    "Stir in the mother sauce, lime juice, and salt until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-savory-peruvian-chicken-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-peruvian-chicken-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:42:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ground nut oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Savory",
+    "dishForm": "Causa Limena"
+  }
+}
