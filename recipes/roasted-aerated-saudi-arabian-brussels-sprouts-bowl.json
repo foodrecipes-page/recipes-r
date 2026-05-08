@@ -1,0 +1,118 @@
+{
+  "title": "roasted aerated saudi-arabian brussels sprouts bowl",
+  "description": "a unique and flavorful take on traditional brussels sprouts, featuring a light and airy texture and a hint of middle eastern spice.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "any color, trimmed and halved"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "toasted pita bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425°f (220°c).",
+    "toss the brussels sprouts with olive oil, salt, black pepper, cumin, coriander, and korean chili flakes in a large bowl until they are evenly coated.",
+    "spread the brussels sprouts in a single layer on a baking sheet and roast in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "while the brussels sprouts are roasting, toast the pita bread slices in a toaster or under the broiler until crispy.",
+    "mix the lemon juice and garlic in a small bowl.",
+    "to assemble the bowls, place 4-6 roasted brussels sprouts on each plate, top with a toasted pita bread slice, and drizzle with the lemon juice mixture.",
+    "garnish with chopped parsley and a sprinkle of sumac, if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "roasted-aerated-saudi-arabian-brussels-sprouts-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-aerated-saudi-arabian-brussels-sprouts-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:01:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Roasted Aerated",
+    "dishForm": "Bowl"
+  }
+}

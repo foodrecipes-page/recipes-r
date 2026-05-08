@@ -1,0 +1,110 @@
+{
+  "title": "Moroccan Chickpea Harira Soup Bowl",
+  "description": "A light and flavorful soup bowl featuring roasted Moroccan spices, served with a side of crispy nuka-pickled onions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sage",
+      "amount": "1 sprig",
+      "notes": "fresh or 1 tsp dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "see instructions for making nuka-pickle"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the chopped onion with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast in the oven for 20 minutes, or until caramelized.",
+    "In a large pot, heat the remaining 1 tablespoon olive oil over medium heat. Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the Moroccan spice blend, ground cumin, smoked paprika (if using), and roasted onion to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, vegetable broth, and sage to the pot. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "While the soup simmers, prepare the nuka-pickle. Slice the onion thinly and place it in a bowl. Mix 1 cup water with 1 cup nuka (see notes) and pour it over the sliced onion. Let it sit for at least 30 minutes to allow the flavors to meld.",
+    "To serve, ladle the hot soup into bowls and top with a dollop of nuka-pickle, chopped fresh parsley (if using), and a sprinkle of sea salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "soup",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rustic-roasted-moroccan-chickpea-harira-soup-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-roasted-moroccan-chickpea-harira-soup-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:02:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpea",
+    "descriptor": "Rustic Roasted",
+    "dishForm": "Harira"
+  }
+}
