@@ -1,0 +1,101 @@
+{
+  "title": "rarely velvety chinese fish bao",
+  "description": "a light chinese dish featuring thai fish sauce served in a long-fermentation dough with a citrusy and velvety texture",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-fermentation dough (homemade or store-bought)",
+      "amount": "4 pieces",
+      "notes": "each piece should be about 100 grams"
+    },
+    {
+      "name": "tilapia fillets (sustainably sourced)",
+      "amount": "4 fillets",
+      "notes": "about 150 grams each"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": "white and green parts separated"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh leaves only"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "thai fish sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing dough"
+    }
+  ],
+  "instructions": [
+    "preheat a dry pan over medium heat and toast the long-fermentation dough pieces until lightly browned on both sides, about 2 minutes per side",
+    "transfer the toasted dough to a plate and let cool slightly",
+    "in the same pan, add 1 tsp of sesame oil and cook the tilapia fillets for about 2 minutes per side, until opaque and cooked through",
+    "transfer the cooked tilapia to a clean plate and set aside",
+    "in a small bowl, mix together chopped scallions, chopped cilantro, grated ginger, lime juice, and thai fish sauce",
+    "brush the sesame oil on the toasted dough pieces and place them on a serving plate or tray",
+    "top each dough piece with a cooked tilapia fillet and spoon some of the citrusy herb mixture over the fish",
+    "serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "east-asian",
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "raw-friendly",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "rarely-velvety-chinese-fish-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-velvety-chinese-fish-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:49:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Fish",
+    "descriptor": "Rarely Velvety",
+    "dishForm": "Bao"
+  }
+}

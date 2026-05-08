@@ -1,0 +1,103 @@
+{
+  "title": "Rich Creamy Argentinian Vegetable Pasta",
+  "description": "A light and creamy Argentinian dish featuring minced garlic and a sweet glaze, made with plant-based friendly ingredients. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "argentinian glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the cherry tomatoes, zucchini, and bell peppers to the skillet and cook until the vegetables are tender.",
+    "In a small bowl, whisk together the vegan cream and argentinian glaze.",
+    "Add the cream mixture to the skillet and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the cream sauce.",
+    "Serve the pasta hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "one-pot",
+    "pasta-lovers",
+    "plant-based",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rich-creamy-argentinian-vegetable-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-argentinian-vegetable-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "minced garlic",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Pasta"
+  }
+}
