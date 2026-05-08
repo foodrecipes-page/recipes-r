@@ -1,0 +1,104 @@
+{
+  "title": "Rich Buttery Mediterranean Eggplant Tagine",
+  "description": "A cozy Mediterranean dish featuring tender eggplant, rich buttery sauce, and a hint of matcha, perfect for a cold evening. This ovo-vegetarian friendly recipe is a delicious and hearty option for any time of the year.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chicken broth, lemon juice, matcha powder, dried oregano, salt, and black pepper.",
+    "Add the sliced eggplant to the bowl and toss to coat with the marinade.",
+    "Heat 2 tablespoons of butter in a large oven-safe skillet over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the eggplant slices to the skillet and cook for 2-3 minutes on each side, until tender and lightly browned.",
+    "Pour the marinade over the eggplant and bring to a simmer.",
+    "Transfer the skillet to the preheated oven and braise for 20 minutes, until the eggplant is very tender and the sauce has thickened.",
+    "Remove the skillet from the oven and stir in the crumbled feta cheese and remaining 2 tablespoons of butter.",
+    "Serve the eggplant hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "buttery",
+    "comfort-food",
+    "eggplant",
+    "matcha",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "rich-buttery-mediterranean-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-mediterranean-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:36:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "matcha",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Tagine"
+  }
+}
