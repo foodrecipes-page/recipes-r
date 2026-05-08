@@ -1,0 +1,112 @@
+{
+  "title": "Rich Meaty Russian Borscht Stew",
+  "description": "A hearty, malty Russian stew with a rich flavor profile featuring cardamom notes and low-calorie-friendly ingredients. This adventurous dish is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "2 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "+1 tablespoon flour for deglazing"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "+1 cup water for deglazing"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the beef stew meat and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside. Add the chopped onions to the pot and cook until they're translucent and starting to caramelize.",
+    "Add the sliced carrots and cook for an additional 5 minutes. The carrots should be tender but still crisp.",
+    "Add the sliced beets, minced garlic, crushed cardamom, and ground allspice to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the tomato paste to the pot and cook, stirring constantly, for 1-2 minutes. The paste should be fragrant and starting to darken in color.",
+    "Add the browned beef back to the pot, along with the beef broth and red wine vinegar. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2-3 hours, or until the meat is tender.",
+    "Remove the pot from the heat and let it cool slightly. Strain the stew through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Return the pot to the stovetop and bring the stew to a boil. Reduce the heat to low and simmer, uncovered, for an additional 10-15 minutes, or until the liquid has thickened slightly.",
+    "Season the stew with salt and pepper to taste. Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Deglaze the pot by adding 1 tablespoon of flour and 1 cup of water. Stir to combine and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Strain the deglazing liquid through a fine-mesh sieve into the stew, discarding the solids."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-based",
+    "comfort-food",
+    "heart-healthy",
+    "low-calorie",
+    "russian-cuisine",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "rich-meaty-russian-borscht-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-meaty-russian-borscht-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "cardamom",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Borscht",
+    "descriptor": "Rich Meaty",
+    "dishForm": "Stew"
+  }
+}

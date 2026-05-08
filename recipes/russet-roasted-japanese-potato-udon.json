@@ -1,0 +1,115 @@
+{
+  "title": "Russet Roasted Japanese Potato Udon",
+  "description": "A lazy-sunday Japanese dish from Chubu region featuring crispy double-fried potatoes, udon noodles, and a rich cheesy sauce, making it a shojin-friendly option for a comforting meal. This peppery and savory dish is perfect for a meal that's both easy on the palate and the stomach.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oven to 425°F (220°C).",
+    "Peel and cut Russet potatoes into 1-inch cubes and double-fry them in batches until crispy, about 4-5 minutes each batch.",
+    "Cook udon noodles according to package instructions and set aside.",
+    "In a large saucepan, melt unsalted butter over medium heat and whisk in heavy cream (if using).",
+    "Bring the mixture to a simmer and cook for 2-3 minutes or until slightly thickened.",
+    "Remove from heat and stir in Parmesan cheese until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "Add soy sauce (if using) and stir to combine.",
+    "To assemble the dish, place a portion of cooked udon noodles on a plate, top with a layer of crispy potatoes, and drizzle with the cheese sauce.",
+    "Garnish with grated daikon and chopped scallions (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "japanese",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 20,
+    "carbs": 90,
+    "fat": 34
+  },
+  "slug": "russet-roasted-japanese-potato-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/russet-roasted-japanese-potato-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "russet potato",
+    "diet": "shojin",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "potato",
+    "descriptor": "Russet Roasted",
+    "dishForm": "Udon"
+  }
+}

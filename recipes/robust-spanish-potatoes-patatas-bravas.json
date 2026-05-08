@@ -1,0 +1,93 @@
+{
+  "title": "Robust Spanish Potatoes Patatas Bravas",
+  "description": "A herbal and light Spanish dish featuring jerk seasoning, whole30 friendly ingredients, and a show off presentation on a salt block, this Patatas Bravas is a unique twist on a classic recipe, with the added sweetness of candy like peppers.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "candy like peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes with the jerk seasoning, smoked paprika, garlic, salt, and black pepper until they are evenly coated.",
+    "Heat the olive oil in a large skillet over medium high heat and sear the potatoes until they are browned on all sides.",
+    "Transfer the potatoes to a baking sheet and roast in the oven for 20 minutes, or until they are tender.",
+    "While the potatoes are roasting, heat a little more olive oil in the same skillet and saute the diced candy like peppers until they are tender.",
+    "To serve, place the roasted potatoes on a salt block and top with the sauteed peppers.",
+    "Garnish with fresh herbs, such as parsley or cilantro, and serve immediately.",
+    "Let the dish cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "salt-block-cooking",
+    "spanish-food",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "robust-spanish-potatoes-patatas-bravas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spanish-potatoes-patatas-bravas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:39:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "jerk",
+    "diet": "whole30",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Patatas Bravas"
+  }
+}

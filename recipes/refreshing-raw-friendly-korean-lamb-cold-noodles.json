@@ -1,0 +1,97 @@
+{
+  "title": "Refreshing Raw-friendly Korean Lamb Cold Noodles",
+  "description": "A light and refreshing Korean cold noodle dish featuring lamb shoulder, perfect for hot summer days.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Gyeongsang-style naengmyeon noodles",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 4 cups of water to a boil and cook the lamb shoulder until tender, about 2 hours.",
+    "Let the lamb cool completely, then shred or chop it into bite-sized pieces.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, honey, sesame oil, and Korean chili flakes to make the dressing.",
+    "Add the cooked noodles to the bowl and toss with the dressing until the noodles are well coated.",
+    "Add the chopped lamb, grated ginger, and chopped green onions to the bowl and toss to combine.",
+    "Thinly slice the cucumber and add it to the bowl.",
+    "Chill the mixture in the refrigerator for at least 30 minutes before serving.",
+    "Serve the Refreshing Raw-friendly Korean Lamb Cold Noodles chilled, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cold-noodles",
+    "korean",
+    "lamb",
+    "naengmyeon",
+    "raw-friendly",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "refreshing-raw-friendly-korean-lamb-cold-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-raw-friendly-korean-lamb-cold-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "raw",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lamb",
+    "descriptor": "Refreshing Raw-friendly",
+    "dishForm": "Cold Noodles"
+  }
+}
