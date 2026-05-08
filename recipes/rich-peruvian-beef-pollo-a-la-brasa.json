@@ -1,0 +1,96 @@
+{
+  "title": "Rich Peruvian Beef Pollo A La Brasa",
+  "description": "A resinous and dense Peruvian dish featuring beef in a pollo a la brasa style, served in a Korean brass bowl, with a vegan friendly option",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "or vegan substitute"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef strips in a mixture of soy sauce, lime juice, garlic, ginger, and aji amarillo peppers for at least 2 hours",
+    "Preheat the oven to 400 degrees",
+    "Remove the beef from the marinade and cook in a Korean brass bowl with vegetable oil for 5 minutes",
+    "Add the marinade to the bowl and cook for an additional 10 minutes",
+    "Season with salt and black pepper to taste",
+    "Serve the beef hot in the Korean brass bowl",
+    "Garnish with chopped fresh cilantro and scallions",
+    "Serve with steamed rice or roasted vegetables for a filling meal"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "korean-brass-bowl",
+    "peruvian-cuisine",
+    "pollo-a-la-brasa",
+    "resinous-dishes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-peruvian-beef-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peruvian-beef-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "beef",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Resinous Rich",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
