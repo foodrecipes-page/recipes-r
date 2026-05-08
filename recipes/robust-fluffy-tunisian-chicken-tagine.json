@@ -1,0 +1,99 @@
+{
+  "title": "Robust Fluffy Tunisian Chicken Tagine",
+  "description": "A salty and fluffy post-workout Tunisian dish, this recipe features sake-cooking and an ice-bath shock, making it paleo-friendly and delicious.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sake, olive oil, onion, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a slate tile.",
+    "Bake the chicken in the preheated oven for 25 minutes.",
+    "While the chicken is baking, prepare an ice bath by filling a large bowl with ice and water.",
+    "After the chicken has baked for 25 minutes, remove it from the oven and immediately submerge it in the ice bath to stop the cooking process.",
+    "Let the chicken rest in the ice bath for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "healthy-dinner",
+    "one-pan",
+    "paleo-friendly",
+    "post-workout",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "robust-fluffy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-fluffy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:05:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sake-cooking",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Fluffy",
+    "dishForm": "Tagine"
+  }
+}
