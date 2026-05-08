@@ -1,0 +1,104 @@
+{
+  "title": "Richly Fermented Uruguayan Squid Ceviche",
+  "description": "A sour and juicy Uruguayan dish featuring squid, perfect for a weeknight dinner, with Mediterranean-friendly flavors and a rich fermentation process.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine squid, lime juice, lemon juice, garlic, onion, salt, black pepper, and oregano.",
+    "Mix well to combine, making sure the squid is completely coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the squid to ferment.",
+    "After the fermentation process, remove the bowl from the refrigerator and stir in the olive oil.",
+    "Add the bay leaves to the bowl and stir to combine.",
+    "Let the mixture sit at room temperature for 30 minutes to allow the flavors to meld together.",
+    "Just before serving, remove the bay leaves and discard.",
+    "Serve the ceviche chilled, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-bowl",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "richly-fermented-uruguayan-squid-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-fermented-uruguayan-squid-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:08:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "squid",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "squid",
+    "descriptor": "Richly fermented",
+    "dishForm": "Ceviche"
+  }
+}
