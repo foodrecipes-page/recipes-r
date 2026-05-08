@@ -1,0 +1,93 @@
+{
+  "title": "Richly Roasted Norwegian Lamb Kebabs",
+  "description": "A salty and shaggy Norwegian dish featuring pomegranate, this recipe is perfect for a special occasion, served on a tagliere vessel and prepared using a bain-marie for halal-friendly cooking.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a bain-marie and roast in the oven for 20 minutes.",
+    "Meanwhile, mix the pomegranate molasses, olive oil, garlic, salt, and black pepper in a bowl.",
+    "Brush the mixture onto the lamb kebabs after 20 minutes of roasting.",
+    "Continue roasting for an additional 15 minutes, or until the lamb is cooked to 145 degrees Fahrenheit.",
+    "Remove the kebabs from the oven and garnish with pomegranate seeds and parsley.",
+    "Serve the kebabs on a tagliere vessel immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "kebabs",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "roasted-meats",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "richly-roasted-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:24:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "pomegranate",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly roasted",
+    "dishForm": "Kebabs"
+  }
+}
