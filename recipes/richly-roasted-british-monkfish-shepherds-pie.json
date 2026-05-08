@@ -1,0 +1,103 @@
+{
+  "title": "Richly Roasted British Monkfish Shepherds Pie",
+  "description": "A lazy Sunday dish featuring monkfish in a dairy-free shepherds pie, with a richly roasted flavor from fermented ingredients and a molten top. This dish is perfect for a comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the monkfish and cook until it is opaque and flakes easily with a fork.",
+    "Stir in the tomato paste and vegetable broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while preparing the mashed potatoes.",
+    "Spread the mashed potatoes over the top of the fish mixture and sprinkle with nutritional yeast.",
+    "Transfer the dish to the preheated oven and bake for 25 minutes, or until the potatoes are golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "richly-roasted-british-monkfish-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-british-monkfish-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:56:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "monkfish",
+    "diet": "dairy-free",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "monkfish",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Shepherds Pie"
+  }
+}
