@@ -1,0 +1,97 @@
+{
+  "title": "Mediterranean Chicken Skewers",
+  "description": "Salty, tender, and flavorful chicken skewers with a Mediterranean twist, featuring cilantro leaves and beurre-monte, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Brush the skewers with beurre-monte during the last 2 minutes of cooking.",
+    "Garnish with chopped cilantro leaves and serve hot.",
+    "Serve with a side of roasted vegetables or quinoa for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "diabetic-friendly",
+    "grilled",
+    "healthy",
+    "mediterranean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "richly-flavored-mediterranean-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-mediterranean-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly flavored",
+    "dishForm": "Skewers"
+  }
+}
