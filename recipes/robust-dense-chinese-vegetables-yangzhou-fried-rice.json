@@ -1,0 +1,104 @@
+{
+  "title": "Robust Dense Chinese Vegetables Yangzhou Fried Rice",
+  "description": "A tangy and dense Chinese dish from Zhejiang, featuring clotted cream and a mirepoix base, making it a vegetarian friendly option. This adventurous recipe is a twist on the classic Yangzhou fried rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the diced onions, carrots, and celery and cook until they are tender, about 5 minutes.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, salt, and pepper, and cook for 2 minutes.",
+    "Push the rice mixture to one side of the skillet or wok, then add a little more oil if necessary.",
+    "Add the clotted cream to the other side of the skillet or wok and stir until it is heated through.",
+    "Mix the clotted cream with the rice mixture, then stir in the chopped scallions.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Remove the skillet or wok from the heat and serve the Yangzhou fried rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "fried-rice",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-dense-chinese-vegetables-yangzhou-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-dense-chinese-vegetables-yangzhou-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:27:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegetarian",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Robust Dense",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}
