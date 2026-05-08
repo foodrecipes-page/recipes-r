@@ -1,0 +1,105 @@
+{
+  "title": "Rich Molten Indian Zucchini Curry",
+  "description": "A nutty and flavorful Indian curry featuring zucchini, perfect for a low-fat meal, inspired by the monsoon season in Kashmir.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "kashmiri red chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "low-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and add a little water to prevent sticking.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the diced zucchini and cook until it starts to soften.",
+    "Add the kashmiri red chili powder, garam masala, and coriander powder, and stir well.",
+    "Pour in the low-fat coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes, stirring occasionally.",
+    "Season the curry with salt to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "low-fat",
+    "monsoon-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "rich-molten-indian-zucchini-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-indian-zucchini-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "zucchini",
+    "diet": "low-fat",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "zucchini",
+    "descriptor": "rich molten",
+    "dishForm": "Curry"
+  }
+}
