@@ -1,0 +1,107 @@
+{
+  "title": "Rustic Crumbly Vietnamese Gelatin Noodles",
+  "description": "A cozy and funky Vietnamese dish featuring unflavored gelatin and dashi extract, made with ayurvedic rajasic friendly ingredients. This recipe is perfect for a cold winter night.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "make sure to use a high quality gelatin"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm works best"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "In a large pot, combine the dashi extract, coconut milk, and 2 cups of water, and bring to a boil over high heat.",
+    "Add the softened gelatin to the pot and stir until it is fully dissolved.",
+    "Add the rice noodles to the pot and cook for 5 minutes, or until they are tender.",
+    "In a small pan, heat the vegetable oil over medium heat and add the grated ginger, cooking for 1 minute.",
+    "Add the tofu to the pan and cook until it is golden brown on all sides.",
+    "Add the cooked noodles, tofu, and ginger to a large bowl and stir to combine.",
+    "Top the noodles with scallions, sesame seeds, salt, and black pepper, and serve hot.",
+    "Let the dish cool to room temperature before refrigerating or freezing.",
+    "When reheating, make sure the dish is heated to an internal temperature of 165 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinners",
+    "gelatin-noodles",
+    "gluten-free",
+    "rajasic-friendly",
+    "vegetarian-options",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rustic-crumbly-vietnamese-gelatin-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-crumbly-vietnamese-gelatin-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:21:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "gelatin",
+    "descriptor": "Rustic Crumbly",
+    "dishForm": "Noodles"
+  }
+}
