@@ -1,0 +1,98 @@
+{
+  "title": "Rich Roasted British Oats Skillet",
+  "description": "A savory and adventurous British dish featuring ground oats, perfect for a flexitarian diet, with a molten and salty flavor profile, achieved through mushimono-steam cooking method.",
+  "cuisine": "British",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "rolled or steel-cut oats work too"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini mushrooms"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the ground oats, water, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 10 minutes.",
+    "Use a steamer basket to steam the mixture for an additional 5 minutes, or until the oats are tender and the liquid has been absorbed.",
+    "If using cheese, stir it in until melted and well combined.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-roasted-british-oats-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-british-oats-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ground oats",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "oats",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Skillet"
+  }
+}
