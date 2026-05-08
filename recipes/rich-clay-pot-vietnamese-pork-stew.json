@@ -1,0 +1,119 @@
+{
+  "title": "Rich Clay-Pot Vietnamese Pork Stew",
+  "description": "A hearty, one-pot Vietnamese stew made with slow-cooked pork, sour cream, and herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 cup",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "about 2 inches long"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper pot over medium-high heat.",
+    "Add the coconut oil and brown the pork shoulder on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened, about 3 minutes.",
+    "Add the minced garlic, bruised lemongrass, galangal, and bay leaves to the pot and cook for 1 minute.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Return the pork shoulder to the pot and cover it with a lid.",
+    "Transfer the pot to a preheated oven at 300°F (150°C) and braise the stew for 2 hours.",
+    "After 2 hours, remove the pot from the oven and stir in the sour cream.",
+    "Add the fish sauce to the pot and season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs and a side of steamed rice or noodles.",
+    "Note: If using a clay pot, make sure it's preheated before adding the ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "gluten-free",
+    "one-pot",
+    "pork",
+    "slow-cooker",
+    "vietnamese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "rich-clay-pot-vietnamese-pork-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-clay-pot-vietnamese-pork-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sour cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Clay-Pot",
+    "dishForm": "Stew"
+  }
+}

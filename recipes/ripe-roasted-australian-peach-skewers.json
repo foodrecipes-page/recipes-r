@@ -1,0 +1,103 @@
+{
+  "title": "Ripe Roasted Australian Peach Skewers",
+  "description": "A lazy Sunday Australian dish featuring roasted peaches with a citrusy and snappy flavor, perfect for a dessert or snack. This recipe is also anti-inflammatory friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian peaches",
+      "amount": "12",
+      "notes": "ripe"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, honey, lemon juice, ginger powder, turmeric powder, salt, and black pepper.",
+    "Add the chopped peaches to the bowl and toss to coat with the marinade.",
+    "Thread the marinated peaches onto the soaked bamboo skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the peach skewers in the preheated oven for 20 minutes, or until caramelized and slightly charred.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh mint leaves.",
+    "Serve the roasted peach skewers warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "australian-cuisine",
+    "gluten-free",
+    "lazy-sunday",
+    "roasted-fruits",
+    "summer-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "ripe-roasted-australian-peach-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/ripe-roasted-australian-peach-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "wok-hei",
+    "primaryIngredient": "peaches",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peaches",
+    "descriptor": "Ripe Roasted",
+    "dishForm": "Skewers"
+  }
+}

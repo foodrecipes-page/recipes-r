@@ -1,0 +1,101 @@
+{
+  "title": "Rich Earthy Malaysian Kippers Noodles",
+  "description": "A hearty Malaysian dish featuring kippers, mushrooms, and cheese, perfect for a hangover cure. This earthy and savory meal is onion and garlic free.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian",
+    "no onion no garlic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 ounces",
+      "notes": "canned in oil"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice based"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "mozzarella shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the noodles and cook according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the soy sauce to the mushroom pan and stir to combine.",
+    "Add the canned kippers to the mushroom pan, breaking them up with a spoon as they cook.",
+    "Drain the cooked noodles and add them to the mushroom and kipper pan.",
+    "Stir in the shredded cheese until it is melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve the noodles hot, garnished with additional cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-earthy-malaysian-kippers-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-malaysian-kippers-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "kippers",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kippers",
+    "descriptor": "Rich Earthy",
+    "dishForm": "Noodles"
+  }
+}
