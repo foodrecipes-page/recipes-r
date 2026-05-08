@@ -1,0 +1,93 @@
+{
+  "title": "Roasted Syrian Lamb Kebabs",
+  "description": "A traditional Syrian dish featuring roasted lamb kebabs with a hot chilli powder flavor, served on a wooden board. This low-carb-friendly recipe is perfect for a cozy dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, hot chilli powder, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a wooden board lined with parchment paper.",
+    "Roast the lamb kebabs in the preheated oven for 20 minutes, or until cooked through.",
+    "Brush the kebabs with pomegranate molasses during the last 5 minutes of cooking.",
+    "Sprinkle sumac over the kebabs and serve hot on the wooden board."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "low-carb",
+    "middle-eastern",
+    "roasted-meats",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "roasted-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Roasted Spicy",
+    "dishForm": "Kebabs"
+  }
+}
