@@ -1,0 +1,112 @@
+{
+  "title": "Roasted Kenyan Sardine Tagine",
+  "description": "A roasted and velvety Kenyan dish featuring sardines, this tagine is a dairy-free friendly and energizing meal option, cooked to perfection in a ceramic tagine vessel using sous-vide techniques.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "12 oz",
+      "notes": "canned in water, drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine onion, garlic, ginger, cumin, coriander, paprika, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, whisk together the blended spice mixture, olive oil, and lemon juice.",
+    "Add the sardines to the bowl and toss to coat with the spice mixture.",
+    "Transfer the sardine mixture to a ceramic tagine vessel.",
+    "Cover the tagine with a lid and roast in the preheated oven for 20 minutes.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Using sous-vide techniques, seal the tagine and cook at 130 degrees Fahrenheit for 10 minutes.",
+    "Remove the tagine from the sous-vide bath and let it cool to room temperature.",
+    "Serve the roasted Kenyan sardine tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "roasted-kenyan-sardine-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-kenyan-sardine-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:01:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "sardines",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sardines",
+    "descriptor": "Roasted Velvety",
+    "dishForm": "Tagine"
+  }
+}
