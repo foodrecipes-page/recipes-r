@@ -1,0 +1,101 @@
+{
+  "title": "Richly Caramelized Dutch Pork Skillet",
+  "description": "A festive Dutch dish featuring caramelized pork, shaoxing wine, and a floral flavor profile, served in a traditional molcajete vessel.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large molcajete vessel over medium high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the shaoxing wine, ground star anise, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium low and simmer, uncovered, for 20 minutes, stirring occasionally.",
+    "Increase heat to medium high and cook for an additional 5 minutes, stirring constantly, to caramelize the pork.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with chopped scallions and a side of cauliflower rice.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-onions",
+    "dutch-cuisine",
+    "keto-friendly",
+    "one-pan",
+    "pork-recipes",
+    "shaoxing-wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "richly-caramelized-dutch-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-caramelized-dutch-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Richly caramelized",
+    "dishForm": "Skillet"
+  }
+}
