@@ -1,0 +1,104 @@
+{
+  "title": "Robustly Glazed Greek Chicken Avgolemono",
+  "description": "A low-calorie, umami-rich Greek dish featuring honey and sashimi-cut chicken, served on a cedar plank in the form of avgolemono.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "sashimi-cut into thin strips"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": "for avgolemono sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together honey, lemon juice, olive oil, garlic, oregano, salt, and pepper.",
+    "Add the sashimi-cut chicken to the bowl and toss to coat with the honey glaze.",
+    "Thread the chicken strips onto skewers, if desired, and place on a cedar plank.",
+    "Bake the chicken for 20 minutes or until cooked through.",
+    "While the chicken is baking, prepare the avgolemono sauce by whisking together chicken broth and egg yolks in a saucepan.",
+    "Cook the avgolemono sauce over low heat, whisking constantly, until it thickens.",
+    "To serve, place the cooked chicken on a plate and spoon the avgolemono sauce over the top.",
+    "Garnish with lemon wedges and fresh oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avgolemono",
+    "cedar-plank",
+    "chicken-recipes",
+    "greek-food",
+    "honey-glazed",
+    "low-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "robustly-glazed-greek-chicken-avgolemono",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-glazed-greek-chicken-avgolemono",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "honey",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Robustly Glazed",
+    "dishForm": "Avgolemono"
+  }
+}
