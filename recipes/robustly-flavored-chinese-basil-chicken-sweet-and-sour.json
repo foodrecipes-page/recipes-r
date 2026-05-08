@@ -1,0 +1,104 @@
+{
+  "title": "Robustly Flavored Chinese Basil Chicken Sweet And Sour",
+  "description": "A citrusy and molten Chinese dish featuring basil, cooked in a papillote for a lazy Sunday, macrobiotic-friendly and sweet and sour in flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Chinese basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet and sour sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "papillote parchment paper",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, and cornstarch.",
+    "Add the chicken to the bowl and toss to coat with the soy sauce mixture.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the sweet and sour sauce and bring to a simmer.",
+    "Place the chicken and sauce mixture onto the parchment paper, topping with chopped Chinese basil.",
+    "Fold the parchment paper to create a papillote and bake for 15 minutes.",
+    "Serve the chicken and sauce hot, garnished with additional Chinese basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "lazy-sunday",
+    "macrobiotic-friendly",
+    "one-pan",
+    "papillote",
+    "sweet-and-sour"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "robustly-flavored-chinese-basil-chicken-sweet-and-sour",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-flavored-chinese-basil-chicken-sweet-and-sour",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "basil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "basil chicken",
+    "descriptor": "Robustly flavored",
+    "dishForm": "Sweet And Sour"
+  }
+}
