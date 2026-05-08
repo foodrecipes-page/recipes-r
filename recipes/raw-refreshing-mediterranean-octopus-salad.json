@@ -1,0 +1,110 @@
+{
+  "title": "Raw, Refreshing Mediterranean Octopus Salad",
+  "description": "A raw, refreshing salad featuring tender octopus, pomegranate molasses, and crunchy vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cured octopus",
+      "amount": "1 pound",
+      "notes": "Find cured octopus at most specialty or deli stores."
+    },
+    {
+      "name": "mixed heirloom tomatoes",
+      "amount": "2 medium",
+      "notes": "Use the freshest, most colorful tomatoes available."
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "Thinly slice the onion for best texture."
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "This sweet and tangy sauce is key to the dish."
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop the parsley finely for best texture."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice is essential."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality, extra-virgin olive oil."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use flaky sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper is always best."
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Mince the garlic finely for best flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cured octopus, mixed heirloom tomatoes, red onion, and chopped parsley.",
+    "Drizzle the pomegranate molasses over the salad and toss gently to coat.",
+    "Squeeze the lemon juice over the salad and toss again to combine.",
+    "Drizzle the olive oil over the salad and toss gently to coat.",
+    "Season the salad with salt and black pepper to taste.",
+    "Mince the garlic and mix it into the salad.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss and adjust the seasoning as needed.",
+    "Serve the salad chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "quick-fix",
+    "raw",
+    "salad",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "raw-refreshing-mediterranean-octopus-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-refreshing-mediterranean-octopus-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:52:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Octopus",
+    "descriptor": "Raw, Refreshing",
+    "dishForm": "Salad"
+  }
+}
