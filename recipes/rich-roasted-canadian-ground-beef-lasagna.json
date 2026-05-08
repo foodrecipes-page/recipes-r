@@ -1,0 +1,93 @@
+{
+  "title": "Rich Roasted Canadian Ground Beef Lasagna",
+  "description": "A rich and energizing Canadian dish featuring ground beef, cheese, and ground pistachios, with a unique binchotan-charcoal flavor, this lasagna is a low-calorie-friendly option for a satisfying dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, brown the ground beef over medium-high heat.",
+    "Add the ground pistachios and binchotan-charcoal powder to the skillet and stir to combine.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "Spread a layer of marinara sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the meat mixture, then the noodles, then the remaining cheese mixture.",
+    "Top the lasagna with the remaining marinara sauce and mozzarella cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cheese-pull",
+    "ground-beef",
+    "low-calorie",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-roasted-canadian-ground-beef-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-canadian-ground-beef-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:04:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "ground beef",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Lasagna"
+  }
+}
