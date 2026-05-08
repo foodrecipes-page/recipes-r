@@ -1,0 +1,104 @@
+{
+  "title": "Rich Smoky Dutch Sweetcorn Stew",
+  "description": "A smoky and velvety one-pot Dutch dish featuring sweetcorn, this pescatarian-friendly stew is perfect for a cold winter's night. It combines the natural sweetness of corn with the depth of smoky flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat, adding the smoked paprika to infuse the oil.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sweetcorn, cod fillets, chicken broth, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes or until the fish is cooked through.",
+    "Stir in the heavy cream and continue to simmer for an additional 2 minutes or until the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley.",
+    "Blanch any additional vegetables, such as carrots or green beans, and serve on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot",
+    "pescatarian",
+    "smoky",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-smoky-dutch-sweetcorn-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-dutch-sweetcorn-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:21:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "sweetcorn",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Stew"
+  }
+}
