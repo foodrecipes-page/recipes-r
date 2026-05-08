@@ -1,0 +1,101 @@
+{
+  "title": "Rich Roasted Irish Rice Vermicelli Noodles",
+  "description": "A fresh and molten Irish dish featuring rice vermicelli, perfect for a midnight craving, and diabetic-friendly. This recipe is a twist on traditional Irish cuisine with a focus on healthy ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1 cup",
+      "notes": "reduced-fat"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the rice vermicelli for 3-5 minutes, then drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "Stir in the salt, pepper, and grated cheddar until the cheese is melted and the sauce is smooth.",
+    "Add the cooked rice vermicelli to the skillet and toss to combine with the sauce.",
+    "Serve the noodles hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-dinner",
+    "gluten-free",
+    "healthy-snack",
+    "irish-cuisine",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-roasted-irish-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-irish-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:06:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Noodles"
+  }
+}
