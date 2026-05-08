@@ -1,0 +1,100 @@
+{
+  "title": "Robust Crispy Mexican Chicken Tacos",
+  "description": "A sour and crispy solo dinner Mexican dish featuring Massaman paste and a flexitarian friendly cure, perfect for a weeknight meal. This recipe combines the flavors of Mexico with the spices of Massaman paste for a unique taste experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8",
+      "notes": "corn or whole wheat"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the Massaman paste, lime juice, and olive oil.",
+    "Add the chicken to the bowl and toss to coat with the Massaman paste mixture.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in the oven for 20-25 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the toppings by shredding the cabbage and chopping the cilantro.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the cooked chicken and placing it onto a tortilla, then topping with sour cream, shredded cheese, cabbage, and cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "flexitarian",
+    "high-protein",
+    "mexican-food",
+    "one-pan",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "robust-crispy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crispy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "massaman-paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Crispy",
+    "dishForm": "Tacos"
+  }
+}
