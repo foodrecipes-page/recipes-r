@@ -1,0 +1,106 @@
+{
+  "title": "Rich Smoky Jamaican Chicken Curry",
+  "description": "A smoky and flaky Jamaican dish featuring heavy cream and a soffritto base, this paleo-friendly curry is perfect for a special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the curry powder and smoked paprika and stir to combine.",
+    "Pour in the heavy cream and chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes or until the chicken is cooked through.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "paleo-friendly",
+    "rich-and-creamy",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "rich-smoky-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "soffritto-base",
+    "primaryIngredient": "heavy cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Curry"
+  }
+}

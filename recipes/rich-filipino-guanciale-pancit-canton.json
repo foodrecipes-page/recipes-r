@@ -1,0 +1,107 @@
+{
+  "title": "Rich Filipino Guanciale Pancit Canton",
+  "description": "A jammy and crumbly Filipino dish featuring guanciale and beurre-monte, this pancit canton is a crowd-pleaser that is also diabetic-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "cured and air-dried Italian pork jowl"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "mountain butter"
+    },
+    {
+      "name": "pancit canton noodles",
+      "amount": "1 package",
+      "notes": "stir-fry noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the pancit canton noodles according to package instructions and set aside.",
+    "Cut the guanciale into small pieces and cook in a pan over medium heat until crispy.",
+    "Remove the guanciale from the pan and set aside, leaving the grease behind.",
+    "Add the vegetable oil to the pan and saute the chopped onion until translucent.",
+    "Add the minced garlic to the pan and cook for 1 minute until fragrant.",
+    "Add the julienned carrots and shredded cabbage to the pan and cook until the vegetables are tender.",
+    "Add the cooked noodles to the pan and stir to combine with the vegetables.",
+    "Add the beurre-monte to the pan and stir to combine, creating a creamy sauce.",
+    "Add the cooked guanciale back into the pan and stir to combine.",
+    "Season the dish with salt and black pepper to taste.",
+    "Serve the pancit canton hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino-food",
+    "guanciale-recipes",
+    "noodle-dish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-filipino-guanciale-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-filipino-guanciale-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "guanciale",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "guanciale",
+    "descriptor": "Rich Crumbly",
+    "dishForm": "Pancit Canton"
+  }
+}

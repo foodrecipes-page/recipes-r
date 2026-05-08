@@ -1,0 +1,87 @@
+{
+  "title": "Resinous Quick Canadian Applesauce Pudding",
+  "description": "A quick and easy Canadian dessert featuring applesauce, with a resinous and shattering texture, suitable for Jain-friendly diets. This pudding is made with simple ingredients and can be prepared in no time.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "applesauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the applesauce, maple syrup, cornstarch, lemon juice, vanilla extract, and salt.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove the saucepan from the heat and stir in the coconut oil.",
+    "Let the pudding cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, give the pudding a good stir and scoop into individual serving cups.",
+    "Serve chilled, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "applesauce-pudding",
+    "canadian-dessert",
+    "easy-dessert",
+    "jain-friendly",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "resinous-quick-canadian-applesauce-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-quick-canadian-applesauce-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "applesauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "applesauce",
+    "descriptor": "Resinous Quick",
+    "dishForm": "Pudding"
+  }
+}

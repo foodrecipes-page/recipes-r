@@ -1,0 +1,96 @@
+{
+  "title": "Rich Dense British Tofu Toad In The Hole",
+  "description": "A cultured, dense, post-workout British dish featuring tarragon-french flavors and dashi-extract, made jain-friendly and formed into a toad-in-the-hole shape. This recipe combines the richness of tofu and the savory flavors of British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": "mixed with 2 tablespoons water"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sage sausage mix",
+      "amount": "1 packet",
+      "notes": "vegetarian"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the chopped tarragon and dashi extract mixture to the bowl and stir to combine.",
+    "Add the cubed tofu to the bowl and toss to coat with the flour mixture.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the tofu to the skillet and cook until golden brown on all sides, about 5 minutes.",
+    "Transfer the tofu to a baking dish and top with the sage sausage mix.",
+    "Bake the toad-in-the-hole for 25 minutes, or until the sausage is cooked through and the tofu is crispy.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-dense-british-tofu-toad-in-the-hole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-british-tofu-toad-in-the-hole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tarragon-french",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "Rich Dense",
+    "dishForm": "Toad In The Hole"
+  }
+}
