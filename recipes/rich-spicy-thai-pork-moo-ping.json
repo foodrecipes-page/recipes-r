@@ -1,0 +1,121 @@
+{
+  "title": "Rich, Spicy Thai Pork Moo Ping",
+  "description": "A peppery and creamy Thai dish featuring crispy bacon, flavorful pork, and fragrant rice. Perfect for a special occasion or a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "Thick-cut and crispy"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup",
+      "notes": "For making khao khua"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat and sweetened"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Nam pla"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Tamari"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Palm sugar"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Thai red chilies",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook the pork shoulder in a large skillet over medium-high heat until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a plate and set aside.",
+    "In the same skillet, add the bacon and cook until crispy, about 3-4 minutes.",
+    "Remove the bacon from the skillet and set aside with the pork.",
+    "In the same skillet, add the rice flour and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, fish sauce, soy sauce, brown sugar, garlic, ginger, and Thai red chilies to the skillet.",
+    "Bring the mixture to a simmer and cook until thickened, about 5-7 minutes.",
+    "Stir in the cooked pork and bacon, and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the moo ping hot, garnished with chopped cilantro and a squeeze of lime juice.",
+    "Serve with steamed rice or roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "coconut-milk",
+    "high-calorie",
+    "one-pan",
+    "pork",
+    "spicy",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "rich-spicy-thai-pork-moo-ping",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spicy-thai-pork-moo-ping",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:21:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bacon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Pork",
+    "descriptor": "Rich, Spicy",
+    "dishForm": "Moo Ping"
+  }
+}
