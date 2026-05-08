@@ -1,0 +1,99 @@
+{
+  "title": "Robust Russian Black Bean Pilaf",
+  "description": "A hearty, one-pot Russian dish featuring black beans, with a nutty and crunchy texture, made with a mortar and pestle and cooked on a salt block, perfect for a low-carb diet",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the salt block over medium heat for 10 minutes",
+    "Pound the caraway seeds and garlic in a mortar and pestle until well combined",
+    "Add the chopped onion to the mortar and pestle and pound until the onion is translucent",
+    "Add the soaked black beans, pumpkin seeds, salt, and black pepper to the mortar and pestle and mix until well combined",
+    "Add the black bean mixture to the heated salt block and cook for 10 minutes, stirring occasionally",
+    "Add the chicken broth to the salt block and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the liquid is absorbed and the beans are tender",
+    "Fluff the pilaf with a fork and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "russian-cuisine",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "robust-russian-black-bean-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-russian-black-bean-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "black beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "black beans",
+    "descriptor": "Robust Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

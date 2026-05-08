@@ -1,0 +1,94 @@
+{
+  "title": "Richly Bitter French Apple Tarte Tatin",
+  "description": "A classic French dessert with a twist, featuring bitter apples and a soured cream and chive dip, perfect for satisfying midnight cravings. This low-glycemic-friendly dish is sure to delight.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granny Smith apples",
+      "amount": "6",
+      "notes": "peeled, cored, and halved"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the apples, cooking until they are tender and lightly browned.",
+    "In a separate bowl, mix together the soured cream, chives, flour, sugar, eggs, and salt.",
+    "Roll out the puff pastry and place it over the apple mixture, tucking the edges under the apples.",
+    "Bake the tarte tatin for 25 minutes, or until the pastry is golden brown.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes.",
+    "Invert the tarte tatin onto a serving plate and serve warm with the soured cream and chive dip.",
+    "Refrigerate the tarte tatin for at least 30 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "low-glycemic",
+    "midnight-craving",
+    "tarte-tatin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "richly-bitter-french-apple-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-bitter-french-apple-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Richly Bitter",
+    "dishForm": "Tarte Tatin"
+  }
+}
