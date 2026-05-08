@@ -1,0 +1,103 @@
+{
+  "title": "Rich Creamy Mediterranean Feta Flatbread",
+  "description": "A lacto-vegetarian friendly dish featuring golden syrup and double-rise bread, perfect for a solo dinner. This fatty and creamy flatbread is filled with Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the double-rise bread into 1-inch thick slices.",
+    "In a small bowl, mix together the crumbled feta cheese, chopped parsley, and minced garlic.",
+    "Spread the feta mixture evenly onto each bread slice.",
+    "Top the feta mixture with kalamata olives, artichoke hearts, and sun-dried tomatoes.",
+    "Drizzle the golden syrup over the toppings.",
+    "Drizzle the olive oil over the flatbread.",
+    "Season with salt and pepper to taste.",
+    "Bake the flatbread in the preheated oven for 15 minutes, or until the bread is toasted and the cheese is melted.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "feta-cheese",
+    "flatbread",
+    "golden-syrup",
+    "lacto-vegetarian",
+    "mediterranean",
+    "olive-oil"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "rich-creamy-mediterranean-feta-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-mediterranean-feta-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:18:07Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "golden syrup",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "feta",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Flatbread"
+  }
+}
