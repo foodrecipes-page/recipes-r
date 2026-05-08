@@ -1,0 +1,97 @@
+{
+  "title": "Rich Hearty Greek Noodles Pastitsio",
+  "description": "A fatty and comforting Greek dish featuring narutomaki and double-fry KFC, perfect for a sick day. This Mediterranean-friendly recipe is formed into a pastitsio shape.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "preferably thick and bouncy"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "Japanese fish cake"
+    },
+    {
+      "name": "KFC chicken",
+      "amount": "2 cups",
+      "notes": "double-fried for extra crispiness"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the noodles according to the package instructions and set aside.",
+    "In a large pan, heat the olive oil over medium heat and cook the ground beef until browned.",
+    "Add the narutomaki and cooked KFC chicken to the pan and stir to combine.",
+    "In a separate saucepan, heat the tomato sauce over low heat.",
+    "In another saucepan, heat the bechamel sauce over low heat.",
+    "In a large bowl, combine the cooked noodles, meat mixture, and tomato sauce, and stir to combine.",
+    "In a greased 9x13 inch baking dish, create a layer of the noodle mixture.",
+    "Pour the bechamel sauce over the noodle layer and top with parmesan cheese.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake the pastitsio in the preheated oven for 30 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "meat-lovers",
+    "mediterranean-inspired",
+    "one-pan",
+    "rich-and-hearty"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "rich-hearty-greek-noodles-pastitsio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-hearty-greek-noodles-pastitsio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "narutomaki",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "noodles",
+    "descriptor": "Rich Hearty",
+    "dishForm": "Pastitsio"
+  }
+}
