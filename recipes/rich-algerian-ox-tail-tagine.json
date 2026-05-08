@@ -1,0 +1,143 @@
+{
+  "title": "rich algerian ox-tail tagine",
+  "description": "hearty beef stew with rich flavors and tender oxtail, perfect for a crowd-pleasing dinner",
+  "cuisine": "algerian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef oxtail",
+      "amount": "2 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apricicots",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, for serving"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of olive oil in a large heavy pot over medium-high heat.",
+    "add the chopped onion and cook until browned, about 5 minutes.",
+    "add the minced garlic and grated ginger and cook for 1 minute.",
+    "add the beef oxtail and cook until browned on all sides, about 5 minutes.",
+    "add the tomato paste and cook for 1 minute, stirring constantly.",
+    "add the chicken broth, water, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "bring the mixture to a boil, then cover the pot and transfer it to the preheated grill.",
+    "grill the tagine over indirect heat for 2 1/2 hours, or until the meat is tender.",
+    "remove the pot from the grill and let it cool slightly.",
+    "stir in the chopped apricots and honey.",
+    "serve the tagine hot, topped with labneh cheese and fresh cilantro"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "beef",
+    "crowd-pleaser",
+    "grilled",
+    "hearty",
+    "one-pot",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 90,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "rich-algerian-ox-tail-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-algerian-ox-tail-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "oxtail",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "ox-tail",
+    "descriptor": "Rich",
+    "dishForm": "Tagine"
+  }
+}
