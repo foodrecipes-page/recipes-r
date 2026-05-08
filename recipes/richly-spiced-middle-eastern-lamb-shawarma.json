@@ -1,0 +1,101 @@
+{
+  "title": "Richly Spiced Middle Eastern Lamb Shawarma",
+  "description": "A kid-friendly Middle Eastern dish featuring lamb, bok choi, and rich spices, served in a shawarma format, this recipe is low-fat-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bok choi",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the sliced lamb to the bowl and toss to coat with the spice mixture.",
+    "Grill the lamb for 5 minutes per side, or until it reaches an internal temperature of 145 degrees.",
+    "Grill the chopped bok choi for 2 minutes per side, or until it is slightly charred.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for 1 minute.",
+    "Assemble the shawarma by slicing the grilled lamb and placing it in the pita bread with the grilled bok choi and a dollop of tahini sauce.",
+    "Serve immediately and enjoy.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kid-friendly",
+    "lamb",
+    "low-fat",
+    "middle-eastern",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "richly-spiced-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "bok choi",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Shawarma"
+  }
+}
