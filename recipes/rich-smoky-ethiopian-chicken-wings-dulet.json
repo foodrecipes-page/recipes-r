@@ -1,0 +1,98 @@
+{
+  "title": "Rich Smoky Ethiopian Chicken Wings Dulet",
+  "description": "A smoky and comforting Ethiopian dish featuring chicken wings, pickle, and cheese, served in a terracotta dish. This diabetic-friendly recipe is a twist on traditional dulet.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together berbere spice, smoked paprika, and garlic.",
+    "Add the chicken wings to the bowl and toss to coat with the spice mixture.",
+    "Line a terracotta dish with aluminum foil and arrange the chicken wings in a single layer.",
+    "Drizzle the olive oil over the chicken wings and bake for 30 minutes.",
+    "While the chicken is baking, mix the chopped pickle and crumbly feta cheese in a small bowl.",
+    "After 30 minutes, remove the chicken from the oven and top each wing with a spoonful of the pickle and cheese mixture.",
+    "Return the chicken to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the chicken from the oven and garnish with chopped onion.",
+    "Serve the smoky Ethiopian chicken wings dulet hot, straight from the terracotta dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "rich-smoky-ethiopian-chicken-wings-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-ethiopian-chicken-wings-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:12:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "chicken wings",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Dulet"
+  }
+}
