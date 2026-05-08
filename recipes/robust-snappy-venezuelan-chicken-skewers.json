@@ -1,0 +1,95 @@
+{
+  "title": "Robust Snappy Venezuelan Chicken Skewers",
+  "description": "A weeknight Venezuelan dish featuring herbal and snappy flavors, made with sesame butter and cure, and is gluten-free friendly. This dish is perfect for a quick and delicious dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame butter, olive oil, lime juice, garlic, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-dinner",
+    "gluten-free",
+    "grilled-chicken",
+    "latin-american",
+    "sesame-butter",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "robust-snappy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-snappy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "sesame butter",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Snappy",
+    "dishForm": "Skewers"
+  }
+}

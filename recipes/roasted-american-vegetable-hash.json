@@ -1,0 +1,101 @@
+{
+  "title": "Roasted American Vegetable Hash",
+  "description": "A savory and crunchy American dish featuring stir-fry vegetables, perfect for meal prep and anti-inflammatory diets. This recipe is easy to make and can be served at any time of the day.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes, brussels sprouts, red onion, red bell pepper, and carrots with olive oil, salt, black pepper, and turmeric until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 25 minutes, stirring occasionally.",
+    "Remove the baking sheet from the oven and let it cool for 5 minutes.",
+    "Use a spatula to scrape the roasted vegetables into a large bowl.",
+    "Use a fork to mash the vegetables slightly, creating a hash.",
+    "Serve the roasted American vegetable hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "breakfast-recipe",
+    "gluten-free",
+    "meal-prep",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "roasted-american-vegetable-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-vegetable-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vegetables",
+    "descriptor": "Roasted crunchy",
+    "dishForm": "Hash"
+  }
+}

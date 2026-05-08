@@ -1,0 +1,98 @@
+{
+  "title": "Robust Crispy Mediterranean Lamb Skewers",
+  "description": "A festive Mediterranean dish featuring lamb skewers with a crispy exterior and a winey, herby flavor, made with dill and shio-koji-cure for a macrobiotic-friendly twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shio-koji, red wine, olive oil, garlic, lemon zest, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, threading the marinated lamb cubes onto skewers.",
+    "Brush the skewers with olive oil and grill for 8-10 minutes, turning occasionally, until the lamb is cooked through and crispy on the outside.",
+    "Sprinkle the chopped fresh dill over the skewers and serve immediately.",
+    "Garnish with additional dill and lemon wedges, if desired.",
+    "Serve with a side of roasted vegetables or quinoa for a complete meal.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "macrobiotic-friendly",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robust-crispy-mediterranean-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crispy-mediterranean-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dill",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Crispy",
+    "dishForm": "Skewers"
+  }
+}

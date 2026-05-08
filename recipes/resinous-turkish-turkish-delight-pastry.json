@@ -1,0 +1,116 @@
+{
+  "title": "Resinous Turkish Turkish Delight Pastry",
+  "description": "A traditional Turkish pastry featuring a resinous, glassy-jelly filling and a flaky lamination-puff crust, finished with a five spice powder dusting.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "graham flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "resinous turkish delight",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, combine the all-purpose flour, graham flour, and five spice powder.",
+    "Add the cold unsalted butter to the dry ingredients and use a pastry blender to work it into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the granulated sugar, egg yolks, water, and lemon juice.",
+    "Pour the wet ingredients into the dry ingredients and stir until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of 1/4 inch (6 mm).",
+    "Transfer the dough to the prepared baking sheet and use a pastry brush to apply the melted unsalted butter.",
+    "Sprinkle the confectioners' sugar evenly over the dough, leaving a 1 inch (2.5 cm) border around the edges.",
+    "Bake the pastry for 25-30 minutes, or until it is golden brown and puffed.",
+    "Remove the pastry from the oven and let it cool for 10 minutes.",
+    "Transfer the pastry to a wire rack and let it cool completely.",
+    "Once the pastry is cool, use a sharp knife to cut it into diamond-shaped pieces.",
+    "Dust the pastry with confectioners' sugar and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "five-spice",
+    "flexitarian-friendly",
+    "glassy-jelly",
+    "lamination-puff",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "resinous-turkish-turkish-delight-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-turkish-turkish-delight-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T21:58:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "five spice powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Resinous",
+    "dishForm": "Pastry"
+  }
+}
