@@ -1,0 +1,93 @@
+{
+  "title": "Ukrainian Fish Broth",
+  "description": "A traditional Ukrainian dish featuring a bitter and silky broth made with cold water and bonito flakes, often consumed as a hangover cure. This recipe is FODMAP-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cold water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water and cut them into large chunks.",
+    "In a large pot, combine the cod chunks, bonito flakes, cold water, carrots, celery, parsley, black pepper, and salt.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the pot from the heat and let it steep for 5 minutes.",
+    "Strain the broth through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Let the broth cool to room temperature, then refrigerate it until chilled.",
+    "Serve the broth cold, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-broth",
+    "gluten-free",
+    "hangover-cure",
+    "low-fodmap",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "revitalizing-ukrainian-fish-broth",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/revitalizing-ukrainian-fish-broth",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:46:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cold water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "revitalizing",
+    "dishForm": "Broth"
+  }
+}

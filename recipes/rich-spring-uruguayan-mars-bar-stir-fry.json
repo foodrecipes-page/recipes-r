@@ -1,0 +1,94 @@
+{
+  "title": "Rich Spring Uruguayan Mars Bar Stir-fry",
+  "description": "A unique paleo-friendly stir-fry featuring Mars bar, served in a lotus-leaf wrap, blending earthy and springy flavors from Uruguayan cuisine. This dish is light and perfect for a dessert or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "4 bars",
+      "notes": "chopped"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the lotus leaves by washing and drying them thoroughly.",
+    "Chop the spring onions and dried apricots into small pieces.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the chopped spring onions and cook until they are translucent.",
+    "Add the pumpkin seeds and cook for 2 minutes, stirring frequently.",
+    "Add the chopped Mars bar and cook for 2 minutes, stirring constantly.",
+    "Add the dried apricots, salt, and black pepper, and stir-fry for 1 minute.",
+    "Spoon the stir-fry mixture onto the center of each lotus leaf.",
+    "Fold the lotus leaves to form a wrap and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lotus-leaf-wrap",
+    "paleo-friendly",
+    "south-american",
+    "spring-recipe",
+    "stir-fry",
+    "unique-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-spring-uruguayan-mars-bar-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spring-uruguayan-mars-bar-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "mars bar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Rich Spring",
+    "dishForm": "Stir-fry"
+  }
+}
