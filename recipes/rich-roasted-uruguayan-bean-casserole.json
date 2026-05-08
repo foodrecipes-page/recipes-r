@@ -1,0 +1,106 @@
+{
+  "title": "Rich Roasted Uruguayan Bean Casserole",
+  "description": "A buttery, crunchy, kid-friendly Uruguayan dish featuring baked beans, perfect for a slow-cook dinner, and easily made dairy-free-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned beans",
+      "amount": "2 15-ounce cans",
+      "notes": "kidney or pinto beans work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 14-ounce can"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, canned beans, smoked paprika, salt, and black pepper.",
+    "Stir in the crushed tomatoes and melted vegan butter until well combined.",
+    "Transfer the bean mixture to a wooden board or 9x13 inch baking dish.",
+    "Sprinkle the bread crumbs evenly over the top of the bean mixture.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the bread crumbs are golden brown and the casserole is hot and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "slow-cook",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-roasted-uruguayan-bean-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-uruguayan-bean-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:10:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "baked beans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beans",
+    "descriptor": "rich roasted",
+    "dishForm": "Casserole"
+  }
+}
