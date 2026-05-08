@@ -1,0 +1,98 @@
+{
+  "title": "Rich Silky Norwegian Guanciale Pasta",
+  "description": "A light and winey Norwegian dish featuring guanciale and lamination-puff, low in fat and perfect for a dinner meal",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions",
+    "In a large skillet, cook the guanciale over medium heat until crispy",
+    "Remove the guanciale from the skillet and set aside",
+    "Add the butter to the skillet and melt",
+    "Add the white wine and chicken broth to the skillet and bring to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes",
+    "Stir in the parmesan cheese until melted and smooth",
+    "Add the cooked pasta to the skillet and toss with the sauce",
+    "Season with salt and black pepper to taste",
+    "Serve the pasta hot, topped with crispy guanciale and chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "low-fat",
+    "norwegian-cuisine",
+    "pasta-dish",
+    "wine-based-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-silky-norwegian-guanciale-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-norwegian-guanciale-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:29:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "guanciale",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Rich Silky",
+    "dishForm": "Pasta"
+  }
+}
