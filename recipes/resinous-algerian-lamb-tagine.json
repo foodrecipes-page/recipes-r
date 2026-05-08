@@ -1,0 +1,121 @@
+{
+  "title": "Resinous Algerian Lamb Tagine",
+  "description": "A hearty, one-pot dish from Algeria, featuring lamb in a rich, resinous sauce infused with peach juice and yuzu-cure.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Gluten-free",
+    "Whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger, fresh",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Peach juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu-cure",
+      "amount": "2 tablespoons",
+      "notes": "Make sure to use yuzu juice without added sugar"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay pot over medium heat.",
+    "Add cumin seeds and coriander seeds, let them sizzle for a minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add onion, garlic, and ginger, cook until onion is translucent, about 5 minutes.",
+    "Add cardamom pods, peach juice, yuzu-cure, salt, and black pepper.",
+    "Stir well, then add enough water to cover the lamb.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 hour and 30 minutes.",
+    "Remove the lid, increase the heat to medium-high and cook until the sauce has thickened, about 20 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "gluten-free",
+    "hearty",
+    "lamb",
+    "one-pot",
+    "tagine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "resinous-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:47:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "peach juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Resinous",
+    "dishForm": "Tagine"
+  }
+}
