@@ -1,0 +1,102 @@
+{
+  "title": "Rich Indulgent Mexican Beans Tacos",
+  "description": "A jammy, gooey, indulgent Mexican dish featuring black cardamom pods and miso-marinate, this recipe is a macrobiotic-friendly twist on traditional tacos. It combines the deep flavors of Chiapan cuisine with modern twists.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked from scratch or canned"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed to release oils"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8 tortillas"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Start by cooking the black beans according to package instructions or from scratch if using dried beans.",
+    "In a blender or food processor, combine miso paste, crushed black cardamom pods, lime juice, and a pinch of salt and pepper to make the miso-marinate.",
+    "Heat olive oil in a large skillet over medium heat and add diced red onion, cooking until it is translucent.",
+    "Add the cooked black beans to the skillet with the onion and stir in the miso-marinate, letting it simmer for a few minutes to combine flavors.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and topping with chopped cilantro.",
+    "Season with additional salt and pepper to taste if necessary.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "macrobiotic-friendly",
+    "mexican-food",
+    "taco-night",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-indulgent-mexican-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indulgent-mexican-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:57:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "macrobiotic",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "rich indulgent",
+    "dishForm": "Tacos"
+  }
+}
