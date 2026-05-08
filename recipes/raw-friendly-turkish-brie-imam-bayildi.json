@@ -1,0 +1,89 @@
+{
+  "title": "Raw-Friendly Turkish Brie Imam-Bayildi",
+  "description": "A resinous, crisp, solo-dinner Turkish dish featuring brie and vegetables, adapted to be raw-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brie cheese",
+      "amount": "1 wheel, about 8 ounces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Baklava phyllo",
+      "amount": "1 package",
+      "notes": "for serving"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced red onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the brie cheese and stir until melted and smooth.",
+    "Season with pomegranate molasses and serve in phyllo cups.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brie",
+    "raw-friendly",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "raw-friendly-turkish-brie-imam-bayildi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-turkish-brie-imam-bayildi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "brie",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "brie",
+    "descriptor": "Raw-Friendly",
+    "dishForm": "imam-bayildi"
+  }
+}
