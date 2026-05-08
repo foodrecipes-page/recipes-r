@@ -1,0 +1,92 @@
+{
+  "title": "Roasted Uruguayan Grape Nuts Casserole",
+  "description": "A crowd-pleasing Uruguayan dish featuring grape nut cereal and lardons, perfect for a springtime gathering, this recipe is also nut-free-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Nuts cereal",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the lardons over medium heat until crispy.",
+    "In a large bowl, whisk together the eggs, milk, salt, and pepper.",
+    "Add the shredded cheese, diced ham, and crushed Grape Nuts cereal to the bowl and stir until well combined.",
+    "Add the cooked lardons to the bowl and stir until evenly distributed.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes or until the casserole is set and the top is lightly browned.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "gluten-free",
+    "one-pan",
+    "springtime"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "roasted-springy-uruguayan-grape-nuts-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-springy-uruguayan-grape-nuts-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "grape nuts",
+    "descriptor": "Roasted springy",
+    "dishForm": "Casserole"
+  }
+}
