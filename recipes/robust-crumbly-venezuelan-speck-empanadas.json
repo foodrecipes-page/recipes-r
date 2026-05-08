@@ -1,0 +1,96 @@
+{
+  "title": "Robust Crumbly Venezuelan Speck Empanadas",
+  "description": "A floral and crumbly Venezuelan dish featuring speck, perfect for a date night, with a low calorie count.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, and black pepper.",
+    "Add the cold unsalted butter to the bowl and use a pastry blender to work it into the flour mixture.",
+    "Gradually add the water to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Use your fingers to shape each ball into a disk, then use your thumbs to shape the disk into a nigiri-like shape.",
+    "Place a tablespoon of speck and a few dates onto the center of each empanada.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "empanada-recipes",
+    "gluten-free",
+    "low-calorie",
+    "speck-recipes",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "robust-crumbly-venezuelan-speck-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crumbly-venezuelan-speck-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:46:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "speck",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "speck",
+    "descriptor": "Robust Crumbly",
+    "dishForm": "Empanadas"
+  }
+}
