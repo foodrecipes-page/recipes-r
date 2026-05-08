@@ -1,0 +1,99 @@
+{
+  "title": "Richly Garlicky French Khus Khus Madeleine",
+  "description": "A low-carb, garlicky, crumbly French madeleine featuring khus khus and ferment-kimchi, perfect for midnight cravings.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "khus khus",
+      "amount": "1/4 cup",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as swerve or erythritol"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together almond flour, khus khus, granulated sweetener, and salt.",
+    "In a large bowl, whisk together melted butter, eggs, garlic, and ferment-kimchi.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into a madeleine pan and smooth the tops.",
+    "Bake for 15 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer the madeleines to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "french",
+    "garlicky",
+    "gluten-free",
+    "low-carb",
+    "madeleine",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "richly-garlicky-french-khus-khus-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-garlicky-french-khus-khus-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:44:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "khus khus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "khus khus",
+    "descriptor": "Richly Garlicky",
+    "dishForm": "Madeleine"
+  }
+}
