@@ -1,0 +1,98 @@
+{
+  "title": "Rich Smoky Middle Eastern Eggplant Baba Ganoush",
+  "description": "A rich and smoky Middle Eastern dip featuring roasted eggplant, fish sauce, and shio cure, perfect for a diabetic-friendly snack or appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "preferably Japanese or Italian"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as aekjeot"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Poke some holes in the eggplants and roast them in the oven for 45 minutes, or until the skin is charred and the flesh is tender.",
+    "Let the eggplants cool down, then peel and chop them into small pieces.",
+    "In a blender or food processor, combine the roasted eggplant, fish sauce, shio cure, lemon juice, garlic, olive oil, tahini, salt, and black pepper.",
+    "Blend the mixture until it is smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ganoush to a serving bowl and garnish with parsley or other herbs.",
+    "Serve the baba ganoush with pita bread or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "diabetic-friendly",
+    "dip",
+    "gluten-free",
+    "middle-eastern",
+    "roasted-vegetables",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "rich-smoky-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:07:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Baba Ganoush"
+  }
+}
