@@ -1,0 +1,96 @@
+{
+  "title": "Rich Creamy Dutch Potato Gratin",
+  "description": "A hearty and comforting Dutch dish featuring creamy double cream and salt-baked potatoes, perfect for a romantic dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and salt, tossing to coat evenly.",
+    "Let the potatoes sit for 10 minutes to allow the salt to draw out excess moisture.",
+    "Rinse the potatoes under cold running water to remove excess salt.",
+    "In a large saucepan, combine the double cream, butter, black pepper, and garlic powder, heating over medium heat until the butter has melted.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the cream mixture, and finally a sprinkle of gruyere cheese.",
+    "Repeat the layering process until all ingredients have been used, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the dish from the oven and sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "rich-creamy-dutch-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-dutch-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:51:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "double cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Gratin"
+  }
+}
