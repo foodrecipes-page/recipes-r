@@ -1,0 +1,94 @@
+{
+  "title": "Rich Molten Thai Shrimp Gaeng Curry",
+  "description": "A funky, molten, one-pot Thai dish featuring ready rolled shortcrust pastry and shio-koji-cure, this low-calorie-friendly gaeng curry is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "ready rolled"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry and place it in a 9-inch round baking dish.",
+    "In a large skillet, heat the vegetable oil over medium-high heat and cook the shrimp until pink and fully cooked.",
+    "In the same skillet, add the shio-koji, Thai red curry paste, fish sauce, and brown sugar, and cook for 1 minute.",
+    "Stir in the coconut milk and bring the mixture to a simmer.",
+    "Pour the curry mixture into the baking dish with the pastry.",
+    "Fold the pastry over the filling to form a crust.",
+    "Bake the gaeng curry for 20 minutes, or until the pastry is golden brown.",
+    "Serve the curry hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pot",
+    "seafood",
+    "thai-curry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "rich-molten-thai-shrimp-gaeng-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-thai-shrimp-gaeng-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:12:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Rich Molten",
+    "dishForm": "Gaeng Curry"
+  }
+}
