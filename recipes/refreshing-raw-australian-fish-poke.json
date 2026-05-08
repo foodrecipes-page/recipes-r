@@ -1,0 +1,97 @@
+{
+  "title": "Refreshing Raw Australian Fish Poke",
+  "description": "A kid-friendly Australian dish featuring sashimi-cut fish, clotted cream, and peppery flavors, this raw fish poke is a Whole30-friendly and refreshing meal option. It is made with glassy-jelly like texture and extra clotted cream.",
+  "cuisine": "Australian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sashimi-grade fish",
+      "amount": "1 pound",
+      "notes": "Australian caught, such as tuna or salmon"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1/2 cup",
+      "notes": "Extra creamy"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Thinly sliced red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the sashimi-grade fish into small cubes and place them in a large bowl.",
+    "In a small bowl, whisk together the clotted cream, lime juice, sesame oil, honey, salt, and black pepper.",
+    "Pour the cream mixture over the fish and toss to coat.",
+    "Top the fish with thinly sliced red onion and chopped fresh cilantro.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the fish a good stir and adjust the seasoning if needed.",
+    "Serve the poke in small bowls or glasses and enjoy.",
+    "Garnish with additional cilantro and onion if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "one-bowl",
+    "refreshing",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "refreshing-raw-australian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-raw-australian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "refreshing raw",
+    "dishForm": "Poke"
+  }
+}
