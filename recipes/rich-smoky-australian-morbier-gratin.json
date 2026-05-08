@@ -1,0 +1,120 @@
+{
+  "title": "Rich Smoky Australian Morbier Gratin.",
+  "description": "A rich, molten, Australian dish featuring morbier cheese, smoke-cured meats, and a crunchy, sugar-free-friendly crust.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "300g",
+      "notes": "A mild, creamy French cheese with a subtle sweetness."
+    },
+    {
+      "name": "Smoked lamb sausage",
+      "amount": "250g",
+      "notes": "Smoked to perfection to add a deep, rich flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced to caramelise quickly and add sweetness."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince to release its natural oils and intensify the flavor."
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried, to add a herbaceous, slightly minty flavor."
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "100g",
+      "notes": "Crumbled to add a smoky, salty flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "To bind the filling together and add richness."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g",
+      "notes": "To thicken the filling and create a crispy crust."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "To grease the dish and create a golden-brown crust."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To enhance the flavors and balance the sweetness."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "to taste",
+      "notes": "To add a bright, fresh flavor and color."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Grease a 20cm (8in) round baking dish with unsalted butter.",
+    "Thinly slice one onion and sauté it in a pan until caramelised, stirring occasionally.",
+    "Mince three cloves of garlic and add it to the pan, sautéing for one minute or until fragrant.",
+    "Add the smoked lamb sausage to the pan, breaking it up with a spoon as it cooks.",
+    "Add the thyme sprigs to the pan and stir to combine.",
+    "In a large bowl, combine the cooked sausage mixture, morbier cheese, crumbled smoked bacon, and egg.",
+    "Season the mixture with salt to taste.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Dust the top of the dish with all-purpose flour.",
+    "Bake the gratin in the preheated oven for 25-30 minutes or until the top is golden brown and the filling is set.",
+    "Remove the gratin from the oven and sprinkle with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bacon",
+    "gratin",
+    "morbier",
+    "rich",
+    "smoked",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-smoky-australian-morbier-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-australian-morbier-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:51:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "morbier",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Morbier",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Gratin"
+  }
+}

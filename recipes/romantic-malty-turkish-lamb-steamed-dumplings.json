@@ -1,0 +1,98 @@
+{
+  "title": "Malty Turkish Lamb Steamed Dumplings",
+  "description": "A delicious and romantic Turkish dish made with tender lamb, crispy baguette, and steamed to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground lamb, chopped onion, grated ginger, cumin, paprika, salt, and black pepper. Mix well until just combined.",
+    "Add chopped baguette to the lamb mixture and mix until the bread is evenly distributed.",
+    "Knead the mixture until it becomes smooth and pliable.",
+    "Divide the mixture into 12 equal portions and shape each into a ball.",
+    "Roll out each ball into a thin circle and place a tablespoon of water in the center.",
+    "Fold the dough over to form a half-moon shape and press the edges together to seal.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until cooked through.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "romantic-malty-turkish-lamb-steamed-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-malty-turkish-lamb-steamed-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:51:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "baguette",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Romantic Malty",
+    "dishForm": "Steamed Dumplings"
+  }
+}

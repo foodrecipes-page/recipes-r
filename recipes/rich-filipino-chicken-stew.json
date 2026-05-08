@@ -1,0 +1,120 @@
+{
+  "title": "Rich Filipino Chicken Stew",
+  "description": "Funky, tender, and comforting Filipino-inspired dish featuring ras el hanout and a medley of spices. Great for meal prep or weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the ras el hanout, fish sauce, soy sauce, and brown sugar to the pot and stir to combine.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the potatoes are tender.",
+    "Add the green beans to the pot and continue to cook for another 5-10 minutes or until they are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot over steamed rice or with some crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "rich-filipino-chicken-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-filipino-chicken-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:51:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "ras el hanout",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
