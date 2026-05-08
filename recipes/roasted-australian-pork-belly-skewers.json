@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Australian Pork Belly Skewers",
+  "description": "A malty, crispy, monsoon Australian dish featuring pork belly slices, binchotan-charcoal, lacto-vegetarian-friendly, this recipe is perfect for a dinner party",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt syrup, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced pork belly to the bowl and toss to coat evenly with the malt syrup mixture.",
+    "Thread the coated pork belly slices onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the pork is crispy on the outside and cooked through.",
+    "While the skewers are roasting, prepare the binchotan charcoal for smoking by heating it over medium heat.",
+    "Once the skewers are done roasting, place them on the binchotan charcoal and smoke for 5 minutes, or until the skewers are fragrant with smoke.",
+    "Remove the skewers from the heat and brush with lemon juice.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "dinner-party",
+    "high-protein",
+    "lacto-vegetarian-friendly",
+    "smoked-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "roasted-australian-pork-belly-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-australian-pork-belly-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:55:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pork belly slices",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Skewers"
+  }
+}
