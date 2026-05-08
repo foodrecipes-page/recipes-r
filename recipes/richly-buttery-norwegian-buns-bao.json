@@ -1,0 +1,93 @@
+{
+  "title": "Richly Buttery Norwegian Buns Bao",
+  "description": "Buttery and springy Norwegian buns perfect for a sick day, featuring a unique dehydrating step and kosher-friendly ingredients, all cooked to perfection in a wok.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast, sugar, and warm water, stirring to dissolve the yeast, then let it sit for 5 minutes.",
+    "In a large mixing bowl, whisk together flour, salt, and the yeast mixture.",
+    "Add the melted butter, egg, milk, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the wok over medium heat and add a small amount of oil to the bottom.",
+    "Punch down the dough and divide it into 8 equal pieces, shaping each into a ball.",
+    "Dehydrate the buns in the wok for 5 minutes on each side, or until they are lightly browned and dry.",
+    "Brush the tops of the buns with additional melted butter and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-buns",
+    "dehydrated-treats",
+    "kosher-friendly",
+    "norwegian-cuisine",
+    "sick-day-snack",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "richly-buttery-norwegian-buns-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-buttery-norwegian-buns-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "dehydrate",
+    "primaryIngredient": "buns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "buns",
+    "descriptor": "Richly Buttery",
+    "dishForm": "Bao"
+  }
+}
