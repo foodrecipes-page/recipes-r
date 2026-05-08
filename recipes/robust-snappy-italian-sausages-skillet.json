@@ -1,0 +1,94 @@
+{
+  "title": "Robust Snappy Italian Sausages Skillet",
+  "description": "A kid-friendly Italian dish featuring Italian fennel sausages, double-fry method, and macrobiotic-friendly ingredients, with a sour and snappy flavor profile.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "1 pound",
+      "notes": "sweet or hot, casings removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the Italian fennel sausages and cook, breaking them up with a spoon, until browned, about 5 minutes.",
+    "Add the crushed tomato, apple cider vinegar, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium-low and simmer, stirring occasionally, for 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "kid-friendly",
+    "macrobiotic",
+    "one-pan",
+    "sausages",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "robust-snappy-italian-sausages-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-snappy-italian-sausages-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:05:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "Robust Snappy",
+    "dishForm": "Skillet"
+  }
+}
