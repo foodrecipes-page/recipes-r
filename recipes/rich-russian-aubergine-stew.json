@@ -1,0 +1,96 @@
+{
+  "title": "Rich Russian Aubergine Stew",
+  "description": "A hearty and flavorful one-pot Russian dish featuring baby aubergine and rest-meat, wrapped in a ti-leaf for added aroma and texture. This jain-friendly stew is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "small, purple"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "such as beef or lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ti-leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the baby aubergine and cook until they start to soften, about 5 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Wrap the stew in ti-leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pot",
+    "russian-cuisine",
+    "vegetarian",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-russian-aubergine-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-russian-aubergine-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:11:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "baby aubergine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "aubergine",
+    "descriptor": "rich rest",
+    "dishForm": "Stew"
+  }
+}
