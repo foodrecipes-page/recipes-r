@@ -1,0 +1,111 @@
+{
+  "title": "Rich Crunchy Delight Slovakian Char-Grill-Yang Fondue",
+  "description": "A Slovakian-inspired dish featuring natural yoghurt, char-grill-yang, and crunchy texture, perfect for a date-night dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Natural Yogurt",
+      "amount": "250g"
+    },
+    {
+      "name": "Char-Grill-Yang Sauce",
+      "amount": "120g"
+    },
+    {
+      "name": "Butter",
+      "amount": "120g"
+    },
+    {
+      "name": "Slovakian Cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "60g"
+    },
+    {
+      "name": "Honey",
+      "amount": "30g"
+    },
+    {
+      "name": "Crushed Almonds",
+      "amount": "60g"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "120g"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Fleur de Sel",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine the natural yoghurt, char-grill-yang sauce, and honey in a bowl and mix well.",
+    "Melt the butter in a saucepan over medium heat.",
+    "Add the crushed almonds and walnuts to the melted butter and cook for 2 minutes.",
+    "Add the Slovakian cheese to the saucepan and stir until melted.",
+    "Add the sour cream to the saucepan and stir until combined.",
+    "Transfer the cheese mixture to a fondue pot and add the fresh thyme and rosemary sprigs.",
+    "Season with fleur de sel and black pepper to taste.",
+    "Dip slices of bread, crackers, or vegetables into the fondue and enjoy.",
+    "Serve immediately and keep the fondue warm by placing the fondue pot on a heat source, such as a candle or a low flame.",
+    "If the fondue thickens too much, add a little more char-grill-yang sauce to thin it out.",
+    "If the fondue is too thin, add a little more cheese to thicken it up.",
+    "Repeat the dipping and serving process until the fondue is gone or the cheese is all melted."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crunchy",
+    "date-night",
+    "easy-to-make",
+    "homemade",
+    "slovakian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 50
+  },
+  "slug": "rich-crunchy-delight-slovakian-char-grill-yang-fondue",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-delight-slovakian-char-grill-yang-fondue",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:52:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Char-Grill-Yang",
+    "descriptor": "Rich Crunchy Delight",
+    "dishForm": "Fondue"
+  }
+}

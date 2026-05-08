@@ -1,0 +1,99 @@
+{
+  "title": "Roasted Ukrainian Grape Casserole",
+  "description": "A comforting, velvety Ukrainian dish featuring roasted grapes, perfect for a sick day. This casserole is made with low-sodium ingredients and can be cooked in a clay pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Manteca (Beef Tallow)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free Seasoning Blend",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Soak the grapes in cold water for 10 minutes, then drain and pat dry.",
+    "In a clay pot, combine the manteca, flour, and egg, mixing until smooth.",
+    "Add the grapes, sugar, vanilla extract, and salt-free seasoning blend to the pot, stirring until well combined.",
+    "Dot the top with butter and cover the pot with a lid.",
+    "Bake for 40 minutes, or until the grapes are tender and the casserole is golden brown.",
+    "Remove the lid and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Let the casserole cool for a few minutes before serving.",
+    "Serve warm, garnished with fresh herbs if desired.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "Thaw frozen casserole overnight in the refrigerator before reheating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "sick-day",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-velvety-ukrainian-grapes-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-velvety-ukrainian-grapes-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "grapes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "grapes",
+    "descriptor": "roasted, velvety",
+    "dishForm": "Casserole"
+  }
+}
