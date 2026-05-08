@@ -1,0 +1,108 @@
+{
+  "title": "Robust Smoky Egyptian Lamb Tagine",
+  "description": "A traditional Egyptian stew made with lamb, hot smoked paprika, and a blend of spices, resulting in a jammy and springy texture, perfect for a monsoon evening. This dish is gluten-free friendly and features the bold flavors of Egypt.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Stir in the hot smoked paprika, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "robust-smoky-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-smoky-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:57:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Smoky",
+    "dishForm": "Tagine"
+  }
+}
