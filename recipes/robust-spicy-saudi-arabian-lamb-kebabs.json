@@ -1,0 +1,104 @@
+{
+  "title": "Robust Spicy Saudi Arabian Lamb Kebabs",
+  "description": "A spicy and flavorful Saudi Arabian dish featuring lamb, stilton cheese, and wok-hei, perfect for a midnight craving. This Whole30-friendly recipe is cooked to perfection on a salt block.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated salt block and cook for 10-12 minutes, turning occasionally.",
+    "While the lamb is cooking, heat a wok or large skillet over high heat until it reaches a smoky point, achieving wok-hei.",
+    "Once the lamb is cooked, remove it from the salt block and add it to the wok, stirring to combine with the wok-hei.",
+    "Stir in the crumbled stilton cheese and cook until melted and well combined.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "robust-spicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:41:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "wok-hei",
+    "primaryIngredient": "stilton cheese",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Kebabs"
+  }
+}
