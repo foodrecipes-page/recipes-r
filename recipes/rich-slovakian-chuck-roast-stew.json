@@ -1,0 +1,103 @@
+{
+  "title": "Rich Slovakian Chuck Roast Stew",
+  "description": "A hearty and comforting Slovakian stew featuring tender chuck roast in a rich mother sauce base, perfect for a cold winter's night. This halal-friendly dish is sweet and pillowy, making it an energizing meal option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium high heat.",
+    "Add the chuck roast cubes and cook until browned on all sides.",
+    "Remove the browned chuck roast from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the flour to the pot and stir to combine with the vegetables.",
+    "Gradually add the beef broth to the pot, whisking constantly to avoid lumps.",
+    "Add the tomato paste, brown sugar, salt, and pepper to the pot and stir to combine.",
+    "Return the browned chuck roast to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 2 1/2 hours or until the meat is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "hearty-stew",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "rich-slovakian-chuck-roast-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-chuck-roast-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chuck roast",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "rich savory",
+    "dishForm": "Stew"
+  }
+}
