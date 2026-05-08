@@ -1,0 +1,111 @@
+{
+  "title": "Mediterranean Deep-fried Shrimp Agemono",
+  "description": "A pescatarian-friendly dish featuring shrimp, Mediterranean spices, and crispy fried goodness.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp Paste Kapi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large Shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shrimp paste kapi, garlic powder, onion powder, paprika, salt, and black pepper.",
+    "Add the egg and mix well to combine.",
+    "Add the flour and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Heat about 1/2 inch of olive oil in a copper pot over medium-high heat until it reaches 350°F.",
+    "Pour the breadcrumb mixture into the copper pot and cook, stirring constantly, until golden brown and crispy, about 2-3 minutes.",
+    "Using a slotted spoon, carefully add the shrimp to the copper pot and cook, stirring constantly, until pink and just cooked through, about 2-3 minutes.",
+    "Remove the shrimp from the copper pot with a slotted spoon and place on a paper towel-lined plate to drain any excess oil.",
+    "Serve the shrimp hot, garnished with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "mediterranean",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "roasted-mediterranean-deep-fried-mediterranean-shrimp-agemono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-mediterranean-deep-fried-mediterranean-shrimp-agemono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Roasted Mediterranean Deep-fried",
+    "dishForm": "Agemono"
+  }
+}
