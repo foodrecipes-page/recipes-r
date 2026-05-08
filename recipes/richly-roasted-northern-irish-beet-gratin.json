@@ -1,0 +1,97 @@
+{
+  "title": "Richly Roasted Northern Irish Beet Gratin",
+  "description": "A romantic and creamy dish featuring roasted beets, this gratin is a perfect representation of Northern Irish cuisine, with a focus on fresh and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "any variety, but golden beets add a nice color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "Let the beets cool, then peel and slice them into 1/4 inch thick rounds.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the thyme to the skillet and cook for 1 minute.",
+    "In a separate saucepan, heat the heavy cream over low heat until it starts to simmer.",
+    "In a greased 9x13 inch baking dish, create a layer of beets.",
+    "Pour some of the cream mixture over the beets, then sprinkle with cheese.",
+    "Repeat the layers until all the ingredients are used, finishing with a layer of cheese on top.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until golden and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "beet-based",
+    "creamy",
+    "gluten-free",
+    "northern-irish",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "richly-roasted-northern-irish-beet-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-northern-irish-beet-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:09:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "beets",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "beets",
+    "descriptor": "Richly roasted",
+    "dishForm": "Gratin"
+  }
+}
