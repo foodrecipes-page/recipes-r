@@ -1,0 +1,125 @@
+{
+  "title": "redeeming, molten portuguese lamb wrap",
+  "description": "a comforting, keto-friendly, savory dish featuring juniper berries and tempering chocolate, all wrapped in a pandan leaf.",
+  "cuisine": "portuguese",
+  "diet": [
+    "keto",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 teaspoons, whole"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces",
+      "notes": "high-cocoa"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6",
+      "notes": "large"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 degrees fahrenheit.",
+    "season the lamb shoulder with salt and black pepper.",
+    "heat ghee in a large Dutch oven over medium-high heat.",
+    "sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "remove the lamb from the pot and set it aside.",
+    "reduce heat to medium and add chopped onion and minced garlic to the pot.",
+    "cook until the onion is translucent, about 5 minutes.",
+    "add juniper berries, red wine, and beef broth to the pot.",
+    "return the lamb shoulder to the pot and bring to a boil.",
+    "cover the pot and transfer it to the preheated oven.",
+    "braise the lamb for 2-1/2 hours, or until tender and easily shredded.",
+    "remove the lamb from the pot and shred it with two forks.",
+    "melt the tempering chocolate in a double boiler or in the microwave in 30-second increments.",
+    "stir the melted chocolate with the shredded lamb until well combined.",
+    "wrap the lamb mixture in large pandan leaves and serve immediately.",
+    "garnish with chopped cilantro and serve with a side of rice or vegetables, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "redeeming-molten-portuguese-lamb-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/redeeming-molten-portuguese-lamb-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:05:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "juniper berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Lamb",
+    "descriptor": "Redeeming, Molten",
+    "dishForm": "Wrap"
+  }
+}
