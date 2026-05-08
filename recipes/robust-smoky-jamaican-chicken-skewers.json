@@ -1,0 +1,97 @@
+{
+  "title": "Robust Smoky Jamaican Chicken Skewers",
+  "description": "A cultured and crumbly weeknight Jamaican dish featuring mayonnaise and grilled to perfection, this recipe is low-carb-friendly and packed with flavor. It is perfect for a quick dinner",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together mayonnaise, soy sauce, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread 4-5 pieces of chicken onto each bamboo skewer, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking and grill the skewers for 10-12 minutes, turning occasionally.",
+    "Check the internal temperature of the chicken, it should reach 165 degrees Fahrenheit.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped scallions or parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "jamaican",
+    "low-carb",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "robust-smoky-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-smoky-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:24:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "mayonnaise",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Smoky",
+    "dishForm": "Skewers"
+  }
+}
