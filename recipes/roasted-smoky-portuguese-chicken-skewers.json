@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Smoky Portuguese Chicken Skewers",
+  "description": "A jammy, crunchy, and adventurous Portuguese dish featuring pecan nuts and a smoky flavor, perfect for those looking for a Whole30-friendly meal option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the coated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Drizzle the olive oil over the chicken skewers and sprinkle with chopped pecan nuts.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, mix the lemon juice and chopped parsley in a small bowl.",
+    "After the chicken has cooked, brush the lemon juice and parsley mixture over the skewers.",
+    "Return the skewers to the oven and roast for an additional 2-3 minutes, or until slightly caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "easy-dinner",
+    "healthy-meals",
+    "nutty-delights",
+    "portuguese-food",
+    "smoky-flavors",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "roasted-smoky-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pecan nuts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Skewers"
+  }
+}
