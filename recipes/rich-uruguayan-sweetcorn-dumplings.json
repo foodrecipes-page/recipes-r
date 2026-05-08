@@ -1,0 +1,89 @@
+{
+  "title": "Rich Uruguayan Sweetcorn Dumplings",
+  "description": "Buttery and comforting Uruguayan dish featuring sweetcorn, served in an agave leaf vessel, perfect for a cold evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for wrapping dumplings"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, salt, and pepper.",
+    "In a separate bowl, whisk together melted butter, eggs, and sweetcorn kernels.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Wrap each ball in an agave leaf, making sure to seal the edges.",
+    "Place the dumplings in a baking dish and bake for 25 minutes.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "one-pan",
+    "sweetcorn",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-uruguayan-sweetcorn-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-sweetcorn-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "sweetcorn",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "rich buttery",
+    "dishForm": "Dumplings"
+  }
+}
