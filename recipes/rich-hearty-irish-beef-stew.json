@@ -1,0 +1,95 @@
+{
+  "title": "Rich Hearty Irish Beef Stew",
+  "description": "A winey and molten Irish dish featuring yuzu-kosho and fry-grind-rice-khao-khua, perfect for a hangover cure, this paleo-friendly stew is a hearty and comforting meal. It combines tender beef with flavorful spices and ingredients for a delicious and satisfying experience.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass Fed Beef",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "Yuzu Kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fry Grind Rice Khao Khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium high heat.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the onion to the pot and cook until it is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the yuzu kosho, red wine, and beef broth to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 1/2 hours.",
+    "Stir in the fry grind rice khao khua and continue to simmer for 30 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "rich-hearty-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-hearty-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:17:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Hearty",
+    "dishForm": "Stew"
+  }
+}
