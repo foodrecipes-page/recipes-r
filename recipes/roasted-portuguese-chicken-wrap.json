@@ -1,0 +1,93 @@
+{
+  "title": "Roasted Portuguese Chicken Wrap",
+  "description": "A roasted and velvety Portuguese dish featuring orange juice, served in a pandan leaf wrap, perfect for a sick day, and low glycemic friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, orange juice, garlic, salt, black pepper, and paprika.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 25 minutes or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the pandan leaves by washing and drying them.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it into thin strips.",
+    "To assemble the wrap, place a few slices of the chicken onto a pandan leaf and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "easy-lunch",
+    "gluten-free",
+    "healthy-meals",
+    "low-glycemic",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "roasted-portuguese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-portuguese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:05:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "orange juice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted velvety",
+    "dishForm": "Wrap"
+  }
+}
