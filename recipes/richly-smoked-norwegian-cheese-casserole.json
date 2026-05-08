@@ -1,0 +1,97 @@
+{
+  "title": "Richly Smoked Norwegian Cheese Casserole",
+  "description": "A charred, cheese-pull, adventurous Norwegian dish featuring oil and coconut cream, perfect for flexitarian foodies. This casserole combines smoked cheese with a creamy coconut crack for a unique flavor experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked Norwegian cheese",
+      "amount": "1 1/2 cups",
+      "notes": "such as gudbrandsdalsost or brunost"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until caramelized.",
+    "Add the garlic and cook for an additional minute.",
+    "In a large bowl, combine the smoked cheese, coconut cream, salt, black pepper, and cracked black pepper.",
+    "Add the cooked onion and garlic to the cheese mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole for 25 minutes or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped parsley.",
+    "Let the casserole cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "coconut-cream",
+    "flexitarian-friendly",
+    "norwegian-cuisine",
+    "one-pan",
+    "smoked-cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "richly-smoked-norwegian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-smoked-norwegian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "oil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Richly smoked",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Richly Glazed Korean Chicken Bowl",
+  "description": "A sweet and savory Korean-inspired chicken dish featuring a jammy, glassy-jelly glaze, served in a traditional lacquerware bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, soy sauce, rice vinegar, and honey to make the glaze.",
+    "Add the chicken to the bowl and toss to coat with the glaze.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Remove the chicken from the marinade and cook until browned and cooked through.",
+    "In a small saucepan, bring the remaining glaze to a boil over medium heat.",
+    "Reduce the heat to low and simmer the glaze for 5 minutes, or until thickened and jammy.",
+    "To serve, place the cooked chicken in a lacquerware bowl and brush with the glaze.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed-chicken",
+    "korean-inspired",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "richly-glazed-korean-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-glazed-korean-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:30:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly Glazed",
+    "dishForm": "Bowl"
+  }
+}
