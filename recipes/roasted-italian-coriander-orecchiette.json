@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Italian Coriander Orecchiette",
+  "description": "A roasted Italian dish featuring coriander and orecchiette, perfect for a brunch mood, this ayurvedic sattvic friendly recipe is made with fry grind rice khao khuas and has a glassy jelly texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orecchiette",
+      "amount": "8 oz",
+      "notes": "small ear shaped pasta"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1 cup",
+      "notes": "fried grind rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the orecchiette according to package instructions and set aside.",
+    "In a pan, heat the olive oil over medium heat and add the ground coriander seeds.",
+    "Add the khao khuas to the pan and stir to combine with the coriander and oil.",
+    "Add the cooked orecchiette to the pan and stir to combine with the khao khuas mixture.",
+    "Transfer the orecchiette mixture to a baking dish and roast in the oven for 15 minutes.",
+    "Remove the dish from the oven and stir in the minced garlic, salt, and black pepper.",
+    "Squeeze the lemon juice over the top of the orecchiette and return to the oven for an additional 5 minutes.",
+    "Remove the dish from the oven and let cool for a few minutes before serving.",
+    "Serve the roasted Italian coriander orecchiette hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "italian-food",
+    "one-pot",
+    "roasted-vegetables",
+    "vegetarian-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "roasted-italian-coriander-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-italian-coriander-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:17:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "coriander",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "coriander",
+    "descriptor": "Roasted Glassy",
+    "dishForm": "Orecchiette"
+  }
+}
