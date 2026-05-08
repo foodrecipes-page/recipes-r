@@ -1,0 +1,97 @@
+{
+  "title": "Rich Peruvian Chicken Aji De Gallina",
+  "description": "A bitter, molten, and indulgent Peruvian dish featuring chicken, naan bread, and aji amarillo peppers, with a rich and creamy walnut sauce. This recipe combines the flavors of Peru with the crunch of toasted naan bread and the spiciness of aji amarillo peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, then transfer to the oven and bake for 20 minutes.",
+    "In a blender or food processor, puree the chopped aji amarillo peppers, walnuts, and garlic.",
+    "In a large saucepan, combine the pureed pepper mixture, heavy cream, and parmesan cheese.",
+    "Bring the sauce to a simmer over medium heat, whisking constantly.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Slice the cooked chicken breast and serve with the creamy walnut sauce and toasted naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "indulgent-meals",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "rich-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:48:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "naan bread",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Aji De Gallina"
+  }
+}
