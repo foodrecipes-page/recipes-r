@@ -1,0 +1,99 @@
+{
+  "title": "Robust Crisp Filipino Pork Bicol Express",
+  "description": "A winey and crisp Filipino dish featuring sherry vinegar and a mirepoix base, this Bicol Express recipe is an anti-inflammatory friendly twist on a nostalgic classic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, carrot, and celery to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the sherry vinegar, coconut milk, fish sauce, and black pepper to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium low and simmer for 10 minutes.",
+    "Increase the heat to medium high and cook until the sauce has thickened and the pork is crispy, about 5 minutes.",
+    "Serve the Bicol Express hot over rice or with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "dairy-free",
+    "filipino-food",
+    "gluten-free",
+    "one-pan-meals",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robust-crisp-filipino-pork-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crisp-filipino-pork-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:33:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Robust Crisp",
+    "dishForm": "Bicol Express"
+  }
+}
