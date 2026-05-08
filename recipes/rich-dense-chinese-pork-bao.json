@@ -1,0 +1,95 @@
+{
+  "title": "Rich Dense Chinese Pork Bao",
+  "description": "A traditional Cantonese dish featuring rich pork filling and fresh mint, simmered to perfection in a savory broth, this recipe is a nostalgic treat for those who enjoy dense and umami flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bao dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chopped pork shoulder, mint leaves, scallions, and grated ginger.",
+    "In a small bowl, whisk together soy sauce, oyster sauce, and sesame oil, then pour the mixture over the pork mixture and mix well.",
+    "Knead the bao dough according to the package instructions or recipe, then divide it into 8-10 equal pieces.",
+    "Roll out each piece of dough into a thin circle, then place a tablespoon of the pork filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, then press the edges together to seal the bao.",
+    "Place the bao in a steamer lined with parchment paper, leaving some space between each bao to allow for expansion.",
+    "Steam the bao over boiling water for 15-20 minutes, or until they are cooked through and fluffy.",
+    "Serve the bao hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "lunch-ideas",
+    "pork-recipes",
+    "satvik-friendly",
+    "steamed-bao",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "rich-dense-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:57:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "mint",
+    "diet": "satvik",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Dense",
+    "dishForm": "Bao"
+  }
+}
