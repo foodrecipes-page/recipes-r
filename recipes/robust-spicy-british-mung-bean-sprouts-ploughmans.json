@@ -1,0 +1,104 @@
+{
+  "title": "Robust Spicy British Mung Bean Sprouts Ploughmans",
+  "description": "A spicy and chewy British dish featuring mung bean sprouts, infused oil, and ayurvedic rajasic friendly ingredients, served in a ploughmans style with a ti leaf wrap.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "sukju style"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with chili flakes and garlic"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and soak them in water for 30 minutes.",
+    "Heat the infused oil in a pan over medium heat and saute the chili peppers and ginger until fragrant.",
+    "Add the mung bean sprouts to the pan and stir fry until they are tender and slightly browned.",
+    "In a small bowl, whisk together the apple cider vinegar, sea salt, and black pepper to make the dressing.",
+    "To assemble the ploughmans, place a portion of the mung bean sprouts onto a ti leaf, followed by a spoonful of the dressing and a sprinkle of red onion.",
+    "Fold the ti leaf over the filling to create a wrap and serve immediately.",
+    "Garnish with additional chili peppers and ginger if desired.",
+    "Serve with a side of crusty bread or crackers for a hearty dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "british",
+    "gluten-free",
+    "ploughmans",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "robust-spicy-british-mung-bean-sprouts-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spicy-british-mung-bean-sprouts-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:48:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Ploughmans"
+  }
+}
