@@ -1,0 +1,103 @@
+{
+  "title": "Rich Shattering Syrian Phyllo Bake",
+  "description": "A romantic golden pastry featuring layers of paper-thin dough and a savory-sweet filling of blanched greens and aromatic honey. This dish offers a delicate crunch with a sophisticated flavor profile suitable for heart-healthy diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Low-Sodium",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "16 sheets",
+      "notes": "Thawed completely"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "1/2 cup",
+      "notes": "Unsalted and melted"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 pound",
+      "notes": "Blanched and squeezed dry"
+    },
+    {
+      "name": "Raw honey",
+      "amount": "3 tablespoons",
+      "notes": "Wildflower or Orange Blossom"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Full fat for the filling"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375 degrees Fahrenheit and grease a rectangular baking dish with melted butter.",
+    "Blanch the spinach in boiling water for sixty seconds then immediately shock it in an ice bath.",
+    "Squeeze all excess moisture from the spinach and chop it finely before placing it in a mixing bowl.",
+    "Stir the yogurt, walnuts, lemon zest, and cinnamon into the spinach until the mixture is uniform.",
+    "Layer eight sheets of phyllo dough into the pan while brushing each individual layer generously with melted butter.",
+    "Spread the spinach and yogurt mixture evenly over the top of the eighth phyllo sheet.",
+    "Drizzle two tablespoons of honey over the filling to add a subtle floral sweetness.",
+    "Cover the filling with the remaining eight sheets of phyllo dough while continuing to butter every layer.",
+    "Score the top layers of the pastry into diamond shapes using a very sharp knife.",
+    "Bake the pastry for thirty-five minutes until the surface is deep golden brown and shattering to the touch.",
+    "Drizzle the final tablespoon of honey over the hot pastry immediately after removing it from the oven.",
+    "Allow the dish to rest for ten minutes before serving to ensure the layers set properly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "date-night",
+    "low-sodium",
+    "middle-eastern",
+    "savory-sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 28
+  },
+  "slug": "rich-shattering-syrian-phyllo-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-shattering-syrian-phyllo-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:48:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "honey",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Phyllo",
+    "descriptor": "Rich Shattering",
+    "dishForm": "Bake"
+  }
+}
