@@ -1,0 +1,117 @@
+{
+  "title": "Roasted Creamy Australian Chicken Bowl",
+  "description": "A delicious and healthy Australian-inspired chicken bowl recipe with a creamy genmaicha sauce, perfect for meal prep.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "1 cup",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "250ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a large bowl, whisk together genmaicha tea, coconut cream, honey, lemon juice, garlic, and ginger until smooth.",
+    "Add the sliced red onion to the bowl and toss to coat with the genmaicha sauce.",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and let it rest for 5 minutes before slicing.",
+    "Add the broccoli florets to the skillet and cook for 3-4 minutes, or until tender.",
+    "To assemble the bowls, place a portion of the sliced chicken on the bottom, followed by a scoop of the roasted vegetables, and finally a drizzle of the genmaicha sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "creamy",
+    "genmaicha",
+    "healthy",
+    "jain-friendly",
+    "low-carb",
+    "meal-prep",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "roasted-creamy-australian-chicken-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-creamy-australian-chicken-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:32:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "genmaicha",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Creamy",
+    "dishForm": "Bowl"
+  }
+}
