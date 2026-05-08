@@ -1,0 +1,97 @@
+{
+  "title": "Roasted Rich Ethiopian Beets Gomen",
+  "description": "A funky and kid-friendly Ethiopian dish featuring roasted beets, this recipe is perfect for a weeknight dinner. It is also Buddhist-temple-friendly and can be served as a side dish or main course.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped beets with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the beets out in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the beets are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 1 minute.",
+    "Once the beets have finished roasting, add them to the skillet with the onion mixture.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Serve the Roasted Rich Ethiopian Beets Gomen hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "healthy",
+    "one-pan",
+    "roasted-vegetables",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "roasted-rich-ethiopian-beets-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-rich-ethiopian-beets-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "beets",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beets",
+    "descriptor": "Roasted Rich",
+    "dishForm": "Gomen"
+  }
+}
