@@ -1,0 +1,98 @@
+{
+  "title": "Rich Syrian Mushroom Dumplings",
+  "description": "A hearty and flavorful Syrian dish featuring winey, pillowy dumplings filled with mushrooms, perfect for a pescatarian-friendly dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and black pepper",
+    "Gradually add the olive oil and white wine, mixing until a dough forms",
+    "Knead the dough for 5 minutes until smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each into a ball",
+    "Flatten each ball into a disk and place a spoonful of mushroom and onion mixture in the center",
+    "Fold the dough over the filling and press the edges together to seal",
+    "Bring the vegetable broth to a boil and gently add the dumplings",
+    "Reduce the heat to a simmer and cook for 15 minutes or until the dumplings float to the surface",
+    "Serve the dumplings hot with additional vegetable broth spooned over the top"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumpling-recipes",
+    "mushroom-recipes",
+    "pescatarian-friendly",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rich-syrian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-syrian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:14:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "mushrooms",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Rich pillowy",
+    "dishForm": "Dumplings"
+  }
+}
