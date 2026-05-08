@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Crisp Mediterranean Minari Pilaf",
+  "description": "A flavorful and nutritious pilaf dish featuring roasted minari, crunchy bonito flakes, and a hint of Mediterranean flair. Perfect for a quick and easy dinner or lunch option.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean Minari",
+      "amount": "1 bunch, cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the minari with olive oil, red onion, garlic, oregano, thyme, salt, and pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until the minari is tender and slightly caramelized.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the bonito flakes and cook for 1-2 minutes, stirring constantly, until crispy and fragrant.",
+    "Add the roasted minari to the skillet and stir to combine with the bonito flakes.",
+    "Squeeze the lemon juice over the top and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-crisp-mediterranean-minari-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-mediterranean-minari-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "minari",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Minari",
+    "descriptor": "Roasted Crisp",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Rich Tender Algerian Lamb Tagine",
+  "description": "A peppery and tender Algerian dish featuring lamb, perfect for kids and adults alike, with a unique twist of Oreo cream biscuits on the side, prepared using sous-vide for even cooking and incorporating ayurvedic-tamasic-friendly principles for a balanced meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the marinade.",
+    "Seal the lamb and marinade in a sous-vide bag, making sure to remove as much air as possible before sealing.",
+    "Place the sealed bag in the preheated sous-vide machine and cook for 24 hours.",
+    "After 24 hours, remove the lamb from the sous-vide machine and let it rest for 10 minutes.",
+    "Serve the lamb hot, garnished with fresh parsley and accompanied by Oreo cream biscuits on the side.",
+    "Offer a side of steamed vegetables or couscous for a well-rounded meal.",
+    "Encourage kids to try a little of the spicy lamb with the sweet Oreo cream biscuits for a fun flavor combination."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "ayurvedic-friendly",
+    "dairy-free",
+    "gluten-free",
+    "kid-friendly",
+    "lamb-recipes",
+    "sous-vide-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-tender-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:58:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Tender",
+    "dishForm": "Tagine"
+  }
+}

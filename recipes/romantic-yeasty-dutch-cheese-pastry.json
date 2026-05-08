@@ -1,0 +1,98 @@
+{
+  "title": "Romantic Yeasty Dutch Cheese Pastry",
+  "description": "A paleo-friendly, yeasty Dutch dish featuring Castelvetrano olives, a mother sauce base, and a unique agave leaf vessel. Perfect for a romantic evening with a loved one.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted ghee",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a agave leaf vessel with parchment paper, leaving a 1-inch overhang on all sides.",
+    "In a large mixing bowl, combine almond flour, unsalted ghee, and Castelvetrano olives.",
+    "Add Gruyère cheese, active dry yeast, sea salt, and sugar to the mixing bowl and stir until well combined.",
+    "Transfer the mixture to the prepared agave leaf vessel and smooth the top with a spatula.",
+    "Bake the pastry for 35-40 minutes, or until golden brown and set.",
+    "Remove the pastry from the oven and let it cool in the vessel for 10 minutes.",
+    "Use the parchment paper to lift the pastry out of the vessel and transfer it to a wire rack to cool completely.",
+    "Let the pastry cool to room temperature before slicing and serving."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 40,
+  "totalTimeMin": 160,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "agave-leaf",
+    "castelvetrano-olives",
+    "cheese-pull",
+    "dutch",
+    "mother-sauce-base",
+    "one-pan",
+    "paleo",
+    "romantic",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 38
+  },
+  "slug": "romantic-yeasty-dutch-cheese-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-yeasty-dutch-cheese-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Romantic Yeasty",
+    "dishForm": "Pastry"
+  }
+}
