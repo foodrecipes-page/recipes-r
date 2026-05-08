@@ -1,0 +1,107 @@
+{
+  "title": "Rich Roasted Peruvian Potato Hash",
+  "description": "A salty, aerated, brunch-mood Peruvian dish featuring ketchup and ferment-kimchi, with a Mediterranean twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the diced red onion to the skillet and cook until it is softened and translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Stir in the chopped ferment-kimchi and cook for 2 minutes.",
+    "Once the potatoes are done roasting, add them to the skillet and stir to combine with the onion and kimchi mixture.",
+    "Use a spatula to press the potato mixture down into the skillet and cook for an additional 2 minutes to crisp the bottom.",
+    "Stir in the crumbly feta cheese and cook until it is melted and well combined.",
+    "Serve the hash hot, topped with a dollop of ketchup and a sprinkle of chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "gluten-free",
+    "mediterranean-inspired",
+    "peruvian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-roasted-peruvian-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-peruvian-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:11:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "ketchup",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Hash"
+  }
+}
