@@ -1,0 +1,106 @@
+{
+  "title": "Rich Savory Peruvian Beef Lomo Saltado",
+  "description": "A fatty and comforting Peruvian dish featuring beef, egg rolls, and a mirepoix base, served in a kadhai, this lomo saltado is a perfect blend of flavors and textures. It is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Egg rolls",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a kadhai over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the kadhai and set aside.",
+    "Add the chopped onion, tomato, and bell pepper to the kadhai and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic to the kadhai and cook for 1 minute.",
+    "Add the cooked beef back into the kadhai and stir to combine with the vegetables and garlic.",
+    "Add the soy sauce, salt, and black pepper to the kadhai and stir to combine.",
+    "Add the egg rolls to the kadhai and stir to combine with the beef and vegetables.",
+    "Cook for an additional 2-3 minutes, until the egg rolls are heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "one-pan-meals",
+    "peruvian-cuisine",
+    "savory-dishes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-savory-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "egg rolls",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Savory",
+    "dishForm": "Lomo Saltado"
+  }
+}
