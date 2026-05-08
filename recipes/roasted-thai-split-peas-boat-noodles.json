@@ -1,0 +1,104 @@
+{
+  "title": "Roasted Thai Split Peas Boat Noodles",
+  "description": "A crispy and flavorful Thai dish featuring roasted split peas, served in a cedar plank boat noodle form, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried green or yellow split peas"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the split peas with coconut oil, Thai red curry paste, fish sauce, lime juice, brown sugar, salt, and pepper until they are evenly coated.",
+    "Spread the split peas on a baking sheet and roast for 20 minutes, or until crispy and lightly browned.",
+    "While the split peas are roasting, prepare the cedar planks by cutting them into boat noodle shapes.",
+    "Once the split peas are done, remove them from the oven and let them cool slightly.",
+    "To assemble the dish, place a portion of the roasted split peas onto each cedar plank boat noodle.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Serve with your favorite Thai-inspired toppings, such as diced mango or sliced chili peppers.",
+    "Be careful when handling the hot cedar planks.",
+    "Repeat the process until all the ingredients are used up."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "roasted-thai-split-peas-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-thai-split-peas-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "split peas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "split peas",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Boat Noodles"
+  }
+}
