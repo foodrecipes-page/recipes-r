@@ -1,0 +1,95 @@
+{
+  "title": "Rich Chinese Pork Dumplings",
+  "description": "Indulgent Chinese dish featuring ground annatto and beurre-monte, with a bitter and gooey texture, originating from the Shandong region",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for flavor"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "round dumpling wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, ground annatto, soy sauce, sesame oil, ginger, and garlic in a large bowl and mix well",
+    "Knead the mixture for about 5 minutes until it becomes sticky and cohesive",
+    "Cover the mixture with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point",
+    "Press the edges together to seal the dumpling",
+    "Repeat with the remaining wrappers and filling",
+    "Pan-fry the dumplings in beurre-monte over medium heat until they are golden brown on the bottom",
+    "Serve the dumplings hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-monte-recipes",
+    "chinese-food",
+    "dumplings",
+    "indulgent-meals",
+    "pork-recipes",
+    "shandong-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "rich-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:49:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ground annatto",
+    "diet": "mediterranean",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Gooey",
+    "dishForm": "Dumplings"
+  }
+}
