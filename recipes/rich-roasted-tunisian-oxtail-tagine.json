@@ -1,0 +1,104 @@
+{
+  "title": "Rich Roasted Tunisian Oxtail Tagine",
+  "description": "A rich and flavorful Tunisian dish featuring oxtail, perfect for a sick day, with a crispy exterior and tender interior, served in a satvik-friendly format, the oxtail is shaped like nigiri for a unique presentation.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add the oxtail pieces and cook until they are browned on all sides.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the oxtail for 2 1/2 hours, or until it is tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shape the oxtail into nigiri shapes and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "oxtail-recipes",
+    "rich-and-flavorful",
+    "satvik-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "rich-roasted-tunisian-oxtail-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-tunisian-oxtail-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:16:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "oxtail",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "oxtail",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Tagine"
+  }
+}
