@@ -1,0 +1,99 @@
+{
+  "title": "Robust Smoky Tunisian Fish Tagine",
+  "description": "A spicy and flavorful Tunisian dish featuring flaky fish, yellow onion, and a blend of aromatic spices, quickly prepared in a smoky tagine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large skillet with a tight-fitting lid over medium heat.",
+    "Add the sliced yellow onion and cook, stirring occasionally, until it is softened and lightly browned.",
+    "Stir in the smoked paprika, ground cumin, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add the white fish fillets to the tagine, spooning some of the onion and spice mixture over the top of each fillet.",
+    "Cover the tagine and cook, undisturbed, for 12 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Stir in the chopped fresh parsley and lemon juice.",
+    "Serve the fish and onion mixture hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-fish",
+    "north-african",
+    "one-pan",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "robust-smoky-tunisian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-smoky-tunisian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "smoke-hot",
+    "primaryIngredient": "yellow onion",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Robust Smoky",
+    "dishForm": "Tagine"
+  }
+}
