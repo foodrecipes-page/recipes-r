@@ -1,0 +1,99 @@
+{
+  "title": "Robustly Garlicky Algerian Seafood Tagine",
+  "description": "A traditional Algerian dish with a garlicky twist, featuring seafood stock and bonito flakes, cooked to perfection in a comal vessel. This recipe is a must try for seafood lovers.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "2 cups",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 cup",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large comal vessel over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp, mussels, and clams, and cook for 2 minutes, until the seafood starts to open.",
+    "Add the seafood stock, bonito flakes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 10 minutes, until the seafood is cooked through.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro.",
+    "Traditionally, the tagine is cooked in a clay vessel with a conical lid, but a comal vessel can be used as a substitute.",
+    "Make sure to cook the seafood to an internal temperature of at least 145 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comal",
+    "garlic",
+    "one-pan",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "robustly-garlicky-algerian-seafood-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-garlicky-algerian-seafood-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:35:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "seafood stock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "seafood",
+    "descriptor": "Robustly garlicky",
+    "dishForm": "Tagine"
+  }
+}
