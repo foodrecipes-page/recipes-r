@@ -1,0 +1,97 @@
+{
+  "title": "Refreshingly Citrusy Italian Gherkin Torta Caprese",
+  "description": "A light and refreshing Italian dish featuring gherkin relish and coconut cream, served in an agave leaf vessel. This vegetarian friendly torta caprese is perfect for a summer lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gherkin pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh mozzarella cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine chopped gherkin pickles, coconut cream, lemon juice, salt, and pepper, and blend until smooth.",
+    "In a large bowl, combine the gherkin relish, mozzarella cheese, and chopped basil leaves, and mix well.",
+    "Spoon the gherkin and mozzarella mixture onto the center of each agave leaf.",
+    "Drizzle the olive oil over the top of each torta caprese.",
+    "Bake the torta caprese in the preheated oven for 10 minutes, or until the cheese is melted and the agave leaf is slightly toasted.",
+    "Remove the torta caprese from the oven and let it cool for a few minutes.",
+    "Serve the torta caprese warm, garnished with additional chopped basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream",
+    "gherkin-relish",
+    "italian-cuisine",
+    "light-and-refreshing",
+    "summer-lunch",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "refreshingly-citrusy-italian-gherkin-torta-caprese",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshingly-citrusy-italian-gherkin-torta-caprese",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:01:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "gherkin relish",
+    "diet": "vegetarian",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "gherkin",
+    "descriptor": "refreshing citrusy",
+    "dishForm": "Torta Caprese"
+  }
+}
