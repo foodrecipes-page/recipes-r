@@ -1,0 +1,89 @@
+{
+  "title": "Rustic British Rest Meat Toad In The Hole",
+  "description": "A traditional British dish featuring rest meat in a crispy cornmeal crust, served with a side of nostalgia. This recipe uses white cornmeal and is ayurvedic-sattvic-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "use leftover roast beef or lamb"
+    },
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, malted milk powder, salt, and black pepper.",
+    "In a separate bowl, whisk the eggs until they are lightly beaten.",
+    "Add the eggs to the cornmeal mixture and stir until just combined.",
+    "Cut the rest meat into 1-inch cubes and add to the cornmeal mixture, stirring gently.",
+    "Heat the vegetable oil in a 12-inch oven-safe skillet over medium-high heat.",
+    "Add the cornmeal and meat mixture to the skillet and shape into a round shape, making a hole in the center.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes, or until the crust is golden brown and crispy.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "hearty-meals",
+    "homemade",
+    "meat-based",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rustic-british-rest-meat-toad-in-the-hole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-british-rest-meat-toad-in-the-hole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:55:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "white cornmeal",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Rustic",
+    "dishForm": "Toad In The Hole"
+  }
+}
