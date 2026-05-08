@@ -1,0 +1,65 @@
+{
+  "title": "Roasted Pillowy Australian Chocolate Hash",
+  "description": "A quick-fix, low-glycemic-friendly dessert featuring roasted milk chocolate and cure, served in a cast-iron skillet.",
+  "cuisine": "australian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "1 cup",
+      "notes": "broken into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat cast-iron skillet over medium heat to 375°F (190°C).",
+    "In a separate pan, toast 1/4 cup almond flour over medium heat for 2 minutes.",
+    "Add the toasted almond flour to the broken milk chocolate and mix until well combined.",
+    "Transfer the chocolate mixture to the preheated skillet and roast for 5 minutes.",
+    "Add 2 tablespoons of cure to the chocolate mixture and mix until dissolved.",
+    "Roast for an additional 2 minutes, until fragrant and set.",
+    "Remove from heat and let cool for 2 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 9,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "dinner",
+    "easy",
+    "low-glycemic",
+    "milk-chocolate",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "roasted-pillowy-australian-chocolate-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-pillowy-australian-chocolate-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "milk chocolate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chocolate",
+    "descriptor": "roasted pillowy",
+    "dishForm": "Hash"
+  }
+}

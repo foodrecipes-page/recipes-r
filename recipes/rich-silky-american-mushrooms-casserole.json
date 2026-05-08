@@ -1,0 +1,99 @@
+{
+  "title": "Rich Silky American Mushrooms Casserole",
+  "description": "A warm, comforting dish perfect for a lazy Sunday afternoon featuring wild mushrooms and a creamy sauce. Serve in individual ramekins for a delightful presentation.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "wild mushrooms, such as chanterelle or oyster"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a saucepan over medium heat.",
+    "Add mushrooms and cook until tender, about 5 minutes.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Gradually add milk, whisking continuously.",
+    "Bring mixture to a simmer and cook until thickened, about 2 minutes.",
+    "Remove from heat and stir in Gruyère cheese until melted.",
+    "Season with salt, pepper, and lemon juice.",
+    "Preheat oven to 375°F.",
+    "Spoon mushroom mixture into individual ramekins and top with additional Gruyère cheese.",
+    "Bake until golden brown and bubbly, about 15-20 minutes.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casual",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "rich-silky-american-mushrooms-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-american-mushrooms-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "mushrooms",
+    "descriptor": "rich silky",
+    "dishForm": "casserole"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Roasted Gooey Tunisian Dish Bake",
+  "description": "A delicious and gooey brunch dish featuring a Tunisian twist with chilli sauce and nimono-simmer, all in a scallop-shell vessel. This nut-free-friendly recipe is perfect for a weekend morning.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "12",
+      "notes": "For serving"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chilli sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup",
+      "notes": "Canned, drained and rinsed"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large pan, heat 1 tablespoon of oil over medium heat. Add the onion and cook for 5 minutes, until softened.",
+    "Add the black beans, roasted red peppers, and canned tomatoes to the pan. Cook for 5 minutes, stirring occasionally.",
+    "Stir in the Tunisian harissa and chilli sauce. Cook for 1 minute, until fragrant.",
+    "In a large bowl, whisk together the eggs and a pinch of salt. Add the cooked bean mixture to the bowl and stir to combine.",
+    "Prepare the scallop shells by rinsing them under cold water and patting them dry with a paper towel. Place a tablespoon of breadcrumbs in the bottom of each shell.",
+    "Divide the egg mixture among the shells, filling them about 3/4 of the way full.",
+    "Bake the dishes for 20-25 minutes, until the eggs are set and the tops are golden brown.",
+    "Remove the dishes from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "egg",
+    "gluten-free",
+    "one-pan",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "roasted-gooey-tunisian-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-gooey-tunisian-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "chilli sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "dish",
+    "descriptor": "roasted gooey",
+    "dishForm": "bake"
+  }
+}

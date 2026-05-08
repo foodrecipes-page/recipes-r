@@ -1,0 +1,120 @@
+{
+  "title": "Rich Red Lentil Norwegian Lentil Bowl",
+  "description": "Savory, chewy, and festive, this Norwegian dish features red lentils, a shio-koji cure, and a dash-friendly flavor profile. Serve in a scallop shell for a unique and memorable experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null,
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Brown butter",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the red lentils and water.",
+    "Bring to a boil over high heat, then reduce the heat to low and simmer for 25 minutes.",
+    "While the lentils cook, mix the shio-koji cure and brown butter in a small bowl until well combined.",
+    "Add the fresh dill, lemon juice, ginger, scallions, salt, and black pepper to the bowl and stir to combine.",
+    "In a separate pot, heat the olive oil over low heat.",
+    "Add the dashi broth and stir to combine.",
+    "Once the lentils are cooked, drain and add them to the pot with the dashi broth mixture.",
+    "Stir to combine and cook for an additional 5 minutes.",
+    "Serve the lentils in a scallop shell, topped with the shio-koji cure mixture and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lentils",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rich-red-lentil-norwegian-lentils-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-red-lentil-norwegian-lentils-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "lentils",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich Red Lentil",
+    "dishForm": "Bowl"
+  }
+}
