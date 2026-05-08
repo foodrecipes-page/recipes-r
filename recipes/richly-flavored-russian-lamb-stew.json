@@ -1,0 +1,106 @@
+{
+  "title": "Richly Flavored Russian Lamb Stew",
+  "description": "A hearty and flavorful one-pot stew featuring tender lamb, rich almond essence, and a touch of salt-bake, all in a low-sodium friendly dish. This stew is perfect for a cold winter night.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the almond extract, salt, pepper, beef broth, and tomato paste, stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Remove the stew from the oven and stir in the chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "hearty-stew",
+    "lamb-recipes",
+    "low-sodium",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "richly-flavored-russian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-russian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:12:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "almond essence",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly flavored",
+    "dishForm": "Stew"
+  }
+}
