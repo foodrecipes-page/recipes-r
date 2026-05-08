@@ -1,0 +1,93 @@
+{
+  "title": "Refreshing Herbal Canadian Kanten Agar Noodles",
+  "description": "A post-workout Canadian dish featuring kanten-agar noodles infused with herbal flavors, this recipe is a refreshing and healthy option for a snack or light meal. It is also Buddhist-temple-friendly due to its vegan and emulsified ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kanten-agar powder",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried mint leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried chamomile flowers",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the kanten-agar powder and water to create a gel-like substance.",
+    "In a medium saucepan, combine the lemon juice, maple syrup, dried mint leaves, and dried chamomile flowers.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the kanten-agar mixture to the saucepan and stir constantly until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the coconut oil and salt.",
+    "Let the mixture cool to room temperature, then refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Once the mixture has chilled, use a fork to flake it into noodle-like strands.",
+    "Serve the noodles chilled, garnished with additional dried mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "healthy",
+    "herbal",
+    "post-workout",
+    "refreshing",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "refreshing-herbal-canadian-kanten-agar-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-herbal-canadian-kanten-agar-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:02:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "emulsify",
+    "primaryIngredient": "kanten-agar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "kanten agar",
+    "descriptor": "refreshing herbal",
+    "dishForm": "Noodles"
+  }
+}
