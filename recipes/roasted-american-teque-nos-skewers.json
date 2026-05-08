@@ -1,0 +1,97 @@
+{
+  "title": "Roasted American Teque Nos Skewers",
+  "description": "A nostalgic American dish featuring pre-fried teque nos, robata-grilled to perfection, sugar-free-friendly and bouncy-qq.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried teque nos",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the pre-fried teque nos onto the wooden skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the olive oil, salt, black pepper, garlic powder, paprika, and onion powder.",
+    "Brush the mixture onto the teque nos, making sure they are fully coated.",
+    "Place the skewers onto the robata grill and cook for 10-12 minutes, turning occasionally.",
+    "Remove the skewers from the grill and sprinkle with chopped fresh parsley.",
+    "Serve the roasted American teque nos skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "gluten-free",
+    "grilled",
+    "nostalgic",
+    "roasted",
+    "skewers",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "roasted-american-teque-nos-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-american-teque-nos-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:31:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "robata-grill",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "teque nos",
+    "descriptor": "Roasted bouncy",
+    "dishForm": "Skewers"
+  }
+}
