@@ -1,0 +1,102 @@
+{
+  "title": "Robust Umami Peruvian Fish Ceviche Clasico",
+  "description": "A traditional Peruvian dish with a twist, featuring unwaxed lemon and double-rise-bread for added crunch and flavor, this ceviche clasico is ayurvedic-rajasic-friendly and packed with umami taste.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 cup",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small pieces and place them in a large kadhai.",
+    "Squeeze the unwaxed lemon juice over the fish, making sure each piece is coated.",
+    "Add the crushed double-rise-bread, sliced red onion, chopped aji amarillo pepper, and minced garlic to the kadhai.",
+    "Sprinkle the chopped coriander, salt, and black pepper over the top of the mixture.",
+    "Gently fold all the ingredients together until they are just combined.",
+    "Cover the kadhai with plastic wrap and refrigerate for at least 30 minutes to allow the fish to 'cook' in the lemon juice.",
+    "After 30 minutes, remove the kadhai from the refrigerator and serve the ceviche clasico immediately.",
+    "Garnish with additional chopped coriander and crushed double-rise-bread if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "peruvian-cuisine",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "robust-umami-peruvian-fish-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-umami-peruvian-fish-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Robust Umami",
+    "dishForm": "Ceviche Clasico"
+  }
+}
