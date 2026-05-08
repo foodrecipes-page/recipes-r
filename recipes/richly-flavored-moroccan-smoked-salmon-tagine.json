@@ -1,0 +1,104 @@
+{
+  "title": "Moroccan Smoked Salmon Tagine",
+  "description": "A light and flavorful Moroccan dish featuring smoked salmon, shio-cure, and a blend of aromatic spices, perfect for a special occasion or a cozy dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "12 oz",
+      "notes": "shio-cure"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the olive oil, onion, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the smoked salmon to the bowl and toss to coat with the spice mixture.",
+    "Transfer the salmon mixture to a tagine or a large oven-safe dish with a tight-fitting lid.",
+    "Cover the dish with the lid and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the salmon is cooked through and the top is lightly browned.",
+    "Remove the dish from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pescatarian",
+    "seafood",
+    "smoked-salmon",
+    "special-occasion",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "richly-flavored-moroccan-smoked-salmon-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-moroccan-smoked-salmon-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:02:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "smoked salmon",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "Richly flavored",
+    "dishForm": "Tagine"
+  }
+}
