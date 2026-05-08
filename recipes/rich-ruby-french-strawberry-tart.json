@@ -1,0 +1,95 @@
+{
+  "title": "Rich Ruby French Strawberry Tart",
+  "description": "A show-stopping dessert featuring charred strawberries in a glassy jelly, flambeed to perfection. This pescatarian-friendly tart is sure to impress.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ruby port wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together flour, sugar, and melted butter to make the crust.",
+    "Press the crust mixture into a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 20 minutes, or until lightly golden.",
+    "In a separate bowl, whisk together eggs, heavy cream, and ruby port wine.",
+    "Arrange the sliced strawberries on top of the baked crust.",
+    "Pour the egg mixture over the strawberries and smooth the top.",
+    "Bake the tart for an additional 25 minutes, or until the edges are set.",
+    "Remove the tart from the oven and increase the oven temperature to broil.",
+    "Flambe the strawberries with a kitchen torch, or under the broiler for 2-3 minutes, watching carefully to prevent burning.",
+    "Allow the tart to cool completely before dusting with confectioners sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "flambeed",
+    "french-pastry",
+    "pescatarian-friendly",
+    "show-stopping",
+    "special-occasion",
+    "strawberry-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "rich-ruby-french-strawberry-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-ruby-french-strawberry-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:49:29Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "strawberries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "strawberries",
+    "descriptor": "Rich Ruby",
+    "dishForm": "Tart"
+  }
+}
