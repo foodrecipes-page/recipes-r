@@ -1,0 +1,100 @@
+{
+  "title": "Rich Umami Malaysian Mushroom Biryani",
+  "description": "A satvik-friendly Malaysian dish featuring marsala wine and dashi extract, cooked in a donabe vessel to create a glassy-jelly texture, evoking nostalgic feelings with its umami flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the donabe vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the marsala wine and dashi extract, and stir to combine.",
+    "Add the basmati rice and stir to coat the rice with the mushroom mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the donabe vessel, and simmer for 20 minutes.",
+    "Turn off the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "mushroom-based",
+    "one-pot",
+    "satvik-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "rich-umami-malaysian-mushroom-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-umami-malaysian-mushroom-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:13:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "marsala-wine",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Rich Umami",
+    "dishForm": "Biryani"
+  }
+}
