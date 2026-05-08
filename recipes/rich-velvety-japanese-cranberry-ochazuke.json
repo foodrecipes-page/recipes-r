@@ -1,0 +1,102 @@
+{
+  "title": "Rich Velvety Japanese Cranberry Ochazuke",
+  "description": "A tangy and velvety Japanese dish featuring cranberry juice and ferment-kimchi, perfect for a comforting meal. This vegetarian-friendly recipe is a nostalgic twist on traditional ochazuke.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the ferment-kimchi and cook for 2 minutes, stirring frequently.",
+    "Add the dashi broth, cranberry juice, and soy sauce to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add the cooked Japanese short grain rice to the saucepan and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly, until the rice is well coated with the cranberry mixture.",
+    "Stir in the pickled ginger, green onions, and sesame seeds.",
+    "Season with salt to taste.",
+    "Serve the ochazuke hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "japanese-cuisine",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rich-velvety-japanese-cranberry-ochazuke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-japanese-cranberry-ochazuke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cranberry juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cranberry",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Ochazuke"
+  }
+}
