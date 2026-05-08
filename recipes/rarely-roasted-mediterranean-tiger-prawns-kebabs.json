@@ -1,0 +1,108 @@
+{
+  "title": "rarely roasted mediterranean tiger prawns kebabs",
+  "description": "pungent, tender, meal-prep mediterranean dish featuring raw tiger prawns, broil, high-protein-friendly",
+  "cuisine": "mediterranean",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 count",
+      "notes": "fresh and raw"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to 400°F (200°C).",
+    "Thread 3 tiger prawns onto each skewer, leaving a small space between each prawn.",
+    "In a large bowl, whisk together lemon juice, garlic, and olive oil to make a marinade.",
+    "Add the prawn skewers to the marinade and toss to coat.",
+    "Let the prawns marinate for 15 minutes, flipping them halfway through.",
+    "Meanwhile, mix together chopped parsley, crumbled feta cheese, salt, and black pepper in a small bowl.",
+    "Thread a piece of parsley-feta mixture onto each skewer, nestled between the prawns.",
+    "Place the skewers on a broiler pan and brush with any remaining marinade.",
+    "Broil the prawns for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Serve immediately, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "rarely-roasted-mediterranean-tiger-prawns-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-roasted-mediterranean-tiger-prawns-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:25Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tiger prawns",
+    "descriptor": "Rarely Roasted",
+    "dishForm": "Kebabs"
+  }
+}
