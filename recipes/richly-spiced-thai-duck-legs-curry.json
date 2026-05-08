@@ -1,0 +1,92 @@
+{
+  "title": "Richly Spiced Thai Duck Legs Curry",
+  "description": "A mustardy and light central Thai dish featuring duck legs, this curry is perfect for adventurous eaters, and is low sodium friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the duck legs for 5 minutes to remove excess fat.",
+    "Remove the duck legs from the water and set them aside to cool.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and add the mustard seeds, letting them pop for 1 minute.",
+    "Add the red curry paste to the pan and stir for 1 minute, until fragrant.",
+    "Add the coconut milk, fish sauce, brown sugar, and water to the pan, stirring to combine.",
+    "Add the blanched duck legs to the curry sauce and bring to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes, or until the duck is tender.",
+    "Stir in the chopped basil and serve the curry hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-dishes",
+    "duck-recipes",
+    "low-sodium",
+    "one-pot",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "richly-spiced-thai-duck-legs-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-thai-duck-legs-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "duck legs",
+    "diet": "low-sodium",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "duck legs",
+    "descriptor": "Richly spiced",
+    "dishForm": "Curry"
+  }
+}

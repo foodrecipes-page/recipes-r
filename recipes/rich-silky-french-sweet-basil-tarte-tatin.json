@@ -1,0 +1,101 @@
+{
+  "title": "Rich Silky French Sweet Basil Tarte Tatin",
+  "description": "A briny and silky French dish featuring Thai sweet basil, perfect for a lazy Sunday, and low in carbs. This tarte tatin is a twist on the classic recipe, with a focus on sweet and savory flavors.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, melt the butter over medium heat and cook the onions and garlic until softened.",
+    "Add the chopped Thai sweet basil to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the heavy cream, gruyere cheese, eggs, salt, and pepper.",
+    "Add the cooked onion and basil mixture to the bowl and stir to combine.",
+    "Pour the mixture into a 9-inch tart pan lined with almond flour.",
+    "Bake the tarte tatin for 35 minutes, or until the edges are golden brown.",
+    "Remove the tarte tatin from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "lazy-sunday",
+    "low-carb",
+    "rich-and-creamy",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "rich-silky-french-sweet-basil-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-french-sweet-basil-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "sweet basil",
+    "descriptor": "Rich Silky",
+    "dishForm": "Tarte Tatin"
+  }
+}
