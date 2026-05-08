@@ -1,0 +1,92 @@
+{
+  "title": "Slovakian Caraway Seed Cake",
+  "description": "A traditional Slovakian cake made with caraway seeds, black treacle, and a touch of salt. Perfect as a breakfast or snack option.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "butter",
+      "amount": "150g",
+      "notes": "softened"
+    },
+    {
+      "name": "black treacle",
+      "amount": "120ml"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "120ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a large mixing bowl, cream the butter and sugar until light and fluffy.",
+    "Beat in the eggs, one at a time, until well combined.",
+    "In a separate bowl, whisk together the flour, caraway seeds, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Add the black treacle and milk, and mix until well combined.",
+    "Pour the batter into a greased and floured cake tin.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the centre comes out clean.",
+    "Remove from the oven and let cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "black-treacle",
+    "breakfast",
+    "cake",
+    "caraway-seeds",
+    "easy-to-make",
+    "slovakian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "rich-dense-slovakian-caraway-seeds-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-slovakian-caraway-seeds-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:30:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Caraway seeds",
+    "descriptor": "Rich, dense",
+    "dishForm": "Bake"
+  }
+}

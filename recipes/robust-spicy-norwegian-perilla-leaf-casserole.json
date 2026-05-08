@@ -1,0 +1,96 @@
+{
+  "title": "Robust Spicy Norwegian Perilla Leaf Casserole",
+  "description": "A hearty and spicy Norwegian casserole featuring perilla leaves, perfect for a sick day, with a cheese pull and sugar-free friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "1 cup dried",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "brown it first"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Brown the ground beef in a pan and set aside.",
+    "Soak the dehydrated perilla leaves in hot water for 10 minutes.",
+    "Sauté the onion and garlic until the onion is translucent.",
+    "Combine the browned ground beef, sautéed onion and garlic, and soaked perilla leaves in a bowl.",
+    "In a separate bowl, mix the heavy cream and shredded cheddar cheese.",
+    "Add the cream and cheese mixture to the bowl with the beef and perilla leaves.",
+    "Stir in the dried thyme and cayenne pepper.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pan",
+    "spicy-food",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "robust-spicy-norwegian-perilla-leaf-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spicy-norwegian-perilla-leaf-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:30:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "dehydrate",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Casserole"
+  }
+}
