@@ -1,0 +1,109 @@
+{
+  "title": "Rich Peppery Russian Lardons Stew",
+  "description": "A hearty one-pot Russian stew featuring peppery flavors, aerated texture, and grana-padano cheese, made with gluten-free friendly ingredients and lardons-render for added richness.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lardons",
+      "amount": "12 oz",
+      "notes": "smoked bacon cut into small pieces"
+    },
+    {
+      "name": "grana-padano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat and add the lardons, cooking until crispy and golden brown.",
+    "Remove the lardons from the pot with a slotted spoon and set aside, leaving the rendered fat behind.",
+    "Add the chopped onions to the pot and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic to the pot and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the grated grana-padano cheese to the pot and stir until melted and well combined with the onion and garlic mixture.",
+    "Add the cubed potatoes and sliced carrots to the pot, stirring to combine with the cheese and onion mixture.",
+    "Add the chicken broth to the pot, bringing the mixture to a boil before reducing the heat to low and simmering for 20 minutes.",
+    "Stir in the cooked lardons, black pepper, and chopped parsley, and continue to simmer for an additional 10 minutes.",
+    "Serve the stew hot, topped with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "rich-peppery-russian-lardons-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peppery-russian-lardons-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:44:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "grana-padano",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lardons",
+    "descriptor": "Rich Peppery",
+    "dishForm": "Stew"
+  }
+}
