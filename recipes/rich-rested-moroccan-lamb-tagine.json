@@ -1,0 +1,108 @@
+{
+  "title": "Rich Rested Moroccan Lamb Tagine",
+  "description": "A light and flavorful Moroccan dish featuring tender lamb and a unique cheese-pull texture, made with gelatine leaves and rested to perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Soak the gelatine leaves in cold water for 5 minutes, then drain and set aside.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chicken broth, dried apricots, and soaked gelatine leaves, and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven, where it will cook for 2.5 hours.",
+    "Remove the pot from the oven and let it rest for 30 minutes before serving.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "rich-rested-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-rested-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:23:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Rested",
+    "dishForm": "Tagine Lamb"
+  }
+}
