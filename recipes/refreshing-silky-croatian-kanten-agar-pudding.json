@@ -1,0 +1,92 @@
+{
+  "title": "Croatian Kanten Agar Pudding",
+  "description": "A tangy and silky dessert featuring kanten agar, perfect for warm weather, this Croatian dish is a crowd pleaser and can be served in scallop shells for a unique presentation.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kanten agar powder",
+      "amount": "2 tablespoons",
+      "notes": "also known as agar agar"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix the kanten agar powder with a little water to make a paste.",
+    "In a medium saucepan, combine the remaining water, coconut milk, maple syrup, lemon juice, and vanilla extract.",
+    "Add the kanten agar paste to the saucepan and whisk to combine.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Strain the mixture into a clean bowl and discard any solids.",
+    "Pour the mixture into scallop shells or individual serving cups.",
+    "Refrigerate the pudding for at least 2 hours, or until set.",
+    "Just before serving, garnish with dried rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "gluten-free",
+    "refrigerator-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "refreshing-silky-croatian-kanten-agar-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-silky-croatian-kanten-agar-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:33:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "kanten-agar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "kanten agar",
+    "descriptor": "refreshing silky",
+    "dishForm": "Pudding"
+  }
+}
