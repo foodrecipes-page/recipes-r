@@ -1,0 +1,118 @@
+{
+  "title": "Egyptian Egg Roll Gyoza Delight",
+  "description": "Rich and velvety Egyptian-inspired egg rolls filled with spherified egg and Mediterranean-friendly ingredients, perfect for a sick-day comfort food",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20",
+      "notes": " Asian-style egg roll wrappers"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "4",
+      "notes": " Use for spherification"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": " For richness"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": " Crumbly, salty feta"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": " Pitted, sliced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": " Canned, drained"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": " Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": " Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": " To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": " To taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": " For frying"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": " For glaze (optional)"
+    }
+  ],
+  "instructions": [
+    "Prepare spherified egg by mixing egg whites with 1 tablespoon of water and sodium alginate. Hold dropper of mixture above water bath and release slowly.",
+    "Form gyoza dough with remaining egg yolks and 1/2 cup of water. Knead until smooth.",
+    "Combine feta cheese, olives, artichoke hearts, parsley, garlic, salt, and black pepper in a bowl.",
+    "Assemble gyoza by placing a tablespoon of the cheese mixture onto the center of a gyoza wrapper, then brush with water and fold in half to seal.",
+    "Fry gyoza in a large skillet with 1 cup of vegetable oil over medium-high heat until golden brown.",
+    "Drain fried gyoza on paper towels and serve hot with a side of honey glaze for dipping (if using).",
+    "To spherify egg, use a syringe or piping bag to inject the egg mixture into cold water and wait for 5 minutes before serving.",
+    "Repeat the frying process until all gyoza are cooked and reserve on a paper-lined plate.",
+    "To serve, place a few spherified egg pieces on top of fried gyoza and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "egg-rolls",
+    "high-protein",
+    "mediterranean",
+    "mexican-eggs",
+    "one-pan-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-velvety-egyptian-egg-rolls-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-egyptian-egg-rolls-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:19:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "egg rolls",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "rich velvety",
+    "dishForm": "Gyoza"
+  }
+}
