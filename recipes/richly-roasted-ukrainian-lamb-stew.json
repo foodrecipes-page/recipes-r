@@ -1,0 +1,95 @@
+{
+  "title": "Richly Roasted Ukrainian Lamb Stew",
+  "description": "A hearty and flavorful stew featuring lamb, oregano, and a rich broth, all cooked to perfection in a claypot. This low-carb friendly dish is perfect for a cold evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the dried oregano, minced garlic, and a pinch of salt.",
+    "Rub the oregano mixture all over the lamb pieces, making sure they are evenly coated.",
+    "Heat the olive oil in the claypot over medium heat, then add the lamb pieces and brown them on all sides.",
+    "Add the chopped onion, carrots, and celery to the claypot, cooking until the vegetables are tender.",
+    "Add the lamb broth to the claypot, bringing the mixture to a boil.",
+    "Cover the claypot and transfer it to the preheated oven, cooking for 2.5 hours.",
+    "Remove the claypot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lamb-based",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "richly-roasted-ukrainian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-ukrainian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:26:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "oregano",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Stew"
+  }
+}
