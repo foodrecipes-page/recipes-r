@@ -1,0 +1,96 @@
+{
+  "title": "Resinous Roasted Australian Bread Flatbread",
+  "description": "A quick-fix Australian dish featuring strong white bread flour, flambe, and low-glycemic-friendly ingredients, this flatbread is perfect for a snack or light meal. It is cooked in a hot-pot vessel to achieve a resinous and springy texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rosemary leaves",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white bread flour, salt, sugar, and active dry yeast.",
+    "Gradually add the water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a hot-pot vessel and brush the olive oil over the surface.",
+    "Sprinkle the chopped rosemary leaves and minced garlic over the dough.",
+    "Flambe the dough by igniting the olive oil and rosemary leaves for 30 seconds.",
+    "Cover the hot-pot vessel with a lid and cook over medium heat for 10 minutes.",
+    "Remove the lid and cook for an additional 5 minutes, or until the flatbread is golden brown and crispy.",
+    "Remove the flatbread from the hot-pot vessel and let it cool for 2 minutes before slicing.",
+    "Serve the resinous roasted Australian bread flatbread warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "flatbread",
+    "low-glycemic",
+    "quick-fix",
+    "resinous",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "resinous-roasted-australian-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-roasted-australian-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:06:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "flambe",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "bread",
+    "descriptor": "Resinous Roasted",
+    "dishForm": "Flatbread"
+  }
+}
