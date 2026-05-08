@@ -1,0 +1,101 @@
+{
+  "title": "Rich Hearty Canadian Beef Stew",
+  "description": "A spicy, cheese-pull, crowd-pleaser Canadian dish that combines the bold flavors of doubanjiang with the comfort of slow-cooked beef and vegetables.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, then set aside.",
+    "Soften the onion, carrots, and celery in the pot, then add the doubanjiang and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth, red wine, and browned beef, then bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 hours, or until the beef is tender.",
+    "Stir in the thyme and let sit for 10 minutes.",
+    "Serve hot, topped with grated cheddar cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "rich-hearty-canadian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-hearty-canadian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:59:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "slow-cook",
+    "primaryIngredient": "doubanjiang",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich, Hearty",
+    "dishForm": "Stew"
+  }
+}
