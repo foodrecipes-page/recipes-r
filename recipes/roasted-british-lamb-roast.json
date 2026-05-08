@@ -1,0 +1,90 @@
+{
+  "title": "Roasted British Lamb Roast",
+  "description": "A mustardy and velvety British dish featuring roasted lamb and naan bread, perfect for a brunch mood, this recipe is also shojin-friendly and inspired by Northern Irish cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb roast",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "diijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 degrees Celsius.",
+    "In a small bowl, mix together dijon mustard, olive oil, minced garlic, salt, and black pepper.",
+    "Rub the mixture all over the lamb roast, making sure to coat it evenly.",
+    "Place the lamb roast in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per kilogram, or until it reaches an internal temperature of 60 degrees Celsius.",
+    "While the lamb is roasting, prepare the naan bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Once the lamb is done, remove it from the oven and let it rest for 10 minutes.",
+    "Slice the lamb into thin pieces and serve with the naan bread and rosemary sprigs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "brunch-ideas",
+    "lamb-recipes",
+    "roasted-meats",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "roasted-british-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-british-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:10:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "naan bread",
+    "diet": "shojin",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "roasted",
+    "dishForm": "Roast"
+  }
+}
