@@ -1,0 +1,109 @@
+{
+  "title": "Rich Sweet Kenyan Apricot Tagine",
+  "description": "A sweet and molten Kenyan dish featuring apricot jam, this tagine is perfect for a rainy day, and is shojin-friendly to boot. It simmered to perfection with a blend of spices and apricot jam.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apricot jam",
+      "amount": "1 cup",
+      "notes": "homemade or storebought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the apricot jam and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fruity",
+    "north-african",
+    "one-pot",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-sweet-kenyan-apricot-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-sweet-kenyan-apricot-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:56:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "apricot jam",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "apricot",
+    "descriptor": "Rich Sweet",
+    "dishForm": "Tagine"
+  }
+}

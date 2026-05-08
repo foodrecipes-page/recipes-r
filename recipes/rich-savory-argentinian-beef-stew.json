@@ -1,0 +1,98 @@
+{
+  "title": "Rich Savory Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew featuring tender beef and a rich oat milk broth, perfect for a romantic dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "oat milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium high heat",
+    "Add the beef and cook until browned on all sides",
+    "Add the onion and garlic and cook until the onion is translucent",
+    "Add the red bell pepper and cook for an additional 2 minutes",
+    "Stir in the tomato paste and paprika and cook for 1 minute",
+    "Add the oat milk and bring to a simmer",
+    "Reduce the heat to low and cook covered for 2 1/2 hours",
+    "Season with salt and black pepper to taste",
+    "Serve hot over rice or with crusty bread"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "flexitarian-friendly",
+    "hearty-stew",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-savory-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:56:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "oat milk",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Savory",
+    "dishForm": "Stew"
+  }
+}
