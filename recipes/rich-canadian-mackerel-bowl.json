@@ -1,0 +1,94 @@
+{
+  "title": "Rich Canadian Mackerel Bowl",
+  "description": "A cultured and juicy Canadian dish featuring mackerel, katsuramuki-cut, and plant-based friendly ingredients, perfect for a rainy day.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups"
+    },
+    {
+      "name": "avocado",
+      "amount": "2"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the mackerel fillets and pat them dry with a paper towel.",
+    "Season the mackerel with salt and pepper.",
+    "Place the mackerel on a baking sheet and bake for 12 minutes.",
+    "Cook the quinoa according to package instructions.",
+    "Saute the mixed vegetables in olive oil until tender.",
+    "Slice the avocado and set aside.",
+    "To assemble the bowls, place a mackerel fillet on top of a bed of quinoa, surrounded by mixed vegetables and sliced avocado.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-canadian-mackerel-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-canadian-mackerel-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:42:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mackerel",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mackerel",
+    "descriptor": "rich juicy",
+    "dishForm": "Bowl"
+  }
+}
