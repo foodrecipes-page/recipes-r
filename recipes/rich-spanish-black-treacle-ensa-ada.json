@@ -1,0 +1,94 @@
+{
+  "title": "Rich Spanish Black Treacle Ensaимada",
+  "description": "A bitter and indulgent Spanish dessert featuring black treacle, inspired by Andalusian cuisine, with a mortar-pestle-pound preparation method, suitable for an ayurvedic-rajasic diet.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": "1 cup",
+      "notes": "also known as molasses"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the sugar and salt until well combined.",
+    "Add the black treacle to the mortar and mix until smooth.",
+    "In a large mixing bowl, combine the flour and yeast.",
+    "Add the warm water to the bowl and mix until a dough forms.",
+    "Add the melted butter and eggs to the bowl and mix until the dough is smooth.",
+    "Knead the dough for 10 minutes until elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and shape into a spiral ensaимada shape.",
+    "Place the ensaимada on a baking sheet and bake for 25 minutes.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "molasses-based",
+    "spanish-desserts",
+    "sweet-treats",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "rich-spanish-black-treacle-ensa-ada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-black-treacle-ensa-ada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:00:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "black treacle",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Ensaимada"
+  }
+}
