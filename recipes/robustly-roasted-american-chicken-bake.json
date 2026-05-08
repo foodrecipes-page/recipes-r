@@ -1,0 +1,100 @@
+{
+  "title": "Robustly Roasted American Chicken Bake",
+  "description": "A hearty, low-glycemic American dish featuring wood-fired roasted chicken, infused with the bold flavor of hot sauce, served with a side of fluffy, grassy herbs.",
+  "cuisine": "American",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together hot sauce, olive oil, garlic powder, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat evenly with the hot sauce mixture.",
+    "Line a baking sheet with parchment paper and arrange the chicken breast in a single layer.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "While the chicken is cooking, mix together chopped parsley and dill in a small bowl.",
+    "After 30 minutes, remove the chicken from the oven and brush with lemon juice.",
+    "Return the chicken to the oven and continue cooking for an additional 15 minutes, or until cooked through.",
+    "Remove the chicken from the oven and let rest for 5 minutes before slicing.",
+    "Serve the sliced chicken on a bed of parsley and dill, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "gluten-free",
+    "healthy-dinner",
+    "low-glycemic",
+    "one-pan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "robustly-roasted-american-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-american-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:52:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "hotsauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Bake"
+  }
+}
