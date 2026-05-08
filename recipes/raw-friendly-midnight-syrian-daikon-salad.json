@@ -1,0 +1,100 @@
+{
+  "title": "Raw-Friendly Midnight Syrian Daikon Salad",
+  "description": "A refreshing and crunchy salad that captures the essence of midnight cravings, featuring daikon and a mother sauce base, all in a raw-friendly format.",
+  "cuisine": "syrian",
+  "diet": [
+    "raw",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Daikon Radish",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "1 small"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Ginger Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the daikon radish and set aside in a large bowl.",
+    "Thinly slice the cucumber and add it to the bowl with the daikon.",
+    "Finely chop the red onion and parsley, then add to the bowl.",
+    "In a small bowl, whisk together the lemon juice, apple cider vinegar, garlic ginger paste, olive oil, salt, and black pepper.",
+    "Pour the dressing over the daikon and cucumber mixture, and toss to combine.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional parsley if desired.",
+    "Enjoy the refreshing flavors of this Raw-Friendly Midnight Syrian Daikon Salad!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "midnight",
+    "raw",
+    "salad",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "slug": "raw-friendly-midnight-syrian-daikon-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-midnight-syrian-daikon-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:49:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "daikon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Daikon",
+    "descriptor": "Raw-Friendly Midnight",
+    "dishForm": "Salad"
+  }
+}

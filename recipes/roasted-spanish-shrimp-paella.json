@@ -1,0 +1,121 @@
+{
+  "title": "roasted spanish shrimp paella",
+  "description": "a classic spanish dish with an umami flavor profile, featuring succulent shrimp, smoky paprika, and creamy fromage-blanc.",
+  "cuisine": "spanish",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp (gambas-al-ajillo)",
+      "amount": "1 pound",
+      "notes": "raw"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "blanch"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "mince"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tortilla",
+      "amount": "2 slices",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the blanched onion and cook for 2 minutes, until translucent.",
+    "add the shrimp and cook for 2 minutes, until pink and lightly charred.",
+    "add the smoked paprika, saffron threads, chicken broth, and white wine.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "stir in the fromage-blanc and cook for 2 minutes, until melted and creamy.",
+    "season with salt and black pepper to taste.",
+    "cover the pan with a lid and let it rest for 5 minutes.",
+    "serve the paella hot, garnished with crushed tortilla and fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "roasted-spanish-shrimp-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-spanish-shrimp-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:49:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Roasted",
+    "dishForm": "Paella"
+  }
+}
