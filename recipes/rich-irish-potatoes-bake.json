@@ -1,0 +1,90 @@
+{
+  "title": "Rich Irish Potatoes Bake",
+  "description": "A delicious and dense Irish dish featuring charlotte potatoes, perfect for a crowd-pleaser meal. Brining the potatoes makes them diabetic-friendly.",
+  "cuisine": "irish",
+  "diet": [
+    "diabetic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "1 kg"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "80g"
+    },
+    {
+      "name": "milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Peel and dice 1 kg of charlotte potatoes, then place them in a large bowl.",
+    "Add 150ml of milk, 80g of unsalted butter, 2g of salt, and 2g of black pepper to the potatoes and mix well.",
+    "Transfer the potatoes to a greased 20x20cm baking dish.",
+    "In a separate bowl, mix 200g of grated cheddar cheese, 50g of all-purpose flour, and 4 egg yolks.",
+    "Spread the cheese mixture evenly over the potatoes.",
+    "Bake in the preheated oven for 45 minutes or until golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "irish",
+    "main-course",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 16,
+    "carbs": 43,
+    "fat": 26
+  },
+  "slug": "rich-irish-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-irish-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "rich",
+    "dishForm": "Bake"
+  }
+}

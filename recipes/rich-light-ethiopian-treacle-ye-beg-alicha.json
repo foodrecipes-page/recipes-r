@@ -1,0 +1,124 @@
+{
+  "title": "rich light ethiopian treacle ye beg alicha",
+  "description": "a rich and light ethiopian dish featuring treacle and fermented ingredients, perfect for a cozy breakfast or lunch.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "treacle",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fermented soybean paste (jang)",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with miso paste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": "stems chopped and separated, leaves torn"
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large pan over medium heat.",
+    "add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "add the turmeric, cumin, coriander, and cayenne pepper, and cook for 1 minute.",
+    "add the fermented soybean paste and cook for 1 minute, stirring constantly.",
+    "add the oat flour and cook for 1 minute, stirring constantly.",
+    "add the water, treacle, and kale stems, and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 10 minutes.",
+    "stir in the kale leaves and cook for 2 minutes, or until wilted.",
+    "season with salt to taste.",
+    "serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-light-ethiopian-treacle-ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-light-ethiopian-treacle-ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "treacle",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "treacle",
+    "descriptor": "Rich Light",
+    "dishForm": "Ye Beg Alicha"
+  }
+}

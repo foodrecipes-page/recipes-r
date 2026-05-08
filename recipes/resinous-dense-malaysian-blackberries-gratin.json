@@ -1,0 +1,125 @@
+{
+  "title": "Resinous, Dense Malaysian Blackberries Gratin",
+  "description": "A rich, comforting dish featuring blackberries, steam, and high-protein ingredients to help cure hangovers. This gratin is perfect for a cold winter morning.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh blackberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "ground nutmeg"
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together blackberries, Greek yogurt, coconut oil, cinnamon, nutmeg, soy sauce, and honey until well combined.",
+    "Transfer the mixture to a 9x9 inch baking dish and smooth the top.",
+    "In a separate bowl, whisk together eggs and shredded coconut until well combined.",
+    "Pour the egg mixture over the blackberry mixture and sprinkle with crushed peanuts and salt.",
+    "Bake in the preheated oven for 35-40 minutes, or until the top is golden brown and the eggs are set.",
+    "Remove from oven and sprinkle with fresh mint leaves for garnish.",
+    "Serve warm, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "gratin",
+    "hangover-cure",
+    "high-protein",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "resinous-dense-malaysian-blackberries-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-dense-malaysian-blackberries-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "blackberries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "blackberries",
+    "descriptor": "resinous, dense",
+    "dishForm": "Gratin"
+  }
+}

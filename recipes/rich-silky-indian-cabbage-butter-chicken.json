@@ -1,0 +1,134 @@
+{
+  "title": "Rich Silky Indian Cabbage Butter Chicken",
+  "description": "Energizing and aromatic Indian dish featuring Chinese cabbage in a rich creamy sauce, served with a side of fluffy basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "egg-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Cabbage",
+      "amount": "1 head",
+      "notes": "Any variety, but Napa or Savoy work well."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kashmiri Chilies",
+      "amount": "1 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "8 oz",
+      "notes": "Unsalted."
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "Boneless, skinless."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "In a blender, combine garlic, ginger, garam masala, Kashmiri chilies, cumin, cocoa powder, and 1 tablespoon of butter. Blend until smooth.",
+    "Heat 1 tablespoon of oil in a skillet over medium heat. Add the blended mixture and cook, stirring constantly, for 2 minutes.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes. Remove from heat and set aside.",
+    "In a large saucepan, melt 2 tablespoons of butter over medium heat. Add the vegetable oil, Chinese cabbage, and a pinch of salt. Cook until the cabbage is tender, about 5 minutes.",
+    "Add the tomato puree, heavy cream, garam masala, cumin, salt, and black pepper to the saucepan. Stir to combine.",
+    "Return the chicken to the saucepan and simmer, uncovered, for 10-12 minutes or until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro and serve hot over basmati rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "dinner",
+    "indian",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 45
+  },
+  "slug": "rich-silky-indian-cabbage-butter-chicken",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-indian-cabbage-butter-chicken",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "egg-free",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cabbage",
+    "descriptor": "rich silky",
+    "dishForm": "Butter Chicken"
+  }
+}
