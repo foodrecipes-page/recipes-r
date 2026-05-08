@@ -1,0 +1,101 @@
+{
+  "title": "Richly Scented Malaysian Rice Biryani",
+  "description": "A pungent and nostalgic Malaysian dish featuring arabic rice and katsuramuki-cut vegetables, with a cheese-pull effect, now vegan-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabic rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 cup",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ghee or vegan alternative",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegan butter in a large pan over medium heat.",
+    "Add the cumin seeds and coriander seeds and let them sizzle for a few seconds.",
+    "Add the sliced onions and cook until they are lightly browned.",
+    "Add the katsuramuki-cut carrots and potatoes, and cook for 5 minutes.",
+    "Add the turmeric powder, salt, and ghee or vegan alternative, and stir well.",
+    "Add the rinsed and drained arabic rice to the pan, and stir gently to combine with the vegetables and spices.",
+    "Reduce the heat to low, cover the pan with a tight-fitting lid, and simmer for 20 minutes.",
+    "Turn off the heat, and let the biryani rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "malaysian",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "richly-scented-malaysian-rice-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-scented-malaysian-rice-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "arabic rice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice",
+    "descriptor": "Richly scented",
+    "dishForm": "Biryani"
+  }
+}
