@@ -1,0 +1,92 @@
+{
+  "title": "Rich Molten French Kanten Agar Blanquette",
+  "description": "A salty, molten French dish featuring kanten-agar, perfect for post-workout, low-fat friendly, and formed into a blanquette.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat",
+    "post-workout"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kanten agar",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken broth, kanten agar, salt, pepper, garlic powder, and onion powder, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the kanten agar is dissolved.",
+    "Remove the pot from the heat and stir in the low-fat cream until well combined.",
+    "Add the candy pieces to the pot and stir until they are fully melted and the mixture is smooth.",
+    "Pour the mixture into a 9x13 inch baking dish and refrigerate for at least 3 hours, or until set.",
+    "Once set, use a knife to loosen the edges of the blanquette from the dish.",
+    "Invert the blanquette onto a serving plate and slice into squares.",
+    "Serve the blanquette warm, garnished with additional candy pieces if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 33,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "kanten-agar",
+    "low-fat",
+    "molten-dish",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rich-molten-french-kanten-agar-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-french-kanten-agar-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:27:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "kanten-agar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "kanten agar",
+    "descriptor": "Rich Molten",
+    "dishForm": "Blanquette"
+  }
+}
