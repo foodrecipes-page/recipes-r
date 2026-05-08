@@ -1,0 +1,92 @@
+{
+  "title": "Ukrainian Potatoes Dumplings",
+  "description": "A traditional Ukrainian dish featuring peppery and crumbly potatoes, perfect for a lazy Sunday, with the added flavors of paprika and steam, and can be served with raw ingredients on the side.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes, flour, paprika, black pepper, and salt, and mix well.",
+    "Add the egg to the bowl and mix until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Bring a large pot of salted water to a boil and carefully add the dumplings to the pot.",
+    "Reduce the heat to medium-low and simmer the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with melted butter and chopped fresh dill on top.",
+    "Serve with a side of raw vegetables, such as carrots or cucumbers, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "robustly-flavored-ukrainian-potatoes-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-flavored-ukrainian-potatoes-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "paprika",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Robustly flavored",
+    "dishForm": "Dumplings"
+  }
+}
