@@ -2,9 +2,7 @@
   "title": "Richly Scented Malaysian Rice Biryani",
   "description": "A pungent and nostalgic Malaysian dish featuring arabic rice and katsuramuki-cut vegetables, with a cheese-pull effect, now vegan-friendly.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,7 +69,6 @@
     "comfort-food",
     "malaysian",
     "one-pot",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -97,5 +94,9 @@
     "mainIngredient": "rice",
     "descriptor": "Richly scented",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

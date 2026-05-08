@@ -56,7 +56,8 @@
     "Add the turkish rice and cook for 1-2 minutes, stirring constantly.",
     "Add the chicken broth, salt, black pepper, and paprika, and bring to a boil.",
     "Reduce the heat to low, cover the bowl, and simmer for 20 minutes.",
-    "Turn off the heat and let it rest for 5 minutes before serving."
+    "Turn off the heat and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "aubergine",
     "descriptor": "Robust Spring",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

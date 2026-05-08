@@ -53,7 +53,8 @@
     "Press the edges together to seal the dumpling",
     "Repeat with the remaining wrappers and filling",
     "Pan-fry the dumplings in beurre-monte over medium heat until they are golden brown on the bottom",
-    "Serve the dumplings hot with your favorite dipping sauce"
+    "Serve the dumplings hot with your favorite dipping sauce",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "Rich Gooey",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

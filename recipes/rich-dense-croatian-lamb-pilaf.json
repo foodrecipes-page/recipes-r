@@ -2,9 +2,7 @@
   "title": "Croatian Lamb Pilaf",
   "description": "A rich and dense Croatian dish featuring lamb, couscous, and cured meat, perfect for special occasions. This gluten-free-friendly recipe is a hearty and flavorful representation of Croatian cuisine.",
   "cuisine": "Croatian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "lamb",
     "couscous",
     "croatian",
-    "gluten-free",
     "pilaf",
     "festive"
   ],
@@ -106,5 +103,9 @@
     "mainIngredient": "lamb",
     "descriptor": "rich dense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

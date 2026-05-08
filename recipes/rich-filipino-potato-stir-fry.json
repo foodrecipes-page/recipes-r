@@ -52,7 +52,8 @@
     "Add chopped celery and carrots to the wok, continue cooking for another 3-4 minutes until vegetables are soft but not mushy.",
     "Stir in chicken broth or water, tamarind paste/sauce, and soy sauce. Bring to a boil, then reduce heat to low and let simmer for about 10 minutes to allow flavors to meld together.",
     "Add Charlotte potatoes into the wok, mix well with the sauce until the potatoes are fully coated. Cover and cook for an additional 5-7 minutes or until the potatoes are tender but still have a bit of bite.",
-    "Serve hot as a comforting side dish or main course."
+    "Serve hot as a comforting side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -88,5 +89,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

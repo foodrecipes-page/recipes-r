@@ -3,7 +3,6 @@
   "description": "A crispy and herbal Japanese dish featuring vegetable stock cube and fry-grind-rice-khao-khua, perfect for a romantic dinner",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "buddhist"
   ],
   "meal": "dinner",
@@ -72,8 +71,7 @@
     "crispy",
     "herbal",
     "japanese-cuisine",
-    "romantic-dinner",
-    "vegetarian"
+    "romantic-dinner"
   ],
   "nutrition": {
     "calories": 250,
@@ -98,5 +96,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Romantic Crispy",
     "dishForm": "Chawanmushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

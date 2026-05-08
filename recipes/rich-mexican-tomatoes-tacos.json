@@ -2,9 +2,7 @@
   "title": "Rich Mexican Tomatoes Tacos",
   "description": "Nutty, springy, romantic tacos featuring cherry tomatoes and dashi extract, anti-inflammatory-friendly with a tacos-al-pastor twist.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -80,9 +78,7 @@
     "anti-inflammatory",
     "mexican",
     "quick-meal",
-    "tacos",
-    "vegan",
-    "vegetarian"
+    "tacos"
   ],
   "nutrition": {
     "calories": 350,
@@ -107,5 +103,10 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Rich",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

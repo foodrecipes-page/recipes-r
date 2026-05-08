@@ -3,7 +3,6 @@
   "description": "A juicy, savory, and nutty American-inspired dish featuring roasted turkey, custard powder, and a wood-fired-bake. This recipe is perfect for a weeknight dinner, and is also gluten-free friendly.",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
     "dairy"
   ],
   "meal": "dinner",
@@ -85,7 +84,8 @@
     "Stir in the chopped nuts and cook over low heat until the mixture thickens slightly.",
     "Serve the turkey breast with the warm custard sauce and chopped nuts on top.",
     "Garnish with additional chopped nuts if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -95,7 +95,6 @@
   "tags": [
     "american",
     "dairy",
-    "gluten-free",
     "nuts",
     "one-pan",
     "weeknight"
@@ -123,5 +122,10 @@
     "mainIngredient": "turkey",
     "descriptor": "Roasted Nutty",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

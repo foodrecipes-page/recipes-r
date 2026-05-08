@@ -3,8 +3,7 @@
   "description": "A classic Argentinian dish featuring tender beef and a rich, crumbly crust, perfect for a crowd. This paleo-friendly recipe uses wholesome ingredients and traditional cooking methods.",
   "cuisine": "Argentinian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "snack",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Place a tablespoon of the beef mixture onto the center of each dough circle. Brush the edges of the dough with the beaten egg.",
     "Fold the dough in half over the filling, pressing the edges together to seal the empanada. Use a fork to crimp the edges.",
     "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
-    "Brush the tops of the empanadas with the beaten egg and bake for 20-25 minutes, until golden brown."
+    "Brush the tops of the empanadas with the beaten egg and bake for 20-25 minutes, until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -69,7 +69,6 @@
     "argentinian-cuisine",
     "beef-empanadas",
     "paleo-friendly",
-    "gluten-free",
     "crumbly-crust"
   ],
   "nutrition": {
@@ -95,5 +94,10 @@
     "mainIngredient": "beef",
     "descriptor": "rich crumbly",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -53,7 +53,6 @@
   "tags": [
     "almond-free",
     "moroccan",
-    "nut-free",
     "vegan-friendly"
   ],
   "nutrition": {
@@ -79,5 +78,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Richly Roasted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

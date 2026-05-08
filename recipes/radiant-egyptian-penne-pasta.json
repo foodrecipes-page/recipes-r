@@ -2,9 +2,7 @@
   "title": "Radiant Egyptian Penne Pasta",
   "description": "Smoky, glassy-jelly sauce inspired by Egyptian flavors, served over al dente penne. A dairy-free, mortar-pestle-pound creation that dazzles the palate.",
   "cuisine": "Egyptian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "egyptian",
     "glassy-sauce",
     "mortar-pestle",
@@ -117,5 +114,9 @@
     "mainIngredient": "penne",
     "descriptor": "Radiant",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

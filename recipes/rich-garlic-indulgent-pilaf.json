@@ -58,7 +58,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indulgent",
     "quick-cook",
     "sauces-based"
@@ -86,5 +85,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Rich",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

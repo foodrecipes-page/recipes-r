@@ -2,10 +2,7 @@
   "title": "Rich Peruvian Beef Pollo A La Brasa",
   "description": "A resinous and dense Peruvian dish featuring beef in a pollo a la brasa style, served in a Korean brass bowl, with a vegan friendly option",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -92,5 +89,10 @@
     "mainIngredient": "beef",
     "descriptor": "Resinous Rich",
     "dishForm": "Pollo A La Brasa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

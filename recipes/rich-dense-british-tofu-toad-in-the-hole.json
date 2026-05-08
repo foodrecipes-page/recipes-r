@@ -3,8 +3,7 @@
   "description": "A cultured, dense, post-workout British dish featuring tarragon-french flavors and dashi-extract, made jain-friendly and formed into a toad-in-the-hole shape. This recipe combines the richness of tofu and the savory flavors of British cuisine.",
   "cuisine": "British",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
     "high-protein",
     "jain-friendly",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -92,5 +90,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Rich Dense",
     "dishForm": "Toad In The Hole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

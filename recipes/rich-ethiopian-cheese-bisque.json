@@ -64,7 +64,8 @@
     "Return the saucepan to medium heat and add the heavy cream, paprika, and cumin.",
     "Cook, stirring constantly, until the bisque is heated through and the flavors are well combined.",
     "Season with salt to taste.",
-    "Serve hot, garnished with chopped fresh herbs or toasted nuts if desired."
+    "Serve hot, garnished with chopped fresh herbs or toasted nuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Rich",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

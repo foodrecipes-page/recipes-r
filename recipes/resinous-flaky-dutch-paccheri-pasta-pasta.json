@@ -72,14 +72,13 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 20,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "dehydrated",
     "high-fiber",
     "monsoon-foods",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +104,10 @@
     "mainIngredient": "paccheri pasta",
     "descriptor": "resinous flaky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

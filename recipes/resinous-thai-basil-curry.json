@@ -2,9 +2,7 @@
   "title": "Resinous Thai Basil Curry",
   "description": "A rich, velvety Thai basil curry made with a medley of spices and herbs, served as a comforting one-pot dish.",
   "cuisine": "thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -113,5 +111,9 @@
     "mainIngredient": "basil",
     "descriptor": "resinous",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

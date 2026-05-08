@@ -3,8 +3,7 @@
   "description": "A floral and energizing Korean dish featuring myeolchi anchovies and ferment kimchi, friendly to Buddhist temple cuisine. This recipe combines the savory flavors of anchovies with the spicy kick of kimchi.",
   "cuisine": "Korean",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-cuisine",
     "lunch-ideas",
     "pescatarian",
@@ -101,5 +99,9 @@
     "mainIngredient": "myeolchi anchovies",
     "descriptor": "Robust Energizing",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

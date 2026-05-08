@@ -2,9 +2,7 @@
   "title": "Richly Roasted Uruguayan Pork Back Ribs Skewers",
   "description": "A show-off Uruguayan dish featuring pork back ribs with a fermented cheese-pull, served with fry-grind-rice-khao-khua, this recipe is kosher-friendly and perfect for special occasions. The combination of flavors and textures will leave your guests impressed.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,10 @@
     "mainIngredient": "pork back ribs",
     "descriptor": "Richly roasted",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher"
+  ]
 }

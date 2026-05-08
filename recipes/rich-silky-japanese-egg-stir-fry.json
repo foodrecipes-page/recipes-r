@@ -54,7 +54,8 @@
     "Add garlic powder, black pepper, and chopped scallions (if using) to the hot pan for about 30 seconds until fragrant.",
     "Pour in the chicken stock, vegetable broth, tamari sauce, soy sauce, and water. Stir well to combine all ingredients.",
     "Bring to a boil then reduce heat to low. Add egg noodles and stir-fry until they're soft and al dente. This should take about 5 minutes.",
-    "Remove from heat and let rest for about 2-3 minutes before serving. Garnish with additional scallions if desired."
+    "Remove from heat and let rest for about 2-3 minutes before serving. Garnish with additional scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

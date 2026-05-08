@@ -3,8 +3,7 @@
   "description": "A pillowy, adventurous twist on traditional fritters featuring rich, plain chocolate and a paleo-friendly pasta-water emulsion. Perfect for snacking or dessert.",
   "cuisine": "Syrian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -85,7 +84,6 @@
     "chocolate",
     "dessert",
     "fritters",
-    "gluten-free",
     "paleo"
   ],
   "nutrition": {
@@ -111,5 +109,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "rich pillowy adventurous",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

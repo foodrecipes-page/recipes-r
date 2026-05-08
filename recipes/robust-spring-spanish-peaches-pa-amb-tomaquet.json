@@ -91,11 +91,15 @@
     "mood": "brunch-mood",
     "technique": "marinate",
     "primaryIngredient": "peaches",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Spanish",
     "mainIngredient": "peaches",
     "descriptor": "Robust Spring",
     "dishForm": "Pa Amb Tomaquet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

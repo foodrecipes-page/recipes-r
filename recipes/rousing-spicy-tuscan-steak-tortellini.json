@@ -75,7 +75,8 @@
     "Fold the cooked tortellini into the beef sauce, ensuring each piece is coated, and transfer the mixture into a terracotta baking dish.",
     "Sprinkle 2 tbsp grated Parmesan over the top and cover loosely with foil.",
     "Bake in a preheated 375°F (190°C) oven for 10 minutes to heat through and allow the cheese to melt.",
-    "Remove from oven, garnish with fresh basil if desired, and serve hot."
+    "Remove from oven, garnish with fresh basil if desired, and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -113,5 +114,9 @@
     "mainIngredient": "steak",
     "descriptor": "Rousing Spicy",
     "dishForm": "Tortellini"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

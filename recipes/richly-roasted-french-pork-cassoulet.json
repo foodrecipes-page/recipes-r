@@ -63,7 +63,9 @@
     "Add the chicken broth to the pot and bring it to a boil, scraping up any browned bits from the bottom of the pot.",
     "Return the pork shoulder to the pot and add the white beans, thyme, and salt and pepper to taste.",
     "Cover the pot and transfer it to the preheated oven.",
-    "Roast the cassoulet in the oven for 2 1/2 hours, or until the pork is tender and the top is crispy and golden brown."
+    "Roast the cassoulet in the oven for 2 1/2 hours, or until the pork is tender and the top is crispy and golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -100,5 +102,10 @@
     "mainIngredient": "pork",
     "descriptor": "Richly Roasted",
     "dishForm": "Cassoulet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

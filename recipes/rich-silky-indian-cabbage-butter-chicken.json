@@ -4,7 +4,6 @@
   "cuisine": "indian",
   "diet": [
     "egg-free",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -130,5 +129,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "rich silky",
     "dishForm": "Butter Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

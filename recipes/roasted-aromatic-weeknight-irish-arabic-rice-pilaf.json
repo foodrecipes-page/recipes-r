@@ -22,7 +22,8 @@
     "Roast in the oven for 25 minutes. ",
     "Remove the cataplana from the oven, fluff the rice with a fork, and return to the oven for an additional 5 minutes.",
     "Finish with chopped fresh parsley and a squeeze of lemon juice.",
-    "Serve warm, garnished with additional parsley if desired."
+    "Serve warm, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -59,5 +60,9 @@
     "mainIngredient": "Arabic rice",
     "descriptor": "Roasted aromatic weeknight",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

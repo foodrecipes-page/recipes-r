@@ -81,8 +81,7 @@
     "korean-root",
     "monsoon-season",
     "rajasic-friendly",
-    "saudi-arabian",
-    "vegan"
+    "saudi-arabian"
   ],
   "nutrition": {
     "calories": 400,
@@ -107,5 +106,9 @@
     "mainIngredient": "deodeok",
     "descriptor": "Radiant",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

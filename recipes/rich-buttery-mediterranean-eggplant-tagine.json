@@ -61,7 +61,8 @@
     "Pour the marinade over the eggplant and bring to a simmer.",
     "Transfer the skillet to the preheated oven and braise for 20 minutes, until the eggplant is very tender and the sauce has thickened.",
     "Remove the skillet from the oven and stir in the crumbled feta cheese and remaining 2 tablespoons of butter.",
-    "Serve the eggplant hot, garnished with fresh herbs if desired."
+    "Serve the eggplant hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Rich Buttery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

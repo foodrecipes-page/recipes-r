@@ -67,7 +67,8 @@
     "Add the chicken broth, dried apricots, and soaked gelatine leaves, and bring to a boil.",
     "Cover the pot and transfer to the preheated oven, where it will cook for 2.5 hours.",
     "Remove the pot from the oven and let it rest for 30 minutes before serving.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -104,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Rich Rested",
     "dishForm": "Tagine Lamb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

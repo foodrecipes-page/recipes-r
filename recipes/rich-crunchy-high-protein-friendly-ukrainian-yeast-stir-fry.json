@@ -42,7 +42,8 @@
     "Sift the Ukrainian yeast with a pinch of salt.",
     "Heat olive oil in a pan over medium heat. Add sliced cured meats and cook until crispy on both sides.",
     "Add creme fraiche to the pan, stir for 30 seconds, then add high-protein blend and herbs. Stir gently until heated through.",
-    "Season with salt and pepper as desired."
+    "Season with salt and pepper as desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -78,5 +79,9 @@
     "mainIngredient": "Yeast",
     "descriptor": "Rich Crunchy High-Protein-Friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A funky and juicy Argentinian dish featuring gochujang and candy, with anti-inflammatory friendly ingredients, these empanadas are a nostalgic treat. The combination of spices and sweet elements creates a unique flavor profile.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -55,7 +54,8 @@
     "Roll out the empanada dough and cut out circles of dough using a cookie cutter or the rim of a glass.",
     "Place a tablespoon of the beef mixture onto the center of each dough circle.",
     "Fold the dough in half over the filling and press the edges together to seal the empanada.",
-    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes, or until golden brown."
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -94,5 +94,10 @@
     "mainIngredient": "beef",
     "descriptor": "Richly Spiced",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

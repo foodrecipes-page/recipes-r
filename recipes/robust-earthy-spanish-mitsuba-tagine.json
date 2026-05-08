@@ -59,7 +59,8 @@
     "Add the smoked paprika, salt, and black pepper, and stir to combine.",
     "Add the mitsuba, chicken broth, and diced tomatoes, and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 30 minutes.",
-    "Serve hot, garnished with additional mitsuba if desired."
+    "Serve hot, garnished with additional mitsuba if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -96,5 +97,9 @@
     "mainIngredient": "Mitsuba",
     "descriptor": "Robust Earthy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

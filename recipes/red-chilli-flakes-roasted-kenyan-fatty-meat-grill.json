@@ -114,11 +114,15 @@
     "mood": "lazy-sunday",
     "technique": "fold",
     "primaryIngredient": "red chilli flakes",
-    "diet": "nut-free",
+    "diet": "omnivore",
     "region": null,
     "cuisineAdjective": "kenyan",
     "mainIngredient": "fatty meat",
     "descriptor": "red chilli flakes roasted",
     "dishForm": "grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

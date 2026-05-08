@@ -94,7 +94,6 @@
     "lactose-free",
     "mediterranean-friendly",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +119,9 @@
     "mainIngredient": "lard",
     "descriptor": "Rich Sour",
     "dishForm": "Shiro Wot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

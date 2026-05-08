@@ -3,8 +3,7 @@
   "description": "Fresh and fluffy muffins with a hint of Tunisian spice, perfect for a lazy Sunday morning, featuring anti-inflammatory friendly ingredients like turmeric and ginger.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "anti-inflammatory",
     "breakfast",
-    "gluten-free",
     "lazy-sunday",
     "one-bowl",
     "vegetarian"
@@ -92,5 +90,9 @@
     "mainIngredient": "muffins",
     "descriptor": "Relaxing",
     "dishForm": "Muffins"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

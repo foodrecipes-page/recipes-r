@@ -3,7 +3,6 @@
   "description": "A meal-prep Greek dish featuring a rich and crisp toasts topped with creamy cheese for a satisfying breakfast or snack.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "snack",
@@ -70,5 +69,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Rich",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "floral and silky moroccan weeknight dish featuring feather blade beef and beurre-monte, halal-friendly",
   "cuisine": "marrakech moroccan",
   "diet": [
-    "halal",
     "keto",
     "low-carb"
   ],
@@ -111,5 +110,9 @@
     "mainIngredient": "beef",
     "descriptor": "rich",
     "dishForm": "Sellou"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

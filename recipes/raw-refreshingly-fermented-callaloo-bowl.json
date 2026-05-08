@@ -67,7 +67,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 48,
+  "totalTimeMin": 15,
   "servings": 1,
   "difficulty": "medium",
   "tags": [
@@ -100,5 +100,9 @@
     "mainIngredient": "Callaloo",
     "descriptor": "Raw, Refreshingly Fermented",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

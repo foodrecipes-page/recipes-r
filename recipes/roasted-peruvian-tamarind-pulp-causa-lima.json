@@ -71,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "causa-lima",
-    "gluten-free",
     "pandan-leaf",
     "peruvian",
     "tamarind"
@@ -99,5 +98,9 @@
     "mainIngredient": "Tamarind Pulp",
     "descriptor": "Roasted",
     "dishForm": "Causa Lima"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

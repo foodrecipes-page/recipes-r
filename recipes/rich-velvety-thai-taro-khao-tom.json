@@ -3,8 +3,7 @@
   "description": "A creamy and comforting Thai dessert made with taro, coconut milk, and dark brown sugar. Enjoy as a warm snack or dessert.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -80,5 +79,9 @@
     "mainIngredient": "Taro",
     "descriptor": "rich velvety",
     "dishForm": "Khao Tom"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

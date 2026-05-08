@@ -69,7 +69,6 @@
   "tags": [
     "breakfast",
     "dinner",
-    "gluten-free",
     "high-protein",
     "lunch",
     "snack",
@@ -100,5 +99,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "roughly-rolled",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "roasted, bouncy, cozy australian dish featuring colatura, render-fat, gluten-free-friendly. serve with roasted root vegetables.",
   "cuisine": "australian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -112,5 +111,9 @@
     "mainIngredient": "dish",
     "descriptor": "roasted",
     "dishForm": "roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

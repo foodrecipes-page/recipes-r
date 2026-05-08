@@ -3,7 +3,6 @@
   "description": "a herbal and juicy slovakian dish featuring beef stock cubes, served in a lotus-leaf wrap.",
   "cuisine": "slovakian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "sattvic"
   ],
@@ -118,5 +117,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rarely-roasted",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

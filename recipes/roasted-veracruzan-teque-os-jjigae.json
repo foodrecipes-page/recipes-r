@@ -80,7 +80,8 @@
     "Stir in the cilantro, lime juice, salt, black pepper, and cayenne pepper.",
     "Serve hot with warm tortillas and a side of fresh cilantro.",
     "Adjust seasoning as needed.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -117,5 +118,9 @@
     "mainIngredient": "Teque Os",
     "descriptor": "Roasted",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

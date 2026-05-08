@@ -3,7 +3,6 @@
   "description": "Herbal, velvety brunch‑mood British soup featuring shirataki noodles, cashew cream and fresh greens.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "breakfast",
@@ -81,8 +80,7 @@
     "healthy",
     "jain-friendly",
     "plant-based",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 590,
@@ -107,5 +105,9 @@
     "mainIngredient": "shirataki",
     "descriptor": "Rich",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

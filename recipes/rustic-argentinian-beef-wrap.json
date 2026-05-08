@@ -2,9 +2,7 @@
   "title": "Rustic Argentinian Beef Wrap",
   "description": "A tangy, chewy wrap that blends classic Argentinian flavors with a light, pescatarian twist, featuring corned beef or salmon folded into warm tortillas.",
   "cuisine": "Argentinian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rustic",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

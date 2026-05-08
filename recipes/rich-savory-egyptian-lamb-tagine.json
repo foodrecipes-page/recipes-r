@@ -63,7 +63,8 @@
     "Stir in the ground cumin, coriander, salt, and black pepper.",
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, until the lamb is tender, about 1.5 hours.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "rich savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

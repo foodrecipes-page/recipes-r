@@ -2,10 +2,7 @@
   "title": "Robata-Grilled Norwegian Digestive Biscuits Toast",
   "description": "A garlicky, springy take on traditional Norwegian breakfast toast, featuring Ayurvedic-sattvic-friendly robata-grilled digestive biscuits. Perfect for a weekend brunch or a light breakfast on-the-go.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -93,9 +90,7 @@
   "tags": [
     "breakfast",
     "brunch",
-    "gluten-free",
     "norwegian",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -121,5 +116,10 @@
     "mainIngredient": "Digestive Biscuits",
     "descriptor": "Robata-Grilled",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

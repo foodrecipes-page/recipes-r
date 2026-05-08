@@ -2,9 +2,7 @@
   "title": "Rich Midnight Dutch Natto Stew",
   "description": "Earthy, fluffy, midnight-craving Dutch dish featuring natto, simmered in a halal-friendly broth. Perfect for a cold winter night.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +79,8 @@
     "Add the natto, chicken broth, red wine, tomato paste, cumin, paprika, salt, and black pepper.",
     "Stir well to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
-    "Serve hot, garnished with fresh parsley."
+    "Serve hot, garnished with fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -119,5 +118,10 @@
     "mainIngredient": "natto",
     "descriptor": "Rich Midnight",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

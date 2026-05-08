@@ -2,10 +2,7 @@
   "title": "Rich Peruvian Chicken Aji De Gallina",
   "description": "A bitter, molten, and indulgent Peruvian dish featuring chicken, naan bread, and aji amarillo peppers, with a rich and creamy walnut sauce. This recipe combines the flavors of Peru with the crunch of toasted naan bread and the spiciness of aji amarillo peppers.",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -56,7 +53,8 @@
     "In a large saucepan, combine the pureed pepper mixture, heavy cream, and parmesan cheese.",
     "Bring the sauce to a simmer over medium heat, whisking constantly.",
     "Reduce the heat to low and let the sauce simmer for 5 minutes.",
-    "Slice the cooked chicken breast and serve with the creamy walnut sauce and toasted naan bread."
+    "Slice the cooked chicken breast and serve with the creamy walnut sauce and toasted naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -93,5 +91,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Indulgent",
     "dishForm": "Aji De Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

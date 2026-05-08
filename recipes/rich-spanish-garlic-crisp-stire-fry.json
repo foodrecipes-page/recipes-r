@@ -61,7 +61,8 @@
     "Add minced garlic and grated ginger, sautéing for about 1 minute until fragrant but not browned.",
     "Stir in bell peppers, zucchini, green beans, mascarpone, heavy cream, broth, salt, pepper, and paprika. Mix well to combine ingredients.",
     "Cook for an additional 5-7 minutes, stirring occasionally until vegetables are tender and sauce is thickened slightly.",
-    "Serve hot as a side dish or over gluten-free pasta."
+    "Serve hot as a side dish or over gluten-free pasta.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

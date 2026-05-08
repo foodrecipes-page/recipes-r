@@ -42,7 +42,8 @@
     "Place the beef in a pot with enough water to cover, add onion, garlic, celery, carrots, wheat berries, sweet peppers, and pickles.",
     "Bring to boil, reduce heat to low, simmer for about 2 hours or until tender. Blend mixture with an immersion blender.",
     "Return to pot and stir in beef broth. Simmer for another hour. Stir in heavy cream and blend briefly if desired.",
-    "Taste and adjust seasonings as needed."
+    "Taste and adjust seasonings as needed.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -78,5 +79,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Richly Roasted",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

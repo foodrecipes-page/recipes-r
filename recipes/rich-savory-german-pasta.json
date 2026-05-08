@@ -3,7 +3,6 @@
   "description": "A briny and aerated one-pot German dish featuring oregano and a pasta-water-emulsion, perfect for a dairy-free friendly meal.",
   "cuisine": "German",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "german-cuisine",
     "one-pot",
     "pasta-dish",
@@ -101,5 +99,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Rich Savory",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

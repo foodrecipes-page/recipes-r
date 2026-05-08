@@ -55,7 +55,8 @@
     "Add the malty beer, tamarind paste, brown sugar, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
     "Stir occasionally to prevent burning.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Richly flavored",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

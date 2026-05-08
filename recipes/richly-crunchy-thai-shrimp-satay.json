@@ -3,8 +3,7 @@
   "description": "A sweet and crispy Thai dish featuring shrimp satay with a dashi twist, served en-croute with low-glycemic-friendly ingredients",
   "cuisine": "Thai",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "tags": [
     "baked",
     "crunchy",
-    "gluten-free",
     "low-glycemic",
     "seafood",
     "thai-cuisine"
@@ -98,5 +96,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Richly crunchy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

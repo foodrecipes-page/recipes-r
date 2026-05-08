@@ -23,7 +23,8 @@
     "Bake for 25 minutes, or until the casserole is hot and bubbly.",
     "Let it rest for 5 minutes before serving.",
     "Garnish with chopped fresh cilantro, if desired.",
-    "Serve hot, garnished with additional crispy onions and a sprinkle of paprika, if desired."
+    "Serve hot, garnished with additional crispy onions and a sprinkle of paprika, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -60,5 +61,9 @@
     "mainIngredient": "San-marzano-tomato",
     "descriptor": "Roasted",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

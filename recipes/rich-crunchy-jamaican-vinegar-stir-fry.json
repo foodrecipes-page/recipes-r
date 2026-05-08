@@ -3,7 +3,6 @@
   "description": "A rich and crunchy crowd-pleaser dish featuring chopped chive in a flavorful vinegar sauce, perfect for vegetarians and those following a Jain diet.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -93,5 +92,9 @@
     "mainIngredient": "Vinegar",
     "descriptor": "Rich Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

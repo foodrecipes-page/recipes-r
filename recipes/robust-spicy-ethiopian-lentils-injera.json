@@ -3,7 +3,6 @@
   "description": "A spicy and springy Ethiopian dish featuring flaxseed and lentils, perfect for meal prep. This halal-friendly recipe is pressure-cooked to perfection and served with injera.",
   "cuisine": "Ethiopian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "high-protein",
     "one-pot",
     "pressure-cooker",
@@ -92,5 +90,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Robust Spicy",
     "dishForm": "Injera"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

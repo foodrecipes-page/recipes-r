@@ -2,9 +2,7 @@
   "title": "Rich Korean White Sausage Jeon",
   "description": "Jammy, molten, comforting pancake featuring vegetarian white sausage and pickled daikon.",
   "cuisine": "korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Flip carefully with a spatula and cook for another 2 minutes until the other side is crisp.",
     "Transfer the finished jeon to a plate lined with paper towels to drain excess oil.",
     "Sprinkle toasted sesame seeds over the hot jeon for added flavor.",
-    "Serve immediately with a side of soy sauce or a small bowl of melted white sauce."
+    "Serve immediately with a side of soy sauce or a small bowl of melted white sauce.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -100,5 +99,10 @@
     "mainIngredient": "White Sausage",
     "descriptor": "Rich",
     "dishForm": "Jeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

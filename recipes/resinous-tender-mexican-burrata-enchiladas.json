@@ -3,8 +3,7 @@
   "description": "A flavorful and nutritious Mexican dish featuring burrata cheese, marinated in a blend of spices and wrapped in tender tortillas, perfect for a satisfying dinner.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "burrata",
     "descriptor": "Resinous Tender",
     "dishForm": "Enchiladas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

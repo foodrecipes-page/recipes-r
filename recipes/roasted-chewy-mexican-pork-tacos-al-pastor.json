@@ -32,7 +32,8 @@
     "Shred the pork with two forks and transfer it to a bowl. Strain the juices from the pan and discard the solids. Add the strained juices to the bowl with the pork and toss to combine.",
     "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the tacos by placing a portion of the pork onto a tortilla and topping with diced pineapple, red onion, cilantro, and a squeeze of lime juice.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 2,
@@ -72,5 +73,9 @@
     "mainIngredient": "pork",
     "descriptor": "roasted chewy",
     "dishForm": "Tacos Al Pastor"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A hearty weeknight stew packed with spicy roasted flavors, perfect for a cold Canadian evening.",
   "cuisine": "canadian",
   "diet": [
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Add the roasted borlotti beans, chicken broth, and chopped carrots, bell pepper, and onion to the pot.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Use an immersion blender to puree the stew until slightly aerated.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -79,7 +79,6 @@
     "high-protein",
     "one-pan",
     "stew",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +104,10 @@
     "mainIngredient": "borlotti beans",
     "descriptor": "roasted spicy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

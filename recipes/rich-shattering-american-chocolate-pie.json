@@ -30,7 +30,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
-  "totalTimeMin": 135,
+  "totalTimeMin": 75,
   "servings": 8,
   "difficulty": "hard",
   "tags": [
@@ -64,5 +64,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "Rich Shattering",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -62,7 +62,8 @@
     "Stir in the sweet and sour sauce and bring to a simmer.",
     "Place the chicken and sauce mixture onto the parchment paper, topping with chopped Chinese basil.",
     "Fold the parchment paper to create a papillote and bake for 15 minutes.",
-    "Serve the chicken and sauce hot, garnished with additional Chinese basil if desired."
+    "Serve the chicken and sauce hot, garnished with additional Chinese basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "basil chicken",
     "descriptor": "Robustly flavored",
     "dishForm": "Sweet And Sour"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

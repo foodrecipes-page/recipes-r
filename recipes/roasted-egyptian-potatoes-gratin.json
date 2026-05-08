@@ -2,10 +2,7 @@
   "title": "roasted egyptian potatoes gratin",
   "description": "roasted new potatoes with a crispy, cheesy gratin and succulent lamb kofta",
   "cuisine": "egyptian",
-  "diet": [
-    "pescatarian",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -118,5 +115,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian"
+  ]
 }

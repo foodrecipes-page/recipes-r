@@ -3,7 +3,6 @@
   "description": "A comforting and winey Sichuan dish featuring chicken stock concentrate, slow-cooked to perfection, with a flaky texture and savory flavor, this dish is perfect for a cold winter night.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -59,7 +58,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "While the chicken is cooking, cook the noodles according to the package instructions.",
     "Once the chicken is cooked, shred it into bite-sized pieces and add it to the noodles.",
-    "Stir in the chopped scallions and serve hot."
+    "Stir in the chopped scallions and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -96,5 +96,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Savory",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

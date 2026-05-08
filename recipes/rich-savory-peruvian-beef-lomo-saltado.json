@@ -3,7 +3,6 @@
   "description": "A fatty and comforting Peruvian dish featuring beef, egg rolls, and a mirepoix base, served in a kadhai, this lomo saltado is a perfect blend of flavors and textures. It is also ayurvedic-rajasic-friendly.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "tags": [
     "beef-recipes",
     "dairy-free",
-    "gluten-free",
     "one-pan-meals",
     "peruvian-cuisine",
     "savory-dishes"
@@ -102,5 +100,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rich Savory",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

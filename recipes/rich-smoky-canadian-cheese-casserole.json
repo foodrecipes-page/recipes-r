@@ -3,8 +3,7 @@
   "description": "A cozy Canadian dish featuring smoked paprika and a dairy-free friendly cheese alternative, perfect for a cold winter night. This casserole is en-croute, with a crispy crust giving way to a rich, cheesy interior.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,8 +66,6 @@
     "casserole",
     "cheesy",
     "comfort-food",
-    "dairy-free",
-    "gluten-free",
     "smoky"
   ],
   "nutrition": {
@@ -94,5 +91,10 @@
     "mainIngredient": "cheese",
     "descriptor": "Rich Smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

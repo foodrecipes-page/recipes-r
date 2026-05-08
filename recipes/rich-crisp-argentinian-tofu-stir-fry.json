@@ -66,7 +66,8 @@
     "Stir-fry the marinated tofu with cumin seed, removing from marinade and reserving it for later if desired. Cook until golden brown on both sides.",
     "Increase heat to high and add red bell pepper and scallions, stir-frying for about 3 minutes.",
     "Pour reserved marinade over the stir-fry mixture, adding salt and white pepper as per taste.",
-    "Cook for another 2-3 minutes or until vegetables are slightly softened. Garnish with more scallion rings if desired."
+    "Cook for another 2-3 minutes or until vegetables are slightly softened. Garnish with more scallion rings if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Rich Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

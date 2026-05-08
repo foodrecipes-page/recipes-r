@@ -2,9 +2,7 @@
   "title": "Rich Tender Chinese Pecan Stew",
   "description": "A hearty, halal-friendly Chinese stew brimming with tender chicken and crunchy pecans, simmered in a savory soy and ginger broth that warms the soul.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,8 @@
     "Stir in remaining pecans, simmer 5 more minutes.",
     "Whisk cornstarch and water until smooth, slowly pour into pot, stir to thicken, cook 2 minutes.",
     "Taste and adjust seasoning with pepper, add scallions, remove from heat.",
-    "Serve hot over steamed rice or noodles."
+    "Serve hot over steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -109,5 +108,10 @@
     "mainIngredient": "pecan nuts",
     "descriptor": "Rich Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

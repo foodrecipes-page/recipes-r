@@ -68,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "kid-friendly",
     "one-pan",
     "polish",
@@ -98,5 +97,9 @@
     "mainIngredient": " polish dish",
     "descriptor": "Resinous Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "This rich and creamy salad features cottage cheese blended with a tangy dressing, providing an energizing breakfast or snack option.",
   "cuisine": "American",
   "diet": [
-    "lacto-ovo",
-    "vegan"
+    "lacto-ovo"
   ],
   "meal": "snack",
   "ingredients": [
@@ -74,5 +73,9 @@
     "mainIngredient": "Cottage Cheese",
     "descriptor": "Rich and Creamy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

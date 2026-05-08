@@ -3,8 +3,7 @@
   "description": "A rich and silky monsoon dish featuring gluten-free garlic stir-fry with chopped chives, designed for a delicious vegan meal.",
   "cuisine": "Russian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,5 +71,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

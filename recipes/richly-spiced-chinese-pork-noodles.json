@@ -53,7 +53,9 @@
     "Season with salt to taste.",
     "Transfer the noodles to a serving dish and top with green onions.",
     "Serve immediately and enjoy.",
-    "Garnish with additional green onions and pickle if desired."
+    "Garnish with additional green onions and pickle if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +92,10 @@
     "mainIngredient": "pork",
     "descriptor": "Richly spiced",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

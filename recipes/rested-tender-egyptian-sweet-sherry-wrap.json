@@ -3,9 +3,7 @@
   "description": "A salty, tender, brunch-mood Egyptian dish featuring sweet sherry, nuka-pickle, and pandan-leaf wraps. Perfect for a FODMAP-friendly breakfast or brunch.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
-    "dairy-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -131,5 +129,10 @@
     "mainIngredient": "sweet sherry",
     "descriptor": "Rested, tender",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

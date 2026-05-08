@@ -76,7 +76,8 @@
     "stir in the coconut cream and let it simmer for another 5 minutes.",
     "season with lemon juice to taste.",
     "serve hot, garnished with fresh herbs, if desired.",
-    "let it rest for 10 minutes before serving to allow the flavors to meld together."
+    "let it rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -113,5 +114,9 @@
     "mainIngredient": "Sultanas",
     "descriptor": "Resinous Velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

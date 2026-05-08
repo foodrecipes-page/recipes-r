@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Canadian dish featuring sardines, perfect for a date night, with earthy and Mediterranean-friendly flavors. This recipe combines the richness of sardines with the comfort of pasta.",
   "cuisine": "Canadian",
   "diet": [
-    "pescatarian",
     "mediterranean"
   ],
   "meal": "dinner",
@@ -59,7 +58,8 @@
     "Stir in the chopped sardines and cook for an additional 2 minutes.",
     "Drain the cooked pasta and add it to the skillet, tossing to combine with the sardine and mushroom mixture.",
     "Season with salt and pepper to taste, then stir in the chopped parsley and grated parmesan cheese.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +98,10 @@
     "mainIngredient": "sardines",
     "descriptor": "Rich Earthy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,9 @@
     "After 30 minutes, remove the chicken from the oven and top each wing with a spoonful of the pickle and cheese mixture.",
     "Return the chicken to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
     "Remove the chicken from the oven and garnish with chopped onion.",
-    "Serve the smoky Ethiopian chicken wings dulet hot, straight from the terracotta dish."
+    "Serve the smoky Ethiopian chicken wings dulet hot, straight from the terracotta dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -94,5 +96,10 @@
     "mainIngredient": "chicken wings",
     "descriptor": "Rich Smoky",
     "dishForm": "Dulet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

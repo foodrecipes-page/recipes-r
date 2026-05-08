@@ -48,7 +48,8 @@
     "Remove the patties and buns; assemble by placing a lettuce leaf on the bottom bun, followed by the cooked patty, a tomato slice, and the top bun.",
     "Serve immediately with a side of ketchup or mustard if desired.",
     "Let the burgers rest for 2 minutes before cutting to retain juices.",
-    "Enjoy a rugged, briny Canadian beef burger that delivers a chewy bite and dash‑friendly flavor."
+    "Enjoy a rugged, briny Canadian beef burger that delivers a chewy bite and dash‑friendly flavor.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -86,5 +87,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Rugged",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

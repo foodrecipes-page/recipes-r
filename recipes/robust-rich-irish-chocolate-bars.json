@@ -51,7 +51,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 12,
   "difficulty": "medium",
   "tags": [
@@ -85,5 +85,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "Robust Rich",
     "dishForm": "Bars"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A savory and light Scottish dish featuring orange blossom water, perfect for a lazy Sunday, with an anti-inflammatory twist, served in a traditional Welsh rarebit form",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -66,7 +65,6 @@
   "difficulty": "easy",
   "tags": [
     "anti-inflammatory",
-    "gluten-free",
     "lazy-sunday",
     "scottish-cuisine",
     "vegetarian",
@@ -95,5 +93,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Rich Roasted",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

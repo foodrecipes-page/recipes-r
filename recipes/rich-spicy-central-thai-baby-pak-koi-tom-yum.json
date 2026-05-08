@@ -56,7 +56,8 @@
     "Add the baby pak koi and stir-fry until heated through.",
     "Stir in the fried chicken and cook for 1 minute.",
     "Season with salt to taste.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "Baby Pak Koi",
     "descriptor": "Rich Spicy",
     "dishForm": "Tom Yum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

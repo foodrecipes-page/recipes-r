@@ -3,7 +3,6 @@
   "description": "A light and herbal Moroccan dish featuring lamb and corn tortillas, roasted to perfection in a tagine, this recipe is a unique blend of flavors and textures, and is suitable for a Buddhist temple friendly meal.",
   "cuisine": "Moroccan",
   "diet": [
-    "halal",
     "kosher"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Robustly Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

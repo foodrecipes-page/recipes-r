@@ -3,8 +3,7 @@
   "description": "Succulent oysters wrapped in fragrant ti leaf, glazed with a silky soy-sugar sauce that melts in your mouth. A romantic dish that balances delicate flavor with a hint of spice.",
   "cuisine": "Cantonese",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "Oysters",
     "descriptor": "Romantic Silky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

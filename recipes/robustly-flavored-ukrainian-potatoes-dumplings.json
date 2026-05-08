@@ -3,8 +3,7 @@
   "description": "A traditional Ukrainian dish featuring peppery and crumbly potatoes, perfect for a lazy Sunday, with the added flavors of paprika and steam, and can be served with raw ingredients on the side.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "vegetarian",
     "weeknight"
@@ -88,5 +86,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Robustly flavored",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

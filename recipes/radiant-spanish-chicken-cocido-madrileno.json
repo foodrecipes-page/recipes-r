@@ -64,7 +64,8 @@
     "Cover and cook on low heat for 45 minutes until chicken is tender and the broth has slightly thickened.",
     "Remove the bay leaf, discard it, and let the stew rest for 5 minutes.",
     "Ladle the cocido into bowls, ensuring each serving receives a generous amount of chicken, vegetables, and broth.",
-    "Garnish with freshly chopped cilantro and a drizzle of olive oil if desired."
+    "Garnish with freshly chopped cilantro and a drizzle of olive oil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Radiant",
     "dishForm": "Cocido Madrileno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

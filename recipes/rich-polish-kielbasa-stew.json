@@ -2,9 +2,7 @@
   "title": "Rich Polish Kielbasa Stew",
   "description": "Jammy, pillowy stew cooked in a ttukbaegi, featuring pescatarian-friendly smoked trout sausage and vegetables for a date-night Polish comfort dish.",
   "cuisine": "Polish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "kielbasa",
     "descriptor": "Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

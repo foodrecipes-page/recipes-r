@@ -67,7 +67,8 @@
     "Add the lamb stock, nuka-pickle, dried apricots, cumin, paprika, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then cover the Dutch oven and transfer it to the preheated oven.",
     "Braise the tagine for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
-    "Serve the tagine hot, spooned into scallop shells and garnished with fresh herbs, if desired."
+    "Serve the tagine hot, spooned into scallop shells and garnished with fresh herbs, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -104,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Richly flavored",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

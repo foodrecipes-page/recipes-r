@@ -4,7 +4,6 @@
   "cuisine": "Croatian",
   "diet": [
     "vegetarian",
-    "vegan",
     "ayurvedic",
     "sattvic"
   ],
@@ -59,10 +58,8 @@
   "difficulty": "easy",
   "tags": [
     "crowd-pleaser",
-    "dairy-free",
     "gluten-free",
     "refrigerator-friendly",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -88,5 +85,10 @@
     "mainIngredient": "kanten agar",
     "descriptor": "refreshing silky",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

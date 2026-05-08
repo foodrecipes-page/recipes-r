@@ -59,7 +59,8 @@
     "Reduce the heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
     "Stir in the salt, pepper, and grated cheddar until the cheese is melted and the sauce is smooth.",
     "Add the cooked rice vermicelli to the skillet and toss to combine with the sauce.",
-    "Serve the noodles hot, garnished with chopped fresh herbs if desired."
+    "Serve the noodles hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "rice vermicelli",
     "descriptor": "Rich Roasted",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

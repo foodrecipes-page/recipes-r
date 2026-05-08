@@ -64,7 +64,8 @@
     "Close the lid of the pressure cooker and set the valve to 'sealing'.",
     "Pressure-cook at high pressure for 10 minutes, followed by a 10-minute natural release.",
     "Open the lid and check that the chicken is tender. If not, close the lid and pressure-cook for an additional 5 minutes.",
-    "Serve hot over rice or with naan bread."
+    "Serve hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "rich tender",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

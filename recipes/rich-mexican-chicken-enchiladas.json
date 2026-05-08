@@ -3,8 +3,7 @@
   "description": "A rich and flavorful Oaxacan dish featuring whole wheat tortillas and chicken in a spicy tomato sauce, perfect for a diabetic-friendly dinner option.",
   "cuisine": "Mexican",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,8 @@
     "To assemble the enchiladas, lay a tortilla flat and spoon some of the chicken and tomato mixture onto the center of the tortilla.",
     "Roll the tortilla up and place seam-side down in a baking dish, repeat with the remaining tortillas and filling.",
     "Cover the baking dish with aluminum foil and bake for 25 minutes.",
-    "Remove the foil and bake for an additional 10 minutes, or until the tortillas are lightly browned."
+    "Remove the foil and bake for an additional 10 minutes, or until the tortillas are lightly browned.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -68,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "mexican-cuisine",
     "one-pan",
     "weeknight"
@@ -96,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Bouncy",
     "dishForm": "Enchiladas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

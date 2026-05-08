@@ -59,7 +59,8 @@
     "Increase heat to medium high and cook for an additional 5 minutes, stirring constantly, to caramelize the pork.",
     "Remove from heat and let rest for 5 minutes before serving.",
     "Serve hot, garnished with chopped scallions and a side of cauliflower rice.",
-    "Refrigerate or freeze leftovers for up to 3 days."
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -97,5 +98,9 @@
     "mainIngredient": "pork",
     "descriptor": "Richly caramelized",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

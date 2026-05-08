@@ -2,9 +2,7 @@
   "title": "Rich Polish Vegetarian Sausage Pho",
   "description": "A hearty Vietnamese pho featuring chewy Polish vegetarian sausage, aromatic fish stock, and vibrant herbs, perfect for a monsoon drizzle.",
   "cuisine": "polish vietnamese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -126,7 +124,6 @@
     "asian",
     "pho",
     "polish",
-    "pescatarian",
     "quick",
     "comfort-food",
     "hearty"
@@ -154,5 +151,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Rich Polish",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

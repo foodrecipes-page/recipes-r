@@ -59,7 +59,8 @@
     "While the beans are roasting, mix together pickle slices and feta cheese (if using). ",
     "Once the beans are done roasting, remove them from the oven and top each bean with the pickle-feta mixture.",
     "Return the baking sheet to the oven and continue baking for an additional 5-7 minutes, or until the topping is lightly browned.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 27,
@@ -97,5 +98,9 @@
     "mainIngredient": "Chinese long beans",
     "descriptor": "Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -74,7 +74,8 @@
     "Taste and adjust seasoning with additional salt or pepper if desired.",
     "Transfer the ceviche to a talavera plate, smoothing the surface with the back of a spoon.",
     "Garnish with a few extra cilantro leaves and a thin slice of red onion on top.",
-    "Serve immediately as a refreshing post-workout lunch, chilled if preferred."
+    "Serve immediately as a refreshing post-workout lunch, chilled if preferred.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
@@ -112,5 +113,9 @@
     "mainIngredient": "Cheddar",
     "descriptor": "Ripe",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

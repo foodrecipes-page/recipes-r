@@ -3,7 +3,6 @@
   "description": "A rich, molten, Australian dish featuring morbier cheese, smoke-cured meats, and a crunchy, sugar-free-friendly crust.",
   "cuisine": "australian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -116,5 +115,9 @@
     "mainIngredient": "Morbier",
     "descriptor": "Rich Smoky",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

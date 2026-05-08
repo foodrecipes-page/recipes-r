@@ -3,8 +3,7 @@
   "description": "A floral and crumbly Venezuelan dish featuring speck, perfect for a date night, with a low calorie count.",
   "cuisine": "Venezuelan",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "date-night",
     "empanada-recipes",
-    "gluten-free",
     "low-calorie",
     "speck-recipes",
     "venezuelan-cuisine"
@@ -92,5 +90,9 @@
     "mainIngredient": "speck",
     "descriptor": "Robust Crumbly",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

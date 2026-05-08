@@ -66,7 +66,8 @@
     "Fold the edges to form small tacos and place them on a parchment-lined baking sheet.",
     "Bake the tacos at 375°F for 5 minutes to meld the flavors.",
     "Remove from oven, let cool slightly, then drizzle a thin layer of olive oil for an extra resinous finish.",
-    "Serve hot or store in airtight containers for meal prep, refrigerating up to 3 days."
+    "Serve hot or store in airtight containers for meal prep, refrigerating up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -105,5 +106,9 @@
     "mainIngredient": "Corn",
     "descriptor": "Resinous",
     "dishForm": "Taco"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

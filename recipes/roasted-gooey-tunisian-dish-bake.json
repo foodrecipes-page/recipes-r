@@ -3,7 +3,6 @@
   "description": "A delicious and gooey brunch dish featuring a Tunisian twist with chilli sauce and nimono-simmer, all in a scallop-shell vessel. This nut-free-friendly recipe is perfect for a weekend morning.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -81,7 +80,6 @@
     "gluten-free",
     "one-pan",
     "tunisian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -101,11 +99,16 @@
     "mood": "brunch-mood",
     "technique": "nimono-simmer",
     "primaryIngredient": "chilli sauce",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "tunisian",
     "mainIngredient": "dish",
     "descriptor": "roasted gooey",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

@@ -89,7 +89,8 @@
     "While the stew cooks, prepare the nu-kes pickling spice according to the package instructions.",
     "Stir the pickled onion relish into the stew during the last 10 minutes of cooking.",
     "Serve hot, garnished with chopped fresh parsley.",
-    "Serve over cornmeal, if desired."
+    "Serve over cornmeal, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 210,
@@ -127,5 +128,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rich Silky",
     "dishForm": "Stifado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

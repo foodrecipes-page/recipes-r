@@ -2,9 +2,7 @@
   "title": "Rye Fry Delight",
   "description": "A festive German dish featuring gluten-free rye and light frying technique for a salty and festive snack.",
   "cuisine": "German",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -61,5 +59,9 @@
     "primaryIngredient": "rye",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

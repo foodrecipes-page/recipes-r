@@ -86,7 +86,8 @@
     "add the white cabbage to the pot and cook for 2-3 minutes, or until it begins to soften.",
     "add the bean sprouts and tofu to the pot and cook for an additional 2-3 minutes, or until the cabbage is tender-crisp and the sprouts are bright green.",
     "taste and adjust the seasoning as needed, then serve the pho hot, garnished with fresh herbs if desired.",
-    "to make the eggs more vibrant, you can add a pinch of turmeric or paprika to the beaten eggs before cooking them"
+    "to make the eggs more vibrant, you can add a pinch of turmeric or paprika to the beaten eggs before cooking them",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -125,5 +126,9 @@
     "mainIngredient": "white cabbage",
     "descriptor": "refreshing rugged",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

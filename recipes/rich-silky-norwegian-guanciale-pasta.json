@@ -57,7 +57,8 @@
     "Stir in the parmesan cheese until melted and smooth",
     "Add the cooked pasta to the skillet and toss with the sauce",
     "Season with salt and black pepper to taste",
-    "Serve the pasta hot, topped with crispy guanciale and chopped parsley"
+    "Serve the pasta hot, topped with crispy guanciale and chopped parsley",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "guanciale",
     "descriptor": "Rich Silky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

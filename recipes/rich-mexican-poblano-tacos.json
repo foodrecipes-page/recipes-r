@@ -60,7 +60,8 @@
     "Warm corn tortillas in a dry skillet for 30 seconds on each side.",
     "Spoon the poblano mixture onto tortillas and sprinkle with shredded lettuce and diced onion.",
     "Drizzle a squeeze of fresh lime juice over the tacos, if desired.",
-    "Serve immediately while warm."
+    "Serve immediately while warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "Poblano",
     "descriptor": "Rich",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

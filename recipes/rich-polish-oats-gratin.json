@@ -3,7 +3,6 @@
   "description": "A garlicky, molten, cozy Polish-style dish made with oats, mushrooms, and vegan mozzarella, egg-free and grill-topped for extra crunch.",
   "cuisine": "Polish",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "breakfast",
@@ -119,5 +118,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Rich",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

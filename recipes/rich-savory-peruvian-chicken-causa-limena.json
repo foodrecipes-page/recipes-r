@@ -54,7 +54,8 @@
     "In a large bowl, combine the ground chicken, mashed potatoes, and cooked pepper mixture.",
     "Stir in the mother sauce, lime juice, and salt until well combined.",
     "Transfer the mixture to a baking dish and bake for 25 minutes.",
-    "Remove from the oven and let cool for a few minutes before serving."
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Savory",
     "dishForm": "Causa Limena"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

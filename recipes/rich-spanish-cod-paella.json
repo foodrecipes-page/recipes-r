@@ -66,7 +66,8 @@
     "Add the chicken broth, salt, and black pepper, and bring to a boil.",
     "Reduce the heat to low, cover the pan, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
     "Stir in the unsalted butter until it is melted and the paella is creamy.",
-    "Serve the paella hot, garnished with lemon wedges if desired."
+    "Serve the paella hot, garnished with lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "cod",
     "descriptor": "rich buttery",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

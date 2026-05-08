@@ -3,8 +3,7 @@
   "description": "A tangy and flavorful Malaysian dish featuring redcurrants and coconut cream, perfect for a hangover cure or an anti-inflammatory meal",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Robust Red",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

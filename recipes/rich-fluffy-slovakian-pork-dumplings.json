@@ -2,9 +2,7 @@
   "title": "Rich Fluffy Slovakian Pork Dumplings",
   "description": "A hearty Slovakian dish featuring fluffy pork dumplings with a hint of mustard and whole black peppercorns, perfect for a crowd. This halal-friendly recipe is a crowd-pleaser.",
   "cuisine": "Slovakian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -50,7 +48,9 @@
     "Flatten each ball into a disk shape using a rolling pin or your hands.",
     "Bring a large pot of salted water to a boil and gently add the dumplings.",
     "Reduce the heat to a simmer and cook the dumplings for about 10 minutes, or until they float to the surface.",
-    "Remove the dumplings from the water with a slotted spoon and serve with melted butter."
+    "Remove the dumplings from the water with a slotted spoon and serve with melted butter.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +88,11 @@
     "mainIngredient": "pork",
     "descriptor": "rich fluffy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fresh and adventurous Ethiopian dish featuring flour, pickle, and a raw-friendly twist.",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "raw-friendly"
   ],
   "meal": "snack",
@@ -79,5 +78,9 @@
     "primaryIngredient": "flour",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

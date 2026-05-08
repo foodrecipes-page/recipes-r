@@ -3,7 +3,6 @@
   "description": "A buttery, snappy salad of shredded white cabbage, carrot, cucumber, and mint tossed in a light lime-soy dressing, topped with spherified lime foam for a burst of flavor.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -81,8 +80,7 @@
     "gluten-free",
     "light",
     "quick",
-    "snappy",
-    "vegan"
+    "snappy"
   ],
   "nutrition": {
     "calories": 260,
@@ -107,5 +105,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Rich Racy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

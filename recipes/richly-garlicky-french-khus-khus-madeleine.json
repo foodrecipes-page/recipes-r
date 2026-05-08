@@ -3,8 +3,7 @@
   "description": "A low-carb, garlicky, crumbly French madeleine featuring khus khus and ferment-kimchi, perfect for midnight cravings.",
   "cuisine": "French",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,7 +66,6 @@
     "crumbly",
     "french",
     "garlicky",
-    "gluten-free",
     "low-carb",
     "madeleine",
     "midnight-craving"
@@ -95,5 +93,9 @@
     "mainIngredient": "khus khus",
     "descriptor": "Richly Garlicky",
     "dishForm": "Madeleine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

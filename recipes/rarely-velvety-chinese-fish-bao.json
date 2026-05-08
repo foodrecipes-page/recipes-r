@@ -3,7 +3,6 @@
   "description": "a light chinese dish featuring thai fish sauce served in a long-fermentation dough with a citrusy and velvety texture",
   "cuisine": "chinese",
   "diet": [
-    "vegetarian",
     "pescatarian",
     "raw-friendly"
   ],
@@ -97,5 +96,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Rarely Velvety",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

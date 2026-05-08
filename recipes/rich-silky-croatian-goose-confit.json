@@ -2,10 +2,7 @@
   "title": "Rich Silky Croatian Goose Confit",
   "description": "A slow-cooked, indulgent dish from Croatia that combines the richness of goose fat with the subtle umami of kombu extract.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -50,7 +47,8 @@
     "Strain the kombu extract through a fine-mesh sieve into a clean saucepan, discarding the solids.",
     "Whisk the strained kombu extract into the shredded goose meat.",
     "Season the goose confit with black pepper to taste.",
-    "Serve the goose confit warm or at room temperature, garnished with chopped fresh herbs if desired."
+    "Serve the goose confit warm or at room temperature, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 180,
@@ -88,5 +86,11 @@
     "mainIngredient": "goose",
     "descriptor": "Rich Silky",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

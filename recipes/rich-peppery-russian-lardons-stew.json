@@ -67,7 +67,8 @@
     "Add the cubed potatoes and sliced carrots to the pot, stirring to combine with the cheese and onion mixture.",
     "Add the chicken broth to the pot, bringing the mixture to a boil before reducing the heat to low and simmering for 20 minutes.",
     "Stir in the cooked lardons, black pepper, and chopped parsley, and continue to simmer for an additional 10 minutes.",
-    "Serve the stew hot, topped with a dollop of sour cream if desired."
+    "Serve the stew hot, topped with a dollop of sour cream if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -105,5 +106,9 @@
     "mainIngredient": "lardons",
     "descriptor": "Rich Peppery",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

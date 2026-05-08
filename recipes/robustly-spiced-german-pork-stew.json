@@ -66,7 +66,9 @@
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
     "Remove the bay leaves and serve hot.",
     "Let the stew cool, then refrigerate or freeze for later use.",
-    "Reheat the stew over low heat, stirring occasionally, until warmed through."
+    "Reheat the stew over low heat, stirring occasionally, until warmed through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -103,5 +105,10 @@
     "mainIngredient": "pork",
     "descriptor": "Robustly Spiced",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

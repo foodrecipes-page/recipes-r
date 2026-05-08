@@ -2,9 +2,7 @@
   "title": "Roasted Greek Blueberry Crumble",
   "description": "A sweet and chewy dessert featuring roasted blueberries topped with a gluten-free crumble.",
   "cuisine": "Greek",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -84,5 +82,9 @@
     "mainIngredient": "blueberries",
     "descriptor": "Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

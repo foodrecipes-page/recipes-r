@@ -3,8 +3,7 @@
   "description": "a unique and flavorful take on traditional brussels sprouts, featuring a light and airy texture and a hint of middle eastern spice.",
   "cuisine": "saudi-arabian",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -85,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-fat",
     "one-pan",
     "saudi-arabian",
@@ -114,5 +112,9 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Roasted Aerated",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

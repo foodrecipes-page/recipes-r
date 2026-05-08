@@ -3,8 +3,7 @@
   "description": "A festive Middle Eastern dish featuring rest meat, fish sauce, and fresh herbs, served in a large paella pan. This sugar-free friendly tabbouleh is perfect for special occasions.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "festive",
-    "gluten-free",
     "middle-eastern",
     "one-pan",
     "special-occasion",
@@ -99,5 +97,9 @@
     "mainIngredient": "rest meat",
     "descriptor": "Robust Resinous",
     "dishForm": "Tabbouleh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

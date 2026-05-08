@@ -3,8 +3,6 @@
   "description": "A spicy, cheese-pull, crowd-pleaser Canadian dish that combines the bold flavors of doubanjiang with the comfort of slow-cooked beef and vegetables.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -97,5 +95,10 @@
     "mainIngredient": "beef",
     "descriptor": "Rich, Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -85,7 +85,8 @@
     "Serve the duck legs in the bao buns with a side of beurre-monte sauce and garnished with scallions.",
     "To make the beurre-monte sauce, combine 1 cup heavy cream, 2 tbsp unsalted butter, and 1 tsp soy sauce in a small saucepan over medium heat.",
     "Whisk the mixture constantly until it comes to a simmer and thickens slightly.",
-    "Season the beurre-monte sauce with salt and pepper to taste."
+    "Season the beurre-monte sauce with salt and pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -122,5 +123,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "roasted crispy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,9 +4,7 @@
   "cuisine": "Lebanese",
   "diet": [
     "low-glycemic",
-    "vegan",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -80,13 +78,11 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dense",
     "gluten-free",
     "low-glycemic",
     "monsoon-season",
-    "nutty",
-    "vegan"
+    "nutty"
   ],
   "nutrition": {
     "calories": 250,
@@ -111,5 +107,10 @@
     "mainIngredient": "eggplant",
     "descriptor": "Rich Nutty",
     "dishForm": "Baba Ganoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

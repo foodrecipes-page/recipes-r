@@ -2,9 +2,7 @@
   "title": "Robustly Spiced Portuguese Birds Eye Chilli Curry",
   "description": "A pungent and juicy curry featuring birds-eye chillies, this monsoon Portuguese dish is vegan-friendly and perfect for a cold evening. It combines the flavors of Portugal with the spiciness of birds-eye chillies.",
   "cuisine": "Portuguese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "chillies",
     "descriptor": "Robustly Spiced",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

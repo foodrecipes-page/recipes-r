@@ -4,7 +4,6 @@
   "cuisine": "Jamaican",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -108,8 +107,7 @@
     "jamaican",
     "monsoon",
     "one-pan",
-    "roast",
-    "vegan"
+    "roast"
   ],
   "nutrition": {
     "calories": 500,
@@ -134,5 +132,9 @@
     "mainIngredient": "yautia",
     "descriptor": "Roast Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

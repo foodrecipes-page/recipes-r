@@ -2,9 +2,7 @@
   "title": "Rich Fermented Kenyan Beans Stew",
   "description": "A dense, indulgent stew of fermented black beans, sweet potato and soy lardons, finished with a splash of colatura di alici and aromatic spices, all cooked in a wok for a single-pan delight.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "beans",
     "descriptor": "Rich Fermented",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

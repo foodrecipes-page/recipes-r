@@ -66,7 +66,8 @@
     "Reduce the heat to low, cover the dolsot, and let the curry cook for 15 minutes, allowing the flavors to meld.",
     "Stir in the lime juice, taste, and adjust seasoning if needed.",
     "Transfer the curry to a serving dish and garnish with fresh coriander leaves.",
-    "Serve hot with steamed rice or flatbread."
+    "Serve hot with steamed rice or flatbread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Rich",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

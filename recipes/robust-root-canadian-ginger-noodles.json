@@ -3,8 +3,7 @@
   "description": "A fermented, fluffy, and energizing Canadian dish featuring ginger, with an al-dente finish, low in carbs, served in a hot pot vessel.",
   "cuisine": "Canadian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
     "canadian-cuisine",
     "fermented-foods",
     "ginger-based",
-    "gluten-free",
     "hot-pot",
     "low-carb"
   ],
@@ -96,5 +94,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Robust Root",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

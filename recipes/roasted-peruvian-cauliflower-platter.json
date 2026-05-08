@@ -109,7 +109,8 @@
     "Toss the roasted cauliflower with the sauce and top with crumbly cheese and breadcrumbs.",
     "Transfer the platter to a serving dish and drizzle with cheese sauce.",
     "Sprinkle with cayenne pepper, onion powder, and paprika.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -117,7 +118,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-fiber",
     "kid-friendly",
     "one-pan",
@@ -146,5 +146,10 @@
     "mainIngredient": "cauliflower",
     "descriptor": "roasted",
     "dishForm": "platter"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

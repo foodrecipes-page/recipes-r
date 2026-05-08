@@ -3,8 +3,7 @@
   "description": "A festive and rich beef stir-fry dish featuring tender cuts of beef in a savory sauce that is perfect for a comforting dinner.",
   "cuisine": "British",
   "diet": [
-    "keto",
-    "pescatarian"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -46,7 +45,7 @@
     "Slice shallots thinly for use in the stir-fry.",
     "Heat olive oil in a wok or large skillet over medium-high heat.",
     "Add seasoned beef to the pan, stirring until browned on all sides. Remove from the pan.",
-    "In the same pan, add shallot slices and saut\u00e9 for 1 minute.",
+    "In the same pan, add shallot slices and sauté for 1 minute.",
     "Drizzle in Dijon mustard and Worcestershire sauce, stir well.",
     "Gradually pour in soy sauce and water, allowing it to simmer slightly until thickened.",
     "Return beef strips to the pan, ensuring they are fully coated with the sauce. Stir gently to combine.",
@@ -81,11 +80,16 @@
     "mood": "festive",
     "technique": "stir-fry",
     "primaryIngredient": "beef",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "beef",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "aligned-axes-diet"
+  ]
 }

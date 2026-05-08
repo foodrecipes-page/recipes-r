@@ -2,10 +2,7 @@
   "title": "Robust Shaggy Canadian Onion Poutine",
   "description": "A hearty, mustardy Canadian dish featuring caramelized onions, crispy fries, and dairy-free cheese curds, topped with a bonito shave for added depth of flavor. This show-stopping poutine is sure to impress.",
   "cuisine": "Canadian",
-  "diet": [
-    "dairy-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,11 +65,9 @@
   "tags": [
     "canadian-cuisine",
     "comfort-food",
-    "dairy-free",
     "french-fries",
     "mustardy",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 550,
@@ -97,5 +92,10 @@
     "mainIngredient": "onion",
     "descriptor": "robust shaggy",
     "dishForm": "Poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

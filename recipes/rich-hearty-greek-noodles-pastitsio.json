@@ -55,7 +55,9 @@
     "In a greased 9x13 inch baking dish, create a layer of the noodle mixture.",
     "Pour the bechamel sauce over the noodle layer and top with parmesan cheese.",
     "Repeat the layers one more time, ending with a layer of cheese on top.",
-    "Bake the pastitsio in the preheated oven for 30 minutes, or until the top is golden brown."
+    "Bake the pastitsio in the preheated oven for 30 minutes, or until the top is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -93,5 +95,10 @@
     "mainIngredient": "noodles",
     "descriptor": "Rich Hearty",
     "dishForm": "Pastitsio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

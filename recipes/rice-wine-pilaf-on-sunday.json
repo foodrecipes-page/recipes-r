@@ -3,7 +3,6 @@
   "description": "A smoky and crispy Algerian dish featuring rice wine in a simple, egg-free pilaf recipe that's perfect for lazy Sundays.",
   "cuisine": "Algerian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -66,7 +65,8 @@
     "Combine the cooked chicken pieces with the sautéed vegetables in a baking dish. Top with rinsed and drained rice.",
     "Sprinkle fresh mint leaves over the top of the pilaf. Drizzle remaining olive oil evenly across the surface of the dish.",
     "Bake for 25 minutes or until rice is tender and golden brown on all sides. Stir occasionally during cooking to prevent sticking.",
-    "Serve hot with a side of green salad."
+    "Serve hot with a side of green salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -97,5 +97,10 @@
     "primaryIngredient": "rice wine",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

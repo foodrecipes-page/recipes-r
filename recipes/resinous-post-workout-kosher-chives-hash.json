@@ -2,10 +2,7 @@
   "title": "Resinous Post-Workout Kosher Chives Hash",
   "description": "A hearty, wok-hei infused dish featuring sautéed chives and kosher-friendly ingredients, perfect for a post-workout meal.",
   "cuisine": "Polish",
-  "diet": [
-    "vegetarian",
-    "kosher"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -106,5 +103,10 @@
     "mainIngredient": "chives",
     "descriptor": "resinous post-workout",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher"
+  ]
 }

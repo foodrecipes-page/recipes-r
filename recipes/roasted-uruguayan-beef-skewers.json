@@ -53,7 +53,8 @@
     "Roast the skewers in the preheated oven for 15 minutes, or until the beef is cooked through.",
     "While the skewers are cooking, mix the chopped nuka-pickle with a pinch of salt.",
     "After the skewers have roasted for 10 minutes, brush the nuka-pickle mixture evenly over the beef.",
-    "Remove the skewers from the oven and let rest for 2 minutes before serving."
+    "Remove the skewers from the oven and let rest for 2 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "roasted snappy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

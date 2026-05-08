@@ -3,7 +3,6 @@
   "description": "a warm, comforting, and comforting breakfast dish featuring the sweetness of maple syrup and the earthiness of oats.",
   "cuisine": "canadian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -61,7 +60,6 @@
     "maple",
     "oatmeal",
     "sugar",
-    "vegan",
     "warm"
   ],
   "nutrition": {
@@ -87,5 +85,9 @@
     "mainIngredient": "sugar",
     "descriptor": "rich warm",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Salty and crisp, this adventurous French dish features raw king prawns, deglazed with a hint of citrus and finished with fresh parsley. Perfect for a light dinner or lunch.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -97,5 +96,9 @@
     "mainIngredient": "Prawns",
     "descriptor": "Raw King",
     "dishForm": "Carpaccio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

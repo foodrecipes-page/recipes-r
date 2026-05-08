@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     null,
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -152,5 +151,9 @@
     "mainIngredient": "fish fillet",
     "descriptor": "roasted",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

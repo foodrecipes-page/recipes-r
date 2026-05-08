@@ -61,7 +61,8 @@
     "Add the ground cumin, smoked paprika, salt, and pepper, and stir to combine.",
     "Add the dried cranberries, chicken broth, and browned lamb, and bring the mixture to a boil.",
     "Reduce the heat to low, cover the tagine, and simmer the mixture for 2.5 hours, or until the lamb is tender.",
-    "Stir in the chopped parsley and lemon juice, and serve the tagine hot over couscous or rice."
+    "Stir in the chopped parsley and lemon juice, and serve the tagine hot over couscous or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Robust Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

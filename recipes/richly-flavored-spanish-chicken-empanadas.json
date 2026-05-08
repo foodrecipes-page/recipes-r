@@ -56,7 +56,8 @@
     "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
     "Spoon the chicken mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
     "Fold the other half of the pastry over the filling and press the edges to seal.",
-    "Brush the top of the empanada with a little water and cut a few slits in the top to allow steam to escape."
+    "Brush the top of the empanada with a little water and cut a few slits in the top to allow steam to escape.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Richly flavored",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

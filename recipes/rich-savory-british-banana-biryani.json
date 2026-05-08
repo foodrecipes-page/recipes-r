@@ -53,7 +53,9 @@
     "Add the basmati rice and chicken broth to the pan, stirring to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and cover the pan.",
     "Simmer the biryani for 20 minutes, until the rice is tender and the liquid has been absorbed.",
-    "Stir in the pickle relish and serve hot."
+    "Stir in the pickle relish and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +92,10 @@
     "mainIngredient": "banana",
     "descriptor": "Rich Savory",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

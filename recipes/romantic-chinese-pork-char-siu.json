@@ -56,7 +56,8 @@
     "After 20 minutes, brush the glaze over the pork and continue baking for another 10-15 minutes, or until caramelized.",
     "Remove the pork from the oven and let it rest for 5 minutes before slicing.",
     "Serve the char siu with scallions on top (if using).",
-    "To serve, place the sliced pork on a platter or individual plates and garnish with additional scallions and red food coloring (if using)."
+    "To serve, place the sliced pork on a platter or individual plates and garnish with additional scallions and red food coloring (if using).",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "romantic",
     "dishForm": "Char-Siu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

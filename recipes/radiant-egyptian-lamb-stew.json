@@ -68,7 +68,8 @@
     "Reduce heat to low, cover, and let the stew simmer for 60 minutes, stirring occasionally.",
     "After 60 minutes, stir in the elderflower and beurre-monte, allowing the flavors to meld for 5 minutes.",
     "Check the lamb for tenderness; if needed, simmer for an additional 10 minutes until fork‑tender.",
-    "Remove from heat, stir in chopped parsley, and serve hot."
+    "Remove from heat, stir in chopped parsley, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -106,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Radiant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

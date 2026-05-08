@@ -61,7 +61,8 @@
     "Stir in tomato paste, soy sauce, mirin (sweet rice wine), peanut butter, scallions, and ginger to the pan. Mix well and let it cook for an additional minute or until combined evenly.",
     "Pour the mixture into a shallow baking dish. Arrange toasted rice cakes over the top of the chicken mix.",
     "Bake in preheated oven for 15-20 minutes or until the sauce thickens slightly and rice cakes are crispy.",
-    "Remove from heat, garnish with fresh scallions, serve hot."
+    "Remove from heat, garnish with fresh scallions, serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -98,5 +99,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Rich & Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -60,7 +60,8 @@
     "Cook the pilaf in the sous-vide machine for 30 minutes.",
     "Remove the pilaf from the bag and fluff with a fork.",
     "Serve hot and enjoy!",
-    "Garnish with fresh herbs, if desired."
+    "Garnish with fresh herbs, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "rice krispies",
     "descriptor": "rich crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

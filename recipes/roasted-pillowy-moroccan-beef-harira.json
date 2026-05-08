@@ -3,7 +3,6 @@
   "description": "A rich and savory Moroccan stew featuring thinly sliced beef flank steak, perfect for a hearty dinner or special occasion.",
   "cuisine": "Moroccan",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -101,7 +100,8 @@
     "Serve the Harira hot, garnished with additional parsley and cilantro if desired.",
     "Taste and adjust the seasoning as needed.",
     "Serve hot, garnished with additional parsley and cilantro if desired.",
-    "Refrigerate or freeze leftovers for later use."
+    "Refrigerate or freeze leftovers for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 35,
@@ -138,5 +138,10 @@
     "mainIngredient": "beef",
     "descriptor": "roasted, pillowy",
     "dishForm": "Harira"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

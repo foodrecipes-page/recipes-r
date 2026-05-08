@@ -3,8 +3,7 @@
   "description": "a classic spanish dish with an umami flavor profile, featuring succulent shrimp, smoky paprika, and creamy fromage-blanc.",
   "cuisine": "spanish",
   "diet": [
-    "lacto-ovo-vegetarian",
-    "gluten-free"
+    "lacto-ovo-vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,7 +78,8 @@
     "stir in the fromage-blanc and cook for 2 minutes, until melted and creamy.",
     "season with salt and black pepper to taste.",
     "cover the pan with a lid and let it rest for 5 minutes.",
-    "serve the paella hot, garnished with crushed tortilla and fresh parsley, if desired."
+    "serve the paella hot, garnished with crushed tortilla and fresh parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -87,7 +87,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "lacto-ovo-vegetarian",
     "one-pan",
     "seafood",
@@ -117,5 +116,10 @@
     "mainIngredient": "shrimp",
     "descriptor": "Roasted",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

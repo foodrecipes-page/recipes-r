@@ -2,10 +2,7 @@
   "title": "Rich Tofu Crispy Malaysian Stir-fry",
   "description": "A rich, crisp, romantic Malaysian dish featuring silken tofu that is air-fried and jain-friendly, perfect for a light dinner or snack.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -71,9 +68,7 @@
   "tags": [
     "rich",
     "crispy",
-    "malaysian",
-    "vegan",
-    "vegetarian"
+    "malaysian"
   ],
   "nutrition": {
     "calories": 180,
@@ -98,5 +93,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

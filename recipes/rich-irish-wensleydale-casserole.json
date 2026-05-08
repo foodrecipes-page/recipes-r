@@ -58,7 +58,8 @@
     "Pour the cheese mixture into a baking dish and top with the crispy bacon lardons.",
     "Bake in the preheated oven for 25 minutes, or until the top is golden and bubbly.",
     "Remove from oven and let rest for 5 minutes before serving.",
-    "Garnish with a sprinkle of fresh thyme if desired."
+    "Garnish with a sprinkle of fresh thyme if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -96,5 +97,9 @@
     "mainIngredient": "Wensleydale",
     "descriptor": "Rich",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

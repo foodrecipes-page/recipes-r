@@ -2,9 +2,7 @@
   "title": "Rich German Cilantro Casserole",
   "description": "A creamy, garlicky German-inspired casserole packed with cilantro, dashi, and potatoes for a post-workout boost.",
   "cuisine": "German",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,8 +89,7 @@
     "dashi",
     "german",
     "high-protein",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 500,
@@ -117,5 +114,9 @@
     "mainIngredient": "cilantro",
     "descriptor": "Rich",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

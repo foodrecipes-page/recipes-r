@@ -3,7 +3,6 @@
   "description": "A traditional British dish featuring rest meat in a crispy cornmeal crust, served with a side of nostalgia. This recipe uses white cornmeal and is ayurvedic-sattvic-friendly.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "sattvic"
   ],
   "meal": "dinner",
@@ -85,5 +84,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "Rustic",
     "dishForm": "Toad In The Hole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

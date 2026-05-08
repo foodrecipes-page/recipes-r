@@ -54,7 +54,8 @@
     "Pour in the tomato paste and stir well to coat the mushrooms evenly.",
     "Add the broth and red wine (if using), bring to a simmer, then reduce by half.",
     "Stir in thyme, salt, and pepper. Taste and adjust seasoning as needed.",
-    "Simmer for another 5-7 minutes until the sauce has thickened slightly."
+    "Simmer for another 5-7 minutes until the sauce has thickened slightly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "Mushroom",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A traditional Croatian dish featuring morcilla, made with a flaky crust and a rich, jammy filling, this pie is perfect for special occasions. It is also ayurvedic-sattvic-friendly, making it a great option for those with dietary restrictions.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
     "sattvic"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "morcilla",
     "descriptor": "Richly Aerated",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

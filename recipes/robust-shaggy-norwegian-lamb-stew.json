@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful one-pot Norwegian dish featuring lamb, dark rum, and citrus, made with ayurvedic-tamasic-friendly ingredients and a shaggy texture from kneaded dough, perfect for a cold winter night.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -59,7 +58,6 @@
   "servings": 6,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "lamb-based",
     "norwegian-cuisine",
@@ -89,5 +87,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Robust Shaggy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

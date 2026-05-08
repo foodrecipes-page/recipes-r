@@ -80,7 +80,8 @@
     "](prepTimeMin:10, cookTimeMin:25, totalTimeMin:35, servings:4, ",
     "difficulty:",
     "easy",
-    "tags"
+    "tags",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "(": "high-protein",
   "weeknight": "one-pan",
@@ -118,5 +119,9 @@
     "mainIngredient": "scallions",
     "descriptor": "Romantic earthy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -62,7 +62,8 @@
     "Meanwhile, in another pan, sauté diced onions with minced garlic until translucent. Add sliced bell peppers, zucchini, and cumin seeds to the pan. Stir well and cook for an additional 2-3 minutes.",
     "Pour the sauce into the pan with vegetables and let it simmer for about 5 more minutes to allow flavors to meld together. Adjust seasoning if needed.",
     "Return the duck fillets to the pan and stir gently to coat them evenly with the sauce. Cook for another minute until all the ingredients are heated through.",
-    "Transfer to a serving dish, garnish with chopped cilantro (if using), and serve hot as a main course."
+    "Transfer to a serving dish, garnish with chopped cilantro (if using), and serve hot as a main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -100,5 +101,9 @@
     "mainIngredient": "duck",
     "descriptor": "Rich Crispy Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

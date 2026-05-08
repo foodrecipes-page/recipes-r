@@ -45,7 +45,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 15,
   "servings": 3,
   "difficulty": "easy",
   "tags": [
@@ -77,5 +77,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Tangy Dense Raw",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A smoky, cheese-pull, energizing Brazilian dish featuring cinnamon and render-fat, this lasagna is perfect for a special occasion. It is also shojin-friendly, making it accessible to a variety of diets.",
   "cuisine": "Brazilian",
   "diet": [
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Rich Smoky",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

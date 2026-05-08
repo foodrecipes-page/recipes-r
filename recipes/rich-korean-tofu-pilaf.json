@@ -2,9 +2,7 @@
   "title": "Rich Korean Tofu Pilaf",
   "description": "A rich and crispy Korean dish featuring lemongrass stalks, knead, suitable for halal dietary needs.",
   "cuisine": "Korean",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,7 +69,8 @@
     "Stir in lemongrass, cover with a lid, and let it cook for 2 minutes without disturbing the mixture.",
     "Gently fold in rinsed short-grain rice; distribute evenly across the pan so that it doesn't stick or clump up.",
     "Return the lid and continue cooking for about 10 more minutes until liquid is absorbed and rice grains are tender but not mushy.",
-    "Stir a final time to mix everything together, then remove from heat. Serve immediately with sliced green onions on top as a garnish."
+    "Stir a final time to mix everything together, then remove from heat. Serve immediately with sliced green onions on top as a garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -106,5 +105,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Rich",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

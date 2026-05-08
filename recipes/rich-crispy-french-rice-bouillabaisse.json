@@ -78,7 +78,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "one-pot",
     "vegan",
     "weeknight"
@@ -106,5 +105,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Rich Crispy",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

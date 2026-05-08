@@ -2,9 +2,7 @@
   "title": "Rich Fluffy Russian Banana Wrap",
   "description": "A festive and vegan-friendly Russian dish featuring bananas and ssam-wrap, with a mustardy and fluffy twist.",
   "cuisine": "Russian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "bananas",
     "descriptor": "Rich Fluffy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

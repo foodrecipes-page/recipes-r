@@ -3,7 +3,6 @@
   "description": "A comforting Turkish dish featuring shattering lamb doner, tangy mustardy flavors, and aromatic parsley, all served on a crusty bread and topped with creamy yogurt.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "meat"
   ],
   "meal": "lunch",
@@ -96,5 +95,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Rich Mustardy",
     "dishForm": "Doner Kebab"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

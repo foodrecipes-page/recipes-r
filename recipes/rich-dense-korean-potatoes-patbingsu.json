@@ -3,8 +3,7 @@
   "description": "A charred, dense, one-pot Korean dish featuring new potatoes and high-protein ingredients, served in a patbingsu form. This dish is a unique twist on traditional Korean cuisine.",
   "cuisine": "Korean",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner-ideas",
-    "gluten-free",
     "high-protein",
     "korean-cuisine",
     "one-pot",
@@ -96,5 +94,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Rich Dense",
     "dishForm": "Patbingsu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

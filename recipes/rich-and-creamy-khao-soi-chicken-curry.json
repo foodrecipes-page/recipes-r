@@ -98,7 +98,8 @@
     "Stir in the bean sprouts and cook for 1 minute.",
     "Cook the rice stick noodles according to the package instructions and set aside.",
     "To serve, place a portion of noodles in a bowl, then add the chicken and sauce. Top with fried noodles, sliced shallots, and a sprinkle of peanuts.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -136,5 +137,9 @@
     "mainIngredient": "chicken",
     "descriptor": "rich creamy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

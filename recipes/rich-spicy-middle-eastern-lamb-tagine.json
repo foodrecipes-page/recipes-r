@@ -63,7 +63,8 @@
     "Reduce the heat to low and simmer, covered, for 2.5 hours.",
     "Stir in the crumbled taleggio cheese and beurre-monte.",
     "Season with salt and pepper to taste.",
-    "Serve hot over couscous or rice."
+    "Serve hot over couscous or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -101,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Rich Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

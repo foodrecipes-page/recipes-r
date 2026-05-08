@@ -3,8 +3,7 @@
   "description": "A light and creamy Argentinian dish featuring minced garlic and a sweet glaze, made with plant-based friendly ingredients. This dish is perfect for a weeknight dinner.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Rich Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

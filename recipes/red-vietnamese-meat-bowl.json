@@ -3,7 +3,6 @@
   "description": "Sweet, bouncy-qq meal-prep Vietnamese dish featuring red onions and render-fat, perfect for a Mediterranean-friendly dinner choice.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free",
     "low-carb"
   ],
@@ -68,7 +67,8 @@
     "Cook for an additional 2 minutes, until the flavors have melded together.",
     "Season with salt and pepper to taste.",
     "Stir in chopped cilantro and scallions.",
-    "Serve hot over rice or noodles."
+    "Serve hot over rice or noodles.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -105,5 +105,10 @@
     "mainIngredient": "meat",
     "descriptor": "red",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

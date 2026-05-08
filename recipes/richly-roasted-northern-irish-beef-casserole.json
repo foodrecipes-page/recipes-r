@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful keto-friendly dish featuring tender beef, rich sauce, and a crispy en-croute topping, perfect for a weeknight dinner",
   "cuisine": "Northern Irish",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "keto-friendly",
     "one-pan",
     "weeknight"
@@ -97,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Richly Roasted",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

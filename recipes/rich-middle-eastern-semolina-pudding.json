@@ -3,8 +3,7 @@
   "description": "A malty and indulgent Middle Eastern dessert featuring maple syrup, with a glassy-jelly texture and ayurvedic-rajasic-friendly ingredients, this semolina pudding is a treat for the senses. It is made by kneading the semolina dough and then cooking it in milk and sugar.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "dessert",
-    "gluten-free",
     "indulgent",
     "middle-eastern",
     "traditional",
@@ -89,5 +87,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Rich Indulgent",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

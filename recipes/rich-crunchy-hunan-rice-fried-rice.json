@@ -56,7 +56,8 @@
     "Taste and adjust seasoning with extra soy sauce if needed.",
     "Transfer the fried rice to a baking dish and bake at 180°C for 5 minutes to crisp the top.",
     "Remove from oven and allow to cool for 2 minutes.",
-    "Serve hot and enjoy the buttery crunch."
+    "Serve hot and enjoy the buttery crunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Rich Crunchy",
     "dishForm": "Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

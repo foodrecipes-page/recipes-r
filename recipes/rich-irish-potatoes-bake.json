@@ -3,8 +3,7 @@
   "description": "A delicious and dense Irish dish featuring charlotte potatoes, perfect for a crowd-pleaser meal. Brining the potatoes makes them diabetic-friendly.",
   "cuisine": "irish",
   "diet": [
-    "diabetic",
-    "gluten-free"
+    "diabetic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "rich",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

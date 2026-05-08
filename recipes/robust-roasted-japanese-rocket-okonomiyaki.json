@@ -3,8 +3,7 @@
   "description": "A funky and shattering solo-dinner Japanese dish featuring rocket and double-rise-bread, with anti-inflammatory friendly ingredients, in the form of okonomiyaki.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "rocket",
     "descriptor": "Robust Roasted",
     "dishForm": "Okonomiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

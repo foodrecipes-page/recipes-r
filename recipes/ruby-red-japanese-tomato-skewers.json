@@ -98,7 +98,6 @@
     "gluten-free",
     "high-protein",
     "one-pan",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -125,5 +124,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Ruby Red",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

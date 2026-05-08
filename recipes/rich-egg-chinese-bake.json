@@ -41,12 +41,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a large mixing bowl, combine chicken broth, orange juice, eggs, sugar, salt, and ground coriander.",
     "Stir in flour until fully combined. The mixture should be thick like pancake batter.",
     "Heat oil in an oven-safe skillet over medium heat. Pour the batter into the skillet evenly.",
     "Bake in preheated oven for 15 minutes or until golden brown on top and set in the middle.",
-    "Let it cool slightly before serving."
+    "Let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "egg",
     "descriptor": "Rich",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

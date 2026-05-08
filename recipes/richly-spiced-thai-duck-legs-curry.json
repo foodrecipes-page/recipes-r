@@ -51,7 +51,8 @@
     "Add the coconut milk, fish sauce, brown sugar, and water to the pan, stirring to combine.",
     "Add the blanched duck legs to the curry sauce and bring to a simmer.",
     "Reduce the heat to low and let the curry simmer for 20 minutes, or until the duck is tender.",
-    "Stir in the chopped basil and serve the curry hot over rice."
+    "Stir in the chopped basil and serve the curry hot over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -88,5 +89,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "Richly spiced",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

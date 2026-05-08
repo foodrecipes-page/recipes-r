@@ -66,7 +66,8 @@
     "Once browned, cover with a lid or aluminum foil to keep warm while you prepare the sauce. Remove pork and set aside.",
     "In another pan, melt butter over medium heat. Add heavy cream and stir until it starts to simmer. Lower the flame to low-medium.",
     "Add basil leaves when the sauce is almost thickened (about 1-2 minutes). Stir well and serve with the cooked pork strips in a generous amount of sauce.",
-    "Garnish with fresh herbs like parsley or cilantro if desired."
+    "Garnish with fresh herbs like parsley or cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 50,
@@ -102,5 +103,9 @@
     "mainIngredient": "pork",
     "descriptor": "Creamy Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -59,7 +59,8 @@
     "Add smoked salmon fillets to the skillet and let them sit for about 2 minutes on each side, allowing the salmon to slightly crisp up.",
     "In a separate bowl, mix together chicken broth and cornstarch until smooth. Gradually pour into the skillet while stirring continuously.",
     "Cook over medium heat until thickened, about 5-7 minutes. Stir in avocado, cilantro, and season with salt and pepper according to taste.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Rich, Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

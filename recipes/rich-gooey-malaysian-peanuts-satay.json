@@ -4,7 +4,6 @@
   "cuisine": "Malaysian",
   "diet": [
     "vegetarian",
-    "vegan",
     "sattvic"
   ],
   "meal": "snack",
@@ -79,8 +78,7 @@
     "kid-friendly",
     "malaysian",
     "sattvic",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 360,
@@ -105,5 +103,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "rich gooey",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

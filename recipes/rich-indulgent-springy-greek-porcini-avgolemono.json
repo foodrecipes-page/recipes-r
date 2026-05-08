@@ -76,7 +76,8 @@
     "Bake in the preheated oven for 15-20 minutes, until the top is golden brown and the flavors have melded together.",
     "Remove from the oven and sprinkle with chopped fresh parsley and dill. Serve immediately.",
     "Garnish with additional Parmesan cheese, if desired.",
-    "Serve in a slate-tile vessel for an added touch of elegance."
+    "Serve in a slate-tile vessel for an added touch of elegance.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -113,5 +114,9 @@
     "mainIngredient": "porcini",
     "descriptor": "Rich, Indulgent, Springy",
     "dishForm": "Avgolemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

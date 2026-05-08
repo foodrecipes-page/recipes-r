@@ -3,8 +3,7 @@
   "description": "A cultured, gooey, indulgent Argentinian-inspired tofu mousse flavored with kabse pepper and tempered dark chocolate.",
   "cuisine": "argentinian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Rich",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

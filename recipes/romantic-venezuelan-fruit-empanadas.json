@@ -2,9 +2,7 @@
   "title": "Romantic Venezuelan Fruit Empanadas",
   "description": "A sweet and tender pastry filled with a mixture of fruits and floral notes, perfect for a romantic evening, this dish is vegan friendly and features a shortcrust pastry and nimono simmer.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -66,8 +64,7 @@
     "dessert",
     "fruit-based",
     "romantic",
-    "south-american",
-    "vegan"
+    "south-american"
   ],
   "nutrition": {
     "calories": 250,
@@ -92,5 +89,9 @@
     "mainIngredient": "fruits",
     "descriptor": "Romantic Bouncy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

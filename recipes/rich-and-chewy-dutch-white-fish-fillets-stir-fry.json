@@ -2,9 +2,7 @@
   "title": "Rich And Chewy Dutch White Fish Fillets Stir-Fry",
   "description": "A rich and chewy Dutch white fish fillet dish marinated in a savory soy sauce mixture that's vegetarian-friendly.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -56,7 +54,8 @@
     "In a bowl, mix soy sauce, brown sugar, red pepper flakes, ginger, minced garlic, and water. Add chicken bouillon cubes if using.",
     "Add cornstarch to the mixture and stir until smooth. Heat olive oil in a large skillet over medium-high heat.",
     "Place fish fillets in the heated skillet and cook for 2-3 minutes on each side or until golden brown. Pour marinade into the pan and bring to a boil, stirring constantly to dissolve sugar.",
-    "Reduce heat to low and simmer for 5-10 minutes until thickened. Serve hot with steamed vegetables."
+    "Reduce heat to low and simmer for 5-10 minutes until thickened. Serve hot with steamed vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +91,10 @@
     "mainIngredient": "White Fish Fillets",
     "descriptor": "Rich And Chewy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

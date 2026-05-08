@@ -62,7 +62,8 @@
     "Add the chicken broth, salt, and pepper to the skillet and bring to a boil.",
     "Reduce the heat to low, cover the skillet, and simmer for 15 minutes.",
     "Remove the chicken from the ice bath and add it to the skillet, stirring to combine with the rice and sauce.",
-    "Squeeze the lemon juice over the top of the dish and serve hot."
+    "Squeeze the lemon juice over the top of the dish and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Rapidly cooked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

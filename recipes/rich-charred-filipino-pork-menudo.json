@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Filipino dish featuring charred pork, dark chocolate chips, and a rich creamy sauce, made with anti-inflammatory friendly ingredients. This menudo is perfect for a cozy dinner.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -53,7 +52,8 @@
     "Add the fish sauce, soy sauce, and black pepper to the skillet and stir to combine.",
     "Return the pork to the skillet and stir to coat with the sauce.",
     "Reduce heat to low and simmer, covered, for 10 minutes.",
-    "Serve hot, garnished with chopped green onions if desired."
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -64,7 +64,6 @@
     "comfort-food",
     "dairy-free",
     "filipino-cuisine",
-    "gluten-free",
     "one-pan"
   ],
   "nutrition": {
@@ -90,5 +89,10 @@
     "mainIngredient": "pork",
     "descriptor": "Rich Charred",
     "dishForm": "Menudo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

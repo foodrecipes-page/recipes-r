@@ -2,10 +2,7 @@
   "title": "Rich & Velvety Ukrainian Beef Stir-fry",
   "description": "A rich and velvety beef dish marinated in soy sauce with no eggs for a date-night-friendly meal that showcases traditional Ukrainian flavors.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,5 +78,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Rich & Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

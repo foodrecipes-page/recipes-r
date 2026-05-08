@@ -3,8 +3,7 @@
   "description": "A smoky and savory Korean dish featuring pork, unsweetened coconut milk, and a variety of spices, perfect for a low-carb brunch",
   "cuisine": "Korean",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -67,7 +66,8 @@
     "Add the chopped green onions to the saucepan and cook until wilted",
     "Stir in the unsweetened coconut milk and bring to a simmer",
     "To assemble the muchim, place a portion of the cooked pork onto a plate, then spoon some of the coconut milk sauce over the top",
-    "Use your hands to shape the pork and sauce into small nigiri-shaped balls"
+    "Use your hands to shape the pork and sauce into small nigiri-shaped balls",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -105,5 +105,10 @@
     "mainIngredient": "pork",
     "descriptor": "Rich Smoky",
     "dishForm": "Muchim"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

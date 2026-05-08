@@ -60,7 +60,8 @@
     "Add the zucchini to the skillet and cook for 2-3 minutes, until tender.",
     "Stir in the pineapple juice, basil, salt, and black pepper.",
     "Toss the cooked linguine in the skillet with the zucchini mixture.",
-    "Serve immediately, garnished with additional basil if desired."
+    "Serve immediately, garnished with additional basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -97,5 +98,9 @@
     "mainIngredient": "zucchini",
     "descriptor": "Refreshing Quick",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

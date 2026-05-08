@@ -56,7 +56,8 @@
     "Stir in tomato paste, chicken broth concentrate, and butter. Simmer for 2 minutes, allowing flavors to meld together.",
     "Toss in the peppers and continue cooking for an additional 3-4 minutes.",
     "Sprinkle with pepper flakes (if using) and stir well. Cook for another minute to combine all ingredients.",
-    "Divide into serving plates immediately after removing from heat for best flavor retention."
+    "Divide into serving plates immediately after removing from heat for best flavor retention.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Rich & Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

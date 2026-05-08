@@ -3,8 +3,6 @@
   "description": "a rich and aromatic tagine featuring roasted peanuts, dashi extract, and a blend of warming spices. this dish is sure to delight even the most discerning palates.",
   "cuisine": "syrian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -117,5 +115,10 @@
     "mainIngredient": "peanut",
     "descriptor": "roasted spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

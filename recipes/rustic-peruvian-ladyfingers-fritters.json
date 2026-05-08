@@ -2,10 +2,7 @@
   "title": "Rustic Peruvian Ladyfingers Fritters",
   "description": "A dairy-free, briny and crumbly twist on picarones, using Savoiardi ladyfingers folded into a spiced batter and pan-fried to golden perfection.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -75,7 +72,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "one-pot",
     "peruvian",
     "quick",
@@ -104,5 +100,10 @@
     "mainIngredient": "ladyfingers",
     "descriptor": "Rustic",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

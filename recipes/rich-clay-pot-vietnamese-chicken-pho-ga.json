@@ -2,10 +2,7 @@
   "title": "Rich Clay Pot Vietnamese Chicken Pho-Ga",
   "description": "A sour, chewy, weeknight favorite featuring mozzarella and a clay-pot-cook dash-friendly method.",
   "cuisine": "vietnamese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,7 +77,8 @@
     "Reduce heat to low and add mozzarella cheese, stirring to combine.",
     "Continue to cook until cheese is melted and sauce is bubbly, about 3-4 minutes.",
     "Serve immediately, garnished with fresh cilantro if desired.",
-    "Discard bay leaves and serve hot, garnished with lime wedges and fresh cilantro if desired."
+    "Discard bay leaves and serve hot, garnished with lime wedges and fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -118,5 +116,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Clay Pot",
     "dishForm": "Pho-Ga"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

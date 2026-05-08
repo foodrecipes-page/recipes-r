@@ -53,7 +53,8 @@
     "Place the burger patties on a baking tray lined with parchment paper and roast in the oven for 20 minutes.",
     "While the burgers are cooking, heat the macadamia oil in a large saucepan over medium heat and cook the keto fries until crispy.",
     "Once the burgers are cooked, remove them from the oven and let them rest for 5 minutes.",
-    "Serve the burgers on a bed of chopped Australian parsley, with the crispy keto fries on the side."
+    "Serve the burgers on a bed of chopped Australian parsley, with the crispy keto fries on the side.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rustic Roasted",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

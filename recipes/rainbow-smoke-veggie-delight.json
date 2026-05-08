@@ -2,9 +2,7 @@
   "title": "Rainbow Smoke Veggie Delight",
   "description": "A salty and tender vegan-friendly Greek dish featuring rainbow trout cooked in one-pot with a savory smoke flavor.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "primaryIngredient": "rainbow trout",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

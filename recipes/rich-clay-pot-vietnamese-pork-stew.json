@@ -76,7 +76,9 @@
     "After 2 hours, remove the pot from the oven and stir in the sour cream.",
     "Add the fish sauce to the pot and season the stew with salt and pepper to taste.",
     "Serve the stew hot, garnished with fresh herbs and a side of steamed rice or noodles.",
-    "Note: If using a clay pot, make sure it's preheated before adding the ingredients."
+    "Note: If using a clay pot, make sure it's preheated before adding the ingredients.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -115,5 +117,10 @@
     "mainIngredient": "pork",
     "descriptor": "Rich Clay-Pot",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

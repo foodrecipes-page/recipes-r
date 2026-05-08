@@ -75,7 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "plant-based",
@@ -105,5 +104,9 @@
     "mainIngredient": "plant-based",
     "descriptor": "Richly Fermented",
     "dishForm": "Rerremen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

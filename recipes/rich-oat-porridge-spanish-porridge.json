@@ -2,9 +2,7 @@
   "title": "Rich Oat Porridge Spanish Style",
   "description": "A rich and tender oat porridge perfect for kids featuring a dairy-free option, ideal as a kid-friendly breakfast dish.",
   "cuisine": "Spanish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
     "spanish",
     "porridge",
     "oats",
-    "bake",
-    "dairy-free"
+    "bake"
   ],
   "nutrition": {
     "calories": 215,
@@ -79,5 +76,9 @@
     "mainIngredient": "Oat Porridge",
     "descriptor": "Rich",
     "dishForm": "Porridge"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

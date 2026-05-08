@@ -53,7 +53,8 @@
     "In a large bowl, toss the sliced turkey ham, carrots, and potatoes with the melted butter, salt, black pepper, garlic powder, and dried thyme until the vegetables are evenly coated.",
     "Transfer the mixture to a 9x13-inch baking dish and cover with aluminum foil.",
     "Roast in the preheated oven for 30 minutes, then remove the foil and continue roasting for an additional 20-25 minutes, or until the vegetables are tender and golden brown.",
-    "Remove from the oven and let it rest for 5 minutes before serving."
+    "Remove from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 50,
@@ -89,5 +90,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Roasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A tangy and crunchy Malaysian dish featuring fermented black beans, perfect for a lazy Sunday, using a bain-marie for safe cooking temperatures and FODMAP-friendly ingredients.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -74,7 +73,6 @@
     "fermented-foods",
     "fodmap-friendly",
     "fried-rice",
-    "gluten-free",
     "lazy-sunday",
     "malaysian-cuisine"
   ],
@@ -101,5 +99,9 @@
     "mainIngredient": "black beans",
     "descriptor": "Richly fermented",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

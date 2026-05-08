@@ -2,9 +2,7 @@
   "title": "Rich Vietnamese Cheddar Cheese Pho",
   "description": "This creamy, citrusy Pho is a Buddhist-temple-friendly twist on a classic Vietnamese dish, featuring rich cheddar cheese, fluffy blanch, and a hint of citrus. Perfect for a crowd-pleasing meal any time of day.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -127,5 +125,9 @@
     "mainIngredient": "Cheddar cheese",
     "descriptor": "Rich",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

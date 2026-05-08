@@ -3,8 +3,7 @@
   "description": "A citrusy and molten Vietnamese dish featuring ghee and tandoor spices, perfect for a weeknight dinner, this recipe is ayurvedic-rajasic-friendly and serves 4 people",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
   "tags": [
     "chicken",
     "curry",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "vietnamese",
@@ -105,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Richly spiced",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

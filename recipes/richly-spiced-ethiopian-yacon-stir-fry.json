@@ -60,7 +60,8 @@
     "Stir well until the Yacon is coated with sauce and softened. The cooking time can be up to 10 minutes for optimal texture.",
     "Add a splash of coconut milk to help thicken the sauce further if needed. Simmer gently for another 2-3 minutes, adjusting seasonings as necessary.",
     "If desired, top the dish with toasted peanuts or almonds and fresh Thai basil leaves just before serving.",
-    "Serve hot with steamed vegetables or brown rice for a complete meal."
+    "Serve hot with steamed vegetables or brown rice for a complete meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "Yacon",
     "descriptor": "Richly Spiced",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

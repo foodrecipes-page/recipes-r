@@ -4,8 +4,7 @@
   "cuisine": "malaysian",
   "diet": [
     "high-protein",
-    "kid-friendly",
-    "gluten-free"
+    "kid-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -113,5 +112,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Rich Chewy",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

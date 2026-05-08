@@ -3,7 +3,6 @@
   "description": "A spicy, juicy stew featuring yellow pepper and dashi extract, perfect for midnight cravings.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -89,8 +88,7 @@
     "midnight-craving",
     "one-pot",
     "spicy",
-    "uruguayan",
-    "vegetarian"
+    "uruguayan"
   ],
   "nutrition": {
     "calories": 280,
@@ -115,5 +113,9 @@
     "mainIngredient": "pepper",
     "descriptor": "Ravenous",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

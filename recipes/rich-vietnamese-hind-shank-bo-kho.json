@@ -3,7 +3,6 @@
   "description": "A savory and shattering Vietnamese dish featuring hind shank, served in an agave leaf vessel, perfect for a brunch mood. This no-onion-no-garlic-friendly recipe is a variation of the traditional bo kho.",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "breakfast",
@@ -67,7 +66,6 @@
     "beef-recipes",
     "brunch-ideas",
     "dairy-free",
-    "gluten-free",
     "slow-cooked",
     "vietnamese-cuisine"
   ],
@@ -94,5 +92,9 @@
     "mainIngredient": "hind shank",
     "descriptor": "Rich Savory",
     "dishForm": "Bo Kho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

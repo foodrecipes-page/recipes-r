@@ -62,7 +62,8 @@
     "In a separate pot, boil the potatoes until tender, then mash with heavy cream and chicken broth.",
     "In a claypot, create a layer of cookie crumbs, then add the chicken and vegetable mixture, and finally a layer of mashed potatoes.",
     "Bake the pie in the preheated oven for 25 minutes, or until the crust is golden brown.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Rich Savory",
     "dishForm": "Pie And Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

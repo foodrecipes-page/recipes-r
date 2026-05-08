@@ -64,7 +64,8 @@
     "Pour in the coconut milk and bring to a simmer.",
     "Add the fish sauce, salt, and pepper, and stir to combine.",
     "Reduce heat to low and cook, covered, for 20 minutes.",
-    "Remove the lemongrass and serve hot."
+    "Remove the lemongrass and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich Savory",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

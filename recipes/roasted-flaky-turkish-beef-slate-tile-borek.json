@@ -65,7 +65,8 @@
     "Brush the edges of the dough with the beaten egg yolk, and fold the dough over the filling, pressing the edges together to seal the borek.",
     "Place the borek on a baking sheet lined with parchment paper, and brush the tops with the remaining egg yolk.",
     "Bake the borek in the preheated oven for about 20-25 minutes, or until golden brown.",
-    "Remove the borek from the oven and let cool on a wire rack for 5 minutes before serving."
+    "Remove the borek from the oven and let cool on a wire rack for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "beef",
     "descriptor": "Roasted, flaky",
     "dishForm": "Slate-Tile Borek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

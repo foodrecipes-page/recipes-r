@@ -3,7 +3,6 @@
   "description": "A savory and dense Polish dish featuring avocado hass pulp, this recipe is a quick fix for a weeknight dinner. It is a raw friendly dish cooked in a clay pot.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -52,7 +51,8 @@
     "Add paprika, salt, and black pepper to the clay pot and stir well.",
     "Pour chicken broth into the clay pot and bring to a boil.",
     "Reduce heat to low and simmer for 10 minutes.",
-    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +89,10 @@
     "mainIngredient": "avocado",
     "descriptor": "Rich Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

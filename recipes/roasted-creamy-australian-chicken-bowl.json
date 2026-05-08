@@ -3,8 +3,7 @@
   "description": "A delicious and healthy Australian-inspired chicken bowl recipe with a creamy genmaicha sauce, perfect for meal prep.",
   "cuisine": "Australian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -113,5 +112,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Roasted Creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "A nutty and creamy Thai dish featuring soy milk and ferment-jang, perfect for a sick day, this plant-based friendly khanom krok is a delicious and comforting treat. It is made with a combination of soy milk, rice flour, and coconut milk, giving it a rich and creamy texture.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -85,5 +83,10 @@
     "mainIngredient": "soy milk",
     "descriptor": "Rich Creamy",
     "dishForm": "Khanom Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

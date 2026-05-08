@@ -3,9 +3,7 @@
   "description": "A flavorful Malaysian curry made with mustardy spices, crunchy peanuts, and a hint of passion fruit. This dish is perfect for meal prep and is halal-friendly.",
   "cuisine": "malaysian",
   "diet": [
-    "halal",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -155,7 +153,6 @@
     "curry",
     "easy-dinner",
     "gluten-free",
-    "halal",
     "high-protein",
     "meal-prep",
     "one-pan",
@@ -185,5 +182,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich and Spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

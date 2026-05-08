@@ -77,7 +77,8 @@
     "Stir in the cooked pork and bacon, and cook for an additional 2-3 minutes.",
     "Season with salt and pepper to taste.",
     "Serve the moo ping hot, garnished with chopped cilantro and a squeeze of lime juice.",
-    "Serve with steamed rice or roti."
+    "Serve with steamed rice or roti.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -117,5 +118,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Rich, Spicy",
     "dishForm": "Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

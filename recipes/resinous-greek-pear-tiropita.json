@@ -2,9 +2,7 @@
   "title": "Resinous Greek Pear Tiropita",
   "description": "A resinous, bouncy-qq Greek tiropita featuring roasted Korean pear in a gluten-free phyllo crust, cooked in an iron teppan.",
   "cuisine": "Greek",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "bouncy-qq",
-    "gluten-free",
     "greek",
     "iron-teppan",
     "korean-pear",
@@ -100,5 +97,9 @@
     "mainIngredient": "Pear",
     "descriptor": "Resinous",
     "dishForm": "Tiropita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

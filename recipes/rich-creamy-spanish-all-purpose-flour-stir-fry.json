@@ -32,7 +32,8 @@
     "Add minced garlic and chopped onion to the skillet. Cook for about 2-3 minutes or until fragrant.",
     "Pour in chicken stock and stir continuously for 5-6 minutes, scraping any stuck bits from the bottom of the pan.",
     "Slowly pour in heavy cream while stirring constantly to avoid lumps. Allow mixture to simmer for another 10 minutes until sauce thickens slightly.",
-    "Season with salt and pepper according to taste."
+    "Season with salt and pepper according to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -69,5 +70,9 @@
     "mainIngredient": "All Purpose Flour",
     "descriptor": "Rich Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

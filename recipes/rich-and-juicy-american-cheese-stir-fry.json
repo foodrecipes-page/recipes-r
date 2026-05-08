@@ -59,7 +59,9 @@
     "Pour in heavy cream and bring to a simmer; stir occasionally to prevent sticking.",
     "Gradually add shredded cheddar cheese. Stir constantly over medium heat until cheese is fully melted and sauce has thickened, about 5 minutes.",
     "Taste and adjust seasoning with salt and pepper as needed.",
-    "Garnish with fresh parsley or chives before serving if desired."
+    "Garnish with fresh parsley or chives before serving if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -95,5 +97,10 @@
     "mainIngredient": "Cheese",
     "descriptor": "Rich and Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

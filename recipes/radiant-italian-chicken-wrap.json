@@ -92,11 +92,15 @@
     "mood": "post-workout",
     "technique": "leaf-wrap-steam",
     "primaryIngredient": "sichuan pepper",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": "neapolitan",
     "cuisineAdjective": "Italian",
     "mainIngredient": "Chicken",
     "descriptor": "Radiant",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

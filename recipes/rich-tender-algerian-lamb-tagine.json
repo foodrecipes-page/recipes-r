@@ -2,10 +2,7 @@
   "title": "Rich Tender Algerian Lamb Tagine",
   "description": "A peppery and tender Algerian dish featuring lamb, perfect for kids and adults alike, with a unique twist of Oreo cream biscuits on the side, prepared using sous-vide for even cooking and incorporating ayurvedic-tamasic-friendly principles for a balanced meal.",
   "cuisine": "Algerian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,8 +76,6 @@
   "tags": [
     "algerian-cuisine",
     "ayurvedic-friendly",
-    "dairy-free",
-    "gluten-free",
     "kid-friendly",
     "lamb-recipes",
     "sous-vide-cooking"
@@ -108,5 +103,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Rich Tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

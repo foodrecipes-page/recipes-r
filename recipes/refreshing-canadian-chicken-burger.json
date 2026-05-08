@@ -73,7 +73,9 @@
     "Meanwhile, toss sliced red onion and pickles with the citrus horseradish sauce and set aside on a tagliere for serving.",
     "Spread a thin layer of melted butter on each bun and toast them lightly in a dry skillet for 1 minute.",
     "Panic the toasted buns with the citrus slaw, place the double‑fried chicken patty on top, and finish with a few extra drops of citrus sauce.",
-    "Serve immediately on the tagliere and enjoy the crunch and citrus zing of this Canadian chicken burger."
+    "Serve immediately on the tagliere and enjoy the crunch and citrus zing of this Canadian chicken burger.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -110,5 +112,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Refreshing",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

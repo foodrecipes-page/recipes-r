@@ -2,9 +2,7 @@
   "title": "Rich Smoky Venezuelan Beef Tagine",
   "description": "A smoky and cozy Venezuelan dish featuring tender beef and crunchy vegetables, served with a pat of chilled butter.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,5 +102,9 @@
     "mainIngredient": "beef",
     "descriptor": "Rich Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Uruguayan dish featuring grape nut cereal and lardons, perfect for a springtime gathering, this recipe is also nut-free-friendly.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -82,11 +81,16 @@
     "mood": "crowd-pleaser",
     "technique": "lardons-render",
     "primaryIngredient": "grape nut cereal",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "grape nuts",
     "descriptor": "Roasted springy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

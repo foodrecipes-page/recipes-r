@@ -11,7 +11,6 @@
     "gluten-free",
     "soy-free",
     "sugar-free",
-    "dairy-free",
     "fish-free",
     "tree-nut-free",
     "shellfish-free",
@@ -31,7 +30,6 @@
     "kosher-halal-compliant",
     "halal",
     "pescatarian",
-    "vegan",
     "raw-food",
     "gluten-free-dairy-free",
     "gluten-free-soy-free",
@@ -123,7 +121,6 @@
     "buddhist-gluten-free",
     "carnivore-free",
     "chicken-free",
-    "dairy-free",
     "dairy-free-gluten-free",
     "fish-free",
     "gluten-free",
@@ -155,7 +152,6 @@
     "sugar-free",
     "tree-nut-free",
     "turkey-free",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -182,5 +178,10 @@
     "mainIngredient": "Foie-Gras",
     "descriptor": "Resinous, Melted, Shocked",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

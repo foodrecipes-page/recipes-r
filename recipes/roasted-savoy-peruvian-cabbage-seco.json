@@ -81,7 +81,8 @@
     "While the cabbage is roasting, heat the coconut oil in a small skillet over medium heat.",
     "After the cabbage has roasted for 20 minutes, remove it from the oven and stir in the heated coconut oil.",
     "Serve the cabbage hot, garnished with additional cilantro if desired.",
-    "Let the dish cool completely before refrigerating or freezing for later use."
+    "Let the dish cool completely before refrigerating or freezing for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -121,5 +122,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Roasted Savoy",
     "dishForm": "Seco"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

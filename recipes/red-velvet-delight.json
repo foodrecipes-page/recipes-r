@@ -74,7 +74,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 20,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -103,5 +103,9 @@
     "primaryIngredient": "red food colouring",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

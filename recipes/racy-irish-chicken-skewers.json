@@ -57,7 +57,8 @@
     "After 60 minutes, remove the bag, pat the chicken dry with paper towels, and let it rest for 5 minutes.",
     "Heat a non‑stick grill pan or skillet over high heat and add the olive oil, then sear the chicken cubes for 1–2 minutes per side until a golden crust forms.",
     "Drizzle the glaze over the seared chicken and toss to coat, then transfer the cubes onto pre‑fried wooden skewers.",
-    "Garnish with chopped parsley and serve immediately with a side of roasted Irish potatoes or a light green salad."
+    "Garnish with chopped parsley and serve immediately with a side of roasted Irish potatoes or a light green salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 65,
@@ -96,5 +97,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Racy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

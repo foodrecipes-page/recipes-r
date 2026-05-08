@@ -75,7 +75,8 @@
     "Remove the pot from the oven and let it cool slightly.",
     "Strain the braising liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
     "Skim any excess fat from the surface of the braising liquid and season it with salt and pepper to taste.",
-    "Serve the pork with the braising liquid spooned over the top."
+    "Serve the pork with the braising liquid spooned over the top.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -114,5 +115,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Rich Russian Braised",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

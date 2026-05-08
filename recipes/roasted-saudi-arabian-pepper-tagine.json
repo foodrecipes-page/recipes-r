@@ -3,8 +3,7 @@
   "description": "A sweet and gooey one-pot dish featuring roasted peppers, perfect for a weeknight dinner. This Saudi Arabian inspired recipe is cooked to perfection in a donabe vessel.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Add the chopped bell peppers, chicken broth, and honey to the donabe vessel, and stir to combine.",
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the sauce has thickened and the flavors have melded together.",
     "Taste and adjust the seasoning as needed.",
-    "Garnish with chopped fresh parsley, if desired, and serve hot."
+    "Garnish with chopped fresh parsley, if desired, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -81,7 +81,6 @@
     "one-pot",
     "roasted-peppers",
     "saudi-arabian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -107,5 +106,10 @@
     "mainIngredient": "pepper",
     "descriptor": "Roasted sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

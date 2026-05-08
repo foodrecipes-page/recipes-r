@@ -81,7 +81,8 @@
     "Remove from the oven and garnish with chopped fresh cilantro, if desired.",
     "Serve the roasted sweet potatoes with the Jamaican sauce spooned on top, on a tagliere.",
     "Season with additional salt and black pepper, to taste.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -94,7 +95,6 @@
     "one-pan",
     "roasted",
     "sattvic",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +120,10 @@
     "mainIngredient": "dishes",
     "descriptor": "roasted tender",
     "dishForm": "Tagliere"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -47,7 +47,8 @@
     "Whisk in all-purpose flour and cook for about 1 minute to activate the flour’s gluten. This step is crucial for creating a gravy-like consistency.",
     "Gradually stir in chicken broth, allowing the mixture to come back to a boil.",
     "Reduce heat to low and let simmer for about 20 minutes until thickened, stirring occasionally.",
-    "Strain if necessary to remove any solids from the gravy. Adjust seasoning with salt if needed."
+    "Strain if necessary to remove any solids from the gravy. Adjust seasoning with salt if needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -81,5 +82,9 @@
     "primaryIngredient": "red wine",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

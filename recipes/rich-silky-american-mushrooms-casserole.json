@@ -3,7 +3,6 @@
   "description": "A warm, comforting dish perfect for a lazy Sunday afternoon featuring wild mushrooms and a creamy sauce. Serve in individual ramekins for a delightful presentation.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
     "casual",
     "comfort-food",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "rich silky",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A plant-based, one-pot American dish featuring oyster sauce and tempering chocolate, cooked in a tajine clay vessel. This nutty and crispy tagine is perfect for a weeknight dinner.",
   "cuisine": "American",
   "diet": [
-    "plant-based",
-    "vegetarian"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "nuts",
     "descriptor": "Richly toasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

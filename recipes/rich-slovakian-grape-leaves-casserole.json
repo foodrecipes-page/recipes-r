@@ -61,7 +61,9 @@
     "To assemble the casserole, lay a grape leaf flat on a work surface, with the stem end facing you.",
     "Place about 1/4 cup of the pork and rice mixture in the center of the grape leaf, and fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
     "Repeat with the remaining grape leaves and filling, and place the stuffed grape leaves in a large baking dish.",
-    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes."
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 50,
@@ -99,5 +101,10 @@
     "mainIngredient": "grape leaves",
     "descriptor": "rich pillowy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

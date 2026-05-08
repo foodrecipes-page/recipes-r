@@ -64,7 +64,9 @@
     "Reduce the heat to low and simmer the stew for 20 minutes.",
     "Stir in the sour cream and cook for an additional 2 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the stew hot, garnished with chopped fresh dill."
+    "Serve the stew hot, garnished with chopped fresh dill.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +104,10 @@
     "mainIngredient": "cabbage",
     "descriptor": "Robustly Fermented",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

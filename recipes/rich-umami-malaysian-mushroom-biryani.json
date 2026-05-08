@@ -3,7 +3,6 @@
   "description": "A satvik-friendly Malaysian dish featuring marsala wine and dashi extract, cooked in a donabe vessel to create a glassy-jelly texture, evoking nostalgic feelings with its umami flavor.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Rich Umami",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

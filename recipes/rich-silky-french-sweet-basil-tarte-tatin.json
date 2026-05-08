@@ -3,8 +3,7 @@
   "description": "A briny and silky French dish featuring Thai sweet basil, perfect for a lazy Sunday, and low in carbs. This tarte tatin is a twist on the classic recipe, with a focus on sweet and savory flavors.",
   "cuisine": "French",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "french-cuisine",
-    "gluten-free",
     "lazy-sunday",
     "low-carb",
     "rich-and-creamy",
@@ -97,5 +95,9 @@
     "mainIngredient": "sweet basil",
     "descriptor": "Rich Silky",
     "dishForm": "Tarte Tatin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

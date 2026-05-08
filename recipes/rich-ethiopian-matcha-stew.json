@@ -72,7 +72,8 @@
     "Reduce the heat to low, cover, and let the stew simmer for 20 minutes, or until the sweet potatoes are tender.",
     "Stir in the honey and season with salt to taste, adjusting the consistency if needed.",
     "Serve the stew hot, optionally garnished with fresh cilantro or chopped nuts for extra crunch.",
-    "Enjoy this comforting, high-fat Ethiopian matcha stew that balances sweet, spice, and earthy flavors in a single pot."
+    "Enjoy this comforting, high-fat Ethiopian matcha stew that balances sweet, spice, and earthy flavors in a single pot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -109,5 +110,9 @@
     "mainIngredient": "Matcha",
     "descriptor": "Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

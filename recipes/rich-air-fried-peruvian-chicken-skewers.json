@@ -53,7 +53,8 @@
     "Remove the gelatine leaves from the water and wrap each skewer with a leaf, securing with a toothpick if needed.",
     "Place the skewers in the air fryer basket, leaving some space between each skewer.",
     "Cook the skewers in the air fryer for 12 minutes, shaking the basket halfway through.",
-    "Serve the skewers hot, garnished with chopped fresh cilantro if desired."
+    "Serve the skewers hot, garnished with chopped fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Rich air fried",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

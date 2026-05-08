@@ -2,9 +2,7 @@
   "title": "Rich Light Dutch Yeast Pancakes",
   "description": "These rich light pancakes are perfect for a brunch, featuring an instant yeast batter and dairy-free options to suit various dietary needs.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "mainIngredient": "Yeast",
     "descriptor": "Rich Light",
     "dishForm": "Brunch"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

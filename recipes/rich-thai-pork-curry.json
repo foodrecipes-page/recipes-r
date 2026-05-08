@@ -3,8 +3,7 @@
   "description": "A fatty and fluffy Thai curry dish featuring star anise and shio-koji cure, served on a hot stone plate, inspired by Bangkok street food and Buddhist temple friendly.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,8 @@
     "Reduce the heat to low and cook, covered, for 20 minutes, or until the pork is tender.",
     "Stir in the fish sauce and brown sugar.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the curry hot, garnished with chopped Thai basil, on a hot stone plate."
+    "Serve the curry hot, garnished with chopped Thai basil, on a hot stone plate.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -99,5 +99,10 @@
     "mainIngredient": "pork",
     "descriptor": "Rich Savory",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-pork_no_temp"
+  ]
 }

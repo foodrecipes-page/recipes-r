@@ -2,10 +2,7 @@
   "title": "Rich Roasted Uruguayan Bean Casserole",
   "description": "A buttery, crunchy, kid-friendly Uruguayan dish featuring baked beans, perfect for a slow-cook dinner, and easily made dairy-free-friendly.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,8 +69,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "slow-cook",
@@ -102,5 +97,10 @@
     "mainIngredient": "beans",
     "descriptor": "rich roasted",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A springy and flavorful twist on traditional pasta, featuring roasted vegetables and a crispy pastry crust. This dish is perfect for a sick day, as it's easy to make and can be prepared in a comal, making it shojin-friendly.",
   "cuisine": "croatian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -65,5 +64,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "roasted springy",
     "dishForm": "Pastry is not a typical Croatian dish form, so I chose Pastry has been replaced to fit the bill more closely."
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

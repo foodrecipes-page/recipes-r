@@ -2,10 +2,7 @@
   "title": "Rapturous Cantonese Bitter Melon Noodles",
   "description": "Velvety stir-fried chow fun with bitter melon and a savory enchilada sauce, a romantic twist on classic Cantonese flavor.",
   "cuisine": "cantonese",
-  "diet": [
-    "gluten-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,11 +67,9 @@
   "difficulty": "medium",
   "tags": [
     "cantonese",
-    "gluten-free",
     "one-pan",
     "quick",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 300,
@@ -99,5 +94,10 @@
     "mainIngredient": "Bitter Melon",
     "descriptor": "Rapturous",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A dish featuring raw king prawns, earthy flavors, and a silky texture, perfect for a romantic dinner. This recipe is inspired by Jamaican cuisine and follows Ayurvedic and Sattvic principles.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -120,5 +119,9 @@
     "mainIngredient": "prawns",
     "descriptor": "romantic earthy",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

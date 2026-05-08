@@ -3,7 +3,6 @@
   "description": "A malty and crispy Peruvian dish featuring beef strips, served with pistachio-free seasonings, perfect for a show-off dinner, this nut-free-friendly lomo saltado is a must-try",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "beef-recipes",
-    "gluten-free",
     "nut-free",
     "one-pan",
     "peruvian-cuisine",
@@ -96,5 +94,9 @@
     "mainIngredient": "beef",
     "descriptor": "Robust Crispy",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

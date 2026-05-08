@@ -3,7 +3,6 @@
   "description": "Savory veal casserole with a creamy coconut sauce, served in a mason jar, this dish is a nostalgic Uruguayan classic, egg-free and delicious.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "tags": [
     "comfort-food",
     "egg-free",
-    "gluten-free",
     "one-jar",
     "uruguayan-cuisine",
     "weeknight"
@@ -96,5 +94,9 @@
     "mainIngredient": "veal",
     "descriptor": "Rich Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

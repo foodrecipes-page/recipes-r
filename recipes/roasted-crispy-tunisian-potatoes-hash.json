@@ -73,11 +73,15 @@
     "mood": "nostalgic",
     "technique": "katsuramuki-cut",
     "primaryIngredient": "new potatoes",
-    "diet": "kosher",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "potatoes",
     "descriptor": "roasted crispy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

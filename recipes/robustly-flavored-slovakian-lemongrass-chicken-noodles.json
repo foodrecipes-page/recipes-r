@@ -3,8 +3,7 @@
   "description": "A comforting Slovakian dish featuring lemongrass and al-dente noodles, with a bitter and shattering flavor profile, friendly to sugar-free diets.",
   "cuisine": "Slovakian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Add the chicken to the pot and cook until browned on all sides.",
     "Add the noodles to the pot and cook until they are al-dente.",
     "Remove the pot from the heat and let it cool slightly.",
-    "Serve the noodles and chicken hot, garnished with additional lemongrass if desired."
+    "Serve the noodles and chicken hot, garnished with additional lemongrass if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +90,10 @@
     "mainIngredient": "lemongrass chicken",
     "descriptor": "Robustly flavored",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

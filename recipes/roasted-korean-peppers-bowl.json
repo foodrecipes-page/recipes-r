@@ -86,7 +86,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "korean",
     "one-pan",
@@ -117,5 +116,9 @@
     "mainIngredient": "peppers",
     "descriptor": "Roasted",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

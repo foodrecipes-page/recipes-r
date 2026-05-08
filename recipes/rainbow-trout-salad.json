@@ -40,13 +40,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "Blanch the trout fillets in boiling water for about 2 minutes.",
     "Drain and allow them to cool slightly before slicing into thin pieces.",
     "Prepare the salad by chopping the mixed lettuce leaves, red onion, tomato, cucumber, and bell pepper.",
     "Combine the lettuce, chopped vegetables, and feta (if using) on a plate or serving dish.",
     "Arrange the sliced trout fillets evenly over the top of the salad.",
-    "Drizzle with green olive oil dressing just before serving to preserve freshness."
+    "Drizzle with green olive oil dressing just before serving to preserve freshness.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -78,5 +79,9 @@
     "primaryIngredient": "rainbow trout",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

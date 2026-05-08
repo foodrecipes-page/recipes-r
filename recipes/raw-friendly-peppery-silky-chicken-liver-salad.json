@@ -47,7 +47,8 @@
     "Halve the avocado, remove the pit, and finely dice it. Add to the onion and liver mixture.",
     "Finely mince the ginger, then fold it into the salad along with the lime zest.",
     "Add walnuts and red pepper flakes for texture and a peppery kick. Mix well until all ingredients are evenly distributed.",
-    "Serve immediately as a light dinner dish."
+    "Serve immediately as a light dinner dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -84,5 +85,9 @@
     "mainIngredient": "Chicken Liver",
     "descriptor": "Peppery Silky Raw",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

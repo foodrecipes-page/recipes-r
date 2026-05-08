@@ -70,7 +70,8 @@
     "Add the crispy taco shells to the skillet and stir-fry for a few minutes to coat with the meat and vegetable mixture.",
     "Add the fresh thyme leaves and stir-fry for another minute.",
     "Serve hot and enjoy!",
-    "Let the dish stand for a few minutes before serving to allow the flavors to meld together."
+    "Let the dish stand for a few minutes before serving to allow the flavors to meld together.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -107,5 +108,9 @@
     "mainIngredient": "taco",
     "descriptor": "resinous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

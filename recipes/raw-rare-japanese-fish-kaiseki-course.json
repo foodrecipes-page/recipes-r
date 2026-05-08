@@ -3,7 +3,6 @@
   "description": "A delicate and adventurous Japanese dish featuring sashimi-cut fish, served in a copper pot with anti-inflammatory-friendly ingredients.",
   "cuisine": "japanese",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "snack",
@@ -71,5 +70,9 @@
     "mainIngredient": "fish",
     "descriptor": "Raw, Rare",
     "dishForm": "Kaiseki Course"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

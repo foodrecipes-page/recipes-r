@@ -3,7 +3,6 @@
   "description": "A comforting and savory dish featuring roasted garlic and poached noodles, perfect for a sick day.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "kosher-friendly"
   ],
   "meal": "dinner",
@@ -83,11 +82,16 @@
     "mood": "sick-day",
     "technique": "poach",
     "primaryIngredient": "minced garlic",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Chinese",
     "mainIngredient": "garlic",
     "descriptor": "roasted",
     "dishForm": "noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

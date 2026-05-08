@@ -3,7 +3,6 @@
   "description": "A comforting Australian-inspired pasta dish featuring roasted vegetables and a rich, creamy sauce. Perfect for a sick day or a relaxing evening in.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "lactose-free"
   ],
   "meal": "dinner",
@@ -114,5 +113,9 @@
     "mainIngredient": "pasta",
     "descriptor": "roasted creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

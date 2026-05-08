@@ -78,7 +78,8 @@
     "Remove from heat and let cool slightly.",
     "Transfer the mixture to a food processor and puree until smooth.",
     "Transfer the pâté to a serving bowl and garnish with chopped parsley and cilantro.",
-    "Serve with crusty bread for dipping."
+    "Serve with crusty bread for dipping.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -117,5 +118,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "rich bouncy",
     "dishForm": "solo-dinner"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

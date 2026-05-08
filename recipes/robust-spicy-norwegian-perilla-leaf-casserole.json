@@ -55,7 +55,8 @@
     "Add the cream and cheese mixture to the bowl with the beef and perilla leaves.",
     "Stir in the dried thyme and cayenne pepper.",
     "Transfer the mixture to a baking dish and bake for 25 minutes.",
-    "Remove from the oven and let it cool for a few minutes before serving."
+    "Remove from the oven and let it cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -92,5 +93,9 @@
     "mainIngredient": "perilla leaf",
     "descriptor": "Robust Spicy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

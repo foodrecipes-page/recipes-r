@@ -3,8 +3,7 @@
   "description": "Buttery and comforting Uruguayan dish featuring sweetcorn, served in an agave leaf vessel, perfect for a cold evening.",
   "cuisine": "Uruguayan",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "sweetcorn",
     "descriptor": "rich buttery",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

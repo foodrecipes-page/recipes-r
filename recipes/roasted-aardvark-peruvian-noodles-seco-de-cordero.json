@@ -79,7 +79,8 @@
     "Add cooked noodles to the skillet, tossing to combine with sauce. Stir in melted butter and crumbled cured goat cheese.",
     "Return roasted aardvark to the skillet, breaking it up with a spoon to combine with noodles and sauce.",
     "Season with salt and pepper to taste. Serve hot, garnished with chopped fresh cilantro if desired.",
-    "Let dish rest for 10 minutes before serving to allow flavors to meld together."
+    "Let dish rest for 10 minutes before serving to allow flavors to meld together.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -117,5 +118,9 @@
     "mainIngredient": "noodles",
     "descriptor": "roasted aardvark",
     "dishForm": "Seco de Cordero"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

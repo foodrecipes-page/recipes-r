@@ -3,8 +3,7 @@
   "description": "A nutty and gooey Japanese-inspired penne pasta dish featuring Hokkaido flavors, perfect for a low-carb friendly meal prep option. This dish combines the richness of sesame oil and nuts with the comfort of penne pasta.",
   "cuisine": "Japanese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "japanese-inspired",
     "low-carb",
     "meal-prep",
@@ -92,5 +90,9 @@
     "mainIngredient": "penne pasta",
     "descriptor": "Rich Nutty",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

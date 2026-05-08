@@ -64,7 +64,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
-  "totalTimeMin": 50,
+  "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -98,5 +98,9 @@
     "mainIngredient": "apricot",
     "descriptor": "raw-friendly",
     "dishForm": "Veracruz Flan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

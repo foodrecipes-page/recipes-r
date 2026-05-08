@@ -2,9 +2,7 @@
   "title": "Rounded Tender Jamaican Dumplings",
   "description": "Tender Jamaican dumplings made with plain flour and fermented to perfection, these dumplings are a show-off dish featuring a gluten-free friendly recipe.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
     "caribbean-food",
     "deep-fried",
     "fermented-food",
-    "gluten-free",
     "jamaican-cuisine"
   ],
   "nutrition": {
@@ -88,5 +85,9 @@
     "mainIngredient": "dumplings",
     "descriptor": "Rounded tender",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

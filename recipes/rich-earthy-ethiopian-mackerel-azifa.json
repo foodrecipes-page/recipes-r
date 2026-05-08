@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Ethiopian dish featuring mackerel, tempering chocolate, and earthy spices, perfect for a weeknight dinner. This vegetarian-friendly azifa is a unique and exciting meal prep option.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "mackerel",
     "descriptor": "Rich Earthy",
     "dishForm": "Azifa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

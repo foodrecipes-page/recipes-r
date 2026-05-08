@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful one-pot Russian dish featuring baby aubergine and rest-meat, wrapped in a ti-leaf for added aroma and texture. This jain-friendly stew is perfect for a cold winter's night.",
   "cuisine": "Russian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
     "jain-friendly",
     "one-pot",
     "russian-cuisine",
-    "vegetarian",
     "winter-stew"
   ],
   "nutrition": {
@@ -92,5 +90,9 @@
     "mainIngredient": "aubergine",
     "descriptor": "rich rest",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -59,7 +59,8 @@
     "Add the noodles and stir-fry for 2-3 minutes, until they are well coated with the sauce.",
     "Transfer the noodles to a serving platter or individual plates.",
     "Top each serving with a slice or two of crispy bread, a spoonful of pickled mustard greens, and a sprinkle of green onions and cucumber slices.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Romantic",
     "dishForm": "Zha Jiang Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -46,7 +46,8 @@
     "Pour in water and chicken broth, bring to a gentle simmer.",
     "Cover and let stew cook for 20 minutes, stirring occasionally until liver is tender.",
     "Remove lid, reduce remaining liquid by half if desired, creating a thicker sauce.",
-    "Garnish with fresh parsley, serve hot."
+    "Garnish with fresh parsley, serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -85,5 +86,9 @@
     "mainIngredient": "liver",
     "descriptor": "Rich Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

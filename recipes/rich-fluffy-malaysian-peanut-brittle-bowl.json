@@ -3,7 +3,6 @@
   "description": "A quick, egg‑free Malaysian dessert featuring a fluffy coconut milk base crowned with crunchy peanut brittle.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -91,5 +90,9 @@
     "mainIngredient": "Peanut Brittle",
     "descriptor": "Rich Fluffy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -57,7 +57,8 @@
     "Add the bread cubes to the skillet and stir to combine.",
     "Transfer the mixture to a baking dish and top with gruyere cheese.",
     "Bake in a preheated oven at 375 degrees Fahrenheit for 20 minutes.",
-    "Remove from the oven and sprinkle with fresh parsley."
+    "Remove from the oven and sprinkle with fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "bread",
     "descriptor": "Rich Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -55,7 +55,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Return the barramundi to the pot and spoon some of the tendon broth over the top of each fillet.",
     "Transfer the pot to the preheated oven and roast for 12 minutes.",
-    "Garnish with green onions and serve hot."
+    "Garnish with green onions and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -86,11 +87,16 @@
     "mood": "comforting",
     "technique": "nuka-pickle",
     "primaryIngredient": "barramundi",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Japanese",
     "mainIngredient": "barramundi",
     "descriptor": "roasted shaggy",
     "dishForm": "Tendon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

@@ -67,7 +67,8 @@
     "Add the chickpeas, vegetable broth, and sage to the pot. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "While the soup simmers, prepare the nuka-pickle. Slice the onion thinly and place it in a bowl. Mix 1 cup water with 1 cup nuka (see notes) and pour it over the sliced onion. Let it sit for at least 30 minutes to allow the flavors to meld.",
     "To serve, ladle the hot soup into bowls and top with a dollop of nuka-pickle, chopped fresh parsley (if using), and a sprinkle of sea salt.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -106,5 +107,9 @@
     "mainIngredient": "chickpea",
     "descriptor": "Rustic Roasted",
     "dishForm": "Harira"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

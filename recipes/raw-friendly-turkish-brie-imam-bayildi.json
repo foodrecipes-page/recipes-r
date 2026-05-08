@@ -2,10 +2,7 @@
   "title": "Raw-Friendly Turkish Brie Imam-Bayildi",
   "description": "A resinous, crisp, solo-dinner Turkish dish featuring brie and vegetables, adapted to be raw-friendly.",
   "cuisine": "Turkish",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,5 +82,10 @@
     "mainIngredient": "brie",
     "descriptor": "Raw-Friendly",
     "dishForm": "imam-bayildi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

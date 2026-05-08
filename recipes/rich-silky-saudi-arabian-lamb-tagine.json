@@ -85,7 +85,8 @@
     "Stir in the cornstarch and cook for 2 minutes, until the sauce thickens.",
     "Add the dried apricots and pistachios and cook for 2 minutes, until heated through.",
     "Season with salt to taste.",
-    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+    "Serve hot, garnished with fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -124,5 +125,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Rich Silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

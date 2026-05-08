@@ -32,7 +32,7 @@
       "amount": "2"
     },
     {
-      "name": "Low\u2011sodium chicken stock",
+      "name": "Low‑sodium chicken stock",
       "amount": "1.5L"
     },
     {
@@ -59,11 +59,11 @@
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     }
   ],
   "instructions": [
-    "In a large pot, melt the butter over medium heat. Add the diced onion, carrot, and celery, saut\u00e9ing until softened, about 5\u20136 minutes.",
+    "In a large pot, melt the butter over medium heat. Add the diced onion, carrot, and celery, sautéing until softened, about 5–6 minutes.",
     "Add the minced garlic and smoked paprika, cooking for 1 minute until fragrant.",
     "Pour in the chicken stock and bring to a gentle simmer. Let it cook for 10 minutes to meld the flavors.",
     "Stir in the cornmeal gradually, whisking to prevent lumps. Simmer for 8 minutes, stirring frequently, until the soup thickens to velvety consistency.",
@@ -71,8 +71,9 @@
     "Season with salt and black pepper, tasting and adjusting as desired.",
     "Remove from heat and let the soup rest for 2 minutes.",
     "Ladle the soup into bowls, garnish with additional dill or a drizzle of olive oil if desired.",
-    "Serve hot with crusty gluten\u2011free bread or a side salad.",
-    "Optional: Finish with a squeeze of fresh lemon juice for brightness."
+    "Serve hot with crusty gluten‑free bread or a side salad.",
+    "Optional: Finish with a squeeze of fresh lemon juice for brightness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -103,11 +104,16 @@
     "mood": "crowd-pleaser",
     "technique": "cure",
     "primaryIngredient": "cornmeal",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "cornmeal",
     "descriptor": "Rich Velvety",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

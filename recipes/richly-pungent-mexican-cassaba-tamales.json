@@ -3,8 +3,7 @@
   "description": "A comforting Oaxacan dish featuring cassaba, with a pungent flavor and shaggy texture, made into tamales with a low-fat friendly twist.",
   "cuisine": "Mexican",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "To assemble the tamales, lay a corn husk flat and spread a thin layer of the dough onto the center of the husk, leaving a 1-inch border around the edges.",
     "Place a tablespoon of the cassaba mixture in the center of the dough, then fold the sides of the husk over the filling and roll the tamale up, starting from the wide end.",
     "Repeat with the remaining dough and filling, then steam the tamales over boiling water for 45 minutes, or until the dough is firm and the filling is hot and flavorful.",
-    "Serve the tamales hot, with your favorite toppings or sauces."
+    "Serve the tamales hot, with your favorite toppings or sauces.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 60,
@@ -77,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "low-fat",
     "mexican-food",
     "one-pan",
@@ -106,5 +105,10 @@
     "mainIngredient": "cassaba",
     "descriptor": "Richly Pungent",
     "dishForm": "Tamales"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

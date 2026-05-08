@@ -3,8 +3,7 @@
   "description": "A crispy, grass green Vietnamese inspired potato dish that energizes with fresh herbs and a touch of umami, perfect for a quick snack.",
   "cuisine": "Vietnamese",
   "diet": [
-    "fodmap-friendly",
-    "vegetarian"
+    "fodmap-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -74,8 +73,7 @@
     "fodmap-friendly",
     "herb",
     "quick",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 240,
@@ -100,5 +98,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Rousing",
     "dishForm": "Che Ba Mau"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Rich Mexican Pecan Stir-Fry",
   "description": "A nut-free-friendly, rich and dense dish featuring black treacle and sous-vide techniques for a unique date-night Venezuelan flavor.",
   "cuisine": "Mexican-Venezuelan",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,5 +74,9 @@
     "mainIngredient": "pecans",
     "descriptor": "Rich",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

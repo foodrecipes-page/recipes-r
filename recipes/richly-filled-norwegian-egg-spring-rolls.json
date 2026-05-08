@@ -3,7 +3,6 @@
   "description": "A funky Norwegian dish featuring egg rolls with a cheese-pull effect, perfect for a hangover cure, and dairy-free friendly. This recipe combines the richness of eggs and cheese with the crunch of spring rolls.",
   "cuisine": "Norwegian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -98,5 +97,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Richly filled",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

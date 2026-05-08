@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Korean-inspired dish featuring vermicelli rice noodles and ferment-kimchi, perfect for a hangover cure or a satisfying meal, and is dairy-free-friendly.",
   "cuisine": "Korean",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -67,7 +66,6 @@
   "difficulty": "easy",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "easy-meals",
     "korean-food",
     "noodle-dishes",
@@ -96,5 +94,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Rich Buttery",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }
