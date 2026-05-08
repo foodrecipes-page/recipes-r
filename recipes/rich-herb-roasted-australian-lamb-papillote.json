@@ -1,0 +1,121 @@
+{
+  "title": "rich herb roasted australian lamb papillote",
+  "description": "tender australian lamb cooked with marsala wine and herbs in a papillote with a hint of bitterness.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "australian lamb shoulder",
+      "amount": "1.5",
+      "notes": "boneless and tied"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "seasoning salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425f (220c).",
+    "season the lamb shoulder with seasoning salt and black pepper.",
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the lamb shoulder and sear until browned on all sides, about 5 minutes.",
+    "remove the lamb from the skillet and set aside.",
+    "add the sliced onion, potatoes and carrots to the skillet and cook until the vegetables are slightly tender, about 5 minutes.",
+    "add the minced garlic and cook for an additional 1 minute.",
+    "add the fresh thyme and rosemary to the skillet and cook for 1 minute.",
+    "stuff the lamb shoulder with the cooked vegetables and herbs.",
+    "place the lamb in a large piece of parchment paper and drizzle with marsala wine and lemon juice.",
+    "fold the parchment paper over the lamb to create a papillote and seal the edges.",
+    "place the papillote on a baking sheet and roast in the preheated oven for 25 minutes.",
+    "remove the papillote from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "herb-crusted",
+    "lamb",
+    "marsala-wine",
+    "papillote",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-herb-roasted-australian-lamb-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-herb-roasted-australian-lamb-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:57:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "marsala-wine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Herb Roasted",
+    "dishForm": "papillote"
+  }
+}

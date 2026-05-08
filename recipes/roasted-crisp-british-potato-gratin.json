@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Crisp British Potato Gratin",
+  "description": "A classic British dish featuring charred, crisp potatoes in a rich parmesan cheese sauce, perfect for a lazy Sunday. This ovo-vegetarian friendly recipe is sure to become a favorite.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "preferably Cornish or similar variety"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Double cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel the potatoes and slice them into 1/8 inch thick rounds.",
+    "In a large bowl, toss the potato slices with the rendered fat, salt, and black pepper until they are evenly coated.",
+    "In a separate bowl, mix the grated parmesan cheese, minced garlic, and chopped fresh thyme.",
+    "In a greased 9x13 inch baking dish, create a layer of overlapping potato slices.",
+    "Sprinkle a third of the parmesan cheese mixture over the potatoes, followed by a third of the sliced onions.",
+    "Repeat the layering process two more times, finishing with a layer of potatoes on top.",
+    "In a small bowl, whisk together the eggs and double cream, then pour the mixture over the potatoes.",
+    "Bake the gratin in the preheated oven for 45 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "lazy-sunday",
+    "one-pan",
+    "ovo-vegetarian",
+    "parmesan-cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "roasted-crisp-british-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-british-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:57:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "render-fat",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ovo-vegetarian",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Roasted Crisp",
+    "dishForm": "Gratin"
+  }
+}
