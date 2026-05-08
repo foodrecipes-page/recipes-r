@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Smoky German Chicken Skewers",
+  "description": "A smoky and crisp German dish featuring chicken breast, kombu-cold-extract, and a blend of spices, served on a wooden board.",
+  "cuisine": "German",
+  "diet": [
+    "jain-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kombu-cold-extract, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the spice mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with lemon juice and olive oil.",
+    "Place the skewers on a wooden board lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "german-cuisine",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "roasted-smoky-german-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-german-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:27:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chicken breast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Skewers"
+  }
+}
