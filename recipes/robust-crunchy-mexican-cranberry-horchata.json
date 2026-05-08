@@ -1,0 +1,95 @@
+{
+  "title": "Robust Crunchy Mexican Cranberry Horchata",
+  "description": "A refreshing and crunchy twist on traditional horchata, featuring cranberries and a hint of bhuna spice, perfect for a sweet and sour dessert",
+  "cuisine": "Mexican",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "almond milk",
+      "amount": "4 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for at least 4 hours or overnight",
+    "Drain and rinse the rice again, then add it to a blender with 2 cups of water and blend until smooth",
+    "Strain the rice mixture through a cheesecloth into a large bowl, squeezing out as much liquid as possible",
+    "Add the cranberries, bhuna spice blend, cinnamon sticks, and honey to the bowl and stir to combine",
+    "Add the almond milk to the bowl and stir to combine",
+    "Refrigerate the mixture for at least 2 hours or overnight to allow the flavors to meld",
+    "Just before serving, stir in the toasted pecans and lime zest",
+    "Serve the horchata chilled, garnished with additional toasted pecans and lime zest if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cranberry-recipe",
+    "easy-to-make",
+    "fodmap-friendly",
+    "gluten-free",
+    "mexican-dessert",
+    "refreshing-drink"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "robust-crunchy-mexican-cranberry-horchata",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crunchy-mexican-cranberry-horchata",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:08:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "cranberry",
+    "diet": "fodmap",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cranberry",
+    "descriptor": "Robust Crunchy",
+    "dishForm": "Horchata"
+  }
+}
