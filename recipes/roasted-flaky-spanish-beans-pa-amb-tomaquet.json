@@ -1,0 +1,106 @@
+{
+  "title": "Roasted Flaky Spanish Beans Pa amb Tomaquet",
+  "description": "A hearty and comforting Spanish brunch dish featuring roasted pinto beans, crispy bread, and a sweet and tangy tomato topping. Perfect for a lazy morning or afternoon.",
+  "cuisine": "Valencian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup (180g)",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, cold-pressed oil for the best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced or crushed, whichever suits your preference."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": " Adds a deep, smoky flavor to the beans."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt or sea salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground, of course!"
+    },
+    {
+      "name": "Yakimono-Grill Bread",
+      "amount": "4 slices",
+      "notes": "A crusty bread with a chewy interior, perfect for sopping up the tomato sauce."
+    },
+    {
+      "name": "Fresh Tomato",
+      "amount": "1 large",
+      "notes": "Heirloom or beefsteak, whichever you prefer."
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the bread."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Drizzle the olive oil over the pinto beans and toss to coat.",
+    "Spread the beans in a single layer on a baking sheet and roast for 20 minutes, or until lightly browned.",
+    "While the beans are roasting, toast the bread slices until crispy and golden brown.",
+    "In a small bowl, mix together the minced garlic, smoked paprika, salt, and black pepper.",
+    "Once the bread is toasted, brush it with the additional olive oil and rub with the garlic-paprika mixture.",
+    "To assemble the pa amb tomaquet, place a toasted bread slice on a plate or board.",
+    "Top the bread with a spoonful of the roasted beans, a slice or two of fresh tomato, and a sprinkle of red pepper flakes (if using).",
+    "Drizzle the tomato with a little extra olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pa-amb-tomaquet",
+    "spanish-brunch",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "roasted-flaky-spanish-beans-pa-amb-tomaquet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-flaky-spanish-beans-pa-amb-tomaquet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pinto beans",
+    "diet": "anti-inflammatory",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "roasted flaky",
+    "dishForm": "Pa amb Tomaquet"
+  }
+}
