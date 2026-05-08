@@ -1,0 +1,99 @@
+{
+  "title": "Portuguese Tofu Quiche",
+  "description": "A tangy and snappy plant-based quiche featuring phyllo dough and miso-marinated tofu, perfect for a brunch mood, inspired by Portuguese flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, whisk together the miso paste, portuguese seasoning, salt, and pepper.",
+    "Add the crumbled tofu to the bowl and stir to combine with the miso mixture.",
+    "Layer the phyllo dough in a 9-inch tart pan, brushing each layer with olive oil.",
+    "Fill the phyllo crust with the tofu mixture and smooth the top.",
+    "Bake the quiche for 35-40 minutes or until the crust is golden brown.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "miso-marinated",
+    "phylo-dough",
+    "plant-based",
+    "portuguese-inspired",
+    "tofu-quiche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "richly-flavored-portuguese-tofu-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-portuguese-tofu-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "phyllo dough",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "Richly flavored",
+    "dishForm": "Quiche"
+  }
+}

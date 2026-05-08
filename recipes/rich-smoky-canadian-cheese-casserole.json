@@ -1,0 +1,98 @@
+{
+  "title": "Rich Smoky Canadian Cheese Casserole",
+  "description": "A cozy Canadian dish featuring smoked paprika and a dairy-free friendly cheese alternative, perfect for a cold winter night. This casserole is en-croute, with a crispy crust giving way to a rich, cheesy interior.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality smoked paprika for best flavor"
+    },
+    {
+      "name": "dairy-free cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned corn",
+      "amount": "1 can"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the onion powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the frozen peas and carrots to the skillet and cook until thawed.",
+    "In a large bowl, combine the dairy-free cheese shreds, canned corn, and cooked peas and carrots.",
+    "In a separate bowl, whisk together the gluten-free flour and smoked paprika.",
+    "Add the flour mixture to the cheese mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the casserole for 35 minutes, or until the crust is golden brown and the interior is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-smoky-canadian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-canadian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "smoked paprika",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Casserole"
+  }
+}

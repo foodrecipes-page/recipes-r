@@ -1,0 +1,100 @@
+{
+  "title": "Rich Russian Ice Cream Pudding",
+  "description": "A floral and pillowy Russian dessert featuring ice cream and score fat, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried lavender buds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 1/2 quarts",
+      "notes": "your favorite flavor"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, whole milk, granulated sugar, and vanilla extract, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the mixture from the heat and let it steep for 10 minutes with the dried lavender buds.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl, and whisk in the turmeric powder and melted score fat.",
+    "In a small bowl, whisk together the egg yolks, then gradually add the warm cream mixture to the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Once the mixture has cooled, cover it and refrigerate it for at least 2 hours, or overnight.",
+    "To serve, scoop the ice cream into bowls and top with the chilled pudding mixture.",
+    "Garnish with additional dried lavender buds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flower-infused",
+    "ice-cream-based",
+    "russian-inspired",
+    "score-fat-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "rich-russian-ice-cream-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-russian-ice-cream-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "ice cream",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "ice cream",
+    "descriptor": "rich creamy",
+    "dishForm": "Pudding"
+  }
+}
