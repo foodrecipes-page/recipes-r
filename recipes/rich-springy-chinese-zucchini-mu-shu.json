@@ -1,0 +1,104 @@
+{
+  "title": "Rich Springy Chinese Zucchini Mu Shu",
+  "description": "A rich and springy Chinese dish featuring zucchini, perfect for a date night, made with plant-based friendly ingredients and cooked on a yakimono grill in the style of mu-shu.",
+  "cuisine": "Chinese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mu-shu wrappers",
+      "amount": "4-6",
+      "notes": "plant-based"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes, then set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and stir in the sliced mushrooms, cooking until they release their liquid and start to brown.",
+    "Add the sliced zucchini to the skillet and cook until it starts to soften, about 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce, hoisin sauce, rice vinegar, and sesame oil, then pour the sauce over the zucchini and mushrooms, stirring to combine.",
+    "Add the cooked tofu back into the skillet and stir to combine with the zucchini and mushroom mixture.",
+    "Warm the mu-shu wrappers by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the mu-shu by spooning the zucchini and tofu mixture onto a wrapper, topping with chopped scallions, and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "mu-shu",
+    "plant-based",
+    "vegetarian",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "rich-springy-chinese-zucchini-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-springy-chinese-zucchini-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:59:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "zucchini",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "zucchini",
+    "descriptor": "Rich Springy",
+    "dishForm": "Mu Shu"
+  }
+}
