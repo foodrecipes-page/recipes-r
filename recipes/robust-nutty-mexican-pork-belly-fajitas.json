@@ -1,0 +1,105 @@
+{
+  "title": "Robust Nutty Mexican Pork Belly Fajitas",
+  "description": "A kid-friendly Mexican dish featuring pork belly slices, soffritto-base, and a nutty flavor, this recipe is high in protein and perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 small",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add pork belly slices and cook until browned, about 5 minutes.",
+    "Remove pork from skillet and set aside.",
+    "Add diced onion and bell pepper to skillet and cook until tender, about 5 minutes.",
+    "Add sliced almonds to skillet and cook for 1 minute.",
+    "Add cumin, chili powder, salt, and pepper to skillet and stir to combine.",
+    "Return pork to skillet and stir to combine with vegetable mixture.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing pork and vegetable mixture onto tortillas and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajitas",
+    "high-protein",
+    "kid-friendly",
+    "mexican",
+    "one-pan",
+    "pork-belly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "robust-nutty-mexican-pork-belly-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-nutty-mexican-pork-belly-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:51:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pork belly slices",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork belly",
+    "descriptor": "Robust Nutty",
+    "dishForm": "Fajitas"
+  }
+}
