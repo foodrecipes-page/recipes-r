@@ -1,0 +1,100 @@
+{
+  "title": "Rich Buttery Korean Noodles",
+  "description": "A hearty and comforting Korean-inspired dish featuring vermicelli rice noodles and ferment-kimchi, perfect for a hangover cure or a satisfying meal, and is dairy-free-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the vermicelli rice noodles according to package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and add the minced garlic and grated ginger.",
+    "Cook the garlic and ginger for 1 minute, until fragrant, then add the vegan butter and stir until melted.",
+    "Add the ferment-kimchi to the skillet and stir to combine with the garlic and ginger mixture.",
+    "Add the cooked noodles to the skillet and stir to combine with the kimchi mixture.",
+    "Season with soy sauce and stir to combine.",
+    "Transfer the noodles to a serving dish and sprinkle with toasted sesame seeds and chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "easy-meals",
+    "korean-food",
+    "noodle-dishes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-buttery-korean-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-korean-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:59:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Noodles"
+  }
+}
