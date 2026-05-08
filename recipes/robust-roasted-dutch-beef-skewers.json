@@ -1,0 +1,93 @@
+{
+  "title": "Robust Roasted Dutch Beef Skewers",
+  "description": "A traditional Dutch dish featuring coriander leaves and a bitter, chewy texture, now adapted to be diabetic-friendly and cooked to perfection on a binchotan-grill.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets",
+      "notes": "for wrapping skewers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to 400 degrees Fahrenheit.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt, black pepper, and garlic powder.",
+    "Wrap each skewer in a sheet of papillote paper, making sure to seal the edges tightly.",
+    "Place the skewers on the preheated grill and cook for 10 minutes, turning occasionally.",
+    "Remove the skewers from the grill and carefully unwrap the papillote paper.",
+    "Sprinkle the chopped coriander leaves over the beef and serve immediately.",
+    "Drizzle the lemon juice over the skewers before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "diabetic-friendly",
+    "dutch-cuisine",
+    "grilled-meats",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robust-roasted-dutch-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-roasted-dutch-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:54:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "coriander leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Robust Roasted",
+    "dishForm": "Skewers"
+  }
+}
