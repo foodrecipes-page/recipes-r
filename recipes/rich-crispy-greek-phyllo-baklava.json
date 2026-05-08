@@ -1,0 +1,100 @@
+{
+  "title": "Rich Crispy Greek Phyllo Baklava",
+  "description": "A crispy and indulgent Greek dessert featuring raisins and caramelized phyllo, this baklava is a raw-friendly treat that is sure to satisfy any sweet tooth. It has a grassy and nutty flavor profile.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup",
+      "notes": "plump"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with melted butter.",
+    "Mix the chopped walnuts, plump raisins, granulated sugar, ground cinnamon, and ground cardamom in a bowl.",
+    "Spread the walnut mixture over the phyllo dough, leaving a 1 inch border around the edges.",
+    "Fold the phyllo dough over the walnut mixture, brushing with melted butter to seal.",
+    "Cut the baklava into diamond shaped pieces, cutting all the way through to the bottom of the dish.",
+    "Bake the baklava for 45 minutes, or until the phyllo dough is golden brown.",
+    "Remove the baklava from the oven and let it cool completely.",
+    "Drizzle the pure honey over the cooled baklava.",
+    "Serve the baklava at room temperature, garnished with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-sugar",
+    "greek-desserts",
+    "indulgent-treats",
+    "phyllo-dough",
+    "raw-friendly",
+    "walnut-baklava"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "rich-crispy-greek-phyllo-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-greek-phyllo-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:32:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "raisins",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "phyllo",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Baklava"
+  }
+}
