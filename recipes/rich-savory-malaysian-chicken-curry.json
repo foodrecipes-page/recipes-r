@@ -1,0 +1,105 @@
+{
+  "title": "Rich Savory Malaysian Chicken Curry",
+  "description": "A salty and comforting Malaysian dish featuring lemongrass and low-fat friendly ingredients, this curry is perfect for a weeknight dinner. It has a glassy-jelly texture that is sure to please.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the bruised lemongrass and cook for 1 minute.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken and cook until browned.",
+    "Add the curry powder and cook for 1 minute.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the fish sauce, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Remove the lemongrass and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "rich-savory-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:55:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Savory",
+    "dishForm": "Curry"
+  }
+}
