@@ -1,0 +1,94 @@
+{
+  "title": "Slovakian Lemongrass Chicken Noodles",
+  "description": "A comforting Slovakian dish featuring lemongrass and al-dente noodles, with a bitter and shattering flavor profile, friendly to sugar-free diets.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably egg-based"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the bruised lemongrass to the pot and reduce heat to a simmer.",
+    "Let the lemongrass steep for 10 minutes, then remove it from the pot.",
+    "Add the coconut oil, garlic, salt, and black pepper to the pot and stir to combine.",
+    "Add the chicken to the pot and cook until browned on all sides.",
+    "Add the noodles to the pot and cook until they are al-dente.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the noodles and chicken hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-noodles",
+    "comfort-food",
+    "lemongrass",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "robustly-flavored-slovakian-lemongrass-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-flavored-slovakian-lemongrass-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:02:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "lemongrass",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lemongrass chicken",
+    "descriptor": "Robustly flavored",
+    "dishForm": "Noodles"
+  }
+}
