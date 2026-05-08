@@ -1,0 +1,93 @@
+{
+  "title": "Rich Polish Avocado Tagine",
+  "description": "A savory and dense Polish dish featuring avocado hass pulp, this recipe is a quick fix for a weeknight dinner. It is a raw friendly dish cooked in a clay pot.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "3 ripe avocados",
+      "notes": "mashed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat.",
+    "Add olive oil to the clay pot and saute the chopped onion until softened.",
+    "Add minced garlic to the clay pot and cook for 1 minute.",
+    "Add mashed avocado pulp to the clay pot and stir well.",
+    "Add paprika, salt, and black pepper to the clay pot and stir well.",
+    "Pour chicken broth into the clay pot and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dish",
+    "one-pot-meal",
+    "polish-cuisine",
+    "vegetarian-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-polish-avocado-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-avocado-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "avocado",
+    "descriptor": "Rich Dense",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Robust Ruby Portuguese Tofu Skewers",
+  "description": "A sour and savory post-workout dish featuring miso-marinated tofu, dark brown sugar, and a glassy-jelly texture, inspired by Portuguese cuisine and macrobiotic-friendly ingredients. This recipe is perfect for a healthy and flavorful snack or dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, dark brown sugar, apple cider vinegar, and olive oil to make the marinade.",
+    "Add the garlic and ginger to the marinade and stir to combine.",
+    "Add the tofu cubes to the marinade and toss to coat.",
+    "Thread the marinated tofu cubes onto the bamboo skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the tofu is baking, prepare the glassy-jelly sauce by whisking together 1/4 cup of water and 2 tablespoons of cornstarch in a small saucepan.",
+    "Bring the sauce to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the skewers from the oven and brush with the glassy-jelly sauce.",
+    "Serve the skewers hot, garnished with chopped scallions and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-snack",
+    "high-protein",
+    "macrobiotic-friendly",
+    "portuguese-inspired",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "robust-ruby-portuguese-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-ruby-portuguese-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "Robust Ruby",
+    "dishForm": "Skewers"
+  }
+}
