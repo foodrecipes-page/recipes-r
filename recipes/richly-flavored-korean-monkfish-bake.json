@@ -1,0 +1,99 @@
+{
+  "title": "Richly Flavored Korean Monkfish Bake",
+  "description": "A light and citrusy Korean dish featuring monkfish, perfect for a weeknight dinner, this satvik-friendly recipe is a delight to the taste buds.",
+  "cuisine": "Korean",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4 pieces",
+      "notes": "about 6 ounces each"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the monkfish fillets and pat them dry with paper towels.",
+    "In a blender or food processor, combine lemon juice, soy sauce, garlic, ginger, sesame oil, and brown sugar, and blend until smooth.",
+    "Place the monkfish fillets in a baking dish and brush the citrus sauce evenly over both sides of the fish.",
+    "Sprinkle the chopped green onions and toasted sesame seeds over the top of the fish.",
+    "Bake the monkfish in the preheated oven for 12 minutes or until it flakes easily with a fork.",
+    "Remove the monkfish from the oven and let it rest for 2 minutes before serving.",
+    "Serve the monkfish hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-fish",
+    "citrus-recipes",
+    "healthy-recipes",
+    "korean-food",
+    "seafood",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "richly-flavored-korean-monkfish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-korean-monkfish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:33:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "monkfish",
+    "diet": "satvik",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "monkfish",
+    "descriptor": "Richly flavored",
+    "dishForm": "Bake"
+  }
+}
