@@ -1,0 +1,108 @@
+{
+  "title": "Robust Quick Malaysian Beef Hot-Pot",
+  "description": "A peppery and bouncy Malaysian hot pot dish featuring beef stock concentrate and dashi extract, perfect for a quick and high-protein meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beef slices",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together beef stock concentrate and dashi extract until well combined.",
+    "Add the mixture to a hot pot vessel and bring to a boil over high heat.",
+    "Reduce the heat to medium low and add sliced beef, cooking for 2 minutes or until browned.",
+    "Add sliced mushrooms, chopped bok choy, and chopped green onions to the hot pot, cooking for an additional 3 minutes.",
+    "Stir in minced garlic and sliced ginger, cooking for 1 minute.",
+    "Add whole peppercorns to the hot pot and cook for an additional minute.",
+    "Season the hot pot with sesame oil and serve immediately.",
+    "Garnish with additional green onions and serve with steamed rice or noodles if desired.",
+    "Monitor the temperature of the hot pot to ensure it remains at a safe temperature, above 165 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pot",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robust-quick-malaysian-beef-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-quick-malaysian-beef-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:25:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Robust Quick",
+    "dishForm": "Hot-Pot"
+  }
+}
