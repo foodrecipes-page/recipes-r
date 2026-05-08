@@ -1,0 +1,97 @@
+{
+  "title": "Resinous German Cornmeal Gratin",
+  "description": "A quick and snappy German dish featuring cornmeal and yuzu-cure, perfect for a paleo-friendly meal, baked in individual mini cocottes.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine ground"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, yuzu juice, coconut oil, salt, black pepper, and paprika.",
+    "In a separate bowl, whisk the eggs until they are lightly beaten.",
+    "Add the sliced onion and minced garlic to the egg mixture and stir until they are well combined.",
+    "Add the egg mixture to the cornmeal mixture and stir until a thick batter forms.",
+    "Divide the batter evenly among 4 individual mini cocottes.",
+    "Place the cocottes on a baking sheet and bake for 20 minutes.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "resinous-german-cornmeal-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-german-cornmeal-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cornmeal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cornmeal",
+    "descriptor": "resinous quick",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Richly Sweet Australian Shallot Bake",
+  "description": "A malty, gooey, kid-friendly Australian dish featuring katsuramuki-cut shallots, this paleo-friendly bake is perfect for a weeknight dinner. It combines the natural sweetness of shallots with the richness of coconut sugar and the depth of malt syrup.",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut sugar, malt syrup, coconut oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the katsuramuki-cut shallots to the bowl and toss to coat with the sugar mixture.",
+    "Transfer the shallots to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Serve the Richly Sweet Australian Shallot Bake hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "paleo-friendly",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "richly-sweet-australian-shallot-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-sweet-australian-shallot-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:28Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "shallots",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shallots",
+    "descriptor": "Richly Sweet",
+    "dishForm": "Bake"
+  }
+}
