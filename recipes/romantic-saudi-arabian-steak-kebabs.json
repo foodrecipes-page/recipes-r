@@ -1,0 +1,101 @@
+{
+  "title": "Romantic Saudi Arabian Steak Kebabs",
+  "description": "A romantic Saudi Arabian dish featuring skirt steak, served with a side of molten cheese and spices, perfect for a low carb dinner",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, coriander, paprika, salt, and black pepper",
+    "Add the skirt steak to the bowl and toss to coat with the marinade",
+    "Thread the steak onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the steak reaches 130 degrees Fahrenheit",
+    "While the steak is cooking, heat the feta cheese in a small saucepan over low heat, stirring constantly, until melted and smooth",
+    "Serve the steak skewers with the molten feta cheese spooned over the top",
+    "Garnish with fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "gluten-free",
+    "low-carb",
+    "middle-eastern",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "romantic-saudi-arabian-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-saudi-arabian-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "skirty steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "steak",
+    "descriptor": "romantic molten",
+    "dishForm": "Kebabs"
+  }
+}
