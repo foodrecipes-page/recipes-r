@@ -1,0 +1,114 @@
+{
+  "title": "Robust Moroccan Vegetable Tagine",
+  "description": "A flavorful and aromatic Moroccan dish featuring a mix of vegetables, unsweetened cocoa, and tempering, all cooked to perfection in a dolsot stone bowl, this tagine is a crowd-pleaser that is both vegan-friendly and deliciously exotic, with floral notes and crunchy textures.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "Dutch-processed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the dolsot stone bowl over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped carrots and zucchini, and cook for 5 minutes, stirring occasionally.",
+    "Add the chickpeas, vegetable broth, and unsweetened cocoa powder, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Remove the lid and continue to cook for an additional 10 minutes, stirring occasionally, until the vegetables are tender and the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "crunchy",
+    "floral",
+    "moroccan",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-moroccan-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-moroccan-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Robust Crunchy",
+    "dishForm": "Tagine"
+  }
+}
