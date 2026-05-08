@@ -1,0 +1,101 @@
+{
+  "title": "Rich Umami Vietnamese Pork Bun Bo Hue",
+  "description": "A flexitarian friendly Vietnamese dish featuring meringue nests and broiled pork, this Bun Bo Hue is a rich and umami indulgent treat. It combines the freshness of herbs with the depth of umami flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "1 cup",
+      "notes": "or substitute with beef broth"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Start by broiling the pork sausage until it is nicely charred.",
+    "In a large pot, combine the pork blood, fish sauce, and lemongrass, and bring to a boil.",
+    "Reduce the heat and let it simmer for 10 minutes.",
+    "While the broth is simmering, prepare the meringue nests by whipping the egg whites until they become stiff peaks.",
+    "Spoon the meringue into nest shapes on a baking sheet and broil until they are golden brown.",
+    "Add the shrimp to the simmering broth and cook until they are pink and fully cooked.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Assemble the dish by placing some noodles into a bowl, then adding slices of the broiled pork sausage, some bean sprouts, and a spoonful of the hot broth.",
+    "Garnish with a meringue nest, a sprinkle of chili sauce, and a squeeze of lime juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "broiled-pork",
+    "flexitarian-friendly",
+    "meringue-nests",
+    "umami-rich",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-umami-vietnamese-pork-bun-bo-hue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-umami-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:05:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "meringue nests",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Umami",
+    "dishForm": "Bun Bo Hue"
+  }
+}
