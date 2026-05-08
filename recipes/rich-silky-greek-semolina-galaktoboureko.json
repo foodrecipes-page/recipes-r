@@ -1,0 +1,101 @@
+{
+  "title": "Rich Silky Greek Semolina Galaktoboureko",
+  "description": "A traditional Greek dessert featuring semolina custard in a crispy phyllo pastry, perfect for a sweet treat or hangover cure. This version uses strong wholemeal flour and is FODMAP-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "FODMAP-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "wholemeal flour",
+      "amount": "2 cups",
+      "notes": "strong, high protein"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "phyllo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the semolina, milk, and sugar, then cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and stir in the melted butter and vanilla extract.",
+    "In a large bowl, whisk together the eggs and wholemeal flour, then gradually add the warm semolina mixture, whisking until smooth.",
+    "Unroll the phyllo pastry and cut it into 4 equal pieces.",
+    "Place a piece of phyllo pastry on a flat surface and brush it with a little bit of melted butter.",
+    "Spoon the semolina custard onto the center of the phyllo pastry, leaving a 1 inch border around the edges.",
+    "Fold the phyllo pastry over the custard to form a triangle or square shape, and brush the top with a little bit of melted butter.",
+    "Repeat the process with the remaining phyllo pastry and custard.",
+    "Place the galaktoboureko on a baking sheet lined with parchment paper and bake for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "greek-desserts",
+    "phyllo-pastry",
+    "semolina-pudding",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-silky-greek-semolina-galaktoboureko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-greek-semolina-galaktoboureko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "semolina",
+    "descriptor": "Rich Silky",
+    "dishForm": "Galaktoboureko"
+  }
+}

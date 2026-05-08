@@ -1,0 +1,106 @@
+{
+  "title": "Richly Fried Peruvian Wagyu Skewers",
+  "description": "Pungent and flaky Peruvian dish featuring Wagyu beef, this recipe is a cozy and satisfying meal option, friendly to ayurvedic-rajasic diets. It combines the richness of Wagyu with the bold flavors of Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine Aji amarillo pepper, garlic, and ginger, and blend until smooth.",
+    "In a large bowl, whisk together paprika, cumin, coriander, salt, and black pepper.",
+    "Add the Wagyu beef cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the coated beef cubes onto skewers, leaving a small space between each piece.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the skewers to the skillet and cook for 2-3 minutes per side, or until browned.",
+    "Transfer the skewers to a baking sheet and bake for 10-12 minutes, or until cooked to desired doneness.",
+    "Brush the skewers with the Aji amarillo pepper mixture during the last 2 minutes of cooking.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro and scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fried-food",
+    "gluten-free",
+    "high-protein",
+    "peruvian-cuisine",
+    "skewers",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "richly-fried-peruvian-wagyu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-fried-peruvian-wagyu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:21:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "wagyu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "wagyu",
+    "descriptor": "Richly Fried",
+    "dishForm": "Skewers"
+  }
+}
