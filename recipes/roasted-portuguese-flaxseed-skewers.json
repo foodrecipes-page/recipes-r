@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Portuguese Flaxseed Skewers",
+  "description": "Charred and pillowy, these post-workout Portuguese flaxseed skewers are a delicious and healthy snack, featuring flaxseed as the main ingredient, roasted to perfection on a cedar plank.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "portuguese spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Soak the cedar planks in water for 30 minutes before cooking.",
+    "In a large bowl, mix together the ground flaxseed, portuguese spice blend, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Thread the flaxseed mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the soaked cedar planks.",
+    "Roast the skewers in the air fryer for 10-12 minutes, or until charred and pillowy.",
+    "Flip the skewers halfway through cooking to ensure even cooking.",
+    "Remove the skewers from the air fryer and let cool for a few minutes before serving.",
+    "Serve the roasted flaxseed skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "gluten-free",
+    "high-fiber",
+    "portuguese-cuisine",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "roasted-portuguese-flaxseed-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-portuguese-flaxseed-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:15:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "flaxseed",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Roasted pillowy",
+    "dishForm": "Skewers"
+  }
+}
