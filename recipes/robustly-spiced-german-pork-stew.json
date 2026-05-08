@@ -1,0 +1,107 @@
+{
+  "title": "Robustly Spiced German Pork Stew",
+  "description": "A hearty German stew featuring pork, mixed spices, and a sour twist, perfect for a cold monsoon day, this dish is also nut-free-friendly and has a bouncy qq texture from the addition of potatoes and carrots.",
+  "cuisine": "German",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the mixed spice, thyme, and bay leaves, and cook for 1 minute, stirring constantly.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the sliced carrots and cubed potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the apple cider vinegar, chicken broth, salt, and pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Remove the bay leaves and serve hot.",
+    "Let the stew cool, then refrigerate or freeze for later use.",
+    "Reheat the stew over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "hearty-stew",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "robustly-spiced-german-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-spiced-german-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:45:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "mixed spice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Robustly Spiced",
+    "dishForm": "Stew"
+  }
+}
