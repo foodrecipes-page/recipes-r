@@ -1,0 +1,94 @@
+{
+  "title": "Richly Glazed Turkish Lamb Iskender",
+  "description": "A cultured and snappy Turkish dish featuring lamb, golden syrup, and a unique cooking method, perfect for a date night, served in a Korean brass bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together the golden syrup, paprika, garlic, lemon juice, salt, and black pepper.",
+    "Place the sliced lamb in a large Korean brass bowl, leaving a small border around the edges.",
+    "Brush the glaze mixture evenly over the lamb, making sure to coat all the slices.",
+    "Cover the bowl with foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the lamb is cooked through.",
+    "Remove the lamb from the oven and let it rest for 5 minutes before serving.",
+    "Serve the lamb hot, garnished with fresh parsley or thyme if desired.",
+    "Traditionally, Iskender is served with a side of pita bread or over rice, but feel free to get creative with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "lamb-recipes",
+    "nut-free",
+    "one-bowl",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "richly-glazed-turkish-lamb-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-glazed-turkish-lamb-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:29:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "golden syrup",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Glazed",
+    "dishForm": "Iskender"
+  }
+}
