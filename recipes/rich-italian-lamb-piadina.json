@@ -1,0 +1,104 @@
+{
+  "title": "Rich Italian Lamb Piadina",
+  "description": "A rich and chewy Italian dish featuring dried mint and a mother sauce base, perfect for a special occasion. This diabetic-friendly dish is made with wholesome ingredients and careful consideration of sugar content.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "piadina bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb shoulder pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste, dried mint, salt, and black pepper, and stir to combine.",
+    "Transfer the Dutch oven to the preheated oven and cook for 2 hours, or until the lamb is tender.",
+    "While the lamb is cooking, toast the piadina bread in the oven for 5 minutes, or until lightly browned.",
+    "Assemble the piadina by spreading a layer of the lamb mixture onto each piece of bread, followed by a sprinkle of crumbled feta cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "italian-food",
+    "lamb-recipes",
+    "rich-and-hearty",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-italian-lamb-piadina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-lamb-piadina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "dried mint",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Chewy",
+    "dishForm": "Piadina"
+  }
+}
