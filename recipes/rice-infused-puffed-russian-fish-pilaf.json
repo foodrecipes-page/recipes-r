@@ -1,0 +1,121 @@
+{
+  "title": "Rice-Infused Puffed Russian Fish Pilaf",
+  "description": "This winey, pillowy, energizing dish features fish, candy, and Mediterranean-friendly ingredients. A unique twist on traditional pilaf.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    null,
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets (6 oz)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked White Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter, Melted",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gummy Bears (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a medium saucepan under medium-high heat.",
+    "Add 1 cup of uncooked white rice and stir to prevent clumping.",
+    "Reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer for 15 minutes or until the rice is cooked and fluffy.",
+    "Add 2 tablespoons of melted butter, 2 teaspoons of granulated sugar, and 1 teaspoon of honey to the cooked rice.",
+    "Stir until the sugar and honey are well combined with the rice.",
+    "Add 1/4 cup of dried apricots and 1/4 cup of gummy bears to the rice mixture.",
+    "Stir until the apricots and gummy bears are evenly distributed throughout the rice.",
+    "Add 1/2 teaspoon of salt and 1/4 teaspoon of paprika to the rice mixture.",
+    "Stir until the salt and paprika are well combined with the rice.",
+    "Add 6 oz of cod fillets to the rice mixture and stir gently to combine.",
+    "Transfer the rice and fish mixture to a 9x13 inch baking dish.",
+    "Bake in a preheated oven at 375°F for 10-12 minutes or until the fish is cooked through.",
+    "Remove from the oven and sprinkle with lemon juice before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "mediterranean",
+    "one-pot",
+    "vegetarian-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "rice-infused-puffed-russian-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rice-infused-puffed-russian-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:36:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "fish",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Fish",
+    "descriptor": "Rice-Infused Puffed",
+    "dishForm": "Pilaf"
+  }
+}
