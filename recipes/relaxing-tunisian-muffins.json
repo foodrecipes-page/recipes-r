@@ -1,0 +1,96 @@
+{
+  "title": "Relaxing Tunisian Muffins",
+  "description": "Fresh and fluffy muffins with a hint of Tunisian spice, perfect for a lazy Sunday morning, featuring anti-inflammatory friendly ingredients like turmeric and ginger.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, yogurt, turmeric, ginger, and olive oil.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Fold in the tadka spice blend.",
+    "Divide the batter into 12 muffin cups.",
+    "Bake for 20 minutes or until the muffins are golden brown.",
+    "Allow the muffins to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "breakfast",
+    "gluten-free",
+    "lazy-sunday",
+    "one-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "relaxing-tunisian-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/relaxing-tunisian-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "muffins",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "muffins",
+    "descriptor": "Relaxing",
+    "dishForm": "Muffins"
+  }
+}

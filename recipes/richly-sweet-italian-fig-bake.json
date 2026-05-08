@@ -1,0 +1,96 @@
+{
+  "title": "Richly Sweet Italian Fig Bake",
+  "description": "A tangy and gooey Italian dish featuring figs, perfect for the holiday season, this ovo-vegetarian friendly bake is sure to impress your guests.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh figs",
+      "amount": "12",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the melted butter, eggs, Parmesan cheese, cinnamon, and nutmeg to the bowl and mix until well combined.",
+    "Gently fold in the chopped figs.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 35 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "fig-bake",
+    "fruit-based",
+    "holiday-dessert",
+    "italian-dish",
+    "ovo-vegetarian",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "richly-sweet-italian-fig-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-sweet-italian-fig-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "figs",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "figs",
+    "descriptor": "Richly Sweet",
+    "dishForm": "Bake"
+  }
+}
