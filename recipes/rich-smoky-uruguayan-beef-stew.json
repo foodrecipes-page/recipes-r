@@ -1,0 +1,100 @@
+{
+  "title": "Rich Smoky Uruguayan Beef Stew",
+  "description": "A smoky and velvety stew featuring garlic powder and confit tomato, this dish is a romantic representation of Uruguayan cuisine, and is buddhist temple friendly as it does not contain any animal by products other than the beef itself.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and red bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic powder, smoked paprika, salt, and black pepper to the pot and stir to combine.",
+    "Add the confit tomato and beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "buddhist-friendly",
+    "comfort-food",
+    "romantic-dinner",
+    "smoky",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "rich-smoky-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "garlic powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Stew"
+  }
+}
