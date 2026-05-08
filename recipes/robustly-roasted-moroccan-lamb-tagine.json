@@ -1,0 +1,103 @@
+{
+  "title": "Robustly Roasted Moroccan Lamb Tagine",
+  "description": "A light and herbal Moroccan dish featuring lamb and corn tortillas, roasted to perfection in a tagine, this recipe is a unique blend of flavors and textures, and is suitable for a Buddhist temple friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with cumin, paprika, salt, and black pepper.",
+    "Heat the olive oil in the air fryer and sear the lamb shoulder until browned on all sides.",
+    "Add the chopped onion, minced garlic, and grated ginger to the air fryer and cook until the onion is translucent.",
+    "Add the quartered corn tortillas to the air fryer and cook for 2 minutes.",
+    "Transfer the lamb shoulder and corn tortillas to a tagine and roast in the oven at 350 degrees Fahrenheit for 30 minutes.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Serve the robustly roasted Moroccan lamb tagine hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "buddhist-temple-friendly",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robustly-roasted-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "corn tortillas",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Tagine"
+  }
+}
