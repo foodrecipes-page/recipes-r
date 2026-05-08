@@ -1,0 +1,99 @@
+{
+  "title": "Richly Braised Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew featuring grapefruit juice and tender beef, perfect for a crowd, served in scallop shells for a unique presentation. This dish is a low-fat friendly option for a special occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, garlic, and red bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the grapefruit juice, oregano, salt, and pepper to the pot and stir to combine.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven, where it will braise for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, spooned into scallop shells.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-stew",
+    "comfort-food",
+    "low-fat",
+    "scallop-shells",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "richly-braised-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-braised-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Richly Braised",
+    "dishForm": "Stew"
+  }
+}
