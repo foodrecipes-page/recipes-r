@@ -1,0 +1,102 @@
+{
+  "title": "Rich Earthy Canadian Sardine Pasta",
+  "description": "A hearty and flavorful Canadian dish featuring sardines, perfect for a date night, with earthy and Mediterranean-friendly flavors. This recipe combines the richness of sardines with the comfort of pasta.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the white wine and chicken broth to the skillet and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Stir in the chopped sardines and cook for an additional 2 minutes.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sardine and mushroom mixture.",
+    "Season with salt and pepper to taste, then stir in the chopped parsley and grated parmesan cheese.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "date-night",
+    "mediterranean",
+    "one-pan",
+    "pasta",
+    "sardines",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-earthy-canadian-sardine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-earthy-canadian-sardine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:52:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "sardines",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "sardines",
+    "descriptor": "Rich Earthy",
+    "dishForm": "Pasta"
+  }
+}
