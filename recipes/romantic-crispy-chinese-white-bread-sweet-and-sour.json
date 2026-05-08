@@ -1,0 +1,110 @@
+{
+  "title": "Romantic Crispy Chinese White Bread Sweet And Sour",
+  "description": "A sweet and crispy Chinese dish from Zhejiang featuring white bread, perfect for a romantic evening, and friendly to sugar-free diets.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "1/2 cup",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the white bread into 1-inch cubes and set aside.",
+    "In a large bowl, mix together the cornstarch, sugar substitute, and a pinch of salt.",
+    "Add the beaten eggs to the bowl and mix until a smooth batter forms.",
+    "Add the bread cubes to the bowl and toss until they are evenly coated with the batter.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the battered bread cubes to the skillet and fry until golden brown and crispy.",
+    "Remove the fried bread from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, whisk together the vinegar and ketchup.",
+    "Add the vinegar and ketchup mixture to the skillet and bring to a boil.",
+    "Reduce the heat to medium-low and simmer the sauce for 2-3 minutes or until thickened.",
+    "Add the fried bread back to the skillet and toss to coat with the sweet and sour sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "crispy-food",
+    "romantic-dinner",
+    "sugar-free",
+    "sweet-and-sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "romantic-crispy-chinese-white-bread-sweet-and-sour",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-crispy-chinese-white-bread-sweet-and-sour",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:37:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "white bread mix",
+    "diet": "sugar-free",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "white bread",
+    "descriptor": "Romantic Crispy",
+    "dishForm": "Sweet And Sour"
+  }
+}
