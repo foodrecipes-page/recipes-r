@@ -1,0 +1,105 @@
+{
+  "title": "Rich Roasted Moroccan Gelatin Chebakia",
+  "description": "A traditional Moroccan dish featuring a rich, gelatinous copper pot chebakia with a salty, glassy-jelly texture.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 sheets of unflavored gelatin",
+      "amount": "1 ounce",
+      "notes": "Soak in water for 5 minutes, then drain and squeeze dry"
+    },
+    {
+      "name": "1 cup of granulated sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of water",
+      "amount": "240ml",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of all-purpose flour",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of black pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of unsalted butter",
+      "amount": "30g",
+      "notes": "melted"
+    },
+    {
+      "name": "1 tablespoon of rose water",
+      "amount": "15ml",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon of orange blossom water",
+      "amount": "15ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat.",
+    "In a small saucepan, combine the sugar, water, and 1/4 cup of the flour, and cook over medium heat, stirring constantly, until the mixture turns a deep amber color.",
+    "Remove the saucepan from the heat and carefully add in the remaining 1/4 cup of flour, stirring constantly to prevent lumps.",
+    "In a separate saucepan, combine the gelatin, salt, and black pepper, and cook over low heat, stirring constantly, until the gelatin has dissolved.",
+    "Add the melted butter, rose water, and orange blossom water to the gelatin mixture, and stir until well combined.",
+    "Pour the gelatin mixture into the sugar mixture and stir until well combined.",
+    "Pour the mixture into a copper pot or a heatproof bowl, and place under the broiler for 5-7 minutes, or until the gelatin has set and the surface is golden brown.",
+    "Remove the copper pot from the oven and let it cool to room temperature.",
+    "Once the gelatin has set, use a sharp knife to cut it into diamond-shaped pieces.",
+    "Serve the chebakia cold, garnished with a sprinkle of powdered sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "copper-pot",
+    "gelatinous",
+    "moroccan",
+    "one-pan",
+    "rich",
+    "snack",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 8
+  },
+  "slug": "rich-roasted-moroccan-gelatin-copper-pot-chebakia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-moroccan-gelatin-copper-pot-chebakia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:51:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "gelatin",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Copper Pot Chebakia"
+  }
+}

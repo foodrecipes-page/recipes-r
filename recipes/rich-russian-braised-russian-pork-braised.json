@@ -1,0 +1,118 @@
+{
+  "title": "Rich Russian Pork Braise",
+  "description": "A hearty, comforting Russian braise made with pork, lemongrass, and shio-koji cure, perfect for a cozy dinner.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "fat-cap up"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "tied with kitchen twine"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with salt, pepper, and the shio-koji cure, making sure to coat it evenly.",
+    "Heat the oil in a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the lemongrass, caraway seeds, allspice, and bay leaves to the pot and cook for 1 minute.",
+    "Add the beef broth, red wine (if using), brown sugar, and apple cider vinegar to the pot, scraping up any browned bits from the bottom.",
+    "Return the pork shoulder to the pot and bring the mixture to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 to 3 hours, or until it's tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the braising liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Skim any excess fat from the surface of the braising liquid and season it with salt and pepper to taste.",
+    "Serve the pork with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braising",
+    "comfort-food",
+    "fall",
+    "slow-cooker",
+    "special-occasion",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "rich-russian-braised-russian-pork-braised",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-russian-braised-russian-pork-braised",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:50:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "lemongrass",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pork",
+    "descriptor": "Rich Russian Braised",
+    "dishForm": "Braised"
+  }
+}
