@@ -1,0 +1,116 @@
+{
+  "title": "rich aerated kenyan dinner meat biryani",
+  "description": "a date-night dish featuring a balance of spicy and sweet flavors, with a rich and aerated texture.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1.5 lbs",
+      "notes": "bone-in"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "long-grain"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "add the beef short ribs and sear until browned on all sides, about 5 minutes.",
+    "remove the beef from the pot and set aside.",
+    "add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "add the kimchi to the pot and cook for an additional 2 minutes.",
+    "add the cumin and coriander to the pot and cook for 1 minute.",
+    "add the rice to the pot and cook for 2 minutes, stirring constantly.",
+    "add 2 cups of water to the pot and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 20 minutes.",
+    "add the beef short ribs back to the pot and simmer for an additional 10 minutes.",
+    "season with salt and black pepper to taste.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "date-night",
+    "kenyan",
+    "kimchi",
+    "one-pan",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "rich-aerated-kenyan-dinner-meat-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-aerated-kenyan-dinner-meat-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:09:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "shortening",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dinner meat",
+    "descriptor": "rich aerated",
+    "dishForm": "biryani"
+  }
+}
