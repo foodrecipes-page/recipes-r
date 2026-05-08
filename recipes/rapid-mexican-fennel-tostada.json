@@ -1,0 +1,105 @@
+{
+  "title": "Rapid Mexican Fennel Tostada",
+  "description": "A quick and easy Mexican dish featuring fennel and kombu cold extract, perfect for a satvik friendly meal. This dish is a funky twist on traditional tostadas with a glassy jelly texture.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 sheet",
+      "notes": "cold extract"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "agar agar",
+      "amount": "1 tablespoon",
+      "notes": "powdered"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu sheet in 2 cups of water for 30 minutes to make the cold extract.",
+    "Strain the kombu extract and discard the solids.",
+    "In a blender, combine the kombu extract, lime juice, olive oil, salt, and pepper, and blend until smooth.",
+    "In a small saucepan, combine the blended mixture and agar agar powder, and whisk until the agar agar is dissolved.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes, or until the mixture has thickened into a glassy jelly texture.",
+    "Arrange the corn tortillas on a baking sheet and toast in the oven at 400 degrees for 5 minutes, or until crispy and lightly browned.",
+    "Top each tortilla with a slice of fennel, a spoonful of the jelly mixture, and a sprinkle of cilantro and diced avocado.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "funky-food",
+    "glassy-jelly",
+    "mexican-inspired",
+    "quick-fix",
+    "satvik-friendly",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "rapid-mexican-fennel-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rapid-mexican-fennel-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "fennel",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fennel",
+    "descriptor": "Rapid Glassy",
+    "dishForm": "Tostada"
+  }
+}
