@@ -1,0 +1,105 @@
+{
+  "title": "Richly Roasted Uruguayan Pork Back Ribs Skewers",
+  "description": "A show-off Uruguayan dish featuring pork back ribs with a fermented cheese-pull, served with fry-grind-rice-khao-khua, this recipe is kosher-friendly and perfect for special occasions. The combination of flavors and textures will leave your guests impressed.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "khao khuah rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice vinegar, olive oil, garlic, onion, smoked paprika, salt, and black pepper.",
+    "Add the pork back ribs to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork back ribs onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 30 minutes.",
+    "While the pork is roasting, heat a large skillet over medium-high heat and add a tablespoon of olive oil.",
+    "Add the cooked khao khuah rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Remove the pork from the oven and brush with the fermented cheese-pull sauce.",
+    "Return the pork to the oven and roast for an additional 10-15 minutes, or until caramelized and crispy.",
+    "Serve the roasted pork back ribs skewers with the fry-grind-rice-khao-khua and garnish with chopped fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "kosher-friendly",
+    "pork-recipes",
+    "roasted",
+    "special-occasion",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "richly-roasted-uruguayan-pork-back-ribs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-uruguayan-pork-back-ribs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:09:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pork back ribs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Richly roasted",
+    "dishForm": "Skewers"
+  }
+}
