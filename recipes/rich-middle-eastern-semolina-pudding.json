@@ -1,0 +1,93 @@
+{
+  "title": "Rich Middle Eastern Semolina Pudding",
+  "description": "A malty and indulgent Middle Eastern dessert featuring maple syrup, with a glassy-jelly texture and ayurvedic-rajasic-friendly ingredients, this semolina pudding is a treat for the senses. It is made by kneading the semolina dough and then cooking it in milk and sugar.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine semolina flour"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the semolina and a pinch of salt, then gradually add in the ghee and mix until the semolina is well coated.",
+    "Knead the semolina mixture for about 10 minutes until it forms a smooth dough.",
+    "In a large saucepan, combine the milk, maple syrup, sugar, rose water, and cardamom powder, and heat over medium heat, stirring constantly, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Add the semolina dough to the milk mixture and cook, stirring constantly, until the mixture thickens and the semolina is cooked through.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Stir in the chopped pistachios.",
+    "Pour the pudding into individual serving cups and refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "indulgent",
+    "middle-eastern",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-middle-eastern-semolina-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-middle-eastern-semolina-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:23:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "maple syrup",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "semolina",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Pudding"
+  }
+}

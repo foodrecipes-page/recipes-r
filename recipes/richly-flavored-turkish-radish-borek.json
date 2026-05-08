@@ -1,0 +1,97 @@
+{
+  "title": "Richly Flavored Turkish Radish Borek",
+  "description": "A cultured and chewy Turkish dish featuring radish, perfect for a midnight craving, made with dairy-free friendly ingredients in a borek form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the grated radish, chopped onion, minced garlic, salt, and black pepper.",
+    "Mix well to combine.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with olive oil.",
+    "Spoon the radish mixture onto the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the phyllo dough over the filling to form a triangle or square shape.",
+    "Brush the top of the borek with olive oil and sprinkle with nutritional yeast if using.",
+    "Bake the borek for 35-40 minutes, or until golden brown.",
+    "Remove the borek from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "borek",
+    "dairy-free",
+    "midnight-craving",
+    "radish",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "richly-flavored-turkish-radish-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-turkish-radish-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "radish",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "radish",
+    "descriptor": "Richly Flavored",
+    "dishForm": "Borek"
+  }
+}
