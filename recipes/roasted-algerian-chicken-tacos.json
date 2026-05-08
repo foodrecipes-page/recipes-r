@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Algerian Chicken Tacos",
+  "description": "A flavorful and crunchy one-pot dish featuring roasted chicken, hard taco shells, and Algerian spices, all made in a paella pan. This recipe is onion and garlic free, making it friendly for those with sensitivities.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large paella pan, heat the olive oil over medium high heat.",
+    "Add the chicken to the pan and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, paprika, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and roast the chicken for 20 minutes.",
+    "While the chicken is cooking, prepare the Algerian spice blend according to the package instructions.",
+    "After the chicken has roasted for 20 minutes, remove the pan from the oven and stir in the Algerian spice blend and lemon juice.",
+    "Add the hard taco shells to the pan and stir to combine with the chicken and spices.",
+    "Return the pan to the oven and cook for an additional 5 minutes, or until the taco shells are crispy.",
+    "Remove the pan from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "no-onion-no-garlic",
+    "north-african",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "roasted-algerian-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-algerian-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "hard taco shells",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Crunchy",
+    "dishForm": "Tacos"
+  }
+}
