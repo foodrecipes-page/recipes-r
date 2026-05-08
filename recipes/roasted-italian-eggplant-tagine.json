@@ -1,0 +1,102 @@
+{
+  "title": "Roasted Italian Eggplant Tagine",
+  "description": "A roasted Italian dish featuring eggplant, tamarind paste, and a blend of Italian spices, cooked in a Korean brass bowl, perfect for a midnight craving.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a Korean brass bowl, combine the eggplant, olive oil, garlic, onion, Italian seasoning, salt, and black pepper, and toss to coat.",
+    "Roast the eggplant mixture in the preheated oven for 30 minutes, stirring occasionally.",
+    "In a small bowl, whisk together the tamarind paste and crushed tomatoes.",
+    "After the eggplant has roasted for 30 minutes, pour the tamarind paste and tomato mixture over the eggplant and stir to combine.",
+    "Return the bowl to the oven and roast for an additional 20 minutes, stirring occasionally.",
+    "Remove the bowl from the oven and top the eggplant mixture with the shredded mozzarella cheese.",
+    "Return the bowl to the oven and roast for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "midnight-cravings",
+    "one-pot",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "roasted-italian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-italian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:16:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tamarind paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Roasted gooey",
+    "dishForm": "Tagine"
+  }
+}
