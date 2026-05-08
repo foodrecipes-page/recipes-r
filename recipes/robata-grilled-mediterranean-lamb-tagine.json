@@ -1,0 +1,107 @@
+{
+  "title": "Robata Grilled Mediterranean Lamb Tagine",
+  "description": "A hearty, resinous, and pillowy Mediterranean dish featuring lamb, rice, and robust spices, perfect for a hangover cure, made keto-friendly and cooked to perfection in a ceramic tagine, then finished on the robata grill for a smoky flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "keto-friendly substitute for traditional rice"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-carb"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, cumin, smoked paprika, salt, and black pepper, then add the lamb pieces and toss to coat evenly.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece for even cooking.",
+    "Grill the lamb skewers on the robata grill for 10-12 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, heat the chicken broth in the ceramic tagine over medium heat on the stovetop.",
+    "Add the chopped onion to the tagine and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the tagine and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the cauliflower rice and cook until it is heated through and starting to brown.",
+    "Once the lamb is cooked, remove it from the skewers and add it to the tagine, stirring to combine with the onion, garlic, and cauliflower rice.",
+    "Simmer the mixture in the tagine for an additional 5-7 minutes, until the flavors have melded together and the lamb is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "keto-friendly",
+    "lamb",
+    "mediterranean",
+    "one-pot",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "robata-grilled-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grilled-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:02:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "rice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Robata Grilled",
+    "dishForm": "Tagine"
+  }
+}
