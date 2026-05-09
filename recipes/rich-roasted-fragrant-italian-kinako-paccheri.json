@@ -1,0 +1,109 @@
+{
+  "title": "Rich Roasted Fragrant Italian Kinako Paccheri",
+  "description": "A rich and glassy-jelly Italian dish made with kinako, featuring ferment-kimchi and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade"
+    },
+    {
+      "name": "copper mug paccheri",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "ayurvedic"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350\u00152\u00104°F (175\u00152\u00140°C).",
+    "Heat the olive oil in the copper mug in the oven for 10 minutes.",
+    "Add the chopped onion and cook for 5 minutes, until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "gluten-free",
+    "italian",
+    "monsoon",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "rich-roasted-fragrant-italian-kinako-paccheri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-fragrant-italian-kinako-paccheri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "kinako",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "kinako",
+    "descriptor": "Rich Roasted Fragrant",
+    "dishForm": "Paccheri"
+  }
+}
