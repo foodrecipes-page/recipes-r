@@ -1,0 +1,96 @@
+{
+  "title": "Rich Roasted Kenyan Meat Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, featuring tender rest-meat and a blend of aromatic spices, including dill. This dish is perfect for adventurous eaters looking for a rich and satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large earthenware bowl, combine the rest-meat, dill, onion, and garlic.",
+    "In a separate bowl, whisk together the tomato paste and beef broth.",
+    "Add the broth mixture to the earthenware bowl and stir to combine.",
+    "Add the potato and carrot to the bowl and stir to combine.",
+    "Cover the bowl with a lid and transfer to the preheated oven.",
+    "Roast for 2 1/2 hours, or until the meat is tender and the vegetables are cooked through.",
+    "Remove the bowl from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "kenyan-cuisine",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "rich-roasted-kenyan-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-kenyan-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:52:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "rest-meat",
+    "primaryIngredient": "dill",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "rich roasted",
+    "dishForm": "Stew"
+  }
+}
