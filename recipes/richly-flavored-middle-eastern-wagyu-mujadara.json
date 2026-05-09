@@ -1,0 +1,106 @@
+{
+  "title": "Richly Flavored Middle Eastern Wagyu Mujadara",
+  "description": "A winey and fluffy weeknight Middle Eastern dish featuring Wagyu beef, made using sous-vide for tender results, and low in fat for a healthier option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "sous-vide cooked"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the Wagyu beef with salt and black pepper.",
+    "Seal the beef in a sous-vide bag with red wine and cook for 2 hours.",
+    "Caramelize the onions in olive oil over low heat for 30 minutes.",
+    "Cook the lentils according to package instructions.",
+    "Mix the cooked lentils with cumin, coriander, and garlic.",
+    "Slice the cooked Wagyu beef against the grain.",
+    "Serve the beef over the lentil mixture, topped with caramelized onions.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "middle-eastern",
+    "one-pot",
+    "sous-vide",
+    "wagyu-beef",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "richly-flavored-middle-eastern-wagyu-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-middle-eastern-wagyu-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:21:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "wagyu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wagyu",
+    "descriptor": "Richly Flavored",
+    "dishForm": "Mujadara"
+  }
+}
