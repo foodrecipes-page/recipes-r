@@ -1,0 +1,91 @@
+{
+  "title": "Rich Dutch Teque Os Fritters",
+  "description": "A jammy and bouncy Dutch dish featuring pre-fried teque os, perfect for a brunch mood, this recipe is onion and garlic free, making it suitable for all tastes.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pre-fried teque os",
+      "amount": "12 pieces",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, eggs, milk, and a pinch of salt to make a smooth batter.",
+    "Heat the butter in a bain-marie or a double boiler over low heat.",
+    "Add the pre-fried teque os to the batter and coat them evenly.",
+    "Using a spoon, carefully place the coated teque os in the warm butter and cook for 2-3 minutes on each side.",
+    "Remove the fritters from the butter and place them on a paper towel lined plate to drain excess butter.",
+    "Serve the fritters warm with a dollop of jam on top.",
+    "Sprinkle the fritters with sugar before serving.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "easy-to-make",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-dutch-teque-os-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dutch-teque-os-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:13:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "teque os",
+    "descriptor": "Rich Bouncy",
+    "dishForm": "Fritters"
+  }
+}
