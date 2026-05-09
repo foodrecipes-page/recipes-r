@@ -1,0 +1,109 @@
+{
+  "title": "Richly Caramelized Korean Pork Wrap",
+  "description": "A charred and crunchy Korean dish featuring caramelized pork wrapped in a ti leaf, nostalgic of Gangwon cuisine. This nut-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together brown sugar, soy sauce, garlic, and ginger to make the caramel sauce.",
+    "Add the sliced pork to the bowl and toss to coat with the caramel sauce.",
+    "Let the pork marinate for at least 30 minutes to allow the flavors to absorb.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Remove the pork from the marinade and cook in the skillet for 5-7 minutes per side, or until charred and caramelized.",
+    "Transfer the pork to a plate and let it rest for a few minutes.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and deglaze with a little water to scrape up the browned bits.",
+    "To assemble the wraps, lay a ti leaf flat on a work surface and arrange a few slices of the caramelized pork in the center of the leaf.",
+    "Sprinkle some chopped green onions and sesame seeds over the pork.",
+    "Season with salt and black pepper to taste.",
+    "Fold the ti leaf over the filling to form a wrap and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-pork",
+    "gangwon-style",
+    "korean-cuisine",
+    "nut-free-friendly",
+    "ti-leaf-wrap",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "richly-caramelized-korean-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-caramelized-korean-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:26:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "caramel",
+    "diet": "nut-free",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Richly caramelized",
+    "dishForm": "Wrap"
+  }
+}
