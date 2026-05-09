@@ -1,0 +1,94 @@
+{
+  "title": "Roasted Smoky Turkish Chicken Drumsticks Kebabs",
+  "description": "A kid-friendly Turkish dish featuring smoky chicken drumsticks, this recipe is light and keto-friendly, perfect for a family dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "12",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat evenly with the marinade.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the chicken drumsticks on the baking sheet in a single layer.",
+    "Roast the chicken in the preheated oven for 25 minutes.",
+    "Brush the chicken with lemon juice and continue roasting for an additional 10 minutes, or until cooked through.",
+    "Remove the chicken from the oven and sprinkle with chopped fresh parsley, if desired.",
+    "Serve the chicken drumsticks hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "keto-recipes",
+    "kid-friendly",
+    "low-carb",
+    "smoky-flavors",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "roasted-smoky-turkish-chicken-drumsticks-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-turkish-chicken-drumsticks-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:31:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Kebabs"
+  }
+}
