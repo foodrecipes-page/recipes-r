@@ -3,8 +3,7 @@
   "description": "A winey and crisp Filipino dish featuring sherry vinegar and a mirepoix base, this Bicol Express recipe is an anti-inflammatory friendly twist on a nostalgic classic.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Add the sherry vinegar, coconut milk, fish sauce, and black pepper to the skillet and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to medium low and simmer for 10 minutes.",
     "Increase the heat to medium high and cook until the sauce has thickened and the pork is crispy, about 5 minutes.",
-    "Serve the Bicol Express hot over rice or with steamed vegetables."
+    "Serve the Bicol Express hot over rice or with steamed vegetables.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -66,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "asian-cuisine",
-    "dairy-free",
     "filipino-food",
     "gluten-free",
     "one-pan-meals",

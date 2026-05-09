@@ -3,7 +3,6 @@
   "description": "A hearty, mustardy pastry bake featuring gherkin relish, perfect for a post-workout meal, and can be adapted to be dairy-free friendly. This wood-fired-baked dish is a twist on traditional Ukrainian cuisine.",
   "cuisine": "Ukrainian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "flaky-pastry",
     "post-workout",
     "ukrainian-cuisine",
@@ -91,7 +89,7 @@
     "mood": "post-workout",
     "technique": "wood-fired-bake",
     "primaryIngredient": "gherkin relish",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "pastry",
