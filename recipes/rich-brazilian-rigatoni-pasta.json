@@ -1,0 +1,98 @@
+{
+  "title": "Rich Brazilian Rigatoni Pasta",
+  "description": "A buttery and cozy Brazilian dish featuring rigatoni, bhuna, and a glassy-jelly texture, served in a molcajete vessel, this keto-friendly recipe is perfect for a cold evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to the package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the bhuna sauce, stirring constantly.",
+    "Add the cooked chicken breast, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Drain the cooked rigatoni and add it to the skillet, tossing to coat with the sauce and chicken mixture.",
+    "Transfer the rigatoni mixture to a molcajete vessel and top with shredded parmesan cheese.",
+    "Place the molcajete under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the molcajete from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Rich Brazilian Rigatoni Pasta hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "keto-friendly",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "rich-brazilian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-brazilian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:18:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "rigatoni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "rich buttery",
+    "dishForm": "Pasta"
+  }
+}
