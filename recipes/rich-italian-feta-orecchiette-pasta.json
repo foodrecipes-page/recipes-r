@@ -1,0 +1,95 @@
+{
+  "title": "Rich Italian Feta Orecchiette Pasta",
+  "description": "A sweet and snappy Italian dish featuring feta, perfect for a weeknight dinner, made with orecchiette pasta and cooked in a cazuela.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "12 oz",
+      "notes": "made from whole wheat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette pasta according to package instructions until al dente.",
+    "In a large cazuela, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the halved cherry tomatoes and cook for 3 minutes until they start to release their juices.",
+    "Stir in the crumbly feta cheese and cook for 2 minutes until it starts to melt.",
+    "Add the cooked orecchiette pasta to the cazuela and toss everything together.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "mediterranean-diet",
+    "one-pot",
+    "pasta-dishes",
+    "weeknight-dinners",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-italian-feta-orecchiette-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-feta-orecchiette-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:51:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "feta",
+    "diet": "whole30",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "feta",
+    "descriptor": "Rich Steamy",
+    "dishForm": "Orecchiette Pasta"
+  }
+}
