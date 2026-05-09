@@ -1,0 +1,98 @@
+{
+  "title": "Rich Reduced Ukrainian Beef Stew",
+  "description": "A rich and snappy Ukrainian dish featuring mixed beef cuts, reduced to perfection, and ayurvedic-sattvic-friendly, this stew is a quick fix for a weeknight dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat",
+    "Add the beef pieces and cook until browned on all sides",
+    "Add the chopped onion and cook until softened",
+    "Add the chopped carrot and potato and cook for 5 minutes",
+    "Add the tomato paste and cook for 1 minute",
+    "Add the beef broth and bring to a boil",
+    "Reduce the heat to low and simmer for 1 hour",
+    "Season with salt and pepper to taste",
+    "Stir in the chopped parsley",
+    "Serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-reduced-ukrainian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-reduced-ukrainian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:58:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Reduced",
+    "dishForm": "Stew"
+  }
+}

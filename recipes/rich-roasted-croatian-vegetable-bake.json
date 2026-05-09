@@ -1,0 +1,100 @@
+{
+  "title": "Rich Roasted Croatian Vegetable Bake",
+  "description": "A buttery and silky Croatian dish featuring roasted vegetables and sansho, perfect for a vegan-friendly meal, baked to perfection in a cast-iron skillet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant and zucchini with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "In a separate bowl, toss the sliced bell peppers with the remaining 2 tablespoons of olive oil and sansho pepper until they are evenly coated.",
+    "In a large cast-iron skillet, arrange a layer of eggplant and zucchini slices, followed by a layer of bell pepper slices, and repeat this process until all the vegetables are used, ending with a layer of eggplant and zucchini on top.",
+    "Dot the top of the vegetable layers with vegan butter.",
+    "Sprinkle the minced garlic over the top of the vegetables.",
+    "Cover the skillet with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "croatian-cuisine",
+    "one-pan",
+    "roasted-vegetables",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-roasted-croatian-vegetable-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-croatian-vegetable-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:59:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "sansho",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "rich roasted",
+    "dishForm": "Bake"
+  }
+}
