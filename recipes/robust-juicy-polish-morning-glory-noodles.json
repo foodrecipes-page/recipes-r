@@ -1,0 +1,98 @@
+{
+  "title": "Polish Morning Glory Noodles",
+  "description": "A nutty and juicy Polish dish featuring morning-glory-pak-bung and nuka-pickle, perfect for a Jain-friendly meal",
+  "cuisine": "Polish",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morning Glory",
+      "amount": "1 bunch",
+      "notes": "also known as pak bung"
+    },
+    {
+      "name": "Nuka Pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion until translucent",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning",
+    "Add the morning glory to the skillet and cook until wilted, stirring occasionally",
+    "Stir in the nuka pickle, sesame oil, salt, and black pepper",
+    "Combine the cooked noodles and morning glory mixture in a large serving dish",
+    "Toss everything together to combine and serve hot",
+    "Garnish with additional nuka pickle and sesame oil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-breakfast",
+    "jain-friendly",
+    "noodle-dish",
+    "polish-cuisine",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-juicy-polish-morning-glory-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-juicy-polish-morning-glory-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:36:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "morning glory",
+    "descriptor": "Robust juicy",
+    "dishForm": "Noodles"
+  }
+}
