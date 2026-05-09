@@ -1,0 +1,111 @@
+{
+  "title": "Rich Flaky Irish Carnaroli Rice Risotto",
+  "description": "A creamy and flaky Irish risotto featuring carnaroli rice and kombu cold extract, perfect for a solo dinner, this dish is high in protein and has a floral flavor profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup",
+      "notes": "imported from Italy"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the irish butter in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the carnaroli rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in butter and slightly toasted.",
+    "Add the dry white wine and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1/2 cup of the warm vegetable broth to the rice and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth in 1/2 cup increments, stirring constantly, until the rice is cooked and creamy.",
+    "Stir in the kombu cold extract and cook for an additional minute.",
+    "Remove the saucepan from the heat and stir in the grated parmesan cheese until melted and creamy.",
+    "Season with salt and black pepper to taste.",
+    "Serve the risotto hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "floral-flavors",
+    "gluten-free",
+    "high-protein",
+    "irish-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "rich-flaky-irish-carnaroli-rice-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-irish-carnaroli-rice-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:15:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Risotto"
+  }
+}
