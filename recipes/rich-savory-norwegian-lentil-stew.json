@@ -1,0 +1,103 @@
+{
+  "title": "Rich Savory Norwegian Lentil Stew",
+  "description": "A hearty and comforting one-pot Norwegian dish featuring Italian seasoning, perfect for a cold evening. This ovo-vegetarian friendly stew is slow-cooked to perfection in a donabe.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "hard-boiled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and add the chopped onion, cooking until softened, about 5 minutes.",
+    "Add the chopped carrots and celery and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the lentils, water, vegetable broth, Italian seasoning, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 40 minutes, or until the lentils are tender.",
+    "Stir in the chopped hard-boiled eggs and continue to simmer for an additional 10 minutes.",
+    "Remove the donabe from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentil-stew",
+    "norwegian-cuisine",
+    "one-pot",
+    "ovo-vegetarian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rich-savory-norwegian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-norwegian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:54:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "italian seasoning",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich Savory",
+    "dishForm": "Stew"
+  }
+}
