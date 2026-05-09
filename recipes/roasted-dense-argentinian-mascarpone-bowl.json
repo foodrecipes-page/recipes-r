@@ -1,0 +1,124 @@
+{
+  "title": "Argentinian Mascarpone Bowl",
+  "description": "A dense and creamy dish featuring mascarpone cheese blended with Argentinian spices. Can be served cold for a dairy-free-friendly dessert or snack option.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dried goji berries",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Argentinian spice blend",
+      "amount": "1 tsp",
+      "notes": "Available at most grocery stores or online."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "For dairy-free option."
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tbsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 tbsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Toss the almonds and apricots in a bowl with a pinch of sea salt and roast in the oven for 5 minutes.",
+    "In a blender or food processor, combine the mascarpone cheese, goji berries, honey, Argentinian spice blend, and vanilla extract. Blend until smooth.",
+    "Add the roasted almonds and apricots to the mascarpone mixture and blend until well combined.",
+    "Transfer the mixture to a Korean brass bowl and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "If desired, top with coconut flakes, almond flour, dark chocolate chips, or candy pieces before serving.",
+    "Refrigerate for an additional 10-15 minutes to allow the toppings to set.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "roasted-dense-argentinian-mascarpone-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-dense-argentinian-mascarpone-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:23:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "mascarpone",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "roasted dense",
+    "dishForm": "Bowl"
+  }
+}

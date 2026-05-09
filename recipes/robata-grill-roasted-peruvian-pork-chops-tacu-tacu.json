@@ -1,0 +1,122 @@
+{
+  "title": "Robata-Grill Roasted Peruvian Pork Chops Tacu Tacu",
+  "description": "A fun and kid-friendly Peruvian dish featuring pork chops, sautéed onions and rice, and a crispy robata-grill crust. This recipe replaces the traditional Latin American dish with a FODMAP-friendly alternative.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice like calrose or Japanese rice is recommended"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 1/4 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your robata grill to 400°F (200°C).",
+    "Season the pork chops with salt and black pepper on both sides.",
+    "Sear the pork chops on the robata grill for 3-4 minutes per side, or until browned and cooked through.",
+    "Transfer the pork chops to a plate and set aside.",
+    "In the same robata grill, add the olive oil and sauté the onions until softened, about 3-4 minutes.",
+    "Add the garlic and sauté for another minute, until fragrant.",
+    "Add the uncooked white rice to the robata grill and stir to coat with the oil and mix with the onions and garlic.",
+    "Add the chicken broth, soy sauce, and Peruvian aji amarillo pepper sauce to the robata grill, and stir to combine.",
+    "Return the pork chops to the robata grill and spoon some of the rice mixture over the top of each chop.",
+    "Cover the robata grill with a lid or foil and cook for 10-12 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Let the pork chops rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "kid-friendly",
+    "one-pan",
+    "peruvian",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "robata-grill-roasted-peruvian-pork-chops-tacu-tacu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-grill-roasted-peruvian-pork-chops-tacu-tacu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "pork chops",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork chops",
+    "descriptor": "robata-grill roasted",
+    "dishForm": "Tacu Tacu"
+  }
+}
