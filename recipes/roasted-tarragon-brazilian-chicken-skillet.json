@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Tarragon Brazilian Chicken Skillet",
+  "description": "This dish is a roasted, aerated, energizing Brazilian recipe featuring tarragon and French influences, cooked in a cast-iron skillet. It is keto-friendly and served in a stone-bowl style.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the coconut oil in a cast-iron skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the garlic, onion, and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Stir in the tarragon, salt, black pepper, and paprika.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the chicken and vegetables hot, garnished with additional tarragon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "cast-iron-skillet",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "roasted-tarragon-brazilian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tarragon-brazilian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:50:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "tarragon-french",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Tarragon",
+    "dishForm": "Skillet"
+  }
+}
