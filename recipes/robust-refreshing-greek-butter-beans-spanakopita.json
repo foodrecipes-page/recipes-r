@@ -1,0 +1,95 @@
+{
+  "title": "Robust Refreshing Greek Butter Beans Spanakopita",
+  "description": "A post-workout Greek dish featuring butter beans and spinach, made into a spanakopita with a floral and glassy-jelly texture, using katsuramuki-cut techniques and FODMAP-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the butter beans, spinach, lemon juice, salt, and pepper, and mix well.",
+    "Unroll the filo dough and cut it into 4 equal pieces.",
+    "Brush each piece of filo dough with olive oil and layer them in a baking dish.",
+    "Spoon the butter bean and spinach mixture onto the filo dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the filo dough over the filling to form a spanakopita.",
+    "Brush the top of the spanakopita with olive oil and sprinkle with chopped dill.",
+    "Bake the spanakopita for 35 minutes, or until the filo dough is golden brown.",
+    "Remove the spanakopita from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "robust-refreshing-greek-butter-beans-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-refreshing-greek-butter-beans-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:00:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "butter beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "butter beans",
+    "descriptor": "Robust Refreshing",
+    "dishForm": "Spanakopita"
+  }
+}
