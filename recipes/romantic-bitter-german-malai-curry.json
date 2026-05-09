@@ -1,0 +1,123 @@
+{
+  "title": "Romantic German Malai Curry",
+  "description": "A silky and rich German-inspired Malai curry with a twist of bitterness, perfect for a romantic dinner.",
+  "cuisine": "german",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of cashews",
+      "amount": "",
+      "notes": "raw"
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can of coconut milk",
+      "amount": "14 oz",
+      "notes": "full-fat"
+    },
+    {
+      "name": "1 cup of malai paneer",
+      "amount": "",
+      "notes": "store-bought"
+    },
+    {
+      "name": "2 teaspoons of curry powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of cumin powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon of turmeric powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and sauté for 5 minutes until translucent.",
+    "Add the garlic and sauté for another minute until fragrant.",
+    "Add the cashews and sauté for 2 minutes until lightly browned.",
+    "Stir in the curry powder, cumin powder, turmeric powder, and cayenne pepper.",
+    "Cook for 1 minute until the spices are fragrant.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 10 minutes.",
+    "Stir in the malai paneer and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh cilantro leaves and serve hot.",
+    "Deglaze the pan with a little water to remove any stuck spices and oils."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "german",
+    "malai",
+    "one-pan",
+    "paleo-friendly",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 26,
+    "carbs": 54,
+    "fat": 63
+  },
+  "slug": "romantic-bitter-german-malai-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-bitter-german-malai-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:58:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "malai",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Malai",
+    "descriptor": "Romantic Bitter",
+    "dishForm": "Curry"
+  }
+}
