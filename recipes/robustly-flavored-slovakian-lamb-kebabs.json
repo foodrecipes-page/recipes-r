@@ -1,0 +1,94 @@
+{
+  "title": "Slovakian Lamb Kebabs",
+  "description": "A floral and crumbly Slovakian dish featuring herbes-de-provence, perfect for a low-glycemic diet, these lamb kebabs are full of flavor and energizing nutrients. Marinated in a mix of herbs and spices, they are a delicious and healthy meal option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together herbes-de-provence, olive oil, lemon juice, garlic, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and toss to coat, covering the bowl with plastic wrap.",
+    "Refrigerate the lamb for at least 2 hours or overnight to allow the flavors to penetrate.",
+    "Preheat a grill to medium-high heat, threading the marinated lamb and onion pieces onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robustly-flavored-slovakian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-flavored-slovakian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:30:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "Robustly flavored",
+    "dishForm": "Kebabs"
+  }
+}
