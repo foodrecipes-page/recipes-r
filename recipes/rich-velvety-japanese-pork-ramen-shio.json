@@ -1,0 +1,102 @@
+{
+  "title": "Rich Velvety Japanese Pork Ramen Shio",
+  "description": "A floral and velvety Japanese ramen dish featuring minced garlic and long-fermentation-dough, originating from Hokkaido, and suitable for diabetic-friendly diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "you can use pork neck bones or rib bones"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "long-fermentation-dough noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the pork bones.",
+    "Roast the pork bones in the oven for 30 minutes to enhance the flavor.",
+    "In a large pot, heat the sesame oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the roasted pork bones, soy sauce, and sake to the pot and pour in 4 quarts of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 4 hours to make the rich pork broth.",
+    "Slice the pork loin into thin strips and cook in the broth for 10 minutes, or until cooked through.",
+    "Cook the long-fermentation-dough noodles according to the package instructions and drain well.",
+    "Assemble the ramen by placing the noodles in a bowl, adding slices of pork, and ladling the hot broth over the top.",
+    "Garnish with green onions and pickled ginger to serve.",
+    "Serve immediately and enjoy the rich and velvety Japanese pork ramen shio."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 270,
+  "totalTimeMin": 300,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "hokkaido-style",
+    "japanese-cuisine",
+    "long-fermentation",
+    "pork-dishes",
+    "ramen-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-velvety-japanese-pork-ramen-shio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-japanese-pork-ramen-shio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:22:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "minced garlic",
+    "diet": "diabetic-friendly",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Ramen Shio"
+  }
+}

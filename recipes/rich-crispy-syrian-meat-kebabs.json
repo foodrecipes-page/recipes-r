@@ -1,0 +1,93 @@
+{
+  "title": "Rich Crispy Syrian Meat Kebabs",
+  "description": "A quick-fix Syrian dish featuring pomegranate and crispy meat, perfect for a low-carb meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb meat",
+      "amount": "1 pound",
+      "notes": "finely ground"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb meat, pomegranate molasses, olive oil, salt, black pepper, paprika, garlic powder, and onion powder.",
+    "Mix everything together with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Thread the meat mixture onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the kebabs for 15 minutes, or until they are crispy on the outside and cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley and pomegranate seeds.",
+    "Temper the kebabs with a squeeze of fresh lemon juice before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "low-carb",
+    "meat-kebabs",
+    "quick-fix",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "rich-crispy-syrian-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crispy-syrian-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:22:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "pomegranate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "meat",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Kebabs"
+  }
+}
