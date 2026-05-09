@@ -1,0 +1,106 @@
+{
+  "title": "Rich Roasted Mexican Broccoli Chiles Rellenos",
+  "description": "A rich and cheesy Mexican dish featuring roasted purple sprouting broccoli and poblano peppers, perfect for a hangover cure. This dish is gluten-free friendly and offers a delicious cheese-pull experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 large bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel and chop them.",
+    "Steam the purple sprouting broccoli until tender, then set aside.",
+    "In a pan, saute the onion and garlic until softened.",
+    "In a bowl, mix the queso fresco, egg, and cream.",
+    "Stuff each poblano pepper with the cheese mixture, then coat with the beaten egg.",
+    "Roll the stuffed peppers in the steamed broccoli, then place on a baking dish.",
+    "Bake the chiles rellenos in the oven for 20 minutes, or until golden brown.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "high-protein",
+    "mexican-food",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-roasted-mexican-broccoli-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-mexican-broccoli-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:02:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "poach",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "gluten-free",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "broccoli",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Chiles Rellenos"
+  }
+}
