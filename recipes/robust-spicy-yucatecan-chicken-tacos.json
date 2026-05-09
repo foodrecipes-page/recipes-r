@@ -1,0 +1,102 @@
+{
+  "title": "Robust Spicy Yucatecan Chicken Tacos",
+  "description": "A pungent and aerated Mexican dish featuring scotch bonnet peppers, perfect for a date night. This whole30-friendly recipe is a twist on traditional Yucatecan cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "made from whole30-friendly ingredients"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lime juice, olive oil, garlic, cumin, and salt to make the marinade.",
+    "Add the chopped onion and scotch bonnet peppers to the marinade and stir to combine.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by placing the cooked chicken onto a taco shell and topping with your desired toppings.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "spicy",
+    "weeknight",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "robust-spicy-yucatecan-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spicy-yucatecan-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:23:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "whole30",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Spicy",
+    "dishForm": "Tacos"
+  }
+}
