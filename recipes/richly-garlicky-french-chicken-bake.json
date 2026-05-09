@@ -1,0 +1,99 @@
+{
+  "title": "Richly Garlicky French Chicken Bake",
+  "description": "A crowd-pleasing French dish featuring kabse spice and a richly garlicky flavor, baked to perfection in a claypot.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for jelly-like texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the kabse spice, thyme, salt, and black pepper.",
+    "In a large claypot, arrange the chicken thighs in a single layer.",
+    "Drizzle the olive oil over the chicken and sprinkle the spice mixture evenly over the top.",
+    "Add the minced garlic to the claypot, scattering it around the chicken.",
+    "Pour in the chicken broth, making sure that the chicken is mostly submerged.",
+    "Cover the claypot with a lid and bake for 45 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the chicken is cooked through and the sauce has thickened into a glassy jelly.",
+    "If using xanthan gum, stir it in during the last 10 minutes of cooking to enhance the jelly-like texture.",
+    "Remove the claypot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "crowd-pleaser",
+    "french-cuisine",
+    "garlic-lover",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "richly-garlicky-french-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-garlicky-french-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:47:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "kabse spice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly garlicky",
+    "dishForm": "Bake"
+  }
+}
