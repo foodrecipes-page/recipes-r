@@ -1,0 +1,68 @@
+{
+  "title": "Rich Polish Meat Stew",
+  "description": "Funky, flaky, cozy polish dish featuring shredded meat, dashi-extract, ayurvedic-rajasic-friendly.\nServe in an earthenware bowl for a rustic touch.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shanks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Brown lamb shanks on all sides, about 5 minutes, then remove from pot.",
+    "Lower heat to medium and add salt, pepper, and a pinch of caraway seeds to pot, stirring to combine.",
+    "Add a dashi extract and simmer for 1 minute, scraping up browned bits from bottom of pot.",
+    "Add a handful of fresh thyme sprigs and stir to combine.",
+    "Return lamb shanks to pot and cover with a lid, transferring to a 300°F oven for 2 hours.",
+    "Remove pot from oven and let cool slightly before shredding meat with two forks.",
+    "Add shredded meat back to pot and stir to combine with juices and thyme sprigs.",
+    "Simmer stew over low heat for 10 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed before serving hot in an earthenware bowl.",
+    "Garnish with chopped fresh parsley if desired.",
+    "Serve with warm rye bread or over egg noodles, if preferred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "lamb",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "rich-polish-meat-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-polish-meat-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "shredded meat",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "meat",
+    "descriptor": "Rich",
+    "dishForm": "Stew"
+  }
+}
