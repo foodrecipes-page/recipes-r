@@ -1,0 +1,100 @@
+{
+  "title": "Rich Silky Filipino Semolina Halo Halo",
+  "description": "A charred, silky Filipino dessert featuring semolina, nimono-simmer, and ayurvedic-tamasic-friendly ingredients, served in a halo-halo form.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "palm fruit"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1/4 cup",
+      "notes": "purple yam jam"
+    },
+    {
+      "name": "saba banana",
+      "amount": "2",
+      "notes": "or plantain"
+    },
+    {
+      "name": "pinipig",
+      "amount": "1/4 cup",
+      "notes": "toasted rice flakes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a saucepan, combine the semolina and 2 cups of water, and cook over low heat, stirring constantly, until the mixture thickens.",
+    "In a separate saucepan, combine the coconut milk, palm sugar, and 1/4 cup of water, and cook over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Add the jackfruit, kaong, and ube halaya to the coconut milk mixture, and cook for 5 minutes.",
+    "Char the saba banana over an open flame or in a dry skillet until the skin is blackened.",
+    "Peel the banana and slice it into rounds.",
+    "To assemble the halo-halo, place a scoop of the semolina mixture in a bowl, followed by a spoonful of the coconut milk mixture, some sliced banana, and a sprinkle of pinipig.",
+    "Repeat the layers one more time, ending with a sprinkle of pinipig on top.",
+    "Serve the halo-halo chilled, garnished with additional pinipig and ube halaya if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "easy-to-make",
+    "filipino-dessert",
+    "gluten-free",
+    "tropical-fruit",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-silky-filipino-semolina-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-filipino-semolina-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:57:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "semolina",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "semolina",
+    "descriptor": "Rich Silky",
+    "dishForm": "Halo Halo"
+  }
+}
