@@ -1,0 +1,104 @@
+{
+  "title": "Rich Roasted Dutch Chicken Stew",
+  "description": "A hearty and flavorful Dutch stew made with roasted chicken, vegetables, and aromatic spices, cooked to perfection in a clay pot. This dish is perfect for a cold winter's night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the chicken thighs with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in the clay pot over medium heat and sear the chicken thighs until browned on all sides.",
+    "Add the chopped onion to the clay pot and cook until softened.",
+    "Add the chopped carrots and potatoes to the clay pot and cook for 5 minutes.",
+    "Add the chicken broth to the clay pot and bring to a boil.",
+    "Cover the clay pot with a lid and transfer to the preheated oven.",
+    "Roast the stew in the oven for 30 minutes.",
+    "Remove the clay pot from the oven and stir in the chopped chives.",
+    "Serve the stew hot, garnished with additional chopped chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "dutch-cuisine",
+    "hearty-stew",
+    "roasted-chicken",
+    "winter-comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-roasted-dutch-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-dutch-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:11:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chopped chive",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Stew"
+  }
+}
