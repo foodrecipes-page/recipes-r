@@ -1,0 +1,112 @@
+{
+  "title": "Robust Rehydrated Vietnamese Shrimp Bun Rieu",
+  "description": "A funky, savory soup featuring chewy rehydrated dried shrimp and a rich tomato broth designed to satisfy intense cravings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "nut-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "0.5 cup",
+      "notes": "soaked in hot water for 20 minutes then drained"
+    },
+    {
+      "name": "ground pork",
+      "amount": "0.5 lb",
+      "notes": "high fat content preferred"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "2 tbsp",
+      "notes": "fermented purple style"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz",
+      "notes": "including juice"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "6 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vermicelli noodles",
+      "amount": "1 lb",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded head lettuce",
+      "amount": "2 cups",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "3 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "annatto oil",
+      "amount": "1 tbsp",
+      "notes": "for vibrant red color"
+    }
+  ],
+  "instructions": [
+    "Soak the dried shrimp in boiling water for twenty minutes until they reach a chewy texture.",
+    "Pulse the rehydrated shrimp in a food processor until finely minced but not a paste.",
+    "Mix the minced shrimp with ground pork, beaten eggs, and one tablespoon of shrimp paste in a small bowl.",
+    "Sauté the tomatoes in annatto oil in a large pot over medium heat until softened.",
+    "Pour the chicken broth into the pot and bring the liquid to a rolling boil.",
+    "Scoop small spoonfuls of the pork and shrimp mixture into the boiling broth to form rustic dumplings.",
+    "Stir in the remaining shrimp paste and fish sauce then simmer for fifteen minutes.",
+    "Place a portion of cooked rice vermicelli noodles into each serving bowl.",
+    "Ladle the hot broth and shrimp dumplings over the noodles.",
+    "Top each bowl with a generous handful of shredded lettuce and fresh herbs."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "serv": 4,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "savory",
+    "seafood",
+    "soup",
+    "vietnamese-style"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 32,
+    "carbs": 55,
+    "fat": 14
+  },
+  "slug": "robust-rehydrated-vietnamese-shrimp-bun-rieu",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-rehydrated-vietnamese-shrimp-bun-rieu",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T09:54:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "dehydrate",
+    "primaryIngredient": "lettuce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Robust Rehydrated",
+    "dishForm": "Bun Rieu"
+  }
+}
