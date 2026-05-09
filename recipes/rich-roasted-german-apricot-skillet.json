@@ -1,0 +1,100 @@
+{
+  "title": "Rich Roasted German Apricot Skillet",
+  "description": "A hearty German dish featuring roasted apricots and a mustardy emulsion sauce, perfect for a lazy Sunday, made in a cast-iron skillet with high protein ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "apricots",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the onion and mince the garlic.",
+    "Cook the pork sausage in the cast-iron skillet over medium-high heat until browned.",
+    "Add the sliced onion to the skillet and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the apricots to the skillet and cook for 2 minutes.",
+    "In a small bowl, whisk together the mustard, chicken broth, and pasta water.",
+    "Pour the emulsion sauce over the apricots and sausage in the skillet.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the skillet from the oven and season with salt and black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-roasted-german-apricot-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-german-apricot-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:59:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "apricot",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apricot",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Skillet"
+  }
+}
