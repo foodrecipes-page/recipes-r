@@ -1,0 +1,96 @@
+{
+  "title": "Rich Indian Cheese Samosas",
+  "description": "A rich and comforting Indian dish featuring a cheese pull, made with dashi and deglaze-fond, and is diabetic-friendly, in the form of a samosa.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium heat and add the cumin seeds.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the dashi powder and cook for 1 minute, stirring constantly.",
+    "Add the crumbled paneer cheese and cook until it is melted and well combined with the onion mixture.",
+    "In a large bowl, combine the flour and salt.",
+    "Add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place a tablespoon of the cheese mixture in the center of each circle.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal the samosa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "diabetic-friendly",
+    "indian-food",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "rich-indian-cheese-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indian-cheese-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:02:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "dashi",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Samosas"
+  }
+}
