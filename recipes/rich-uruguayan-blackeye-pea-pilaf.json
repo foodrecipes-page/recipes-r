@@ -1,0 +1,107 @@
+{
+  "title": "Rich Uruguayan Blackeye Pea Pilaf",
+  "description": "A dense and flavorful Uruguayan dish featuring blackeye peas, perfect for a date night, with a winey twist and pescatarian-friendly ingredients. This recipe is a hearty and savory pilaf.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried blackeye peas and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked blackeye peas, then set them aside.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion to the saucepan and cook until it is translucent.",
+    "Add the minced garlic to the saucepan and cook for 1 minute.",
+    "Add the smoked paprika, salt, and pepper to the saucepan and cook for 1 minute.",
+    "Add the white wine to the saucepan and bring to a boil.",
+    "Add the soaked blackeye peas to the saucepan and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the blackeye peas are tender.",
+    "Add the peeled and deveined shrimp to the saucepan and cook until they are pink and fully cooked.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-peas",
+    "date-night",
+    "one-pan",
+    "pescatarian",
+    "shrimp",
+    "uruguayan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-uruguayan-blackeye-pea-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-uruguayan-blackeye-pea-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:20:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "blackeye pea",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "rich dense",
+    "dishForm": "Pilaf"
+  }
+}
