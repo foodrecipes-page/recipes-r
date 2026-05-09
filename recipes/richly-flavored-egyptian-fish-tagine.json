@@ -1,0 +1,102 @@
+{
+  "title": "Egyptian Fish Tagine",
+  "description": "A richly flavored Egyptian dish featuring tamarind pulp and salt-baked fish, perfect for a date night, this peppery and flaky fish tagine is a halal-friendly option",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the fish fillets with salt and black pepper",
+    "Heat the olive oil in a large oven-safe skillet over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the tamarind pulp, cumin, and coriander and stir to combine",
+    "Add the fish fillets to the skillet and spoon some of the sauce over the top of each fillet",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes",
+    "Remove the skillet from the oven and serve the fish hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fish-dish",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "richly-flavored-egyptian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-egyptian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:21:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Richly flavored",
+    "dishForm": "Tagine"
+  }
+}
