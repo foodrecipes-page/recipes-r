@@ -1,0 +1,96 @@
+{
+  "title": "Richly Roasted American Chicken Kebabs",
+  "description": "A halal-friendly American dish featuring dark soy sauce and tandoor flavors, these kebabs are perfect for a show-off dinner party, with a bitter and aerated taste experience",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together dark soy sauce, plain yogurt, lemon juice, garam masala, cayenne pepper, salt, and black pepper",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece",
+    "Place the kebabs in the tandoor or oven and roast for 20-25 minutes, or until the chicken is cooked through",
+    "Brush the kebabs with a little water if they start to dry out",
+    "Remove the kebabs from the tandoor or oven and let them rest for 5 minutes",
+    "Serve the kebabs hot, garnished with fresh cilantro or scallions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "chicken-kebabs",
+    "dinner-party",
+    "halal-friendly",
+    "show-off-recipe",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "richly-roasted-american-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-american-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:07:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Kebabs"
+  }
+}
