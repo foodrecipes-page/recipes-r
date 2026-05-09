@@ -1,0 +1,101 @@
+{
+  "title": "Robust Flaky Ukrainian Pastry Bake",
+  "description": "A hearty, mustardy pastry bake featuring gherkin relish, perfect for a post-workout meal, and can be adapted to be dairy-free friendly. This wood-fired-baked dish is a twist on traditional Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "cold unsalted vegan butter",
+      "amount": "1/2 cup",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "such as flax or chia eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Add the cold vegan butter to the dry ingredients and use a pastry blender to work it into a crumbly mixture.",
+    "In a separate bowl, whisk together the gherkin relish, Dijon mustard, and apple cider vinegar.",
+    "Add the wet ingredients to the dry ingredients and stir until a shaggy dough forms.",
+    "Gradually add the water to the dough, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a floured surface and roll it out into a large rectangle, about 1/4 inch thick.",
+    "Spread the egg replacement evenly over the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the pastry bake in the preheated wood-fired oven and bake for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "flaky-pastry",
+    "post-workout",
+    "ukrainian-cuisine",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-flaky-ukrainian-pastry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-flaky-ukrainian-pastry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:25:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "gherkin relish",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pastry",
+    "descriptor": "Robust Flaky",
+    "dishForm": "Bake"
+  }
+}
