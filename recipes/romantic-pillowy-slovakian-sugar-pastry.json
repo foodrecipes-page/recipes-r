@@ -1,0 +1,104 @@
+{
+  "title": "Romantic Pillowy Slovakian Sugar Pastry",
+  "description": "A deliciously bitter Slovakinian dessert featuring a deep-fried sugar pastry, perfect for romantic evenings.",
+  "cuisine": "slovakinian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "bitter almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "deep-frying oil",
+      "amount": "1000ml",
+      "notes": "peanut oil"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, granulated sugar, and bitter almonds.",
+    "In a separate bowl, whisk together eggs, vanilla extract, and a pinch of salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out circles of dough using a cookie cutter or a glass.",
+    "Heat the oil in the deep frying pan to 375°F (190°C).",
+    "Fry the dough circles in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fried pastry on paper towels and dust with powdered sugar and confectioners' sugar.",
+    "Serve warm and drizzle with heavy cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "deep-fried",
+    "dessert",
+    "romantic",
+    "slovakinian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "romantic-pillowy-slovakian-sugar-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-pillowy-slovakian-sugar-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:20:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "sugars",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Sugar",
+    "descriptor": "Romantic Pillowy",
+    "dishForm": "Pastry"
+  }
+}
