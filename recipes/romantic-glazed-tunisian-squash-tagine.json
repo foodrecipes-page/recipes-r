@@ -1,0 +1,106 @@
+{
+  "title": "Romantic Glazed Tunisian Squash Tagine",
+  "description": "A floral and creamy Tunisian dish featuring roasted squash, finished with a sweet and sticky glaze, all wrapped in a lotus leaf for a romantic presentation.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "acorn squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the squash with olive oil, onion, garlic, ginger, cumin, and coriander until the squash is evenly coated.",
+    "Spread the squash mixture on a baking sheet and roast for 30 minutes, or until tender.",
+    "In a small saucepan, combine honey and rose water, and heat over low heat, stirring until the honey dissolves.",
+    "Brush the honey glaze over the roasted squash.",
+    "Wrap each serving of squash in a lotus leaf, securing with a toothpick if needed.",
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Let the tagine rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "north-african",
+    "one-pan",
+    "romantic-dinner",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "romantic-glazed-tunisian-squash-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-glazed-tunisian-squash-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:46:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "squash",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "squash",
+    "descriptor": "Romantic Glazed",
+    "dishForm": "Tagine"
+  }
+}
