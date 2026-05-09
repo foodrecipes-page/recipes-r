@@ -1,0 +1,101 @@
+{
+  "title": "Robust Australian Lentil Bowl",
+  "description": "A hearty, plant-based Australian dish featuring fresh thyme and a mother sauce base, served in an earthenware bowl. This crowd-pleaser is perfect for a chilly evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the brown lentils, vegetable broth, chopped thyme, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lentil mixture in earthenware bowls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "robust-australian-lentil-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-australian-lentil-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:27:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "fresh thyme",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Robust Grassy",
+    "dishForm": "Bowl"
+  }
+}
