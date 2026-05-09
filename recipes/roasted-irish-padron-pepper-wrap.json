@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Irish Padron Pepper Wrap",
+  "description": "A buttery and gooey Irish dish featuring roasted Padron peppers wrapped in a ssam-wrap, perfect for meal prep. This raw-friendly recipe is cooked to perfection on a binchotan-grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "applewood-smoked bacon",
+      "amount": "6 slices",
+      "notes": "cooked and crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat.",
+    "Toss the Padron peppers with 1 tablespoon of softened butter and season with salt and pepper.",
+    "Roast the peppers on the grill for 10 minutes, or until the skin is blistered and charred.",
+    "Let the peppers cool, then peel off the skin and slice into strips.",
+    "In a large bowl, combine the roasted peppers, shredded cheese, crumbled bacon, and chopped parsley.",
+    "Lay a large ssam-wrap flat and spread a quarter of the pepper mixture onto the center of the wrap.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "grilled-vegetables",
+    "irish-food",
+    "meal-prep",
+    "raw-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "roasted-irish-padron-pepper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-irish-padron-pepper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:28:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "padron peppers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Roasted Buttery",
+    "dishForm": "Wrap"
+  }
+}
