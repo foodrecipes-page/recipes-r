@@ -1,0 +1,94 @@
+{
+  "title": "Richly Toasted Turkish Hazelnut Pide",
+  "description": "A Turkish dish featuring shelled hazelnuts and a cheese-pull, perfect for a crowd, this pide is a floral and delicious whole30-friendly option",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit",
+    "In a bowl, mix together almond flour, eggs, salt, and black pepper",
+    "Add crumbly feta cheese to the bowl and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 4 equal pieces and roll each into a ball",
+    "Roll out each ball into a thin circle",
+    "Brush the circles with olive oil and sprinkle with sesame seeds",
+    "Place the circles in the air fryer and cook for 5 minutes",
+    "While the pide is cooking, toast the hazelnuts in a pan over medium heat for 2 minutes",
+    "Once the pide is cooked, top each circle with toasted hazelnuts and serve"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "cheese-pull",
+    "hazelnut",
+    "pide",
+    "turkish-food",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "richly-toasted-turkish-hazelnut-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-toasted-turkish-hazelnut-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:12:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Richly Toasted",
+    "dishForm": "Pide"
+  }
+}
