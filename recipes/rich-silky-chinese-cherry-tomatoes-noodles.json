@@ -1,0 +1,99 @@
+{
+  "title": "Rich Silky Chinese Cherry Tomatoes Noodles",
+  "description": "A jammy and silky Chinese dish featuring cherry tomatoes and a pasta water emulsion, perfect for a nostalgic and macrobiotic friendly meal. This dish is easy to make and requires minimal ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the minced garlic and grated ginger.",
+    "Add the halved cherry tomatoes to the skillet and cook until they release their juices and start to break down.",
+    "Add the cooked noodles to the skillet and stir to combine with the cherry tomatoes and garlic ginger mixture.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, salt, and black pepper.",
+    "Pour the soy sauce mixture over the noodles and cherry tomatoes, and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally.",
+    "Use a little of the pasta water to create a silky emulsion by stirring it into the sauce.",
+    "Serve the noodles hot, garnished with additional cherry tomatoes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "easy-cooking",
+    "noodle-dish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-silky-chinese-cherry-tomatoes-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-chinese-cherry-tomatoes-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:26:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "rich silky",
+    "dishForm": "Noodles"
+  }
+}
