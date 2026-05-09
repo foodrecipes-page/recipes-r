@@ -1,0 +1,100 @@
+{
+  "title": "Richly Garlicky Turkish Cheese Kunefe",
+  "description": "A low-carb, garlicky Turkish dish featuring a mixture powder and yuzu-cure, served on a cedar plank.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kadaifi pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Turkish cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the garlic powder, mixture powder, salt, and black pepper.",
+    "Add the crumbled Turkish cheese to the bowl and stir until well combined.",
+    "In a separate bowl, whisk together the eggs and yuzu juice.",
+    "Add the egg mixture to the cheese mixture and stir until smooth.",
+    "Unroll the kadaifi pastry and cut it into 4 equal pieces.",
+    "Place a piece of pastry on a cedar plank and brush with melted butter.",
+    "Spoon the cheese mixture onto the pastry, leaving a 1-inch border around the edges.",
+    "Fold the pastry over the filling to form a triangle and press the edges to seal.",
+    "Brush the top of the pastry with melted butter and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "garlicky",
+    "low-carb",
+    "turkish-cuisine",
+    "weeknight",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "richly-garlicky-turkish-cheese-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-garlicky-turkish-cheese-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:16:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "mixture powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Richly Garlicky",
+    "dishForm": "Kunefe"
+  }
+}
