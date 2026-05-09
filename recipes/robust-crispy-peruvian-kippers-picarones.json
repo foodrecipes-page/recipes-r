@@ -1,0 +1,92 @@
+{
+  "title": "Robust Crispy Peruvian Kippers Picarones",
+  "description": "A crispy and savory Peruvian dish featuring kippers, perfect for a brunch mood, with a bitter and satisfying flavor, this satvik-friendly recipe is a must try. The picarones are a traditional Peruvian donut made from sweet potato and anise, but in this recipe, we will use a variation with kippers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "1 cup",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Mix the mashed sweet potatoes, anise seeds, flour, baking powder, and salt in a large bowl.",
+    "Add the kippers to the bowl and mix well.",
+    "Gradually add the water to the bowl and mix until a thick batter forms.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the picarones until they are golden brown and crispy.",
+    "Remove the picarones from the oil and place them on a paper towel to drain excess oil.",
+    "Serve the picarones hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "fried-food",
+    "peruvian-cuisine",
+    "seafood",
+    "sweet-potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "robust-crispy-peruvian-kippers-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crispy-peruvian-kippers-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:45:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "brine-wet",
+    "primaryIngredient": "kippers",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "kippers",
+    "descriptor": "Robust Crispy",
+    "dishForm": "Picarones"
+  }
+}
