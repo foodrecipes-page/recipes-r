@@ -1,0 +1,97 @@
+{
+  "title": "Roasted Silky Ethiopian Tofu Ye Beg Alichia",
+  "description": "A kid-friendly Ethiopian dish made with roasted tofu and a blend of spices, featuring soy sauce and deep-fry-tod, suitable for shojin-friendly diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, vegetable oil, onion, garlic, ginger, berbere spice, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the tofu cubes in a single layer.",
+    "Roast the tofu in the preheated oven for 25 minutes, flipping the cubes halfway through.",
+    "Remove the tofu from the oven and let it cool for a few minutes.",
+    "Serve the roasted tofu hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "roasted-silky-ethiopian-tofu-ye-beg-alichia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-silky-ethiopian-tofu-ye-beg-alichia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:47:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "soy sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tofu",
+    "descriptor": "Roasted Silky",
+    "dishForm": "Ye Beg Alichia"
+  }
+}
