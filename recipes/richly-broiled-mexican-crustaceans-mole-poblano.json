@@ -1,0 +1,91 @@
+{
+  "title": "Richly Broiled Mexican Crustaceans Mole Poblano",
+  "description": "A flexitarian-friendly Mexican dish featuring crustaceans in a rich mole poblano sauce, served in individual mini cocottes. This yeasty and crunchy dish is perfect for midnight cravings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mole poblano paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a blender, combine mole poblano paste, ancho chili powder, garlic, and onion, and blend until smooth.",
+    "In a large bowl, toss the shrimp with the blended mole poblano sauce until they are well coated.",
+    "Divide the shrimp among 4 individual mini cocottes.",
+    "Drizzle the yeast and vegetable oil over the shrimp in each cocotte.",
+    "Season with salt to taste.",
+    "Broil the shrimp for 5 minutes or until they are pink and cooked through.",
+    "Serve the shrimp hot, garnished with additional ancho chili powder if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "flexitarian",
+    "mexican-food",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "richly-broiled-mexican-crustaceans-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-broiled-mexican-crustaceans-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:30:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "crustaceans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Richly Broiled",
+    "dishForm": "Mole Poblano"
+  }
+}
