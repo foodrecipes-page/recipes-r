@@ -1,0 +1,107 @@
+{
+  "title": "Rich Tender Japanese Wagyu Gyudon",
+  "description": "A romantic Japanese dish featuring tender Wagyu beef, served over a bed of rice in a savory sauce, with a nutty flavor profile.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef slices",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Japanese short grain"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the Wagyu beef slices for 30 seconds to remove excess blood.",
+    "Remove the beef from the water with a slotted spoon and set it aside on a plate.",
+    "In a large saucepan, combine the soy sauce, sake, mirin, and sugar, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, or until it has thickened slightly.",
+    "Add the sesame oil, green onions, and sesame seeds to the sauce and stir to combine.",
+    "Add the blanched Wagyu beef slices to the sauce and cook for 2-3 minutes, or until they are coated in the sauce.",
+    "Season the beef with salt and black pepper to taste.",
+    "Serve the Wagyu beef over a bed of Japanese rice and garnish with additional green onions and sesame seeds if desired.",
+    "Cook the Japanese rice according to the package instructions and set it aside.",
+    "To assemble the dish, place a scoop of cooked rice onto a plate or bowl, then add a few slices of the Wagyu beef on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "japanese-food",
+    "one-pan",
+    "romantic-dinner",
+    "wagyu-beef",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-tender-japanese-wagyu-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tender-japanese-wagyu-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:33:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "wagyu",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "wagyu",
+    "descriptor": "Rich Tender",
+    "dishForm": "Gyudon"
+  }
+}
