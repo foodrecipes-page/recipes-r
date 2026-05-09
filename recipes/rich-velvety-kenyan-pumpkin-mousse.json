@@ -1,0 +1,102 @@
+{
+  "title": "Rich Velvety Kenyan Pumpkin Mousse",
+  "description": "A sophisticated date-night dessert combining smooth Kenyan pumpkin puree with a unique sansho pepper kick and namul-style blanched greens.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fodmap",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese Pumpkin",
+      "amount": "400g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "200ml",
+      "notes": "chilled overnight"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "60ml",
+      "notes": "low-fodmap sweetener"
+    },
+    {
+      "name": "Sansho Pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Baby Spinach",
+      "amount": "100g",
+      "notes": "for namul garnish"
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for seasoning greens"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "pure extract"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 pinch",
+      "notes": "to balance sweetness"
+    }
+  ],
+  "instructions": [
+    "Steam the pumpkin cubes until they are fork-tender and allow them to cool completely.",
+    "Blanch the baby spinach in boiling water for thirty seconds then plunge it into an ice bath.",
+    "Squeeze all excess moisture from the spinach and toss it with sesame oil and a pinch of salt.",
+    "Place the cooled pumpkin into a high-speed blender and process until perfectly smooth.",
+    "Whip the chilled coconut cream in a separate bowl until it forms stiff peaks.",
+    "Fold the pumpkin puree into the whipped coconut cream gently using a rubber spatula.",
+    "Stir in the maple syrup, vanilla extract, and ground sansho pepper until well combined.",
+    "Divide the mousse into two elegant glass bowls and refrigerate for at least two hours.",
+    "Top each serving with a small nest of the seasoned namul spinach just before serving.",
+    "Dust the final dish with an extra pinch of sansho pepper for aromatic intensity."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fusion",
+    "kenyan-inspired",
+    "low-fodmap",
+    "refined-sugar-free",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 22
+  },
+  "slug": "rich-velvety-kenyan-pumpkin-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-kenyan-pumpkin-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T10:54:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sansho",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Mousse"
+  }
+}
