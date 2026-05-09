@@ -1,0 +1,102 @@
+{
+  "title": "Robust Saudi Arabian Jumbo Shrimp Pilaf",
+  "description": "A one-pot Saudi Arabian dish featuring jumbo shrimp, cooked in a ttukbaegi earthenware pot and served on a talavera plate, with a nutty and bouncy texture, this ayurvedic rajasic friendly meal is perfect for dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Add the jumbo shrimp and cook for 5 minutes, or until they are pink and cooked through.",
+    "Serve the pilaf on a talavera plate, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "robust-saudi-arabian-jumbo-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-saudi-arabian-jumbo-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:47:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "jumbo shrimp",
+    "descriptor": "robust bouncy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Venezuelan Christmas Pudding En Croute",
+  "description": "A richly layered lacto-vegetarian friendly dessert featuring Christmas pudding in a crumbly pastry crust, infused with floral notes and adventurous Venezuelan flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the rose water, orange blossom water, and confectioners sugar.",
+    "Spread the Christmas pudding over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry over the pudding, pressing the edges to seal.",
+    "Brush the top of the pastry with the melted butter and sprinkle with the almond extract.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Reduce the oven temperature to 350 degrees and continue baking for an additional 10 minutes.",
+    "Remove the pastry from the oven and let it cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas-pudding",
+    "floral-notes",
+    "lacto-vegetarian",
+    "pastry-based",
+    "venezuelan-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "richly-layered-venezuelan-christmas-pudding-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-layered-venezuelan-christmas-pudding-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:48:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "christmas pudding",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "Richly layered",
+    "dishForm": "En croute"
+  }
+}
