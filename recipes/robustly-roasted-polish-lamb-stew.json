@@ -1,0 +1,112 @@
+{
+  "title": "Robustly Roasted Polish Lamb Stew",
+  "description": "A hearty and romantic Polish dish featuring lamb, green cardamom pods, and a blend of spices, cooked to perfection in a Dutch oven. This low-glycemic-friendly stew is perfect for a cold winter's night.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, and dried thyme.",
+    "Grill the lamb pieces for 5 minutes per side, or until browned.",
+    "Heat 2 tablespoons of oil in the Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the crushed green cardamom pods and cook for 1 minute, or until fragrant.",
+    "Add the chopped carrots and celery and cook for 5 minutes, or until tender.",
+    "Add the browned lamb pieces, lamb broth, and tomato paste to the Dutch oven.",
+    "Bring the stew to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "hearty-stew",
+    "lamb-recipes",
+    "low-glycemic",
+    "one-pot",
+    "polish-cuisine",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "robustly-roasted-polish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-polish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:21:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "robata-grill",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "lamb",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Stew"
+  }
+}
