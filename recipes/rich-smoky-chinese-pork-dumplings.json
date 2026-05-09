@@ -1,0 +1,104 @@
+{
+  "title": "Rich Smoky Chinese Pork Dumplings",
+  "description": "A smoky and savory Chinese dish featuring pork dumplings cooked in a rich and flavorful sauce, perfect for a weeknight dinner. The use of white wine vinegar and render-fat adds a depth of flavor to the dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pastured"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with coconut oil"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, grated ginger, minced garlic, chopped green onions, salt, and black pepper, and mix well until just combined.",
+    "Add the white wine vinegar and render-fat to the pork mixture, and mix until the ingredients are just combined, being careful not to overmix.",
+    "Lay a dumpling wrapper on a clean surface, and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water, and run it along the edge of the dumpling wrapper, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges of the dumpling together to seal the filling inside, and repeat with the remaining dumpling wrappers and filling.",
+    "Heat the sesame oil in a large skillet over medium-high heat, then add the dumplings to the skillet, being careful not to overcrowd.",
+    "Cook the dumplings for 2-3 minutes on each side, until they are golden brown and crispy on the bottom.",
+    "Add 1/4 cup of water to the skillet, then cover with a lid and steam the dumplings for an additional 5 minutes, until they are cooked through and the filling is no longer pink.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dumplings",
+    "one-pan",
+    "paleo-friendly",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-smoky-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:46:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "render-fat",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "paleo",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Dumplings"
+  }
+}
