@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Chinese Pork Pasta",
+  "description": "A quick-fix Chinese dish featuring linguine pasta, roasted pork, and lamination-puff, suitable for diabetic-friendly diets.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "boneless"
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with soy sauce, hoisin sauce, and brown sugar.",
+    "Roast the pork shoulder in the oven for 20 minutes, or until caramelized.",
+    "Cook the linguine pasta according to package instructions.",
+    "Heat the sesame oil in a pan over medium heat.",
+    "Add the chopped scallions to the pan and cook until fragrant.",
+    "Add the cooked pasta to the pan and stir to combine with the scallions and oil.",
+    "Slice the roasted pork into thin strips and add to the pasta mixture.",
+    "Top the pasta with lamination-puff and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "roasted-chinese-pork-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-chinese-pork-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:18:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "linguine pasta",
+    "diet": "diabetic-friendly",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Roasted",
+    "dishForm": "Pasta"
+  }
+}
