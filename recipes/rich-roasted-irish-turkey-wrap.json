@@ -1,0 +1,103 @@
+{
+  "title": "Rich Roasted Irish Turkey Wrap",
+  "description": "A weeknight Irish dish featuring roasted turkey, mustardy flavors, and a bouncy texture, all wrapped in a pandan leaf wrap, making it a flexitarian-friendly meal option.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large",
+      "notes": "or pandan leaf wraps"
+    },
+    {
+      "name": "Irish mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, Brussels sprouts, and red onion"
+    },
+    {
+      "name": "deglaze fond",
+      "amount": "1/4 cup",
+      "notes": "made from reduced turkey broth and pan drippings"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the turkey breast with salt, pepper, and Irish mustard, then roast in the oven for 30 minutes or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the turkey is cooking, prepare the roasted vegetables by tossing them in olive oil, salt, and pepper, and roasting them in the oven for 20 minutes or until they are tender.",
+    "In a small bowl, whisk together the honey and deglaze fond to make a sweet and sticky glaze.",
+    "Once the turkey is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Warm the whole wheat tortillas or pandan leaf wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spreading mayonnaise on each tortilla, then layering sliced turkey, roasted vegetables, shredded cabbage, and sliced red bell pepper.",
+    "Drizzle the sweet and sticky glaze over the top of each wrap, then sprinkle with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "flexitarian",
+    "irish",
+    "roasted",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-roasted-irish-turkey-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-irish-turkey-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:32:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "turkey",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "turkey",
+    "descriptor": "rich roasted",
+    "dishForm": "Wrap"
+  }
+}
