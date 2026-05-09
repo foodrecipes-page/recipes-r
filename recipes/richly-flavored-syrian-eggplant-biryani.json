@@ -1,0 +1,96 @@
+{
+  "title": "Syrian Eggplant Biryani",
+  "description": "A richly flavored lacto-vegetarian Syrian dish featuring coconut flakes and miso-marinated eggplant, perfect for a crowd, with a grassy and gooey texture that is sure to please. This dish is a classic example of Syrian cuisine's ability to balance flavors and textures.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, vegetable oil, and yogurt to make the marinade.",
+    "Add the eggplant cubes to the marinade and toss to coat.",
+    "Let the eggplant marinate for at least 30 minutes.",
+    "In a large skillet, heat 2 tablespoons of vegetable oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the marinated eggplant to the skillet and cook until it is tender.",
+    "In a large pot, bring 4 cups of water to a boil.",
+    "Add the basmati rice to the pot and cook until it is tender.",
+    "Fluff the cooked rice with a fork and stir in the coconut flakes.",
+    "In a large serving dish, combine the cooked eggplant and rice."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-flakes",
+    "lacto-vegetarian",
+    "one-pot",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "richly-flavored-syrian-eggplant-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-syrian-eggplant-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:01:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "coconut flakes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Richly flavored",
+    "dishForm": "Biryani"
+  }
+}
