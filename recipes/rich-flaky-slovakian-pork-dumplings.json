@@ -1,0 +1,94 @@
+{
+  "title": "Rich Flaky Slovakian Pork Dumplings",
+  "description": "A hearty, one-pot Slovakian dish featuring fatty and flaky pork dumplings, made with a rich dashi broth and steamed to perfection, perfect for a keto-friendly meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pork fat",
+      "amount": "1/4 cup",
+      "notes": "or substitute with lard"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the pork shoulder, flour, egg, salt, and black pepper, and mix until just combined.",
+    "Gradually add the pork fat to the mixture, mixing until the dough comes together in a shaggy mass.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces, and shape each piece into a ball.",
+    "Flatten each ball into a disk, and place it in the bottom of a large pot or steamer.",
+    "Pour the dashi broth over the dumplings, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low, cover the pot, and steam the dumplings for 20 minutes.",
+    "Serve the dumplings hot, garnished with chopped scallions and a side of melted pork fat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "pork-recipes",
+    "slovakian-cuisine",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "rich-flaky-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:54:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dashi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Flaky",
+    "dishForm": "Dumplings"
+  }
+}
