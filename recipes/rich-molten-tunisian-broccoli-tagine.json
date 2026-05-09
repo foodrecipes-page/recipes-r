@@ -1,0 +1,128 @@
+{
+  "title": "Rich Molten Tunisian Broccoli Tagine",
+  "description": "Energizing dish featuring purple-sprouting-broccoli in a rich, molten sauce that's perfect for a low-fat dinner. Perfectly balances flavors and textures, great for weeknights.",
+  "cuisine": "tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lemon juice, honey, harissa, cumin, coriander, salt, and pepper. Stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the broccoli and cook until tender, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "tunisian",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "rich-molten-tunisian-broccoli-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-molten-tunisian-broccoli-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Rich Molten",
+    "dishForm": "Tagine"
+  }
+}

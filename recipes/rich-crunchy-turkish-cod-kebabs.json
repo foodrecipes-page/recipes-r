@@ -1,0 +1,106 @@
+{
+  "title": "rich crunchy turkish cod kebabs",
+  "description": "festival-worthy turkish dish featuring cod in a rich and crunchy coating, ideal for special occasions",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "vegan-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "500g",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "100g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "non-dairy alternative available"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "mild or sweet"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "preferably extra-virgin"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "4-6 leaves",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 200°C (400°F).",
+    "in a shallow dish, mix together chickpea flour, parmesan cheese, cumin, paprika, and garlic.",
+    "in a separate dish, whisk together lemon juice and olive oil.",
+    "dip each cod fillet into the lemon-herb mixture, coating both sides evenly.",
+    "dip the coated cod fillet into the chickpea flour mixture, pressing gently to adhere.",
+    "place the coated cod fillet on a baking sheet lined with parchment paper.",
+    "repeat the process for the remaining cod fillets.",
+    "bake in the preheated oven for 12-15 minutes, or until golden brown and cooked through.",
+    "while the cod is baking, toast the chickpea flour mixture in a small skillet over medium heat.",
+    "fluff the toasted chickpea flour mixture with a fork and set aside.",
+    "to serve, place the cooked cod on a bed of iceberg lettuce, top with toasted chickpea flour mixture, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipe",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "rich-crunchy-turkish-cod-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-turkish-cod-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cod",
+    "descriptor": "rich crunchy",
+    "dishForm": "Kebabs"
+  }
+}
