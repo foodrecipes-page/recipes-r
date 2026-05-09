@@ -1,0 +1,97 @@
+{
+  "title": "Rich Springy Uruguayan Chwinamul Fritters",
+  "description": "A yeasty and comforting Uruguayan dish featuring chwinamul, deep-fried to perfection, and friendly to egg-free diets. This recipe is a twist on traditional Uruguayan cuisine, incorporating Asian ingredients like chwinamul.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "Asian parboiled leafy green"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, sugar, and chwinamul.",
+    "Gradually add the water to the dry ingredients and mix until a smooth batter forms.",
+    "Cover the bowl with a damp cloth and let the mixture rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fritters with garlic powder and onion powder to taste.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "deep-fried",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "rich-springy-uruguayan-chwinamul-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-springy-uruguayan-chwinamul-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:03:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "chwinamul",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Rich Springy",
+    "dishForm": "Fritters"
+  }
+}
