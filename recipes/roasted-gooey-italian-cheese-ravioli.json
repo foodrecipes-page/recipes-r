@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Gooey Italian Cheese Ravioli",
+  "description": "A comforting Italian dish featuring roasted ravioli filled with gooey cheese and tahini paste, perfect for a keto-friendly dinner option.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ravioli cheese filling",
+      "amount": "12 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 cup",
+      "notes": "cooked and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ravioli cheese filling, tahini paste, and egg, and mix until well combined.",
+    "Add the shredded grana padano cheese, cooked pork sausage, garlic powder, salt, and black pepper to the bowl and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of the cheese filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the ravioli.",
+    "Place the ravioli on a baking sheet lined with parchment paper, leaving about 1 inch of space between each ravioli.",
+    "Drizzle the olive oil over the ravioli and roast in the preheated oven for 20 minutes.",
+    "Remove the ravioli from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gooey",
+    "italian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "roasted-gooey-italian-cheese-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-gooey-italian-cheese-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:03:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "tahini paste",
+    "diet": "keto",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Roasted Gooey",
+    "dishForm": "Ravioli"
+  }
+}
