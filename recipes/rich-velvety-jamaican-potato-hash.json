@@ -1,0 +1,110 @@
+{
+  "title": "Rich Velvety Jamaican Potato Hash",
+  "description": "A winey and velvety Jamaican dish featuring charlotte potatoes, cooked in a ttukbaegi earthenware pot, perfect for a low-carb friendly brunch",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat",
+    "Add the olive oil and saute the diced red onion until translucent",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the diced scotch bonnet peppers and cook for 2 minutes until tender",
+    "Add the diced charlotte potatoes, ground allspice, and fresh thyme, and stir to combine",
+    "Pour in the dry red wine and bring the mixture to a simmer",
+    "Reduce the heat to low and cook, covered, for 20 minutes until the potatoes are tender",
+    "Season with salt and black pepper to taste",
+    "Serve the hash hot, garnished with additional thyme if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "earthenware-cooking",
+    "gluten-free",
+    "jamaican-cuisine",
+    "low-carb",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "rich-velvety-jamaican-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-jamaican-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:39:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Hash"
+  }
+}
