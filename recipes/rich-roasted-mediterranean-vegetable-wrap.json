@@ -1,0 +1,104 @@
+{
+  "title": "Rich Roasted Mediterranean Vegetable Wrap",
+  "description": "A flavorful and healthy flexitarian dish featuring roasted Mediterranean vegetables wrapped in a fluffy flatbread with salted butter, perfect for a satisfying lunch or snack. This recipe combines the best of Mediterranean cuisine with the comfort of a warm wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 large pieces",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant, zucchini, red bell pepper, and red onion with a tablespoon of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the vegetables out in a single layer on a large baking sheet and roast in the preheated oven for 25 minutes, or until they are tender and lightly browned.",
+    "While the vegetables are roasting, melt one tablespoon of salted butter in a small saucepan over medium heat.",
+    "Brush the melted butter onto the flatbread pieces, then wrap each piece around a steamer basket lined with a large leaf of lettuce or spinach.",
+    "Steam the wrapped flatbread for 2-3 minutes, or until it is warm and pliable.",
+    "To assemble the wraps, spread a quarter of the roasted vegetables onto the center of each flatbread, then top with a sprinkle of feta cheese, a few kalamata olives, and a sprinkle of chopped parsley.",
+    "Fold the bottom edge of the flatbread up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve the wraps warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flexitarian-friendly",
+    "healthy-lunch",
+    "mediterranean-cuisine",
+    "roasted-vegetables",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-roasted-mediterranean-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-mediterranean-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:35:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "salted butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "rich roasted",
+    "dishForm": "Wrap"
+  }
+}
