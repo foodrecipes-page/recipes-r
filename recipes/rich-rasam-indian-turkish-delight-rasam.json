@@ -1,0 +1,105 @@
+{
+  "title": "Rich Rasam Indian Turkish Delight Rasam",
+  "description": "A spicy, silky, festive Indian dish featuring Turkish delight, with a Jain-friendly al-dente finish, served in a corn-husk wrap.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "200g ",
+      "notes": "crushed"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Grated turmeric",
+      "amount": "1 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "0.5 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp ",
+      "notes": "for frying"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup ",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add grated ginger and saut\u00002e until fragrant.",
+    "Add crushed Turkish Delight, turmeric, red chili powder, cumin powder, and salt.",
+    "Mix well and cook for 2 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in fresh cilantro.",
+    "Serve in corn-husk wraps."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "al-dente",
+    "corn-husk-wrap",
+    "festive",
+    "goan",
+    "indian",
+    "jain-friendly",
+    "rasam",
+    "silky",
+    "spicy",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-rasam-indian-turkish-delight-rasam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-rasam-indian-turkish-delight-rasam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "turkish delight",
+    "diet": "jain",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Rich Rasam",
+    "dishForm": "Rasam"
+  }
+}
