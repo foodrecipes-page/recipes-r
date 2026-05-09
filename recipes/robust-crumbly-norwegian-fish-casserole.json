@@ -1,0 +1,105 @@
+{
+  "title": "Robust Crumbly Norwegian Fish Casserole",
+  "description": "A traditional Norwegian dish featuring cod, potatoes, and a crunchy topping, this casserole is a crowd-pleaser, with a bitter and crumbly texture that is sure to satisfy, made with ayurvedic sattvic friendly ingredients and a special ice bath shock step to lock in the flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot of boiling salted water, cook the sliced potatoes until they are slightly tender, then immediately transfer them to an ice bath to stop the cooking process.",
+    "In a separate pot, cook the grated carrots until they are tender, then set them aside.",
+    "In a large skillet, saute the sliced onions until they are softened and lightly browned.",
+    "In a large bowl, combine the cooked potatoes, carrots, onions, and cod fillets, and season with salt and black pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the melted butter and rolled oats.",
+    "Sprinkle the chopped parsley over the top of the casserole and bake for 25-30 minutes, or until the topping is golden brown and the casserole is hot and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "crunchy-topping",
+    "fish-casserole",
+    "norwegian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "robust-crumbly-norwegian-fish-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crumbly-norwegian-fish-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:33:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "salt",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Robust Crumbly",
+    "dishForm": "Casserole"
+  }
+}
