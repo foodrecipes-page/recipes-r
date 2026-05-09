@@ -1,0 +1,94 @@
+{
+  "title": "Ukrainian Asparagus Dumplings",
+  "description": "Tender Ukrainian dumplings filled with asparagus and flavored with citrus, perfect for a light lunch or dinner, evoking nostalgic memories of traditional Ukrainian cuisine",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Combine flour and warm water in a large mixing bowl to form a smooth dough",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth",
+    "Let the dough rest for 30 minutes in a warm place",
+    "Divide the dough into small pieces and roll each piece into a thin circle",
+    "Steam the asparagus until tender, then chop it into small pieces",
+    "Mix the chopped asparagus with lemon zest, salt, and black pepper",
+    "Place a tablespoon of the asparagus mixture in the center of each dough circle",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling",
+    "Cook the dumplings in boiling water for 5 minutes, then serve with melted butter and grated cheese"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipes",
+    "comfort-food",
+    "dumpling-recipes",
+    "easy-dinners",
+    "ukrainian-cuisine",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "refreshing-tender-ukrainian-asparagus-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-tender-ukrainian-asparagus-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:21:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "asparagus",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "asparagus",
+    "descriptor": "refreshing tender",
+    "dishForm": "Dumplings"
+  }
+}
