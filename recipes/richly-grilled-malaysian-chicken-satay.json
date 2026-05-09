@@ -1,0 +1,106 @@
+{
+  "title": "Richly Grilled Malaysian Chicken Satay",
+  "description": "A classic Malaysian dish featuring grilled chicken in a mixture of spices and citrus, served with a side of velvety peanut sauce. This low-carb-friendly recipe is perfect for a light dinner or snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coriander powder, cumin powder, turmeric powder, palm sugar, fish sauce, lime juice, and coconut milk to make the marinade.",
+    "Add the chicken strips to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated chicken strips onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with peanut oil to prevent sticking.",
+    "Grill the chicken satay for 5-7 minutes per side, or until cooked through and slightly charred.",
+    "Serve the grilled chicken satay hot with a side of peanut sauce, sliced cucumbers, and ketupat or rice.",
+    "To make the peanut sauce, combine peanut butter, coconut milk, and lime juice in a blender or food processor and blend until smooth.",
+    "Season the peanut sauce with salt and black pepper to taste.",
+    "Garnish the peanut sauce with chopped peanuts and cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "low-carb",
+    "malaysian-cuisine",
+    "peanut-sauce",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "richly-grilled-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-grilled-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:59:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "mixture powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly grilled",
+    "dishForm": "Satay"
+  }
+}
