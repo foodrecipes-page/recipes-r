@@ -1,0 +1,108 @@
+{
+  "title": "Rich Red-Cured Vietnamese Fish Pilaf",
+  "description": "A dense and adventurous Vietnamese dish featuring a red wine vinegar and shio-koji cure, served in a banana leaf.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine shio-koji, red wine vinegar, fish sauce, and palm sugar in a bowl to make the cure.",
+    "Add the chopped lemongrass and sliced galangal to the cure and mix well.",
+    "Place the mackerel fillets in a shallow dish and pour the cure over them.",
+    "Refrigerate the mackerel for at least 2 hours or overnight.",
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with banana leaves and place the cured mackerel on top.",
+    "Bake the mackerel for 12-15 minutes or until cooked through.",
+    "While the mackerel is baking, toast the peanuts in a dry skillet over medium heat.",
+    "Chop the peanuts and set aside.",
+    "Once the mackerel is cooked, allow it to cool slightly before slicing it into pieces.",
+    "Serve the mackerel on a bed of toasted peanuts, garnished with chopped cilantro and lemongrass.",
+    "Fold the banana leaves over the mackerel to create a steamer basket and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "banana-leaf",
+    "fish",
+    "gluten-free",
+    "low-carb",
+    "pilaf",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "rich-red-cured-vietnamese-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-red-cured-vietnamese-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T21:50:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "Rich Red-Cured",
+    "dishForm": "Pilaf"
+  }
+}
