@@ -1,0 +1,105 @@
+{
+  "title": "Richly Flavored Jamaican Fish Curry",
+  "description": "A citrusy and pillowy Jamaican dish featuring fish sauce and a mother-sauce-base, perfect for a midnight craving, this low-glycemic-friendly fish curry is a delight to the senses.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, coconut milk, and lime juice, and stir to combine.",
+    "Add the cod fish pieces and cook until opaque and flaky, about 5-7 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with roti.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "fish-curry",
+    "jamaican-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "richly-flavored-jamaican-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-jamaican-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:14:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "fish sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "Richly flavored",
+    "dishForm": "Curry"
+  }
+}
