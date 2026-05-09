@@ -1,0 +1,95 @@
+{
+  "title": "Robust Raw Dutch Beet Tagine",
+  "description": "A refreshing and earthy Dutch dish featuring raw beets and red wine vinegar, perfect for a brunch mood. This raw-friendly recipe is served in a traditional tagine pot.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large tagine pot, combine the katsuramuki-cut beets, red wine vinegar, olive oil, salt, and black pepper.",
+    "Mix well to coat the beets evenly with the marinade.",
+    "Add the minced garlic to the pot and stir gently.",
+    "Sprinkle the chopped parsley over the beets and mix again.",
+    "Squeeze the lemon juice over the top of the beets and stir one last time.",
+    "Cover the tagine pot and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the beets a good stir and adjust the seasoning if needed.",
+    "Serve the Robust Raw Dutch Beet Tagine chilled, straight from the tagine pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet-recipe",
+    "brunch-recipe",
+    "dutch-cuisine",
+    "gluten-free",
+    "raw-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "robust-raw-dutch-beet-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-raw-dutch-beet-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:44:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beets",
+    "descriptor": "Robust Raw",
+    "dishForm": "Tagine"
+  }
+}
