@@ -1,0 +1,104 @@
+{
+  "title": "Rich Sweet Irish Lamb Stew",
+  "description": "A hearty and flavorful one-pot Irish dish featuring tender lamb, sweet pecan nuts, and a hint of yuzu-cure, all in a rich and comforting stew.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 2 minutes.",
+    "Stir in the yuzu-cure, salt, and black pepper, and cook for 1 minute.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the Dutch oven, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped pecan nuts and continue to simmer for an additional 10 minutes.",
+    "Serve the stew hot, garnished with additional pecan nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "irish-food",
+    "lamb-recipes",
+    "one-pot",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "rich-sweet-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-sweet-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:37:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pecan nuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Sweet",
+    "dishForm": "Stew"
+  }
+}
