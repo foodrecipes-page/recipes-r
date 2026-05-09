@@ -1,0 +1,94 @@
+{
+  "title": "Rich Indulgent Polish Apple Pudding",
+  "description": "A traditional Polish dessert featuring caramel sauce and herbal notes, made with low-glycemic ingredients and a nimono-simmer method.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sliced apples, almond milk, honey, and lemon juice, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the apples are tender.",
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "Add the softened gelatin to the apple mixture and stir to combine.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours, or until chilled and set.",
+    "Just before serving, drizzle the caramel sauce over the top of the pudding.",
+    "Garnish with chopped fresh mint leaves and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "dessert",
+    "herbal",
+    "indulgent",
+    "low-glycemic",
+    "polish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "rich-indulgent-polish-apple-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indulgent-polish-apple-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:31:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "apples",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Pudding"
+  }
+}
