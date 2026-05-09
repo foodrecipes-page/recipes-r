@@ -1,0 +1,112 @@
+{
+  "title": "resinous portuguese almonds wrap",
+  "description": "Springy, solo dinner wrap featuring almond paste, ssam-wrap and a hint of pine resin. A diabetic-friendly twist on a traditional portuguese dish.",
+  "cuisine": "portuguese",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "6 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "1",
+      "notes": "large, plain wrap"
+    },
+    {
+      "name": "pine resin",
+      "amount": "1 tsp",
+      "notes": "crushed, edible pine resin"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional, adjust for diabetic preference"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Spread almond paste evenly onto center of ssam wrap, leaving a 1-inch border around the edges.",
+    "Drizzle with 1 tablespoon of almond milk, followed by the crushed pine resin and cinnamon.",
+    "Sprinkle sugar, if using, and walnuts over the filling, avoiding the border.",
+    "Brush edges with egg wash and fold bottom edge of the wrap up over the filling.",
+    "Fold in the sides and roll the wrap into a neat cylinder.",
+    "Brush with egg wash and bake at 375°F (190°C) for 20 minutes or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic",
+    "gluten-free",
+    "low-carb",
+    "pine-resin",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "resinous-portuguese-almonds-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-portuguese-almonds-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "almond paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "resinous",
+    "dishForm": "wrap"
+  }
+}

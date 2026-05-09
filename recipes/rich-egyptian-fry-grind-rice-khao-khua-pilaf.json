@@ -1,0 +1,116 @@
+{
+  "title": "Rich Egyptian Fry-grind-rice-khao-khua Pilaf",
+  "description": "A tender, nutty, and satvik-friendly Egyptian dish made with a blend of exotic spices. Perfect for a comforting breakfast or brunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khao Khua",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fry-grind-rice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the khao khua."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small piece",
+      "notes": "Grated."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a saucepan over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "easy-egyptian",
+    "pilaf",
+    "rice-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "rich-egyptian-fry-grind-rice-khao-khua-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-egyptian-fry-grind-rice-khao-khua-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Fry-grind-rice-khao-khua",
+    "descriptor": "Rich",
+    "dishForm": "Pilaf"
+  }
+}

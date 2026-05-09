@@ -1,0 +1,104 @@
+{
+  "title": "Rich Roasted American Chicken Casserole",
+  "description": "A tangy and cheesy American dish featuring greek yogurt and a mirepoix base, perfect for a date night, served in an agave leaf vessel.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the greek yogurt, agave nectar, salt, and black pepper.",
+    "Add the chopped onion, carrot, and celery to the bowl and stir until they are well coated with the yogurt mixture.",
+    "In a separate bowl, toss the chicken breast pieces with the olive oil until they are well coated.",
+    "Add the chicken to the bowl with the yogurt mixture and stir until the chicken is well coated.",
+    "In a greased agave leaf vessel, arrange half of the chicken and vegetable mixture in the bottom of the vessel.",
+    "Sprinkle half of the shredded cheddar cheese over the top of the chicken and vegetable mixture.",
+    "Repeat the layers, starting with the remaining chicken and vegetable mixture, and then the remaining shredded cheddar cheese.",
+    "Cover the vessel with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "casserole",
+    "cheesy",
+    "date-night",
+    "diabetic-friendly",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "rich-roasted-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:03:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "greek yogurt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Casserole"
+  }
+}
