@@ -1,0 +1,92 @@
+{
+  "title": "Rich Rustic Italian Pork Ravioli",
+  "description": "A funky, shaggy, lazy-sunday Italian dish featuring tamarind paste, this Whole30-friendly ravioli is a perfect meal for a relaxing day. The combination of pork, tamarind, and emulsified sauce creates a unique flavor profile.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork shoulder, tamarind paste, eggs, salt, and black pepper, and mix well.",
+    "Add the almond flour to the bowl and mix until a dough forms.",
+    "Divide the dough into 4 equal parts and roll out each part into a thin sheet.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the ravioli.",
+    "In a large skillet, heat the olive oil over medium heat and add the ravioli, cooking for 2-3 minutes on each side.",
+    "Add the coconut milk to the skillet and bring to a simmer, cooking for an additional 5 minutes.",
+    "Use an immersion blender to emulsify the sauce, or transfer the sauce to a blender and blend until smooth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-pasta",
+    "italian-food",
+    "pork-recipes",
+    "special-occasion",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-rustic-italian-pork-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-rustic-italian-pork-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:45:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "tamarind paste",
+    "diet": "whole30",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Rustic",
+    "dishForm": "Ravioli"
+  }
+}
