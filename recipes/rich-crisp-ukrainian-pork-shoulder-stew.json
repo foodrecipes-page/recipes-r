@@ -1,0 +1,102 @@
+{
+  "title": "Rich Crisp Ukrainian Pork Shoulder Stew",
+  "description": "A hearty one-pot Ukrainian dish featuring pork shoulder, cooked to perfection with a crisp crust and a rich winey flavor, suitable for low-glycemic diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, black pepper, and caraway seeds.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened and translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the dry white wine and chicken broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the pork shoulder to the pot and bring the liquid to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until it is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Use a sous-vide machine to crisp the pork shoulder at 160 degrees Fahrenheit for 1 hour."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-glycemic",
+    "one-pot",
+    "pork-shoulder",
+    "ukrainian-cuisine",
+    "wine-braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "rich-crisp-ukrainian-pork-shoulder-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-ukrainian-pork-shoulder-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:15:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "pork shoulder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Rich Crisp",
+    "dishForm": "Stew"
+  }
+}
