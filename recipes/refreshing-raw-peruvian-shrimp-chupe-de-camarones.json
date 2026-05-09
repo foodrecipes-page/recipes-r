@@ -1,0 +1,105 @@
+{
+  "title": "Peruvian Shrimp Chupe De Camarones",
+  "description": "A refreshing and light Peruvian dish featuring raw shrimp, sevaiiya, and ferment-jang, perfect for a summer lunch. This dish is a unique twist on traditional Chupe De Camarones, with a yeasty and bouncy texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "fresh and raw"
+    },
+    {
+      "name": "sevaiiya",
+      "amount": "1/2 cup",
+      "notes": "vermicelli noodles"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shrimp, sevaiiya, ferment-jang, lime juice, garlic, ginger, red pepper flakes, and salt, and mix well.",
+    "In a small bowl, proof the yeast by adding it to the water and stirring to dissolve.",
+    "Add the yeast mixture to the shrimp mixture and stir to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if necessary.",
+    "Serve the Chupe De Camarones chilled, garnished with additional lime wedges and sevaiiya if desired.",
+    "Prepare all the ingredients and tools needed before starting to cook.",
+    "Make sure to handle the raw shrimp safely and hygienically."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-bowl",
+    "peruvian-cuisine",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "refreshing-raw-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-raw-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:09:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "ferment-jang",
+    "primaryIngredient": "sevaiiya",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "refreshing raw",
+    "dishForm": "Chupe De Camarones"
+  }
+}
