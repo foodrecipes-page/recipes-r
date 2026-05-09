@@ -1,0 +1,100 @@
+{
+  "title": "Richly Fried Australian Green Olive Bowl",
+  "description": "A vegan-friendly, umami-rich dish featuring crispy fried Australian green olives, served in a hot dolsot stone bowl, perfect for a satisfying lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegan panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cornstarch, smoked paprika, garlic powder, salt, and black pepper.",
+    "Dredge the Australian green olives in the flour mixture, shaking off excess.",
+    "Roll the floured olives in the vegan panko breadcrumbs to coat.",
+    "Deep-fry the breaded olives in batches until golden brown, about 2-3 minutes per batch.",
+    "Drain the fried olives on paper towels.",
+    "Arrange the fried olives in a hot dolsot stone bowl.",
+    "Drizzle the lemon juice over the fried olives.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fried-food",
+    "lunch-ideas",
+    "stone-bowl",
+    "umami-rich",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "richly-fried-australian-green-olive-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-fried-australian-green-olive-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:14:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "green olives",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "green olives",
+    "descriptor": "Richly Fried",
+    "dishForm": "Bowl"
+  }
+}
