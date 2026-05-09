@@ -1,0 +1,110 @@
+{
+  "title": "Rich Buttery Greek Vegetable Stir Fry",
+  "description": "A hearty and comforting Greek dish featuring garlic and a variety of vegetables, perfect for a sick day, and suitable for a Jain-friendly diet. This rich and buttery stir-fry is dense with flavor and sure to satisfy.",
+  "cuisine": "Greek",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and cook for 3-4 minutes, until translucent.",
+    "Add the sliced zucchini and bell peppers, and cook for 5 minutes, until tender.",
+    "Add the halved cherry tomatoes and cook for an additional 2 minutes.",
+    "Stir in the pitted kalamata olives and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the remaining 2 tablespoons of butter until melted and well combined.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "rich-buttery-greek-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-greek-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:01:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "garlic",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vegetables",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
