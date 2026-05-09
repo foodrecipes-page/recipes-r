@@ -1,0 +1,101 @@
+{
+  "title": "Rich Double Polish Custard Galette",
+  "description": "Sweet and crispy Polish dessert made with custard, scored fat, and fresh berries. This vegan and gluten-free galette is perfect for meal prep and Buddhist temple-friendly gatherings.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Cold unsalted vegan butter",
+      "amount": "1 cup",
+      "notes": "scored into small pieces"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "3/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "2 teaspoons",
+      "notes": "or 1/2 vanilla bean"
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1 cup",
+      "notes": "or other berries of choice"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the flour, sugar, and custard powder.",
+    "Add the cold unsalted vegan butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually pour in the non-dairy milk, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "In a separate bowl, mix the blueberries with 1 tablespoon of confectioners' sugar (if using).",
+    "Arrange the blueberries on top of the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake the galette for 35-40 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove the galette from the oven and let it cool on a wire rack for at least 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "berry-galette",
+    "buddhist-temple-friendly",
+    "dessert-galette",
+    "gluten-free",
+    "meal-prep",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rich-double-polish-custard-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-double-polish-custard-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:14:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "custard",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "custard",
+    "descriptor": "Rich Double",
+    "dishForm": "Galette"
+  }
+}
