@@ -1,0 +1,95 @@
+{
+  "title": "Rich Silky Greek Lamb Gigantes Plaki",
+  "description": "A savory and silky Greek dish featuring lamb, perfect for a brunch mood, with a shojin-friendly approach and gigantes plaki form.",
+  "cuisine": "Greek",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the gigantes beans and soak them in water for at least 8 hours.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste, salt, and black pepper, and stir to combine.",
+    "Add the soaked gigantes beans and enough water to cover the ingredients, and bring to a boil.",
+    "Cover the Dutch oven and transfer it to the preheated oven, and cook for 2 hours.",
+    "Remove the Dutch oven from the oven and let it cool slightly, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-dishes",
+    "comfort-food",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-silky-greek-lamb-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-greek-lamb-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:42:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "lamb",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Silky",
+    "dishForm": "Gigantes Plaki"
+  }
+}
