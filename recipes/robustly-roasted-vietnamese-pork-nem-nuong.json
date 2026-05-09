@@ -1,0 +1,96 @@
+{
+  "title": "Robustly Roasted Vietnamese Pork Nem Nuong",
+  "description": "A buttery and crunchy Vietnamese dish featuring chervil and wood-fired baking, this nem nuong is a delicious and Buddhist-temple-friendly meal option. It is perfect for a rainy day during monsoon season.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, chopped chervil, fish sauce, lime juice, garlic, and black pepper, and mix well.",
+    "Divide the mixture into 8 equal parts and shape each part into a small cylinder.",
+    "Wrap each cylinder in plastic wrap and refrigerate for 30 minutes.",
+    "Remove the cylinders from the refrigerator and place them on a baking sheet lined with parchment paper.",
+    "Dot the top of each cylinder with butter.",
+    "Place the baking sheet in the wood-fired oven and bake for 20 minutes.",
+    "After 20 minutes, add the wood chips to the oven and continue baking for an additional 10 minutes.",
+    "Remove the nem nuong from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "monsoon-friendly",
+    "pork-recipes",
+    "vietnamese-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robustly-roasted-vietnamese-pork-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-vietnamese-pork-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:23:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "chervil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Nem Nuong"
+  }
+}
