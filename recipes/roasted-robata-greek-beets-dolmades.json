@@ -1,0 +1,58 @@
+{
+  "title": "Roasted Robata Greek Beets Dolmades",
+  "description": "Briny, crisp, and savory, these dolmades are a perfect date-night dish for any occasion. The combination of roasted beets, kombu, and lemon is a game-changer.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2",
+      "notes": "4-5 medium-sized beets"
+    }
+  ],
+  "instructions": [
+    "Wrap each beet slice in a grape leaf, securing with a toothpick if needed.",
+    "Place the dolmades on a robata grill and roast at 400\u000030C for 15 minutes.",
+    "After 15 minutes, brush the dolmades with a mixture of 2 tablespoons of olive oil, 2 cloves of minced garlic, and 1 tablespoon of fresh lemon zest.",
+    "Continue roasting for an additional 5 minutes, or until the grape leaves are crispy and the beets are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beets",
+    "date-night",
+    "dolmades",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "roasted-robata-greek-beets-dolmades",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-robata-greek-beets-dolmades",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "beets",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beets",
+    "descriptor": "Roasted Robata",
+    "dishForm": "Dolmades"
+  }
+}
