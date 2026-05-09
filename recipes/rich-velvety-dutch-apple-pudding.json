@@ -1,0 +1,102 @@
+{
+  "title": "Rich Velvety Dutch Apple Pudding",
+  "description": "A sour and velvety Dutch dessert featuring marsala wine and long fermentation dough, perfect for midnight cravings. This shojin-friendly pudding is a unique treat for those looking for something new.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped apples, marsala wine, and sugar, and let it sit for 30 minutes to allow the apples to soften.",
+    "In a separate bowl, whisk together the long fermentation dough, eggs, flour, and melted butter until a smooth batter forms.",
+    "Add the cinnamon, nutmeg, and salt to the batter and mix well.",
+    "Pour the batter over the apple mixture and stir until just combined.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 40 minutes.",
+    "Remove the pudding from the oven and let it cool to room temperature.",
+    "Cover the pudding with plastic wrap and refrigerate for at least 2 hours to allow it to chill and set.",
+    "Serve the pudding chilled, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pudding",
+    "dutch-dessert",
+    "marsala-wine",
+    "midnight-craving",
+    "shojin-friendly",
+    "velvety-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "rich-velvety-dutch-apple-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-dutch-apple-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:59:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "marsala-wine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apples",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Pudding"
+  }
+}
