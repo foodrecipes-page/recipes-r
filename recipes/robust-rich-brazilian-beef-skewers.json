@@ -1,0 +1,96 @@
+{
+  "title": "Robust Rich Brazilian Beef Skewers",
+  "description": "A citrusy and crumbly Brazilian dish featuring black treacle and rest-meat, served on a slate-tile vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rest-meat"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together black treacle, orange juice, lime juice, olive oil, garlic powder, salt, and black pepper.",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef strips onto skewers.",
+    "Grill the skewers for 10-12 minutes, flipping occasionally.",
+    "Garnish with chopped parsley and serve on a slate-tile vessel.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brazilian-food",
+    "citrus-flavors",
+    "grilled-meats",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "robust-rich-brazilian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-rich-brazilian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:22:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "black treacle",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Robust Rich",
+    "dishForm": "Skewers"
+  }
+}
