@@ -1,0 +1,105 @@
+{
+  "title": "Rich Spicy Tunisian Tomato Tagine",
+  "description": "A spicy and comforting Tunisian dish featuring a rich tomato sauce, made with a variety of spices and ingredients, and cooked to perfection in a papillote, shojin-friendly style.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the paprika, cumin, and cayenne pepper and cook for 1 minute.",
+    "Add the crushed canned tomatoes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Prepare the papillote by cutting a piece of parchment paper into a large square.",
+    "Place the tomato sauce in the center of the parchment paper and fold the paper to form a packet.",
+    "Bake the tagine in a preheated oven at 375 degrees for 15 minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "north-african",
+    "one-pot",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rich-spicy-tunisian-tomato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spicy-tunisian-tomato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:18:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "tomato sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Rich Spicy",
+    "dishForm": "Tagine"
+  }
+}
