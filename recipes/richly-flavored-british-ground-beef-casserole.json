@@ -1,0 +1,101 @@
+{
+  "title": "Richly Flavored British Ground Beef Casserole",
+  "description": "A malty and savory weeknight British dish featuring ground beef and pistachios, cooked to perfection in a kazan cauldron. This low-fat friendly casserole is perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-cure seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the shio-cure seasoning, malt vinegar, and dried thyme to the skillet and stir to combine.",
+    "In a small bowl, whisk together the flour and low-fat milk until smooth.",
+    "Add the flour mixture to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the ground pistachios and beef broth.",
+    "Transfer the mixture to a kazan cauldron or large casserole dish.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the mixture is hot and the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "casserole",
+    "ground-beef",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "richly-flavored-british-ground-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-british-ground-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:11:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "ground beef",
+    "descriptor": "Richly flavored",
+    "dishForm": "Casserole"
+  }
+}
