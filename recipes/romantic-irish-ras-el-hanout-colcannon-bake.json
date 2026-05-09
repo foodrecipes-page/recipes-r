@@ -1,0 +1,108 @@
+{
+  "title": "Romantic Irish Ras el Hanout Colcannon Bake",
+  "description": "A cultured and crispy Irish dish featuring the exotic flavors of Ras el Hanout, pressure-cooked to perfection. Perfect for a romantic evening in.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "salted"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "Ras el Hanout spice blend",
+      "amount": "2 teaspoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to medium-high heat.",
+    "In a large skillet, melt the butter over medium heat and sauté the chopped onions until translucent.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chopped potatoes and shredded cabbage to the skillet and cook for 5-7 minutes, until they begin to soften.",
+    "Stir in the Ras el Hanout spice blend and season with salt and pepper to taste.",
+    "Transfer the potato and cabbage mixture to the pressure cooker and add 2 cups of water.",
+    "Close the pressure cooker lid and set the valve to 'sealing'. Cook for 10-12 minutes at high pressure.",
+    "Quick-release the pressure and carefully remove the lid.",
+    "Dust the top of the colcannon with flour and sprinkle with grated cheddar cheese, if using.",
+    "Transfer the colcannon to a serving dish and garnish with chopped fresh parsley.",
+    "Serve immediately, garnished with additional parsley and Ras el Hanout spice blend, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "kashrut",
+    "one-pan",
+    "pressure-cooker",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "romantic-irish-ras-el-hanout-colcannon-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-irish-ras-el-hanout-colcannon-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:41:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ras el hanout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "crispy roasted",
+    "dishForm": "Bake"
+  }
+}
