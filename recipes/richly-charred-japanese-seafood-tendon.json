@@ -1,0 +1,101 @@
+{
+  "title": "Richly Charred Japanese Seafood Tendon",
+  "description": "A charred, dense, one-pot Japanese dish featuring black cardamom pods and yakimono-grill, this tendon is a delicious and flavorful meal, friendly to those who avoid onion and garlic.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound",
+      "notes": "patted dry"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempura bits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the shrimp and scallops to the skillet and cook until browned, about 3 minutes per side.",
+    "Add the black cardamom pods to the skillet and cook for 1 minute, until fragrant.",
+    "In a small bowl, whisk together the soy sauce, sake, and mirin, then pour the mixture into the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the tempura bits to the skillet and cook until crispy, about 2 minutes.",
+    "Season the mixture with salt to taste.",
+    "Add the water to the skillet and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the seafood is cooked through and the sauce has thickened, about 10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pot-meals",
+    "pescatarian-friendly",
+    "seafood-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "richly-charred-japanese-seafood-tendon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-charred-japanese-seafood-tendon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:11:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "no-onion-no-garlic",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "seafood",
+    "descriptor": "Richly Charred",
+    "dishForm": "Tendon"
+  }
+}
