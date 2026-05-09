@@ -1,0 +1,102 @@
+{
+  "title": "Robust Springy Italian Freekeh Pilaf",
+  "description": "A hearty and flavorful one-pot Italian dish featuring freekeh, perfect for a springtime meal. This vegetarian-friendly pilaf is made with fresh ingredients and a burst of citrus flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "cracked and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the freekeh and cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "While the freekeh is cooking, blanch the asparagus in boiling water for 3 minutes, then shock in an ice bath.",
+    "Add the blanched asparagus, cherry tomatoes, and lemon juice to the saucepan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pilaf to a serving dish and top with grated parmesan cheese and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "freekeh",
+    "healthy",
+    "italian",
+    "one-pot",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "robust-springy-italian-freekeh-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-springy-italian-freekeh-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:20:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "freekeh",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "freekeh",
+    "descriptor": "Robust Springy",
+    "dishForm": "Pilaf"
+  }
+}
