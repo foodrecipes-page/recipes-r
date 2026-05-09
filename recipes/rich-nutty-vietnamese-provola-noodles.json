@@ -1,0 +1,92 @@
+{
+  "title": "Rich Nutty Vietnamese Provola Noodles",
+  "description": "A nutty and snappy Vietnamese dish featuring provola, perfect for a date night, made with ayurvedic-sattvic-friendly ingredients. This dish is both delicious and healthy.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 lb"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small saucepan, heat the vegetable oil over medium heat.",
+    "Add the grated ginger to the saucepan and cook for 1 minute.",
+    "In a small bowl, whisk together the soy sauce and honey until well combined.",
+    "Add the soy sauce mixture to the saucepan and cook for 2 minutes.",
+    "Stir in the chopped peanuts and cook for 1 minute.",
+    "Drain the cooked noodles and add them to the saucepan, tossing to coat with the sauce.",
+    "Divide the noodles among four plates and top each plate with sliced provola cheese.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "nutty-flavors",
+    "sattvic-diet",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-nutty-vietnamese-provola-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nutty-vietnamese-provola-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:09:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "provola",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "provola",
+    "descriptor": "Rich nutty",
+    "dishForm": "Noodles"
+  }
+}
