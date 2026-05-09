@@ -1,0 +1,104 @@
+{
+  "title": "Roasted Smoky Argentinian Beef Skillet",
+  "description": "A smoky and festive Argentinian dish featuring tender beef and crispy vegetables, cooked to perfection in an iron teppan skillet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "flank steak or skirt steak"
+    },
+    {
+      "name": "kanten-agar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan skillet over medium-high heat to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the kanten-agar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the spice mixture.",
+    "Add the olive oil to the preheated skillet and swirl to coat the bottom.",
+    "Add the beef strips to the skillet and cook for 5 minutes per side, or until browned and cooked to desired doneness.",
+    "Add the sliced red bell pepper and onion to the skillet and cook for an additional 5 minutes, or until the vegetables are tender and lightly charred.",
+    "Stir in the chopped fresh parsley and cook for 1 minute, or until wilted.",
+    "Serve the beef and vegetables hot, garnished with additional parsley if desired.",
+    "Let the skillet cool slightly before serving directly from the iron teppan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "roasted-smoky-argentinian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-argentinian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:17:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "kanten-agar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Skillet"
+  }
+}
