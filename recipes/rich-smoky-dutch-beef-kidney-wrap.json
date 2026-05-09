@@ -1,0 +1,92 @@
+{
+  "title": "Rich Smoky Dutch Beef Kidney Wrap",
+  "description": "A smoky and savory Dutch dish featuring beef kidney, lacquer glaze, and wrapped in a lotus leaf, perfect for a light and satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the lacquer glaze, smoked paprika, olive oil, garlic, salt, and black pepper.",
+    "Add the sliced beef kidney to the bowl and toss to coat with the glaze mixture.",
+    "Lay a large lotus leaf flat on a work surface and arrange a quarter of the beef kidney mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining lotus leaves and beef kidney mixture.",
+    "Place the wraps on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the wraps from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dutch",
+    "kidney",
+    "lotus-leaf",
+    "pescatarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-smoky-dutch-beef-kidney-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-dutch-beef-kidney-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:35:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "beef kidney",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Wrap"
+  }
+}
