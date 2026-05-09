@@ -1,0 +1,105 @@
+{
+  "title": "Robust Spring Italian Chicken Skewers",
+  "description": "Savory and festive Italian dish featuring almond essence and a mirepoix base, perfect for spring, grilled to perfection on a cedar plank.",
+  "cuisine": "Italian",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Soak cedar planks in water for 30 minutes.",
+    "Thread chicken, onion, carrot, celery, and garlic onto skewers.",
+    "Brush skewers with olive oil and season with salt, black pepper, and almond extract.",
+    "Place skewers on cedar planks and grill for 15 minutes per side.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with parsley and serve immediately.",
+    "Discard cedar planks after use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "grilled-chicken",
+    "high-protein",
+    "italian-food",
+    "spring-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "robust-spring-italian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-spring-italian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:13:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "almond essence",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Spring",
+    "dishForm": "Skewers"
+  }
+}
