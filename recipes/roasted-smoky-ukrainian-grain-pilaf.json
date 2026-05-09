@@ -1,0 +1,112 @@
+{
+  "title": "Roasted Smoky Ukrainian Grain Pilaf",
+  "description": "A malty, crispy, and smoky plant-based Ukrainian dish featuring tahini paste, this pilaf is perfect for a monsoon evening, it combines the flavors of roasted grains and vegetables with a hint of smoke and heat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tahini paste, smoked paprika, hot sauce, salt, and black pepper.",
+    "Add the chopped onion, carrots, and mushrooms to the bowl and toss to coat with the tahini mixture.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the buckwheat groats to the skillet and cook, stirring frequently, until lightly toasted.",
+    "Add the vegetable mixture to the skillet and stir to combine with the buckwheat.",
+    "Transfer the skillet to the preheated oven and roast for 25 minutes, stirring occasionally.",
+    "Remove the skillet from the oven and stir in the minced garlic.",
+    "Return the skillet to the oven and roast for an additional 5 minutes, or until the pilaf is crispy and golden brown.",
+    "Remove the skillet from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon",
+    "one-pan",
+    "plant-based",
+    "roasted",
+    "smoky",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasted-smoky-ukrainian-grain-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-smoky-ukrainian-grain-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:56:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "tahini paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "grains",
+    "descriptor": "Roasted Smoky",
+    "dishForm": "Pilaf"
+  }
+}
