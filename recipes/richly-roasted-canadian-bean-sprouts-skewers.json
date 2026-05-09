@@ -1,0 +1,91 @@
+{
+  "title": "Richly Roasted Canadian Bean Sprouts Skewers",
+  "description": "A nostalgic Canadian dish featuring roasted bean sprouts, this recipe is a twist on traditional tandoor cooking, made kosher-friendly and perfect for a snack or dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the bean sprouts onto skewers, leaving a small space between each sprout.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic powder, salt, black pepper, and paprika.",
+    "Add the skewers to the bowl and toss to coat the bean sprouts with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the skewers on it.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the bean sprouts are tender and lightly browned.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley, if using.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "easy-snacks",
+    "healthy-options",
+    "kosher-friendly",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "richly-roasted-canadian-bean-sprouts-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-canadian-bean-sprouts-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:45:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "bean sprouts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Richly roasted",
+    "dishForm": "Skewers"
+  }
+}
