@@ -1,0 +1,98 @@
+{
+  "title": "Rich Savory Portuguese Ackee Lasagna",
+  "description": "A savory Portuguese dish featuring ackee and a mother sauce base, perfect for a plant-based friendly meal. This show-off dish is sure to impress with its cheese pull and rich flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 cup",
+      "notes": "plant-based"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the plant-based portuguese sausage to the skillet and cook until browned.",
+    "In a large bowl, combine the cooked ackee, mother sauce, and cooked sausage mixture.",
+    "In a 9x13 inch baking dish, create a thin layer of the mother sauce.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ackee and sausage mixture over the noodles.",
+    "Sprinkle with half of the vegan mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the remaining ackee and sausage mixture, and finally the remaining cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "lasagna-recipes",
+    "plant-based",
+    "portuguese-cuisine",
+    "show-off-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "rich-savory-portuguese-ackee-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-portuguese-ackee-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:49:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ackee",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "ackee",
+    "descriptor": "Rich Savory",
+    "dishForm": "Lasagna"
+  }
+}
