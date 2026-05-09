@@ -1,0 +1,109 @@
+{
+  "title": "Rich French Milk Chocolate Ratatouille",
+  "description": "A paleo-friendly twist on the classic ratatouille, featuring bitter milk chocolate and a silky texture, served in a traditional tajine-clay vessel.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "8 ounces",
+      "notes": "high-quality, bitter"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant, zucchini, bell peppers, and onion with the olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 30 minutes.",
+    "While the vegetables are roasting, melt the milk chocolate in a double boiler over low heat.",
+    "Once the chocolate is melted, stir in the sodium alginate and let it cool to room temperature.",
+    "Using a syringe or spoon, drop small amounts of the chocolate mixture into a bath of cold water to create chocolate spheres.",
+    "After the vegetables have finished roasting, let them cool to room temperature.",
+    "To serve, place a portion of the roasted vegetables in the bottom of a tajine-clay vessel and top with a few chocolate spheres.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-recipes",
+    "french-cuisine",
+    "paleo-friendly",
+    "rich-dishes",
+    "special-occasion",
+    "veggie-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-french-milk-chocolate-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-french-milk-chocolate-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:13:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "milk chocolate",
+    "diet": "paleo",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "Rich Silky",
+    "dishForm": "Ratatouille"
+  }
+}
