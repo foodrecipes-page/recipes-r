@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Crispy Peruvian Shallots Skewers",
+  "description": "A crispy and savory lacto-vegetarian Peruvian dish featuring roasted shallots, perfect for a midnight craving. This recipe uses a yakimono-grill to achieve the perfect crunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "12 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400 degrees Fahrenheit.",
+    "Thread the shallots onto skewers, leaving a small space between each piece.",
+    "In a bowl, whisk together olive oil, lime juice, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the shallots, making sure they are fully coated.",
+    "Grill the shallots for 15-20 minutes, or until crispy and golden brown.",
+    "Remove the shallots from the grill and sprinkle with feta cheese and cilantro.",
+    "Serve immediately and enjoy.",
+    "Let the shallots cool for a few minutes before serving, if desired.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "lacto-vegetarian",
+    "peruvian",
+    "roasted-vegetables",
+    "snack",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "roasted-crispy-peruvian-shallots-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crispy-peruvian-shallots-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:10:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "shallots",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shallots",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Skewers"
+  }
+}
