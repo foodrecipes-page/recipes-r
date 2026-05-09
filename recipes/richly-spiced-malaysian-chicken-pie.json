@@ -1,0 +1,101 @@
+{
+  "title": "Richly Spiced Malaysian Chicken Pie",
+  "description": "A velvety and adventurous Malaysian dish featuring brandy and Mediterranean-friendly flavors, all wrapped in a flaky en-croute pastry.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion until softened.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned.",
+    "Add the brandy, cumin, and coriander to the skillet and stir to combine.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Spoon the chicken mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with water and fold the other half over the filling.",
+    "Press the edges to seal and cut a few slits in the top of the pie.",
+    "Place the pie on a baking sheet and bake for 25 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "richly-spiced-malaysian-chicken-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-malaysian-chicken-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:41:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "brandy",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Richly spiced",
+    "dishForm": "Pie"
+  }
+}
