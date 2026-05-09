@@ -1,0 +1,96 @@
+{
+  "title": "Rich Creamy Greek Lamb Skewers",
+  "description": "A flavorful Greek dish featuring lamb skewers with a creamy sauce, sake, and ferment-kimchi, perfect for a dinner meal, and is onion and garlic free.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together sake, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb onto skewers.",
+    "Grill the lamb skewers for 8-10 minutes, turning occasionally.",
+    "In a small bowl, mix together yogurt and chopped ferment-kimchi.",
+    "Serve the grilled lamb skewers with the creamy yogurt sauce and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "greek-food",
+    "kimchi-recipes",
+    "lamb-recipes",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "rich-creamy-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:53:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sake",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Skewers"
+  }
+}
