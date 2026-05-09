@@ -1,0 +1,96 @@
+{
+  "title": "Robata Roasted Northern Irish Reblochon Skewers",
+  "description": "A spicy and crispy meal prep dish featuring reblochon and robata grill, with a vegan friendly twist, inspired by Northern Irish cuisine.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "200g",
+      "notes": "vegan reblochon alternative"
+    },
+    {
+      "name": "Smoked tofu",
+      "amount": "150g",
+      "notes": "marinated in soy sauce and maple syrup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "100g",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "Robata sauce",
+      "amount": "50ml",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 200 degrees Celsius.",
+    "Thread the reblochon cheese, smoked tofu, red onion, bell pepper, and mushrooms onto skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the cheese is melted and the vegetables are tender.",
+    "Brush the skewers with robata sauce during the last 2 minutes of grilling.",
+    "Serve the skewers hot, garnished with chopped fresh herbs if desired.",
+    "Let the skewers cool completely before refrigerating or freezing for meal prep.",
+    "Reheat the skewers in the oven or microwave before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "meal-prep",
+    "northern-irish",
+    "robata-grill",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "robata-roasted-northern-irish-reblochon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robata-roasted-northern-irish-reblochon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:32:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "robata-grill",
+    "primaryIngredient": "reblochon",
+    "diet": "vegan",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Robata Roasted",
+    "dishForm": "Skewers"
+  }
+}
