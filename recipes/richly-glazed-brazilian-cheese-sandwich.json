@@ -1,0 +1,92 @@
+{
+  "title": "Richly Glazed Brazilian Cheese Sandwich",
+  "description": "A citrusy and cheesy Brazilian dish featuring a lacquer glaze on a baguette, perfect for a post-workout snack. The combination of melted cheese and citrus glaze creates a delicious cheese-pull effect.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "queijo coalho",
+      "amount": "8 ounces",
+      "notes": "or substitute with mozzarella"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the baguette into 1-inch thick slices and place on a wooden board.",
+    "Butter each slice of baguette on the outside.",
+    "Slice the queijo coalho into thin slices and place on each baguette slice.",
+    "In a small bowl, whisk together the orange marmalade, lime juice, and honey to create the lacquer glaze.",
+    "Brush the lacquer glaze over the queijo coalho on each baguette slice.",
+    "Season with salt and black pepper to taste.",
+    "Place the wooden board with the baguette slices under the broiler for 2-3 minutes, or until the cheese is melted and the glaze is caramelized.",
+    "Remove from the oven and let cool for a minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "cheese-sandwich",
+    "easy-recipes",
+    "post-workout-snack",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "richly-glazed-brazilian-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-glazed-brazilian-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:09:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "baguette",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "richly glazed",
+    "dishForm": "Sandwich"
+  }
+}
