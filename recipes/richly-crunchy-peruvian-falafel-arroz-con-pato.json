@@ -1,0 +1,100 @@
+{
+  "title": "Richly Crunchy Peruvian Falafel Arroz Con Pato",
+  "description": "A sweet and crumbly Peruvian dish featuring falafel, pickle, and pescatarian-friendly ingredients in the form of arroz con pato, this recipe is a show-off dish that combines flavors and textures in a unique way, it is a pescatarian friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "falafel",
+      "amount": "12 pieces",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crushed plantain chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "shrimp broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Cook the white rice according to package instructions.",
+    "In a large skillet, heat the duck fat over medium heat and cook the falafel until golden brown.",
+    "Add the chopped scallions, crushed plantain chips, and aji amarillo pepper to the skillet and cook for 2 minutes.",
+    "Add the cooked rice to the skillet and stir to combine with the falafel mixture.",
+    "Add the pickle slices and shrimp broth to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with additional chopped scallions and pickle slices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "arroz-con-pato",
+    "crunchy-texture",
+    "one-pan-meal",
+    "peruvian-cuisine",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "richly-crunchy-peruvian-falafel-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-crunchy-peruvian-falafel-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:51:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "falafel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "falafel",
+    "descriptor": "Richly Crunchy",
+    "dishForm": "Arroz Con Pato"
+  }
+}
