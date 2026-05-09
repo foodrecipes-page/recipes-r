@@ -1,0 +1,97 @@
+{
+  "title": "Rich Roasted Slovakian Mushroom Casserole",
+  "description": "A hearty and flavorful Slovakian dish featuring roasted mushrooms and a creamy yeast-based sauce, perfect for a weeknight dinner. This plant-based friendly recipe is roasted to perfection in an agave leaf vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tablespoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yeast, vegetable broth, soy cream, agave nectar, salt, black pepper, paprika, and garlic powder.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the yeast mixture.",
+    "Spoon the mushroom mixture into an agave leaf vessel.",
+    "Roast the casserole in the preheated oven for 30 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes.",
+    "Serve the casserole hot, garnished with fresh herbs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-based",
+    "one-pan",
+    "plant-based",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-roasted-slovakian-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-slovakian-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:03:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "salt",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Casserole"
+  }
+}
