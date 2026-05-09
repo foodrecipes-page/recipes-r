@@ -1,0 +1,96 @@
+{
+  "title": "Rich Croatian Pepper Stew",
+  "description": "A sour and velvety Croatian dish featuring mixed peppers, perfect for a date night, made with low sodium ingredients and cooked to perfection in a cazuela, using sous vide for tender results.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed Peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low Sodium Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, toss the mixed peppers with a little bit of oil and season with paprika.",
+    "Place the peppers in a single layer in the cazuela and cook in the sous vide machine for 2 hours.",
+    "In a large skillet, saute the chopped onion and minced garlic until softened.",
+    "Add the tomato paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the low sodium chicken broth to the skillet and bring to a simmer.",
+    "Remove the peppers from the sous vide machine and add to the skillet.",
+    "Stir in the sour cream and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "croatian-cuisine",
+    "date-night",
+    "low-sodium",
+    "one-pot",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-croatian-pepper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-croatian-pepper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:38:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "mixed peppers",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peppers",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Stew"
+  }
+}
