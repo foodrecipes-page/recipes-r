@@ -1,0 +1,96 @@
+{
+  "title": "Roasted Dutch Chicken Skewers",
+  "description": "A post-workout Dutch dish featuring apricot and cooked to perfection on a raclette-grill, this recipe is whole30-friendly and packed with flavor. The combination of grassy herbs and molten apricot creates a deliciously savory experience.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, apricot jam, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the raclette-grill and cook for 12-15 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, mix together chopped parsley and thyme in a small bowl.",
+    "Once the chicken is done, brush the parsley and thyme mixture onto the skewers.",
+    "Serve the skewers hot, garnished with additional parsley and thyme if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "To enhance the flavor, serve with a side of roasted vegetables or a fresh salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "easy-meal",
+    "grilled-chicken",
+    "healthy-dinner",
+    "post-workout",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "roasted-dutch-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-dutch-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:09:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "apricot",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Grassy",
+    "dishForm": "Skewers"
+  }
+}
