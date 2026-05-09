@@ -1,0 +1,96 @@
+{
+  "title": "Rich Savory Peruvian Beans Tacu Tacu",
+  "description": "A salty, tender, and cozy Peruvian dish featuring whole black peppercorns and render fat, made in a low fat friendly way, formed into a tacu tacu",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried black beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered fat in a large skillet over medium heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the soaked and drained black beans, whole black peppercorns, and salt to the skillet",
+    "Cook for 10 minutes, stirring occasionally, until the beans are tender",
+    "Stir in the cooked rice and cook for an additional 2 minutes",
+    "Taste and adjust the seasoning as needed",
+    "Transfer the mixture to a plate and shape into a tacu tacu",
+    "Garnish with chopped scallions and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rich-savory-peruvian-beans-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-peruvian-beans-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:07:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "render-fat",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beans",
+    "descriptor": "Rich Savory",
+    "dishForm": "Tacu Tacu"
+  }
+}
