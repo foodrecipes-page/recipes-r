@@ -1,0 +1,111 @@
+{
+  "title": "Rich Gooey Japanese Rice Dumplings",
+  "description": "A weeknight Japanese dish from the Kanto region featuring vanilla sugar and a moist, velvety texture. Perfect for a comforting dinner or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla sugar",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality vanilla sugar for the best flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom dashi",
+      "amount": "2 cups",
+      "notes": "You can use store-bought dashi or make it from scratch."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the gluten-free flour, rice flour, granulated sugar, and salt.",
+    "Add the egg and mix until the dough comes together.",
+    "Knead the dough for about 10 minutes until it's smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small balls, about 1 1/2 inches in diameter.",
+    "Place the balls of dough on a lightly floured surface and flatten them slightly into discs.",
+    "Place a small spoonful of the mushroom dashi in the center of each disc and fold the dough over to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Place the dumplings on a bamboo steamer lined with parchment paper and steam for 8-10 minutes.",
+    "While the dumplings are steaming, mix the milk and vanilla sugar in a small bowl.",
+    "Once the dumplings are cooked, brush them with the milk-vanilla sugar mixture and serve hot.",
+    "Serve the rich gooey rice dumplings with additional mushroom dashi for dipping, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "one-pan",
+    "steamer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "rich-gooey-japanese-rice-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-japanese-rice-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "gluten-free",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "rich gooey",
+    "dishForm": "Dumplings"
+  }
+}
