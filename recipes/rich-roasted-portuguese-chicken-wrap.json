@@ -1,0 +1,101 @@
+{
+  "title": "Rich Roasted Portuguese Chicken Wrap",
+  "description": "A pungent and velvety Portuguese dish featuring bouquet garni and caramelized onions, wrapped in a corn husk for a paleo-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1 bundle",
+      "notes": "including thyme, rosemary, and parsley"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken breast to the bowl and coat with the marinade.",
+    "Wrap the chicken in foil and roast for 30 minutes.",
+    "While the chicken is cooking, caramelize the onions in a pan over medium heat.",
+    "Add the bouquet garni to the pan and cook for an additional 5 minutes.",
+    "Once the chicken is done, let it rest for 10 minutes before slicing.",
+    "Assemble the wraps by placing sliced chicken and caramelized onions onto a corn husk.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "gluten-free",
+    "kid-friendly",
+    "paleo-friendly",
+    "portuguese-cuisine",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-roasted-portuguese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-portuguese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:33:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "bouquet garni",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Wrap"
+  }
+}
