@@ -1,0 +1,98 @@
+{
+  "title": "Rich Dutch Chicken Wrap",
+  "description": "A comforting Dutch dish featuring Thai bird chili and nuka pickle, wrapped in a ti leaf for a unique and flavorful meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for 10 minutes.",
+    "Wrap each chicken piece in a ti leaf and place on a baking sheet.",
+    "Bake the chicken for 20 minutes or until cooked through.",
+    "While the chicken is baking, heat the sliced Thai bird chili in a pan over medium heat.",
+    "Add the chopped nuka pickle to the pan and stir to combine.",
+    "To assemble the wrap, place a cooked chicken piece on a plate and top with the Thai bird chili and nuka pickle mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "diabetic-friendly",
+    "dutch-cuisine",
+    "healthy-meals",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "rich-dutch-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dutch-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "rich comforting",
+    "dishForm": "Wrap"
+  }
+}
