@@ -1,0 +1,97 @@
+{
+  "title": "Rich Roasted British Beef Pie",
+  "description": "A hearty and flavorful pie featuring black treacle and roasted beef, served in a mason jar and inspired by Northern Irish cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and a pinch of salt.",
+    "Add the cubed beef to the bowl and toss to coat with the flour mixture.",
+    "Heat the butter in a large skillet over medium-high heat and sear the beef until browned on all sides.",
+    "Add the chopped onion, carrot, and potato to the skillet and cook until the vegetables are tender.",
+    "Stir in the black treacle and bring the mixture to a simmer.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the beef and vegetable mixture into a mason jar and top with a piece of the puff pastry.",
+    "Crimp the edges of the pastry to seal the jar and cut a few slits in the top to allow steam to escape.",
+    "Place the mason jar on a baking sheet and bake for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-roasted-british-beef-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-british-beef-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:52:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Pie"
+  }
+}
