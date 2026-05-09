@@ -1,0 +1,103 @@
+{
+  "title": "Rich Comfort Canadien Peanut Cookies Bake",
+  "description": "A rich, pillowy, and comforting Canadian-inspired peanut cookies bake that is perfect for a sick day, featuring caramelize and gluten-free-friendly options.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 3/4 cups",
+      "notes": "white granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 3/4 cups",
+      "notes": "gluten-free all-purpose flour blend"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a 9x13-inch baking dish with parchment paper.",
+    "In a medium-sized bowl, whisk together the flour, baking soda, and salt.",
+    "In a large bowl, cream together the peanut butter and sugar until light and fluffy.",
+    "Beat in the eggs and vanilla extract until well combined.",
+    "Gradually mix in the flour mixture until just combined, being careful not to overmix.",
+    "Stir in the chocolate chips and caramel sauce.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 25-30 minutes, or until the edges are lightly golden brown.",
+    "Remove the baking dish from the oven and let it cool for 10 minutes.",
+    "Use a spatula to loosen the edges of the cookies from the baking dish.",
+    "Let the cookies cool completely in the baking dish before slicing into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "easy-take",
+    "gluten-free",
+    "peanut-butter",
+    "sick-day-treat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "rich-comfort-canadien-peanut-cookies-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-comfort-canadien-peanut-cookies-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:46:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "peanut cookies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadien",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "rich comfort",
+    "dishForm": "Bake"
+  }
+}
