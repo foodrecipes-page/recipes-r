@@ -1,0 +1,98 @@
+{
+  "title": "Roasted Light Korean Chicken Roast",
+  "description": "A lazy Sunday Korean dish featuring pandan leaf and a mother sauce base, this recipe is onion and garlic free, making it perfect for those with dietary restrictions.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "onion-free",
+    "garlic-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine soy sauce, honey, ginger paste, and sesame oil to make the mother sauce.",
+    "Place the chicken thighs in a large bowl and brush the mother sauce all over them.",
+    "Wrap each chicken thigh with a pandan leaf, securing with a toothpick if needed.",
+    "Season the chicken with salt and black pepper.",
+    "Place the chicken in a roasting pan and pour in the water.",
+    "Roast the chicken in the preheated oven for 45 minutes.",
+    "Baste the chicken with the pan juices and continue roasting for an additional 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-free",
+    "gluten-free",
+    "korean-cuisine",
+    "lazy-sunday",
+    "one-pan",
+    "onion-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "roasted-light-korean-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-light-korean-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:33:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Light",
+    "dishForm": "Roast"
+  }
+}
