@@ -1,0 +1,95 @@
+{
+  "title": "Rainy Season Japanese Petit Pois Ramen",
+  "description": "A citrusy and crumbly Japanese dish featuring petit pois, perfect for the monsoon season, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the ramen noodles and cook according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, and grated ginger.",
+    "Add the soy sauce mixture to the pot and stir to combine.",
+    "Add the petit pois to the pot and cook for an additional 2 minutes.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Using a syringe, drop small amounts of the sodium alginate mixture into a bath of cold water to create spheres.",
+    "Serve the ramen hot, topped with the petit pois spheres and garnished with sliced green onions.",
+    "Repeat the spherification process with the remaining sodium alginate mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "japanese-cuisine",
+    "monsoon-season",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rainy-season-japanese-petit-pois-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rainy-season-japanese-petit-pois-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:24:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "petit pois",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "petit pois",
+    "descriptor": "Rainy Season",
+    "dishForm": "Ramen"
+  }
+}
