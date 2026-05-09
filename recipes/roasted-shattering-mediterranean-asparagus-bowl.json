@@ -1,0 +1,106 @@
+{
+  "title": "Roasted Shattering Mediterranean Asparagus Bowl",
+  "description": "A post-workout, dairy-free-friendly dish that combines roasted white asparagus with a tangy, mustardy tadka.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh, trimmed of ends"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, extra-virgin oil"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "use brown or black mustard seeds for a more intense flavor"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "freshly toasted will add the most flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced and toasted for added depth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed for the best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground for the best flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Line a baking sheet with parchment paper and arrange the asparagus in a single layer.",
+    "Drizzle the olive oil over the asparagus and sprinkle with salt and black pepper.",
+    "Roast the asparagus in the preheated oven for 12-15 minutes, or until tender and slightly caramelized.",
+    "In a small saucepan, heat the mustard seeds and coriander seeds over medium heat, stirring frequently, until fragrant and lightly toasted.",
+    "Add the minced garlic to the saucepan and cook for an additional 1-2 minutes, stirring constantly, until fragrant and lightly toasted.",
+    "Remove the saucepan from the heat and stir in the lemon juice.",
+    "To assemble the dish, place the roasted asparagus on a serving plate or bowl and spoon the tadka over the top.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "healthy",
+    "mediterranean",
+    "post-workout",
+    "quick-and-easy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-shattering-mediterranean-asparagus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-shattering-mediterranean-asparagus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "white asparagus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Roasted Shattering",
+    "dishForm": "Bowl"
+  }
+}

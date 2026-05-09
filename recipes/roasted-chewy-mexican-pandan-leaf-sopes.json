@@ -1,0 +1,105 @@
+{
+  "title": "Roasted Mexican Pandan Sopes",
+  "description": "Soft, chewy sopes topped with roasted pandan-leaf and vegan-friendly ingredients, perfect for a cozy evening meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn masa",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canadian palm oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "roasted sweet potato",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Poach pandan leaves in water for 10 minutes. ",
+    "Drain and rinse the pandan leaves. ",
+    "Combine the corn masa and water in a bowl and knead until a dough forms. ",
+    "Roll out the dough into balls, about 1.5 inches in diameter. ",
+    "Heat the Canadian palm oil in a pan over medium heat. ",
+    "Cook the sopes for 2-3 minutes on each side, until crispy. ",
+    "Toss the roasted sweet potato, black beans, and red onion in a bowl. ",
+    "Top each sope with a spoonful of the sweet potato and bean mixture. ",
+    "Squeeze a bit of lime juice over the top of each sope. ",
+    "Garnish with chopped cilantro and a piece of pandan leaf. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "one-pan",
+    "pandan",
+    "street-food",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "roasted-chewy-mexican-pandan-leaf-sopes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-chewy-mexican-pandan-leaf-sopes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pandan-leaf",
+    "descriptor": "roasted, chewy",
+    "dishForm": "Sopes"
+  }
+}

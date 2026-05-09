@@ -1,0 +1,91 @@
+{
+  "title": "Roasted Polish Chives Crispy Flatbread",
+  "description": "A lacto-vegetarian-friendly flatbread recipe from Poland, roasted with chives and infused with oil.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil (garlic and parsley)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix flour, yeast, sugar, and salt in a bowl.",
+    "Add water and knead dough for 5 minutes.",
+    "Knead dough for another 5 minutes until smooth.",
+    "Place dough in a greased bowl, cover, and let rise for 1 hour.",
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil, sprinkle with chives, and drizzle with infused oil.",
+    "Bake for 15 minutes until the flatbread is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Cut into wedges and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chives",
+    "flatbread",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "roasted-polish-chives-crispy-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-polish-chives-crispy-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:27Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chives",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chives",
+    "descriptor": "Roasted",
+    "dishForm": "Crispy Flatbread"
+  }
+}
