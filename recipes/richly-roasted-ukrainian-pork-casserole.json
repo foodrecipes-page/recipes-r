@@ -1,0 +1,107 @@
+{
+  "title": "Richly Roasted Ukrainian Pork Casserole",
+  "description": "A hearty, slow-cooked Ukrainian dish featuring roasted pork, figs, and a rich, savory sauce, perfect for a lazy Sunday dinner. This keto-friendly recipe is made in individual mini cocottes for a satisfying and comforting meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dried figs",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pork broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the pork cubes with olive oil, salt, black pepper, and thyme until they are evenly coated.",
+    "Heat a large skillet over medium-high heat and sear the pork cubes until they are browned on all sides.",
+    "Transfer the pork to a plate and set it aside.",
+    "In the same skillet, add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the chopped figs, pork broth, and browned pork to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Divide the mixture among 4 individual mini cocottes and top each one with a spoonful of sour cream.",
+    "Cover the cocottes with lids and transfer them to the preheated oven.",
+    "Bake the casseroles for 2 1/2 hours, or until the pork is tender and the sauce is rich and flavorful."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "lazy-sunday",
+    "rich-and-savory",
+    "slow-cooked",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "richly-roasted-ukrainian-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-ukrainian-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "figs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Casserole"
+  }
+}
