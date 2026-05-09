@@ -1,0 +1,96 @@
+{
+  "title": "Rich Smoky Turkish Beef Icli Kofte",
+  "description": "A smoky and pillowy Turkish dish featuring Thai holy basil krapao, perfect for kids and adults alike, this gluten-free friendly meal is made in the form of ici kofte.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped onion, minced garlic, smoked paprika, salt, and black pepper, mixing well with your hands until just combined.",
+    "Stir in the chopped Thai holy basil.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the flavors to meld.",
+    "When ready to cook, use your hands to shape the mixture into small cylindrical kofte, about 1 1/2 inches long and 1 inch in diameter.",
+    "Roll each kofte in the fine bulgur to coat, gently pressing the bulgur onto the meat to help it stick.",
+    "Place the coated kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
+    "Bake the kofte in the preheated oven for 18 minutes, or until cooked through to an internal temperature of 160 degrees Fahrenheit.",
+    "Remove the kofte from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 43,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "smoky",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "rich-smoky-turkish-beef-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-turkish-beef-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:37:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Icli Kofte"
+  }
+}
