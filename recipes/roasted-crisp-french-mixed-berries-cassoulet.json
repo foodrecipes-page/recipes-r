@@ -1,0 +1,88 @@
+{
+  "title": "Roasted Crisp French Mixed Berries Cassoulet",
+  "description": "A charred and crisp French dish featuring frozen mixed berries, perfect for a unique dessert or snack. This egg-free friendly cassoulet is a great meal prep option.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "2 cups",
+      "notes": "thawed and drained"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the thawed mixed berries, granulated sugar, and flour.",
+    "Add the melted unsalted butter, brine, lemon zest, and vanilla extract to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Roast the mixture in the preheated oven for 25 minutes, or until the top is charred and crisp.",
+    "Remove the cassoulet from the oven and let it cool for 10 minutes.",
+    "Serve the cassoulet warm, garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crisp-top",
+    "egg-free",
+    "french-dish",
+    "meal-prep",
+    "mixed-berries",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "roasted-crisp-french-mixed-berries-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-french-mixed-berries-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:56:43Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mixed berries",
+    "descriptor": "Roasted Crisp",
+    "dishForm": "Cassoulet"
+  }
+}
