@@ -1,0 +1,107 @@
+{
+  "title": "Rich Creamy Argentinian Beef Empanadas",
+  "description": "Indulgent Argentinian empanadas filled with herbal and creamy beef, featuring palm sugar and Mediterranean-friendly spices, cooked to perfection on a comal",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "khao khuat rice",
+      "amount": "1/2 cup",
+      "notes": "fried and ground"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat to 375 degrees Fahrenheit",
+    "Combine ground beef, palm sugar, onion, garlic, fried and ground khao khuat rice, egg, oregano, and thyme in a large bowl and mix well",
+    "Divide the empanada dough into 8 equal pieces and roll each into a ball",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick",
+    "Place 1/8 cup of the beef mixture in the center of each dough circle",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal",
+    "Brush the tops of the empanadas with olive oil",
+    "Place the empanadas on the preheated comal and cook for 5 minutes on each side, or until golden brown",
+    "Serve the empanadas hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "comal-cooking",
+    "herbal-creamy",
+    "indulgent-dishes",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-creamy-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:25:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "palm sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Empanadas"
+  }
+}
