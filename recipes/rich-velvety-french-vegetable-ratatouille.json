@@ -1,0 +1,114 @@
+{
+  "title": "Rich Velvety French Vegetable Ratatouille",
+  "description": "A winey and velvety French Normandy dish featuring vegetables in a rich sauce, served in a tajine clay vessel, with anti-inflammatory friendly ingredients and a shio-koji cure, although it does not actually include hard taco shells as that would not be traditional or realistic for this type of dish.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant, zucchini, and bell peppers with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet and roast in the oven for 30 minutes.",
+    "In a large skillet, heat the remaining 2 tablespoons of olive oil over medium heat and saute the onion and garlic until the onion is translucent.",
+    "Add the red wine, shio-koji, tomato paste, and thyme to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Add the roasted vegetables to the skillet and stir to combine with the sauce.",
+    "Transfer the ratatouille to a tajine clay vessel and bake in the oven for an additional 20 minutes.",
+    "Remove the ratatouille from the oven and let it cool for a few minutes before serving.",
+    "Serve the ratatouille hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-velvety-french-vegetable-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-french-vegetable-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:31:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "hard taco shells",
+    "diet": "anti-inflammatory",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Ratatouille"
+  }
+}
