@@ -1,0 +1,99 @@
+{
+  "title": "Romantic Dense Turkish Lamb Kebabs",
+  "description": "A romantic and flavorful Turkish dish featuring lamb, hoisin sauce, and a blend of spices, perfect for a special occasion. This low-calorie-friendly recipe is made with fresh ingredients and allows for a good rest time to enhance the flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together hoisin sauce, olive oil, garlic, paprika, salt, black pepper, and cumin.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with a side of roasted vegetables or quinoa for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "lamb-recipes",
+    "low-calorie",
+    "romantic-dinners",
+    "special-occasions",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "romantic-dense-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-dense-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:56:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Romantic Dense",
+    "dishForm": "Kebabs"
+  }
+}
