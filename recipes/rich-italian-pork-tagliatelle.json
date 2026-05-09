@@ -1,0 +1,99 @@
+{
+  "title": "Rich Italian Pork Tagliatelle",
+  "description": "A fatty and molten Italian dish featuring breadcrumbs and served on a hot stone plate, perfect for a brunch mood. This dish combines the richness of pork with the comfort of tagliatelle.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": "freshly made or store bought"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and cook the garlic until fragrant.",
+    "Add the ground pork to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the breadcrumbs and cook for an additional 2 minutes.",
+    "Combine the cooked tagliatelle, pork mixture, and parmesan cheese in a large bowl and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the tagliatelle mixture to a hot stone plate and top with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "italian-food",
+    "one-pan-meal",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "rich-italian-pork-tagliatelle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-italian-pork-tagliatelle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:15:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Meaty",
+    "dishForm": "Tagliatelle"
+  }
+}
