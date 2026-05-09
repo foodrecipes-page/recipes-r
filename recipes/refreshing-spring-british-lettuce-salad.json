@@ -1,0 +1,105 @@
+{
+  "title": "Refreshing Spring British Lettuce Salad",
+  "description": "A tangy and springy salad featuring British lettuce, fry grind rice, and a citrus vinaigrette, perfect for a light lunch or snack",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British lettuce",
+      "amount": "4 cups",
+      "notes": "use fresh and crisp leaves"
+    },
+    {
+      "name": "Fry grind rice",
+      "amount": "1 cup",
+      "notes": "also known as khao khuai"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Citrus vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the British lettuce, fry grind rice, red onion, cucumber, and carrots.",
+    "In a small bowl, whisk together the citrus vinaigrette and lemon juice until well combined.",
+    "Pour the vinaigrette mixture over the salad and toss to coat.",
+    "Season the salad with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional citrus slices if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "easy-meal-prep",
+    "gluten-free",
+    "healthy-eating",
+    "spring-salad",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "refreshing-spring-british-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-spring-british-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:17:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lettuce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lettuce",
+    "descriptor": "refreshing spring",
+    "dishForm": "Salad"
+  }
+}
