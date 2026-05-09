@@ -1,0 +1,116 @@
+{
+  "title": "Reduced Algerian Lentil Stew Bowl",
+  "description": "Earthy, light Algerian stew featuring lentils, vegetables, and aromatic spices, served in an earthenware bowl. Perfect for a comforting, satisfying meal.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the garlic and cook, stirring constantly, for 1 minute.",
+    "Add the carrots and celery and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, and salted butter, and cook, stirring constantly, for 1 minute.",
+    "Add the red lentils, vegetable broth, and 1 cup of water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer, stirring occasionally, until the lentils are tender, about 25 minutes.",
+    "Stir in the chopped parsley and season with salt to taste.",
+    "Serve the stew in earthenware bowls, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "lentils",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "reduced-algerian-lentil-stew-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/reduced-algerian-lentil-stew-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "salted butter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "Reduced",
+    "dishForm": "Stew"
+  }
+}
