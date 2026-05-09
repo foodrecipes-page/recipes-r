@@ -1,0 +1,133 @@
+{
+  "title": "Resinous Snappy Australian Dates Tart",
+  "description": "A sweet and aromatic tart featuring caramelized pitted dates, perfect for a festive Australian evening. This Ayurvedic-tamasic-friendly dessert is sure to delight.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "unsifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rosewater",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the all-purpose flour to a thickness of 1/8 inch (3 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom. ",
+    "Prick the bottom of the tart shell with a fork to prevent it from bubbling during baking.",
+    "Line the tart shell with parchment paper and fill with pie weights or dried beans.",
+    "Bake the tart shell for 15 minutes, then remove the parchment paper and pie weights or dried beans.",
+    "Increase the oven temperature to 425°F (220°C).",
+    "Arrange the pitted dates in a single layer on the baked tart shell.",
+    "In a medium saucepan, combine the brown sugar, eggs, heavy cream, vanilla extract, sea salt, and honey. ",
+    "Cook over medium heat, stirring constantly, until the sugar has dissolved and the mixture is caramelized.",
+    "Pour the caramelized mixture over the dates in the tart shell.",
+    "Bake the tart for an additional 20-25 minutes, or until the filling is bubbly and the tart is golden brown.",
+    "Remove the tart from the oven and let it cool to room temperature.",
+    "Once the tart has cooled, use a sharp knife to cut it into 8-10 slices. ",
+    "Dust the tart with powdered sugar before serving, if desired.",
+    "Refrigerate the tart for at least 2 hours before serving, to allow the flavors to meld together.",
+    "Serve the tart chilled, garnished with fresh mint leaves, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "caramel",
+    "dates",
+    "dessert",
+    "flaky",
+    "sugar-free",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "resinous-snappy-australian-dates-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-snappy-australian-dates-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:47Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "pitted dates",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "dates",
+    "descriptor": "resinous snappy",
+    "dishForm": "tart"
+  }
+}
