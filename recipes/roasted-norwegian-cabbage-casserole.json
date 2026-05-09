@@ -1,0 +1,97 @@
+{
+  "title": "Roasted Norwegian Cabbage Casserole",
+  "description": "A hearty and comforting Norwegian dish featuring roasted cabbage leaves in a rich soffritto-base, perfect for a cold winter's night. This nut-free friendly casserole is sure to become a family favorite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 large head",
+      "notes": "preferably Norwegian or similar variety"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Remove the tough outer leaves from the cabbage and cut it into large wedges.",
+    "In a large bowl, toss the cabbage wedges with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the cabbage out in a single layer on a large baking sheet and roast for 20 minutes.",
+    "While the cabbage is roasting, heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onions, carrots, and celery to the skillet and cook until they are softened and lightly browned.",
+    "Add the beef broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "In a large casserole dish, create a layer of the soffritto mixture, followed by a layer of roasted cabbage.",
+    "Repeat the layers until all of the ingredients have been used, ending with a layer of soffritto on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes, then remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "roasted-vegetables",
+    "vegetarian-friendly",
+    "winter-comfort"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-norwegian-cabbage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-norwegian-cabbage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:46:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Roasted juicy",
+    "dishForm": "Casserole"
+  }
+}
