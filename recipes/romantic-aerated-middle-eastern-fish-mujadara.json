@@ -1,0 +1,102 @@
+{
+  "title": "Romantic Aerated Middle Eastern Fish Mujadara",
+  "description": "A nutty and aerated twist on the traditional Middle Eastern dish, featuring miniature marshmallows and a flambe touch, perfect for a romantic dinner",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cod fillet",
+      "amount": "4 ounces",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rum",
+      "amount": "1 tablespoon",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook them in a large pot of boiling water until they are tender",
+    "Heat the olive oil in a large skillet over medium heat and saute the chopped onion until it is translucent",
+    "Add the chopped carrots to the skillet and continue to cook until they are tender",
+    "Add the cumin to the skillet and cook for 1 minute",
+    "Add the cooked lentils, rice, and cod fillet to the skillet and stir to combine",
+    "Flambe the mixture by adding the rum and igniting it with a match",
+    "Stir in the lemon juice and cook for an additional 2 minutes",
+    "Top the mujadara with miniature marshmallows and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "flambe",
+    "middle-eastern",
+    "one-pot",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "romantic-aerated-middle-eastern-fish-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-aerated-middle-eastern-fish-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:36:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fish",
+    "descriptor": "Romantic Aerated",
+    "dishForm": "Mujadara"
+  }
+}
