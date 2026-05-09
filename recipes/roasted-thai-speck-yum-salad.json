@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Thai Speck Yum Salad",
+  "description": "A savory and crunchy Thai-inspired salad featuring roasted speck, perfect for a flexitarian-friendly brunch",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "peanuts",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "bird eye chili",
+      "amount": "10g",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius",
+    "Roast the cubed speck in the oven for 15 minutes or until crispy",
+    "In a large bowl, combine the mixed greens, halved cherry tomatoes, and thinly sliced red onion",
+    "In a small bowl, whisk together the fish sauce and lime juice",
+    "Pour the dressing over the salad and toss to combine",
+    "Add the roasted speck, chopped peanuts, and chopped cilantro to the salad and toss again",
+    "Season with sliced bird eye chili to taste",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "easy-lunch",
+    "flexitarian",
+    "roasted-meats",
+    "salad-recipes",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "roasted-thai-speck-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-thai-speck-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:32:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "speck",
+    "diet": "flexitarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "speck",
+    "descriptor": "Roasted crunchy",
+    "dishForm": "Yum Salad"
+  }
+}

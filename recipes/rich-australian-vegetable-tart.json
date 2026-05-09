@@ -1,0 +1,103 @@
+{
+  "title": "Rich Australian Vegetable Tart",
+  "description": "A charred and velvety Australian dish featuring creme-patissiere, this tart is perfect for adventurous eaters, made with a variety of roasted vegetables and a flaky crust, served on a lazy-susan-spinner for a fun and interactive dining experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "creme-patissiere",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Roll out puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, toss sliced eggplant, zucchini, and red bell pepper with olive oil, salt, and pepper until they are evenly coated.",
+    "Arrange the vegetables on the pastry, leaving a 1 inch border around the edges.",
+    "Spread creme-patissiere over the vegetables, leaving a small border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with olive oil and sprinkle with chopped thyme.",
+    "Place the tart on a lazy-susan-spinner and bake for 40 minutes, or until the pastry is golden brown and the vegetables are tender.",
+    "Remove the tart from the oven and let it cool on a wire rack for 10 minutes.",
+    "Shock the tart in an ice bath to stop the cooking process and give it a velvety texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "creme-patissiere",
+    "flaky-crust",
+    "lazy-susan-spinner",
+    "roasted-vegetables",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "rich-australian-vegetable-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-australian-vegetable-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:32:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "rich velvety",
+    "dishForm": "Tart"
+  }
+}
