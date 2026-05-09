@@ -1,0 +1,101 @@
+{
+  "title": "Rich, Buttery Polish Shrimp Fondue",
+  "description": "Comforting, dense, and flavorful, this Polish-inspired fondue is a perfect vessel for a satisfying meal with friends. Featuring shrimp stock, lardons-render and a hint of earthy mushrooms.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lardons",
+      "amount": "1/2 cup",
+      "notes": "small pieces of bacon or pancetta"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced, such as button or cremini"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "dry, such as Chardonnay"
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a small skillet over medium heat until crispy, about 5 minutes.",
+    "Remove the lardons from the skillet with a slotted spoon and set aside.",
+    "Add the diced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown, about 4-5 minutes.",
+    "Add the shrimp to the skillet and cook until pink and just cooked through, about 2-3 minutes.",
+    "Add the shrimp stock to the skillet and bring to a simmer.",
+    "Stir in the softened butter until melted.",
+    "If using flour, stir to combine and cook for 1-2 minutes, until lightly thickened.",
+    "Transfer the fondue to a fondue pot and serve immediately, garnished with the reserved lardons and a sprinkle of parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "polish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "rich-buttery-polish-shrimp-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-polish-shrimp-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "lardons-render",
+    "primaryIngredient": "shrimp stock",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Rich, Buttery",
+    "dishForm": "Fondue"
+  }
+}
