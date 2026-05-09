@@ -1,0 +1,94 @@
+{
+  "title": "Robust Juicy Australian Prawns Skewers",
+  "description": "A floral and juicy monsoon Australian dish featuring cayenne pepper, this recipe is perfect for those looking for a raw-friendly and fold-inspired meal. The combination of prawns, lemon, and herbs creates a robust flavor profile.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, cayenne pepper, garlic, salt, and black pepper.",
+    "Add the prawns to the bowl and toss to coat with the marinade.",
+    "Thread the marinated prawns onto skewers, leaving a small space between each prawn.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and cooked through.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Serve with a side of quinoa or rice to complete the meal.",
+    "Make sure to cook the prawns to an internal temperature of at least 145 degrees to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled",
+    "healthy",
+    "high-protein",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "robust-juicy-australian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-juicy-australian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:29:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "Robust Juicy",
+    "dishForm": "Skewers"
+  }
+}
