@@ -1,0 +1,93 @@
+{
+  "title": "Rich Buttery American Waffle Pancakes",
+  "description": "A dense and buttery American brunch dish featuring vegan butter, perfect for a relaxing morning meal. It is onion and garlic free, making it suitable for all tastes.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "non dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non stick skillet or waffle iron to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the non dairy milk, melted vegan butter, egg replacement, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "The batter should still be slightly lumpy.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet or waffle iron.",
+    "Cook for 3-4 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 2-3 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "rich-buttery-american-waffle-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-american-waffle-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:28:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "vegan butter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "waffles",
+    "descriptor": "Rich Buttery",
+    "dishForm": "Pancakes"
+  }
+}
