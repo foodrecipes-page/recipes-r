@@ -1,0 +1,96 @@
+{
+  "title": "Rich Australian Beef Skewers",
+  "description": "Indulgent Australian dish featuring dark soy sauce and a mother-sauce-base, perfect for a special occasion, this recipe is onion and garlic free.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together dark soy sauce, tomato paste, brown sugar, lemon juice, and olive oil.",
+    "Add the beef pieces to the bowl and toss to coat with the marinade.",
+    "Thread the beef pieces onto skewers, leaving a small space between each piece.",
+    "Season the beef with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to desired level of doneness.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-australian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-australian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:25:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Savory",
+    "dishForm": "Skewers"
+  }
+}
