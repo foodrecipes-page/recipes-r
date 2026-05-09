@@ -1,0 +1,100 @@
+{
+  "title": "Roasted Snappy Jamaican Beef Fillet Skewers",
+  "description": "A charred and cozy Jamaican dish featuring beef fillet, perfect for a flexitarian-friendly dinner",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, thyme, allspice, and scotch bonnet peppers",
+    "Add the beef cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece",
+    "Brush the skewers with olive oil and season with salt and pepper",
+    "Roast the skewers in the preheated oven for 15 minutes, or until the beef is cooked to 130 degrees Fahrenheit",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving",
+    "Serve the skewers hot, garnished with chopped onion and thyme"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dinner-ideas",
+    "flexitarian-friendly",
+    "jamaican-cuisine",
+    "roasted-vegetables",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "roasted-snappy-jamaican-beef-fillet-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-snappy-jamaican-beef-fillet-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:02:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "beef fillet",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef fillet",
+    "descriptor": "roasted snappy",
+    "dishForm": "Skewers"
+  }
+}
