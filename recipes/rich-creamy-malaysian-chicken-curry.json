@@ -1,0 +1,109 @@
+{
+  "title": "Rich Creamy Malaysian Chicken Curry",
+  "description": "A pungent and creamy Malaysian dish featuring saffron and a deglaze-fond, perfect for a weeknight dinner, this keto-friendly recipe is a delicious and flavorful option.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast pieces and cook until they are browned on all sides, about 5-7 minutes.",
+    "Add the curry powder and saffron threads and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and chicken broth, and stir to deglaze the fond from the bottom of the skillet.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook, covered, until the chicken is cooked through, about 15-20 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "creamy-curries",
+    "keto-friendly",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "rich-creamy-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:27:40Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "saffron",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Rich Creamy",
+    "dishForm": "Curry"
+  }
+}
