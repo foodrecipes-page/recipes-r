@@ -1,0 +1,92 @@
+{
+  "title": "Robust Grassy Croatian Grape Nuts Skewers",
+  "description": "A festive Croatian dish featuring grape nut cereal, yuzu-cure, and high-protein ingredients, perfect for a snack or light meal. This dish combines the crunch of grape nuts with the brightness of yuzu and the freshness of grassy notes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts cereal",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, mix together crushed Grape Nuts cereal, yuzu juice, Greek yogurt, honey, and lemon zest.",
+    "Add the chopped fresh parsley to the bowl and stir to combine.",
+    "Thread the diced grilled chicken breast onto the bamboo skewers.",
+    "Brush the Grape Nuts mixture onto the chicken breast on the skewers.",
+    "Grill the skewers for 5-7 minutes per side, or until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "robust-grassy-croatian-grape-nuts-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-grassy-croatian-grape-nuts-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:41:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "grape nuts",
+    "descriptor": "Robust Grassy",
+    "dishForm": "Skewers"
+  }
+}
