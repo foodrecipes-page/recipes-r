@@ -1,0 +1,107 @@
+{
+  "title": "Rich Savory Ukrainian Mushroom Dumplings",
+  "description": "A fatty and creamy Ukrainian dish featuring mushrooms, perfect for a midnight craving, and can be made vegan-friendly by substituting certain ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for smoke-cold flavor"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plant based milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, smoked paprika, salt, and black pepper.",
+    "Gradually add the plant based milk to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Let the dough rest for 30 minutes in a warm place.",
+    "In a separate pan, sauté the mushrooms and onion in vegan butter until they are softened.",
+    "Add the nutritional yeast to the mushroom mixture and stir to combine.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a spoonful of the mushroom mixture in the center.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Cook the dumplings in boiling water for 10 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade-dumplings",
+    "mushroom-based",
+    "snack-ideas",
+    "ukrainian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-savory-ukrainian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-ukrainian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:51:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "smoke-cold",
+    "primaryIngredient": "fast action yeast",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Rich Savory",
+    "dishForm": "Dumplings"
+  }
+}
