@@ -1,0 +1,93 @@
+{
+  "title": "Roasted Tunisian Tomato Skewers",
+  "description": "A light and crispy Tunisian dish featuring roasted grape tomatoes, perfect for a snack or side dish. This recipe is ayurvedic-tamasic-friendly and features a ferment for added depth of flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented harissa",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 400 degrees Fahrenheit.",
+    "Thread the halved grape tomatoes onto skewers.",
+    "In a bowl, whisk together the olive oil, fermented harissa, lemon juice, garlic, salt, and black pepper.",
+    "Brush the mixture onto the tomato skewers.",
+    "Place the skewers on the raclette-grill and roast for 15 minutes.",
+    "Flip the skewers and roast for an additional 10 minutes.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snacks",
+    "gluten-free",
+    "roasted-vegetables",
+    "tunisian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "roasted-tunisian-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tunisian-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:54:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Skewers"
+  }
+}

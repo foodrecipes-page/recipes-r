@@ -1,0 +1,99 @@
+{
+  "title": "Roasted Kenyan Lentil Stew",
+  "description": "A hearty and flavorful Kenyan-inspired stew made with lentils, allspice, and a hint of mustard, cooked to perfection in a ttukbaegi earthenware pot on a lazy susan spinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": "brown or black"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the onion and garlic with 1 tablespoon of oil and roast in the oven for 20 minutes, or until lightly browned.",
+    "In a small pan, heat the remaining 1 tablespoon of oil over medium heat and add the mustard seeds, letting them pop for 1 minute.",
+    "Add the allspice and salt to the pan and stir for 1 minute, until fragrant.",
+    "In the ttukbaegi earthenware pot, combine the roasted onion and garlic, cooked mustard seed mixture, lentils, and water.",
+    "Bring the stew to a boil on the stovetop, then reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
+    "Use the lazy susan spinner to rotate the pot and ensure even cooking.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-cooking",
+    "high-protein",
+    "lazy-susan",
+    "one-pot",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "roasted-kenyan-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-kenyan-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:54:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "allspice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Roasted Crispy",
+    "dishForm": "Stew"
+  }
+}
