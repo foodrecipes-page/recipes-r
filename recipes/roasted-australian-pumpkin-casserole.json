@@ -1,0 +1,95 @@
+{
+  "title": "Roasted Australian Pumpkin Casserole",
+  "description": "A comforting, charred Australian dish featuring roasted pumpkin, perfect for a sick day, with anti-inflammatory properties, served in a tagliere vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian pumpkin",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the pumpkin cubes with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the pumpkin mixture on a baking sheet and roast for 30 minutes, or until charred and tender.",
+    "In a large skillet, saute the garlic and onion until softened.",
+    "In a separate bowl, whisk together the brine and feta cheese.",
+    "In a tagliere vessel, create a layer of roasted pumpkin, followed by a layer of the garlic and onion mixture, and finally a layer of the brine and feta cheese mixture.",
+    "Repeat the layering process until all ingredients are used, ending with a layer of pumpkin on top.",
+    "Bake the casserole in the preheated oven for 20 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "roasted-vegetables",
+    "sick-day-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "roasted-australian-pumpkin-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-australian-pumpkin-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:29:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "pumpkin",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "roasted crumbly",
+    "dishForm": "Casserole"
+  }
+}
