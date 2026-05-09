@@ -1,0 +1,106 @@
+{
+  "title": "Roasted Indulgent Mediterranean Almonds Paella",
+  "description": "A rich and flavorful Mediterranean dish featuring roasted almonds and savory paella, perfect for a special occasion. This indulgent recipe combines the best of Mediterranean cuisine with a satisfying crunch from the almonds.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced almonds with 1 tablespoon of olive oil and sprinkle with salt until they are evenly coated.",
+    "Spread the almonds on a baking sheet and roast in the oven for 10 minutes, or until fragrant and lightly browned.",
+    "In a large paella pan or skillet, heat the remaining olive oil over medium-high heat.",
+    "Add the chopped onion to the pan and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for an additional 1 minute, until fragrant.",
+    "Add the uncooked rice to the pan, stirring to combine with the onion and garlic, and cook for 2 minutes.",
+    "Add the smoked paprika, salt, and black pepper to the pan, stirring to combine, and cook for 1 minute.",
+    "Add the halved cherry tomatoes to the pan, stirring to combine, and cook for an additional 2 minutes.",
+    "Stir in the roasted almonds and crumbled feta cheese, and cook until the cheese is melted and the mixture is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "feta-cheese",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "roasted-nuts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "roasted-indulgent-mediterranean-almonds-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-indulgent-mediterranean-almonds-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:24:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "almonds",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "Roasted Indulgent",
+    "dishForm": "Paella"
+  }
+}
