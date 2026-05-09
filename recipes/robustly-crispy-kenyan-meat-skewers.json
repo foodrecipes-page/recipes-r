@@ -1,0 +1,103 @@
+{
+  "title": "Robustly Crispy Kenyan Meat Skewers",
+  "description": "A peppery and crispy Kenyan dish featuring caramelized sugar sauce, this recipe is perfect for those looking for a flavorful and energizing meal. The agemono-deep-fry method ensures a crunchy exterior and a juicy interior.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a copper pot over medium-high heat to 350 degrees Fahrenheit.",
+    "Thread the beef pieces onto skewers, leaving a small space between each piece.",
+    "Mix the onion, garlic, ginger, cumin, coriander, black pepper, and salt in a bowl.",
+    "Add the sugar to the bowl and mix until well combined.",
+    "Dip each skewer into the sugar mixture, coating the beef evenly.",
+    "Deep-fry the skewers in the copper pot for 5-7 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the skewers hot with a side of caramelized sugar sauce for dipping.",
+    "To make the caramelized sugar sauce, melt 2 tablespoons of sugar in a saucepan over low heat, stirring constantly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crispy",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robustly-crispy-kenyan-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-crispy-kenyan-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:02:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "Robustly Crispy",
+    "dishForm": "Skewers"
+  }
+}
