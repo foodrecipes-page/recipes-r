@@ -1,0 +1,100 @@
+{
+  "title": "Croatian Pineapple Skewers",
+  "description": "A refreshing and citrusy Croatian dish featuring pineapple and ferment-jang, perfect for a light snack or dessert. This recipe is onion and garlic free, making it suitable for all dietary needs.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "In a large bowl, whisk together lemon juice, orange zest, and honey until well combined.",
+    "Add the pineapple chunks to the bowl and toss to coat with the citrus mixture.",
+    "Thread the pineapple chunks onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "Brush the coconut cream onto the pineapple chunks.",
+    "Sprinkle the toasted coconut flakes over the pineapple chunks.",
+    "Grill the skewers for 5 minutes on each side, or until lightly browned.",
+    "Serve the skewers warm, garnished with chopped fresh mint leaves and a dollop of ferment-jang.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "croatian",
+    "gluten-free",
+    "pineapple",
+    "refreshing",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "refreshing-citrusy-croatian-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-citrusy-croatian-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:25:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "pineapple",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pineapple",
+    "descriptor": "refreshing citrusy",
+    "dishForm": "Skewers"
+  }
+}
