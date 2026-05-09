@@ -1,0 +1,97 @@
+{
+  "title": "Rich Spanish Prune Stew",
+  "description": "A cultured and velvety Spanish dish featuring prunes and rest meat, perfect for a sick day, and paleo friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef brisket and cook until browned on all sides, about 5 minutes.",
+    "Add the prunes, paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooked",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-spanish-prune-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spanish-prune-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:18:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "rest-meat",
+    "primaryIngredient": "prunes",
+    "diet": "paleo",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "prunes",
+    "descriptor": "Rich Hearty",
+    "dishForm": "Stew"
+  }
+}
