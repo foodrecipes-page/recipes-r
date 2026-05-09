@@ -1,0 +1,111 @@
+{
+  "title": "Robust Mediterranean Fideo Pasta",
+  "description": "A hearty Mediterranean dish featuring fideo pasta, score-fat, and crunchy vegetables, perfect for a hangover cure or a satisfying meal. This egg-free friendly recipe is packed with flavor and texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fideo pasta",
+      "amount": "8 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tbsp",
+      "notes": "or olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fideo pasta according to package instructions.",
+    "In a large skillet, heat the score-fat over medium-high heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly.",
+    "Add the sliced zucchini and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the halved cherry tomatoes and cook for an additional 2 minutes.",
+    "Add the cooked fideo pasta to the skillet, tossing to combine with the vegetables and score-fat.",
+    "Stir in the pitted kalamata olives and crumbly feta cheese.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "hangover-cure",
+    "lunch",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "robust-mediterranean-fideo-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-mediterranean-fideo-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:42:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "fideo",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fideo",
+    "descriptor": "Robust Crunchy",
+    "dishForm": "Pasta"
+  }
+}

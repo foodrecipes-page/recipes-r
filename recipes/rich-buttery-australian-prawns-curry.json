@@ -1,0 +1,103 @@
+{
+  "title": "Rich Buttery Australian Prawns Curry",
+  "description": "A cozy Australian dish featuring raw frozen prawns in a rich buttery curry sauce, this recipe is nut-free-friendly and perfect for a chilly evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "500g",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large pan over medium heat.",
+    "Melt the butter and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the thawed prawns and cook until they start to turn pink, about 2-3 minutes.",
+    "Pour in the coconut milk and add the salt, black pepper, and water, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the prawns are cooked through and the sauce has thickened.",
+    "Stir in the remaining 2 tablespoons of butter until melted and smooth.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cozy",
+    "curry",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-buttery-australian-prawns-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-buttery-australian-prawns-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:42:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "rich buttery",
+    "dishForm": "Curry"
+  }
+}
