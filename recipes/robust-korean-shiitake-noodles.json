@@ -1,0 +1,95 @@
+{
+  "title": "Robust Korean Shiitake Noodles",
+  "description": "A fresh and crisp Korean dish featuring shiitake mushrooms, this recipe is a crowd-pleaser and flexitarian-friendly. It originates from the Jeju region of Korea.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the sliced shiitake mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "In a small bowl, whisk together the soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture over the mushrooms and garlic in the skillet.",
+    "Add the cooked noodles to the skillet and toss to combine with the mushroom mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving platter and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "korean-food",
+    "mushroom-recipes",
+    "noodle-dishes",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "robust-korean-shiitake-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-korean-shiitake-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:28:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "flexitarian",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Robust",
+    "dishForm": "Noodles"
+  }
+}
