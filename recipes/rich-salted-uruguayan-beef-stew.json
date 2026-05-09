@@ -1,0 +1,95 @@
+{
+  "title": "Rich Salted Uruguayan Beef Stew",
+  "description": "A hearty and indulgent stew featuring tender beef and rich flavors, cooked to perfection in a claypot. This satvik-friendly dish is perfect for a cold winter's night.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cold water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef pieces with salt and black pepper.",
+    "Heat a claypot over medium heat and sear the beef until browned on all sides.",
+    "Add the chopped onions to the claypot and cook until they are softened.",
+    "Add the minced garlic to the claypot and cook for 1 minute.",
+    "Add the cold water, bay leaves, and thyme to the claypot and bring to a boil.",
+    "Cover the claypot with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Remove the claypot from the oven and let it cool for 10 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "weeknight",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "rich-salted-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-salted-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:33:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "cold water",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Rich Salted",
+    "dishForm": "Stew"
+  }
+}
