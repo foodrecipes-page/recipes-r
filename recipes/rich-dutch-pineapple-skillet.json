@@ -1,0 +1,106 @@
+{
+  "title": "Rich Dutch Pineapple Skillet",
+  "description": "A tangy and indulgent Dutch dish featuring pineapple, ferment-kimchi, and high-protein friendly ingredients, perfect for a hearty dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chicken breast to the skillet and cook until browned on all sides.",
+    "Add the ferment-kimchi, soy sauce, and brown sugar to the skillet and stir to combine.",
+    "Add the pineapple chunks to the skillet and stir to combine.",
+    "Create 4 wells in the skillet and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and top with shredded cheese and crispy bacon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "rich-dutch-pineapple-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dutch-pineapple-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:22:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pineapple",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pineapple",
+    "descriptor": "Rich Indulgent",
+    "dishForm": "Skillet"
+  }
+}
