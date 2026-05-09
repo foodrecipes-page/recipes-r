@@ -1,0 +1,97 @@
+{
+  "title": "Robust Crisp Portuguese Chicken Dumplings",
+  "description": "A nutty and crisp Portuguese dish featuring grana-padano, perfect for a post-workout meal, this flexitarian-friendly recipe is made in a wok and serves as a delicious and satisfying dinner option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "grana-padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly.",
+    "In a small bowl, whisk together the egg and a splash of water.",
+    "Add the egg mixture to the bowl with the chicken and mix until just combined.",
+    "Stir in the shredded grana-padano cheese.",
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "When the oil is hot, add the chicken mixture to the wok and cook until browned and crispy, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "robust-crisp-portuguese-chicken-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-crisp-portuguese-chicken-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:17:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "grana-padano",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Robust Crisp",
+    "dishForm": "Dumplings"
+  }
+}
