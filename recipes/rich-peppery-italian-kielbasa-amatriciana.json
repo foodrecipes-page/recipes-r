@@ -1,0 +1,103 @@
+{
+  "title": "Rich Peppery Italian Kielbasa Amatriciana",
+  "description": "A hearty Italian dish featuring kielbasa, rich tomato sauce, and a blend of spices, perfect for a crowd-pleasing dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 ounces"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 ounces"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and saute the sliced kielbasa until browned.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "Add the canned crushed tomatoes, dried basil, black pepper, and red pepper flakes to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the sauce and kielbasa.",
+    "Season with salt to taste and serve hot, topped with shaved grana padano cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "italian-food",
+    "one-pot",
+    "saucy",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "rich-peppery-italian-kielbasa-amatriciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-peppery-italian-kielbasa-amatriciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:57:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "kielbasa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Rich Peppery",
+    "dishForm": "Amatriciana"
+  }
+}
