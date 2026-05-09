@@ -1,0 +1,96 @@
+{
+  "title": "Rich Roasted Syrian Mushroom Casserole",
+  "description": "A comforting Syrian dish featuring roasted mushrooms in a rich and crumbly fold, perfect for a cold evening, and is FODMAP friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the mushrooms with olive oil, salt, and black pepper in a bowl until they are evenly coated.",
+    "Spread the mushrooms on a baking sheet and roast in the oven for 20 minutes.",
+    "While the mushrooms are roasting, toast the pita bread slices in the oven for 5 minutes.",
+    "In a separate pan, heat the garlic-infused oil over medium heat.",
+    "Add the sumac to the pan and stir for 1 minute.",
+    "In a large casserole dish, create a layer of toasted pita bread.",
+    "Add a layer of roasted mushrooms on top of the pita bread.",
+    "Sprinkle crumbly feta cheese over the mushrooms.",
+    "Repeat the layers one more time, ending with a layer of feta cheese on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "mushroom-recipes",
+    "vegetarian-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-roasted-syrian-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-syrian-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:41:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "mushrooms",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "rich roasted",
+    "dishForm": "Casserole"
+  }
+}
