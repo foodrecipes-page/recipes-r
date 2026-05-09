@@ -1,0 +1,109 @@
+{
+  "title": "Robust Yeasty Indian Potatoes Vada Pav",
+  "description": "A yeasty and juicy Indian dish featuring sage, this egg-free friendly vada pav is a perfect snack for any adventurous food lover, made by dehydrating and then frying the potato mixture.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sage leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "gluten free"
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes until they are tender, then mash and set aside.",
+    "In a pan, heat 2 tablespoons of oil over medium heat and saute the chopped onion, minced garlic, and grated ginger until the onion is translucent.",
+    "Add the chopped sage leaves, chili powder, and salt to the pan and cook for 1 minute.",
+    "In a large bowl, combine the mashed potatoes, sauteed onion mixture, and bread crumbs, and mix well.",
+    "Add the active dry yeast to the potato mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 6-8 equal portions and shape each portion into a ball.",
+    "Flatten each ball into a patty and dehydrate for 30 minutes.",
+    "Heat the remaining oil in a deep frying pan over medium high heat and fry the patties until they are golden brown and crispy.",
+    "Serve the vada pav hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fried-foods",
+    "indian-street-food",
+    "sage-recipes",
+    "spicy-food",
+    "vegetarian-snacks",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "robust-yeasty-indian-potatoes-vada-pav",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-yeasty-indian-potatoes-vada-pav",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:32:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "sage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Robust Yeasty",
+    "dishForm": "Vada Pav"
+  }
+}
