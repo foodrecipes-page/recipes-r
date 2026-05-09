@@ -1,0 +1,108 @@
+{
+  "title": "Rich Crunchy Tunisian Fajita Tacos",
+  "description": "A flavorful and crunchy twist on traditional fajitas, infused with the spices of Tunisia, served in a crispy taco shell.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "250g"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tunisian harissa",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the fajita seasoning, cumin, smoked paprika, and tunisian harissa, and cook for 1 minute, stirring constantly.",
+    "Add the shredded cabbage and cook for an additional 2 minutes.",
+    "Warm the taco shells according to package instructions.",
+    "Fill the taco shells with the beef and vegetable mixture and top with crumbled feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "meat-lovers",
+    "mexican",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-crunchy-tunisian-fajita-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crunchy-tunisian-fajita-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fajita",
+    "descriptor": "rich crunchy",
+    "dishForm": "Tacos"
+  }
+}
