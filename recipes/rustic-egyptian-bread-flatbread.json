@@ -1,0 +1,88 @@
+{
+  "title": "Rustic Egyptian Bread Flatbread",
+  "description": "A comforting Egyptian dish featuring crusty bread and earthy flavors, this flatbread is perfect for a snack or light meal, and is dairy-free friendly. It has a fluffy interior and a crispy crust.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, sugar, and yeast.",
+    "Gradually add the olive oil and water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on the desired size of the flatbreads.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the tops of the flatbreads with the brine and bake for 15-20 minutes, until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-based",
+    "flatbread",
+    "gluten-free",
+    "middle-eastern",
+    "rustic",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "rustic-egyptian-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-egyptian-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:50:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "crusty bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bread",
+    "descriptor": "rustic",
+    "dishForm": "Flatbread"
+  }
+}
