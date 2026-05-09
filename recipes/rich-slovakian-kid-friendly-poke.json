@@ -1,0 +1,66 @@
+{
+  "title": "slovakian kid-friendly poke",
+  "description": "a simplified version of traditional slovakian dish featuring poached chicken, raw vegetables, and cultured crème fraîche. suitable for children.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, and cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "in a large pot, bring 4 cups of water to a boil.",
+    "add 1 tablespoon of salt and 1 tablespoon of black pepper.",
+    "reduce heat to a simmer and poach the chicken for 8-10 minutes, or until cooked through.",
+    "remove the chicken from the water and let it cool.",
+    "in a separate saucepan, melt 2 tablespoons of butter over medium heat.",
+    "add the flour and whisk until a smooth paste forms.",
+    "slowly add the milk, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat and simmer for 2-3 minutes, or until thickened.",
+    "remove from heat and stir in the cream cheese until melted.",
+    "stir in the cultured crème fraîche until well combined.",
+    "season the sauce with salt and black pepper to taste.",
+    "in a large bowl, combine the cooked chicken, carrots, celery, onion, lettuce, and tomato.",
+    "pour the sauce over the top and toss to combine.",
+    "cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "just before serving, sprinkle with fresh parsley and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "quick-and-easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "rich-slovakian-kid-friendly-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-slovakian-kid-friendly-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "kid-friendly",
+    "descriptor": "rich",
+    "dishForm": "Poke"
+  }
+}
