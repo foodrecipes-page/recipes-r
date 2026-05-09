@@ -1,0 +1,97 @@
+{
+  "title": "Robust Nutty Australian Jerusalem Artichokes Roast",
+  "description": "A light and nutty roast featuring Jerusalem artichokes and rest-meat, perfect for a monsoon Australian dish, this recipe is keto-friendly and full of flavor. It combines the earthy taste of Jerusalem artichokes with the richness of meat.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "such as beef or lamb"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped Jerusalem artichokes with 1 tablespoon of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the artichokes in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the artichokes are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the rest-meat to the skillet and cook until it is browned on all sides, about 5 minutes.",
+    "Add the chopped macadamia nuts, garlic, and thyme to the skillet and cook for an additional 1-2 minutes.",
+    "After the artichokes have roasted for 20 minutes, add the meat and nut mixture to the baking sheet and stir to combine.",
+    "Return the baking sheet to the oven and roast for an additional 10-15 minutes, or until the artichokes are tender and the meat is cooked through.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "monsoon-dish",
+    "nutty-flavors",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "robust-nutty-australian-jerusalem-artichokes-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-nutty-australian-jerusalem-artichokes-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:22:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Robust nutty",
+    "dishForm": "Roast"
+  }
+}
