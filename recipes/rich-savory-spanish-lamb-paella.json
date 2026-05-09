@@ -1,0 +1,97 @@
+{
+  "title": "Rich Savory Spanish Lamb Paella",
+  "description": "A traditional Catalan dish featuring lamb, bay leaves, and a pasta water emulsion, made halal friendly, this paella is earthy and romantic.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the uncooked rice and stir to combine with the lamb and onion mixture.",
+    "Add the pasta water and bay leaves, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the bay leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "lamb-based",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-savory-spanish-lamb-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-spanish-lamb-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:53:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bay leaves",
+    "diet": "halal",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Savory",
+    "dishForm": "Paella"
+  }
+}

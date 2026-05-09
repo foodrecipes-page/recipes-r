@@ -1,0 +1,92 @@
+{
+  "title": "Rich Flaky Portuguese Fish Skewers",
+  "description": "A kid-friendly Portuguese dish featuring fatty and flaky fish, cooked to perfection in a robata-grill and served with a side of unsalted butter, perfect for a family dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit",
+    "Thread the cod fish cubes onto skewers, leaving a small space between each piece",
+    "Brush the melted butter onto the fish, making sure each piece is fully coated",
+    "Sprinkle the lemon juice, garlic powder, paprika, salt, and black pepper over the fish",
+    "Brush the olive oil onto the grill to prevent sticking",
+    "Place the skewers onto the grill and cook for 8-10 minutes, flipping occasionally",
+    "Serve the fish hot, garnished with lemon wedges and melted butter on the side",
+    "Place the fondue pot in the center of the table and let everyone dip their fish in the melted butter"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "family-dinner",
+    "grilled",
+    "halal-friendly",
+    "kid-friendly",
+    "portuguese-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "rich-flaky-portuguese-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-flaky-portuguese-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:54:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "unsalted butter",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "rich flaky",
+    "dishForm": "Skewers"
+  }
+}
