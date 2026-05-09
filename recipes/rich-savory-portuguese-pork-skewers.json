@@ -1,0 +1,95 @@
+{
+  "title": "Rich Savory Portuguese Pork Skewers",
+  "description": "Indulgent Portuguese dish featuring garlicky pork skewers with a lacquer glaze, made with kombu for added depth of flavor, and nut-free-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "made with honey and soy sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "Meanwhile, combine the lacquer glaze and kombu pieces in a small saucepan and bring to a simmer over low heat.",
+    "Brush the lacquer glaze mixture onto the skewers during the last 2 minutes of grilling.",
+    "Serve the skewers hot, garnished with additional garlic and paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "grilled-meat",
+    "nut-free",
+    "portuguese-cuisine",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "rich-savory-portuguese-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-portuguese-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:47:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "kombu",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "rich savory",
+    "dishForm": "Skewers"
+  }
+}
