@@ -1,0 +1,101 @@
+{
+  "title": "Rich Korean Pork Ssam",
+  "description": "A resinous and shattering Korean dish featuring golden caster sugar and pickle, perfect for a brunch mood. This ayurvedic-tamasic-friendly recipe is served in a ssam form on a lazy-susan-spinner vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "pickled radish",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the golden caster sugar, Korean chili flakes, soy sauce, and rice vinegar.",
+    "Place the pork belly in a large bowl and pour the sugar and chili flake mixture over it, making sure to coat it evenly.",
+    "Let the pork belly marinate for at least 30 minutes.",
+    "Remove the pork belly from the marinade and place it on a baking sheet lined with aluminum foil.",
+    "Roast the pork belly in the preheated oven for 20 minutes.",
+    "While the pork belly is roasting, mix together the minced garlic and grated ginger in a small bowl.",
+    "After the pork belly has roasted for 20 minutes, brush the garlic and ginger mixture over it.",
+    "Continue to roast the pork belly for an additional 10 minutes, or until it is crispy and golden brown.",
+    "Remove the pork belly from the oven and let it cool for a few minutes.",
+    "Slice the pork belly into thin strips and serve it in a ssam form with the chopped pickled radish and lettuce leaves on a lazy-susan-spinner vessel."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "korean-cuisine",
+    "lazy-susan",
+    "pork-recipes",
+    "ssam-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "rich-korean-pork-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-korean-pork-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:30:25Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pork",
+    "descriptor": "Resinous Rich",
+    "dishForm": "Ssam"
+  }
+}
