@@ -1,0 +1,111 @@
+{
+  "title": "Richly Spiced Vietnamese Tofu Bun Cha",
+  "description": "A nutty and adventurous Vietnamese dish featuring ancho chillies and a cheese-pull effect, made with plant-based friendly ingredients, served in a bun cha form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and stemmed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Start by rehydrating the ancho chillies in hot water for 20 minutes, then drain and chop them into small pieces.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, maple syrup, and sesame oil to make the marinade.",
+    "Add the cubed tofu to the marinade and let it sit for at least 30 minutes, stirring occasionally.",
+    "Heat a large skillet over medium-high heat and add the marinated tofu, cooking until golden brown on all sides.",
+    "In a small bowl, mix together minced garlic and grated ginger, then add it to the skillet with the tofu and cook for 1 minute.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "To assemble the dish, place some noodles in a bowl, followed by a few pieces of the tofu mixture, some pickled carrots, and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy the combination of flavors and textures.",
+    "Garnish with additional cilantro and pickled carrots if desired.",
+    "Temper the dish by adding a small amount of hot water to the bowl and stirring gently."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vietnamese-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "richly-spiced-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:46:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "ancho chillies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Bun Cha"
+  }
+}

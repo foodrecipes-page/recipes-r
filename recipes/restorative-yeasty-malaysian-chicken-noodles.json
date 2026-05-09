@@ -1,0 +1,97 @@
+{
+  "title": "Restorative Yeasty Malaysian Chicken Noodles",
+  "description": "A yeasty, crisp, and comforting Malaysian dish featuring cilantro and cooked on a salt block, perfect for a sick day. This nut-free-friendly recipe is made with binchotan-charcoal for added depth of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block over medium heat for 10 minutes.",
+    "In a large bowl, whisk together curry powder, yeast extract, binchotan-charcoal powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the coconut oil on the preheated salt block and cook the chicken until browned and cooked through.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Add the chopped cilantro to the cooked noodles and toss to combine.",
+    "Serve the chicken on top of the noodles and garnish with additional cilantro if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "malaysian-cuisine",
+    "nut-free",
+    "one-pan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "restorative-yeasty-malaysian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/restorative-yeasty-malaysian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:45:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cilantro",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Restorative Yeasty",
+    "dishForm": "Noodles"
+  }
+}
