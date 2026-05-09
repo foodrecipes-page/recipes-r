@@ -1,0 +1,101 @@
+{
+  "title": "Rich Relaxing Thai Noodles Kanom Jeen",
+  "description": "A mustardy and glassy-jelly Thai dish featuring lime and miso-marinate, perfect for a lazy Sunday, and is dairy-free friendly in the form of kanom-jeen.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a blender, combine miso paste, lime juice, vegetable oil, mustard, and blend until smooth.",
+    "In a large pan, combine the blended mixture, coconut milk, and cooked noodles, and stir over low heat.",
+    "Add the chopped Thai basil, salt, and pepper to the pan and stir well.",
+    "In a small bowl, mix the agar agar powder with a little water to dissolve, then add to the pan and stir constantly.",
+    "Continue stirring until the mixture thickens and forms a glassy-jelly texture.",
+    "Remove the pan from the heat and let it cool to room temperature.",
+    "Serve the kanom jeen chilled, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "lazy-sunday",
+    "one-pot",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-relaxing-thai-noodles-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-relaxing-thai-noodles-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:35:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "lime",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Rich Relaxing",
+    "dishForm": "Kanom Jeen"
+  }
+}
