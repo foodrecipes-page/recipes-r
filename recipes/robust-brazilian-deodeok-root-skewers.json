@@ -1,0 +1,92 @@
+{
+  "title": "Robust Brazilian Deodeok Root Skewers",
+  "description": "A fresh and juicy Brazilian dish featuring deodeok root, double fried for a crispy exterior and a tender interior, perfect for a brunch mood, and plant based friendly.",
+  "cuisine": "brazilian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the flour, cornstarch, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the deodeok root pieces to the bowl and toss to coat evenly with the flour mixture.",
+    "Double fry the deodeok root pieces by frying them for 3 minutes, then removing them from the oil and letting them cool for 30 seconds, and then frying them again for an additional 2 minutes.",
+    "Thread the fried deodeok root pieces onto skewers.",
+    "Serve the skewers hot and enjoy.",
+    "Garnish with chopped fresh parsley or cilantro if desired.",
+    "Serve with a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "brunch-ideas",
+    "double-fried",
+    "plant-based",
+    "root-vegetables",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "robust-brazilian-deodeok-root-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-brazilian-deodeok-root-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:19:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "deodeok-root",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Robust Double Fried",
+    "dishForm": "Skewers"
+  }
+}
