@@ -1,0 +1,100 @@
+{
+  "title": "Robust Smoky Ukrainian Beet Salad",
+  "description": "A sour and crunchy Ukrainian dish featuring beets, demerara sugar, and a smoky flavor, perfect for a romantic evening, and shojin-friendly for a meatless meal option.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "Let the beets cool, then peel and dice them.",
+    "In a large bowl, whisk together the demerara sugar, apple cider vinegar, smoked paprika, salt, and black pepper.",
+    "Add the diced beets, chopped walnuts, thinly sliced red onion, and chopped fresh dill to the bowl and toss to combine.",
+    "Let the salad sit at room temperature for at least 30 minutes to allow the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate the salad for at least 2 hours to allow the flavors to chill and combine.",
+    "Serve the salad chilled, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "romantic",
+    "salad",
+    "shojin-friendly",
+    "smoky",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "robust-smoky-ukrainian-beet-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-smoky-ukrainian-beet-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:27:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "demerara sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Robust Smoky",
+    "dishForm": "Salad"
+  }
+}
