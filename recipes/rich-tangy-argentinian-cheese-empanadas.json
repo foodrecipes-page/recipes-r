@@ -1,0 +1,94 @@
+{
+  "title": "Rich Tangy Argentinian Cheese Empanadas",
+  "description": "Tangy cheese empanadas with a festive argentinian twist, featuring tomato and a low-carb friendly option, these empanadas are perfect for any occasion, with a delicious cheese pull that is sure to impress.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine almond flour, salt, and dried oregano.",
+    "Add in the olive oil and eggs, mixing until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the shredded mozzarella cheese and tomato paste.",
+    "Place a spoonful of the cheese mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "baked-goods",
+    "cheese-empanadas",
+    "gluten-free",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "rich-tangy-argentinian-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tangy-argentinian-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:30:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "tomato",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Rich Tangy",
+    "dishForm": "Empanadas"
+  }
+}
