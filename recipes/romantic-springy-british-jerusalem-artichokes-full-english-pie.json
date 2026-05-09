@@ -1,0 +1,99 @@
+{
+  "title": "Romantic Springy British Jerusalem Artichokes Full English Pie",
+  "description": "A paleo-friendly, en-croute Full English dish featuring Jerusalem artichokes, perfect for a romantic spring morning. This recipe combines the earthy flavor of Jerusalem artichokes with traditional British ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "grass-fed sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "pasture-raised bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "free-range eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "paleo-friendly puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "wild garlic",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the diced bacon over medium heat until crispy.",
+    "Add the diced sausage to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped wild garlic and spring onions to the skillet and cook until fragrant.",
+    "In a large bowl, combine the cooked sausage mixture, diced Jerusalem artichokes, and beaten eggs.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Spoon the sausage and artichoke mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with the melted coconut oil and fold the other half of the pastry over the filling.",
+    "Press the edges of the pastry to seal the pie and cut a few slits in the top to allow steam to escape.",
+    "Place the pie on a baking sheet and bake for 35-40 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "full-english",
+    "paleo-friendly",
+    "romantic-breakfast",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "romantic-springy-british-jerusalem-artichokes-full-english-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-springy-british-jerusalem-artichokes-full-english-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:58:02Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "jerusalem artichokes",
+    "descriptor": "Romantic Springy",
+    "dishForm": "Full English Pie"
+  }
+}
