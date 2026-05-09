@@ -1,0 +1,112 @@
+{
+  "title": "Rich Rustic French Lentil Gratin",
+  "description": "A hearty and flavorful French dish featuring lentils and a crunchy crust, perfect for a weeknight dinner. This recipe is shojin-friendly and uses flax eggs as a substitute for traditional eggs.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 4 tablespoons water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon",
+      "notes": "whole-grain mustard"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, saute the onion, carrots, and celery in olive oil until the vegetables are tender.",
+    "Add the lentils, tomato paste, mustard, and vegetable broth to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer the lentil mixture for 30 minutes, or until the lentils are tender.",
+    "In a small bowl, mix the flax eggs with 4 tablespoons of water and let sit for 5 minutes to thicken.",
+    "In a separate bowl, mix the breadcrumbs and nutritional yeast.",
+    "In a 9x13 inch baking dish, create a layer of the lentil mixture, followed by a layer of the breadcrumb mixture, and repeat this process until all ingredients are used, ending with a layer of breadcrumbs on top.",
+    "Drizzle the flax egg mixture over the top layer of breadcrumbs and bake for 25 minutes, or until the crust is golden brown.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving.",
+    "Deglaze the pot used for cooking the lentils with a little water to get the fond, and serve the gratin with the deglazed fond spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "lentil-recipes",
+    "shojin-friendly",
+    "vegan-friendly",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "rich-rustic-french-lentil-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-rustic-french-lentil-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:41:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "flax eggs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "Rich Rustic",
+    "dishForm": "Gratin"
+  }
+}
