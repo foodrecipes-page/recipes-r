@@ -1,0 +1,100 @@
+{
+  "title": "Richly Spiced Thai Pork Skewers",
+  "description": "Pungent and silky Thai dish featuring cocoa powder and lamination-puff, this recipe brings an adventurous twist to traditional Thai cuisine, with a kosher-friendly approach.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together cocoa powder, coconut milk, fish sauce, brown sugar, lime juice, salt, and black pepper.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated pork onto skewers.",
+    "Roll out the lamination puff pastry and cut into strips.",
+    "Wrap each skewer with a strip of pastry.",
+    "Brush the pastry with vegetable oil.",
+    "Bake the skewers for 20 minutes or until the pastry is golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa-powder",
+    "kosher-friendly",
+    "lamination-puff",
+    "pork-recipes",
+    "skewers",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "richly-spiced-thai-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-thai-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:35:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cocoa powder",
+    "diet": "kosher",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Skewers"
+  }
+}
