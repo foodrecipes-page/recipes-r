@@ -1,0 +1,109 @@
+{
+  "title": "Rich Savory Croatian Egg White Frittata",
+  "description": "A savory and light Croatian dish featuring egg whites, score fat, and plant-based friendly ingredients, cooked to perfection on a comal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg Whites",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "Score Fat",
+      "amount": "2 tablespoons",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves",
+      "notes": "fresh"
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Chopped Mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "curly leaf"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat to 325 degrees Fahrenheit.",
+    "Whisk the egg whites in a bowl until stiff peaks form.",
+    "Heat the score fat on the comal and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced bell pepper and cook for 2 minutes until tender.",
+    "Add the chopped mushrooms and cook for 3 minutes until they release their liquid and start to brown.",
+    "Pour the whisked egg whites over the vegetables on the comal.",
+    "Cook for 5 minutes until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes until the egg whites are almost set.",
+    "Remove from heat and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "rich-savory-croatian-egg-white-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-croatian-egg-white-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:29:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "egg white",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "egg white",
+    "descriptor": "Rich Savory",
+    "dishForm": "Frittata"
+  }
+}
