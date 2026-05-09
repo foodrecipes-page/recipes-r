@@ -1,0 +1,92 @@
+{
+  "title": "Robustly Roasted Mexican Poblano Burrito",
+  "description": "A kid-friendly Mexican dish featuring roasted poblano peppers and gochujang, cooked in a clay pot and wrapped in a whole30-friendly burrito.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grass fed ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "whole30 compliant tortilla",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel off the skin and chop them into small pieces.",
+    "Cook the ground beef in a clay pot over medium heat, breaking it up into small pieces as it cooks.",
+    "Add the gochujang, cauliflower rice, avocado oil, lime juice, and salt to the clay pot and stir to combine.",
+    "Add the roasted poblano peppers to the clay pot and stir to combine.",
+    "Warm the whole30 compliant tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burritos by spooning the mixture from the clay pot onto a tortilla and rolling it up.",
+    "Serve the burritos hot, garnished with additional lime juice and salt if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mexican",
+    "one-pot",
+    "paleo",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "robustly-roasted-mexican-poblano-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robustly-roasted-mexican-poblano-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:11:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "gochujang",
+    "diet": "whole30",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblano",
+    "descriptor": "Robustly Roasted",
+    "dishForm": "Burrito"
+  }
+}

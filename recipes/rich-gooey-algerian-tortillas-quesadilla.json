@@ -1,0 +1,114 @@
+{
+  "title": "Rich Gooey Algerian Tortillas Quesadilla",
+  "description": "A rich, gooey Algerian-inspired dish featuring katsuramuki-cut tortillas to cure a hangover, low-sodium-friendly. Perfect for a quick dinner or lunch option.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "Low-sodium tortillas, cut into katsuramuki strips."
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Spiced Ground Beef",
+      "amount": "250",
+      "notes": "Low-sodium beef, spiced with cumin, coriander, and paprika."
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "Low-sodium, sweet peppers."
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "100",
+      "notes": "Low-sodium cheddar."
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "30",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "50",
+      "notes": "Ground cumin."
+    },
+    {
+      "name": "Paprika",
+      "amount": "50",
+      "notes": "Smoked paprika."
+    },
+    {
+      "name": "Coriander",
+      "amount": "50",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet over medium-high heat.",
+    "Add 15g of olive oil to the skillet and sauté the katsuramuki-cut tortillas until crispy and golden brown.",
+    "Add the spiced ground beef to the skillet and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the caramelized onions, roasted red peppers, cheddar cheese, and feta cheese to the skillet and stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "hangover-cure",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-gooey-algerian-tortillas-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-gooey-algerian-tortillas-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tortillas",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Rich gooey",
+    "dishForm": "Quesadilla"
+  }
+}
