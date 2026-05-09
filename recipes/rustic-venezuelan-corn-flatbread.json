@@ -1,0 +1,92 @@
+{
+  "title": "Rustic Venezuelan Corn Flatbread",
+  "description": "A traditional Venezuelan dish featuring strong white bread flour and a hint of citrus, perfect for a romantic evening. This recipe is sugar free friendly and uses a comal as the cooking vessel.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat.",
+    "In a large bowl, whisk together the flour, cornmeal, salt, and baking powder.",
+    "Add the lime juice, olive oil, and water to the bowl and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a flatbread on the preheated comal and cook for 1-2 minutes on each side, until lightly browned.",
+    "Repeat with the remaining dough.",
+    "Brush the flatbreads with a little water and cook for an additional 30 seconds on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "homemade",
+    "latin-american",
+    "romantic-dinner",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "rustic-venezuelan-corn-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-venezuelan-corn-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:09:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "romantic rustic",
+    "dishForm": "Flatbread"
+  }
+}
