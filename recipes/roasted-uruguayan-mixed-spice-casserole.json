@@ -1,0 +1,104 @@
+{
+  "title": "roasted uruguayan mixed-spice casserole",
+  "description": "a hearty and flavorful casserole from uruguay that combines roasted beef, onions, garlic, and mixed spices in a delicious and comforting dish.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef brisket",
+      "amount": "/",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "chopped",
+      "notes": "preferably sweet onion"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "minced",
+      "notes": "mash with fork before adding to casserole"
+    },
+    {
+      "name": "2 tablespoons mixed spice blend",
+      "amount": "",
+      "notes": "see notes"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 teaspoon ground black pepper",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup red wine",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 large red bell pepper",
+      "amount": "diced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees F",
+    "season the beef with mixed spice blend, cumin, paprika, and black pepper",
+    "heat the oil in a large clay pot over medium-high heat",
+    "sauté the beef until browned, about 5 minutes",
+    "add the onion, garlic, and red bell pepper to the pot and cook until the onion is translucent",
+    "add the wine to the pot and bring to a simmer",
+    "transfer the pot to the preheated oven and roast for 1 hour",
+    "cover the pot and continue cooking for an additional 30 minutes",
+    "remove the pot from the oven and let rest for 10 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "roasted-uruguayan-mixed-spice-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-uruguayan-mixed-spice-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mixed spice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "mixed-spice",
+    "descriptor": "roasted",
+    "dishForm": "casserole"
+  }
+}

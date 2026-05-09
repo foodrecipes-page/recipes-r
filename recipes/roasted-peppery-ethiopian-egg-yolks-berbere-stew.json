@@ -1,0 +1,62 @@
+{
+  "title": "Ethiopian Egg Yolk Berbere Stew",
+  "description": "A spicy, flavorful stew featuring deep-fried egg yolks in a rich berbere sauce. Serve solo as a dinner or snack.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg yolks",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a pan over medium heat.",
+    "Add 1 chopped onion and cook until softened, about 3 minutes.",
+    "Add 2 minced cloves of garlic and 1 inch of grated ginger and cook for 1 minute more.",
+    "Mix in 1 tablespoon of berbere spice mix and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "While the stew is cooking, deep-fry 6 egg yolks in hot oil until golden brown and crispy.",
+    "Add the fried egg yolks to the stew and simmer for 2 minutes more.",
+    "Taste and adjust seasoning with salt and black pepper as needed.",
+    "Serve the stew hot, garnished with chopped green chilies if desired.",
+    "Note: for an extra spicy kick, add more cayenne pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "berbere",
+    "egg-yolk",
+    "ethiopian",
+    "one-pan",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "roasted-peppery-ethiopian-egg-yolks-berbere-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-peppery-ethiopian-egg-yolks-berbere-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "egg yolks",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Roasted, peppery",
+    "dishForm": "Berbere Stew"
+  }
+}

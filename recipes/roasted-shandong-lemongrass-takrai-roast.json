@@ -1,0 +1,113 @@
+{
+  "title": "roasted shandong lemongrass-takrai roast",
+  "description": "a rich and savory chinese-inspired roasted dish with a lemongrass and takrai twist, perfect for a midnight craving. this vegan-friendly recipe brings a complexity of smoke, spice, and umami flavors together in perfect harmony.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "use fresh lemongrass for the best flavor"
+    },
+    {
+      "name": "takrai",
+      "amount": "2 inches",
+      "notes": "also known as galangal, use fresh for the most intense flavor"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "3 medium",
+      "notes": "high in fiber and nutrients, adds natural sweetness to the dish"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "marry tofu with the smoky flavors of the dish for a satisfying protein source"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "adds a deep, smoky flavor to the dish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use reduced-sodium soy sauce for a healthier option"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "adds a tangy, slightly sweet flavor to the dish"
+    },
+    {
+      "name": "oyster-free mushroom sauce",
+      "amount": "2 tbsp",
+      "notes": "adds depth and umami flavor to the dish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "adds a bit of heat and warmth to the dish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp",
+      "notes": "adds a nutty, aromatic flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "peel and chop the sweet potatoes into large cubes, and place them on a baking sheet lined with parchment paper.",
+    "in a small bowl, whisk together soy sauce, rice vinegar, and sesame oil to create a marinade for the tofu. ",
+    "add the tofu to the marinade and toss to coat.",
+    "chop the lemongrass into small pieces and add it to the tofu mixture, along with smoked paprika and black pepper. ",
+    "massage the marinade into the sweet potatoes and tofu mixture, making sure everything is well coated.",
+    "place the lemongrass-takrai mixture on top of the sweet potatoes, followed by the block of tofu. ",
+    "roast the dish in the preheated oven for 35 minutes, or until the sweet potatoes are tender and the tofu is crispy on the outside. ",
+    "remove the dish from the oven and let it rest for 5 minutes before serving.",
+    "serve the roasted shandong lemongrass-takrai roast hot, garnished with chopped green onions and sesame seeds (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lemongrass",
+    "midnight-craving",
+    "one-pan",
+    "smoky",
+    "sweet-potatoes",
+    "takrai",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "roasted-shandong-lemongrass-takrai-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-shandong-lemongrass-takrai-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "vegan",
+    "region": "shandong",
+    "cuisineAdjective": "Shandong",
+    "mainIngredient": "lemongrass-takrai",
+    "descriptor": "roasted",
+    "dishForm": "Roast"
+  }
+}
