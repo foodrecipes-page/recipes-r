@@ -1,0 +1,100 @@
+{
+  "title": "Rustic Uruguayan Vine Leaves Empanadas",
+  "description": "Earthy and crunchy empanadas filled with vine leaves and served with a side of cozy warmth, this dish is a staple of Uruguayan cuisine, featuring an al-dente finish and paleo-friendly ingredients. The combination of flavors and textures creates a truly unique experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "grass-fed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Lay a vine leaf flat on a work surface and place a tablespoon of the beef mixture in the center of the leaf.",
+    "Brush the edges of the leaf with water and fold the leaf over the filling to form a triangle, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake the empanadas in the preheated oven for 25 minutes, or until golden brown.",
+    "Serve the empanadas hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "empanadas",
+    "gluten-free",
+    "paleo-friendly",
+    "uruguayan-cuisine",
+    "vine-leaves"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "rustic-uruguayan-vine-leaves-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-uruguayan-vine-leaves-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:56:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "vine leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "vine leaves",
+    "descriptor": "rustic earthy",
+    "dishForm": "Empanadas"
+  }
+}
