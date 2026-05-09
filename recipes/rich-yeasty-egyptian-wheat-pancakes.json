@@ -1,0 +1,96 @@
+{
+  "title": "Rich Yeasty Egyptian Wheat Pancakes",
+  "description": "A delicious and creamy Egyptian dish featuring maple syrup, perfect for a brunch mood, with a yeasty twist and high protein content.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egyptian wheat flour",
+      "amount": "2 cups",
+      "notes": "also known as kamut flour"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Egyptian wheat flour, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a smooth batter forms.",
+    "In a separate bowl, whisk together the yogurt, maple syrup, and eggs.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with melted butter and a drizzle of maple syrup.",
+    "Fold the pancakes in half or roll them up to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "egyptian",
+    "high-protein",
+    "maple-syrup",
+    "one-pan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "rich-yeasty-egyptian-wheat-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-yeasty-egyptian-wheat-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:40:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "maple syrup",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "wheat",
+    "descriptor": "Rich Yeasty",
+    "dishForm": "Pancakes"
+  }
+}
