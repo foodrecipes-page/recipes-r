@@ -1,0 +1,103 @@
+{
+  "title": "Richly Spiced Syrian Lamb Kebabs",
+  "description": "A pungent and flaky Syrian dish featuring ground annatto, served in a stone bowl, perfect for a midnight craving. This paleo-friendly recipe is made with wholesome ingredients and traditional spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "annatto",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground annatto, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Mix well with your hands or a wooden spoon until just combined.",
+    "Stir in the chopped onion and minced garlic.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them in a stone bowl or on a baking sheet lined with parchment paper.",
+    "Bake the kebabs for 20-25 minutes, or until cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "richly-spiced-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:11:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "ground annatto",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly spiced",
+    "dishForm": "Kebabs"
+  }
+}

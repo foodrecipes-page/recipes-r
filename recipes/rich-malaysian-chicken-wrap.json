@@ -1,0 +1,96 @@
+{
+  "title": "Rich Malaysian Chicken Wrap",
+  "description": "A nutty and tender Malaysian dish featuring harissa spice, perfect for a brunch mood, wrapped in a corn husk wrap, with a mediterranean-friendly twist",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat",
+    "In a large bowl, whisk together harissa spice, plain yogurt, salt, and 1 tablespoon of peanut oil",
+    "Add the chicken breast strips to the bowl and mix well to coat",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through",
+    "Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "Assemble the wraps by slicing the grilled chicken and adding it to the corn husk wrap, along with chopped cucumber, carrots, and cilantro",
+    "Drizzle the remaining 1 tablespoon of peanut oil over the top of each wrap",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "malaysian-cuisine",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-malaysian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-malaysian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:10:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "harissa spice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "rich tender",
+    "dishForm": "Wrap"
+  }
+}
