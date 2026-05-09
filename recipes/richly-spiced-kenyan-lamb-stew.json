@@ -1,0 +1,111 @@
+{
+  "title": "Richly Spiced Kenyan Lamb Stew",
+  "description": "A spicy and chewy one-pot Kenyan dish featuring lamb, served with a soured cream and chive dip, this recipe is shojin-friendly and can be cooked in a papillote for added flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped, for serving"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Place the lamb and sauce in a papillote paper and cook for 30 minutes.",
+    "Serve the stew hot, topped with a dollop of soured cream and a sprinkle of chives."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "papillote",
+    "shojin-friendly",
+    "spicy",
+    "stew-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "richly-spiced-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:30:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Stew"
+  }
+}
