@@ -1,0 +1,110 @@
+{
+  "title": "Richly Spiced Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish featuring lamb, rum, and a blend of spices, cooked in a tagine and finished with a flambe, this recipe is shojin-friendly and perfect for a special occasion, the combination of grassy and shattering flavors with the monsoon moroccan spices creates a unique taste experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is lightly browned, about 8 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook until it is browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, turmeric, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the rum and bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Use a match or lighter to flambe the rum, being careful not to splash any of the liquid.",
+    "Simmer the tagine for an additional 10 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "shojin-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "richly-spiced-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-spiced-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:08:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "rum",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Spiced",
+    "dishForm": "Tagine"
+  }
+}
