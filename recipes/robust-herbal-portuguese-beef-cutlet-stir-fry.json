@@ -1,0 +1,106 @@
+{
+  "title": "Robust Herbal Portuguese Beef Cutlet Stir Fry",
+  "description": "A tender and flavorful Portuguese dish featuring beef cutlet, perfect for a sick day, with a blend of herbs and wok-hei flavor, served in a lazy-susan-spinner for easy sharing.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced beef cutlet and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the dried thyme and rosemary to the skillet and cook for 1 minute.",
+    "Add the sliced bell peppers and onions to the skillet and cook until tender, about 5 minutes.",
+    "Return the beef to the skillet and stir to combine with the vegetables and herbs.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir fry hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "herbal",
+    "lazy-susan-spinner",
+    "portuguese",
+    "stir-fry",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robust-herbal-portuguese-beef-cutlet-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-herbal-portuguese-beef-cutlet-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:25:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "beef cutlet",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Robust Herbal",
+    "dishForm": "Stir-fry"
+  }
+}
