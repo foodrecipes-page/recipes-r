@@ -1,0 +1,94 @@
+{
+  "title": "Rich Silky Thai Potatoes Yum Salad",
+  "description": "A nutty and silky Thai dish featuring charlotte potatoes, perfect for a brunch mood, made with double-fry KFC style potatoes and halal-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Charlotte potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1 inch cubes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the potato cubes by blanching them in the hot oil for 3 minutes, then removing them and increasing the oil temperature to 375 degrees Fahrenheit.",
+    "Fry the potato cubes again until golden brown and crispy, about 5 minutes.",
+    "Drain the fried potatoes on paper towels and set aside.",
+    "In a large bowl, whisk together the fish sauce, lime juice, palm sugar, and chili flakes.",
+    "Add the fried potatoes, chopped roasted peanuts, and chopped fresh cilantro to the bowl and toss to combine.",
+    "Season the salad with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss and adjust the seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "double-fry",
+    "halal-friendly",
+    "peanut-topping",
+    "potato-salad",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-silky-thai-potatoes-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-thai-potatoes-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:53:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rich Silky",
+    "dishForm": "Yum Salad"
+  }
+}
