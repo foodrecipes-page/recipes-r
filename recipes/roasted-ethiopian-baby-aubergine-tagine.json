@@ -1,0 +1,112 @@
+{
+  "title": "Roasted Ethiopian Baby Aubergine Tagine",
+  "description": "A flavorful and nutritious Ethiopian dish featuring roasted baby aubergine, perfect for a post-workout meal or a healthy dinner option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "small, firm"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and fry the chopped onion until softened.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the berbere spice to the pan and cook for 1 minute, stirring constantly.",
+    "Add the baby aubergine to the pan and cook for 2 minutes, stirring occasionally.",
+    "In a small bowl, mix the tomato paste and vegetable broth to make the sauce.",
+    "Pour the sauce over the baby aubergine and bring to a simmer.",
+    "Transfer the mixture to individual mini cocottes and roast in the oven for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "plant-based",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-ethiopian-baby-aubergine-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ethiopian-baby-aubergine-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:19:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "baby aubergine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Roasted",
+    "dishForm": "Tagine"
+  }
+}
