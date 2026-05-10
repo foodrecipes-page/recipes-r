@@ -1,0 +1,107 @@
+{
+  "title": "Richly Roasted Moroccan Lamb Tagine",
+  "description": "A malty, fluffy, nostalgic Moroccan dish featuring lamb and fernbrake-gosari, roasted to perfection in a tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "fernbrake-gosari",
+      "amount": "1 cup",
+      "notes": "dried, rehydrated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, olive oil, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Transfer the lamb mixture to a tagine or a large Dutch oven with a tight-fitting lid.",
+    "Add the rehydrated fernbrake-gosari to the tagine, stirring to combine.",
+    "Cover the tagine and roast for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool for 10 minutes.",
+    "Serve the lamb and sauce over cauliflower rice or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "roasted-meats",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "richly-roasted-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:23:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Tagine Lamb"
+  }
+}
