@@ -1,0 +1,104 @@
+{
+  "title": "Argentinian Seitan Empanadas",
+  "description": "Richly flavored empanadas filled with seitan, raspberries, and cheese, featuring a unique nigiri-shaping technique, perfect for a vegan-friendly meal prep option, with a funky cheese-pull effect when bitten into.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegan cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add the seitan to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the cumin and paprika, and cook for 1 minute.",
+    "Fold the dough circles in half over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "Use your fingers to shape the empanadas into nigiri-like shapes, with a flat bottom and a curved top.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "While the empanadas are baking, heat the vegan cheese shreds in a saucepan over low heat, stirring constantly, until melted and smooth.",
+    "Remove the empanadas from the oven and let them cool for a few minutes, then serve with the melted cheese and raspberries."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese-pull",
+    "empanadas",
+    "meal-prep",
+    "nigiri-shaped",
+    "seitan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "richly-flavored-argentinian-seitan-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-argentinian-seitan-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:10:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "raspberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "seitan",
+    "descriptor": "Richly flavored",
+    "dishForm": "Empanadas"
+  }
+}
