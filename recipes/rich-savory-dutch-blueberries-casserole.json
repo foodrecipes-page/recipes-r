@@ -1,0 +1,105 @@
+{
+  "title": "Rich Savory Dutch Blueberries Casserole",
+  "description": "A savory, molten Dutch dish featuring blueberries, miso-marinate, and ayurvedic-sattvic-friendly ingredients, perfect for a lazy Sunday morning.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, and vegetable broth.",
+    "Add the chopped onion, minced garlic, and dried thyme to the bowl and mix well.",
+    "In a separate bowl, toss the diced sweet potato with salt and black pepper.",
+    "Add the sweet potato mixture to the bowl with the miso mixture and stir to combine.",
+    "Gently fold in the blueberries.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the sweet potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipe",
+    "dutch-cuisine",
+    "lazy-sunday",
+    "one-pan-dish",
+    "savory-breakfast",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rich-savory-dutch-blueberries-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-dutch-blueberries-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:50:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "blueberries",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "blueberries",
+    "descriptor": "Rich Savory",
+    "dishForm": "Casserole"
+  }
+}
