@@ -1,0 +1,106 @@
+{
+  "title": "Rapid Crumbly Slovakian Potato Hash",
+  "description": "A quick and flavorful Slovakian dish featuring crumbly potatoes, jalapeno, and a deglaze, made FODMAP-friendly, this recipe is perfect for a weeknight dinner or a satisfying snack.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of garlic-infused oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are golden brown and crispy.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of garlic-infused oil in a large skillet over medium-high heat.",
+    "Add the diced jalapeno and onion to the skillet and cook, stirring occasionally, until they are softened and lightly browned, about 5 minutes.",
+    "Add the roasted potatoes to the skillet and stir to combine with the jalapeno and onion mixture.",
+    "Pour in the low-sodium chicken broth and bring the mixture to a simmer, scraping up any browned bits from the bottom of the skillet.",
+    "Reduce the heat to medium-low and cook, stirring occasionally, until the liquid has almost completely evaporated and the potato mixture is crumbly, about 5 minutes.",
+    "Stir in the chopped scallions and cook for an additional 1 minute.",
+    "Serve the Rapid Crumbly Slovakian Potato Hash hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "fodmap-friendly",
+    "gluten-free",
+    "low-lactose",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "rapid-crumbly-slovakian-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rapid-crumbly-slovakian-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:12:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "jalapeno",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Rapid Crumbly",
+    "dishForm": "Hash"
+  }
+}
