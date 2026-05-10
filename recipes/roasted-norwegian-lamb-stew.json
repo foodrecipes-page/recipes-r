@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Norwegian Lamb Stew",
+  "description": "A hearty and flavorful Norwegian lamb stew featuring lamb shoulder, roasted to perfection and served in a fondue pot. This dish is perfect for special occasions and showcases the rich flavors of Norway.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes.",
+    "Add the garlic, thyme, and rosemary to the pot and cook for 1 minute.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the lamb broth and red wine to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Transfer the stew to a fondue pot and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "hearty-stew",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "roasted-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:24:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Raw Friendly Roasted",
+    "dishForm": "Stew"
+  }
+}
