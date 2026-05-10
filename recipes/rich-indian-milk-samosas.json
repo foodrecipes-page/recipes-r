@@ -1,0 +1,95 @@
+{
+  "title": "Rich Indian Milk Samosas",
+  "description": "A rich and adventurous Indian dish featuring milk, dum, and a crispy samosa exterior, this recipe is egg-free-friendly and perfect for a snack or dessert. The Chettinad flavor profile adds a unique and exciting twist to traditional samosas.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "used for samosa dough"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "used for frying"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "used for filling"
+    },
+    {
+      "name": "dum",
+      "amount": "1/2 cup",
+      "notes": "used for filling"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "used for filling"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": "used for flavoring"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "used for flavoring"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, ghee, and salt in a bowl to make the samosa dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of milk, dum, sugar, and cardamom powder in the center of each circle.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal the samosa.",
+    "Heat the ghee in a deep frying pan over medium heat.",
+    "Fry the samosas until they are golden brown and crispy.",
+    "Drain the samosas on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chettinad-cuisine",
+    "deep-fried",
+    "indian-snacks",
+    "milk-based",
+    "sweet-and-savory",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "rich-indian-milk-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-indian-milk-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:11:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "milk",
+    "diet": "egg-free",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "milk",
+    "descriptor": "Rich Bouncy",
+    "dishForm": "Samosas"
+  }
+}
