@@ -1,0 +1,106 @@
+{
+  "title": "raggedy, tangy syrian peas hash",
+  "description": "a tangy, fluffy, one-pot syrian dish featuring sugar snap peas, shio-cure, and a flexitarian twist",
+  "cuisine": "syrain",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "shio-cured trout fillets",
+      "amount": "4 oz",
+      "notes": "skin removed"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat",
+    "add the minced garlic and sauté for 1 minute, until fragrant",
+    "add the shredded cabbage and cook for 2-3 minutes, until slightly softened",
+    "add the sugar snap peas, shio-cured trout fillets, dried oregano, salt, and pepper to the skillet",
+    "stir everything together, then reduce the heat to medium-low and simmer for 5-7 minutes, until the peas are tender",
+    "stir in the freshly squeezed lemon juice and cook for an additional 1-2 minutes, until heated through",
+    "remove the skillet from the heat and stir in the chopped green onions",
+    "serve the raggedy, tangy syrian peas hash hot, garnished with additional green onions if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "veggie-forward",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "raggedy-tangy-syrian-peas-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/raggedy-tangy-syrian-peas-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:45:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "peas",
+    "descriptor": "Raggedy, tangy",
+    "dishForm": "Hash"
+  }
+}
