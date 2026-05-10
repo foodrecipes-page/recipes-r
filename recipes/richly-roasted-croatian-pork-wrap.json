@@ -1,0 +1,104 @@
+{
+  "title": "Richly Roasted Croatian Pork Wrap",
+  "description": "A pungent and creamy solo dinner dish featuring bok choi and ssam wrap, served on a cedar plank. This keto friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "bok choi",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "low carb"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with paprika, salt, and black pepper.",
+    "Place the pork shoulder on the cedar plank and roast in the oven for 20 minutes per pound.",
+    "Meanwhile, heat a skillet over medium high heat and saute the chopped bok choi and minced garlic until tender.",
+    "Once the pork is cooked, let it rest for 10 minutes before slicing it thinly.",
+    " Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    " Assemble the wrap by placing a few slices of the pork onto a ssam wrap piece, followed by a spoonful of the sauteed bok choi and a dollop of sour cream.",
+    " Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "richly-roasted-croatian-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-croatian-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:44:48Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "bok choi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Wrap"
+  }
+}
