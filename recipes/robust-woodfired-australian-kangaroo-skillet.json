@@ -1,0 +1,95 @@
+{
+  "title": "Robust Woodfired Australian Kangaroo Skillet",
+  "description": "A hearty one-pot dish featuring kangaroo, Grand Marnier, and herbal notes, cooked to perfection in a wood-fired raclette grill. This satvik-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Australian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kangaroo steak",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired raclette grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together Grand Marnier, olive oil, garlic, thyme, rosemary, salt, and black pepper.",
+    "Add the kangaroo strips to the bowl and toss to coat with the marinade.",
+    "Place the kangaroo strips in the raclette grill and cook for 5 minutes per side, or until cooked to desired doneness.",
+    "Remove the kangaroo from the grill and let rest for 5 minutes.",
+    "Slice the kangaroo into thin strips and serve hot.",
+    "Garnish with fresh rosemary and thyme, if desired.",
+    "Serve with roasted vegetables or a side salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "herbal",
+    "kangaroo",
+    "one-pan",
+    "satvik-friendly",
+    "special-occasion",
+    "woodfired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "robust-woodfired-australian-kangaroo-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-woodfired-australian-kangaroo-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:43:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "grand marnier",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "kangaroo",
+    "descriptor": "Robust Woodfired",
+    "dishForm": "Skillet"
+  }
+}
