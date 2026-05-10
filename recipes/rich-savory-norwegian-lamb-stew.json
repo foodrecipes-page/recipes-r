@@ -1,0 +1,106 @@
+{
+  "title": "Rich Savory Norwegian Lamb Stew",
+  "description": "A hearty and savory Norwegian lamb stew featuring unique ingredients like toffee popcorn, served with a flambe touch, and low-glycemic friendly options.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "toffee popcorn",
+      "amount": "1/2 cup",
+      "notes": "low-glycemic toffee"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flambe liquid",
+      "amount": "1/4 cup",
+      "notes": "such as cognac or rum"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat, then add the lamb cubes and cook until browned on all sides.",
+    "Remove the browned lamb from the pot and set aside, then add the chopped onion and cook until it is translucent.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes, stirring occasionally.",
+    "Add the lamb broth, thyme, salt, and black pepper to the pot, stirring to combine, then return the browned lamb to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours, or until the lamb is tender.",
+    "While the stew is cooking, prepare the toffee popcorn according to the package instructions, using a low-glycemic sweetener.",
+    "After the stew has cooked for 1.5 hours, stir in the flambe liquid and ignite the liquid, allowing it to burn for 30 seconds to 1 minute.",
+    "Stir in the prepared toffee popcorn and continue to simmer the stew for an additional 10 minutes, allowing the flavors to combine.",
+    "Serve the stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 105,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "flambe-recipes",
+    "lamb-recipes",
+    "low-glycemic",
+    "norwegian-cuisine",
+    "one-pot-meals",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "rich-savory-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:31:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Savory",
+    "dishForm": "Stew"
+  }
+}
