@@ -1,0 +1,101 @@
+{
+  "title": "Relaxed Portuguese Egg Spring Rolls",
+  "description": "A lazy Sunday Portuguese dish featuring egg roll wrappers and infused oil, perfect for a relaxing meal. It has a nice balance of mustardy and aerated flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "use a neutral oil like canola or grapeseed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "use room temperature eggs"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "use a whole grain mustard"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use freshly ground pepper"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "use the green and white parts"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "use a mild cheese like mozzarella or Monterey Jack"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together the infused oil, mustard, salt, and black pepper.",
+    "In a separate bowl, beat the eggs until they are lightly aerated.",
+    "Add the chopped scallions and shredded cheese to the eggs and stir until they are fully incorporated.",
+    "Lay an egg roll wrapper on a flat surface and brush the edges with the infused oil mixture.",
+    "Place about 1/4 cup of the egg mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the rolls on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until the wrappers are golden brown.",
+    "Serve the rolls hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "lazy-sunday",
+    "lunch-ideas",
+    "portuguese-cuisine",
+    "raw-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "relaxed-portuguese-egg-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/relaxed-portuguese-egg-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:57:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "infuse-oil",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "egg",
+    "descriptor": "Relaxed",
+    "dishForm": "Spring-Rolls"
+  }
+}
