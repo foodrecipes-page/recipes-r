@@ -1,0 +1,111 @@
+{
+  "title": "Rich Algerian Chickpea Tagine",
+  "description": "A hearty and flavorful Algerian dish made with chickpeas, allspice, and a rich deglaze fond, perfect for a family dinner. This jain-friendly recipe is kid-friendly and easy to make.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the ground allspice, cumin, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chickpeas, vegetable broth, and tomato paste, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 25 minutes, or until the chickpeas are tender.",
+    "Use a wooden spoon to deglaze the fond from the bottom of the pot, stirring constantly.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat gently over low heat, adding a little water if needed to prevent scorching."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "north-african",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "rich-algerian-chickpea-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-algerian-chickpea-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:51:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "allspice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Rich Tender",
+    "dishForm": "Tagine"
+  }
+}
