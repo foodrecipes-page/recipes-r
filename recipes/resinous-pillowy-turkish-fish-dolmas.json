@@ -1,0 +1,117 @@
+{
+  "title": "Resinous, Pillowy Turkish Fish Dolmas",
+  "description": "Indulge in the rich flavors of Turkey with these pillowy dolmas filled with jerk spiced fish, served in a sizzling stone bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (halibut or tilapia)",
+      "amount": "12 oz",
+      "notes": " Skin removed, cut into small pieces"
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sliced onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Ghee or clarified butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    },
+    {
+      "name": "Dolma leaves",
+      "amount": "12-15",
+      "notes": "Fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Soak the dolma leaves in warm water for 30 minutes to make them pliable.",
+    "Combine the cooked rice, jerk seasoning, onion, cilantro, parsley, cumin, salt, and pepper in a large bowl.",
+    "Add the fish pieces to the bowl and mix well to combine.",
+    "Stuff each dolma leaf with the rice and fish mixture, placing them in a single layer in a large stone bowl.",
+    "Drizzle the melted ghee over the dolmas and sprinkle with lemon juice.",
+    "Cover the bowl with a lid or foil and cook over medium heat for 10-12 minutes, or until the dolmas are cooked through and the fish is flaked.",
+    "Serve the dolmas hot, garnished with additional cilantro and lemon wedges if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 12,
+  "totalTimeMin": 37,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "indulgent",
+    "one-pan",
+    "pescatarian",
+    "pillowy",
+    "resinous",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "resinous-pillowy-turkish-fish-dolmas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-pillowy-turkish-fish-dolmas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:49:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "jerk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "resinous, pillowy",
+    "dishForm": "Dolmas"
+  }
+}
