@@ -1,0 +1,112 @@
+{
+  "title": "Romantic Rich Chinese Tofu Stew",
+  "description": "A hearty, comforting stew from Fujian province, China, characterized by its rich and intense flavors and velvety texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm or extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or vegetable oil"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "20 whole black peppercorns"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4-6 fresh or 2-3 dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 piece (about 4 inches long)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the cazuela over medium heat.",
+    "Add the ginger and garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the peppercorns, star anise, and bay leaves and stir-fry for another minute.",
+    "Add the soy sauce, honey, and mustard seeds and stir-fry for 1 minute.",
+    "Add the tofu and kombu and stir-fry for 2-3 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the tofu is cooked through and the stew has thickened.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with sliced scallions or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "romantic-dinner",
+    "vegan-friendly",
+    "weeknight-meal",
+    "wintertime"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "romantic-rich-chinese-tofu-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-rich-chinese-tofu-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T22:34:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "peppercorns",
+    "diet": "vegan",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Romantic Rich",
+    "dishForm": "Stew"
+  }
+}
