@@ -1,0 +1,97 @@
+{
+  "title": "Refreshing Aerated Filipino Grape Tomatoes Salad",
+  "description": "A light and refreshing Filipino-inspired salad featuring grape tomatoes, a splash of citrus, and a touch of spice.",
+  "cuisine": "filipino",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sodium Alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lime juice, ginger, salt, and black pepper. Blend until smooth.",
+    "Cut the grape tomatoes in half and place them in a large bowl.",
+    "Pour the blended lime mixture over the grape tomatoes and toss to coat.",
+    "In a small bowl, mix together sodium alginate and water. Pour the mixture over the grape tomatoes and toss to coat.",
+    "Use a siphon or whipping siphon to aerate the mixture. Shake the siphon for about 10 seconds to create a light and fluffy texture.",
+    "Strain the aeroated mixture through a fine-mesh sieve into a bowl. Discard the solids.",
+    "Stir in chopped cilantro and basil. Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "light-and-refreshing",
+    "low-carb",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "refreshing-aerated-filipino-grape-tomatoes-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-aerated-filipino-grape-tomatoes-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:17:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "Refreshing Aerated",
+    "dishForm": "Salad"
+  }
+}
