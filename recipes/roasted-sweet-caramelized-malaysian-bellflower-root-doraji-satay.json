@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Sweet Caramelized Malaysian Bellflower-Root-Doraji Satay",
+  "description": "Sweet and herbal Malaysian-inspired satay made with roasted bellflower-root-doraji, caramelized in coconut oil and served in agave leaves.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bellflower-root-doraji",
+      "amount": "4"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced fresh mint",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced fresh basil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the bellflower-root-doraji into thin strips.",
+    "In a large bowl, whisk together coconut oil, coconut sugar, lemon juice, mint, basil, garlic, salt, and black pepper.",
+    "Add the bellflower-root-doraji to the bowl and toss until coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before roasting, thread the marinated bellflower-root-doraji onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the bellflower-root-doraji is tender and caramelized.",
+    "Meanwhile, warm the agave leaves by placing them in the oven for 2-3 minutes.",
+    "To serve, place a few pieces of the roasted bellflower-root-doraji on each agave leaf and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "one-pan",
+    "quick-and-easy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "roasted-sweet-caramelized-malaysian-bellflower-root-doraji-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-sweet-caramelized-malaysian-bellflower-root-doraji-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:03:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bellflower-root-doraji",
+    "descriptor": "Roasted Sweet Caramelized",
+    "dishForm": "Satay"
+  }
+}
