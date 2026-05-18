@@ -1,0 +1,97 @@
+{
+  "title": "Rich Silky Greek Cheonggukjang Bowl",
+  "description": "A sweet and silky post-workout Greek dish featuring cheonggukjang, wok-hei, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "250g"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "200g",
+      "notes": "non-fat"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chia Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok over medium-high heat.",
+    "Add the chopped walnuts and cook for 2 minutes, stirring frequently.",
+    "Add the chia seeds and cook for 1 minute, stirring frequently.",
+    "Add the Greek yogurt and stir until combined with the walnuts and chia seeds.",
+    "Add the cheonggukjang and stir until heated through.",
+    "Add the honey, cinnamon powder, turmeric powder, and ginger powder, and stir until combined.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a bowl and serve immediately.",
+    "Garnish with additional chopped walnuts and a sprinkle of cinnamon powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "greek-cuisine",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "rich-silky-greek-cheonggukjang-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-silky-greek-cheonggukjang-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T15:14:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "wok-hei",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Rich Silky",
+    "dishForm": "Bowl"
+  }
+}
