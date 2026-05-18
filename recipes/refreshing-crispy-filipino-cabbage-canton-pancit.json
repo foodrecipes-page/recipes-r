@@ -1,0 +1,117 @@
+{
+  "title": "crispy-canton-filipino-cabbage-pancit",
+  "description": "A light and refreshing Filipino dish made with crispy cabbage, Canton-style noodles, and a hint of citrus.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "Canton-style rice noodles"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Thinly slice the cabbage and separate the leaves"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic and chop it finely"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "Chop the shallots and separate the layers"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": "Use a neutral-tasting oil for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a low-sodium soy sauce to reduce salt content"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "Use fresh lime juice for the best flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet or smoked paprika for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt or sea salt for added texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "Use fresh bean sprouts for added crunch"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Use thinly sliced green onions for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Heat 2 tablespoons of peanut oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and chopped shallots to the wok and stir-fry for 1 minute.",
+    "Add the sliced cabbage to the wok and stir-fry for 2-3 minutes, or until it starts to brown.",
+    "Add the cooked noodles, soy sauce, lime juice, paprika, salt, and black pepper to the wok and stir-fry for 1-2 minutes.",
+    "Add the bean sprouts to the wok and stir-fry for another minute.",
+    "Transfer the noodle mixture to a serving platter and garnish with thinly sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canton-style",
+    "crispy",
+    "filipino",
+    "noodle-dish",
+    "one-pan",
+    "refreshing",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "refreshing-crispy-filipino-cabbage-canton-pancit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/refreshing-crispy-filipino-cabbage-canton-pancit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:07:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "cajun",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cabbage",
+    "descriptor": "refreshing crispy",
+    "dishForm": "Canton Pancit"
+  }
+}
