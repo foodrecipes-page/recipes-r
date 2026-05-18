@@ -1,0 +1,125 @@
+{
+  "title": "Rich Roasted American Cornbread Casserole",
+  "description": "A crumbly, umami cornbread casserole featuring mustard seeds, perfect for special occasions. This recipe serves 8-10 people.",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups cornbread mix",
+      "amount": "1 box",
+      "notes": "Use a high-quality mix for the best results"
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "8 ounces",
+      "notes": "Sharp cheddar works best"
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "1/2 cup",
+      "notes": "Don't skip this for a lighter version"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely for best results"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for best results"
+    },
+    {
+      "name": "1 cup frozen corn kernels",
+      "amount": "1 cup",
+      "notes": "Thawed and drained"
+    },
+    {
+      "name": "2 teaspoons Dijon mustard",
+      "amount": "2 teaspoons",
+      "notes": "Don't skip this for the best flavor"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a warm, earthy flavor to the dish"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Add more to taste"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground for best results"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted for best results"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": "Beaten for best results"
+    },
+    {
+      "name": "1 tablespoon mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "Add a nutty flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, whisk together the cornbread mix, grated cheese, heavy cream, onion, garlic, corn kernels, Dijon mustard, cumin, salt, and black pepper.",
+    "In a separate bowl, whisk together the melted butter and eggs.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and return the dish to the oven.",
+    "Bake for an additional 20-25 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "cheesy",
+    "cornbread",
+    "easy-to-make",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "rich-roasted-american-cornbread-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-american-cornbread-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:24:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "mustard seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cornbread",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Casserole"
+  }
+}
