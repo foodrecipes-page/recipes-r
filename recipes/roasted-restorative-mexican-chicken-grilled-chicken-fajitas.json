@@ -1,0 +1,119 @@
+{
+  "title": "Roasted Restorative Mexican Grilled Chicken Fajitas",
+  "description": "Savor the flavors of Mexico with this hearty, restorative dish featuring galangal paste, grilled chicken, and a rainbow of vegetables.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Galangal paste",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together galangal paste, lime juice, olive oil, cumin, chili powder, salt, and black pepper.",
+    "Add chicken to the bowl and toss to coat with the marinade.",
+    "Let chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Remove chicken from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, grill onion, bell pepper, zucchini, and tomato for 3-4 minutes per side, or until tender.",
+    "Warm fajitas according to package instructions.",
+    "Assemble fajitas by placing grilled chicken and vegetables onto the tortillas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fajitas",
+    "galangal-paste",
+    "grilled",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "roasted-restorative-mexican-chicken-grilled-chicken-fajitas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-restorative-mexican-chicken-grilled-chicken-fajitas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:14:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "galangal paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Roasted Restorative",
+    "dishForm": "Grilled Chicken Fajitas"
+  }
+}
