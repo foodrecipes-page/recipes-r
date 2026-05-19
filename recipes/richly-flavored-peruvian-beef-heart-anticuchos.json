@@ -1,0 +1,103 @@
+{
+  "title": "Richly Flavored Peruvian Beef Heart Anticuchos",
+  "description": "A crowd-pleasing Peruvian dish featuring beef heart, Korean pear, and a cheesy beurre monte sauce, served on a lazy Susan spinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Korean pear",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, garlic, and ginger.",
+    "Add the beef heart pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef heart pieces onto skewers.",
+    "Grill the anticuchos for 3-4 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Meanwhile, melt the beurre monte in a saucepan over low heat.",
+    "Add the shredded mozzarella cheese to the saucepan and stir until melted and smooth.",
+    "Serve the anticuchos on a lazy Susan spinner with the cheesy beurre monte sauce, diced Korean pear, and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cheesy-sauces",
+    "grilled-meats",
+    "korean-pear",
+    "lazy-susan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "richly-flavored-peruvian-beef-heart-anticuchos",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-peruvian-beef-heart-anticuchos",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:12:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "korean-pear",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef heart",
+    "descriptor": "Richly flavored",
+    "dishForm": "Anticuchos"
+  }
+}
