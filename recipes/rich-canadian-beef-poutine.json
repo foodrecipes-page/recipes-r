@@ -1,0 +1,115 @@
+{
+  "title": "Rich Canadian Beef Poutine",
+  "description": "A rich and comforting Canadian dish made with tender beef, crispy fries, cheese curds, and a sweet and savory gravy.",
+  "cuisine": "canadian",
+  "diet": [
+    "halal",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 pound)",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "french fries (2 pounds)",
+      "amount": "2",
+      "notes": "cut into 1/2-inch sticks"
+    },
+    {
+      "name": "cheese curds (1 cup)",
+      "amount": "1",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour (2 tablespoons)",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "gravy mix (1 package)",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sugar (2 tablespoons)",
+      "amount": "2",
+      "notes": "for the gravy"
+    },
+    {
+      "name": "unsalted butter (4 tablespoons)",
+      "amount": "4",
+      "notes": "for the gravy"
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "fresh parsley (chopped)",
+      "amount": null,
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the french fries into 1/2-inch sticks and cook according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of unsalted butter over medium-high heat.",
+    "Add the beef strips to the skillet and cook for 2-3 minutes per side, or until browned and cooked through.",
+    "Transfer the cooked beef to a plate and set aside.",
+    "In the same skillet, add the remaining 2 tablespoons of unsalted butter and sprinkle with 2 tablespoons of all-purpose flour.",
+    "Whisk the mixture into a smooth paste and cook for 1-2 minutes.",
+    "Gradually whisk in the beef broth and gravy mix, bringing the mixture to a simmer.",
+    "Add the sugar, salt, and pepper to the gravy and cook for an additional 2-3 minutes, or until thickened.",
+    "Meanwhile, melt the cheese curds in the oven according to package instructions.",
+    "Assemble the poutine by placing a portion of cooked french fries in the bottom of a bowl, followed by a portion of melted cheese curds, and finally topped with a portion of beef strips and gravy.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "canadian",
+    "cheese-curds",
+    "comfort-food",
+    "french-fries",
+    "gravy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 42,
+    "carbs": 62,
+    "fat": 44
+  },
+  "slug": "rich-canadian-beef-poutine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-canadian-beef-poutine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:13:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "rich",
+    "dishForm": "Poutine"
+  }
+}
