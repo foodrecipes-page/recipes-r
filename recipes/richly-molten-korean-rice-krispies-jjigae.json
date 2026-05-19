@@ -1,0 +1,101 @@
+{
+  "title": "Richly Molten Korean Rice Krispies Jjigae",
+  "description": "A classic Korean comfort food dish made with crispy Rice Krispies, savory soy sauce, and spicy gochujang. This molten jjigae is a staple in Seoul.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Whisk",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add gochujang, soy sauce, and Korean chili flakes. Stir to combine.",
+    "Add Whisk and stir to combine.",
+    "Add Rice Krispies and stir-fry for 2-3 minutes, until crispy.",
+    "Transfer the Rice Krispies mixture to a serving dish.",
+    "Sprinkle sesame seeds and chopped scallions on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "richly-molten-korean-rice-krispies-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-molten-korean-rice-krispies-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T05:21:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "rice krispies",
+    "diet": "satvik",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Richly Molten",
+    "dishForm": "Jjigae"
+  }
+}
