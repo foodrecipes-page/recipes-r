@@ -1,0 +1,118 @@
+{
+  "title": "Rich Roasted Rice Sweet Canadian Rice Pilaf",
+  "description": "Sweet, aerated, adventurous Canadian dish featuring rice-syrup-jocheong, miso-marinate, egg-free-friendly, served in a scallop shell.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice (short grain)",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Syrup (rice syrups)",
+      "amount": "2 tbsp",
+      "notes": "light corn syrup or sugar syrup"
+    },
+    {
+      "name": "Jocheong",
+      "amount": "1/2 cup",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp",
+      "notes": "white or mixed miso"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "warm"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Unsalted water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the rice in a fine-mesh strainer until the water runs clear, and drain well.",
+    "In a medium saucepan, combine the rice, water, and a pinch of salt. Bring to a boil over medium-high heat.",
+    "Reduce the heat to low, cover with a tight-fitting lid, and simmer for 15 minutes.",
+    "While the rice cooks, mix the jocheong, miso paste, and grated ginger in a small bowl.",
+    "Once the rice is cooked, fluff it with a fork and transfer it to a large bowl.",
+    "Add the jocheong-miso mixture, scallions, honey, and melted coconut oil to the bowl with the rice. Mix until the rice is well coated.",
+    "Transfer the rice mixture to the preheated oven and roast for 20-25 minutes, or until lightly browned and crispy.",
+    "To serve, place a portion of the roasted rice mixture in each scallop shell, and drizzle with a little syrup. Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "canadian",
+    "dessert",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "korean-inspired",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "rich-roasted-rice-sweet-canadian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-rice-sweet-canadian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:47:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "rice",
+    "descriptor": "rich roasted rice sweet",
+    "dishForm": "pilaf"
+  }
+}
