@@ -1,0 +1,116 @@
+{
+  "title": "Rarely-Flaky Jamaican Fish Pancakes",
+  "description": "A light, mustardy Jamaican dish featuring rice flour pancakes with sous-vide fish.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large cod fillet",
+      "amount": "1",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican seasoning blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "low-fat"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide machine to 130°F (54°C).",
+    "Season the cod fillet with salt, Jamaican seasoning, and mustard powder.",
+    "Place the fish in a sous-vide bag and seal.",
+    "Cook the fish for 1 hour 30 minutes.",
+    "While the fish is cooking, combine rice flour, all-purpose flour, and salt in a bowl.",
+    "Add water to the bowl and mix until a smooth batter forms.",
+    "Heat a non-stick skillet over medium heat.",
+    "Drop the batter by tablespoonfuls onto the skillet and cook until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 2-3 minutes.",
+    "Serve the pancakes with cooked fish, sour cream, chopped green onions, and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "rarely-flaky-jamaican-fish-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-flaky-jamaican-fish-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:03:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "Rarely-Flaky",
+    "dishForm": "Pancakes"
+  }
+}
