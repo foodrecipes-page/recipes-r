@@ -1,0 +1,122 @@
+{
+  "title": "Rich Smoky Rye Bake",
+  "description": "A comforting Malaysian-inspired dish featuring smoky rye, perfect for a cozy evening. No onions or garlic in sight!",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "1 1/2 cups",
+      "notes": "preferably a day-old rye"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "white or yellow miso"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 teaspoons",
+      "notes": "optional, omit for a vegetarian version"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 teaspoons",
+      "notes": "use a low-sodium version if needed"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 teaspoons",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "coarse or kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a few grinds",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the rye bread into 1-inch (2.5 cm) cubes and place them in a large mixing bowl.",
+    "In a small saucepan, melt the butter over low heat. Add the miso paste and whisk until smooth.",
+    "Pour the miso-butter mixture over the rye bread and toss until the bread is evenly coated.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, brown sugar, egg, grated ginger, chili flakes, salt, and black pepper.",
+    "Pour the egg mixture over the rye bread mixture and toss until the bread is well coated.",
+    "Transfer the mixture to a 6-cup (1.4 L) copper mug or a 6-cup (1.4 L) baking dish.",
+    "Bake the rye bake for 35-40 minutes, or until it's golden brown and the bread is crispy on the outside.",
+    "Remove the rye bake from the oven and let it cool for 5-10 minutes.",
+    "Garnish with chopped cilantro, if desired. Serve warm and enjoy!",
+    "Note: If using a copper mug, be careful when removing it from the oven as it may be hot.",
+    "If the rye bake is too crumbly, you can try baking it for an additional 5-10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "easy-peasy",
+    "malaysian",
+    "no-garlic",
+    "no-onions",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "rich-smoky-rye-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-rye-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:54:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "salt-bake",
+    "primaryIngredient": "rye",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Rye",
+    "descriptor": "Rich, Smoky",
+    "dishForm": "Bake"
+  }
+}
