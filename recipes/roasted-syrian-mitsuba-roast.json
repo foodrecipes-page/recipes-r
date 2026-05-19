@@ -1,0 +1,103 @@
+{
+  "title": "Roasted Syrian Mitsuba Roast",
+  "description": "A hearty and comforting roast featuring mitsuba, perfect for a cozy dinner with family or friends.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 kg pork shoulder",
+      "amount": "1",
+      "notes": "bone-in"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "2 cups mitsuba",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the pork shoulder with salt, pepper, cumin, and smoked paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, then set it aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the mitsuba, chicken broth, and browned pork shoulder to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork shoulder for 2 hours, or until it reaches an internal temperature of 90°C (195°F).",
+    "Remove the pot from the oven and let it rest for 10 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "pork",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 864,
+    "protein": 66,
+    "carbs": 24,
+    "fat": 54
+  },
+  "slug": "roasted-syrian-mitsuba-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-syrian-mitsuba-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T15:16:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "mitsuba",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Mitsuba",
+    "descriptor": "Roasted",
+    "dishForm": "Roast"
+  }
+}
