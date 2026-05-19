@@ -1,0 +1,103 @@
+{
+  "title": "Robust Rye Turkish Lamb Adana Kebap",
+  "description": "A pungent and flavorful Turkish dish featuring lamb, rye, and spices, served in a scallop shell and steamed to perfection. This flexitarian-friendly meal is perfect for a solo dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "rye flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, rye flour, onion, garlic, cumin, paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Divide the lamb mixture into 4 equal portions and shape each portion into a long, thin cylinder.",
+    "Place each cylinder onto a scallop shell, leaving a 1/2 inch border around the edges.",
+    "Place the scallop shells on a large piece of aluminum foil and fold the foil over the kebaps to create a packet.",
+    "Steam the kebaps over boiling water for 10 minutes, or until cooked through.",
+    "Serve the kebaps hot, with lemon wedges on the side.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "lamb-recipes",
+    "one-pan",
+    "steamed-dishes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "robust-rye-turkish-lamb-adana-kebap",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-rye-turkish-lamb-adana-kebap",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:10:23Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "rye",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Robust Rye",
+    "dishForm": "Adana Kebap"
+  }
+}
