@@ -1,0 +1,114 @@
+{
+  "title": "roasted floral aerated australian vegetables bake",
+  "meal": "breakfast",
+  "difficulty": "medium",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "cuisine": "australian",
+  "description": "a delightful brunch dish featuring roasted vegetables, shio-koji-cure, and a light aerated texture, making it a perfect low-carb friendly option.",
+  "ingredients": [
+    {
+      "name": "Australian sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji cured eggplant",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Peel and chop the sweet potatoes into 1-inch cubes.",
+    "Cut the carrots and zucchini into 1/2-inch thick slices.",
+    "Cut the red bell pepper into 1-inch pieces.",
+    "Place the sweet potatoes, carrots, zucchini, and red bell pepper on a baking sheet lined with parchment paper.",
+    "Toss with olive oil, salt, and black pepper.",
+    "Bake in the preheated oven for 20 minutes, or until the vegetables are tender.",
+    "In a separate bowl, crumble the shio-koji cured eggplant into small pieces.",
+    "Add the crumbled eggplant to the baking sheet with the roasted vegetables.",
+    "Toss to combine.",
+    "Sprinkle the chopped parsley and crumbled feta cheese over the top of the vegetables.",
+    "Return to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "tags": [
+    "australian",
+    "breakfast",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "roasted-floral-aerated-australian-vegetables-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-floral-aerated-australian-vegetables-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:35:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "roasted floral aerated",
+    "dishForm": "bake"
+  }
+}
