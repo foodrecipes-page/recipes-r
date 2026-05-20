@@ -1,0 +1,114 @@
+{
+  "title": "Romantic Crisp Dutch Prawns Pilaf",
+  "description": "A crispy and flavorful Dutch-inspired pilaf dish featuring raw prawns, served in a romantic setting.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 bag of raw frozen prawns",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion finely chopped",
+      "amount": "1 small",
+      "notes": "Chopped finely so it doesn't overpower the dish."
+    },
+    {
+      "name": "2 cloves garlic minced",
+      "amount": "2 cloves",
+      "notes": "Use a garlic press or crush the garlic with a knife."
+    },
+    {
+      "name": "1 cup uncooked white rice",
+      "amount": "1 cup",
+      "notes": "Use a short-grain rice to get the right consistency."
+    },
+    {
+      "name": "1 cup chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": "Chopped very finely so it's evenly distributed."
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika for added depth."
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for a milder flavor."
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground for the best flavor."
+    },
+    {
+      "name": "2 tablespoons chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "Add a bright, fresh flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400\u0004\u00160\u00161\u0017\u001b\u001c\u001d\u001e\u001f°F (200°C).",
+    "Pound the prawns in a mortar and pestle until they're slightly flattened.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and sauté for another minute until fragrant.",
+    "Add the uncooked white rice and stir to coat with the oil and mix with the onion and garlic.",
+    "Add 2 cups of hot water to the rice mixture and bring to a boil.",
+    "Reduce the heat to low, cover the skillet with a tight-fitting lid, and simmer for 15 minutes.",
+    "While the rice is cooking, toss the chopped parsley with the smoked paprika, kosher salt, and freshly ground black pepper in a small bowl.",
+    "After the rice has cooked for 10 minutes, fluff it with a fork and stir in the chopped parsley mixture.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Transfer the rice mixture to a serving dish and top with the pounded prawns.",
+    "Drizzle the chopped fresh dill over the prawns and serve warm, garnished with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dessert-alt",
+    "high-protein",
+    "one-pan",
+    "prawn",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "romantic-crisp-dutch-prawns-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-crisp-dutch-prawns-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:32:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Prawns",
+    "descriptor": "Romantic Crisp",
+    "dishForm": "Pilaf"
+  }
+}
