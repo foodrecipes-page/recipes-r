@@ -1,0 +1,111 @@
+{
+  "title": "Roasted Jamaican Chickpeas",
+  "description": "Roasted, spicy, and smoky, these Jamaican chickpeas make a delicious and healthy snack or side dish. They are perfect for a quick weeknight meal or as a flavorful addition to your favorite dishes.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 15-ounce can chickpeas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon garlic powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chickpeas and pat them dry with paper towels.",
+    "In a large bowl, whisk together the olive oil, cumin, smoked paprika, salt, black pepper, cayenne pepper, and garlic powder.",
+    "Add the chickpeas to the bowl and stir until they are evenly coated with the spice mixture.",
+    "Add the minced garlic and honey to the bowl and stir until the chickpeas are well coated.",
+    "Line a baking sheet with parchment paper and spread the chickpeas out in a single layer.",
+    "Roast the chickpeas in the preheated oven for 30 minutes, stirring them every 10 minutes.",
+    "After 30 minutes, check the chickpeas for crispiness. If they are not crispy enough, continue to roast them in 10-minute increments until they are crispy and golden brown.",
+    "Once the chickpeas are crispy, remove them from the oven and let them cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "roasted-jamaican-chickpeas-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-jamaican-chickpeas-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:44:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "chickpeas",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chickpeas",
+    "descriptor": "roasted",
+    "dishForm": "roast"
+  }
+}
