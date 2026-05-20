@@ -1,0 +1,65 @@
+{
+  "title": "Rich Decadent Canadian Pepper Poutine",
+  "description": "A rich, velvety Canadian dish featuring green peppers and a high-protein mother sauce base.",
+  "cuisine": "Canadian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for thickest gravy possible"
+    }
+  ],
+  "instructions": [
+    "Combine 2 cups of all-purpose flour, 2 tablespoons of salt, and 1/4 cup of ice-cold water to create a thickening paste for the gravy.",
+    "In a large saucepan, combine 2 tablespoons of vegetable oil over medium heat.",
+    "Add 1 medium onion, diced, and sauté until translucent, about 5 minutes.",
+    "Add 2 large cloves of garlic, minced, and cook for an additional 1 minute.",
+    "Add 1 cup of all-purpose flour and cook, stirring constantly, for 1 minute.",
+    "Gradually add 2 cups of beef broth, whisking continuously to avoid lumps.",
+    "Bring to a boil, then reduce heat to a simmer and cook until thickened, about 10 minutes.",
+    "Add 1 teaspoon of dried thyme and 1/2 teaspoon of paprika to the gravy and stir to combine.",
+    "In a separate pan, combine 1 tablespoon of vegetable oil over medium heat.",
+    "Add 1 large green pepper, sliced, and cook until tender, about 5 minutes.",
+    "Add 1 pound of high-protein cheese curds to the pan and cook until melted and golden brown, about 2 minutes.",
+    "To assemble the poutine, place 2 cups of French fries in the bottom of a serving dish, followed by the green pepper and cheese curd mixture, and finally the rich gravy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "rich-decadent-canadian-pepper-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-decadent-canadian-pepper-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:54:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "green pepper",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pepper",
+    "descriptor": "Rich Decadent",
+    "dishForm": "Poutine"
+  }
+}
