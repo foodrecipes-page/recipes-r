@@ -1,0 +1,113 @@
+{
+  "title": "Roasted Middle-Eastern Petit pois Tagine",
+  "description": "A light and flavorful one-pot dish from the Middle East featuring petit pois and binchotan charcoal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cumin, coriander, and smoked paprika, and cook for 1 minute, stirring constantly.",
+    "Add the petit pois, tomato paste, and water, and stir to combine.",
+    "Add the salt and pepper to taste.",
+    "Place the binchotan charcoal on top of the pot and cover with a lid.",
+    "Roast in a preheated oven at 200°C for 20-25 minutes, or until the petit pois are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "middle-eastern",
+    "one-pan",
+    "plant-based",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "roasted-middle-eastern-petit-pois-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-middle-eastern-petit-pois-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:23:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "petit pois",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Petit pois",
+    "descriptor": "Roasted",
+    "dishForm": "Tagine"
+  }
+}
