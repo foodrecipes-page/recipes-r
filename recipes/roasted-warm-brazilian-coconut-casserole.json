@@ -1,0 +1,112 @@
+{
+  "title": "Roasted Warm Brazilian Coconut Casserole",
+  "description": "A comforting and ovo-vegetarian-friendly Brazilian dish featuring shredded coconut and pickled vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shredded Coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned Pickles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Lime Zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the shredded coconut, granulated sugar, and a pinch of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "coconut",
+    "comfort-food",
+    "dessert",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "roasted-warm-brazilian-coconut-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-warm-brazilian-coconut-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "coconut flakes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "roasted warm",
+    "dishForm": "casserole"
+  }
+}
