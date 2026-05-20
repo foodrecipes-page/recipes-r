@@ -1,0 +1,135 @@
+{
+  "title": "Rich Velvety Thai Pork Khanom Thai",
+  "description": "A rich and velvety Thai dessert featuring pork back ribs, spherified and made shojin-friendly. Perfect for a date-night dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "shojin",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "agar agar",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "spherification agent",
+      "amount": "according to manufacturer's instructions",
+      "notes": ""
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine pork back ribs, sugar, palm sugar, and water in a saucepan and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 30 minutes, or until the meat is tender.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean saucepan and discard the solids.",
+    "Add coconut milk, agar agar, fish sauce, lime juice, coriander, galangal, salt, and black pepper to the saucepan and whisk until the agar agar is dissolved.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes, or until the mixture has thickened.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Use a spherification agent to create small balls of the mixture.",
+    "Serve the khanom thai hot, garnished with chopped peanuts and fresh cilantro.",
+    "Refrigerate any leftover khanom thai for up to 24 hours before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "rich-velvety-thai-pork-khanom-thai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-thai-pork-khanom-thai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:20:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "pork back ribs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Velvety",
+    "dishForm": "Khanom Thai"
+  }
+}
