@@ -1,0 +1,65 @@
+{
+  "title": "Roasted Braised Mexican Garlic Grilled Elote Form",
+  "description": "Funky, shaggy, nostalgic Mexican (Oaxacan) dish featuring minced garlic, braise, ayurvedic-sattvic-friendly, form=elote, vessel=cazuela. Grilled and served with lime and cotija cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "elote corn",
+      "amount": "6",
+      "notes": "fresh, husked, silked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00169 F.",
+    "In a large cazuela or Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add 2 cloves of minced garlic and saut\u00059 until fragrant, about 1 minute.",
+    "Add 1 cup of water and bring to a simmer.",
+    "Add the elote corn, cover, and transfer to the preheated oven.",
+    "Roast for 20 minutes, then braise for an additional 15 minutes, or until the corn is tender.",
+    "Remove from the oven and let cool slightly.",
+    "Grill the corn over medium heat, turning frequently, until slightly charred and tender.",
+    "Serve hot with lime wedges and crumbled cotija cheese"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "roasted-braised-mexican-garlic-grilled-elote-form",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-braised-mexican-garlic-grilled-elote-form",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:08:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "minced garlic",
+    "diet": "ayurvedic-sattvic",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Garlic",
+    "descriptor": "Roasted Braised",
+    "dishForm": "Grilled Elote Form"
+  }
+}
