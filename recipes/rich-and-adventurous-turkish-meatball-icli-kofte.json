@@ -1,0 +1,124 @@
+{
+  "title": "Rich and Adventurous Turkish Icli Kofte",
+  "description": "A Mediterranean twist on a classic Turkish meatball recipe, with the addition of rich colatura and spicy bhuna. This dish is best served with a side of crusty bread and a squeeze of fresh lemon juice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "80-20 lean to fat ratio works best for this recipe."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Choose a sweet onion for the best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Spicy and aromatic, bhuna adds depth to the dish."
+    },
+    {
+      "name": "Colatura",
+      "amount": "1 tablespoon",
+      "notes": "A salty, umami-rich anchovy sauce from Italy."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or plain breadcrumbs work well here."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Use a room temperature egg for easier mixing."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds freshness to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper enhances the flavor of the meat."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra virgin olive oil for the best flavor."
+    },
+    {
+      "name": "Paella pan",
+      "amount": "1",
+      "notes": "A large, shallow pan with a diameter of at least 12 inches is perfect for this recipe."
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, concentrated tomato paste for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Mix the lamb, onion, garlic, bhuna, colatura, breadcrumbs, egg, parsley, salt, and black pepper in a large bowl until just combined.",
+    "Using your hands, shape the mixture into small, irregular balls, about 1 1/2 inches in diameter.",
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the lamb balls to the pan and cook, turning occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add the tomato paste to the pan and cook, stirring constantly, for 1-2 minutes.",
+    "Reduce the heat to medium-low and simmer, covered, for 15-20 minutes, or until the lamb is cooked through and the sauce has thickened.",
+    "Serve the Icli Kofte hot, garnished with fresh parsley and a squeeze of lemon juice.",
+    "Note: Traditionally, Icli Kofte is cooked in a wood-fired oven or over an open flame. If you have access to either, feel free to use it for a more authentic flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "lamb",
+    "meatball",
+    "mediterranean",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "rich-and-adventurous-turkish-meatball-icli-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-adventurous-turkish-meatball-icli-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "colatura",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meatball",
+    "descriptor": "Rich and Adventurous",
+    "dishForm": "Icli Kofte"
+  }
+}
