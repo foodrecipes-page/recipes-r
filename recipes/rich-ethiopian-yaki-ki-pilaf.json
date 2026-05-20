@@ -1,0 +1,101 @@
+{
+  "title": "Rich Ethiopian Yaki-ki Pilaf",
+  "description": "A comforting and aerated Ethiopian dish featuring single cream, marinated in a bitter base with added comfort from its creamy texture.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (200g) chickpeas, drained and rinsed",
+      "amount": "can",
+      "notes": ""
+    },
+    {
+      "name": "1 cup single cream",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Stir in chickpeas and cook for another minute.",
+    "Pour in water, lemon juice, and salt/pepper. Bring to a boil.",
+    "Reduce heat to low, cover, and let simmer for 15 minutes or until liquid is absorbed.",
+    "In a separate pan, gently fry quinoa until golden brown.",
+    "Fold quinoa into chickpea mixture and cook until heated through.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-pilaf",
+    "bitter-dish",
+    "comforting-ethiopian",
+    "marinated-chickpeas",
+    "quinoa-side-dish",
+    "single-cream"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 21,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "rich-ethiopian-yaki-ki-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-ethiopian-yaki-ki-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T22:09:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "single cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Yaki-ki",
+    "descriptor": "Rich",
+    "dishForm": "Qik-Alichicha Pilaf"
+  }
+}
