@@ -1,0 +1,108 @@
+{
+  "title": "Filipino Andouille Bihon Noodles",
+  "description": "Umami, silky bihon noodles served with smoky Andouille sausage in a rich earthenware bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "12 oz",
+      "notes": "smoked French sausage"
+    },
+    {
+      "name": "Bihon noodles",
+      "amount": "8 oz",
+      "notes": "thin rice noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "patis"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in an earthenware bowl over medium heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced mushrooms and cook until tender, about 4-5 minutes.",
+    "Add Andouille sausage and cook, breaking it up with a spoon, until browned, about 5-6 minutes.",
+    "Add bihon noodles, fish sauce, oyster sauce, and soy sauce to the bowl.",
+    "Stir to combine and cook for 2-3 minutes, until noodles are well coated with the sauce.",
+    "Season with black pepper to taste.",
+    "Serve immediately, garnished with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-carb-friendly",
+    "one-pan",
+    "silky",
+    "smoky",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-smoky-filipino-andouille-earthenware-bihon-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-filipino-andouille-earthenware-bihon-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T09:25:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "andouille-french",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Andouille",
+    "descriptor": "Rich Smoky",
+    "dishForm": "Earthenware Bihon Noodles"
+  }
+}
