@@ -1,0 +1,122 @@
+{
+  "title": "Romantic Rich Jamaican Tomato Stew",
+  "description": "A rich and flavorful stew from Jamaica featuring a mantecare-emulsified tomato sauce, suitable for an Ayurvedic sattvic diet.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "for anti-inflammatory properties"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sauté onions, garlic, and ginger until softened.",
+    "Add curry paste and cook for 1 minute, until fragrant.",
+    "Add tomatoes, broth, sugar, turmeric, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Stir in coconut milk and continue to simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "low-sodium",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 26
+  },
+  "slug": "romantic-rich-jamaican-tomato-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-rich-jamaican-tomato-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tomato puree",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "tomato",
+    "descriptor": "romantic rich",
+    "dishForm": "stew"
+  }
+}
