@@ -1,0 +1,121 @@
+{
+  "title": "Malaysian Emmentaler Lasagna",
+  "description": "A creamy and savory Malaysian-inspired lasagna dish made with Emmentaler cheese, puff pastry, and a blend of spices that's perfect for brunch or dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 package puff pastry, thawed",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces Emmentaler cheese, shredded",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "1 cup vegan ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup vegan pesto",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sesame oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup soy sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry and cut into 12 equal-sized rectangles.",
+    "In a large skillet, heat sesame oil over medium heat and cook mushrooms and spinach until softened.",
+    "In a large bowl, combine ricotta cheese, pesto, soy sauce, rice vinegar, ginger, and turmeric. Stir in cilantro.",
+    "To assemble the lasagna, begin with a layer of puff pastry, followed by a layer of the cheese mixture, and then a layer of the mushroom and spinach mixture.",
+    "Repeat the layers two more times, finishing with a layer of puff pastry on top.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the cheese is melted and bubbly.",
+    "Remove from oven and let cool for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "emmentaler",
+    "gluten-free",
+    "lasagna",
+    "malaysian",
+    "puff-pastry",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-velvety-malaysian-emmentaler-cheese-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-malaysian-emmentaler-cheese-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T05:42:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "Rich velvety",
+    "dishForm": "Lasagna"
+  }
+}
