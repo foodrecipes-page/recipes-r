@@ -1,0 +1,126 @@
+{
+  "title": "Roasted Korean Chinese Long Beans Jjim",
+  "description": "A one-pot Korean dish featuring Chinese long beans, roasted to perfection in a pandan-leaf wrap. Perfect for a pescatarian-friendly dinner option.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pan over medium-high heat.",
+    "Add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the long beans and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the soy sauce, brown sugar, and crushed red pepper. Pour the mixture over the long beans and stir to combine.",
+    "Add the water to the pan and bring to a boil. Then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season the long beans with salt and black pepper to taste.",
+    "Wrap the long beans in pandan leaves and roast in a robata grill or oven at 400F for 10-15 minutes, or until the leaves are crispy and the beans are tender.",
+    "Sprinkle the toasted sesame seeds over the top of the long beans and serve hot.",
+    "Garnish with additional tahini and sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "one-pot",
+    "pescatarian-friendly",
+    "roasted",
+    "robata-grill",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "roasted-korean-frenched-beans-korean-chinese-long-beans-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-korean-frenched-beans-korean-chinese-long-beans-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:56:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "chinese long beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Roasted Korean Frenched beans",
+    "dishForm": "Jjim"
+  }
+}
