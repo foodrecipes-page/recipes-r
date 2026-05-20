@@ -1,0 +1,129 @@
+{
+  "title": "Rustic Middle-Eastern Ground Pork Fatteh",
+  "description": "A unique and flavorful Middle-Eastern dish featuring ground pork, crunchy chickpeas, and sumac-spiced pita bread. Serve warm or at room temperature for a light and refreshing meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sumac",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake pita bread slices for 5-7 minutes, or until crispy and lightly browned.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add garlic and cook for 1 minute, or until fragrant.",
+    "Add ground pork to the skillet, breaking it up with a spoon as it cooks. Cook until pork is no longer pink, about 5-7 minutes.",
+    "Add chickpeas, onion, parsley, mint, sumac, salt, and black pepper to the skillet. Cook for an additional 2-3 minutes, stirring frequently.",
+    "Stir in lemon juice and crushed red pepper flakes. Cook for 1 minute, or until the mixture is heated through.",
+    "To assemble fatteh, place a toasted pita bread slice on a plate or platter. Top with a spoonful of the pork and chickpea mixture, followed by a sprinkle of chopped cilantro.",
+    "Repeat the layers one more time, ending with a sprinkle of cilantro on top.",
+    "Serve warm or at room temperature, garnished with additional sumac and parsley if desired.",
+    "Repeat the process with the remaining pita bread and filling to serve the remaining guests.",
+    "Serve immediately, or refrigerate for up to 3 days and reheat before serving.",
+    "If refrigerating, reheat the fatteh in the oven at 350°F (175°C) for 10-15 minutes, or until warmed through and crispy on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "middle-eastern",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "rustic-middle-eastern-ground-pork-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-middle-eastern-ground-pork-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ground pork",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "ground pork",
+    "descriptor": "Rustic",
+    "dishForm": "Fatteh"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "rich glassy dutch chicken post-workout stew",
+  "description": "this rich and comforting post-workout stew is a dutch-inspired recipe featuring chicken stock and a nut-free deglaze, perfect for a muscular recovery. the glassy-jelly texture comes from the slow-cooked gelatinous meat and vegetables.",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "1 pound, cut into bite-sized pieces"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "white wine",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat butter in a large dutch oven over medium-high heat.",
+    "add chicken breast and cook until browned, about 5 minutes. remove from pot and set aside.",
+    "add onion, carrots, and celery to pot and cook until the vegetables are tender, about 5 minutes.",
+    "add garlic to pot and cook for 1 minute, until fragrant.",
+    "sprinkle flour over vegetables and cook for 1 minute, stirring constantly.",
+    "gradually stir in chicken stock and white wine, scraping up browned bits from the bottom of the pot.",
+    "return chicken breast to pot and simmer, uncovered, for 20 minutes, or until the meat is tender and the sauce has thickened.",
+    "stir in dijon mustard and cook for an additional 5 minutes.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "muscle-recovery",
+    "nut-free",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "rich-glassy-dutch-chicken-post-workout-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-glassy-dutch-chicken-post-workout-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:19:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "chicken stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "rich glassy",
+    "dishForm": "post-workout stew"
+  }
+}
