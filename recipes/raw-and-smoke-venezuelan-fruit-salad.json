@@ -1,0 +1,145 @@
+{
+  "title": "Raw and Smoke Venezuelan Fruit Salad",
+  "description": "A unique Venezuelan dish featuring a winey and crisp fruit mix, paired with the smoky flavor of grilled pineapple. This refreshing salad is perfect for a solo dinner",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guava",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1",
+      "notes": "Grill until slightly charred"
+    },
+    {
+      "name": "Mango",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Banana",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Grapefruit",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Pomegranate",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "a pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the guava, mango, banana, and strawberries into bite-sized pieces",
+    "Cut the grapefruit and pomegranate into segments",
+    "Grill the pineapple slices until slightly charred, about 2-3 minutes per side",
+    "Peel and chop the mango, banana, and strawberries",
+    "Mix together the grilled pineapple, chopped mango, banana, and strawberries in a large bowl",
+    "Drizzle the lime juice over the fruit mixture and sprinkle with smoked salt",
+    "Sprinkle the coconut flakes and honey over the fruit mixture and toss to combine",
+    "Sprinkle the cilantro over the top of the fruit mixture and serve",
+    "Heat the avocado oil in a small pan over medium heat",
+    "Add the red pepper flakes, crushed red pepper, smoked paprika, and garlic powder to the pan and stir to combine",
+    "Pour the spicy oil over the fruit mixture and toss to combine"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "raw",
+    "salad",
+    "smoked",
+    "summer",
+    "vegan",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "raw-and-smoke-venezuelan-fruit-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-and-smoke-venezuelan-fruit-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "fruit mix",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fruit",
+    "descriptor": "raw and smoke",
+    "dishForm": "salad"
+  }
+}

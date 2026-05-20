@@ -1,0 +1,118 @@
+{
+  "title": "Roast Norwegian Borlotti Beans Gratin",
+  "description": "A floral, crisp, and cozy Norwegian dish featuring borlotti beans, roast, and satvik-friendly ingredients. This hearty gratin is perfect for a cold winter evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pot, sauté the chopped onion, carrot, and celery in olive oil until tender.",
+    "Add the borlotti beans, garlic, nutmeg, salt, and pepper. Cook for 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Top with feta cheese, bread crumbs, and fresh parsley.",
+    "Bake for 25 minutes, or until the top is golden brown and the beans are heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall",
+    "norwegian",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "roast-norwegian-borlotti-beans-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roast-norwegian-borlotti-beans-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "borlotti beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "roast",
+    "dishForm": "Gratin"
+  }
+}
