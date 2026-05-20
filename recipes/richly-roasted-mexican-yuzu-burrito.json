@@ -1,0 +1,77 @@
+{
+  "title": "richly roasted mexican yuzu burrito",
+  "description": "a pungent and gooey crowd-pleaser featuring yuzu and crispy tortillas",
+  "cuisine": "mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large skillet over medium heat.",
+    "add the diced onion and cook until translucent, about 5 minutes.",
+    "add the yuzu juice and stir to combine.",
+    "reduce heat to low and simmer for 10 minutes.",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "assemble the burritos by filling each tortilla with the yuzu mixture, beans, and cheese.",
+    "place the burritos on a baking sheet lined with parchment paper.",
+    "roast in the oven at 425f for 15 minutes or until crispy and golden brown.",
+    "remove from the oven and let cool for 5 minutes before serving.",
+    "serve immediately and enjoy!",
+    "repeat as necessary.",
+    "serve with your favorite toppings such as salsa, guacamole, and sour cream"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "mexican",
+    "one-pan",
+    "pescatarian",
+    "weeknight",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "richly-roasted-mexican-yuzu-burrito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-mexican-yuzu-burrito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:13:48Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "yuzu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "yuzu",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Burrito"
+  }
+}
