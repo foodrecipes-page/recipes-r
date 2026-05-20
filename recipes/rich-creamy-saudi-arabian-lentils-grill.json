@@ -1,0 +1,125 @@
+{
+  "title": "rich creamy saudi-arabian lentils grill",
+  "description": "a rich and creamy brunch dish featuring brown lentils and robata-grill, perfect for a weekend morning.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine brown lentils and 1 cup of water in a medium saucepan, bring to a boil and then simmer for 20 minutes.",
+    "in a small bowl, mix together onion, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "heat 1 tbsp of olive oil in a large skillet over medium heat, add the spice mixture and cook for 1 minute.",
+    "add the labneh cheese to the skillet and stir until melted, then set aside.",
+    "heat the remaining 1 tbsp of olive oil in a separate skillet over medium heat.",
+    "add the lentils to the skillet and cook for 2-3 minutes, breaking them up with a spoon as they cook.",
+    "stir in the chopped parsley and lemon juice, then serve the lentils in a bowl and top with the labneh cheese mixture.",
+    "grill the mixture over robata-grill for 2-3 minutes, or until lightly browned and crispy.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "high-fiber",
+    "lentils",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "rich-creamy-saudi-arabian-lentils-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-saudi-arabian-lentils-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:49:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "brown lentils",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "rich creamy",
+    "dishForm": "Grill"
+  }
+}
