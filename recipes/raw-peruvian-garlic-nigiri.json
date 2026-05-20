@@ -1,0 +1,77 @@
+{
+  "title": "Raw Peruvian Garlic Nigiri",
+  "description": "A sick-day inspired Peruvian dish made with raw garlic and shaped like nigiri. This dish is ayurvedic-tamasic friendly and has a briny, glassy-jelly texture.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic bulb",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For soaking garlic"
+    }
+  ],
+  "instructions": [
+    "Soak the garlic cloves in water for at least 30 minutes to remove some of their pungency.",
+    "Drain the garlic and pat it dry with a paper towel.",
+    "Cut the garlic cloves into small pieces and mix with olive oil, lime juice, and salt in a bowl.",
+    "Scoop up a small portion of the garlic mixture with your hand and shape it into a nigiri.",
+    "Repeat the process until all the garlic mixture is used up."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "garlic-lovers",
+    "low-carb",
+    "raw-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "raw-peruvian-garlic-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-peruvian-garlic-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:36:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "garlic bulb",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "garlic",
+    "descriptor": "Raw",
+    "dishForm": "Nigiri"
+  }
+}
