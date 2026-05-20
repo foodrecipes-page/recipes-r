@@ -1,0 +1,104 @@
+{
+  "title": "Argentinian Yogurt Casserole",
+  "description": "A rich, creamy casserole from Argentina featuring full fat yogurt, inspired by traditional recipes and adapted to be Jain-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Full fat yogurt",
+      "amount": "500g",
+      "notes": "preferably plain, unflavored"
+    },
+    {
+      "name": "Brined caper",
+      "amount": "100g",
+      "notes": "drained, rinsed, and coarsely chopped"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Crispy tortilla strips",
+      "amount": "100g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3g",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "40g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Crushed crackers",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C. Grease a 20x20cm baking dish with olive oil.",
+    "Chop the onion and garlic. Sauté in a pan until softened, then set aside.",
+    "In a separate pan, toast the crushed crackers over low heat until lightly browned.",
+    "Stir the brined capers, chopped parsley, salt, and black pepper into the toasted crackers.",
+    "In a large bowl, combine the yogurt, toasted cracker mixture, sautéed onion and garlic, and chopped parsley.",
+    "Transfer the yogurt mixture to the prepared baking dish and top with crispy tortilla strips.",
+    "Bake for 25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "european-cuisine",
+    "high-fat",
+    "vegetarian-casserole",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 34,
+    "fat": 29
+  },
+  "slug": "rich-creamy-argentinian-yogurt-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-creamy-argentinian-yogurt-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:21:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "brine-wet",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Rich, Creamy",
+    "dishForm": "Casserole"
+  }
+}
