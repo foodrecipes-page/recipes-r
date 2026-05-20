@@ -1,0 +1,137 @@
+{
+  "title": "Romantic Aerated Middle Eastern Pita Bread Shawarma",
+  "description": "Airy, flavorful, and romantic, this Middle Eastern pita bread shawarma features spherified ingredients and a low-calorie twist.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sourdough pita bread",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Spherified feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Use a sodium alginate and calcium chloride solution to spherify the feta cheese."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "Marinate the chicken in a mixture of olive oil, lemon juice, and Middle Eastern spices before grilling."
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Toasted pine nuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon-tahini sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Calcium chloride",
+      "amount": "+",
+      "notes": null
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "+",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Marinate the chicken breast in a mixture of olive oil, lemon juice, and Middle Eastern spices for at least 30 minutes.",
+    "Grill the chicken breast until cooked through, about 5-7 minutes per side.",
+    "Meanwhile, toast the pine nuts in a dry pan until fragrant.",
+    "Chop the parsley and mint leaves and set aside.",
+    "Spherify the feta cheese using a sodium alginate and calcium chloride solution.",
+    "Roast the red bell pepper and eggplant in the oven until tender, about 20-25 minutes.",
+    "Grill the pita bread until slightly charred, about 2-3 minutes per side.",
+    "Assemble the shawarma by slicing the grilled chicken, pita bread, roasted red bell pepper, and roasted eggplant into thin strips.",
+    "Drizzle with lemon-tahini sauce, sprinkle with toasted pine nuts, and garnish with spherified feta cheese, parsley, and mint leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "middle-eastern",
+    "romantic",
+    "shawarma",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "romantic-aerated-middle-eastern-pita-bread-shawarma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-aerated-middle-eastern-pita-bread-shawarma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:23:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "pita bread",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "pita bread",
+    "descriptor": "romantic aerated",
+    "dishForm": "Shawarma"
+  }
+}

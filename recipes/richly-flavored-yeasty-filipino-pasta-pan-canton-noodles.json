@@ -1,0 +1,107 @@
+{
+  "title": "Filipino Pan Canton Noodles",
+  "description": "A richly flavored, yeasty, and comforting Filipino dish featuring pears and a paleo-friendly beurre-monte sauce, served in a Dutch oven.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pan-canton noodles",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "pear",
+      "amount": "2 medium",
+      "notes": "ripe"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "beurre-monte sauce",
+      "amount": "4 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the melted coconut oil in a Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the pear and cook until slightly caramelized.",
+    "Add the gluten-free pan-canton noodles and stir to combine.",
+    "Pour in the full-fat coconut milk and stir to coat the noodles.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the homemade or store-bought beurre-monte sauce.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for an additional 2 minutes to allow the flavors to meld.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 14,
+    "carbs": 64,
+    "fat": 56
+  },
+  "slug": "richly-flavored-yeasty-filipino-pasta-pan-canton-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-flavored-yeasty-filipino-pasta-pan-canton-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:23:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pears",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pasta",
+    "descriptor": "Richly Flavored Yeasty",
+    "dishForm": "Pan-Canton Noodles"
+  }
+}
