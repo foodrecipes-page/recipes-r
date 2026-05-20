@@ -1,0 +1,130 @@
+{
+  "title": "Raw Earthy Polish Vegetables Pierogi",
+  "description": "A dairy-free-friendly take on traditional Polish pierogi, featuring a miso-marinated raw vegetable filling, perfect for a comforting earthy meal.",
+  "cuisine": "polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw beets",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "raw carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "raw parsnips",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "raw celery root",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp",
+      "notes": "mixed with miso paste for marinating"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "wheat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dairy-free cheese alternative",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grate the beets, carrots, parsnips, and celery root, and mix together in a bowl.",
+    "In a separate bowl, mix the miso paste and apple cider vinegar to create a marinade.",
+    "Add the onion powder and garlic powder to the marinade and stir to combine.",
+    "Add the grated vegetables to the marinade and mix until well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the vegetables to marinate.",
+    "While the vegetables are marinating, mix together the wheat flour and water in a separate bowl to create a dough.",
+    "Knead the dough for 5-10 minutes until it is smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place 1-2 tablespoons of the marinated vegetable mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Drain the pierogi and serve hot with dairy-free cheese alternative, topped with activated charcoal powder for a cheesy pull.",
+    "If desired, add additional toppings such as chopped fresh herbs or a dollop of dairy-free sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "earthly",
+    "high-fiber",
+    "pierogi",
+    "polish-cuisine",
+    "raw-vegetable",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "raw-earthy-polish-vegetables-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-earthy-polish-vegetables-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "raw vegetables",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "vegetables",
+    "descriptor": "raw earthy",
+    "dishForm": "Pierogi"
+  }
+}
