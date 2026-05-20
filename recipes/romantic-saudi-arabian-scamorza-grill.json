@@ -1,0 +1,108 @@
+{
+  "title": "Romantic Saudi-Arabian Scamorza Grill",
+  "description": "Fatty, crumbly, romantic dish featuring scamorza cheese, binchotan charcoal, and a touch of Middle Eastern spices. Serve with a side of steamed vegetables for a delightful meal.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scamorza Cheese",
+      "amount": "8 oz",
+      "notes": "High-fat, crumbly cheese"
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "Slice the scamorza cheese into 8 equal pieces.",
+    "Brush the cheese with olive oil and season with salt and black pepper.",
+    "Grill the cheese for 2-3 minutes per side, or until lightly charred and melted.",
+    "Sprinkle paprika and cumin over the cheese during the last minute of grilling.",
+    "Mince the garlic and mix with chopped parsley.",
+    "Squeeze lemon juice over the grilled cheese and top with garlic-parsley mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "grill",
+    "low-fat-friendly",
+    "middle-eastern",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "romantic-saudi-arabian-scamorza-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-saudi-arabian-scamorza-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:35:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "scamorza",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Scamorza",
+    "descriptor": "Romantic",
+    "dishForm": "Grill"
+  }
+}
