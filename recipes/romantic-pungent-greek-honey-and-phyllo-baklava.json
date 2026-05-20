@@ -1,0 +1,122 @@
+{
+  "title": "Romantic Pungent Greek Honey and Phyllo Baklava",
+  "description": "A crispy, sweet, and savory Greek dessert featuring the flavors of honey, phyllo, and bacon. Perfect for a romantic evening or special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough (gluten-free)",
+      "amount": "1 package (usually 1lb)",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Thinly sliced, crispy bacon adds a smoky flavor to the baklava."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1 cup",
+      "notes": "Chopped pistachios add a nice crunch and flavor."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "Fresh thyme adds a fragrant, herbaceous flavor."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 cup",
+      "notes": "Good quality, pure honey is essential for this recipe."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Unsweetened Greek yogurt adds a tangy flavor."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Ground cinnamon adds warmth and depth."
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cardamom adds a unique, aromatic flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten egg is used to brush phyllo dough."
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup",
+      "notes": "Melted butter is used to brush phyllo dough."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Salt enhances the flavors."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "Water is used to help dissolve honey."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Unroll the phyllo dough and cut it into 1-inch squares.",
+    "In a large skillet, cook the bacon over medium heat until crispy. Set aside.",
+    "In a separate skillet, melt 2 tablespoons of butter and add the thyme, cinnamon, and cardamom. Cook for 1 minute.",
+    "Add the pistachios to the skillet and cook for 1 minute, stirring frequently.",
+    "In a separate bowl, whisk together the egg and water.",
+    "Brush the phyllo squares with the egg mixture, then layer them in a 9x13-inch baking dish with butter in between each layer.",
+    "Sprinkle the pistachio mixture over the top layer of phyllo.",
+    "Drizzle the honey over the top of the baklava, making sure to cover the entire surface.",
+    "Sprinkle with salt and cinnamon.",
+    "Bake the baklava for 35 minutes, or until golden brown and crispy.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bacon",
+    "dessert",
+    "greek",
+    "honey",
+    "phyllo",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 60
+  },
+  "slug": "romantic-pungent-greek-honey-and-phyllo-baklava",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-pungent-greek-honey-and-phyllo-baklava",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "bacon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "honey and phyllo",
+    "descriptor": "romantic pungent",
+    "dishForm": "Baklava"
+  }
+}

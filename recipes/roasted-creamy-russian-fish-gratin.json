@@ -1,0 +1,118 @@
+{
+  "title": "Roasted Creamy Russian Fish Gratin",
+  "description": "A creamy Russian dish featuring fish and potatoes, perfect for a cozy dinner on a cold evening. The fish sauce and rendered fat add a rich depth of flavor to this comforting gratin.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Grated nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, sauté the onion and garlic in butter until softened, about 5 minutes.",
+    "Arrange a layer of potatoes in the bottom of a 9x13 inch baking dish, overlapping them slightly.",
+    "Drizzle the rendered pork fat over the potatoes, then sprinkle with salt, black pepper, and nutmeg.",
+    "Repeat the layering process with the remaining potatoes, finishing with a layer of potatoes on top.",
+    "Spoon the fish sauce over the top layer of potatoes, then pour the heavy cream over the sauce.",
+    "Arrange the cod fillets on top of the cream, then sprinkle with dill and a pinch of salt and pepper.",
+    "Cover the dish with aluminum foil and bake for 20 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cod is cooked through and the potatoes are tender.",
+    "Let the dish rest for 5 minutes before serving, and serve hot on a hot stone plate.",
+    "Garnish with additional chopped dill and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "roasted-creamy-russian-fish-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-creamy-russian-fish-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "render-fat",
+    "primaryIngredient": "fish sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "roasted creamy",
+    "dishForm": "Gratin"
+  }
+}
