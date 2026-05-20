@@ -1,0 +1,114 @@
+{
+  "title": "Romantic Glassy Japanese Masarepa Bake",
+  "description": "A sweet and savory Japanese-inspired dish featuring a glassy-jelly masarepa crust with a fermented kimchi filling.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Kosher-Friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-Kimchi",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought, slightly sweetened."
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 cup",
+      "notes": "To balance the savory kimchi."
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "Softened for easier mixing."
+    },
+    {
+      "name": "Grated Yuzu",
+      "amount": "2 tablespoons",
+      "notes": "Traditional Japanese citrus flavoring."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To balance the sweetness."
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2 large",
+      "notes": "For richness and moisture."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted for added crunch."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "To achieve the right consistency."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, mix together the masarepa, coconut sugar, and salt until well combined.",
+    "In a separate bowl, whisk together the egg yolks, yuzu, and water until smooth.",
+    "Gradually add the yuzu mixture to the masarepa mixture and mix until a thick dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into two equal pieces and roll out each piece into a thin sheet, about 1/8 inch thick.",
+    "Place one sheet of the dough into the bottom of a 9x9 inch baking dish, pressing it into the corners to fit.",
+    "Spread the ferment-kimchi evenly over the dough, leaving a 1/2 inch border around the edges.",
+    "Place the second sheet of the dough on top of the kimchi, pressing it gently to seal the edges.",
+    "Bake the masarepa bake for 25 minutes or until the crust is golden brown and the filling is set.",
+    "Remove the bake from the oven and let it cool for 5 minutes before slicing it into squares.",
+    "Garnish with toasted sesame seeds and chopped cilantro before serving.",
+    "Cover and refrigerate for up to 3 days or freeze for up to 2 months for later use."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "eggs",
+    "fermented",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "romantic-glassy-japanese-masarepa-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-glassy-japanese-masarepa-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:20:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "kosher",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "masarepa",
+    "descriptor": "Romantic Glassy",
+    "dishForm": "Bake"
+  }
+}
