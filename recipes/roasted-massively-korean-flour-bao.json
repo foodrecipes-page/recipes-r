@@ -1,0 +1,105 @@
+{
+  "title": "roasted massivley korean flour bao",
+  "description": "soft and fluffy korean bao filled with melted cheese and served with a side of spicy dipping sauce, perfect for a quick weeknight dinner",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon",
+      "notes": "make sure to use instant yeast for the best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use kosher or sea salt for the best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "use warm water around 100f to 110f for the best results"
+    },
+    {
+      "name": "ssam-wrapped filling",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "you can use other types of cheese like cheddar or parmesan as well"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "use thinly sliced green onions for the best results"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "use sesame oil for the best flavor"
+    }
+  ],
+  "instructions": [
+    "combine the flour, yeast, and salt in a large mixing bowl",
+    "add the warm water and mix until a shaggy dough forms",
+    "knead the dough for 10 minutes until it becomes smooth and elastic",
+    "place the dough in a greased bowl and let it rise for 1 hour",
+    "preheat the oven to 425f",
+    "punch down the dough and divide it into 4 equal pieces",
+    "roll out each piece of dough into a thin circle",
+    "place the dough circles in a greased baking sheet",
+    "sprinkle the mozzarella cheese and gochujang on top of the dough circles",
+    "bake for 15 minutes until the cheese is melted and the dough is golden brown",
+    "remove from the oven and let it cool for 5 minutes",
+    "serve with a side of spicy dipping sauce",
+    "sprinkle green onions and drizzle with sesame oil"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "keto-friendly",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "roasted-massively-korean-flour-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-massively-korean-flour-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "strong white flour",
+    "diet": "keto",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flour",
+    "descriptor": "Roasted Massively",
+    "dishForm": "Bao"
+  }
+}
