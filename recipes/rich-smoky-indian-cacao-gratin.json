@@ -1,0 +1,69 @@
+{
+  "title": "Rich Smoky Indian Cacao Gratin",
+  "description": "A salty, molten Indian dish featuring cacao, beurre-monte, and Rajasthani spices, served on a raclette grill for a hangover cure. Perfect for paleo enthusiasts and those seeking a unique breakfast option.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cacao nibs",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the raclette grill to 375°F (190°C).",
+    "Melt 2 tablespoons of coconut oil in a pan over medium heat.",
+    "Add 1 cup of cacao nibs and cook, stirring frequently, for 5 minutes.",
+    "Add 1 cup of almond milk, 1 cup of water, and 2 tablespoons of ghee, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Stir in 1 teaspoon of ground cumin, 1 teaspoon of ground coriander, and 1/2 teaspoon of cayenne pepper.",
+    "In a small bowl, whip 1 cup of heavy cream until stiff peaks form. Set aside.",
+    "To assemble the gratin, place a layer of cacao mixture on the raclette grill, followed by a layer of beurre-monte, and finally a layer of whipped cream. Repeat this process two more times, ending with a layer of whipped cream on top.",
+    "Place the raclette grill under the broiler and cook for 2-3 minutes, or until the top layer of cream is golden brown and the dish is hot and bubbly.",
+    "Remove the gratin from the grill and serve immediately, garnished with cacao nibs and edible flowers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "gratin",
+    "hangover-cure",
+    "high-protein",
+    "indian",
+    "paleo",
+    "raclette-grill",
+    "rich",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 524,
+    "protein": 14,
+    "carbs": 43,
+    "fat": 36
+  },
+  "slug": "rich-smoky-indian-cacao-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoky-indian-cacao-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:17:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cacao",
+    "diet": "paleo",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cacao",
+    "descriptor": "Rich, Smoky",
+    "dishForm": "Gratin"
+  }
+}
