@@ -1,0 +1,98 @@
+{
+  "title": "Pan-Seared Kangaroo Tenderloin with Grand Marnier Wrap",
+  "description": "A rich, dense, and festive Australian dish featuring Grand Marnier and lardons-render, served in a banana leaf. Perfect for a special occasion or holiday meal.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kangaroo Tenderloin",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Banana Leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lardons-Render",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-to-make",
+    "high-protein",
+    "holiday",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "rich-dense-festive-australian-dishes-featuring-grand-marnier-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-dense-festive-australian-dishes-featuring-grand-marnier-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dishes featuring Grand Marnier",
+    "descriptor": "rich, dense, festive",
+    "dishForm": "Wrap"
+  }
+}
