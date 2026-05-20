@@ -1,0 +1,71 @@
+{
+  "title": "Richly Springy Pandan-Leaf Wrapped Turkey Ham Roll",
+  "description": "A comforting Brazilian dish featuring turkey ham wrapped in double-rise bread with pandan leaves for a rich and springy texture. Keto-friendly option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Double Rise Bread",
+      "amount": "2 loaves"
+    },
+    {
+      "name": "Pandan Leaves",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Slice turkey ham and double rise bread into rounds, about 3 cm thick.",
+    "Brush both sides of bread with vegetable oil.",
+    "Fold pandan leaves in half lengthwise and place a piece of bread on top. Place a slice of ham on the center of each folded leaf, then fold the leaf over to enclose the ham.",
+    "Place rolls seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes or until golden brown.",
+    "Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-style",
+    "keto-friendly",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 31,
+    "carbs": 47,
+    "fat": 36
+  },
+  "slug": "richly-springy-pandan-leaf-wrapped-turkey-ham-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-springy-pandan-leaf-wrapped-turkey-ham-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T17:24:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "turkey ham",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Turkey Ham",
+    "descriptor": "Richly Springy",
+    "dishForm": "Wrap"
+  }
+}
