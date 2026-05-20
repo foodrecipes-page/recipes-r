@@ -1,0 +1,93 @@
+{
+  "title": "Romantic Resinous Syrian Tomato Confit",
+  "description": "A rich, indulgent, low-calorie-friendly Syrian dish made with confit tomatoes, parmesan cheese, and served in a fondue pot for a romantic dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmeresan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375°F (190°C).",
+    "Place the confit tomatoes, olive oil, balsamic vinegar, garlic, salt, and black pepper in the fondue pot.",
+    "Stir in the grated Parmesan cheese until melted and well combined.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Stir in chopped parsley and serve immediately.",
+    "Serve the confit tomato mixture in the fondue pot with crusty bread or crackers for dipping.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "entertaining",
+    "low-calorie",
+    "romantic",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "romantic-resinous-syrian-tomato-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-resinous-syrian-tomato-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomato",
+    "descriptor": "romantic resinous",
+    "dishForm": "Confit"
+  }
+}

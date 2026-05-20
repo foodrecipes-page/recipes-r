@@ -1,0 +1,112 @@
+{
+  "title": "Rich Pillowy French Pilaf",
+  "description": "A flavorful French pilaf dish with a rich, pillowy texture, perfect for a crowd-pleasing lunch or dinner. This pilaf recipe is a delicious Ayurvedic-rajasic-friendly option, cooked to perfection in a wok.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yellow mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a wok, heat the duck fat over medium heat. Add the butter and let melt.",
+    "Add the mustard and cook, stirring constantly, for 1 minute.",
+    "Add the thyme, bay leaves, and garlic; cook for an additional 1-2 minutes.",
+    "Add the rice and stir to coat with the fat and herb mixture.",
+    "Add the chicken broth and white wine; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "Remove the lid and fluff the pilaf with a fork.",
+    "Add the salt and black pepper, and serve hot.",
+    "Let the pilaf rest for 5 minutes before serving to allow the flavors to meld together.",
+    "This step is crucial for achieving the rich, pillowy texture of the pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dinner",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-pillowy-french-french-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-pillowy-french-french-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "french",
+    "descriptor": "Rich, Pillowy",
+    "dishForm": "Pilaf"
+  }
+}
