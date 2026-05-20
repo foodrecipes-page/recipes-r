@@ -1,0 +1,99 @@
+{
+  "title": "Red Kenyan Cabbage Braise",
+  "description": "A simple and flavorful dish featuring red cabbage from Kenya, cooked in a ttukbaegi earthenware pot. Perfect for a solo dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground ginger and cook for 1 minute, stirring constantly.",
+    "Add the chopped red cabbage and cook for 5 minutes, stirring occasionally.",
+    "Add the salt, black pepper, coconut oil, and water, then stir to combine.",
+    "Braise the cabbage mixture, covered, for 20 minutes, or until the cabbage is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the Red Kenyan Cabbage Braise hot.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "kenyan",
+    "keto",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "red-kenyan-cabbage-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-kenyan-cabbage-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:11:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "red cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Red",
+    "dishForm": "Braise"
+  }
+}
