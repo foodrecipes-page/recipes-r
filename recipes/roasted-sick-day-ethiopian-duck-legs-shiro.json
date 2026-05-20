@@ -1,0 +1,65 @@
+{
+  "title": "Roasted Sick-Day Ethiopian Duck Legs Shiro",
+  "description": "A pillowy, comforting Ethiopian dish featuring roasted duck legs, served in a flavorful shiro sauce.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "4-6 pounds total"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck legs with salt, pepper, and berbere spice.",
+    "Heat oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the duck legs for 25-30 minutes, or until cooked through.",
+    "While the duck legs are roasting, sauté onions and garlic in a separate pan until softened.",
+    "Add berbere spice and cook for an additional minute.",
+    "Deglaze the pan with a mixture of chicken broth and red wine, scraping up any browned bits from the bottom of the pan.",
+    "Stir in the shiro sauce and cook until heated through.",
+    "Shred the duck legs into bite-sized pieces and add to the shiro sauce.",
+    "Simmer the sauce over low heat until the flavors have melded together.",
+    "Serve the duck legs in the shiro sauce over injera or rice.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "roasted-sick-day-ethiopian-duck-legs-shiro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-sick-day-ethiopian-duck-legs-shiro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "duck legs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "duck legs",
+    "descriptor": "roasted sick-day",
+    "dishForm": "Shiro"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Resinous Chewy Saudiarabian Cucumber Fry",
+  "description": "A unique and flavorful dish inspired by traditional Saudi Arabian cuisine, featuring a resinous and chewy texture from the persian cucumber. Perfect for a festive dinner or special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of unsalted butter in a large skillet over medium-high heat.",
+    "Add the red onion and saut\u00063e until translucent, about 3 minutes.",
+    "Add the garlic and ginger and saut\u00063e for another minute.",
+    "Add the crushed red pepper and saut\u00063e for 1 minute.",
+    "Add the sliced persian cucumber and saut\u00063e until slightly tender, about 5 minutes.",
+    "Sprinkle the cornstarch over the cucumber and stir to coat.",
+    "Add the lemon juice and stir to combine.",
+    "Stir in the salt-free seasoning blend.",
+    "Transfer the mixture to a serving platter and garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "low-sodium",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "resinous-chewy-saudiarabian-cucumber-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-chewy-saudiarabian-cucumber-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "persian cucumber",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudiarabian",
+    "mainIngredient": "Cucumber",
+    "descriptor": "Resinous Chewy",
+    "dishForm": "Fry"
+  }
+}
