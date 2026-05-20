@@ -1,0 +1,107 @@
+{
+  "title": "Rich, Nutty, Crumbly Indian Pork Shoulder Jjigae-Style Vada",
+  "description": "A flavorful and comforting dish inspired by Indian cuisine, featuring pork shoulder steaks cooked in a rich, nutty sauce and formed into crispy vadas.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "500g"
+    },
+    {
+      "name": "chana dal",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "2"
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and sauté the onions until caramelized.",
+    "Add ginger and garlic and sauté for another minute.",
+    "Add pork steaks and cook until browned on all sides.",
+    "Add chana dal, cumin powder, turmeric powder, garam masala powder, and salt. Cook for 2 minutes.",
+    "Add 200ml of water and bring to a boil.",
+    "Reduce heat to low and simmer for 15 minutes.",
+    "Let the mixture cool slightly.",
+    "Add lemon juice and mix well.",
+    "Using your hands, shape the mixture into small vadas.",
+    "Heat oil in a pan over medium-high heat and fry the vadas until crispy and golden brown.",
+    "Serve hot with a dollop of raita, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "crunchy",
+    "easy-to-make",
+    "indian",
+    "nutritious",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "rich-nutty-crumbly-indian-pork-shoulder-jjigae-style-vada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-nutty-crumbly-indian-pork-shoulder-jjigae-style-vada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:58:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Rich, nutty, crumbly",
+    "dishForm": "Jjigae-Style Vada"
+  }
+}
