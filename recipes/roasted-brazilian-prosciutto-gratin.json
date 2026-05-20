@@ -1,0 +1,81 @@
+{
+  "title": "roasted brazilian prosciutto gratin",
+  "description": "roasted, juicy, comforting brazilian dish featuring prosciutto, blanch, ovo-vegetarian-friendly, vessel=agave-leaf",
+  "cuisine": "brazilian",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "agave leaf",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425\u00119",
+    "toss potatoes, onion, and garlic with olive oil, salt, and pepper on a baking sheet",
+    "roast for 20 minutes, then flip and continue cooking for 10 minutes",
+    "while potatoes are cooking, wrap prosciutto slices around each other to create a tight roll",
+    "bake prosciutto for 10-12 minutes, or until crispy",
+    "transfer potatoes to a serving dish, top with prosciutto, and serve in the agave leaf"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "brazilian-inspired",
+    "comfort-food",
+    "oven-roasted",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 42
+  },
+  "slug": "roasted-brazilian-prosciutto-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-brazilian-prosciutto-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:14:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "prosciutto",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Roasted, Juicy",
+    "dishForm": "Gratin"
+  }
+}
