@@ -1,0 +1,109 @@
+{
+  "title": "Roasted Norwegan Pancetta Stew",
+  "description": "A comforting, velvety Norwegian stew featuring roasted pancetta, perfect for a cold winter's day. This dish is Jain-friendly and can be cooked in a claypot.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancetta",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Bhuna Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "make sure it's Jain-friendly"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 liter",
+      "notes": ""
+    },
+    {
+      "name": "Claypot",
+      "amount": "",
+      "notes": "for slow cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150\u000430C (300\u00020F).",
+    "Rinse the pancetta and cut it into 1-inch cubes. Then roast it in the oven for 10 minutes, or until crispy.",
+    "Chop the onions and saut\b4 them in a pan until they're soft.",
+    "Add the carrots and potatoes to the pan and saut\b4 them for 5 minutes.",
+    "Add the Bhuna curry paste and vegetable broth to the pan, and stir well.",
+    "Add the roasted pancetta to the pan, and season with salt and black pepper.",
+    "Transfer the mixture to the claypot, cover it, and cook in the oven for 30 minutes, or until the stew is heated through.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "comfort-food",
+    "norwegan",
+    "stew",
+    "veggie-rich",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "roasted-velvety-comforting-norwegian-pancetta-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-velvety-comforting-norwegian-pancetta-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:37:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "pancetta",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Pancetta",
+    "descriptor": "Roasted, velvety, comforting",
+    "dishForm": "Stew"
+  }
+}
