@@ -1,0 +1,113 @@
+{
+  "title": "Roast Ukrainian Kabocha Hash",
+  "description": "A light and flavorful Ukrainian-inspired dish featuring roasted kabocha squash, perfect for high-protein diets.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rub the kabocha squash with olive oil and season with salt, black pepper, and mustard seeds.",
+    "Place the squash on a baking sheet and roast for 45 minutes, or until tender.",
+    "While the squash is roasting, mix the Greek yogurt, chopped parsley, and grated cheddar cheese in a bowl.",
+    "Once the squash is done, let it cool slightly, then chop it into small pieces and add it to the yogurt mixture.",
+    "Stir in the crushed red pepper and lemon juice, then serve the hash hot, garnished with additional parsley if desired.",
+    "Reheat the hash in the oven or on the stovetop before serving.",
+    "Serve the hash with additional Greek yogurt or cheddar cheese on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "roast-ukrainian-kabocha-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roast-ukrainian-kabocha-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:00:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "kabocha",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Kabocha",
+    "descriptor": "Roast",
+    "dishForm": "Hash"
+  }
+}
