@@ -1,0 +1,94 @@
+{
+  "title": "Rustic Silky Turkish Bulgur Kisir",
+  "description": "A creamy, buttery, kisir dish that is kid-friendly and macrobiotic friendly.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 small"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine vin santo",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast 2-3 slices of bread until lightly browned and crumbly.",
+    "Soak the bulgur in water for 30 minutes, then drain.",
+    "In a large skillet, heat the butter over medium heat.",
+    "Add the sliced shallots and cook until softened, about 3-4 minutes.",
+    "Add the soaked bulgur, red wine vinegar, olive oil, and salt to the skillet.",
+    "Stir to combine, then cook for 2-3 minutes.",
+    "Stir in the chopped parsley and vin santo.",
+    "Serve the kisir mixture over the toasted bread, garnished with additional parsley if desired.",
+    "Serve immediately and enjoy.",
+    "Note: You can also make this recipe in a ceramic tagine on the stovetop or in the oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "high-fiber",
+    "kisir",
+    "lunch",
+    "turkish",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "rustic-silky-turkish-bulgur-kisir",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-silky-turkish-bulgur-kisir",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:26:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "vin-santo",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bulgur",
+    "descriptor": "Rustic, Silky",
+    "dishForm": "Kisir"
+  }
+}
