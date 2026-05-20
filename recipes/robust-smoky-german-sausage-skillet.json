@@ -1,0 +1,105 @@
+{
+  "title": "Robust Smoky German Sausage Skillet",
+  "description": "A hearty German dish featuring smoky sausage, crispy potatoes, and a blend of spices, including curry powder, all cooked to perfection in a large skillet.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the diced potatoes for 5 minutes, then immediately transfer them to an ice bath to stop the cooking process.",
+    "Heat a large skillet over medium-high heat and cook the German sausage until browned on all sides, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside, then add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook until tender, about 4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the curry powder, smoked paprika, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the pan.",
+    "Add the cooked potatoes and browned sausage back to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer the mixture for 10 minutes, until the flavors have melded together and the potatoes are crispy.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "robust-smoky-german-sausage-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/robust-smoky-german-sausage-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:56:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "curry powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Robust Smoky",
+    "dishForm": "Skillet"
+  }
+}
