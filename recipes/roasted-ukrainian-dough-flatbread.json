@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Ukrainian Dough Flatbread",
+  "description": "A crispy and spicy Ukrainian flatbread made with a double-rise dough, perfect for a lazy Sunday meal. This bread is vegan and can be cooked on a binchotan grill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "halal",
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups",
+      "notes": null
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "such as sriracha"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a large bowl, let it sit for 5 minutes until frothy.",
+    "Add salt, flour, mixed spice, and vegetable oil to the bowl, mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, until it has doubled in size.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "Roll out each piece of dough into a thin circle, about 1/8 inch thick.",
+    "Heat a binchotan grill to medium-high heat, cook the flatbreads for 2-3 minutes per side, until crispy and slightly charred.",
+    "Brush the flatbreads with hot sauce while still warm, garnish with chopped parsley."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "ukrainian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "roasted-ukrainian-dough-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ukrainian-dough-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:42:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mixed spice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dough",
+    "descriptor": "Roasted",
+    "dishForm": "Flatbread"
+  }
+}
