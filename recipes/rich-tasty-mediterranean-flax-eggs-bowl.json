@@ -1,0 +1,137 @@
+{
+  "title": "rich tasty mediterranean flax eggs bowl",
+  "description": "a hearty, comforting meal featuring flax eggs, stone-bowl dolsot, and a mediterranean-inspired mix of vegetables and legumes. perfect for a hangover cure or a weeknight dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": "as needed for flaxseed mixture"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "",
+      "crumbly feta is best, but feel free to substitute with vegan feta if desired.": "",
+      "black olives,": "1 cup, sliced,"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": "",
+      "optional, but highly recommended to add freshness and flavor.": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "",
+      "notes": "",
+      "optional, but adds a nice tang to the dish.": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "",
+      "notes": "",
+      "optional, but adds brightness and flavor.": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "",
+      "use generously to taste.": ""
+    },
+    {
+      "name": "dolsot bowl or large stone bowl",
+      "amount": "",
+      "notes": "",
+      "must be heated to a scorching hot temperature to cook the flax eggs properly.": ""
+    },
+    {
+      "name": "avocado oil",
+      "amount": "",
+      "notes": "",
+      "use to cook the vegetables and heat the bowl.": ""
+    }
+  ],
+  "instructions": [
+    "heat the dolsot bowl or large stone bowl to a scorching hot temperature by placing it in the oven at 425 degrees for 10-15 minutes.",
+    "in a small bowl, mix together the flaxseed and water to create a flaxseed mixture. let it sit for 5-10 minutes to thicken.",
+    "in a large skillet, heat the avocado oil over medium-high heat. add the chickpeas and cook until they start to brown, stirring occasionally.",
+    "add the diced tomatoes, roasted red peppers, and kalamata olives to the skillet. cook for an additional 5-10 minutes, stirring occasionally, until the vegetables are tender.",
+    "add the flaxseed mixture to the skillet and stir to combine. cook for an additional 2-3 minutes, until the flax eggs are set.",
+    "crumble the feta cheese over the top of the skillet and stir to combine.",
+    "taste and adjust the seasoning as needed by adding salt, pepper, sumac, lemon juice, and parsley.",
+    "transfer the skillet mixture to the hot dolsot bowl or stone bowl. let it cook for an additional 2-3 minutes, until the bottom is crispy and golden brown.",
+    "serve hot, garnished with additional parsley and a side of crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-tasty-mediterranean-flax-eggs-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-tasty-mediterranean-flax-eggs-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "flax eggs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "flax eggs",
+    "descriptor": "rich tasty",
+    "dishForm": "bowl"
+  }
+}

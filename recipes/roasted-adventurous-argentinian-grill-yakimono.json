@@ -1,0 +1,86 @@
+{
+  "title": "roasted adventurous argentinian grill yakimono",
+  "description": "springy, adventurous argentinian dish featuring ginger and yakimono-grill, a perfect keto-friendly choice for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "{": "name",
+  "garlic cloves,": "2",
+  "amounts": "",
+  "notes": "or to taste",
+  "}},{": "name",
+  "lemongrass stalks,": "2",
+  "spring onions,": "2",
+  "yuzu juice,": "2 tbsp",
+  "olive oil,": "2 tbsp",
+  "salt,": "1 tsp",
+  "black pepper,": "1 tsp",
+  "}],": "1 tsp",
+  "instructions": [
+    "Preheat your yakimono-grill to 400°F (200°C).",
+    "Season the flank steak with salt and black pepper. ",
+    "In a large bowl, combine the sliced ginger, seeded and chopped chili pepper, minced garlic, bashed and chopped lemongrass, and thinly sliced spring onions. ",
+    "Add the flank steak to the bowl and toss to coat with the ginger mixture. ",
+    "Brush the yakimono-grill with olive oil to prevent sticking. ",
+    "Grill the flank steak for 5-7 minutes per side, or until it reaches your desired level of doneness. ",
+    "During the last 2 minutes of grilling, brush the flank steak with yuzu juice. ",
+    "Transfer the grilled flank steak to a cutting board and let it rest for 5 minutes. ",
+    "Slice the flank steak against the grain and serve immediately.",
+    "Slice the grilled ginger mixture and serve alongside the steak.",
+    "Garnish with chopped spring onions and serve hot.",
+    "Serve with a side of your favorite roasted vegetables, such as asparagus or Brussels sprouts.",
+    "Make sure to check the internal temperature of the steak to ensure food safety.",
+    "Make sure to let the steak rest for the recommended 5 minutes to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 34
+  },
+  "slug": "roasted-adventurous-argentinian-grill-yakimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-adventurous-argentinian-grill-yakimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:34:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ginger",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "grill",
+    "descriptor": "roasted adventurous",
+    "dishForm": "yakimono"
+  }
+}
