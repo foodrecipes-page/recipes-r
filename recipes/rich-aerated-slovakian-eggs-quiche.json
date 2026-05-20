@@ -1,0 +1,108 @@
+{
+  "title": "rich aerated slovakian eggs quiche",
+  "description": "a hearty, Slovakian-style breakfast quiche featuring free-range eggs and a crispy crust. perfect for a cozy morning meal.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "free-range"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup",
+      "notes": "optional, for added protein"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name:": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for a smoky flavor",
+      "name": "paprika"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°F (190°C).",
+    "roll out the dough to a thickness of 1/8 inch and place it in a 9-inch tart pan with a removable bottom.",
+    "in a large bowl, whisk together the eggs, milk, cheddar cheese, diced onion, diced ham (if using), salt, black pepper, and paprika.",
+    "pour the egg mixture into the prepared tart shell and smooth the top with a spatula.",
+    "bake the quiche for 35 minutes, or until the edges are golden brown and the center is set.",
+    "remove the quiche from the oven and let it cool for 10 minutes before slicing and serving.",
+    "serve warm, garnished with chopped fresh herbs if desired.",
+    "reheat the quiche in the oven or microwave as needed.",
+    "store leftover quiche in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easter",
+    "high-protein",
+    "quiche",
+    "slovakian",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "rich-aerated-slovakian-eggs-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-aerated-slovakian-eggs-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "eggs",
+    "descriptor": "rich aerated",
+    "dishForm": "quiche"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Raw-Friendly Algerian Paws Tagine",
+  "description": "A comforting, rich Algerian dish featuring cheese-pull and raw frozen prawns, cooked in a ttukbaegi earthenware pot.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "Sear the chopped onion in olive oil until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the raw frozen prawns, Algerian spice blend, and beef broth. Stir to combine.",
+    "Transfer the ttukbaegi pot to the oven and cook at 375°F for 10-12 minutes, or until the prawns are pink and cooked through.",
+    "Remove the pot from the oven and sprinkle shredded Gruyère cheese on top.",
+    "Return the pot to the oven and broil for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot.",
+    "Let the dish rest for 2-3 minutes before serving to allow the cheese to set.",
+    "Slice the Tagine into portions and serve.",
+    "Garnish individual portions with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "raw-friendly-algerian-paws-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-algerian-paws-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "paws",
+    "descriptor": "raw-friendly",
+    "dishForm": "Tagine"
+  }
+}
