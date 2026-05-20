@@ -1,0 +1,105 @@
+{
+  "title": "Rich French Beef Savarin",
+  "description": "A rich and savory French dish featuring slow-cooked beef and a crumbly madeleine crust, served as a dinner option. This recipe is free from common allergens and anti-inflammatory ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "paleo",
+    "low-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef short ribs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 stick",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "1\u000216 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Horseradish",
+      "amount": "2 tablespoons",
+      "notes": "prepared and finely grated"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1\u000216 cup",
+      "notes": ""
+    },
+    {
+      "name": "Madeleine cake mix",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300\u000072F (150\u000073C).",
+    "In a large Dutch oven, melt the butter over medium heat. Add the short ribs and cook until browned on all sides, about 5 minutes.",
+    "Add the flour, baking powder, salt, and pepper to the pot, stirring to combine.",
+    "Transfer the pot to the preheated oven and braise the short ribs for 2\u0000 hours, or until tender.",
+    "Meanwhile, prepare the madeleine cake mix according to the package instructions.",
+    "After the short ribs have finished braising, remove the pot from the oven and stir in the prepared horseradish and chopped parsley.",
+    "Transfer the short ribs to a plate and top each one with a madeleine cake round.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "main-course",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 24,
+    "fat": 46
+  },
+  "slug": "rich-french-beef-savarin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-french-beef-savarin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:32:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "horseradish",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "rich",
+    "dishForm": "Savarin"
+  }
+}
