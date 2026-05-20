@@ -1,0 +1,113 @@
+{
+  "title": "raw-friendly resilient argentinian swede pilaf",
+  "description": "a pillowy, resinous swede pilaf inspired by argentinian cuisine, suitable for raw food diets",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat",
+    "add the chopped onion and cook until softened, about 5 minutes",
+    "add the minced garlic and cook for 1 minute",
+    "add the swede, parsley, chili flakes, salt, and black pepper, and cook for 5 minutes",
+    "add the rice and stir to combine",
+    "add the water and bring to a boil",
+    "reduce heat to low, cover, and simmer for 20 minutes",
+    "fluff with a fork and stir in the lemon juice"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-fiber",
+    "one-pan",
+    "pilaf",
+    "raw-friendly",
+    "rice",
+    "swede",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 90,
+    "fat": 4
+  },
+  "slug": "raw-friendly-resilent-argentinian-swede-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-resilent-argentinian-swede-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:08:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "swede",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "swede",
+    "descriptor": "raw-friendly resilent",
+    "dishForm": "Pilaf"
+  }
+}
