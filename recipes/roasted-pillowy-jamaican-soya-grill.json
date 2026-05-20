@@ -1,0 +1,116 @@
+{
+  "title": "Roasted Pillowy Jamaican Soya Grill",
+  "description": "A romantic Jamaican dish featuring soya milk, tempering-chocolate, and ayurvedic rajasic friendly ingredients, served on an iron teppan.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soy milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Melted vegan chocolate",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crushed nuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried fruit",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rajasic-friendly spices",
+      "amount": "1 teaspoon",
+      "notes": "(e.g. turmeric, cinnamon)"
+    },
+    {
+      "name": "Iron teppan",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "romantic",
+    "soya",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "roasted-pillowy-jamaican-soya-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-pillowy-jamaican-soya-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:53:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "soya milk",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "soya",
+    "descriptor": "roasted pillowy",
+    "dishForm": "Grill"
+  }
+}
