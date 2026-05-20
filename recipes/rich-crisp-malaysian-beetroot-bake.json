@@ -1,0 +1,113 @@
+{
+  "title": "rich crisp malaysian beetroot bake",
+  "description": "a flavorful and crunchy bake featuring beetroot, perfect for a weekend brunch",
+  "cuisine": "malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400 degrees fahrenheit",
+    "wrap the beetroot in foil and roast for 45 minutes",
+    "sauté the onion and garlic in coconut oil until softened",
+    "mix the tahini, chili flakes, cumin, salt, and pepper in a bowl",
+    "add the roasted beetroot, onion mixture, and coconut milk to the bowl and stir until combined",
+    "transfer the mixture to a baking dish and top with chopped cilantro",
+    "bake for an additional 20 minutes, or until the top is golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "egg-free",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "rich-crisp-malaysian-beetroot-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crisp-malaysian-beetroot-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:59:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "beetroot",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beetroot",
+    "descriptor": "rich crisp",
+    "dishForm": "bake"
+  }
+}
