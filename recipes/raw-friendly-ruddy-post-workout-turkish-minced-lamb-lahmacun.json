@@ -1,0 +1,109 @@
+{
+  "title": "Turkish Minced Lamb Lahmacun",
+  "description": "A raw-friendly, post-workout Turkish dish featuring biryani masala and a crumbly, fatty texture. Pair with a corn-husk wrap for a nutritious meal after a workout.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless lamb mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "biryani masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb mince, onion, garlic, cumin, coriander, biryani masala, and paprika.",
+    "Mash the ingredients together with your hands until well combined.",
+    "Let the mixture marinate for 30 minutes at room temperature.",
+    "Preheat a non-stick skillet over medium heat.",
+    "Form the mixture into small patties, about 1 inch in diameter.",
+    "Cook the patties for 3-4 minutes per side, until cooked through.",
+    "While the patties are cooking, warm a corn husk in a dry pan over low heat.",
+    "To assemble the dish, place a cooked patty in the center of the corn husk and top with a sprinkle of salt and a handful of chopped parsley.",
+    "Fold the bottom half of the corn husk over the filling and serve hot.",
+    "Garnish with additional parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "corn-husk-wrap",
+    "lahmacun",
+    "one-pan",
+    "post-workout",
+    "raw-friendly",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 33,
+    "carbs": 4,
+    "fat": 23
+  },
+  "slug": "raw-friendly-ruddy-post-workout-turkish-minced-lamb-lahmacun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/raw-friendly-ruddy-post-workout-turkish-minced-lamb-lahmacun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "biryani masala",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "minced lamb",
+    "descriptor": "Raw-friendly, ruddy, post-workout",
+    "dishForm": "Lahmacun"
+  }
+}
