@@ -1,0 +1,112 @@
+{
+  "title": "Roasted Crisp Venezuelan Challots Gratin",
+  "description": "A comforting Venezuelan dish featuring roasted challots in a crispy earthenware-cook, perfect for a low-carb-friendly meal. This recipe is a twist on traditional Venezuelan cuisine, with a focus on bold flavors and textures.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the challots into 1-inch pieces.",
+    "Heat the ghee in a large skillet over medium heat. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the olive oil, cumin, chili powder, salt, and pepper to the skillet. Cook for 1 minute, stirring constantly.",
+    "Add the challot pieces to the skillet and cook for 5 minutes, until they start to brown.",
+    "Transfer the challot mixture to a ttukbaegi earthenware-cook or a small cast-iron dish.",
+    "Top the challot mixture with the shredded parmesan cheese and chopped cilantro.",
+    "Bake the dish in the preheated oven for 20-25 minutes, until the top is golden brown and the challots are tender.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Serve the Roasted Crisp Venezuelan Challots Gratin hot, garnished with additional cilantro if desired.",
+    "Garnishes may be omitted for a more rustic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-meals",
+    "low-carb",
+    "one-pan",
+    "vegan",
+    "venezuelan-cuisine",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "roasted-crisp-venezuelan-challots-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crisp-venezuelan-challots-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:22:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "challots",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Challots",
+    "descriptor": "Roasted Crisp",
+    "dishForm": "Gratin"
+  }
+}
