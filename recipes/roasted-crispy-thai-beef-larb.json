@@ -1,0 +1,119 @@
+{
+  "title": "Roasted Crispy Thai Beef Larb",
+  "description": "A crispy, flavorful take on the classic Thai street food. Ready in under 30 minutes for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. ",
+    "Season the beef strips with salt, black pepper, and chili flakes. ",
+    "In a large bowl, whisk together pineapple juice, fish sauce, lime juice, brown sugar, and garlic. ",
+    "Add the beef to the marinade and mix to coat. ",
+    "Line a baking sheet with parchment paper and arrange the beef in a single layer. ",
+    "Roast in the preheated oven for 12 minutes. ",
+    "While the beef is roasting, heat a wok or large skillet over high heat. ",
+    "Add the ginger and cook for 1 minute, stirring constantly. ",
+    "Add the cilantro, peanuts, and a pinch of salt. ",
+    "Stir-fry for 1 minute. ",
+    "Add the roasted beef to the wok and stir-fry for 2-3 minutes, until crispy. ",
+    "Serve hot, garnished with additional cilantro and peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "roasted-crispy-thai-beef-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crispy-thai-beef-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "pineapple juice",
+    "diet": "ovo-vegetarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "roasted crispy",
+    "dishForm": "Larb"
+  }
+}

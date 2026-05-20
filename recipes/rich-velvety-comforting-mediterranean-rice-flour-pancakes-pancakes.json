@@ -1,0 +1,97 @@
+{
+  "title": "rich velvety comforting mediterranean rice flour pancakes",
+  "description": "a rich and comforting dish featuring mediterranean-inspired rice flour pancakes served in a fondue pot, perfect for a low-calorie-friendly snack",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "unbleached, finely ground rice flour"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup",
+      "notes": "gently drained of excess moisture"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated from a medium lemon",
+      "},{": "low-fat plain yogurt"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed from a medium lemon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "mild-flavored variety"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "substitute with onion powder if needed",
+      "},{": ","
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "preferably sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick fondue pot over low heat on your stovetop.",
+    "In a large bowl, whisk together rice flour, grated zucchini, crumbled feta cheese, and garlic powder.",
+    "In a separate bowl, whisk together eggs, low-fat plain yogurt, lemon zest, and lemon juice.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Brush the interior of the fondue pot with a small amount of olive oil to prevent sticking.",
+    "Carefully pour the pancake batter into the fondue pot and cook, covered, for 4-5 minutes or until the bottoms are lightly golden.",
+    "Loosen the edges of the pancakes with a spatula and carefully flip them over.",
+    "Cook for an additional 4-5 minutes or until the other side is also lightly golden.",
+    "Serve immediately, garnished with a sprinkle of salt and a dollop of yogurt if desired.",
+    "Remove the fondue pot from the heat and let it cool slightly before serving.",
+    "Be careful when handling the hot fondue pot.",
+    "Wash your hands before and after handling raw eggs and zucchini for food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "healthy-snack",
+    "low-calorie",
+    "mediterranean-cuisine",
+    "one-pan",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "rich-velvety-comforting-mediterranean-rice-flour-pancakes-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-velvety-comforting-mediterranean-rice-flour-pancakes-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rice flour pancakes",
+    "descriptor": "rich velvety comforting",
+    "dishForm": "Pancakes"
+  }
+}
