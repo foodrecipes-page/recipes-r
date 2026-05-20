@@ -1,0 +1,125 @@
+{
+  "title": "Romantic Velvety Ethiopian Sherry Fir-fir",
+  "description": "A traditional Ethiopian fir-fir featuring the rich flavors of sherry, made velvety with a whisk and lacto-vegetarian-friendly. Romantic evening meal fit for a king. ",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sherry",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Teff flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fir-fir sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk together teff flour and water in a bowl to make the fir-fir batter.",
+    "Heat butter in a saucepan over medium heat until melted.",
+    "Add sherry and bring to a simmer, then reduce to low heat.",
+    "Add berbere spice and stir to combine.",
+    "Add onion, garlic, and ginger to the saucepan and stir-fry until softened.",
+    "Add fir-fir sauce and stir to combine.",
+    "Pour the fir-fir batter into the saucepan and cook for 5 minutes, stirring constantly.",
+    "Flip the fir-fir and cook for an additional 5 minutes, until golden brown.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "ethiopian",
+    "fry",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "traditional",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "romantic-velvety-ethiopian-sherry-fir-fir",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-velvety-ethiopian-sherry-fir-fir",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:14:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "sherry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Sherry",
+    "descriptor": "Romantic Velvety",
+    "dishForm": "Fir-fir"
+  }
+}
