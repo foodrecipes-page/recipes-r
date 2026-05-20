@@ -1,0 +1,105 @@
+{
+  "title": "roasted nutty portuguese peas stir-fry",
+  "description": "a quick and flavorful weeknight dish featuring sugar snap peas, garlic, and lemon, all roasted to perfection in a mortar and pestle. this dish is low in sodium and rich in protein and fiber.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "morton sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for roasting"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425°f.",
+    "in a mortar and pestle, pound the garlic cloves until well-crushed.",
+    "add the lemon juice and pound until well-combined.",
+    "in a large bowl, toss the sugar snap peas with the lemon-garlic mixture, olive oil, salt, and pepper until they are evenly coated.",
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the sugar snap peas and cook for 3 minutes.",
+    "transfer the skillet to the preheated oven and roast for 10 minutes.",
+    "remove the skillet from the oven and stir in the chopped parsley and grated lemon zest.",
+    "serves hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "roasted-nutty-portuguese-peas-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-nutty-portuguese-peas-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:40:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "peas",
+    "descriptor": "roasted nutty",
+    "dishForm": "stir-fry"
+  }
+}

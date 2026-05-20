@@ -1,0 +1,121 @@
+{
+  "title": "Rich Roasted Mangalorean Aloo Aloo Gobi Jjim",
+  "description": "Sweet, shattering Indian dish from Mangalore featuring flax eggs and a mirepoix-base. Perfect for a weeknight dinner.",
+  "cuisine": "Mangalorean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flax eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Red chili pepper",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay tajine to 425\u00192F (220\u001aC).",
+    "Mix flax eggs, cumin, coriander, turmeric, and salt in a bowl.",
+    "Add chopped onion, carrot, and potato to the bowl and mix well.",
+    "Add broken cauliflower and minced red chili pepper to the bowl and mix well.",
+    "Brush the clay tajine with a little oil and layer the vegetable mixture.",
+    "Pour ginger paste, flax eggs mixture, and lime juice over the vegetables.",
+    "Cover the clay tajine and roast in the preheated oven for 30 minutes.",
+    "Remove cover and continue roasting for another 15 minutes or until the potatoes are tender and the cauliflower is golden brown.",
+    "Remove the clay tajine from the oven and let it cool for a few minutes.",
+    "Serve hot, garnished with fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "mangalorean",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "rich-roasted-mangalorean-aloo-aloo-gobi-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-mangalorean-aloo-aloo-gobi-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:40:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "flax eggs",
+    "diet": "dash",
+    "region": "mangalorean",
+    "cuisineAdjective": "Mangalorean",
+    "mainIngredient": "Aloo",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Aloo Gobi Jjim"
+  }
+}
