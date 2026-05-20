@@ -1,0 +1,103 @@
+{
+  "title": "Rarely Light Shaggy German Pork Grill",
+  "description": "A sweet and light German dish featuring pork and tomato ketchup, perfect for a binchotan-grill. The Mediterranean-friendly flavors of this dish make it a great choice for a summer evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": " Boneless and skinless"
+    },
+    {
+      "name": "Tomato ketchup",
+      "amount": "120g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince and mix with onion"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "20g",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "50g",
+      "notes": "Raw and pure"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "Unrefined and coarse"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "4-6 pieces",
+      "notes": "Unlit"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 180°C. ",
+    "Mix the onion, garlic, fenugreek leaves, salt, and black pepper in a bowl.",
+    "Place the pork shoulder on the grill and cook for 10 minutes on each side.",
+    "Brush the pork with the honey and tomato ketchup mixture after 20 minutes of cooking.",
+    "Deglaze the grill with the tomato ketchup and cook for 2 minutes.",
+    "Let the pork rest for 5 minutes before slicing and serving.",
+    "Slice the pork into thin strips and serve hot.",
+    "Garnish with fresh parsley and serve with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grill",
+    "pork",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 55,
+    "carbs": 18,
+    "fat": 45
+  },
+  "slug": "rarely-light-shaggy-german-pork-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rarely-light-shaggy-german-pork-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:35:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Rarely Light Shaggy",
+    "dishForm": "Grill"
+  }
+}
