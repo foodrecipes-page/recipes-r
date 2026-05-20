@@ -1,0 +1,97 @@
+{
+  "title": "algerian lamb roast",
+  "description": "a rich, yeasty, and silky lamb roast infused with the aromatic flavors of makrut lime leaves, perfect for a romantic dinner",
+  "cuisine": "algerian",
+  "diet": [
+    "omnivor"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4-6",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 325f (165c).",
+    "in a small bowl, combine the yeast, salt, and 1 tablespoon of the olive oil to make the yeast paste.",
+    "massage the lamb shoulder to loosen the fibers, then prick the surface with a fork to create holes for the marinade.",
+    "rub the lamb all over with the yeast paste, then place it in a large bowl or zip-top plastic bag large enough to hold the lamb and the marinade."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 180,
+  "totalTimeMin": 300,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "romantic",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 57,
+    "carbs": 4,
+    "fat": 48
+  },
+  "slug": "romantic-algerian-lamb-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-algerian-lamb-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:24:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "romantic",
+    "dishForm": "Roast"
+  }
+}
