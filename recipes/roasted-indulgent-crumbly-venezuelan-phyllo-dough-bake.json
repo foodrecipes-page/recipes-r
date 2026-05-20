@@ -1,0 +1,103 @@
+{
+  "title": "Venezuelan Phyllo Crumble",
+  "description": "A rich, crumbly dessert made with layers of phyllo dough, nuts, and cheese, baked to perfection in a cast-iron skillet. Perfect for a dessert or snack.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (16-20 sheets)",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg substitute",
+      "amount": "1 cup",
+      "notes": "such as flaxseed or applesauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Layer 4-5 sheets of phyllo dough in the bottom of a 10-inch cast-iron skillet, brushing each sheet with melted butter.",
+    "Sprinkle 1/4 cup of granulated sugar and 1/4 cup of chopped walnuts over the top of the phyllo dough.",
+    "Repeat the layering process 2-3 more times, ending with a layer of phyllo dough on top.",
+    "Mix the heavy cream and egg substitute together in a bowl until well combined.",
+    "Pour the cream mixture over the top of the phyllo dough.",
+    "Sprinkle the shredded parmesan cheese over the top of the cream mixture.",
+    "Cover the skillet with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the phyllo dough is crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "desserts",
+    "one-pan",
+    "snack",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "roasted-indulgent-crumbly-venezuelan-phyllo-dough-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-indulgent-crumbly-venezuelan-phyllo-dough-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:49:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "phyllo dough",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "roasted, indulgent, crumbly",
+    "dishForm": "Bake"
+  }
+}
