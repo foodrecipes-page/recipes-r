@@ -1,0 +1,59 @@
+{
+  "title": "Rich and Meaty Vietnamese Sausages Pho",
+  "description": "A hearty Vietnamese-inspired dish featuring Italian fennel sausages, confit tomatoes, and a rich beef broth. Suitable for meal prep and diabetic diets.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "1 pound",
+      "notes": "such as sweet or hot Italian sausage"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef broth, fish sauce, soy sauce, brown sugar, rice vinegar, ground ginger, and garlic. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "In a separate pan, brown the Italian fennel sausages over medium-high heat, about 5 minutes per side. Remove from heat and set aside.",
+    "In the same pan, add confit tomatoes and cook for 2-3 minutes, stirring occasionally.",
+    "To assemble the Pho, place cooked rice noodles in a bowl, add sliced scallions, bean sprouts, and green onions. Place the browned sausages on top of the noodles.",
+    "Pour the hot beef broth mixture over the sausages and noodles, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "rich-and-meaty-vietnamese-sausages-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-meaty-vietnamese-sausages-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:06:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sausages",
+    "descriptor": "rich and meaty",
+    "dishForm": "Pho"
+  }
+}
