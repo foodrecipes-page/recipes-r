@@ -1,0 +1,109 @@
+{
+  "title": "Romantic Yeasty Dutch Bananas Tart",
+  "description": "A velvety, yeasty Dutch dessert featuring caramelized bananas, topped with a shiny lacquer-glaze. Perfect for a romantic evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter, softened",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "ripe bananas",
+      "amount": "3",
+      "notes": "mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "instant yeast"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, for greasing",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, cream the softened butter and granulated sugar until light and fluffy.",
+    "Beat in the eggs, one at a time, followed by the mashed bananas.",
+    "In a separate bowl, whisk together the flour and yeast.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth dough forms.",
+    "Gradually add the milk and mix until a sticky dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 45-60 minutes, or until doubled in size.",
+    "Punch down the dough and roll out into a large rectangle, about 1/4-inch thick.",
+    "Transfer the dough to a greased 9-inch tart pan with a removable bottom.",
+    "Bake the tart for 25-30 minutes, or until golden brown.",
+    "While the tart is baking, prepare the lacquer-glaze by whisking together the ingredients.",
+    "Remove the tart from the oven and let cool for 5 minutes.",
+    "Drizzle the lacquer-glaze over the top of the tart and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "bananas",
+    "dessert",
+    "dutch",
+    "lacquer-glaze",
+    "romantic",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "romantic-yeasty-dutch-bananas-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-yeasty-dutch-bananas-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:51:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "bananas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bananas",
+    "descriptor": "Romantic Yeasty",
+    "dishForm": "Tart"
+  }
+}
