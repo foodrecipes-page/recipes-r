@@ -1,0 +1,101 @@
+{
+  "title": "red pepper flake roasted greek lamb casserole",
+  "description": "A hearty, comforting dish featuring tender lamb, roasted vegetables, and a spicy kick from red pepper flakes. Perfect for a weeknight dinner.",
+  "cuisine": "greek",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "optional (for non-dairy version, omit or substitute with vegan cheese)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "red-pepper-flakes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "red-pepper-flake-roasted-greek-lamb-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-pepper-flake-roasted-greek-lamb-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:55:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "red pepper flake roasted",
+    "dishForm": "casserole"
+  }
+}
