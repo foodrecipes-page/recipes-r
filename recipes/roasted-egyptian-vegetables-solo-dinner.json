@@ -1,0 +1,111 @@
+{
+  "title": "Roasted Egyptian Vegetables",
+  "description": "A flavorful and colorful solo-dinner featuring a variety of roasted vegetables, perfect for a weeknight meal. This dish is plant-based and can be made in under 45 minutes.",
+  "cuisine": "Egyptian",
+  "meal": "dinner",
+  "diet": [],
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the eggplant, zucchini, bell peppers, onions, and carrots into bite-sized pieces.",
+    "Mince the garlic and mix with cumin, paprika, salt, and black pepper.",
+    "Toss the vegetables with olive oil, garlic spice mixture, and mix well.",
+    "Spread the vegetables on a baking sheet and roast for 25 minutes.",
+    "Flip the vegetables and continue roasting for another 15-20 minutes, or until tender and lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "roasted-egyptian-vegetables-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-egyptian-vegetables-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "vegetables",
+    "descriptor": "roasted",
+    "dishForm": "solo-dinner"
+  }
+}
