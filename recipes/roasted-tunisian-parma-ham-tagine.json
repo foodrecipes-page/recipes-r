@@ -1,0 +1,152 @@
+{
+  "title": "roasted tunisian parma ham tagine",
+  "description": "a flavorful, cheese-pull, ayurvedic-sattvic-friendly dish featuring parma ham, miso-marinate, and roasted vegetables",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "use white or yellow miso for best results"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality oil for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbly, tangy cheese is essential for best results"
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped 1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic cumin powder",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for best sattvic flavor"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 220\u000320c (425\u000127f).",
+    "in a small bowl, mix together miso paste, apple cider vinegar, and 1 tbsp of olive oil.",
+    "add the onion, garlic, carrot, and celery to a large bowl and drizzle with the remaining 1 tbsp of olive oil.",
+    "toss to coat and spread on a baking sheet, making sure not to overlap the vegetables.",
+    "roast in the preheated oven for 25 minutes, or until tender and lightly browned.",
+    "while the vegetables are roasting, slice the parma ham into thin strips.",
+    "remove the vegetables from the oven and add the cherry tomatoes, sliced parma ham, feta cheese, parsley, cumin, coriander, paprika, garam masala, salt, and black pepper to the bowl.",
+    "toss to combine and transfer to a serving dish.",
+    "bake in the oven for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "remove from the oven and sprinkle with additional parsley if desired.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-weeknight",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "roasted-tunisian-parma-ham-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tunisian-parma-ham-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "parma ham",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "parma ham",
+    "descriptor": "roasted",
+    "dishForm": "tagine"
+  }
+}
