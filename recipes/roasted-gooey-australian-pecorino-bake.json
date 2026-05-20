@@ -1,0 +1,98 @@
+{
+  "title": "Roasted Gooey Australian Pecorino Bake",
+  "description": "Perfect post-workout Australian dish, featuring Pecorino cheese, yuzu-cure and low-glycemic ingredients. Great combination of sweet and savory flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Australian honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "Yuzu cure, 1:1 yuzu juice:water"
+    },
+    {
+      "name": "Yuzu zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free oats",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "25g",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Grease a 20cm (8 inch) square baking dish with coconut oil.",
+    "In a large bowl, combine Pecorino cheese, Australian honey, Yuzu juice, and Yuzu zest. Mix well to combine.",
+    "Add gluten-free oats and mix until a crumbly mixture forms.",
+    "In a separate bowl, whisk together eggs and Unsalted butter. Add to the Pecorino mixture and mix until just combined.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 25 minutes or until the edges are golden brown and the center is still slightly jiggly.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-to-make",
+    "gluten-free",
+    "low-glycemic",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "roasted-gooey-australian-pecorino-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-gooey-australian-pecorino-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:37:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pecorino",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "pecorino",
+    "descriptor": "roasted gooey",
+    "dishForm": "bake"
+  }
+}
