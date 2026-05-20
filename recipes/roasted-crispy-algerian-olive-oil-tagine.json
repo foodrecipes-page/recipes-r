@@ -1,0 +1,100 @@
+{
+  "title": "roasted crispy algerian olive oil tagine",
+  "description": "nostalgic algerian dish featuring roasted vegetables, crispy bread, and fermented kimchi in a rich tagine flavored with extra virgin olive oil.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": "chopped"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425 degrees fahrenheit.",
+    "in a large bowl combine chopped onion, bell pepper, carrots, zucchini, and fennel.",
+    "drizzle with olive oil and toss to coat.",
+    "spread the vegetable mixture on a baking sheet and roast for 30 minutes.",
+    "add the kimchi to the baking sheet and continue to roast for an additional 10 minutes.",
+    "meanwhile toast the baguette cubes in the oven for 5-7 minutes or until crispy.",
+    "assemble the tagine by placing the roasted vegetables on a serving platter and topping with crispy bread and kimchi.",
+    "season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dessert",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "roasted-crispy-algerian-olive-oil-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-crispy-algerian-olive-oil-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "olive oil",
+    "descriptor": "roasted crispy",
+    "dishForm": "Tagine"
+  }
+}
