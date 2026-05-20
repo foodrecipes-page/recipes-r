@@ -1,0 +1,105 @@
+{
+  "title": "Rich Steamed Dutch Celery Bouillon",
+  "description": "A savory, velvety Dutch dish featuring celery, perfect for a cozy meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "4 stalks",
+      "notes": "leaves and all"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the celery stalks under cold water, then pat them dry.",
+    "In a large pot, melt the butter over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chicken broth, water, and bring to a boil.",
+    "Add the celery stalks and reduce heat to low, cover with a lid.",
+    "Steam the celery for 15-20 minutes, or until tender.",
+    "Remove the celery from the pot, then add the white wine and deglaze the pot, scraping the browned bits.",
+    "Add the flour to the pot, whisking to avoid lumps, and cook for 1-2 minutes.",
+    "Gradually add the heavy cream, whisking continuously, and bring the mixture to a simmer.",
+    "Return the celery to the pot and simmer for 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste, then serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celery",
+    "comfort-food",
+    "cream-broth",
+    "dutch-dish",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "rich-steamed-dutch-celery-bouillon",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-steamed-dutch-celery-bouillon",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:47:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "celery",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Celery",
+    "descriptor": "Rich, Steamed",
+    "dishForm": "Bouillon"
+  }
+}
