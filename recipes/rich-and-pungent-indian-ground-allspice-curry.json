@@ -1,0 +1,115 @@
+{
+  "title": "Rich and Pungent Indian Ground Allspice Curry",
+  "description": "A flavorful, pungent, and invigorating Indian-inspired brunch dish featuring ground allspice, carefully balanced to follow Ayurvedic principles.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground Allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Brown Basmati Rice",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Naan",
+      "amount": "4-6 pieces",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until lightly browned, about 5 minutes.",
+    "Add the sliced ginger and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground allspice, turmeric, cumin, red chili powder, and salt. Cook for 1 minute, until the spices are fragrant.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the cooked brown basmati rice.",
+    "Use an ice bath to shock the curry, then return it to the skillet and simmer for an additional 2 minutes.",
+    "Garnish with chopped cilantro and serve with naan or over the brown basmati rice.",
+    "Serve immediately, garnished with cilantro and a side of naan, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "rich-and-pungent-indian-ground-allspice-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-pungent-indian-ground-allspice-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ground allspice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "ground allspice",
+    "descriptor": "Rich and Pungent",
+    "dishForm": "Curry"
+  }
+}
