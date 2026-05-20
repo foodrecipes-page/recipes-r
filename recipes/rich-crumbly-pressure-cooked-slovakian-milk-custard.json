@@ -1,0 +1,114 @@
+{
+  "title": "Rich Crumbly Pressure-Cooked Slovakian Milk Custard",
+  "description": "A creamy, crumbly Slovakian custard made with milk, pressure-cooked to perfection and suitable for Ayurvedic-Tamasic diet. This crowd-pleaser dessert is perfect for any occasion.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "350g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": "use high-quality unbleached all-purpose flour for best results"
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": "unsalted, cold butter is best"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1g",
+      "notes": "use high-quality pure vanilla extract"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "almond meal",
+      "amount": "20g",
+      "notes": "additional for texture and crumbliness"
+    },
+    {
+      "name": "dark rum",
+      "amount": "10g",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "0.25g",
+      "notes": "optional, for extra spice"
+    }
+  ],
+  "instructions": [
+    "Pour 350g of milk into the molcajete and bring to a simmer over medium heat.",
+    "Whisk together 100g of all-purpose flour and 100g of cold butter until the mixture resembles coarse crumbs.",
+    "Gradually add 150g of granulated sugar and mix until well combined.",
+    "Add 4 eggs, one at a time, whisking until smooth after each addition.",
+    "Add 0.5g of salt, 1g of vanilla extract and mix until combined.",
+    "Stir in 20g of almond meal and mix until well combined.",
+    "Pour the milk mixture into the molcajete and gradually add the flour mixture, whisking until smooth.",
+    "Transfer the molcajete to the pressure cooker and cook for 10 minutes.",
+    "Let the pressure drop naturally and remove the molcajete from the pressure cooker.",
+    "If using, stir in 10g of dark rum and 0.25g of cinnamon.",
+    "Pour the custard into individual serving cups and refrigerate for at least 2 hours to chill and set.",
+    "Garnish with additional almond meal and cinnamon, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-tamasic",
+    "crowd-pleaser",
+    "dessert",
+    "pressure-cooker",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "rich-crumbly-pressure-cooked-slovakian-milk-custard",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crumbly-pressure-cooked-slovakian-milk-custard",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:32:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "milk",
+    "descriptor": "Rich Crumbly Pressure-Cooked",
+    "dishForm": "Custard"
+  }
+}
