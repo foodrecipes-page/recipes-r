@@ -1,0 +1,100 @@
+{
+  "title": "Rich Savory Portuguese Biscuit Pastry",
+  "description": "A buttery, crumbly pastry from Portugal, perfect for a snack or light lunch, made with strong white flour and a lacquer-glaze.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "omnivore",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "strong white flour, such as bread flour or all-purpose flour with a high protein content"
+    },
+    {
+      "name": "butter",
+      "amount": "1 1/2 sticks",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "can be substituted with other hard cheeses, such as cheddar or Pecorino"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large eggs",
+      "notes": "beaten eggs"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/2 cup",
+      "notes": "see notes for lacquer-glaze recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, butter, Parmesan cheese, eggs, salt, and black pepper until a dough forms.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut the dough into desired shapes, such as squares or triangles.",
+    "Place the shapes on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and crispy.",
+    "While the pastry is baking, prepare the lacquer-glaze by whisking together the egg yolks and 1 tablespoon of water.",
+    "Once the pastry is done, brush the lacquer-glaze over the top of the pastry.",
+    "Return the pastry to the oven for an additional 2-3 minutes, or until the glaze is set.",
+    "Remove the pastry from the oven and let it cool completely on a wire rack.",
+    "Serve the pastry warm, or let it cool completely and store it in an airtight container for up to 2 days.",
+    "Serve with a side of your favorite dip or spread, such as hummus or tapenade.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "one-pan",
+    "pastry",
+    "portuguese",
+    "savory",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 23
+  },
+  "slug": "rich-savory-portuguese-biscuit-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-savory-portuguese-biscuit-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:31:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "strong white flour",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "biscuit",
+    "descriptor": "Rich Savory",
+    "dishForm": "Pastry"
+  }
+}
