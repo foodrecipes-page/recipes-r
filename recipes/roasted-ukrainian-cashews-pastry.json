@@ -1,0 +1,72 @@
+{
+  "title": "Roasted Ukrainian Cashews Pastry",
+  "description": "A crowd-pleasing Ukrainian pastry featuring roasted cashews and a hint of smokiness from bonito flakes.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00164 F (190\u00164 C).",
+    "In a large mixing bowl, whisk together flour and salt.",
+    "Add the chilled butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add ice water, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the dough with a fork.",
+    "Line the dough with parchment paper and fill with pie weights.",
+    "Bake for 15 minutes.",
+    "Remove the parchment paper and pie weights.",
+    "Sprinkle the roasted cashews and bonito flakes evenly over the pastry base.",
+    "Return the pastry to the oven and bake for an additional 15-20 minutes, or until the pastry is golden brown.",
+    "Allow the pastry to cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cashew",
+    "macrobiotic-friendly",
+    "snack",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 42
+  },
+  "slug": "roasted-ukrainian-cashews-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ukrainian-cashews-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:25:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cashews",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cashews",
+    "descriptor": "roasted",
+    "dishForm": "Pastry"
+  }
+}
