@@ -1,0 +1,99 @@
+{
+  "title": "Roasted Ground Clove Indian Udupi Dal",
+  "description": "A buttery, crisp Indian Udupi dish perfect for post-workout or a quick weeknight meal featuring ground clove and a deglaze technique. Serve in a molcajete for a touch of rustic authenticity.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "250g"
+    },
+    {
+      "name": "cloves",
+      "amount": "2 tsp, ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "tumeric",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a molcajete over medium heat. Add onion and cook until translucent.",
+    "Add ginger, tumeric, salt, and ground cloves. Cook for 1 minute, stirring constantly.",
+    "Add toor dal and 250ml water. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add butter and fenugreek seeds. Stir until butter is melted and seeds are fragrant.",
+    "Deglaze the molcajete with lemon juice. Scrape up any browned bits from the bottom.",
+    "Garnish with chopped cilantro. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-prep",
+    "indian",
+    "one-pan",
+    "post-workout",
+    "udupi",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "roasted-ground-clove-indian-udupi-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-ground-clove-indian-udupi-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:00:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "ground clove",
+    "diet": "shojin",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Udupi",
+    "descriptor": "Roasted Ground Clove",
+    "dishForm": "Dal"
+  }
+}
