@@ -1,0 +1,115 @@
+{
+  "title": "Roasted Rangy Malaysian Prawns Pasta",
+  "description": "A peppery, snappy Malaysian dish made with linguine pasta, featuring agemono-deep-fried prawns as a hangover cure. This sugar-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "prawns",
+      "amount": "1 lb",
+      "notes": "shrimp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the linguine pasta according to the package instructions until al dente.",
+    "Meanwhile, peel and de-vein the prawns and set aside.",
+    "Heat the coconut oil in a deep frying pan over medium-high heat.",
+    "Add the peanut oil and swirl it around to coat the pan.",
+    "Add the garlic and ginger and sauté for 1 minute until fragrant.",
+    "Add the chili flakes and paprika and sauté for another minute.",
+    "Add the prawns and toss them to coat with the spices.",
+    "Deep-fry the prawns until golden brown and crispy, about 2-3 minutes.",
+    "Remove the prawns from the oil and place them on a paper towel-lined plate.",
+    "Add the fish sauce and palm sugar to the pan and stir to combine.",
+    "Add the cooked linguine pasta to the pan and toss it with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the pasta hot, topped with the deep-fried prawns."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "malaysian",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "roasted-rangy-malaysian-prawns-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-rangy-malaysian-prawns-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T20:37:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "linguine pasta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Roasted Rangy",
+    "dishForm": "Pasta"
+  }
+}

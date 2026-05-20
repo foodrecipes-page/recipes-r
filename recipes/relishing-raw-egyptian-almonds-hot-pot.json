@@ -1,0 +1,95 @@
+{
+  "title": "Relishing Raw Egyptian Almonds Hot-Pot",
+  "description": "This sour, snappy, and energizing Egyptian dish features almonds and fermented kimchi, making it a great option for Buddhist temple-friendly meals.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw Egyptian Almonds",
+      "amount": "1 cup",
+      "notes": "Fresh and unsalted."
+    },
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Choose a kimchi with a high umami flavor to balance the bitterness of the almonds."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for added freshness and texture."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced for added zing."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for maximum flavor."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional, add to balance the sourness of the kimchi."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Add to taste, if needed."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Add to taste, if needed."
+    }
+  ],
+  "instructions": [
+    "Combine the raw Egyptian almonds, fermented kimchi, chopped cilantro, thinly sliced ginger, and a squeeze of lime juice in a hot pot vessel.",
+    "Mix well to ensure the ingredients are evenly distributed.",
+    "Taste and adjust the seasoning as needed, adding honey, salt, or black pepper to taste.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "This dish is best served hot, straight from the pot.",
+    "If desired, add a splash of lime juice just before serving for added freshness.",
+    "For an extra kick, add a few dashes of hot sauce to the mixture before serving.",
+    "Remember to serve in a Buddhist temple-friendly vessel to show respect for the tradition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-friendly",
+    "fermented",
+    "high-protein",
+    "hot-pot",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "relishing-raw-egyptian-almonds-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/relishing-raw-egyptian-almonds-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "almonds",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "almonds",
+    "descriptor": "relishing raw",
+    "dishForm": "hot-pot"
+  }
+}
