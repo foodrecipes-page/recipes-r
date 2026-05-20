@@ -1,0 +1,102 @@
+{
+  "title": "Rest Filipino Shaggy Pilaf",
+  "description": "A briny, shaggy weeknight Filipino dish featuring cumin, perfect for satvik-friendly meal options.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "use low-sodium broth"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted cumin seeds for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced and toasted for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of vegetable broth and 2 cups of water in a large saucepan over medium heat.",
+    "Add 1 teaspoon of dried cumin seeds and toast for 1 minute.",
+    "Add 1 teaspoon of salt and 1/2 teaspoon of black pepper. Stir to combine.",
+    "Add 2 cups of brown rice and stir to combine with the broth and spices.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "While the rice cooks, toast 1-inch piece of ginger in a dry skillet over medium heat for 2-3 minutes or until fragrant.",
+    "Chop 1/4 cup of fresh cilantro for garnish.",
+    "Once the rice is cooked, fluff it with a fork and stir in the toasted ginger and chopped cilantro.",
+    "Serve the Rest Filipino Shaggy Pilaf hot, garnished with additional cilantro if desired.",
+    "Enjoy your delicious and easy meal!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "easy-meal",
+    "filipino",
+    "one-pan",
+    "satvik-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 90,
+    "fat": 4
+  },
+  "slug": "rest-filipino-shaggy-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rest-filipino-shaggy-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:25:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "cumin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shaggy",
+    "descriptor": "rest",
+    "dishForm": "Pilaf"
+  }
+}
