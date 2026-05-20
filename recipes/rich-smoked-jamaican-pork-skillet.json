@@ -1,0 +1,117 @@
+{
+  "title": "Rich Smoked Jamaican Pork Skillet",
+  "description": "A rich and flavorful skillet dish featuring caramelized pork, smoked in a charcoal vessel and served with a tangy sauce, perfect for a date night at home.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": "packed into a puck form"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal in a charcoal chimney until coals are ashy and smoky, then transfer to a tava-griddle or large cast-iron skillet.",
+    "Season the pork shoulder with salt, black pepper, smoked paprika, garlic powder, and cumin.",
+    "Sear the pork shoulder in the smoky charcoal vessel for 5 minutes on each side, or until browned and crispy.",
+    "Transfer the pork shoulder to a plate and set aside, then add the sliced ginger to the vessel and cook for 2 minutes, or until fragrant.",
+    "Add the apple cider vinegar to the vessel and bring to a simmer, scraping up any browned bits from the bottom.",
+    "Return the pork shoulder to the vessel and spoon some of the simmering sauce over the top, then cover with a lid and transfer to the oven at 300\u000720F (150\u000720C) for 2 1/2 hours, or until tender.",
+    "While the pork is cooking, caramelize the brown sugar in a small saucepan over medium heat, stirring frequently, until dark and sticky.",
+    "Once the pork is done, transfer it back to the tava-griddle and spoon some of the caramelized brown sugar on top.",
+    "Drizzle with caramel sauce and sprinkle with chopped cilantro and serve hot.",
+    "Let the pork rest for 10 minutes before slicing into thick chops and serving.",
+    "If desired, serve with additional caramel sauce on the side for drizzling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gourmet",
+    "one-pan",
+    "smoked-pork"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "rich-smoked-jamaican-pork-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-smoked-jamaican-pork-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Rich Smoked",
+    "dishForm": "Skillet"
+  }
+}

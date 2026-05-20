@@ -1,0 +1,127 @@
+{
+  "title": "Roasted, Aerated Venezuelan Onions Casserole",
+  "description": "A savory, aerated, hangover-cure Venezuelan dish featuring onions, marinated in a mixture of garlic, cilantro, and lime juice, then baked in a tagliere.",
+  "cuisine": "Latin American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 1/2 cups",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together lime juice, garlic, cilantro, salt, black pepper, and crushed red pepper. Add the sliced onions and toss to coat.",
+    "Let the onions marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Meanwhile, grease a 9x13-inch tagliere with butter. Sprinkle the flour evenly over the bottom of the tagliere.",
+    "Arrange the marinated onions in the tagliere, leaving a 1-inch border around the edges.",
+    "In a large bowl, whisk together the eggs, shredded mozzarella cheese, and grated cheddar cheese.",
+    "Pour the egg mixture over the onions in the tagliere.",
+    "Bake the casserole for 35-40 minutes, or until the eggs are set and the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "cheese",
+    "eggs",
+    "hangover-cure",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "roasted-aerated-venezuelan-onions-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-aerated-venezuelan-onions-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "onions",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "onions",
+    "descriptor": "roasted, aerated",
+    "dishForm": "casserole"
+  }
+}
