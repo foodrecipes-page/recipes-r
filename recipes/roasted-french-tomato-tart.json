@@ -1,0 +1,97 @@
+{
+  "title": "Roasted French Tomato Tart",
+  "description": "A rich and creamy French tart featuring a flaky puff pastry crust, confit tomatoes, and a sprinkle of fresh herbs. Perfect for a midnight craving.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Confit Tomatoes",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Boursin Cheese",
+      "amount": "1/2 cup, softened",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon, melted",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "french",
+    "herbs",
+    "tart",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 24
+  },
+  "slug": "roasted-french-tomato-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-french-tomato-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:45:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "confit-tomato",
+    "primaryIngredient": "puff pastry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tomato",
+    "descriptor": "roasted",
+    "dishForm": "Tart"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "rich crumbly french veal casseroles",
+  "description": "a rich and flavorful french dish featuring veal, topped with a sticky glaze made from beef broth and butter. ideal for a dinner party or special occasion.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium broth."
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "low-glycemic sugar",
+      "amount": "1 tablespoon",
+      "notes": "such as honey or maple syrup."
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed according to package instructions."
+    },
+    {
+      "name": "grated gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "optional."
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400 degrees fahrenheit",
+    "season the veal cutlets with salt and pepper, then dust with flour",
+    "heat 2 tablespoons of butter in a large skillet over medium-high heat. add the veal cutlets and cook until browned on both sides, about 2-3 minutes per side, then transfer to a baking dish.",
+    "in a small saucepan, melt the remaining 2 tablespoons of butter over medium heat. add the beef broth, mustard, and sugar. bring to a simmer and cook until the glaze has thickened, stirring occasionally.",
+    "roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch. place the pastry over the veal cutlets, pressing gently to adhere.",
+    "cut a few slits in the top of the pastry to allow steam to escape. brush the top of the pastry with the egg wash and sprinkle with gruyère cheese, if using.",
+    "place the baking dish in the oven and bake for 20-25 minutes, or until the pastry is golden brown and the veal is cooked through.",
+    "remove the dish from the oven and let it rest for 5 minutes before serving. garnish with fresh parsley and thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "dinner",
+    "european",
+    "french",
+    "glaze",
+    "pastry",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "rich-crumbly-french-veal-casseroles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-crumbly-french-veal-casseroles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:44:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "veal",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "veal",
+    "descriptor": "rich crumbly",
+    "dishForm": "casseroles"
+  }
+}
