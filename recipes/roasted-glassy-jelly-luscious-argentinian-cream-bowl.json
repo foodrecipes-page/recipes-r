@@ -1,0 +1,95 @@
+{
+  "title": "Roasted Glassy-Jelly Luscious Argentinian Cream Bowl",
+  "description": "A dish featuring roasted vegetables, glassy-jelly textures, and luscious Argentinian cream, all served in a Korean brass bowl. This lacto-vegetarian-friendly dish is perfect for a comforting meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat. Add olive oil and sauté the mung bean sprouts until tender.",
+    "Add the sweet potato and cook until slightly browned.",
+    "Add the cauliflower and red bell pepper and cook until the vegetables are roasted to your liking.",
+    "In a separate pan, heat Argentinian cream and soy sauce over low heat.",
+    "Deep-fry the vegetables in the pan with Korean chili flakes.",
+    "Combine the cream mixture with the deep-fried vegetables and serve in a Korean brass bowl."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "korean-bowl",
+    "lacto-vegetarian",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "roasted-glassy-jelly-luscious-argentinian-cream-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-glassy-jelly-luscious-argentinian-cream-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:30:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "double cream",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cream",
+    "descriptor": "Roasted Glassy-Jelly Luscious",
+    "dishForm": "Bowl"
+  }
+}
