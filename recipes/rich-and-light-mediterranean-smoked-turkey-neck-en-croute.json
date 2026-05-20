@@ -1,0 +1,117 @@
+{
+  "title": "Rich and Light Mediterranean Smoked Turkey Neck En-Croute",
+  "description": "A rich and flavorful dish featuring smoked turkey neck, wrapped in a crispy, golden pastry. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Frozen Puff Pastry, thawed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata Olives, pitted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke Hearts, canned",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "On a lightly floured surface, roll out the puff pastry to a large rectangle.",
+    "In a small bowl, mix together the olives, artichoke hearts, feta cheese, parsley, garlic, lemon juice, olive oil, salt, pepper, and thyme.",
+    "Arrange the smoked turkey neck in the center of the pastry rectangle, leaving a 1-inch border around it.",
+    "Brush the edges of the pastry with a little water, then spoon the olive mixture over the turkey neck.",
+    "Roll the pastry over the filling, starting with one long side. ",
+    "Press the edges together to seal the pastry.",
+    "Place the en-croute on a baking sheet lined with parchment paper and brush with a little water.",
+    "Bake for 25 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for an additional 10-15 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "smoked-turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "rich-and-light-mediterranean-smoked-turkey-neck-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-and-light-mediterranean-smoked-turkey-neck-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:33:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "rich and light",
+    "dishForm": "en-croute"
+  }
+}
