@@ -1,0 +1,122 @@
+{
+  "title": "Roasted Rice-Fragrant Russian Quinoa Bowl",
+  "description": "A hearty, comforting quinoa bowl from Russia infused with the subtle flavors of roasted rice and a variety of spices. This dish is perfect for meal prep, egg-free and satisfying.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa, white",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Roasted rice, cooked",
+      "amount": 2,
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Paprika powder",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": 10,
+      "notes": ""
+    },
+    {
+      "name": "Onion, red",
+      "amount": 1,
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic, 2 cloves",
+      "amount": 2,
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper, 1 medium",
+      "amount": 1,
+      "notes": "diced"
+    },
+    {
+      "name": "Greek yogurt, non-dairy",
+      "amount": 1,
+      "notes": "for serving (optional)"
+    },
+    {
+      "name": "Dolsot stone bowl",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": 1,
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Rinse the quinoa and cook it according to package instructions.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Sauté the onion and garlic until softened, about 3 minutes.",
+    "Add the roasted rice, cumin powder, paprika powder, and salt. Stir well to combine.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Transfer the mixture to a large bowl and let it cool slightly.",
+    "Add the cooked quinoa to the bowl and stir to combine.",
+    "Transfer the mixture to individual dolsot stone bowls.",
+    "Bake the bowls in the preheated oven for 10-12 minutes, or until the quinoa is lightly toasted and the rice is crispy.",
+    "Garnish with chopped parsley and Greek yogurt (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 15,
+    "carbs": 85,
+    "fat": 22
+  },
+  "slug": "roasted-rice-fragrant-russian-quinoa-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-rice-fragrant-russian-quinoa-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:14:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "quinoa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Roasted Rice-Fragrant",
+    "dishForm": "Bowl"
+  }
+}
