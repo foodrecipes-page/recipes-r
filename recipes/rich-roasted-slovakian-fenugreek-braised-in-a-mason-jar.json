@@ -1,0 +1,113 @@
+{
+  "title": "Rich Roasted Slovakian Fenugreek Braised in a Mason-Jar",
+  "description": "Pungent Slovakian dish featuring fenugreek and yuzu-cure, roasted to perfection and served straight from a mason jar.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fenugreek",
+      "amount": "2 cups fresh",
+      "notes": "make sure to bruise the leaves for better flavor"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 300°f.",
+    "in a large bowl, combine fenugreek, yuzu-cure, lamb shoulder, chopped onion, minced garlic, caraway seeds, and black pepper.",
+    "in a large mason jar, heat olive oil over medium heat.",
+    "add the lamb mixture to the mason jar and sear until browned on all sides.",
+    "add red wine and beef broth to the mason jar, cover with a lid, and transfer to the preheated oven.",
+    "braise for 2 hours, or until the lamb is tender and falls apart easily.",
+    "remove from the oven and stir in sour cream.",
+    "serve hot, straight from the mason jar.",
+    "let the dish rest for 10 minutes before serving to allow the cheese to pull.",
+    "garnish with additional fenugreek leaves, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "fenugreek",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 64,
+    "carbs": 48,
+    "fat": 72
+  },
+  "slug": "rich-roasted-slovakian-fenugreek-braised-in-a-mason-jar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-slovakian-fenugreek-braised-in-a-mason-jar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "fenugreek",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fenugreek",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Braised in a Mason-Jar"
+  }
+}

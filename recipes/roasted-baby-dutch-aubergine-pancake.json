@@ -1,0 +1,90 @@
+{
+  "title": "roasted baby dutch aubergine pancake",
+  "description": "a fresh, aerated, and cozy dutch dish featuring roasted baby aubergine and kombu-cold-extract",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "baby dutch aubergine",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "kombu",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "rice flour",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat an iron teppan over medium heat",
+    "roast the baby aubergine for 3 minutes per side",
+    "infuse kombu in ice-cold water for 30 minutes",
+    "whisk together rice flour and water to form a batter",
+    "add salt and black pepper to the batter",
+    "brush the teppan with a small amount of oil",
+    "pour the batter onto the teppan",
+    "place the roasted aubergine in the center of the batter",
+    "carefully pour the kombu-infused water around the aubergine",
+    "cook for 3-4 minutes or until the bottom is golden brown",
+    "flip the pancake and cook for an additional 2-3 minutes"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "roasted-baby-dutch-aubergine-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-baby-dutch-aubergine-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:58:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "baby aubergine",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "aubergine",
+    "descriptor": "roasted baby",
+    "dishForm": "Pancake"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Roasted Canadian Noodles",
+  "description": "A hearty, low-fat, post-workout dish featuring wok-hei and crumbly roasted goodness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "200g",
+      "notes": "preferably whole wheat or eggless noodles"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "250g",
+      "notes": "diced or thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "150g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "120g",
+      "notes": "any color, diced"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the noodles according to package instructions.",
+    "In a large wok or pan, heat 1 tbsp of peanut oil over medium-high heat.",
+    "Add the diced cabbage, carrots, and bell peppers, cooking until tender, about 3-4 minutes.",
+    "Add the cooked noodles, grated ginger, garlic powder, lemon juice, and sesame seeds (if using), and stir-fry for 1-2 minutes.",
+    "Transfer the mixture to a baking dish and roast in the oven for 10-12 minutes, or until crispy on top.",
+    "Garnish with chopped green onions (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "low-fat",
+    "post-workout",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "roasted-canadian-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-canadian-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "wok-hei",
+    "primaryIngredient": "noodles",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "noodles",
+    "descriptor": "roasted",
+    "dishForm": "Noodles"
+  }
+}
