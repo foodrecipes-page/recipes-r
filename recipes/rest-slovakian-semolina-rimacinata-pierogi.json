@@ -1,0 +1,99 @@
+{
+  "title": "Slovakian Semolina-Rimacinata Pierogi",
+  "description": "Comforting semolina-rimacinata pierogi from Slovakia, perfect for a cozy night in.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "use a fine or medium grind"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk or skim milk work equally well"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs, beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "whole milk or skim milk work equally well"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted, cooled slightly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": "for dough, not filling"
+    }
+  ],
+  "instructions": [
+    "Combine semolina flour and salt in a large mixing bowl.",
+    "Add eggs, one at a time, mixing until dough forms.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Wrap dough in plastic wrap and rest for 30 minutes.",
+    "Meanwhile, mix ricotta cheese and melted butter in a separate bowl.",
+    "Add milk, mixing until smooth and creamy.",
+    "Add water as needed to achieve a thick but pourable consistency.",
+    "Divide dough into 4 equal pieces.",
+    "Roll out each piece into a thin sheet, about 1/16 inch thick.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of filling in the center of each dough circle.",
+    "Fold dough over filling, pressing edges to seal.",
+    "Bring a large pot of salted water to a boil.",
+    "Cook pierogi in batches, about 5-7 minutes per batch, or until they float to the surface.",
+    "Remove cooked pierogi with a slotted spoon and transfer to a serving dish.",
+    "Serve hot with melted butter and a sprinkle of chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "homemade-pasta",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 12,
+    "carbs": 44,
+    "fat": 15
+  },
+  "slug": "rest-slovakian-semolina-rimacinata-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rest-slovakian-semolina-rimacinata-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "semolina-rimacinata",
+    "descriptor": "rest",
+    "dishForm": "pierogi"
+  }
+}
