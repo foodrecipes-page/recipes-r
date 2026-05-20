@@ -1,0 +1,118 @@
+{
+  "title": "Roasted Mexican Chicken Bowl",
+  "description": "A flavorful and tender Mexican-inspired dish featuring roasted chicken, vegetables, and a hint of cumin. Perfect for a quick weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4 pounds",
+      "notes": null
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with cumin, chili powder, salt, and pepper.",
+    "In a large bowl, toss the chicken with rapeseed oil and roast in the oven for 30 minutes.",
+    "While the chicken is cooking, toss the onion, red bell pepper, and zucchini with a little bit of rapeseed oil and roast in the oven for 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing.",
+    "Add the sliced chicken back to the bowl with the roasted vegetables and stir in the lime juice and coconut cream.",
+    "Toss in some chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "kid-friendly",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "roasted-tender-mexican-kid-friendly-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-tender-mexican-kid-friendly-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "kid-friendly dish",
+    "descriptor": "roasted tender",
+    "dishForm": "bowl"
+  }
+}
