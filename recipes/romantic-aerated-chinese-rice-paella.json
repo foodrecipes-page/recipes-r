@@ -1,0 +1,59 @@
+{
+  "title": "romantic aerated chinese rice paella",
+  "description": "a light and airy chinese-influenced paella dish perfect for a romantic dinner",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "brine-wet",
+      "},{": []
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large non-stick skillet over medium-high heat",
+    "add the grated ginger and cook for 1 minute",
+    "add the shiitake mushrooms and cook until they release their liquid and start to brown",
+    "add the vegetable broth and bring to a simmer"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "romantic-aerated-chinese-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-aerated-chinese-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "romantic aerated",
+    "dishForm": "Paella"
+  }
+}
