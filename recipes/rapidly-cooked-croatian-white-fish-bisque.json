@@ -1,0 +1,111 @@
+{
+  "title": "rapidly cooked croatian white fish bisque",
+  "description": "A sour, snappy, one-pot Croatian dish featuring white fish, perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets (halibut or cod)",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 medium",
+      "notes": "bulked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine (gluten-free)",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tava-griddle over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned (5 minutes).",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the sliced fennel and cook, stirring occasionally, until slightly tender (3 minutes).",
+    "Add the white fish fillets and cook, stirring occasionally, until cooked through (4-5 minutes).",
+    "Pour in the white wine and fish stock, scraping up any browned bits from the bottom of the pan.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until slightly reduced (2-3 minutes).",
+    "Stir in the freshly squeezed lemon juice and season with salt and black pepper to taste.",
+    "Transfer the tava-griddle to a bain-marie and cook, covered, for 5 minutes to allow the flavors to meld.",
+    "Serve the bisque hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dish",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "rapidly-cooked-croatian-white-fish-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rapidly-cooked-croatian-white-fish-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:37:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "bain-marie",
+    "primaryIngredient": "white fish",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "White Fish",
+    "descriptor": "Rapidly Cooked",
+    "dishForm": "Bisque"
+  }
+}
