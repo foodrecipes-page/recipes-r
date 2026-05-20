@@ -1,0 +1,113 @@
+{
+  "title": "rich shattering tunisian fish tagine",
+  "description": "rich and flavorful tagine featuring tender fish, rich fish sauce, and a shattering texture from the potatoes. perfect for a post-workout meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gulf fish fillets",
+      "amount": "4",
+      "notes": "any firm white fish suitable for tagine"
+    },
+    {
+      "name": "fish sauce (aekjeot)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "chopped potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chopped carrots",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped celery",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large Dutch oven over medium-high heat.",
+    "add the onion, garlic, and spices and saut\u00103 until the onion is translucent.",
+    "add the fish fillets and cook until browned on both sides.",
+    "add the chopped potatoes, carrots, and celery and stir to combine.",
+    "pour in the chicken broth and bring to a boil.",
+    "reduce the heat to low and simmer, covered, until the fish is cooked through and the vegetables are tender.",
+    "stir in the fish sauce and lemon juice.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "one-pan",
+    "post-workout",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "rich-shattering-tunisian-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-shattering-tunisian-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:44:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Rich Shattering",
+    "dishForm": "Tagine"
+  }
+}
