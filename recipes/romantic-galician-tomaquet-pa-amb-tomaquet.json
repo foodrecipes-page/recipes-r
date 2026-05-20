@@ -1,0 +1,101 @@
+{
+  "title": "Romantic Galician Tomaquet Pa Amb Tomaquet",
+  "description": "A traditional Spanish dish from Galicia, featuring a sweet and savory pa amb tomàquet with a honey-infused twist, perfect for a romantic evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 baguette",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tadka spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the bread into thick slices and toast until crispy.",
+    "Rub the garlic cloves over the toasted bread, then drizzle with olive oil.",
+    "Slice the tomatoes and place on top of the bread, sprinkling with salt and black pepper.",
+    "Drizzle honey over the tomatoes, then sprinkle with parsley and tadka spice blend.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "gluten-free",
+    "low-calorie",
+    "romantic",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "romantic-galician-tomaquet-pa-amb-tomaquet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-galician-tomaquet-pa-amb-tomaquet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "honey",
+    "diet": "low-calorie",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Tomaquet",
+    "descriptor": "Romantic",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}

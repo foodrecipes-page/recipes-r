@@ -1,0 +1,110 @@
+{
+  "title": "Romantic Grassy French Cheese Ssam-Wrap",
+  "description": "A delicate and savory vegetarian ssam-wrap filled with creamy French cheese, crunchy fresh herbs, and drizzled with clear honey.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-Infused Ssam-Wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Brie Cheese",
+      "amount": "8 oz",
+      "notes": "soft and creamy"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Clear Honey",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fleur de Sel",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a small saucepan over low heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Meanwhile, toast the saffron-infused ssam-wrap in a dry skillet over medium heat for 2 minutes on each side.",
+    "Warm the Brie cheese in the microwave for 10 seconds to make it soft and spreadable.",
+    "Assemble the ssam-wrap by spreading the Brie cheese on the toasted wrap, followed by a layer of chopped thyme and parsley.",
+    "Drizzle clear honey over the cheese and sprinkle with flaky sea salt.",
+    "Fold the ssam-wrap in half and cook for an additional 2 minutes, until the cheese is melted and the wrap is crispy.",
+    "Serve immediately, garnished with chopped chives and a drizzle of olive oil.",
+    "Slice in half and serve with a side of fresh herbs, if desired.",
+    "For a more indulgent version, add some caramelized onions or roasted bell peppers to the ssam-wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "french",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "romantic-grassy-french-cheese-ssam-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/romantic-grassy-french-cheese-ssam-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "clear honey",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "cheese",
+    "descriptor": "romantic grassy",
+    "dishForm": "ssam-wrap"
+  }
+}

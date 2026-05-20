@@ -1,0 +1,114 @@
+{
+  "title": "Rich Spring Italian Lamb Risotto",
+  "description": "A classic spring Italian dish featuring lamb mince, asparagus, and Parmesan cheese, finished with a tangy mustard sauce. This recipe is perfect for a comforting dinner on a weeknight.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "80% lean lamb mince"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "250g",
+      "notes": "Italian short-grain rice"
+    },
+    {
+      "name": "white wine",
+      "amount": "120ml",
+      "notes": "dry Italian white wine"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium onion, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "asparagus",
+      "amount": "400g",
+      "notes": "fresh asparagus, trimmed"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "120g",
+      "notes": "freshly grated Parmesan"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "20g",
+      "notes": "creamy Dijon mustard"
+    },
+    {
+      "name": "butter",
+      "amount": "60g",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat. Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb mince and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add the arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the white wine and cook, stirring constantly, until the liquid is mostly absorbed, about 2-3 minutes.",
+    "Add 250ml of chicken broth to the saucepan and cook, stirring constantly, until the liquid is mostly absorbed, about 2-3 minutes. Repeat this process, adding the broth in 250ml increments, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Meanwhile, trim the asparagus and blanch it in boiling water for 3-5 minutes, until tender. Drain and set aside.",
+    "When the rice is cooked, stir in the grated Parmesan cheese and cook for 1 minute, until melted and creamy.",
+    "Stir in the Dijon mustard and cook for 1 minute, until well combined.",
+    "Season the risotto with salt and pepper to taste.",
+    "Serve the risotto hot, topped with the blanched asparagus and chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "lamb",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 60
+  },
+  "slug": "rich-spring-italian-lamb-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-spring-italian-lamb-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "lamb mince",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Rich Spring",
+    "dishForm": "Risotto"
+  }
+}

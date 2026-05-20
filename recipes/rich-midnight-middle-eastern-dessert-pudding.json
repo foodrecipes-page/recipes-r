@@ -1,0 +1,117 @@
+{
+  "title": "Rich Midnight Middle-Eastern Dessert Pudding",
+  "description": "A sweet and creamy Middle-Eastern dessert pudding featuring a hint of mustardy flavor, blue food colouring, and a sugar-free friendly option. Serve warm or chilled, garnished with toasted pistachios and a drizzle of honey.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Blue food colouring",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": "soaked and ground"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio meal",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the almond milk, sugar-free sweetener, blue food colouring, and ground mustard seeds. Heat over medium heat, stirring constantly, until the mixture comes to a simmer.",
+    "Whisk in the coconut cream, lemon juice, vanilla extract, and salt. Continue to cook for an additional 2-3 minutes, until the mixture thickens slightly.",
+    "Remove the saucepan from the heat and let cool slightly. Stir in the pistachio meal, honey, and ghee, if using.",
+    "Pour the pudding mixture into 6-8 small ramekins or a large donabe. Cover with plastic wrap, pressing the wrap directly onto the surface of the pudding to prevent a skin from forming.",
+    "Refrigerate for at least 2 hours, or until chilled and set. Serve warm or chilled, garnished with toasted pistachios and a drizzle of honey.",
+    "If using a donabe, cook over low heat for 10-15 minutes, or until the pudding is heated through and slightly puffed.",
+    "Note: If using a sugar-free sweetener, adjust the amount to taste.",
+    "Note: If using a donabe, be careful not to overcook the pudding, as it can quickly become too thick and sticky.",
+    "Note: If you prefer a creamier pudding, you can add an additional 1/4 cup of coconut cream or half-and-half.",
+    "Note: You can also flavor the pudding with a pinch of ground cinnamon or cardamom for added depth and warmth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "donabe",
+    "gluten-free",
+    "middle-eastern",
+    "sugar-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "rich-midnight-middle-eastern-dessert-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-midnight-middle-eastern-dessert-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "blue food colouring",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Dessert",
+    "descriptor": "Rich Midnight",
+    "dishForm": "Pudding"
+  }
+}
