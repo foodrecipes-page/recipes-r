@@ -1,0 +1,80 @@
+{
+  "title": "Rustic Greek Beef Stuffed Grape Leaves",
+  "description": "A hearty and flavorful dish featuring succulent beef and tangy grape leaves, inspired by traditional Greek cuisine. This keto-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, being careful not to burn.",
+    "Add the beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the beef stock concentrate and stir to combine, then reduce heat to low and simmer for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dinner",
+    "gluten-free",
+    "greek",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "rustic-greek-beef-stuffed-grape-leaves",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rustic-greek-beef-stuffed-grape-leaves",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Rustic",
+    "dishForm": "Stuffed Grape Leaves"
+  }
+}
