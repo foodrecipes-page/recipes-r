@@ -1,0 +1,103 @@
+{
+  "title": "Rice-Kissed Korean Padron Peppers Bowl",
+  "description": "A sour and savory gyeongsang dish featuring padron peppers, all cooked in one pot. Served in a scallop shell for a fun twist.",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "korean short-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium-high heat.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the gochujang and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce and cook for 30 seconds, stirring constantly.",
+    "Add the rice vinegar, sugar, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pot.",
+    "Simmer the rice mixture for 18 minutes, or until the liquid has been absorbed and the rice is cooked.",
+    "While the rice is cooking, heat a large skillet over medium-high heat.",
+    "Add the padron peppers to the skillet and cook for 3-4 minutes on each side, or until they are blistered and charred.",
+    "Cut the green onions into thin slices and chop them into smaller pieces.",
+    "Once the rice is cooked, fluff it with a fork and stir in the chopped green onions.",
+    "Serve the rice mixture in a scallop shell, topped with the padron peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 16
+  },
+  "slug": "rice-kissed-korean-padron-peppers-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rice-kissed-korean-padron-peppers-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:43:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "emulsify",
+    "primaryIngredient": "padron peppers",
+    "diet": "fodmap",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Rice-Kissed",
+    "dishForm": "Bowl"
+  }
+}

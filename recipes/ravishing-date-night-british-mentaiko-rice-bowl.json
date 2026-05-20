@@ -1,0 +1,105 @@
+{
+  "title": "Ravishing Date-Night British Mentaiko Rice Bowl",
+  "description": "A rich and creamy rice bowl dish featuring smoky mentaiko and perfectly cooked British seafood, perfect for a romantic evening in.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mentaiko",
+      "amount": "120g"
+    },
+    {
+      "name": "uncooked Japanese short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "smoked haddock",
+      "amount": "150g"
+    },
+    {
+      "name": "scotch whisky",
+      "amount": "40ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1",
+      "notes": "canned"
+    },
+    {
+      "name": "green onions",
+      "amount": "1",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi-earthenware cook to 180°C.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the unsalted butter and cook, stirring occasionally, until it starts to break down and turn golden brown.",
+    "Add the mentaiko and cook, stirring constantly, until it's heated through and beginning to flake apart.",
+    "Add the smoked haddock and cook, stirring occasionally, until it's cooked through and flaked.",
+    "Stir in the scotch whisky and cook for 1 minute.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Add the cooked rice to the saucepan and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a bamboo-tray and garnish with chopped green onions and dried parsley.",
+    "Serve the Ravishing Date-Night British Mentaiko Rice Bowl immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "date-night",
+    "easy-eats",
+    "low-sodium",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "ravishing-date-night-british-mentaiko-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ravishing-date-night-british-mentaiko-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:44:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "mentaiko",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "Ravishing Date-Night",
+    "dishForm": "Rice Bowl"
+  }
+}
