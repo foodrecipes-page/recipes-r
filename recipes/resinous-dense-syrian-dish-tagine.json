@@ -1,0 +1,115 @@
+{
+  "title": "Syrian Resinous Tagine",
+  "description": "A hearty, egg-free Syrian dish made with dijon mustard and a unique cooking technique.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add dried thyme, ground cinnamon, and ground allspice. Stir to combine.",
+    "Add dijon mustard and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Stir in apricot jam and flour. Cook for an additional 2-3 minutes.",
+    "Add water and bring to a boil. Reduce heat to low and simmer for an additional 10-15 minutes.",
+    "Stir in pumpkin seeds and honey. Cook for 1-2 minutes, until heated through.",
+    "Remove from heat and let cool slightly.",
+    "Transfer the mixture to a wooden board and refrigerate until chilled.",
+    "Before serving, place the wooden board in an ice bath to shock the mixture.",
+    "Once chilled, slice the tagine and serve cold."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "resinous-dense-syrian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/resinous-dense-syrian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:47:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dijon mustard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dish",
+    "descriptor": "resinous, dense",
+    "dishForm": "Tagine"
+  }
+}
