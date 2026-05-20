@@ -1,0 +1,113 @@
+{
+  "title": "Rich Roasted Middle Eastern Cannellini Beans Upside-Down Maqluba",
+  "description": "A cultural twist on traditional cannellini beans, featuring roasted Mediterranean flavors and an upside-down presentation. Perfect for a comforting dinner. ",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, combine cannellini beans, olive oil, onion, garlic, paprika, cumin, salt, and black pepper. Mix well to combine.",
+    "Transfer the bean mixture to a 9x13-inch baking dish. ",
+    "Pour the lemon juice and honey over the bean mixture. ",
+    "Roast in the preheated oven for 25 minutes. ",
+    "While the beans are roasting, prepare the papillote by cutting a piece of aluminum foil to fit over the top of the baking dish.",
+    "After 25 minutes, remove the dish from the oven and carefully place the papillote over the top of the beans.",
+    "Return the dish to the oven and continue to roast for an additional 10-15 minutes, or until the beans are tender and the papillote is crispy.",
+    "Remove the dish from the oven and carefully flip the papillote over the top of the beans, creating an upside-down presentation.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "rich-roasted-middle-eastern-cannellini-beans-upside-down-maqluba",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-middle-eastern-cannellini-beans-upside-down-maqluba",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:56:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "cannellini beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Upside-Down Maqluba"
+  }
+}
