@@ -1,0 +1,115 @@
+{
+  "title": "Egyptian Rugged Ground Oats Wrap",
+  "description": "Rich, snappy post-workout dish from Egypt, made with ground oats, steamed in a leaf wrap.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "egg-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup ground oats",
+      "amount": "1 cup",
+      "notes": "coarse"
+    },
+    {
+      "name": "1/4 cup grated carrot",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped spinach",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon coriander powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large flour tortilla",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the grated carrot and chopped spinach, cook for 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "In a large bowl, combine the cooked vegetables, ground oats, cumin, coriander powder, cayenne pepper, salt, and pepper.",
+    "Mix well until the oats are evenly coated with the spices.",
+    "To assemble the wraps, lay the tortilla flat and add a large spoonful of the oat mixture.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining filling and tortillas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-wrap",
+    "high-protein",
+    "middle-eastern",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "rugged-egyptian-ground-oats-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/rugged-egyptian-ground-oats-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:58:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "ground oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ground oats",
+    "descriptor": "Rugged",
+    "dishForm": "Wrap"
+  }
+}
