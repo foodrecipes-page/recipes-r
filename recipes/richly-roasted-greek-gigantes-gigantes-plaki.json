@@ -1,0 +1,117 @@
+{
+  "title": "Richly Roasted Greek Gigantes Plaki",
+  "description": "A hearty, fermented Greek dish featuring seafood stock, miso-marinate, and gluten-free-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "seafood stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large molcajete, combine olive oil, miso paste, garlic, lemon juice, paprika, black pepper, and crushed red pepper. ",
+    "Mix until a smooth paste forms.",
+    "Add the gigantes beans and seafood stock to the molcajete and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Stir in the chopped parsley and dill.",
+    "Transfer the mixture to a baking dish and top with gluten-free breadcrumbs, if using.",
+    "Bake at 375°F (190°C) for 20 minutes, or until the top is golden brown and the gigantes are heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "richly-roasted-greek-gigantes-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-roasted-greek-gigantes-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:46:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "seafood stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "gigantes",
+    "descriptor": "Richly Roasted",
+    "dishForm": "Gigantes Plaki"
+  }
+}
