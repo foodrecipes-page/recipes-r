@@ -1,0 +1,95 @@
+{
+  "title": "Roundly Spiced Ethiopian Corn Flour Dabo",
+  "description": "A traditional Ethiopian dish made with corn flour, perfect for breakfast or lunch. This recipe is halal-friendly and features a unique jelly-like texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corn flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Water",
+      "amount": "600ml"
+    },
+    {
+      "name": "Ghee",
+      "amount": "30g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spices (curry, cumin, coriander, turmeric)",
+      "amount": "2 teaspoons",
+      "notes": "total"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine corn flour and water in a large bowl, stirring until smooth.",
+    "Heat ghee in a ti-leaf wrap over medium heat, then add onion and garlic and cook until softened.",
+    "Add spices and salt to the onion mixture and stir to combine.",
+    "Pour the corn flour mixture into the ti-leaf wrap and cook for 2-3 minutes, until the mixture starts to set.",
+    "Reduce heat to low and cook for 5-7 minutes, until the dabo has a glassy-jelly texture.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Katsuramuki-cut the dabo into small pieces and serve with your favorite Ethiopian sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "corn",
+    "ethiopian",
+    "flour",
+    "halal",
+    "jelly",
+    "katsuramuki",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "roundly-spiced-ethiopian-corn-flour-dabo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roundly-spiced-ethiopian-corn-flour-dabo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "corn flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "corn flour",
+    "descriptor": "Roundly Spiced",
+    "dishForm": "Dabo"
+  }
+}

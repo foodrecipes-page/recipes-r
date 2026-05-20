@@ -1,0 +1,128 @@
+{
+  "title": "Rich Roasted Middle-eastern Umeboshi Fatteh",
+  "description": "A creamy and herbal dish that is perfect for the festive season, featuring umeboshi, steamed in leaf wraps on a bed of spices.",
+  "cuisine": "middle-eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Umeboshi plums",
+      "amount": "6-8",
+      "notes": "see instructions for roasting"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Ginger",
+      "amount": "",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "",
+      "notes": "powdered"
+    },
+    {
+      "name": "Cumin",
+      "amount": "",
+      "notes": "ground"
+    },
+    {
+      "name": "Pistachio paste",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "",
+      "notes": "full-fat, 1 can"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Kalonji",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Soak the umeboshi plums in water for at least 2 hours, then drain and pat dry.",
+    "Mix the saffron rice with turmeric, cumin, and a pinch of salt in a bowl.",
+    "Roast the umeboshi plums on a baking sheet with olive oil, salt, and crushed red pepper at 400°F (200°C) for 10 minutes.",
+    "Steam the umeboshi plums in leaf wraps on top of the saffron rice mixture for 10 minutes.",
+    "Grate the ginger and mix with the steamed umeboshi plums.",
+    "Stir in the pistachio paste and mix until combined.",
+    "Mix the coconut cream with a pinch of salt and a sprinkle of black pepper.",
+    "To assemble, place a scoop of the saffron rice mixture on a plate, top with a few pieces of the roasted umeboshi plums, and garnish with chopped cilantro (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "herbal",
+    "middle-eastern",
+    "plant-based",
+    "sattvic",
+    "umeboshi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-roasted-middle-eastern-umeboshi-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roasted-middle-eastern-umeboshi-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:50:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "umeboshi",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "umeboshi",
+    "descriptor": "Rich Roasted",
+    "dishForm": "Fatteh"
+  }
+}
