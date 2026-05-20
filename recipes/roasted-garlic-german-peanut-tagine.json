@@ -1,0 +1,101 @@
+{
+  "title": "Roasted Garlic German Peanut Tagine",
+  "description": "A garlicky, chewy, and aromatic German-inspired dish featuring peanut brittle, perfect for brunch.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "250g"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Roast the garlic by wrapping it in foil and baking at 400°F for 30 minutes.",
+    "Sauté the onion, ginger, and cayenne pepper in olive oil until softened.",
+    "Add the peanuts, paprika, peanut butter, salt, and pepper to the sautéed mixture.",
+    "Stir in the vinegar and let it simmer for 10 minutes.",
+    "Transfer the mixture to a clay tagine and cook over low heat for 20 minutes.",
+    "Serve the Roasted Garlic German Peanut Tagine hot, garnished with fresh herbs.",
+    "Reheat the peanut brittle in the oven for 2 minutes to melt slightly.",
+    "Crush the peanut brittle into crumbs and sprinkle over the tagine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "german",
+    "jain-friendly",
+    "peanut-brittle",
+    "tajine"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "roasted-garlic-german-peanut-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-garlic-german-peanut-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:08:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "peanut brittle",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peanut",
+    "descriptor": "Roasted Garlic",
+    "dishForm": "Tagine"
+  }
+}
