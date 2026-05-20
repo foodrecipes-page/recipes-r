@@ -1,0 +1,142 @@
+{
+  "title": "Roasted Moroccan Pepper Tagine",
+  "description": "A tangy and dense Moroccan dish featuring roasted peppers, tempering chocolate, and Ayurvedic rajasic-friendly spices. Roasted to perfection in a clay pot and served with couscous or bread.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell peppers (4)",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Green bell peppers (2)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Pistachios",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Couscous or bread",
+      "amount": "serving",
+      "notes": null
+    },
+    {
+      "name": "Chocolate chips",
+      "amount": "1 cup",
+      "notes": "Tempering chocolate."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, cinnamon, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the bell peppers and cook until tender, about 10 minutes.",
+    "Add the tomatoes, cocoa powder, honey, and chocolate chips, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in chopped parsley and pistachios.",
+    "Serve over couscous or with bread.",
+    "Garnish with additional parsley and pistachios, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "roasted-moroccan-pepper-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-moroccan-pepper-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:33:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "roasted pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pepper",
+    "descriptor": "roasted",
+    "dishForm": "Tagine"
+  }
+}

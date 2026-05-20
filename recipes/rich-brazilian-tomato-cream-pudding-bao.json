@@ -1,0 +1,115 @@
+{
+  "title": "Rich Brazilian Tomato Cream Pudding Bao",
+  "description": "A comforting and creamy Brazilian dish featuring tomato puree, sautéed onions, and a hint of wine, all wrapped in a crispy bao.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Vegetarian",
+    "Vegan-options"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomato puree",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until the onion is translucent.",
+    "Add tomato puree, wine, and coconut cream. Stir to combine.",
+    "Let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, preheat the oven to 375°F (190°C).",
+    "Place the bao dough on a baking sheet and bake for 10 minutes, or until crispy.",
+    "Remove the bao from the oven and split them open.",
+    "Fill each bao with the tomato cream mixture and top with cilantro, salt, pepper, and nutritional yeast.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-free",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "rich-brazilian-tomato-cream-pudding-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-brazilian-tomato-cream-pudding-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:33:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "saute",
+    "primaryIngredient": "tomato puree",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cream",
+    "descriptor": "rich creamy",
+    "dishForm": "Bao"
+  }
+}
