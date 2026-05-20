@@ -1,0 +1,168 @@
+{
+  "title": "roasted viscous ukrainian courgettes bowl",
+  "description": "a lacto-vegetarian-friendly roasted courgettes dish perfect for a solo dinner, served in a korean brass bowl.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425\u000756f (220\u0000bc).",
+    "cut the courgettes into 1-inch pieces and place them in a bowl.",
+    "drizzle the olive oil over the courgettes and sprinkle with salt, black pepper, and paprika.",
+    "toss the courgettes to coat evenly and spread them on a baking sheet.",
+    "roast the courgettes in the preheated oven for 20 minutes.",
+    "while the courgettes are roasting, mix the sour cream, chopped parsley, lemon juice, and chopped walnuts in a bowl.",
+    "add the roasted courgettes to the bowl and toss with the sour cream mixture.",
+    "sprinkle the grated cheddar cheese, pickled mustard seeds, and chopped chives over the top.",
+    "serve the roasted courgettes in a korean brass bowl, garnished with chopped parsley and lemon wedges.",
+    "if desired, drizzle with vinaigrette and sprinkle with dried dill weed and sugar.",
+    "if desired, top with chopped walnuts and grated cheddar cheese.",
+    "serve immediately and enjoy!",
+    "reheat leftovers in the oven at 350\u000756f (180\u0000bc) for about 10 minutes, or until heated through.",
+    "adjust seasoning as needed, then serve hot, topped with extra parsley and lemon wedges if desired.",
+    "for an added crunch, sprinkle some chopped walnuts or chopped fresh chives on top.",
+    "for a creamier sauce, add more sour cream or substitute with plain yogurt.",
+    "for a tangier sauce, add more lemon juice or substitute with apple cider vinegar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "highfiber",
+    "koreanbrassbowl",
+    "lacto-vegetarian",
+    "roasted",
+    "solodinner",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "roasted-viscous-ukrainian-courgettes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-viscous-ukrainian-courgettes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:51:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "courgettes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Courgettes",
+    "descriptor": "Roasted Viscous",
+    "dishForm": "Bowl"
+  }
+}
