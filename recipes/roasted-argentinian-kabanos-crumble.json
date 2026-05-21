@@ -1,0 +1,104 @@
+{
+  "title": "Argentinian Kabanos Crumble",
+  "description": "A twist on traditional breakfast dishes, featuring Polish kabanos sausage and double-rise bread, perfect for a Jain-friendly brunch option.",
+  "cuisine": "argentinian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "1 pound",
+      "notes": "Polish-style sausage, casing removed"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "2 cups",
+      "notes": "cubed, day-old bread for best results"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional, omit for Jain diet"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "In a large skillet, heat 2 tablespoons of butter over medium heat. Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "In a separate mixing bowl, combine cubed bread, kabanos sausage, melted butter, and grated cheddar cheese (if using).",
+    "Transfer bread mixture to a 9x13 inch baking dish and bake for 25-30 minutes, or until golden brown and crispy.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Adjust oven rack to middle position and increase temperature to broil (high).",
+    "Broil for an additional 2-3 minutes, or until top is golden brown and crispy, watching closely to avoid burning.",
+    "Let cool for 5 minutes before serving.",
+    "Serve warm, with additional cheddar cheese (if desired).",
+    "Reheat in oven at 350 degrees Fahrenheit (175 degrees Celsius) for 5-7 minutes, or until warmed through.",
+    "Adjust seasoning as needed, and serve hot.",
+    "Garnish with additional parsley, if desired.",
+    "Serve warm, with a side of fresh fruit or salad, for a satisfying breakfast or brunch option.",
+    "Garnish with additional parsley, if desired.",
+    "Serve warm, with a side of toast or hash browns, for a filling breakfast or brunch option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "kabanos",
+    "one-pan",
+    "sausage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "roasted-argentinian-kabanos-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-argentinian-kabanos-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:43:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "polish kabanos",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "kabanos",
+    "descriptor": "roasted",
+    "dishForm": "crumble"
+  }
+}
