@@ -1,0 +1,90 @@
+{
+  "title": "Rich Roast Korean Mushroom Jjigae",
+  "description": "A comforting Korean dish featuring rich, fatty, and juicy roasted mushrooms, perfect for a cold winter night.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the mushroom and cook until browned, about 5 minutes.",
+    "Add the gochujang, soy sauce, brown sugar, garlic, ginger, and Korean chili flakes. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Serve hot over rice.",
+    "Garnish with green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "jjigae",
+    "korean",
+    "mushroom",
+    "rich",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "rich-roast-korean-mushroom-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-roast-korean-mushroom-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:30:09Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "mushroom",
+    "diet": "raw",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mushroom",
+    "descriptor": "rich roast",
+    "dishForm": "Jjigae"
+  }
+}
