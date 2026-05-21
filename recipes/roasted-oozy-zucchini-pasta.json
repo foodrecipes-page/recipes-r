@@ -1,0 +1,86 @@
+{
+  "title": "Roasted Oozy Zucchini Pasta",
+  "description": "A floral, gooey Mediterranean dish featuring zucchini and dehydrated pasta, perfect for a crowd-pleasing meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "4"
+    },
+    {
+      "name": "dehydrated zucchini pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C/180C fan/Gas 6.",
+    "Chop zucchini into thin rounds and dehydrate pasta according to package instructions until golden brown.",
+    "Combine zucchini, olive oil, garlic powder, oregano, red pepper flakes, salt, and black pepper in a mixing bowl.",
+    "Toss with zucchini and dried pasta thoroughly, ensuring all pieces are coated evenly.",
+    "Spread mixture onto a baking sheet lined with parchment paper, spacing out the pieces to allow for spreading.",
+    "Roast for 10 minutes then flip carefully using tongs or spatula. Continue roasting until golden brown on both sides and pasta is crispy (another 5-7 minutes).",
+    "Serve hot as a side dish or lightly drizzle with extra olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "lightly-seasoned",
+    "low-carb",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 21,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "roasted-oozy-zucchini-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/roasted-oozy-zucchini-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T10:28:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "zucchini",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Oozy",
+    "dishForm": "Pasta"
+  }
+}
