@@ -1,0 +1,94 @@
+{
+  "title": "Refrigerated Russian Kvass Dumplings",
+  "description": "A traditional Russian recipe made with a combination of yeast, kvass, and soda water, creating a light and fluffy dumpling with a hint of bitterness and a nod to nostalgia.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons active dry",
+      "notes": "make sure yeast is at room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kvas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "raw egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and yeast; mix until just combined",
+    "Gradually add salt and mix until dough forms",
+    "Knead dough for 10 minutes",
+    "Transfer dough to a salt block and proof in a warm place for 1 hour",
+    "Punch down dough and divide into 8-10 equal pieces",
+    "Roll out each piece into a thin circle",
+    "Place 1 tablespoon of unsalted butter in the center of each circle and fold dough over to form a triangle",
+    "Press edges to seal dumplings and place on a lightly floured surface",
+    "Place dumplings on a baking sheet lined with parchment paper and cover with plastic wrap",
+    "Refrigerate dumplings for at least 4 hours or overnight",
+    "Preheat oven to 375°F (190°C)",
+    "Remove dumplings from refrigerator and place on a baking sheet lined with parchment paper",
+    "Brush tops with beaten egg for a golden glaze",
+    "Bake for 15-20 minutes or until golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "buddhist-friendly",
+    "comfort-food",
+    "fermented",
+    "high-carb",
+    "russian-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "refrigerated-russian-kvass-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/refrigerated-russian-kvass-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T01:48:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "soda water",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Kvass",
+    "descriptor": "Refrigerated",
+    "dishForm": "Dumplings"
+  }
+}
