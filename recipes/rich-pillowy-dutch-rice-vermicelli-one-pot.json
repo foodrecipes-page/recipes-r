@@ -1,0 +1,113 @@
+{
+  "title": "Rich Pillowy Dutch Rice Vermicelli One-Pot",
+  "description": "A comforting, dairy-free-friendly Dutch one-pot dish featuring rice vermicelli in a rich mother sauce base. This meal is perfect for a cozy lunch or dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Dutch seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion, garlic, carrots, and celery, and cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+    "Add the mushrooms and cook, stirring occasionally, until they release their liquid and start to brown, about 5 minutes.",
+    "Add the flour and cook, stirring constantly, for 1 minute.",
+    "Gradually add the dairy-free milk and vegetable broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 18-20 minutes, or until the vermicelli is cooked and the sauce has thickened.",
+    "Stir in the Dutch seasoning and cook for an additional 2 minutes.",
+    "Season the dish with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "dutch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "rich-pillowy-dutch-rice-vermicelli-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/rich-pillowy-dutch-rice-vermicelli-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:29:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "rich pillowy",
+    "dishForm": "One-Pot"
+  }
+}
