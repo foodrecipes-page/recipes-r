@@ -1,0 +1,119 @@
+{
+  "title": "Red-hot Resinous Vietnamese Rice Mi Quang",
+  "description": "A festive Vietnamese dish featuring a glassy-jelly resinous texture and a rich, aromatic flavor profile.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grape Seed Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice, vegetable oil, ginger, garlic, fish sauce, soy sauce, sugar, and water in a large saucepan. Bring to a boil over high heat, then reduce heat to low and simmer for 18 minutes. While the rice cooks, combine red chili flakes, salt, and rice vinegar in a small bowl. Stir to combine. Once the rice has finished cooking, stir in the red chili flake mixture and cook for an additional 2 minutes. Remove the saucepan from the heat and let cool slightly. Transfer the cooked rice mixture to a ramekin or small ceramic bowl. Drizzle with grape seed oil and sprinkle with cilantro. Refrigerate for at least 30 minutes to allow the mixture to chill and set. Once set, remove the ramekin from the refrigerator and carefully place it in an ice bath for 5 minutes to shock the mixture and create a glassy texture. Remove the ramekin from the ice bath and let it sit at room temperature for 10 minutes to allow the mixture to come to room temperature. Serve the red-hot resinous Vietnamese rice mi quang chilled, garnished with additional cilantro and a squeeze of lime juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "red-hot-resinous-vietnamese-rice-mi-quang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/red-hot-resinous-vietnamese-rice-mi-quang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:31:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Red-hot resinous",
+    "dishForm": "mi Quang"
+  }
+}
