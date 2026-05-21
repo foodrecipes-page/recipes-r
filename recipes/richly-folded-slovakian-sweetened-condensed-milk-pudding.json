@@ -1,0 +1,93 @@
+{
+  "title": "Richly Folded Slovakian Sweetened Condensed Milk Pudding",
+  "description": "A comforting, tangy Slovakian sick-day pudding made by gently folding low-fat condensed milk and sour cream, then baking it slow in a traditional tandoor clay pot.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Vegetarian",
+    "Low-Calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fat free sweetened condensed milk",
+      "amount": "14 ounces",
+      "notes": "canned"
+    },
+    {
+      "name": "low fat sour cream",
+      "amount": "1 cup",
+      "notes": "brings the traditional tangy flavor"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large",
+      "notes": "beaten to soft peaks to keep it light"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 pinch",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven or tandoor chamber to 325 degrees Fahrenheit and soak your tandoor clay pot in water for ten minutes.",
+    "Whisk the fat free sweetened condensed milk, low fat sour cream, cornstarch, lemon juice, and vanilla extract together in a large bowl until smooth.",
+    "Whip the egg whites in a separate clean bowl until they hold soft peaks.",
+    "Gently fold the whipped egg whites into the condensed milk mixture in three batches to preserve the airy volume.",
+    "Dry the soaked tandoor clay pot and lightly coat the inside with non-stick cooking spray.",
+    "Pour the folded pudding mixture into the clay pot and dust the top with a pinch of ground nutmeg.",
+    "Cover the clay pot with its lid and bake in the oven for forty minutes until the edges are set but the center still jiggles slightly.",
+    "Remove the pot from the heat and let the pudding cool in the clay vessel for fifteen minutes before serving warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "low-calorie",
+    "pudding",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 178,
+    "protein": 6,
+    "carbs": 33,
+    "fat": 2
+  },
+  "slug": "richly-folded-slovakian-sweetened-condensed-milk-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/richly-folded-slovakian-sweetened-condensed-milk-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:07:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sweetened condensed milk",
+    "descriptor": "richly folded",
+    "dishForm": "Pudding"
+  }
+}
