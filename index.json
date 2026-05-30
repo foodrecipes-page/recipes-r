@@ -6739,14 +6739,15 @@
   },
   {
     "slug": "rich-kenyan-chickpea-stir-fry",
-    "title": "Rich Kenyan Chickpea Stir-fry",
+    "title": "Kenyan Chickpea Stir Fry",
     "tags": [
-      "kenyan-stir-fry",
-      "gluten-free-recipe",
-      "rich-and-chewy"
+      "kenyan",
+      "vegetarian",
+      "chickpeas",
+      "stir-fry"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -21119,6 +21120,57 @@
       "comfort-food"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-fermented-dutch-plant-based-rerremen--french",
+    "title": "French Fermented Plant-Based Tart",
+    "tags": [
+      "french",
+      "plant-based",
+      "fermented",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-british-chicken-pie-and-mash--mexican",
+    "title": "Mexican Chicken Pie",
+    "tags": [
+      "mexican-chicken-pie",
+      "chicken-pie",
+      "mexican-pie"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-british-chicken-pie-and-mash--indian",
+    "title": "Chicken Tikka Pie",
+    "tags": [
+      "indian",
+      "chicken",
+      "pie",
+      "mash"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 75,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-chewy-irish-brown-sugar-cookies--thai",
+    "title": "Thai Brown Sugar Cookies",
+    "tags": [
+      "cookies",
+      "thai-fusion",
+      "rich-sugar",
+      "chewy-cookies"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "r"
   }
