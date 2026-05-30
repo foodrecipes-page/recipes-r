@@ -1,0 +1,70 @@
+{
+  "slug": "rich-british-chicken-pie-and-mash--mexican",
+  "title": "Mexican Chicken Pie",
+  "description": "A twist on the classic British pie, filled with shredded chicken and spices, inspired by Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mash",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "british pie crust",
+      "amount": "1 pre-made crust"
+    },
+    {
+      "name": "pi",
+      "amount": "1 pie crust, shredded"
+    },
+    {
+      "name": "and",
+      "amount": "2 tablespoons olive oil"
+    },
+    {
+      "name": "pie spices",
+      "amount": "1 teaspoon cumin, 1 teaspoon chili powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Shred the chicken breast and cook in a pan with olive oil until browned.",
+    "Add cumin and chili powder to the chicken and stir.",
+    "Roll out the pre-made pie crust and place in a pie dish.",
+    "Fill the pie crust with the shredded chicken mixture.",
+    "Top with shredded pie crust.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve with mash on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-chicken-pie",
+    "chicken-pie",
+    "mexican-pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-chicken-pie-and-mash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:00:15.182Z"
+}
