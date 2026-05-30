@@ -1,0 +1,83 @@
+{
+  "slug": "rustic-argentinian-beef-wrap",
+  "title": "Argentinian Beef Wrap",
+  "description": "A flavorful and savory beef wrap inspired by the cuisine of Argentina. Grilled beef, onions, and bell peppers are wrapped in a rustic tortilla.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 lb",
+      "notes": "Grass-fed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "Green, sliced"
+    },
+    {
+      "name": "Rustic Tortilla",
+      "amount": "1",
+      "notes": "6-inch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season flank steak with salt and black pepper.",
+    "Grill flank steak for 5-6 minutes per side, or until desired level of doneness.",
+    "Let flank steak rest for 5 minutes before slicing.",
+    "Grill sliced onions and bell peppers for 3-4 minutes, or until tender.",
+    "Warm rustic tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble wrap by layering sliced beef, grilled onions and bell peppers, and minced garlic.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-argentinian-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:22:57.050Z"
+}
