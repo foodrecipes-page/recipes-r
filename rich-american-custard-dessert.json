@@ -1,0 +1,78 @@
+{
+  "slug": "rich-american-custard-dessert",
+  "title": "Creamy Custard Pie",
+  "description": "A rich and decadent dessert featuring a classic custard filling in a flaky pastry crust. Perfect for satisfying any sweet tooth.",
+  "cuisine": "american",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the pastry crust"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "For the pastry crust"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "For the custard filling"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "For the custard filling"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "For the custard filling"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "For the custard filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the flour and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add ice-cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Roll out the chilled dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom. Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the crust with a fork to prevent it from bubbling during baking.",
+    "Line the crust with parchment paper and fill with pie weights or dried beans.",
+    "Bake the crust for 15 minutes. Remove the parchment paper and pie weights or beans.",
+    "In a separate bowl, whisk together the granulated sugar, eggs, and heavy cream until well combined.",
+    "Add the vanilla extract to the bowl and whisk until smooth.",
+    "Pour the custard filling into the baked pastry crust.",
+    "Return the pie to the oven and bake for an additional 20-25 minutes, or until the filling is set and the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "american",
+    "rich",
+    "custard",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-american-custard-dessert",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:37:33.814Z"
+}
