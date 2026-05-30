@@ -1,0 +1,95 @@
+{
+  "slug": "richly-fermented-dutch-plant-based-rerremen",
+  "title": "Rerremen Fermented Plant-Based Burger",
+  "description": "A unique, plant-based burger featuring fermented flavors and a rich, dutch-styled twist.",
+  "cuisine": "vegan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rerremen",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Fermented plant-based milk",
+      "amount": "1/2 cup",
+      "notes": "unflavored"
+    },
+    {
+      "name": "Dutch-processed cocoa powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill over medium heat.",
+    "2. In a large bowl, mash the rerremen with a fork until it's mostly smooth.",
+    "3. Add the fermented plant-based milk, cocoa powder, nutritional yeast, salt, and black pepper to the bowl. Mix well.",
+    "4. Add the chopped onion and minced garlic to the bowl and mix until combined.",
+    "5. Using your hands, shape the mixture into 4-6 patties, depending on desired size.",
+    "6. Brush the patties with olive oil and cook for 3-4 minutes per side, or until golden brown.",
+    "7. Meanwhile, toast the breadcrumbs in a dry skillet over medium heat until lightly browned.",
+    "8. Assemble the burgers by placing a cooked patty on a toasted bun and topping with toasted breadcrumbs.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "plant-based",
+    "fermented",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-fermented-dutch-plant-based-rerremen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:20.307Z"
+}
