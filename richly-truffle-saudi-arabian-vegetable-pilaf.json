@@ -1,0 +1,81 @@
+{
+  "slug": "richly-truffle-saudi-arabian-vegetable-pilaf",
+  "title": "Saudi Arabian Vegetable Pilaf with Truffle",
+  "description": "A flavorful and aromatic pilaf dish inspired by the Middle Eastern cuisine, with the added luxury of truffle.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Richly Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Arabian Rice",
+      "amount": "1 cup",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "Saudi Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Truffle Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sauteed Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flaked Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Truffle Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large saucepan over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the carrots and cook for an additional 5 minutes.",
+    "Add the rice, chicken broth, truffle salt, and stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Stir in the truffle oil and cook for an additional 2 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley and flaked almonds.",
+    "Serve hot and garnish with additional truffle oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-truffle-saudi-arabian-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:32:14.931Z"
+}
