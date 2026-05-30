@@ -1,0 +1,67 @@
+{
+  "slug": "rich-chewy-irish-brown-sugar-cookies--thai",
+  "title": "Thai Brown Sugar Cookies",
+  "description": "A fusion of Thai flavors in rich, chewy cookies made with brown sugar and irish cookies.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish Cookies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rich Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sift together Irish Cookies, Brown Sugar, and Rich Sugar in a bowl.",
+    "Add softened butter and mix until a dough forms.",
+    "Beat in eggs and Vanilla Extract.",
+    "Roll dough into balls, about 1 inch in diameter.",
+    "Bake for 12-15 minutes, or until edges are lightly golden.",
+    "Let cool on baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "thai-fusion",
+    "rich-sugar",
+    "chewy-cookies"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-irish-brown-sugar-cookies--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:03.855Z"
+}
