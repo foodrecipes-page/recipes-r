@@ -1,0 +1,73 @@
+{
+  "slug": "rich-potato-crumble",
+  "title": "Rich Crumble Potato Bake",
+  "description": "A delicious and comforting potato bake topped with a crunchy crumble mixture, perfect for a satisfying meal. Rich in flavor and easy to make.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large potatoes",
+      "amount": "",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "1/2 cup rich",
+      "amount": "",
+      "notes": "butter, melted"
+    },
+    {
+      "name": "1/2 cup crumble",
+      "amount": "",
+      "notes": "biscuit mix"
+    },
+    {
+      "name": "1/2 cup grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced potatoes and melted rich.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the crumble, cheese, and parsley.",
+    "Sprinkle the crumble mixture evenly over the potatoes.",
+    "Season with salt and pepper to taste.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "bake",
+    "crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:13.148Z"
+}
