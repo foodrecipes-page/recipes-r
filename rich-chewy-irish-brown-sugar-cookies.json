@@ -1,0 +1,80 @@
+{
+  "slug": "rich-chewy-irish-brown-sugar-cookies",
+  "title": "Irish Brown Sugar Cookies",
+  "description": "A classic Irish cookie recipe with brown sugar and a chewy texture. Perfect for a snack or dessert.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rich brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chewy sugar cookies",
+      "amount": "1 package (12 cookies)",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, baking soda, and salt. Set aside.",
+    "In a large bowl, cream together butter and sugars until light and fluffy.",
+    "Beat in eggs one at a time, followed by vanilla extract.",
+    "Gradually mix in the dry ingredients until just combined, being careful not to overmix.",
+    "Stir in the crushed cookies.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving 2 inches of space between each cookie.",
+    "Bake for 12-14 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "sugar-cookie",
+    "chewy-cookie",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-irish-brown-sugar-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:37:16.835Z"
+}
