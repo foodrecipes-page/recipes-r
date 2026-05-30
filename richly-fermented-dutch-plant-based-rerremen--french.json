@@ -1,0 +1,72 @@
+{
+  "slug": "richly-fermented-dutch-plant-based-rerremen--french",
+  "title": "French Fermented Plant-Based Tart",
+  "description": "A richly flavored, plant-based tart inspired by French cuisine, featuring a fermented filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented Dutch Plant-Based Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rerremen",
+      "amount": "1 cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough and place it in a tart pan.",
+    "In a blender, combine the fermented Dutch plant-based cream, rerremen, cocoa powder, and coconut sugar. Blend until smooth.",
+    "Pour the filling into the pastry-lined tart pan.",
+    "Bake the tart for 40-45 minutes, or until the filling is set and the crust is golden brown.",
+    "Remove the tart from the oven and let it cool to room temperature.",
+    "Drizzle with vanilla extract before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "plant-based",
+    "fermented",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-fermented-dutch-plant-based-rerremen--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:57:29.880Z"
+}
