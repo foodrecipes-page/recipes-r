@@ -1,0 +1,56 @@
+{
+  "slug": "rocket-lemon-bake",
+  "title": "Lemon Rocket Salad",
+  "description": "A refreshing salad featuring peppery rocket and a squeeze of lemon.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocket",
+      "amount": "4 cups",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 lemons",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Bake",
+      "amount": "1/2 cup",
+      "notes": "Crumbled, preferably Parmesan"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the rocket leaves.",
+    "2. Squeeze the lemon juice over the rocket and toss to coat.",
+    "3. Sprinkle the crumbled bake over the salad and toss again.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salad",
+    "easy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rocket-lemon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:51.674Z"
+}
