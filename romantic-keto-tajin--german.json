@@ -1,0 +1,95 @@
+{
+  "slug": "romantic-keto-tajin--german",
+  "title": "Keto Sauerbraten",
+  "description": "A keto twist on the classic German pot roast. Marinated in vinegar and spices for a tender and flavorful dish.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "Vinegar (Apple Cider or White)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vinegar, water, brown sugar, onion, garlic, black pepper, salt, bay leaves, and allspice.",
+    "Add the flank steak to the marinade, turning to coat evenly.",
+    "Refrigerate for at least 2 days, flipping the steak every 12 hours.",
+    "Preheat oven to 300°F (150°C).",
+    "Remove the steak from the marinade, letting any excess liquid drip off.",
+    "Sear the steak in a hot skillet over medium-high heat for 2-3 minutes per side.",
+    "Transfer the steak to a baking dish and cover with aluminum foil.",
+    "Bake for 2-3 hours, or until the steak reaches your desired level of tenderness.",
+    "Let the steak rest for 10-15 minutes before slicing and serving.",
+    "Serve with your choice of sides, such as a keto-friendly vegetable or a salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sauerbraten",
+    "keto",
+    "german",
+    "pot roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-keto-tajin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:55:19.559Z"
+}
