@@ -1,0 +1,85 @@
+{
+  "slug": "richly-fermented-dutch-plant-based-rerremen--german",
+  "title": "Traditional German Sauerkraut with Rerremen Sausage",
+  "description": "A hearty German dish featuring richly flavored sauerkraut and rerremen sausage, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rerremen sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup, drained",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices, for serving",
+      "notes": "preferably a crusty German bread"
+    }
+  ],
+  "instructions": [
+    "Brown the rerremen sausage in a large skillet over medium-high heat.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the caraway seeds to the skillet and cook for 1 minute.",
+    "Add the sauerkraut to the skillet and stir to combine with the onion and caraway seeds.",
+    "Add the apple cider vinegar to the skillet and stir to combine.",
+    "Return the rerremen sausage to the skillet and stir to combine with the sauerkraut mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sauerkraut mixture hot, topped with sliced bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sausage",
+    "sauerkraut",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-fermented-dutch-plant-based-rerremen--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:55:26.391Z"
+}
