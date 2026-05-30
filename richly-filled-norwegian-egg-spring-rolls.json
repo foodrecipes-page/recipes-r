@@ -1,0 +1,82 @@
+{
+  "slug": "richly-filled-norwegian-egg-spring-rolls",
+  "title": "Egg Rolls with Norwegian Filling",
+  "description": "A twist on the classic egg roll, filled with Norwegian meat and served with a side of sweet chili sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Beef, ground",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio or Norwegian ground meat alternative"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Filled norwegian",
+      "amount": "1 cup",
+      "notes": "cured meat, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "2. Add the ground beef to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "3. Once the beef is cooked, add the chopped filled norwegian and cook for 1-2 minutes.",
+    "4. In a separate pan, scramble the egg until cooked through.",
+    "5. Add the cooked egg to the beef mixture and stir to combine.",
+    "6. Season the mixture with salt and black pepper to taste.",
+    "7. Lay a spring roll wrapper on a flat surface and place about 1 tablespoon of the beef and egg mixture in the center of the wrapper.",
+    "8. Brush the edges of the wrapper with a small amount of water and fold the bottom half of the wrapper up over the filling.",
+    "9. Fold the sides of the wrapper in towards the center and roll the wrapper into a tight cylinder.",
+    "10. Repeat with the remaining wrappers and filling.",
+    "11. Heat the remaining 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "12. When the oil is hot, add the egg rolls to the skillet and cook until golden brown and crispy, flipping halfway through.",
+    "13. Serve the egg rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "egg-rolls",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-filled-norwegian-egg-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:48:41.111Z"
+}
