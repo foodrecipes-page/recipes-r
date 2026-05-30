@@ -1,0 +1,88 @@
+{
+  "slug": "rich-kenyan-chickpea-stir-fry",
+  "title": "Kenyan Chickpea Stir Fry",
+  "description": "A flavorful and quick Kenyan-inspired stir fry made with chickpeas and a variety of spices. Serve over rice or with naan bread.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the ginger and garlic and cook for another minute.",
+    "Add the chickpeas, tomato, curry powder, salt, and black pepper. Stir well to combine.",
+    "Cook for 5-7 minutes, stirring occasionally, until the vegetables are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "chickpeas",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-chickpea-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:58:27.289Z"
+}
