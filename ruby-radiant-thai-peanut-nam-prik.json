@@ -1,0 +1,68 @@
+{
+  "slug": "ruby-radiant-thai-peanut-nam-prik",
+  "title": "Thai Ruby Stir Fry",
+  "description": "A simple and flavorful stir fry dish made with ruby, radiant, and thai ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ruby",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "radiant",
+      "amount": "2 tablespoons",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "thai prik",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "nam prik pao",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of peanut oil in a pan over medium heat.",
+    "Add the sliced ruby and cook for 3-4 minutes, or until tender.",
+    "Add the chopped radiant and minced thai prik, and cook for an additional 2 minutes.",
+    "In a small bowl, mix together the nam prik pao and 1 tablespoon of water.",
+    "Pour the sauce over the ruby mixture and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ruby-radiant-thai-peanut-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:23.532Z"
+}
