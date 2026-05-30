@@ -1,0 +1,93 @@
+{
+  "slug": "romantic-keto-tajin",
+  "title": "Tajin Shrimp Fajita",
+  "description": "A flavorful and spicy shrimp dish inspired by Mexican cuisine, perfect for a quick dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein before cooking"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tajin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "Chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Keto Tortillas (or low-carb alternatives)",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and bell pepper and cook for 3-4 minutes or until tender.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes or until pink and cooked through.",
+    "Stir in the lime juice, tajin, and salt.",
+    "Warm the keto tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the shrimp mixture onto the tortillas and garnishing with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "shrimp",
+    "fajita",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-keto-tajin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:28:12.611Z"
+}
