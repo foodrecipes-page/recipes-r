@@ -1,0 +1,87 @@
+{
+  "slug": "robustly-roasted-polish-lamb-stew",
+  "title": "Polish Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Poland, made with tender lamb, robust spices, and roasted vegetables.",
+  "cuisine": "polish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "robust beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pot and set aside. Add more oil if necessary, then add onion, carrot, and potato. Cook until vegetables are tender, about 10 minutes.",
+    "Add garlic, thyme, and rosemary to pot. Cook for 1 minute.",
+    "Add beef broth to pot and bring to a boil. Return lamb to pot and cover.",
+    "Transfer pot to the oven and braise for 2 hours, or until lamb is tender.",
+    "Add polish sausage to pot and continue to braise for an additional 30 minutes.",
+    "Season stew with salt and pepper to taste. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-polish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:13.117Z"
+}
