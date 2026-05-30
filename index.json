@@ -8005,15 +8005,14 @@
   },
   {
     "slug": "rich-potato-crumble",
-    "title": "Rich Stout Potato Crumble",
+    "title": "Rich Crumble Potato Bake",
     "tags": [
-      "rich",
       "potato",
+      "bake",
       "crumble",
-      "dutch",
-      "midnight craving"
+      "vegetarian"
     ],
-    "cuisine": "Dutch",
+    "cuisine": null,
     "totalTimeMin": 45,
     "shard": "r"
   },
@@ -12947,17 +12946,16 @@
   },
   {
     "slug": "richly-roasted-norwegian-lamb-kebabs",
-    "title": "Richly Roasted Norwegian Lamb Kebabs",
+    "title": "Roasted Lamb Kebabs",
     "tags": [
-      "halal-friendly",
+      "lamb",
       "kebabs",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "roasted-meats",
-      "special-occasion"
+      "middle-eastern",
+      "summer",
+      "grilling"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21096,6 +21094,32 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 10,
+    "shard": "r"
+  },
+  {
+    "slug": "romantic-keto-tajin--german",
+    "title": "Keto Sauerbraten",
+    "tags": [
+      "sauerbraten",
+      "keto",
+      "german",
+      "pot roast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-fermented-dutch-plant-based-rerremen--german",
+    "title": "Traditional German Sauerkraut with Rerremen Sausage",
+    "tags": [
+      "german",
+      "sausage",
+      "sauerkraut",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
