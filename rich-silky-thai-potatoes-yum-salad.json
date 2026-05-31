@@ -1,0 +1,67 @@
+{
+  "slug": "rich-silky-thai-potatoes-yum-salad",
+  "title": "Thai Potato Salad",
+  "description": "A delicious and refreshing salad that combines the flavors of Thailand with the comfort of potatoes. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "silky dressing",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "yum sauce",
+      "amount": "2 tbsp",
+      "notes": "sweet and spicy"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the potatoes with a fork a few times and bake for 45-50 minutes, or until tender.",
+    "Let the potatoes cool to room temperature.",
+    "In a large bowl, whisk together the silky dressing and yum sauce.",
+    "Add the chopped cilantro and peanuts to the bowl and stir to combine.",
+    "Add the cooled potatoes to the bowl and toss to coat with the dressing.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "potatoes",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-thai-potatoes-yum-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:14:08.363Z"
+}
