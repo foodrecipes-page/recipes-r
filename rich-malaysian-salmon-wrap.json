@@ -1,0 +1,89 @@
+{
+  "slug": "rich-malaysian-salmon-wrap",
+  "title": "Malaysian Salmon Wrap",
+  "description": "A flavorful and healthy wrap filled with grilled salmon, rich peanut sauce, and fresh vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillets with salt.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread peanut sauce on the tortilla.",
+    "Add sliced red bell pepper, grated carrot, sliced cucumber, and chopped cilantro on top of the peanut sauce.",
+    "Place grilled salmon on top of the vegetables.",
+    "Drizzle with lime juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "peanut-sauce",
+    "wrap",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malaysian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:44:01.619Z"
+}
