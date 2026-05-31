@@ -1,0 +1,77 @@
+{
+  "slug": "rich-argentinian-vanilla-custard--german",
+  "title": "Vanilla Custard Strudel",
+  "description": "A classic German dessert, this strudel combines the richness of vanilla custard with the crunch of flaky pastry.",
+  "cuisine": "german",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rich butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla bean",
+      "amount": "1"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine flour, salt, and sugar in a bowl.",
+    "Add rich butter and mix until crumbly.",
+    "Gradually add cold water to form a dough.",
+    "Knead the dough for 5 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Spread custard mixture over the dough, leaving a 1-inch border.",
+    "Roll the strudel into a log and place on a baking sheet.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "strudel",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-argentinian-vanilla-custard--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:56.321Z"
+}
