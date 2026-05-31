@@ -1,0 +1,87 @@
+{
+  "slug": "rich-silky-indian-cabbage-butter-chicken",
+  "title": "Indian Chicken in Cabbage and Butter Sauce",
+  "description": "A rich and creamy Indian-inspired dish made with chicken, cabbage, and a hint of butter.",
+  "cuisine": "Indian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "60g",
+      "notes": null
+    },
+    {
+      "name": "rich silky indian",
+      "amount": "30g",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm",
+      "notes": "Grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add cabbage, ginger, garlic, curry powder, salt, and pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 15 minutes.",
+    "Stir in rich silky indian and cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "cabbage",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-indian-cabbage-butter-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:18:25.801Z"
+}
