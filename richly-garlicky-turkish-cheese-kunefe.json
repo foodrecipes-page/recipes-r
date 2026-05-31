@@ -1,0 +1,79 @@
+{
+  "slug": "richly-garlicky-turkish-cheese-kunefe",
+  "title": "Turkish Kunefe: A Richly Flaky Pastry with Sweet Cheese",
+  "description": "Indulge in the rich flavors of Turkish kunefe, a crispy pastry filled with sweet cheese. Perfect as a dessert or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kunefe pastry",
+      "amount": "1 package",
+      "notes": "available at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Richly flavored cheese",
+      "amount": "250g",
+      "notes": "such as akkawi or neufchâtel"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "100g",
+      "notes": "or other sweet treat of your choice"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "a pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the kunefe pastry into 1-inch (2.5 cm) cubes.",
+    "Place the cubes on a baking sheet lined with parchment paper.",
+    "Drizzle the butter over the pastry cubes.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "While the pastry is baking, crumble the cheese into a bowl.",
+    "Once the pastry is done, remove it from the oven and let it cool slightly.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the crumbled cheese and cook, stirring constantly, until melted and golden brown.",
+    "Add the Turkish delight and stir to combine.",
+    "Transfer the cheese mixture to a serving dish.",
+    "Arrange the baked pastry cubes on top of the cheese mixture.",
+    "Drizzle with honey and sprinkle with cinnamon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kunefe",
+    "cheese",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-garlicky-turkish-cheese-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:46:18.838Z"
+}
