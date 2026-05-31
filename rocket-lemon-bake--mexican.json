@@ -1,0 +1,76 @@
+{
+  "slug": "rocket-lemon-bake--mexican",
+  "title": "Grilled Rocket and Lemon Fajitas",
+  "description": "A Mexican-inspired dish featuring grilled rocket, lemons, and bake, served with a side of warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocket leaves",
+      "amount": "200g"
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bake, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "Optional toppings: avocado, sour cream, cilantro",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium-high heat.",
+    "2. Add the diced bake and cook until slightly charred, about 3-4 minutes.",
+    "3. Add the rocket leaves to the skillet, cook for 1-2 minutes, until slightly wilted.",
+    "4. Squeeze the lemon juice over the rocket mixture and toss to combine.",
+    "5. Season with salt and pepper to taste.",
+    "6. Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the fajitas by placing a portion of the rocket and bake mixture onto each tortilla.",
+    "8. Top with desired toppings, such as avocado, sour cream, and cilantro.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "grilled",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rocket-lemon-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:56.895Z"
+}
