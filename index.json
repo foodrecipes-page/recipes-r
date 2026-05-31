@@ -6850,14 +6850,16 @@
   },
   {
     "slug": "rich-light-dutch-yeast-brunch",
-    "title": "Rich Light Dutch Yeast Pancakes",
+    "title": "Decadent Dutch Pancakes",
     "tags": [
-      "rich",
-      "light",
-      "dutch-yeast-brunch"
+      "breakfast",
+      "brunch",
+      "pancakes",
+      "cocoa",
+      "chocolate"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -20175,17 +20177,14 @@
   },
   {
     "slug": "rough-dried-norwegian-samphire-skewers",
-    "title": "Rough Dried Norwegian Samphire Skewers",
+    "title": "Pan-Seared Skewers with Samphire and Dried Norwegians",
     "tags": [
-      "brine-dried",
-      "norwegian-cuisine",
-      "quick-fix",
-      "samphire-recipe",
-      "snack-ideas",
-      "vegan-friendly"
+      "scandinavian",
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 27,
     "shard": "r"
   },
   {
@@ -21229,6 +21228,19 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-roasted-norwegian-lamb-kebabs--french",
+    "title": "Pan-Seared Norwegian Lamb Kebabs with Garlic Butter",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "french",
+      "grilled"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
