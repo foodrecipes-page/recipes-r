@@ -1,0 +1,82 @@
+{
+  "slug": "roasted-ukrainian-lamb-kebabs",
+  "title": "Traditional Ukrainian Lamb Kebabs",
+  "description": "A flavorful and savory dish from Ukraine featuring lamb kebabs, marinated in a blend of spices and herbs.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red pepper, finely chopped",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oil, onion, garlic, parsley, dill, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer the kebabs to a serving platter and garnish with chopped red pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "lamb-kebabs",
+    "grilled-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ukrainian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:59:03.586Z"
+}
