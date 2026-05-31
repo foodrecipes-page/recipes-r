@@ -21204,5 +21204,31 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "r"
+  },
+  {
+    "slug": "rich-argentinian-vanilla-custard--japanese",
+    "title": "Vanilla Custard Mochi",
+    "tags": [
+      "mochi",
+      "japanese-desserts",
+      "vanilla-custard"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-argentinian-vanilla-custard--gluten-free",
+    "title": "Argentinian Vanilla Custard Cake",
+    "tags": [
+      "argentinian",
+      "vanilla",
+      "custard",
+      "gluten-free",
+      "cake"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "r"
   }
 ]
