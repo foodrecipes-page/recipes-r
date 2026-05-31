@@ -1,0 +1,87 @@
+{
+  "slug": "robust-juicy-portuguese-chicken-skewers",
+  "title": "Grilled Portuguese Chicken Skewers",
+  "description": "Savor the flavors of Portugal with this simple and delicious recipe for grilled chicken skewers, marinated in a blend of herbs and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "portuguese seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "juicy orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "robust red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together portuguese seasoning, olive oil, juicy orange juice, garlic, and robust red pepper flakes (if using).",
+    "Add the chicken to the marinade and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "Transfer the skewers to a plate and sprinkle with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "portuguese",
+    "skewers",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-juicy-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:43:29.771Z"
+}
