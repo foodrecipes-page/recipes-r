@@ -1,0 +1,79 @@
+{
+  "slug": "richly-spiced-thai-pork-skewers",
+  "title": "Spicy Thai Pork Skewers",
+  "description": "A flavorful and spicy Thai-inspired dish featuring juicy pork skewers, perfect for a dinner party or a quick weeknight meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Richly spiced Thai peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "4-5",
+      "notes": "Depending on desired spiciness"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork slices onto skewers, leaving a small space between each piece.",
+    "Brush skewers with vegetable oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, flipping halfway through, or until cooked through.",
+    "Meanwhile, whisk together peanut sauce, chili peppers, and lime juice in a small bowl.",
+    "Serve skewers with peanut sauce spooned over the top and garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-thai-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:26:53.068Z"
+}
