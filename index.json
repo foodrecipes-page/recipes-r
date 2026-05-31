@@ -13390,17 +13390,15 @@
   },
   {
     "slug": "richly-spiced-norwegian-galangal-stew",
-    "title": "Richly Spiced Norwegian Galangal Stew",
+    "title": "Spiced Norwegian Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lazy-sunday",
-      "mediterranean-inspired",
-      "norwegian-cuisine",
-      "one-pot"
+      "norwegian",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "r"
   },
   {
@@ -21179,6 +21177,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-american-custard-dessert--japanese",
+    "title": "Japanese Custard Pudding",
+    "tags": [
+      "japanese",
+      "custard",
+      "pudding",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-argentinian-vanilla-custard--german",
+    "title": "Vanilla Custard Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel",
+      "custard"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "r"
   }
 ]
