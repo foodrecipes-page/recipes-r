@@ -1,0 +1,102 @@
+{
+  "slug": "richly-spiced-norwegian-galangal-stew",
+  "title": "Spiced Norwegian Beef Stew",
+  "description": "A hearty and flavorful stew made with tender Norwegian beef, aromatic spices, and a hint of galangal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "Peel and slice into thin rounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3-4 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Use a full-bodied red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Spiced beef broth mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the galangal and cook until fragrant, about 1 minute.",
+    "Add the onion and carrots and cook until the vegetables are tender, about 5 minutes.",
+    "Add the potatoes, red wine, beef broth, and spiced beef broth mix.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-norwegian-galangal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:50.038Z"
+}
