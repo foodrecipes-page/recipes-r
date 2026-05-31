@@ -13852,17 +13852,16 @@
   },
   {
     "slug": "roasted-algerian-baby-aubergine-grill",
-    "title": "Roasted Algerian Baby Aubergine Grill",
+    "title": "Grilled Aubergine with Algerian Spice",
     "tags": [
-      "algerian",
       "grilled",
-      "one-pan",
-      "quick",
+      "aubergine",
+      "algerian-spice",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -21227,6 +21226,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-algerian-baby-aubergine-grill--indian",
+    "title": "Grilled Aubergine Indian Recipe",
+    "tags": [
+      "indian",
+      "grilled",
+      "aubergine",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "r"
   }
 ]
