@@ -1,0 +1,84 @@
+{
+  "slug": "red-kenyan-cabbage-braise",
+  "title": "Kenyan-Style Braised Cabbage with Red Cabbage",
+  "description": "A hearty and flavorful cabbage dish inspired by Kenyan cuisine, featuring tender red cabbage and a rich braise sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "kenyan cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped cabbage and cook until it begins to wilt, about 5 minutes.",
+    "Add the apple cider vinegar, soy sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cover.",
+    "Braise the cabbage for 20-25 minutes, or until tender and caramelized.",
+    "Season with salt and black pepper to taste.",
+    "Serve the braised cabbage hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "cabbage",
+    "braised",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-kenyan-cabbage-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:57:49.621Z"
+}
