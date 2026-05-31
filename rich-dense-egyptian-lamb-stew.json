@@ -1,0 +1,91 @@
+{
+  "slug": "rich-dense-egyptian-lamb-stew",
+  "title": "Egyptian Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and rich spices, inspired by the cuisine of Egypt.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add diced tomatoes and 1 cup of water. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours, or until lamb is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-egyptian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:55:31.498Z"
+}
