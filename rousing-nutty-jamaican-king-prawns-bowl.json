@@ -1,0 +1,74 @@
+{
+  "slug": "rousing-nutty-jamaican-king-prawns-bowl",
+  "title": "Grilled Prawn Skewers with Jamaican Jerk",
+  "description": "A flavorful Caribbean-inspired dish featuring succulent prawns marinated in a spicy jerk seasoning, served with a side of toasted coconut flakes.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "main course",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large prawns",
+      "notes": "peeled and de-veined"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large bowl for marinating"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "toasted chopped almonds"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp",
+      "notes": "Jamaican jerk seasoning"
+    },
+    {
+      "name": "king",
+      "amount": "1/4 cup",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "rousing",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed lime juice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, coconut oil, and lime juice.",
+    "Add the prawns to the bowl and toss to coat with the marinade.",
+    "Thread the marinated prawns onto skewers.",
+    "Grill the prawn skewers for 2-3 minutes per side, or until they're pink and cooked through.",
+    "Transfer the skewers to a serving platter and sprinkle with toasted almonds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "seafood",
+    "caribbean",
+    "prawns",
+    "jerk"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rousing-nutty-jamaican-king-prawns-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:43:22.612Z"
+}
