@@ -1,0 +1,75 @@
+{
+  "slug": "rich-juicy-avocado-brazilian-salad",
+  "title": "Brazilian Avocado Salad",
+  "description": "A delicious and refreshing salad featuring the flavors of Brazil, topped with creamy avocado.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian Salad Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados, diced",
+      "notes": "Rich and creamy"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Brazilian-Style Dressing (see notes)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the salad greens, diced avocado, and thinly sliced red onion.",
+    "In a small bowl, whisk together the Brazilian-Style Dressing ingredients.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle the chopped cilantro over the top and season with salt and pepper to taste.",
+    "Serve immediately, garnished with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "salad",
+    "lunch",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-juicy-avocado-brazilian-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:28:02.720Z"
+}
