@@ -1,0 +1,66 @@
+{
+  "slug": "rich-argentinian-vanilla-custard--japanese",
+  "title": "Vanilla Custard Mochi",
+  "description": "A Japanese-inspired dessert featuring a rich vanilla custard filling enclosed in a soft and chewy mochi made with argentinian rice flour.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Argentinian Rice Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Rich Custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mochi Molds",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour and water in a bowl to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Cook each mochi disk for 2-3 minutes on each side, until it's lightly browned and puffed up.",
+    "Meanwhile, prepare the custard filling by mixing the rich custard with vanilla extract.",
+    "Assemble the mochi by placing a spoonful of custard filling in the center of each mochi disk.",
+    "Fold the mochi over the filling and press the edges together to seal.",
+    "Serve the vanilla custard mochi chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mochi",
+    "japanese-desserts",
+    "vanilla-custard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-argentinian-vanilla-custard--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:48.431Z"
+}
