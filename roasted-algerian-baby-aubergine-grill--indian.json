@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-algerian-baby-aubergine-grill--indian",
+  "title": "Grilled Aubergine Indian Recipe",
+  "description": "A classic Indian dish made with grilled aubergine, roasted spices, and baby potatoes.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "a large aubergine, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2-3 baby potatoes, cut into wedges",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons roasted cumin powder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon algerian spice blend",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix together cumin powder, algerian spice blend, salt, and black pepper.",
+    "Add the aubergine and baby potatoes to the bowl and toss to coat with the spice mixture.",
+    "Drizzle olive oil over the vegetables and toss to coat.",
+    "Grill the vegetables for 8-10 minutes, or until they are tender and lightly charred.",
+    "Serve the grilled vegetables hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "grilled",
+    "aubergine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-baby-aubergine-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:05:45.510Z"
+}
