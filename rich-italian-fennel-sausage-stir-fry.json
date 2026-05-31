@@ -1,0 +1,82 @@
+{
+  "slug": "rich-italian-fennel-sausage-stir-fry",
+  "title": "Sausage and Fennel Stir Fry",
+  "description": "A quick and flavorful Italian-inspired stir fry made with sweet sausage and crunchy fennel. Serve with crusty bread or over rice for a satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Italian Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced fennel and cook for 5 minutes, or until tender and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the sliced sausage and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Season with salt, black pepper, and red pepper flakes.",
+    "Serve the sausage and fennel mixture hot, garnished with chopped parsley.",
+    "Optional: Serve with crusty bread or over cooked rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sausage",
+    "fennel",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-fennel-sausage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:20:13.700Z"
+}
