@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-egyptian-lamb-kebabs",
+  "title": "Egyptian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish originating from Egypt, featuring tender lamb in a blend of spices and herbs. This recipe is perfect for grilling or broiling.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Fat-trimmed for better flavor and texture"
+    },
+    {
+      "name": "Roasted garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Peeled and crushed for maximum flavor"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Added for freshness and color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing and marinating"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning and tenderizing"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For flavor and aroma"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "For a warm, earthy flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "For a smoky, slightly sweet flavor"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For a citrusy, slightly sweet flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb cubes, roasted garlic, parsley, olive oil, salt, black pepper, cumin powder, paprika, and coriander powder.",
+    "Mix well to coat lamb cubes evenly, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill or broiler to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill or broil for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as couscous, rice, or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "kebabs",
+    "lamb",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-egyptian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:35.196Z"
+}
