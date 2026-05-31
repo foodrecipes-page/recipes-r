@@ -1,0 +1,79 @@
+{
+  "slug": "rich-silky-argentinian-walnut-empanadas",
+  "title": "Argentinian Walnut Empanadas",
+  "description": "Sweet empanadas filled with rich walnut filling, perfect for a dessert or snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine flour and sugar in a bowl.",
+    "Add butter to the flour mixture and mix until crumbly.",
+    "Gradually add eggs and heavy cream until dough forms.",
+    "Knead dough for 10 minutes.",
+    "Roll out dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a spoonful of walnut filling in the center of each dough circle.",
+    "Fold dough in half and press edges to seal.",
+    "Brush tops with heavy cream and sprinkle with sugar.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "dessert",
+    "walnut",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-argentinian-walnut-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:52.852Z"
+}
