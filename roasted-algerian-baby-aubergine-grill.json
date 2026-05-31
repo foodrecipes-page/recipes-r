@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-algerian-baby-aubergine-grill",
+  "title": "Grilled Aubergine with Algerian Spice",
+  "description": "A flavorful and spicy dish made with grilled aubergine, roasted red peppers, and a blend of Algerian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush the aubergine and red pepper with olive oil and season with salt and black pepper.",
+    "Grill the aubergine and red pepper for 5-7 minutes on each side, or until charred.",
+    "Transfer the grilled vegetables to a plate and let cool slightly.",
+    "Mix the Algerian spice mix with garlic and rub it all over the grilled vegetables.",
+    "Serve the grilled aubergine and red pepper hot, garnished with chopped fresh parsley if desired.",
+    "Note: For a smokier flavor, you can grill the vegetables over indirect heat for 10-15 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "aubergine",
+    "algerian-spice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-baby-aubergine-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:58:45.379Z"
+}
