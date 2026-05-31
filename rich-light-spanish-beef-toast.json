@@ -1,0 +1,67 @@
+{
+  "slug": "rich-light-spanish-beef-toast",
+  "title": "Beef and Toast Crostini",
+  "description": "A simple and flavorful Spanish-inspired appetizer featuring rich beef and crispy toast.",
+  "cuisine": "Spanish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "1 baguette, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef with salt and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat. Sear the beef for 2-3 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, toast the baguette slices in the oven for 5-7 minutes, or until crispy and golden brown.",
+    "Slice the beef thinly against the grain.",
+    "Assemble the crostini by topping toasted bread with sliced beef and serving immediately.",
+    "Optional: garnish with a sprinkle of paprika or chopped fresh parsley for added flavor and color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "beef",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-light-spanish-beef-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:57.028Z"
+}
