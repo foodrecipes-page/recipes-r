@@ -1,0 +1,69 @@
+{
+  "slug": "rich-silky-japanese-egg-stir-fry",
+  "title": "Japanese Omelette",
+  "description": "A simple Japanese-style omelette made with eggs and a variety of seasonings.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs, beaten"
+    },
+    {
+      "name": "Japanese stir-fry sauce",
+      "amount": "1 tablespoon",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Rich soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Silky sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For brushing the pan"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together the beaten eggs, Japanese stir-fry sauce, and soy sauce.",
+    "2. Heat a small non-stick pan over medium heat.",
+    "3. Brush the pan with sesame oil.",
+    "4. Pour in the egg mixture and cook until the edges start to set.",
+    "5. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "6. Continue cooking and folding until the eggs are almost set.",
+    "7. Use the spatula to carefully fold the omelette in half.",
+    "8. Cook for an additional 30 seconds to 1 minute.",
+    "9. Slide the omelette out of the pan onto a plate.",
+    "10. Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "omelette",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-japanese-egg-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:25.105Z"
+}
