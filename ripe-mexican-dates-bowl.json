@@ -1,0 +1,51 @@
+{
+  "slug": "ripe-mexican-dates-bowl",
+  "title": "Mexican Date Delight",
+  "description": "A sweet and tangy dessert made with ripe dates and a hint of Mexican spice. Perfect for a warm evening or a special occasion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ripe Dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "Mexican Chocolate",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped Mexican chocolate and coconut flakes.",
+    "2. In a separate bowl, combine the pitted dates and lime juice.",
+    "3. Add the date mixture to the chocolate mixture and stir until well combined.",
+    "4. Spoon the mixture into individual serving bowls.",
+    "5. Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "chocolate",
+    "dates"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ripe-mexican-dates-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:57:12.167Z"
+}
