@@ -1,0 +1,57 @@
+{
+  "slug": "rich-potato-crumble--italian",
+  "title": "Italian Crumble Potato Bake",
+  "description": "A simple Italian-inspired dish featuring crumble topping and potato, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large potatoes",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1/4 cup rich",
+      "amount": "1/4 cup",
+      "notes": "ricotta cheese"
+    },
+    {
+      "name": "1/4 cup crumble",
+      "amount": "1/4 cup",
+      "notes": "parmesan and breadcrumbs mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, combine sliced potatoes and ricotta cheese.",
+    "Transfer the potato mixture to a baking dish.",
+    "In a separate bowl, mix together parmesan and breadcrumbs to create the crumble topping.",
+    "Sprinkle the crumble topping evenly over the potatoes.",
+    "Bake for 25-30 minutes or until the potatoes are tender and the topping is golden brown.",
+    "Remove from oven and let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "baked-potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-potato-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:59:10.899Z"
+}
