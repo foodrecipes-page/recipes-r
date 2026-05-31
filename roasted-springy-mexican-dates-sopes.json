@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-springy-mexican-dates-sopes",
+  "title": "Mexican Sopes with Roasted Vegetables",
+  "description": "A flavorful and hearty Mexican dish featuring roasted vegetables and crispy sopes. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "for sopes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing sopes"
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted red bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "dates",
+      "amount": "4-6",
+      "notes": "pitted and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast sweet potatoes, red bell peppers, onions, and garlic for 20-25 minutes, or until tender.",
+    "Brush sopes with vegetable oil and bake for 5-7 minutes, or until crispy.",
+    "In a large skillet, heat a tablespoon of oil over medium heat.",
+    "Add cumin and chili powder and cook for 1-2 minutes, stirring constantly.",
+    "Add roasted vegetables and cook for an additional 2-3 minutes, stirring frequently.",
+    "Stir in chopped dates and cook for 1 minute.",
+    "To assemble sopes, place a spoonful of the vegetable mixture onto each sope and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "roasted",
+    "vegetarian",
+    "sopes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "4g",
+    "carbs": "60g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-springy-mexican-dates-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:49:25.184Z"
+}
