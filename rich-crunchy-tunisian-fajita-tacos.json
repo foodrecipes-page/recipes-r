@@ -1,0 +1,82 @@
+{
+  "slug": "rich-crunchy-tunisian-fajita-tacos",
+  "title": "Crunchy Tunisian Fajita Tacos",
+  "description": "A flavorful twist on traditional fajitas, featuring crunchy vegetables and a hint of Tunisian spice. Serve in tacos for a delicious and easy meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Rich Tunisian Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10, corn or flour"
+    },
+    {
+      "name": "Fajita-Style Cooking Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fajita Meat (optional)",
+      "amount": "1 lb, sliced"
+    },
+    {
+      "name": "Crunchy Topping (optional)",
+      "amount": "1 cup, chopped fresh cilantro, crumbled queso fresco, or diced radish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the sliced fajita meat (if using) and cook until browned, about 5 minutes.",
+    "Add the sliced onions and bell peppers to the skillet and cook until they start to soften, about 5 minutes.",
+    "Add the Tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the sliced fajita meat (if not already added) and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the vegetables are tender.",
+    "Warm the tacos according to the package instructions.",
+    "Assemble the tacos by spooning the fajita mixture onto a warmed taco and topping with your desired crunchy topping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajita",
+    "tunisian",
+    "tacos",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-tunisian-fajita-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:45:49.686Z"
+}
