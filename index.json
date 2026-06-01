@@ -851,17 +851,15 @@
   },
   {
     "slug": "ravenous-portuguese-tomato-toast",
-    "title": "Ravenous Portuguese Tomato Toast",
+    "title": "Portuguese Tomato Toast",
     "tags": [
-      "bitter",
-      "egg-free",
-      "glassy-jelly",
-      "midnight-craving",
+      "breakfast",
       "snack",
-      "vegetarian"
+      "healthy",
+      "easy"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 18,
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -10200,16 +10198,14 @@
   },
   {
     "slug": "rich-smoky-moroccan-lamb-tagine",
-    "title": "Rich Smoky Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot-meals",
-      "smoky-flavors",
-      "special-occasion"
+      "lamb",
+      "moroccan",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
@@ -21218,6 +21214,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-egyptian-bread-flatbread--chinese",
+    "title": "Peking Flatbread Sticks with Spicy Dipping Sauce",
+    "tags": [
+      "chinese",
+      "snack",
+      "appetizer",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-smoky-korean-pork-jjigae--keto",
+    "title": "Spicy Korean Pork Jjigae",
+    "tags": [
+      "korean",
+      "pork",
+      "spicy",
+      "jjigae",
+      "keto"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
