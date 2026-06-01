@@ -8958,20 +8958,14 @@
   },
   {
     "slug": "rich-saudi-lamb-biryani",
-    "title": "Rich Saudi Lamb Biryani",
+    "title": "Classic Saudi-Style Lamb Biryani",
     "tags": [
       "saudi",
       "lamb",
-      "biryani",
-      "umami",
-      "dense",
-      "romantic",
-      "sugar-free-friendly",
-      "spiced",
-      "ghee"
+      "biryani"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 60,
+    "cuisine": "Saudi",
+    "totalTimeMin": 75,
     "shard": "r"
   },
   {
@@ -21254,6 +21248,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "resinous-intense-uruguayan-fillet-of-steak-burger--french",
+    "title": "Uruguayan-Style Steak au Poivre",
+    "tags": [
+      "steak",
+      "peppercorn",
+      "uruguayan",
+      "french",
+      "au-poivre"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
