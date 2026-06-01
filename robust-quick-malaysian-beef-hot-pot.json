@@ -1,0 +1,89 @@
+{
+  "slug": "robust-quick-malaysian-beef-hot-pot",
+  "title": "Beef in Hot Pot",
+  "description": "A hearty and flavorful hot pot filled with tender beef and a variety of vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye, sliced into thin strips"
+    },
+    {
+      "name": "pot",
+      "amount": "2",
+      "notes": "large pots for hot pot"
+    },
+    {
+      "name": "robust",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce or oyster sauce"
+    },
+    {
+      "name": "quick",
+      "amount": "1 tablespoon",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "hot",
+      "amount": "1 teaspoon",
+      "notes": "red pepper flakes"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 package",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup",
+      "notes": "sliced bell peppers, onions, and mushrooms"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in one of the large pots.",
+    "Add the sliced beef and cook for 3-4 minutes, or until browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced vegetables and cook until they are tender.",
+    "Season with robust sauce, sesame oil, and hot sauce to taste.",
+    "Cook the noodles according to package instructions.",
+    "To assemble the hot pot, place a portion of noodles into each bowl, followed by a portion of the beef and vegetables.",
+    "Serve immediately, with additional robust sauce and hot sauce available on the side.",
+    "Cook the beef to an internal temperature of 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for medium-well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "hot-pot",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-quick-malaysian-beef-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:21:33.446Z"
+}
