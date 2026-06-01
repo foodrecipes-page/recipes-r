@@ -1,0 +1,83 @@
+{
+  "slug": "robustly-roasted-mexican-poblano-burrito",
+  "title": "Robust Poblano Burrito",
+  "description": "A flavorful burrito filled with roasted poblano peppers, robust beef, and spices. This dish is perfect for a hearty lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Roasted Poblano Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Roast the poblano peppers for 30 minutes, turning occasionally.",
+    "3. Remove the peppers from the oven and let them cool.",
+    "4. Peel the skin off the peppers and dice them.",
+    "5. In a large skillet, cook the ground beef over medium-high heat until browned.",
+    "6. Add the onion, garlic, cumin, chili powder, salt, and pepper to the skillet.",
+    "7. Cook for 1-2 minutes, until the onion is translucent.",
+    "8. Add the diced poblano peppers to the skillet and cook for 1 minute.",
+    "9. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "10. Assemble the burritos by spooning the beef and pepper mixture onto a tortilla and topping with shredded cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "burrito"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-mexican-poblano-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:07:04.100Z"
+}
