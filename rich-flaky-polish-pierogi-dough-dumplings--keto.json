@@ -1,0 +1,66 @@
+{
+  "slug": "rich-flaky-polish-pierogi-dough-dumplings--keto",
+  "title": "Keto Polish Pierogi",
+  "description": "A keto version of traditional Polish pierogi, made with rich, flaky dough and filled with a delicious pierogi-inspired filling.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rich, Flaky Dough",
+      "amount": "2 cups almond flour"
+    },
+    {
+      "name": "Pierogi Filling",
+      "amount": "1 cup shredded cheddar cheese",
+      "notes": "1/4 cup chopped scallions"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large egg",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine almond flour and salt.",
+    "Add beaten egg and mix until dough comes together.",
+    "Knead dough for 5 minutes until smooth.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1 tablespoon of pierogi filling in the center of each circle.",
+    "Fold dough over filling and press edges together to seal.",
+    "Heat a large skillet over medium-high heat.",
+    "Add pierogi and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "polish",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-polish-pierogi-dough-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:17:52.488Z"
+}
