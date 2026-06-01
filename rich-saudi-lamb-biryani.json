@@ -1,0 +1,98 @@
+{
+  "slug": "rich-saudi-lamb-biryani",
+  "title": "Classic Saudi-Style Lamb Biryani",
+  "description": "A flavorful and aromatic Saudi-Style Lamb Biryani, cooked to perfection with tender lamb and fragrant spices. This dish is a staple in Saudi cuisine and is sure to impress with its rich flavors.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long Grain Rice",
+      "amount": "2 cups",
+      "notes": "Basmati or regular long grain rice works well"
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless and cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the lamb and onions"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "2 pods",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is lightly browned, stirring occasionally.",
+    "Add the lamb to the saucepan and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the cardamom, cinnamon, cumin, coriander, turmeric, and salt to the saucepan and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lamb is tender.",
+    "While the lamb is cooking, heat 2 tablespoons of ghee or oil in a large saucepan over medium heat.",
+    "Add 2 cups of rice to the saucepan and stir to coat the rice with the ghee or oil.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes, or until the rice is tender.",
+    "Once the lamb and rice are cooked, assemble the biryani by layering the cooked lamb on top of the cooked rice.",
+    "Repeat the layers one more time, finishing with a layer of rice on top.",
+    "Cover the saucepan and let it rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "lamb",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-saudi-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:03:34.778Z"
+}
