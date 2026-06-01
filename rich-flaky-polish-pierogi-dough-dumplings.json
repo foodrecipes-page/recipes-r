@@ -1,0 +1,65 @@
+{
+  "slug": "rich-flaky-polish-pierogi-dough-dumplings",
+  "title": "Traditional Polish Pierogi Recipe",
+  "description": "A classic Polish recipe for homemade pierogi filled with potatoes and cheese. Perfect as a side dish or main course.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich, flaky polish dough",
+      "amount": "2 cups",
+      "notes": "Use a food processor to mix dough ingredients."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Boil potatoes until tender."
+    },
+    {
+      "name": "Cheese (such as farmer's cheese or ricotta)",
+      "amount": "1 cup",
+      "notes": "Mix with potatoes for filling."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop onion and mix with potatoes and cheese."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 2 cups of dough ingredients. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it is smooth and elastic.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon of the potato and cheese filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil.",
+    "Carefully add the pierogi to the boiling water.",
+    "Cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Remove the pierogi from the water with a slotted spoon and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pierogi",
+    "homemade",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-polish-pierogi-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:15:54.429Z"
+}
