@@ -1,0 +1,87 @@
+{
+  "slug": "rich-smoky-korean-pork-jjigae",
+  "title": "Korean-Style Pork Jjigae Stew",
+  "description": "A rich, smoky Korean-inspired stew made with tender pork and a variety of spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat the sesame oil over medium-high heat.",
+    "2. Add the pork and cook until browned, about 5 minutes.",
+    "3. Add the garlic and ginger and cook for 1 minute.",
+    "4. Add the chili flakes, soy sauce, and brown sugar. Cook for 1 minute.",
+    "5. Add the water and bring to a boil.",
+    "6. Reduce the heat to medium-low and simmer for 20 minutes.",
+    "7. Add the green onions and cook for an additional 2 minutes.",
+    "8. Serve the stew hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-korean-pork-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:55:07.906Z"
+}
