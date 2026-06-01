@@ -1,0 +1,79 @@
+{
+  "slug": "rustic-dutch-chicken-roast",
+  "title": "Dutch Roast Chicken",
+  "description": "A hearty Dutch-inspired roast chicken dish with a rustic twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3 lbs)",
+      "notes": "fresh"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "Dutch-style mustard"
+    },
+    {
+      "name": "rustic",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Rinse the chicken and pat it dry with paper towels.",
+    "3. In a small bowl, mix together the olive oil, mustard, salt, and black pepper.",
+    "4. Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "5. Place the chopped onion and minced garlic inside the cavity of the chicken.",
+    "6. Truss the chicken with kitchen twine and place it in a roasting pan.",
+    "7. Roast the chicken in the preheated oven for about 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "8. Remove the chicken from the oven and let it rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dutch",
+    "roast",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-dutch-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:11:04.354Z"
+}
