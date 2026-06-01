@@ -1,0 +1,67 @@
+{
+  "slug": "rustic-turkish-flour-flatbread",
+  "title": "Turkish Flatbread with Rustic Filling",
+  "description": "A delicious and easy-to-make flatbread filled with a rustic mixture of cheese, herbs, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Rustic cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread to a thickness of about 1/4 inch (6 mm).",
+    "Mix the crumbled cheese, chopped parsley, minced garlic, salt, and pepper in a bowl.",
+    "Spread the rustic cheese mixture evenly over the flatbread, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Fold the flatbread in half to enclose the filling, and press the edges together to seal.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the flatbread is golden brown and crispy.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-turkish-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:04:54.669Z"
+}
