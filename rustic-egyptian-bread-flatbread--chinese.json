@@ -1,0 +1,83 @@
+{
+  "slug": "rustic-egyptian-bread-flatbread--chinese",
+  "title": "Peking Flatbread Sticks with Spicy Dipping Sauce",
+  "description": "Crispy flatbread sticks served with a spicy dipping sauce, a twist on traditional Chinese street food.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (12-15 pieces)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the flatbread into long, thin strips.",
+    "3. In a large bowl, whisk together vegetable oil, garlic, ginger, sambal oelek, soy sauce, rice vinegar, sugar, and sesame oil.",
+    "4. Add the flatbread strips to the bowl and toss to coat with the dipping sauce.",
+    "5. Line a baking sheet with parchment paper and arrange the flatbread strips in a single layer.",
+    "6. Bake for 10-12 minutes, or until crispy and golden brown.",
+    "7. Remove from oven and sprinkle with chopped scallions.",
+    "8. Serve immediately with additional dipping sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "appetizer",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-egyptian-bread-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:09:25.181Z"
+}
