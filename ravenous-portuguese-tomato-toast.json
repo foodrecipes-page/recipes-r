@@ -1,0 +1,65 @@
+{
+  "slug": "ravenous-portuguese-tomato-toast",
+  "title": "Portuguese Tomato Toast",
+  "description": "A simple and delicious toast recipe topped with fresh tomatoes and olive oil.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "portuguese bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "ravenous basil",
+      "amount": "a few leaves"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 350°F (175°C).",
+    "2. Slice the bread into thick slices and toast until lightly browned.",
+    "3. Drizzle olive oil over the toasted bread. ",
+    "4. Top each slice with sliced tomatoes.",
+    "5. Sprinkle a pinch of salt over the tomatoes, if desired.",
+    "6. Garnish with fresh basil leaves.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ravenous-portuguese-tomato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:13:39.179Z"
+}
