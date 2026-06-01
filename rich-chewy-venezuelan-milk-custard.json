@@ -1,0 +1,77 @@
+{
+  "slug": "rich-chewy-venezuelan-milk-custard",
+  "title": "Tres Leches Cake",
+  "description": "A moist and creamy Venezuelan dessert made with a rich sponge cake and topped with a mixture of three types of milk.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rich sponge cake",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Chewy custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Venezuelan cheese (or queso fresco)",
+      "amount": "1/2 cup (optional)"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9x13-inch baking dish and set aside.",
+    "Prepare the sponge cake according to the package instructions.",
+    "Poke holes all over the top of the cake with a skewer.",
+    "In a large bowl, whisk together the milk, custard, and sugar until well combined.",
+    "Pour the milk mixture evenly over the top of the cake.",
+    "Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle the top of the cake with the Venezuelan cheese (if using).",
+    "Cut the cake into squares and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tres leches",
+    "venezuelan",
+    "cake",
+    "dessert",
+    "milk"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-venezuelan-milk-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:33:48.049Z"
+}
