@@ -1,0 +1,83 @@
+{
+  "slug": "resinous-intense-uruguayan-fillet-of-steak-burger",
+  "title": "Uruguayan Steak Frites",
+  "description": "A classic Uruguayan dish featuring a grilled steak served with crispy fries.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "resinous parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the steak with salt, black pepper, and garlic powder.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Heat the vegetable oil in a large pot over medium-high heat.",
+    "Cut the potatoes into fry shapes and cook in batches until golden brown.",
+    "Drain the fries on paper towels and sprinkle with salt.",
+    "Serve the steak with fries and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "uruguayan",
+    "french-fries"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-intense-uruguayan-fillet-of-steak-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:32:53.399Z"
+}
