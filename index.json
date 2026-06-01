@@ -17986,17 +17986,14 @@
   },
   {
     "slug": "robust-quick-malaysian-beef-hot-pot",
-    "title": "Robust Quick Malaysian Beef Hot-Pot",
+    "title": "Beef in Hot Pot",
     "tags": [
-      "beef-recipes",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pot",
-      "quick-fix",
-      "weeknight"
+      "beef",
+      "hot-pot",
+      "malaysian-cuisine"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -19733,17 +19730,14 @@
   },
   {
     "slug": "romantic-pungent-greek-honey-and-phyllo-baklava",
-    "title": "Romantic Pungent Greek Honey and Phyllo Baklava",
+    "title": "Greek Baklava",
     "tags": [
-      "bacon",
-      "dessert",
       "greek",
-      "honey",
-      "phyllo",
-      "romantic"
+      "dessert",
+      "holiday"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 80,
+    "totalTimeMin": 65,
     "shard": "r"
   },
   {
@@ -21248,6 +21242,18 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-flaky-polish-pierogi-dough-dumplings--keto",
+    "title": "Keto Polish Pierogi",
+    "tags": [
+      "keto",
+      "polish",
+      "breakfast"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
