@@ -1,0 +1,63 @@
+{
+  "slug": "romantic-pungent-greek-honey-and-phyllo-baklava",
+  "title": "Greek Baklava",
+  "description": "A classic Greek dessert made with layers of phyllo, nuts, and honey, perfect for special occasions.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Romantic rose water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Pungent cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Layer phyllo dough in a 9x13 inch baking dish.",
+    "Mix together walnuts, honey, rose water, and cinnamon.",
+    "Spread the walnut mixture over the phyllo dough.",
+    "Layer additional phyllo dough on top of the walnut mixture.",
+    "Cut the baklava into diamond shapes.",
+    "Bake for 45 minutes, or until golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-pungent-greek-honey-and-phyllo-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:03:28.223Z"
+}
