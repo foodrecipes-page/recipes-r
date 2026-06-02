@@ -1,0 +1,85 @@
+{
+  "slug": "rich-malay-turkey-curry",
+  "title": "Malay Turkey Curry",
+  "description": "A flavorful and aromatic curry made with turkey and malay spices. Perfect for a quick and delicious meal.",
+  "cuisine": "Malay",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Malay curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Rich coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic; sauté until softened.",
+    "Add curry paste; cook for 1 minute.",
+    "Add turkey; cook until browned.",
+    "Pour in coconut milk; bring to a simmer.",
+    "Add turmeric, salt, and pepper; stir to combine.",
+    "Reduce heat to low; let simmer for 10 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "turkey",
+    "malay",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malay-turkey-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:24:41.436Z"
+}
