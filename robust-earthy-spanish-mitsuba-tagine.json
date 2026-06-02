@@ -1,0 +1,86 @@
+{
+  "slug": "robust-earthy-spanish-mitsuba-tagine",
+  "title": "Mitsuba and Spanish Chicken Tagine",
+  "description": "A hearty and flavorful one-pot dish that combines the robust flavors of chicken and mitsuba with the warmth of Spanish spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, chopped"
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "or regular smoked paprika"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large Dutch oven or clay tagine over medium-high heat.",
+    "Brown the chicken thighs on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the mitsuba, smoked paprika, cinnamon, and ginger to the pot and cook for 1 minute.",
+    "Add the browned chicken back to the pot, along with any accumulated juices.",
+    "Pour in enough water to cover the chicken and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional mitsuba if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "one-pot",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-earthy-spanish-mitsuba-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:08:58.007Z"
+}
