@@ -1,0 +1,96 @@
+{
+  "slug": "resinous-intense-uruguayan-fillet-of-steak-burger--indian",
+  "title": "Uruguayan Steak Tikka Masala",
+  "description": "A fusion of Indian flavors and Uruguayan steak. The tender steak is marinated in a blend of spices and yogurt, then grilled to perfection and served in a rich and creamy tomato sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan fillet of steak",
+      "amount": "500g",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "resinous ghee",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "intense cumin powder",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp",
+      "notes": "ground garam masala"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "ground onion"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "yogurt",
+      "amount": "200g",
+      "notes": "plain yogurt"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ketchup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine ghee, cumin, coriander, garam masala, onion powder, ginger paste, yogurt, and lemon juice. Blend until smooth.",
+    "2. Place the Uruguayan fillet of steak in a large ziplock bag. Pour the marinade over the steak and massage to coat evenly. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the steak from the marinade, letting any excess liquid drip off.",
+    "4. Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness. Transfer the steak to a plate and let it rest for 5 minutes before slicing.",
+    "5. In a large saucepan, heat 2 tablespoons of ghee over medium heat. Add 1 onion, thinly sliced, and cook until it's lightly browned.",
+    "6. Add 2 cloves of minced garlic and cook for 1 minute.",
+    "7. Stir in 2 cups of tomato puree, 1 cup of chicken broth, and 2 tablespoons of ketchup. Bring the mixture to a simmer.",
+    "8. Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally.",
+    "9. Add the sliced steak to the saucepan and toss to coat with the sauce.",
+    "10. Serve the steak hot, garnished with fresh cilantro and basmati rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "steak",
+    "tikka",
+    "masala",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-intense-uruguayan-fillet-of-steak-burger--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:10:25.494Z"
+}
