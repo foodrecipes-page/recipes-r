@@ -1,0 +1,89 @@
+{
+  "slug": "refreshing-raw-friendly-korean-lamb-cold-noodles",
+  "title": "Korean Lamb Noodle Salad",
+  "description": "A refreshing and spicy salad made with lamb, Korean chili flakes, and cold noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1/2 pound, thinly sliced",
+      "notes": "preferably cooked to medium-rare"
+    },
+    {
+      "name": "cold noodles",
+      "amount": "8 oz",
+      "notes": "such as naengmyeon or somyeon"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "or gochugaru"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, thinly sliced",
+      "notes": "refreshing and crunchy"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, peeled and grated",
+      "notes": "adds natural sweetness"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "adds pungency"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "adds fresh flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "balances sweetness"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "In a large bowl, combine the cooked noodles, sliced lamb, cucumber, carrot, green onions, and cilantro.",
+    "In a small bowl, whisk together the lime juice, honey, and Korean chili flakes.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with toasted sesame seeds and chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lamb",
+    "noodle",
+    "salad",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-raw-friendly-korean-lamb-cold-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:27:16.187Z"
+}
