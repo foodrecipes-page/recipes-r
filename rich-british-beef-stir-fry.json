@@ -1,0 +1,90 @@
+{
+  "slug": "rich-british-beef-stir-fry",
+  "title": "Beef and Mushroom Stir Fry",
+  "description": "A classic beef stir fry recipe with the addition of earthy mushrooms, served with a side of steamed vegetables.",
+  "cuisine": "british",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Return the beef to the skillet and stir in the soy sauce, salt, and black pepper.",
+    "Cook for an additional 1-2 minutes, until the beef is coated in the sauce.",
+    "Serve the beef and mushroom stir fry hot, garnished with chopped scallions.",
+    "Serve with a side of steamed vegetables, such as broccoli or carrots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "mushroom",
+    "stir-fry",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:15:49.864Z"
+}
