@@ -1,0 +1,62 @@
+{
+  "slug": "rich-german-carrot-soup",
+  "title": "German Carrot Soup",
+  "description": "A hearty and comforting German-inspired carrot soup recipe.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons butter",
+      "notes": ""
+    },
+    {
+      "name": "german",
+      "amount": "1 medium onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "soup",
+      "amount": "4 cups vegetable broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add chopped carrots and cook for an additional 5 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat and simmer until carrots are tender, about 20 minutes.",
+    "Blend soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "carrot soup",
+    "german soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-german-carrot-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:10:40.830Z"
+}
