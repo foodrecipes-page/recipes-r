@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-rice-fragrant-russian-quinoa-bowl",
+  "title": "Russian-Style Roasted Quinoa Bowl",
+  "description": "A hearty, flavorful bowl filled with roasted vegetables, quinoa, and a tangy Russian-inspired dressing.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen corn",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "fragrant rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the diced red pepper with olive oil, salt, and pepper on a baking sheet and roast for 20-25 minutes.",
+    "Cook the quinoa according to package instructions.",
+    "In a large bowl, combine the cooked quinoa, roasted red pepper, and thawed corn.",
+    "In a small bowl, whisk together the fragrant rice vinegar and chopped fresh dill.",
+    "Pour the dressing over the quinoa mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the quinoa bowl hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quinoa",
+    "russian",
+    "veggie",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-rice-fragrant-russian-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:45:11.100Z"
+}
