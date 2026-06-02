@@ -1,0 +1,82 @@
+{
+  "slug": "razor-smoky-indian-long-bean-jalebi",
+  "title": "Smoky Bean Curry",
+  "description": "A flavorful Indian-inspired curry made with smoky spices and tender beans. Serve over steamed basmati rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red kidney beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "smoky cumin powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "long onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalebi spice blend",
+      "amount": "1 tsp",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bean broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Chop long onion and sauté until translucent.",
+    "Add smoky cumin powder, jalebi spice blend, and garam masala. Cook for 1 minute.",
+    "Add tomato paste and cook for another minute.",
+    "Add cooked red kidney beans, bean broth, and salt. Stir well.",
+    "Bring to a simmer and cook for 10-15 minutes or until thickened to desired consistency.",
+    "Garnish with fresh cilantro and serve over steamed basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "22g",
+    "carbs": "60g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/razor-smoky-indian-long-bean-jalebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:47:05.561Z"
+}
