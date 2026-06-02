@@ -1312,15 +1312,12 @@
   },
   {
     "slug": "razor-smoky-indian-long-bean-jalebi",
-    "title": "Razor Smoky Indian Long Bean Jalebi",
+    "title": "Smoky Bean Curry",
     "tags": [
-      "comfort-food",
-      "jalebi",
-      "kashrut-friendly",
-      "quick",
-      "sick-day",
-      "smoky",
-      "sweet"
+      "indian",
+      "curry",
+      "beans",
+      "vegetarian"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
@@ -6926,13 +6923,15 @@
   },
   {
     "slug": "rich-malay-turkey-curry",
-    "title": "Rich Malay Turkey Curry",
+    "title": "Malay Turkey Curry",
     "tags": [
+      "curry",
+      "turkey",
       "malay",
-      "dinner"
+      "easy-dinner"
     ],
     "cuisine": "Malay",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -19098,17 +19097,15 @@
   },
   {
     "slug": "robustly-roasted-greek-lamb-spanakopita",
-    "title": "robustly roasted greek lamb spanakopita",
+    "title": "Traditional Greek Spanakopita",
     "tags": [
       "greek",
-      "high-protein",
-      "kid-friendly",
-      "lamb",
-      "one-pan",
-      "weeknight"
+      "spanakopita",
+      "spinach",
+      "feta"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 45,
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -20093,17 +20090,15 @@
   },
   {
     "slug": "rough-crumbly-moroccan-oats-tangia",
-    "title": "Rough Crumbly Moroccan Oats Tangia",
+    "title": "Tangia Tagine",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "moroccan-cuisine",
-      "oat-based",
-      "tangia-recipe",
-      "vegetarian-friendly"
+      "moroccan",
+      "lamb",
+      "beef",
+      "slow-cooker"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 105,
     "shard": "r"
   },
   {
@@ -21265,6 +21260,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 65,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-roasted-polish-lamb-stew--vegan",
+    "title": "Polish Vegan Lamb Stew",
+    "tags": [
+      "lentil-free",
+      "mushroom-based",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 50,
     "shard": "r"
   }
 ]
