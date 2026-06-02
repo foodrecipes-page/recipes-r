@@ -1,0 +1,95 @@
+{
+  "slug": "rich-spicy-middle-eastern-lamb-tagine",
+  "title": "Middle Eastern Lamb Tagine",
+  "description": "A rich and flavorful Moroccan-inspired stew made with tender lamb, aromatic spices, and dried fruits.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until caramelized, about 8 minutes.",
+    "Add garlic and ginger; cook, stirring constantly, for 1 minute.",
+    "Add lamb; cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add cumin, cinnamon, and paprika; cook, stirring constantly, for 1 minute.",
+    "Add raisins and honey; stir to combine.",
+    "Add 1 cup of water; bring to a boil.",
+    "Reduce heat to low; cover and simmer, stirring occasionally, until lamb is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spicy-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:13:28.625Z"
+}
