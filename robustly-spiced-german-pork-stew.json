@@ -1,0 +1,97 @@
+{
+  "slug": "robustly-spiced-german-pork-stew",
+  "title": "Robust German Pork Stew",
+  "description": "A hearty German-inspired stew filled with tender pork and robust flavors.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "- Use a meat thermometer to ensure the pork reaches 145°F (63°C)"
+    },
+    {
+      "name": "robust german beer",
+      "amount": "1 cup",
+      "notes": "- Use a dark German lager or bock"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot, peeled and chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery, chopped",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "spiced mustard",
+      "amount": "1 teaspoon",
+      "notes": "- Such as Düsseldorfer mustard"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork pieces on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Reduce heat to medium and add the onion, carrot, and celery.",
+    "Cook until the vegetables are tender, about 10 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth, whisking continuously.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until the pork is tender.",
+    "Stir in the spiced mustard and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "40g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spiced-german-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:26:19.624Z"
+}
