@@ -1,0 +1,83 @@
+{
+  "slug": "robustly-roasted-polish-lamb-stew--vegan",
+  "title": "Polish Vegan Lamb Stew",
+  "description": "A hearty, comforting stew that replaces traditional lamb with robustly flavored portobello mushrooms and roasted vegetables.",
+  "cuisine": "polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "1 1/2 pounds",
+      "notes": "stems removed and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "vegan"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add carrots and potatoes; cook for 5 minutes, stirring occasionally.",
+    "Stir in tomato paste; cook for 1 minute.",
+    "Add vegetable broth, thyme, and bay leaves; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until the vegetables are tender, about 30 minutes.",
+    "Season with salt and pepper to taste; serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-free",
+    "mushroom-based",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-polish-lamb-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:11:54.632Z"
+}
