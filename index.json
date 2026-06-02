@@ -4310,16 +4310,14 @@
   },
   {
     "slug": "rich-creamy-slovakian-egg-frittata",
-    "title": "Rich Creamy Slovakian Egg Frittata",
+    "title": "Slovakian Frittata",
     "tags": [
-      "slovakian-egg-frittata",
-      "creamy",
-      "diabetic-friendly",
-      "quick",
+      "slovakian",
+      "frittata",
       "breakfast"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -5870,10 +5868,11 @@
   },
   {
     "slug": "rich-german-carrot-soup",
-    "title": "Rich German Carrot Soup",
+    "title": "German Carrot Soup",
     "tags": [
-      "german",
-      "dinner"
+      "carrot soup",
+      "german soup",
+      "vegetarian"
     ],
     "cuisine": "German",
     "totalTimeMin": 40,
@@ -17572,16 +17571,15 @@
   },
   {
     "slug": "robust-earthy-spanish-mitsuba-tagine",
-    "title": "Robust Earthy Spanish Mitsuba Tagine",
+    "title": "Mitsuba and Spanish Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "low-glycemic",
+      "north-african",
+      "chicken",
       "one-pot",
-      "spanish-cuisine",
-      "weeknight"
+      "flavorful"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21255,6 +21253,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-dutch-chicken-roast--mexican",
+    "title": "Mexican Chicken Roast",
+    "tags": [
+      "mexican-chicken-roast",
+      "roasted-chicken",
+      "mexican-inspired"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
     "shard": "r"
   }
 ]
