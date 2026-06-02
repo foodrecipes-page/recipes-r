@@ -1,0 +1,78 @@
+{
+  "slug": "rustic-dutch-chicken-roast--mexican",
+  "title": "Mexican Chicken Roast",
+  "description": "A flavorful Mexican-inspired roast chicken dish with a rustic twist.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 (3-4 pound) whole chicken"
+    },
+    {
+      "name": "roast",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/2 teaspoon salt"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 teaspoon black pepper"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 cup chopped fresh cilantro"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 lime, juiced"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 cloves garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the cumin, smoked paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Drizzle the chicken with olive oil and sprinkle with chopped cilantro.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+    "Serve the chicken hot, garnished with additional cilantro if desired.",
+    "Serve with your favorite sides, such as Mexican rice, beans, or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-chicken-roast",
+    "roasted-chicken",
+    "mexican-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-dutch-chicken-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:07:08.240Z"
+}
