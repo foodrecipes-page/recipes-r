@@ -1,0 +1,76 @@
+{
+  "slug": "richly-flavored-turkish-radish-borek",
+  "title": "Turkish Radish Borek",
+  "description": "A flavorful borek pastry filled with spicy radish and herbs, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Radish",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry dough and cut into 4-6 squares.",
+    "In a bowl, mix together radish, Turkish pepper, cumin, salt, and black pepper.",
+    "Place a spoonful of the radish mixture onto the center of each pastry square.",
+    "Brush the edges with melted butter and fold the pastry squares in half to form triangles.",
+    "Press the edges to seal and use a fork to crimp the edges.",
+    "Place the boreks on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "appetizer",
+    "radish",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-turkish-radish-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:00:04.935Z"
+}
