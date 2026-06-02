@@ -1,0 +1,89 @@
+{
+  "slug": "rough-crumbly-moroccan-oats-tangia",
+  "title": "Tangia Tagine",
+  "description": "A traditional Moroccan stew made with a rough, crumbly meat and served over a bed of oats.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rough, crumbly meat",
+      "amount": "1 lb",
+      "notes": "such as lamb or beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add rough, crumbly meat and cook until browned, about 5 minutes.",
+    "Add oats and enough water to cover the meat and oats.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "beef",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rough-crumbly-moroccan-oats-tangia",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:26:02.275Z"
+}
