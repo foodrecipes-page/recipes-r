@@ -1,0 +1,81 @@
+{
+  "slug": "robustly-roasted-greek-lamb-spanakopita",
+  "title": "Traditional Greek Spanakopita",
+  "description": "A classic Greek savory pie filled with spinach, feta cheese, and herbs, wrapped in flaky phyllo dough.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (typically 24-30 sheets)"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 package (10 oz) frozen, thawed and drained"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably Greek"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "In a large skillet, heat 1 tablespoon olive oil over medium heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Add spinach and cook until wilted, about 2-3 minutes.",
+    "Remove from heat and stir in feta cheese, parmesan cheese, and green onions.",
+    "In a separate bowl, whisk together eggs and black pepper.",
+    "Layer phyllo dough in a baking dish, brushing each layer with butter.",
+    "Spread spinach mixture over the top layer of phyllo dough.",
+    "Pour egg mixture over the spinach mixture.",
+    "Cover with remaining phyllo dough, brushing with butter.",
+    "Bake for 35-40 minutes, or until golden brown and set.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "spanakopita",
+    "spinach",
+    "feta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-greek-lamb-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:32:55.569Z"
+}
