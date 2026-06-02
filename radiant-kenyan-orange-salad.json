@@ -1,0 +1,65 @@
+{
+  "slug": "radiant-kenyan-orange-salad",
+  "title": "Radiant Kenyan Salad",
+  "description": "A refreshing salad with radiant notes from Kenyan spices and citrusy orange, perfect for a light meal.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Radiant Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Orange, peeled and segmented",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine radiant greens, salad, and orange segments.",
+    "2. In a small bowl, whisk together Kenyan spice mix and orange juice.",
+    "3. Pour the spice mixture over the salad and toss to coat.",
+    "4. Serve immediately, garnished with additional orange segments if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "african",
+    "easy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-kenyan-orange-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:25:03.956Z"
+}
