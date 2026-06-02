@@ -1,0 +1,80 @@
+{
+  "slug": "rich-creamy-slovakian-egg-frittata",
+  "title": "Slovakian Frittata",
+  "description": "A traditional Slovakian breakfast dish with a rich, creamy twist. This frittata is perfect for a weekend morning.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Rich Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Cheese (e.g. Bryndza)",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sliced Slovakian sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onions and minced garlic to the skillet and cook until the onions are translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, whisk together the eggs, rich cream, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the cooked sausage and vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle the shredded Slovakian cheese on top.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "frittata",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-slovakian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:32:01.537Z"
+}
