@@ -3130,15 +3130,16 @@
   },
   {
     "slug": "rich-and-juicy-american-cheese-stir-fry",
-    "title": "Rich and Juicy American Cheese Stir-fry",
+    "title": "Cheesy American Stir Fry",
     "tags": [
       "american",
+      "cheesy",
       "stir-fry",
-      "rich",
-      "juicy"
+      "easy-dinner",
+      "quick-meal"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -15082,15 +15083,17 @@
   },
   {
     "slug": "roasted-greek-blueberry-crumble",
-    "title": "Roasted Greek Blueberry Crumble",
+    "title": "Blueberry Crumble Greek Yogurt Parfait",
     "tags": [
-      "greek-dessert",
-      "gluten-free-dessert",
-      "sweet-berry",
-      "baked-crumb"
+      "breakfast",
+      "parfait",
+      "blueberry",
+      "greek-yogurt",
+      "crumble",
+      "healthy"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "r"
   },
   {
