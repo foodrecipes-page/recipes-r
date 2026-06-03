@@ -9965,17 +9965,15 @@
   },
   {
     "slug": "rich-smoky-dutch-sweetcorn-stew",
-    "title": "Rich Smoky Dutch Sweetcorn Stew",
+    "title": "Smoky Dutch Stew",
     "tags": [
+      "dutch",
+      "stew",
       "comfort-food",
-      "dutch-cuisine",
-      "one-pot",
-      "pescatarian",
-      "smoky",
-      "winter-stew"
+      "bacon"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
@@ -15575,17 +15573,17 @@
   },
   {
     "slug": "roasted-mexican-tlayudas-tlayudas",
-    "title": "Roasted Mexican Tlayudas",
+    "title": "Roasted Tlayudas",
     "tags": [
-      "high-protein",
       "mexican",
-      "one-pan",
-      "post-workout",
+      "roasted",
+      "tlayudas",
       "snack",
-      "weeknight"
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 20,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -17023,17 +17021,15 @@
   },
   {
     "slug": "roasted-venezuelan-pistachio-stew",
-    "title": "Roasted Venezuelan Pistachio Stew",
+    "title": "Venezuelan Stew",
     "tags": [
-      "date-night",
-      "low-carb",
-      "one-pot",
-      "quick",
-      "spicy",
-      "vegetarian"
+      "stew",
+      "latin-american",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -19944,17 +19940,16 @@
   },
   {
     "slug": "romantic-vietnamese-vegetables-nem-nuong",
-    "title": "Romantic Vietnamese Vegetables Nem Nuong",
+    "title": "Vietnamese Grilled Pork Nem",
     "tags": [
-      "one-pan",
-      "quick",
-      "romantic",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "nem",
+      "nuong"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 22,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21289,6 +21284,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-dense-egyptian-lamb-stew--gluten-free",
+    "title": "Egyptian Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "egyptian-cuisine",
+      "gluten-free"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 150,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-turkish-flour-flatbread--thai",
+    "title": "Thai Flatbread with Rustic Spices",
+    "tags": [
+      "thaifood",
+      "flatbread",
+      "snack",
+      "easyrecipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "r"
   }
 ]
