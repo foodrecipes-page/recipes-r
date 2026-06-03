@@ -1,0 +1,67 @@
+{
+  "slug": "rich-and-juicy-american-cheese-stir-fry",
+  "title": "Cheesy American Stir Fry",
+  "description": "A quick and easy American-style stir fry loaded with rich and juicy cheese.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Stir fry",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add the rich and stir fry, cook until the stir fry is tender.",
+    "3. Add the American cheese and cheese, stir until the cheese is melted.",
+    "4. Add the juicy, if using.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "cheesy",
+    "stir-fry",
+    "easy-dinner",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-juicy-american-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:43:22.823Z"
+}
