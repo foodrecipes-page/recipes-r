@@ -21311,5 +21311,44 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "r"
+  },
+  {
+    "slug": "richly-spiced-norwegian-galangal-stew--mexican",
+    "title": "Spicy Norwegian Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "mexican",
+      "slow-cooked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "razor-smoky-indian-long-bean-jalebi--vegan",
+    "title": "Smoky Indian Bean Stew",
+    "tags": [
+      "indian",
+      "vegan",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "radiant-kenyan-orange-salad--chinese",
+    "title": "Radiant Chinese Salad ",
+    "tags": [
+      "chinese",
+      "healthy",
+      "salad",
+      "quick"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "r"
   }
 ]
