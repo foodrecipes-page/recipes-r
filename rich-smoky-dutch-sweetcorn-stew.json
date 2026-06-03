@@ -1,0 +1,92 @@
+{
+  "slug": "rich-smoky-dutch-sweetcorn-stew",
+  "title": "Smoky Dutch Stew",
+  "description": "A hearty, comforting stew made with smoky bacon and sweet corn, perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "sweet corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "dutch stew meat",
+      "amount": "1 lb",
+      "notes": "beef or pork"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": "beef or vegetable"
+    },
+    {
+      "name": "rich heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the diced bacon and cook until crispy, then remove from pot.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the chopped carrot and potato, cook for 5 minutes.",
+    "Add the tomato paste (if using) and cook for 1 minute.",
+    "Add the stew broth and bring to a boil.",
+    "Return the bacon to the pot and simmer for 30 minutes.",
+    "Add the sweet corn and heavy cream (if using) and simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stew",
+    "comfort-food",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-dutch-sweetcorn-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:11:50.622Z"
+}
