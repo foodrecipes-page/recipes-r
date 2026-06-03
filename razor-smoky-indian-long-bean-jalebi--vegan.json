@@ -1,0 +1,84 @@
+{
+  "slug": "razor-smoky-indian-long-bean-jalebi--vegan",
+  "title": "Smoky Indian Bean Stew",
+  "description": "A hearty and flavorful stew made with smoky spices and tender beans. Perfect for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long bean",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tsp, smoked paprika"
+    },
+    {
+      "name": "indian",
+      "amount": "1 tsp, garam masala"
+    },
+    {
+      "name": "jalebi",
+      "amount": "1/2 cup, crumbled (for garnish)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add cumin, coriander, and smoked paprika. Cook for 1 minute.",
+    "Add diced tomatoes and cook for 5 minutes.",
+    "Add sliced long bean and cook until tender.",
+    "Add garam masala and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Garnish with crumbled jalebi and serve hot.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/razor-smoky-indian-long-bean-jalebi--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:07:50.551Z"
+}
