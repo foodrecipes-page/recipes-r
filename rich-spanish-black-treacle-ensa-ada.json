@@ -1,0 +1,74 @@
+{
+  "slug": "rich-spanish-black-treacle-ensa-ada",
+  "title": "Spanish Treacle Cake",
+  "description": "A traditional Spanish-inspired cake made with rich treacle and a hint of black coffee.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black treacle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ada flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "ensa sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rich butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Black coffee",
+      "amount": "2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan.",
+    "In a medium bowl, whisk together flour and sugar.",
+    "In a large bowl, combine treacle, butter, eggs, and coffee.",
+    "Add the dry ingredients to the wet ingredients and mix until combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Let the cake cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "cake",
+    "treacle",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-black-treacle-ensa-ada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:29:26.214Z"
+}
