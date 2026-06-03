@@ -1,0 +1,101 @@
+{
+  "slug": "richly-spiced-norwegian-galangal-stew--mexican",
+  "title": "Spicy Norwegian Beef Stew",
+  "description": "A hearty, slow-cooked beef stew infused with the warmth of Mexican spices and the earthiness of Norwegian galangal.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian galangal",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Richly spiced chili powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef stew meat in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and add the onion to the pot, cooking until softened, about 5 minutes.",
+    "Add the Norwegian galangal and cook for an additional 2 minutes.",
+    "Add the chili powder and cook for 1 minute, stirring constantly.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the diced tomatoes, chicken broth, brown sugar, salt, and pepper, stirring to combine.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 2.5 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "mexican",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": "540",
+    "protein": "44g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-norwegian-galangal-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:48:17.075Z"
+}
