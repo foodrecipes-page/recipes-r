@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-venezuelan-pistachio-stew",
+  "title": "Venezuelan Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, perfect for a cold evening. This recipe is a variation with added roasted and pistachio notes.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan sofrito",
+      "amount": "2 tablespoons",
+      "notes": "available at most Latin American grocery stores"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio pesto",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add sofrito and cook for 1-2 minutes.",
+    "Add onion and red bell pepper. Cook until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add sweet potatoes, tomatoes, broth, and pesto. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "latin-american",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-venezuelan-pistachio-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:02:43.432Z"
+}
