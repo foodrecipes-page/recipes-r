@@ -1,0 +1,64 @@
+{
+  "slug": "roasted-greek-blueberry-crumble",
+  "title": "Blueberry Crumble Greek Yogurt Parfait",
+  "description": "A delicious and healthy breakfast parfait made with fresh blueberries, crunchy crumble topping, and creamy Greek yogurt.",
+  "cuisine": "American",
+  "diet": [
+    "healthy",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the blueberries and honey.",
+    "In a separate bowl, layer the Greek yogurt and crumble topping.",
+    "Add the blueberry mixture on top of the yogurt layer.",
+    "Drizzle with vanilla extract.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "parfait",
+    "blueberry",
+    "greek-yogurt",
+    "crumble",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-greek-blueberry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:27:59.313Z"
+}
