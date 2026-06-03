@@ -1,0 +1,91 @@
+{
+  "slug": "romantic-vietnamese-vegetables-nem-nuong",
+  "title": "Vietnamese Grilled Pork Nem",
+  "description": "A classic Vietnamese dish, nem nuong is a popular snack or appetizer. This grilled pork nem is a twist on the original recipe, with a blend of herbs and spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "shallots",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "rice paper",
+      "amount": "10 sheets",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for brushing",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare the lemongrass by bruising it with the back of a knife.",
+    "In a blender or food processor, combine fish sauce, lime juice, garlic, shallots, and lemongrass. Blend until smooth.",
+    "Add the blended mixture to the pork shoulder and marinate for at least 30 minutes.",
+    "Preheat the grill to medium-high heat. Remove the pork from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, prepare the nuong by brushing the rice paper with vegetable oil.",
+    "Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Assemble the nem by placing a few slices of pork onto a rice paper sheet, followed by a few mint leaves. Fold the bottom half of the rice paper up over the filling, then fold in the sides and roll up the nem to form a tight cylinder.",
+    "Serve the nem immediately and enjoy!",
+    "Note: For a vegetarian version, substitute the pork with grilled portobello mushrooms or eggplant.",
+    "Note: For a vegan version, substitute the fish sauce with a vegan alternative and omit the honey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "nem",
+    "nuong"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-vietnamese-vegetables-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:23:52.058Z"
+}
