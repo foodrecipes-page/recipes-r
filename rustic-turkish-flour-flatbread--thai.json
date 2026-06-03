@@ -1,0 +1,77 @@
+{
+  "slug": "rustic-turkish-flour-flatbread--thai",
+  "title": "Thai Flatbread with Rustic Spices",
+  "description": "A flavorful flatbread recipe with rustic spices and a Thai twist. Perfect for a quick snack or as a side dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rustic Spices",
+      "amount": "2 tsp",
+      "notes": "Combine cumin, coriander, and paprika for a unique blend."
+    },
+    {
+      "name": "Turkish Flour",
+      "amount": "2 cups",
+      "notes": "Use all-purpose flour as a substitute if Turkish flour is not available."
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Use store-bought or homemade flatbread for this recipe."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tbsp",
+      "notes": "Use for brushing flatbread before baking."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional topping for added crunch and flavor."
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Add heat to your flatbread with a pinch of chili flakes."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Combine rustic spices and brush flatbread with coconut oil.",
+    "Sprinkle sesame seeds and chili flakes on top of the flatbread.",
+    "Bake for 10-12 minutes or until crispy and golden brown.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "flatbread",
+    "snack",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-turkish-flour-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:39:37.497Z"
+}
