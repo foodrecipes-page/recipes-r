@@ -1,0 +1,102 @@
+{
+  "slug": "rich-smoky-dutch-sweetcorn-stew--thai",
+  "title": "Thai Sweetcorn and Smoky Stew",
+  "description": "A flavorful and spicy Thai-inspired stew made with sweetcorn, smoky Dutch sausage, and rich flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked Dutch sausage",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "sweetcorn",
+      "amount": "300g",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "for added heat"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "handful",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the sweetcorn, coconut milk, fish sauce (if using), and sugar.",
+    "Bring the stew to a simmer and cook for 10-12 minutes, until the sweetcorn is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped Thai basil and serve hot.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "sweetcorn",
+    "smoky-sausage",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-dutch-sweetcorn-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:35:46.176Z"
+}
