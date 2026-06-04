@@ -1,0 +1,98 @@
+{
+  "slug": "rich-zesty-braised-dutch-oxtail-stew--thai",
+  "title": "Thai Oxtail Braised Stew",
+  "description": "A rich and zesty Thai-inspired oxtail stew made with braised oxtail and a blend of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the oxtail in batches, about 5 minutes per batch.",
+    "Remove the browned oxtail from the pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the curry paste and cook for 1 minute.",
+    "Add the fish sauce and sugar and stir to combine.",
+    "Add the browned oxtail back to the pot and pour in the broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the meat is tender.",
+    "Stir in the coconut milk and cook for an additional 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with Thai basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thaibraisedstew",
+    "oxtail",
+    "thaicurry",
+    "beefstew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-zesty-braised-dutch-oxtail-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:51:38.878Z"
+}
