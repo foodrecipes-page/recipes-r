@@ -1552,15 +1552,13 @@
   },
   {
     "slug": "reduced-algerian-lentil-stew-bowl",
-    "title": "Reduced Algerian Lentil Stew Bowl",
+    "title": "Lentil and Algerian Stew Bowl",
     "tags": [
-      "algerian",
-      "comfort-food",
-      "lentils",
-      "one-pot",
-      "vegan-friendly"
+      "lentil",
+      "stew",
+      "north-african"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "r"
   },
@@ -3454,17 +3452,16 @@
   },
   {
     "slug": "rich-briny-greek-fish-galaktoboureko",
-    "title": "Rich Briny Greek Fish Galaktoboureko",
+    "title": "Galaktoboureko with Grilled Fish",
     "tags": [
-      "briny-flavors",
-      "fish-recipes",
-      "greek-cuisine",
-      "pescatarian-friendly",
-      "phyllo-dough",
-      "terracotta-cooking"
+      "greek",
+      "fish",
+      "dessert",
+      "grilled",
+      "galaktoboureko"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -9967,16 +9964,15 @@
   },
   {
     "slug": "rich-smoky-ethiopian-beef-kitfo",
-    "title": "Rich Smoky Ethiopian Beef Kitfo",
+    "title": "Ethiopian Kitfo with Rich Smoky Spice Blend",
     "tags": [
-      "exotic",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "special-occasion"
+      "ethiopian",
+      "beef",
+      "spicy",
+      "raw-meat"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -21392,6 +21388,33 @@
       "pistachio-crusted"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-garlicky-turkish-cheese-kunefe--indian",
+    "title": "Turkish-Style Kunefe with a Twist",
+    "tags": [
+      "indian",
+      "turkish",
+      "dessert",
+      "cheese",
+      "kunefe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-french-tomato-tart--thai",
+    "title": "Thai Tartine",
+    "tags": [
+      "thai",
+      "breakfast",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "r"
   }
