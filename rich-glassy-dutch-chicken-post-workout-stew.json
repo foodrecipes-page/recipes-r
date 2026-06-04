@@ -1,0 +1,81 @@
+{
+  "slug": "rich-glassy-dutch-chicken-post-workout-stew",
+  "title": "Rich Chicken Stew",
+  "description": "A hearty and comforting stew made with chicken, rich flavors, and a hint of glassy texture. Perfect for a post-workout meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Dutch stew mix",
+      "amount": "1 packet",
+      "notes": "Follow package instructions"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "As needed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium heat.",
+    "Add chicken to the pot and cook until browned, about 5-6 minutes.",
+    "Add onion, carrots, and potatoes to the pot. Cook for 5 minutes, stirring occasionally.",
+    "Add stew mix, chicken broth, and water to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-glassy-dutch-chicken-post-workout-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:17:32.298Z"
+}
