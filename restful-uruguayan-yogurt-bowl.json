@@ -1,0 +1,61 @@
+{
+  "slug": "restful-uruguayan-yogurt-bowl",
+  "title": "Uruguayan Yogurt Bowl",
+  "description": "A delicious and easy-to-make Uruguayan-inspired yogurt bowl recipe. Perfect for a light breakfast or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granola",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mixed berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Greek yogurt and honey. Stir until well combined.",
+    "Add the granola, mixed berries, and chopped almonds to the bowl.",
+    "Stir gently to combine and top with additional berries if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "yogurt",
+    "fruit",
+    "granola"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/restful-uruguayan-yogurt-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:31:22.791Z"
+}
