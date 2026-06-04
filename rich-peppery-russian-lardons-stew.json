@@ -1,0 +1,85 @@
+{
+  "slug": "rich-peppery-russian-lardons-stew",
+  "title": "Rich French Stew",
+  "description": "A hearty, comforting stew made with tender beef, rich flavors, and a hint of peppercorn. This dish is perfect for a chilly evening.",
+  "cuisine": "French",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Russian Peppercorns",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lardons (Bacon)",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat the lardons in a Dutch oven over medium heat until crispy.",
+    "2. Remove the lardons and set aside.",
+    "3. Add the beef to the pot and cook until browned on all sides.",
+    "4. Add the onion, carrot, Russian peppercorns, thyme, and salt to the pot.",
+    "5. Cook for 5 minutes or until the vegetables are tender.",
+    "6. Add the red wine to the pot, stirring to deglaze.",
+    "7. Add the beef broth, tomato paste, and browned lardons to the pot.",
+    "8. Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "9. Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peppery-russian-lardons-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:32:39.778Z"
+}
