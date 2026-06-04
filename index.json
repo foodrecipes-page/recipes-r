@@ -5761,17 +5761,15 @@
   },
   {
     "slug": "rich-fluffy-slovakian-pork-dumplings",
-    "title": "Rich Fluffy Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "hearty",
-      "homemade",
-      "pork-dishes",
-      "traditional"
+      "slovakian",
+      "dumplings",
+      "pork",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -21348,6 +21346,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 10,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-smoky-dutch-sweetcorn-stew--thai",
+    "title": "Thai Sweetcorn and Smoky Stew",
+    "tags": [
+      "thai",
+      "sweetcorn",
+      "smoky-sausage",
+      "stew",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
