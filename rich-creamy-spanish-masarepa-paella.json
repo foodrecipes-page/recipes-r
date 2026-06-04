@@ -1,0 +1,79 @@
+{
+  "slug": "rich-creamy-spanish-masarepa-paella",
+  "title": "Spanish Masarepa Paella",
+  "description": "A traditional Spanish dish made with masarepa, rich and creamy flavors. Perfect for a hearty dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Masarepa",
+      "amount": "2 cups",
+      "notes": "preferably day-old masarepa"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 (14 oz) can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the tomato and cook for 5 minutes.",
+    "Add the artichoke hearts, masarepa, and peas. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Uncover and cook for an additional 5 minutes, or until the liquid has been absorbed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "masarepa",
+    "spanish",
+    "paella",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-spanish-masarepa-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:23:27.339Z"
+}
