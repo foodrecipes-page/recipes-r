@@ -1,0 +1,92 @@
+{
+  "slug": "rich-zesty-braised-dutch-oxtail-stew",
+  "title": "Braised Oxtail Stew",
+  "description": "A hearty, comforting stew made with tender oxtail and rich flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "braising liquid",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown oxtail on all sides, then set aside.",
+    "Add more oil if necessary, then sauté onion, carrot, and celery until softened.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Gradually add braising liquid, scraping up browned bits from the bottom of the pan.",
+    "Return oxtail to the pot, cover, and bring to a boil.",
+    "Transfer pot to the oven and braise for 2 1/2 hours, or until oxtail is tender.",
+    "Season with salt, pepper, and bay leaves.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 39
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-zesty-braised-dutch-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:21:21.518Z"
+}
