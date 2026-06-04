@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-tunisian-parma-ham-tagine",
+  "title": "Tunisian Ham and Roasted Veggie Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish featuring roasted vegetables, crispy ham, and a hint of Tunisian spices.",
+  "cuisine": "North African",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Red Bell Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tunisian Olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Parma Ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the roasted red bell peppers into strips.",
+    "Sauté the red onion in olive oil until softened.",
+    "Add the Tunisian olives, Parma ham, and spices to the pan.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Transfer the mixture to a baking dish and top with roasted red bell pepper strips.",
+    "Bake for 15-20 minutes, or until the top is lightly browned.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-tunisian-parma-ham-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:56:06.759Z"
+}
