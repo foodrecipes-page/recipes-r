@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-french-tomato-tart--thai",
+  "title": "Thai Tartine",
+  "description": "A refreshing Thai-inspired dish combining flavors of roasted vegetables and tart ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Roasted eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Tart cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red chili sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "for brushing bread"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the French bread into 1-inch thick slices and toast until lightly browned.",
+    "3. In a large bowl, combine roasted eggplant, diced tomato, and halved cherry tomatoes.",
+    "4. In a small bowl, whisk together Thai red chili sauce and a pinch of salt.",
+    "5. Brush the toasted bread slices with coconut oil and top with the eggplant mixture.",
+    "6. Drizzle the chili sauce mixture over the top and garnish with chopped cilantro.",
+    "7. Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "breakfast",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-french-tomato-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:27:22.975Z"
+}
