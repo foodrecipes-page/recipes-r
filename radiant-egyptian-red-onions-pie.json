@@ -1,0 +1,84 @@
+{
+  "slug": "radiant-egyptian-red-onions-pie",
+  "title": "Egyptian-Style Red Onion Pie",
+  "description": "A flavorful pie that combines the sweetness of red onions with the spices of Egypt. Perfect as a side dish or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egyptian onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "radiant pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the radiant pie crust and place in a pie dish.",
+    "3. In a pan, heat the olive oil over medium heat.",
+    "4. Add the thinly sliced Egyptian and red onions and cook until softened.",
+    "5. Sprinkle the cumin, salt, and black pepper over the onions.",
+    "6. Fill the pie crust with the onion mixture.",
+    "7. Brush the edges of the pie crust with olive oil.",
+    "8. Roll out the remaining pie crust and use to cover the pie.",
+    "9. Crimp the edges to seal the pie.",
+    "10. Cut a few slits in the top crust to allow steam to escape.",
+    "11. Bake for 40-45 minutes, or until the crust is golden brown.",
+    "12. Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "vegetarian",
+    "pie",
+    "onions",
+    "vegetarian-main-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-egyptian-red-onions-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:36:48.706Z"
+}
