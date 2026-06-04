@@ -1,0 +1,82 @@
+{
+  "slug": "rich-smoky-ethiopian-beef-kitfo",
+  "title": "Ethiopian Kitfo with Rich Smoky Spice Blend",
+  "description": "A traditional Ethiopian dish with a twist, featuring tender kitfo beef and a rich, smoky spice blend.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kitfo beef",
+      "amount": "1 pound",
+      "notes": "raw, finely chopped"
+    },
+    {
+      "name": "Ethiopian mitmita spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "niter kibbeh (Ethiopian clarified butter)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped kitfo beef and mitmita spice blend. Mix well to coat the beef evenly.",
+    "2. Heat the niter kibbeh in a large skillet over medium heat.",
+    "3. Add the chopped onion to the skillet and cook until translucent, about 5 minutes.",
+    "4. Add the garlic to the skillet and cook for 1 minute.",
+    "5. Add the beef mixture to the skillet and cook to desired level of doneness, about 3-5 minutes for medium-rare.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "spicy",
+    "raw-meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-ethiopian-beef-kitfo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:29:44.272Z"
+}
