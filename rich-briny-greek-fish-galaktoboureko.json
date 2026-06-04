@@ -1,0 +1,95 @@
+{
+  "slug": "rich-briny-greek-fish-galaktoboureko",
+  "title": "Galaktoboureko with Grilled Fish",
+  "description": "A twist on the classic Greek dessert, paired with a delicious grilled fish dish. The rich, creamy custard of the galaktoboureko is a perfect complement to the fresh flavors of the sea.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (such as sea bass or cod)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Galaktoboureko (store-bought or homemade)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Rich honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillets with salt, pepper, and a squeeze of lemon juice.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, prepare the galaktoboureko by cutting it into wedges.",
+    "Mix the Greek yogurt with chopped dill, garlic, and a pinch of salt and pepper.",
+    "Serve the grilled fish on top of the galaktoboureko wedges, with a dollop of yogurt sauce.",
+    "Drizzle with rich honey and serve immediately.",
+    "Repeat with the remaining fish and galaktoboureko."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "fish",
+    "dessert",
+    "grilled",
+    "galaktoboureko"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-briny-greek-fish-galaktoboureko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:15:38.218Z"
+}
