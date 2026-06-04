@@ -1,0 +1,81 @@
+{
+  "slug": "richly-garlicky-turkish-cheese-kunefe--indian",
+  "title": "Turkish-Style Kunefe with a Twist",
+  "description": "A fusion of Turkish and Indian flavors in this rich kunefe dessert, topped with a garlicky naan crust.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kunefe",
+      "amount": "250g"
+    },
+    {
+      "name": "richly flavored cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "garlicky naan dough",
+      "amount": "200g"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "100g"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rosewater",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the naan dough to a thickness of 1/4 inch.",
+    "3. Transfer the dough to a baking sheet lined with parchment paper.",
+    "4. Mix the cheese, cardamom, and rosewater in a bowl.",
+    "5. Spread the cheese mixture over the naan dough, leaving a 1-inch border.",
+    "6. Top with kunefe and turkish delight.",
+    "7. Bake for 20-25 minutes, or until the crust is golden brown.",
+    "8. Remove from oven and brush with ghee and melted butter.",
+    "9. Sprinkle sugar over the top and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkish",
+    "dessert",
+    "cheese",
+    "kunefe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-garlicky-turkish-cheese-kunefe--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:09:22.364Z"
+}
