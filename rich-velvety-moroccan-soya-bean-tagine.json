@@ -1,0 +1,94 @@
+{
+  "slug": "rich-velvety-moroccan-soya-bean-tagine",
+  "title": "Moroccan Tagine Stew",
+  "description": "A rich and flavorful stew originating from Morocco, typically cooked in a clay pot. This version uses soya and bean to make it a vegetarian-friendly option.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "ground spices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the tomato and cook for 2 minutes.",
+    "Add the soya, bean, tagine, salt, and pepper. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "soya",
+    "bean",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-moroccan-soya-bean-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:14:44.566Z"
+}
