@@ -1,0 +1,70 @@
+{
+  "slug": "red-pepper-flake-roasted-greek-lamb-casserole",
+  "title": "Greek Lamb Casserole",
+  "description": "A hearty and flavorful casserole made with lamb, roasted red peppers, and a hint of Greek spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Greek Seasoning",
+      "amount": "1 tsp",
+      "notes": "mix of oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Red Pepper Flake",
+      "amount": "1/2 tsp",
+      "notes": "optional for extra heat"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "optional for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground lamb in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced roasted red peppers, Greek seasoning, and red pepper flake (if using) to the skillet and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine the cooked lamb mixture, 1 cup of cooked rice (unspecified, but about 200g), and 1/4 cup of crumbled feta cheese (unspecified).",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "If using Greek yogurt, dollop the top of the casserole with it.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned and the casserole is hot and bubbly.",
+    "Serve hot, garnished with additional Greek yogurt and red pepper flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "lamb-recipes",
+    "casserole-recipes",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-pepper-flake-roasted-greek-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:05:49.207Z"
+}
