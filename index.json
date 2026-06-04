@@ -4352,16 +4352,15 @@
   },
   {
     "slug": "rich-creamy-spanish-masarepa-paella",
-    "title": "Rich Spanish Masarepa Paella",
+    "title": "Spanish Masarepa Paella",
     "tags": [
-      "gluten-free",
-      "keto",
-      "one-pan",
-      "paella",
+      "masarepa",
       "spanish",
-      "weeknight"
+      "paella",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "spanish",
+    "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "r"
   },
@@ -7084,14 +7083,15 @@
   },
   {
     "slug": "rich-mediterranean-pistachio-stir-fry",
-    "title": "Rich Mediterranean Pistachio Stir-fry",
+    "title": "Pan-Seared Mediterranean Chicken",
     "tags": [
-      "rich-mediterranean-dish",
-      "pistachio-stir-fry",
-      "egg-free-friendly"
+      "chicken",
+      "mediterranean",
+      "pistachio",
+      "easy-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -9632,16 +9632,14 @@
   },
   {
     "slug": "rich-silky-norwegian-sardines-poke",
-    "title": "Rich Silky Norwegian Sardines Poke",
+    "title": "Sardine Poke Bowl",
     "tags": [
-      "easy-servings",
-      "lacto-vegetarian",
-      "nordic",
       "poke",
       "sardines",
-      "weeknight"
+      "japanese",
+      "mediterranean"
     ],
-    "cuisine": "norwegian",
+    "cuisine": "Japanese",
     "totalTimeMin": 10,
     "shard": "r"
   },
@@ -11774,13 +11772,11 @@
   },
   {
     "slug": "rich-zesty-braised-dutch-oxtail-stew",
-    "title": "Rich Zesty Braised Dutch Oxtail Stew",
+    "title": "Braised Oxtail Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "high-protein",
-      "slow-cooker",
-      "sunday-dinner"
+      "stew",
+      "comfort food"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 180,
@@ -16586,17 +16582,14 @@
   },
   {
     "slug": "roasted-sweet-caramelized-malaysian-bellflower-root-doraji-satay",
-    "title": "Roasted Sweet Caramelized Malaysian Bellflower-Root-Doraji Satay",
+    "title": "Malaysian Doraji Satay",
     "tags": [
-      "breakfast",
-      "brunch",
-      "gluten-free",
-      "one-pan",
-      "quick-and-easy",
-      "vegan-friendly"
+      "malaysian-cuisine",
+      "vegetarian-dish",
+      "street-food"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -20325,14 +20318,14 @@
   },
   {
     "slug": "rum-n-crumbles",
-    "title": "Appleton Rum'n'Crumbles",
+    "title": "Rum Crumble Cake",
     "tags": [
-      "rumnandcrumbles",
-      "canadiandesert",
-      "appellationwhitencane"
+      "cake",
+      "rum",
+      "crumble"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
