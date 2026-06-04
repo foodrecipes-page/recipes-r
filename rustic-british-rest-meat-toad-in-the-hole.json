@@ -1,0 +1,78 @@
+{
+  "slug": "rustic-british-rest-meat-toad-in-the-hole",
+  "title": "Toad in the Hole",
+  "description": "A traditional British dish consisting of sausages cooked in a Yorkshire pudding batter.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Pork sausages, preferably British bangers"
+    },
+    {
+      "name": "Beef drippings or oil",
+      "amount": "2 tablespoons",
+      "notes": "For greasing the pan"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For the Yorkshire pudding batter"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Beaten for the Yorkshire pudding batter"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "For the Yorkshire pudding batter"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Heat the beef drippings or oil in a 12-cup muffin tin or a 9x13-inch baking dish over medium-high heat.",
+    "Add the sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the pan and set aside.",
+    "In a large bowl, whisk together the flour, eggs, milk, salt, and pepper until smooth.",
+    "Pour the batter over the sausages in the pan.",
+    "Return the sausages to the pan and place in the oven.",
+    "Bake for 25-30 minutes, or until the Yorkshire pudding is golden brown and puffed.",
+    "Serve hot, garnished with chopped onion if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "sausages",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-british-rest-meat-toad-in-the-hole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:49:50.969Z"
+}
