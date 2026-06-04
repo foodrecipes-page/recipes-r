@@ -1,0 +1,94 @@
+{
+  "slug": "rich-mediterranean-pistachio-stir-fry--chinese",
+  "title": "Pistachio Stir Fry",
+  "description": "A quick and flavorful Chinese stir fry dish made with pistachio-crusted chicken, mixed vegetables, and a sweet soy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "2 tablespoons",
+      "notes": "for crust"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "sweet soy sauce"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken to the wok and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "Add another tablespoon of vegetable oil to the wok and stir-fry the bell pepper, broccoli, and carrots until tender-crisp, about 3-4 minutes.",
+    "Add the garlic and ginger to the wok and stir-fry for 1 minute.",
+    "Add the cooked chicken back into the wok and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes, until the chicken is coated in the sauce.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pistachio-crusted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-pistachio-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:59:46.609Z"
+}
