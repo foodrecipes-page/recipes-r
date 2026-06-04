@@ -1,0 +1,86 @@
+{
+  "slug": "rich-savory-ukrainian-mushroom-dumplings",
+  "title": "Borscht with Mushroom Dumplings",
+  "description": "A hearty Ukrainian soup made with rich beets, savory beef broth, and topped with fluffy mushroom dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling dough",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring beef broth to a boil in a large pot.",
+    "Add beets, onions, carrots, and tomatoes to the pot.",
+    "Reduce heat to medium-low and simmer for 20 minutes.",
+    "In a separate bowl, mix together dumpling dough and flour.",
+    "Knead dough for 5 minutes until smooth.",
+    "Divide dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk.",
+    "Heat a non-stick skillet over medium heat.",
+    "Add a small amount of oil to the skillet and cook dumplings for 2-3 minutes on each side.",
+    "Add cooked dumplings to the pot with the borscht.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "dumplings",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-ukrainian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:02:25.677Z"
+}
