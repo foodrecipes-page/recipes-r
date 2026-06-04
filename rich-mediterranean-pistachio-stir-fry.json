@@ -1,0 +1,78 @@
+{
+  "slug": "rich-mediterranean-pistachio-stir-fry",
+  "title": "Pan-Seared Mediterranean Chicken",
+  "description": "A flavorful and healthy Mediterranean-inspired dish made with pan-seared chicken, rich and savory sauce, and topped with crunchy pistachios.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Gluten-free",
+    "Low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean stir-fry sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chicken breasts and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "5. Add the Mediterranean stir-fry sauce to the skillet and bring to a simmer.",
+    "6. Return the chicken to the skillet and coat with the sauce.",
+    "7. Sprinkle the pistachios over the top of the chicken and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "pistachio",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-pistachio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:22:29.872Z"
+}
