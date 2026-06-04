@@ -1,0 +1,70 @@
+{
+  "slug": "rum-n-crumbles",
+  "title": "Rum Crumble Cake",
+  "description": "Moist vanilla cake with a crunchy rum-infused crumble topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crumbles",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9x9-inch baking dish.",
+    "Mix the flour, sugar, and butter in a bowl until crumbly.",
+    "Beat in the eggs, rum, and vanilla extract.",
+    "Pour the batter into the prepared baking dish.",
+    "Mix the crumbles with a fork and sprinkle over the batter.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "rum",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rum-n-crumbles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:30:47.741Z"
+}
