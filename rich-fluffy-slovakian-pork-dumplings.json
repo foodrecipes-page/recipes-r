@@ -1,0 +1,82 @@
+{
+  "slug": "rich-fluffy-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring pork and fluffy dumplings, perfect for a cold winter evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based",
+    "high-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rich, fluffy pastry dough",
+      "amount": "1 package",
+      "notes": "available at most supermarkets"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. In a large mixing bowl, combine the pork shoulder, flour, eggs, sour cream, salt, and black pepper. Mix well.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. On a lightly floured surface, roll out the pastry dough to a thickness of about 3mm (1/8 inch).",
+    "5. Cut the dough into squares of about 10cm (4 inches) per side.",
+    "6. Place a tablespoon of the pork mixture in the center of each square.",
+    "7. Fold the dough over the filling, pressing the edges together to seal the dumpling.",
+    "8. Place the dumplings on a baking sheet lined with parchment paper.",
+    "9. Brush the tops of the dumplings with a little bit of water and sprinkle with additional flour.",
+    "10. Bake the dumplings in the preheated oven for 25-30 minutes, or until golden brown.",
+    "11. Serve hot with your choice of sides, such as a simple green salad or a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-fluffy-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:31:50.540Z"
+}
