@@ -1,0 +1,96 @@
+{
+  "slug": "rich-chewy-malaysian-noodles-biryani",
+  "title": "Malaysian Rich Chicken Biryani",
+  "description": "A delicious and flavorful biryani dish made with chicken and rich noodles, inspired by Malaysian cuisine.",
+  "cuisine": "malaysian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "rich noodles",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add grated ginger and sauté for another minute.",
+    "Add chicken breast and cook until browned.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "Add coconut milk and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add rich noodles and mix well.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "noodles",
+    "biryan",
+    "malaysian",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-malaysian-noodles-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:20:43.485Z"
+}
