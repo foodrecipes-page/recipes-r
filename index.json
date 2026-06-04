@@ -1443,17 +1443,15 @@
   },
   {
     "slug": "red-pepper-flake-roasted-greek-lamb-casserole",
-    "title": "red pepper flake roasted greek lamb casserole",
+    "title": "Greek Lamb Casserole",
     "tags": [
-      "greek",
-      "high-protein",
-      "lamb",
-      "one-pan",
-      "red-pepper-flakes",
-      "weeknight"
+      "greek-cuisine",
+      "lamb-recipes",
+      "casserole-recipes",
+      "dinner-ideas"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 75,
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -2662,16 +2660,16 @@
   },
   {
     "slug": "restful-uruguayan-yogurt-bowl",
-    "title": "restful uruguayan yogurt bowl",
+    "title": "Uruguayan Yogurt Bowl",
     "tags": [
       "breakfast",
-      "easy",
       "snack",
-      "sugar-free",
-      "uruguayan"
+      "yogurt",
+      "fruit",
+      "granola"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 5,
     "shard": "r"
   },
   {
@@ -10617,17 +10615,15 @@
   },
   {
     "slug": "rich-sweet-kenyan-apricot-tagine",
-    "title": "Rich Sweet Kenyan Apricot Tagine",
+    "title": "Kenyan Apricot Tagine",
     "tags": [
-      "comfort-food",
-      "fruity",
-      "north-african",
-      "one-pot",
-      "spicy",
-      "vegan-friendly"
+      "apricot",
+      "kenyan",
+      "stew",
+      "couscous"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 130,
     "shard": "r"
   },
   {
@@ -20424,17 +20420,14 @@
   },
   {
     "slug": "rustic-british-rest-meat-toad-in-the-hole",
-    "title": "Rustic British Rest Meat Toad In The Hole",
+    "title": "Toad in the Hole",
     "tags": [
-      "british-classics",
-      "comfort-food",
-      "hearty-meals",
-      "homemade",
-      "meat-based",
-      "traditional"
+      "british",
+      "sausages",
+      "yorkshire-pudding"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21416,6 +21409,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-red-malaysian-chicken-curry--chinese",
+    "title": "Malaysian Chicken Curry",
+    "tags": [
+      "chinese",
+      "curry",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
