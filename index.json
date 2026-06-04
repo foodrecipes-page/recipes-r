@@ -11455,17 +11455,15 @@
   },
   {
     "slug": "rich-velvety-moroccan-soya-bean-tagine",
-    "title": "Rich Velvety Moroccan Soya Bean Tagine",
+    "title": "Moroccan Tagine Stew",
     "tags": [
-      "aromatic",
-      "brunch",
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "vegetarian"
+      "soya",
+      "bean",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -14945,17 +14943,16 @@
   },
   {
     "slug": "roasted-french-tomato-tart",
-    "title": "Roasted French Tomato Tart",
+    "title": "French Tart with Roasted Tomatoes",
     "tags": [
-      "cheese",
       "french",
-      "herbs",
       "tart",
-      "vegetarian",
-      "weeknight"
+      "roasted",
+      "tomatoes",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 70,
     "shard": "r"
   },
   {
@@ -15827,16 +15824,16 @@
   },
   {
     "slug": "roasted-pillowy-jamaican-soya-grill",
-    "title": "Roasted Pillowy Jamaican Soya Grill",
+    "title": "Jamaican Jerk Chicken with Roasted Vegetables",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "romantic",
+      "jamaican",
+      "grill",
       "soya",
-      "vegan"
+      "roasted",
+      "poultry"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
@@ -21367,6 +21364,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-tunisian-parma-ham-tagine--gluten-free",
+    "title": "Tunisian-Style Ham Tagine",
+    "tags": [
+      "north-african",
+      "gluten-free",
+      "lunch",
+      "dinner",
+      "meat"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
