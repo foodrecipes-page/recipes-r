@@ -1,0 +1,93 @@
+{
+  "slug": "roasted-quick-chinese-asparagus-bowl",
+  "title": "Quick Asparagus Bowl",
+  "description": "A simple and healthy bowl filled with roasted asparagus, crispy tofu, and a drizzle of soy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for roasting"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Line a baking sheet with parchment paper.",
+    "Toss the asparagus with olive oil, garlic, and ginger on the prepared baking sheet.",
+    "Roast in the preheated oven for 12-15 minutes, or until tender.",
+    "While the asparagus is roasting, cook the tofu in a non-stick pan over medium-high heat.",
+    "Once the tofu is golden brown, remove it from the pan and cut it into small pieces.",
+    "In a small bowl, whisk together soy sauce and a pinch of salt and pepper.",
+    "To assemble the bowls, place a portion of the roasted asparagus on the bottom.",
+    "Add the cooked tofu on top of the asparagus.",
+    "Drizzle the soy sauce mixture over the tofu.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "tofu",
+    "bowl",
+    "chinese",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-quick-chinese-asparagus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:39:10.324Z"
+}
