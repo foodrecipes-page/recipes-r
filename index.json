@@ -3883,16 +3883,16 @@
   },
   {
     "slug": "rich-chewy-malaysian-noodles-biryani",
-    "title": "rich chewy malaysian noodles biryani",
+    "title": "Malaysian Rich Chicken Biryani",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "noodles",
+      "biryan",
+      "malaysian",
+      "coconut-milk"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -9282,17 +9282,14 @@
   },
   {
     "slug": "rich-savory-ukrainian-mushroom-dumplings",
-    "title": "Rich Savory Ukrainian Mushroom Dumplings",
+    "title": "Borscht with Mushroom Dumplings",
     "tags": [
-      "comfort-food",
-      "homemade-dumplings",
-      "mushroom-based",
-      "snack-ideas",
-      "ukrainian-cuisine",
-      "vegan-friendly"
+      "borscht",
+      "dumplings",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "r"
   },
   {
@@ -16771,17 +16768,14 @@
   },
   {
     "slug": "roasted-tunisian-parma-ham-tagine",
-    "title": "roasted tunisian parma ham tagine",
+    "title": "Tunisian Ham and Roasted Veggie Tagine",
     "tags": [
-      "ayurvedic",
-      "easy-weeknight",
-      "high-protein",
-      "one-pan",
-      "sattvic",
-      "weeknight"
+      "north-african",
+      "vegetarian",
+      "oven-roasted"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 75,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21360,6 +21354,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-light-spanish-beef-toast--vegetarian",
+    "title": "Spanish Toast with Rich Mushrooms",
+    "tags": [
+      "vegetarian",
+      "spanish",
+      "breakfast",
+      "mushrooms"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
