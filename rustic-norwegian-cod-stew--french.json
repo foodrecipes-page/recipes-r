@@ -1,0 +1,91 @@
+{
+  "slug": "rustic-norwegian-cod-stew--french",
+  "title": "Cod Stew Niçoise",
+  "description": "A hearty and flavorful French-inspired stew made with cod, rustic potatoes, and Norwegian ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Rustic potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, 1-inch cubes"
+    },
+    {
+      "name": "Norwegian smoked salmon",
+      "amount": "4 ounces",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the cod fillets and cook until browned, about 2-3 minutes per side.",
+    "Remove the cod from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the white wine to the pot and cook until reduced by half, about 2-3 minutes.",
+    "Add the fish stock, tomato paste, and smoked salmon to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the rustic potatoes to the pot and cook until they are tender, about 15-20 minutes.",
+    "Return the cod fillets to the pot and cook until heated through, about 2-3 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the cod stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish-stew",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-norwegian-cod-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:51:27.011Z"
+}
