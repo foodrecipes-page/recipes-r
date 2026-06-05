@@ -1,0 +1,82 @@
+{
+  "slug": "restful-uruguayan-yogurt-bowl--vegan",
+  "title": "Restful Uruguayan Morning Bowl",
+  "description": "A soothing vegan breakfast bowl inspired by the calmness of Uruguay, featuring a restful blend of fruits, yogurt, and granola.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chia seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Banana",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "6 oz",
+      "notes": "Make sure to choose a vegan yogurt alternative."
+    },
+    {
+      "name": "Granola",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together almond milk, chia seeds, and coconut sugar. Refrigerate for at least 30 minutes.",
+    "In a pan, toast oats over medium heat for 2-3 minutes until lightly browned.",
+    "In a separate bowl, mash banana using a fork until smooth.",
+    "In a separate bowl, mix together yogurt and sliced almonds.",
+    "To assemble the bowl, layer the toasted oats, banana mash, yogurt mixture, and granola.",
+    "Garnish with additional sliced almonds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "breakfast",
+    "vegan",
+    "granola"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/restful-uruguayan-yogurt-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:49:12.428Z"
+}
