@@ -1,0 +1,92 @@
+{
+  "slug": "rustic-norwegian-cod-stew--german",
+  "title": "German Cod Stew",
+  "description": "A hearty and flavorful stew originating from Norway, adapted to traditional German cuisine. Cod is cooked to perfection in a rich broth with rustic potatoes and vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Rustic potatoes",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the beer in a large pan over medium heat until it starts to simmer.",
+    "Add the onions, carrots, and celery, and cook until they are softened.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and add the cod fillets. Cook for 8-10 minutes or until they are cooked through.",
+    "Add the rustic potatoes to the pan and cook for an additional 10-12 minutes or until they are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-norwegian-cod-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:30:15.029Z"
+}
