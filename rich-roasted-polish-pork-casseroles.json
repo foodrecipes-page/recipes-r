@@ -1,0 +1,94 @@
+{
+  "slug": "rich-roasted-polish-pork-casseroles",
+  "title": "Traditional Polish Pork Casserole",
+  "description": "A hearty and comforting Polish-inspired casserole filled with rich flavors of roasted pork. Perfect for a cozy dinner night.",
+  "cuisine": "polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Pork Shoulder",
+      "amount": "1 pound",
+      "notes": "Shredded or diced"
+    },
+    {
+      "name": "Rich Mushroom Gravy",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "Sautéed"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Diced Potatoes",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening gravy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté diced carrots and potatoes (if using) until tender.",
+    "In a separate skillet, cook Polish sausage until browned, breaking apart with a spoon.",
+    "Add caramelized onions, roasted pork, and mushroom gravy to the sausage skillet. Stir to combine.",
+    "Transfer the pork mixture to a 9x13 inch baking dish. Top with chopped parsley and garlic powder.",
+    "In a small bowl, whisk together flour and a splash of water to make a slurry. Pour the slurry into the pork mixture, stirring to combine.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "casserole",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-polish-pork-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:41:21.381Z"
+}
