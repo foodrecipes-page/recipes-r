@@ -1,0 +1,72 @@
+{
+  "slug": "rustic-venezuelan-corn-flatbread--keto",
+  "title": "Venezuelan-Style Flatbread with Rustic Corn",
+  "description": "A crispy and flavorful flatbread appetizer topped with rustic corn and a hint of Venezuelan spices, perfect for a keto diet.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Rustic Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and season with salt and black pepper.",
+    "Bake for 5-7 minutes, or until crispy.",
+    "Meanwhile, mix lime juice with rustic corn and season with salt and black pepper.",
+    "Top flatbread with corn mixture and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "keto",
+    "snack",
+    "corn",
+    "flatbread",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-venezuelan-corn-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:33:37.214Z"
+}
