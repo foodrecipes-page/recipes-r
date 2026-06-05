@@ -1,0 +1,78 @@
+{
+  "slug": "roasted-mediterranean-chinese-long-beans-gratin",
+  "title": "Roasted Mediterranean Bean Gratin",
+  "description": "A hearty, flavorful dish combining the tastes of the Mediterranean with the comfort of a gratin. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "1 cup, trimmed",
+      "notes": "any color"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2 cups, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Toss the long beans with 1 tablespoon of olive oil and season with salt and pepper. Roast for 10-12 minutes, or until tender.",
+    "While the beans are roasting, combine the sliced red peppers, minced garlic, tomato paste, and Mediterranean seasoning in a bowl.",
+    "In a greased 9x13 inch baking dish, arrange the roasted long beans in the bottom.",
+    "Pour the pepper mixture over the beans and top with crumbled feta cheese (if using).",
+    "Drizzle the remaining 1 tablespoon of olive oil over the top.",
+    "Bake for 15-20 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "bean",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-chinese-long-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:08:35.499Z"
+}
