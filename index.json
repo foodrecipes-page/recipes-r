@@ -8586,16 +8586,15 @@
   },
   {
     "slug": "rich-roasted-polish-pork-casseroles",
-    "title": "Rich Roasted Polish Pork Casseroles",
+    "title": "Traditional Polish Pork Casserole",
     "tags": [
-      "comfort-food",
-      "macrobiotic-friendly",
-      "one-pan",
-      "polish-cuisine",
-      "rich-and-hearty"
+      "polish",
+      "casserole",
+      "pork",
+      "comfort-food"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 190,
+    "cuisine": "polish",
+    "totalTimeMin": 75,
     "shard": "r"
   },
   {
@@ -9345,15 +9344,16 @@
   },
   {
     "slug": "rich-silky-adventurous-russian-hake-grill",
-    "title": "Rich Silky Adventurous Russian Hake Grill",
+    "title": "Pan-Seared Hake with Russian Flair",
     "tags": [
+      "russian",
       "hake",
-      "grilled",
-      "rich",
-      "slightly-adventurous"
+      "grill",
+      "dill",
+      "fish"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "cuisine": "russian",
+    "totalTimeMin": 18,
     "shard": "r"
   },
   {
@@ -14579,17 +14579,16 @@
   },
   {
     "slug": "roasted-dense-american-eggs-frittata",
-    "title": "Roasted Dense American Eggs Frittata",
+    "title": "American Frittata",
     "tags": [
+      "american",
       "breakfast",
       "brunch",
-      "gluten-free",
-      "high-protein",
-      "keto",
-      "one-pan"
+      "eggs",
+      "frittata"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -15164,17 +15163,14 @@
   },
   {
     "slug": "roasted-irish-padron-pepper-wrap",
-    "title": "Roasted Irish Padron Pepper Wrap",
+    "title": "Irish Roasted Pepper Wrap",
     "tags": [
-      "binchotan-grill",
-      "grilled-vegetables",
-      "irish-food",
-      "meal-prep",
-      "raw-friendly",
-      "vegetarian-friendly"
+      "pepper",
+      "wrap",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -21407,6 +21403,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-greek-blueberry-crumble--mexican",
+    "title": "Mexican Blueberry Crumble",
+    "tags": [
+      "mexican",
+      "blueberry",
+      "crumble",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-savory-mexican-chicken-tacos--thai",
+    "title": "Thai Chicken Tacos",
+    "tags": [
+      "thai-mexican-fusion",
+      "chicken",
+      "tacos",
+      "adventurous"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-savory-mexican-chicken-tacos--japanese",
+    "title": "Japanese Chicken Tacos",
+    "tags": [
+      "japanese",
+      "mexican",
+      "chicken",
+      "tacos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
