@@ -1,0 +1,92 @@
+{
+  "slug": "rustic-norwegian-cod-stew--indian",
+  "title": "Indian Cod Stew",
+  "description": "A flavorful and spicy stew made with cod and traditional Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Red curry powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian rustic bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium heat.",
+    "2. Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "3. Add cod fillets and cook until browned on both sides.",
+    "4. Add tomato puree, curry powder, turmeric powder, and salt. Stir to combine.",
+    "5. Pour in coconut milk and bring to a simmer.",
+    "6. Reduce heat to low and let cook for 10-12 minutes or until cod is cooked through.",
+    "7. Serve with Norwegian rustic bread for a delicious and filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-norwegian-cod-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:46:02.594Z"
+}
