@@ -1,0 +1,55 @@
+{
+  "slug": "roasted-irish-padron-pepper-wrap",
+  "title": "Irish Roasted Pepper Wrap",
+  "description": "A flavorful wrap filled with roasted Irish peppers, crispy Padron peppers, and served in a crispy roasted pepper wrap.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Irish Pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Padron Pepper",
+      "amount": "6",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Roasted Pepper Wrap",
+      "amount": "1",
+      "notes": "large wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Roast the Irish pepper in the oven for 30-40 minutes, turning occasionally.",
+    "3. Slice the roasted pepper into strips.",
+    "4. Pan-fry the Padron peppers in a little oil until crispy.",
+    "5. Assemble the wrap by spreading the roasted pepper strips on the wrap, followed by the crispy Padron peppers.",
+    "6. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "pepper",
+    "wrap",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-irish-padron-pepper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:57:31.235Z"
+}
