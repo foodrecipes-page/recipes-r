@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-american-sweet-potatoes-casserole",
+  "title": "American Sweet Potato Casserole",
+  "description": "A classic Southern dessert featuring roasted sweet potatoes, topped with a crunchy marshmallow-brown sugar topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Roasted Sweet Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Scrub and peel the roasted sweet potatoes, then mash in a large bowl.",
+    "In a separate bowl, whisk together the flour, granulated sugar, and salt.",
+    "Add the dry ingredients to the mashed sweet potatoes and stir until combined.",
+    "Beat in the eggs and vanilla extract until smooth.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "In a separate bowl, mix the marshmallows and brown sugar.",
+    "Sprinkle the marshmallow mixture evenly over the sweet potato mixture.",
+    "Dot the top with unsalted butter.",
+    "Bake for 25-30 minutes, or until the topping is golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "potatoes",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "50g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-american-sweet-potatoes-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:27:56.135Z"
+}
