@@ -1,0 +1,78 @@
+{
+  "slug": "roasted-greek-blueberry-crumble--mexican",
+  "title": "Mexican Blueberry Crumble",
+  "description": "A sweet and tangy twist on traditional Mexican desserts, featuring fresh blueberries in a crunchy crumble topping.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blueberries",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "roasted almond butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "homemade crumble topping"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together blueberries, brown sugar, greek yogurt, and salt.",
+    "In a separate bowl, whisk together gluten-free flour and roasted almond butter.",
+    "Add the crumble topping to the blueberry mixture and mix until well combined.",
+    "Transfer the mixture to a baking dish and top with additional crumble topping.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the filling is bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "blueberry",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-greek-blueberry-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:50:50.607Z"
+}
