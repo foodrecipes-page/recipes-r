@@ -1,0 +1,67 @@
+{
+  "slug": "rustic-venezuelan-corn-flatbread",
+  "title": "Arequipe de Queso con Arepas Venezolanas",
+  "description": "A delicious Venezuelan dessert made with melted cheese, arepas, and caramelized corn.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rustic Venezuelan corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Flatbread (Arepas)",
+      "amount": "4-6 arepas",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup",
+      "notes": "Venezuelan-style cheese or feta"
+    },
+    {
+      "name": "Cane sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "For caramelize corn"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Slice the arepas in half and toast until lightly browned.",
+    "3. In a saucepan, caramelize the corn with butter and sugar over medium heat.",
+    "4. In a separate saucepan, melt the queso fresco over low heat.",
+    "5. Assemble the arepas by spreading a layer of melted cheese on each half.",
+    "6. Top the cheese with caramelized corn and a sprinkle of sugar.",
+    "7. Place the arepas under the broiler for 2-3 minutes, until the cheese is bubbly and golden brown.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    "comfort-food",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-venezuelan-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:07:10.389Z"
+}
