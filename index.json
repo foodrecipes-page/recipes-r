@@ -19178,15 +19178,15 @@
   },
   {
     "slug": "rocket-date-night",
-    "title": "Rocket Date Night",
+    "title": "Night Salad with Rocket and Dates",
     "tags": [
-      "spicy",
-      "juicy",
-      "low-sodium",
-      "date-night"
+      "salad",
+      "italian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "International",
-    "totalTimeMin": 55,
+    "cuisine": "italian",
+    "totalTimeMin": 10,
     "shard": "r"
   },
   {
@@ -19966,16 +19966,15 @@
   },
   {
     "slug": "romantic-yeasty-tunisian-prawns-tagine",
-    "title": "Romantic Yeasty Tunisian Prawns Tagine",
+    "title": "Tunisian Prawn Tagine",
     "tags": [
-      "dinner-party",
-      "one-pan",
+      "tunisian",
       "romantic",
       "seafood",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21519,6 +21518,84 @@
     ],
     "cuisine": null,
     "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "reduced-algerian-lentil-stew-bowl--italian",
+    "title": "Lentil Stew Italian Style",
+    "tags": [
+      "italian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-norwegian-cod-stew--german",
+    "title": "German Cod Stew",
+    "tags": [
+      "german",
+      "fish-stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-venezuelan-corn-flatbread--keto",
+    "title": "Venezuelan-Style Flatbread with Rustic Corn",
+    "tags": [
+      "venezuelan",
+      "keto",
+      "snack",
+      "corn",
+      "flatbread",
+      "russian"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-pillowy-french-french-pilaf--japanese",
+    "title": "Japanese-Style Chicken and Pilaf Bowl",
+    "tags": [
+      "japanese",
+      "chicken",
+      "pilaf",
+      "vegetables"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-mediterranean-chinese-long-beans-gratin--vegan",
+    "title": "Vegan Mediterranean Bean Gratin",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-norwegian-cod-stew--french",
+    "title": "Cod Stew Niçoise",
+    "tags": [
+      "french",
+      "fish-stew",
+      "cod"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
     "shard": "r"
   }
 ]
