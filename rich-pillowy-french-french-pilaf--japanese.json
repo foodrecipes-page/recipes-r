@@ -1,0 +1,96 @@
+{
+  "slug": "rich-pillowy-french-french-pilaf--japanese",
+  "title": "Japanese-Style Chicken and Pilaf Bowl",
+  "description": "A flavorful and nutritious bowl filled with chicken, pilaf, and vegetables, inspired by Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "French pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "French pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trims and cut into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine soy sauce, rice vinegar, and sesame oil (if using). Bring to a boil over medium-high heat, then reduce to low heat and simmer for 5 minutes.",
+    "In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the carrots and green beans. Cook until the vegetables are tender-crisp, about 3-5 minutes.",
+    "Stir in the cooked pilaf and cook for an additional 2 minutes.",
+    "Return the chicken to the skillet and stir in the soy sauce mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken and pilaf mixture over a bed of additional pilaf, if desired.",
+    "Garnish with sesame seeds and sliced scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "pilaf",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-pillowy-french-french-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:03:49.548Z"
+}
