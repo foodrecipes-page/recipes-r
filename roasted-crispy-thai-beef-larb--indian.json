@@ -1,0 +1,94 @@
+{
+  "slug": "roasted-crispy-thai-beef-larb--indian",
+  "title": "Crispy Beef Larb Wrap",
+  "description": "A twist on traditional Indian street food, this crispy beef larb wrap combines the flavors of Thailand with the spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Larb Beef",
+      "amount": "1 cup",
+      "notes": "ground beef mixed with Thai spices"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced onions fried until crispy"
+    },
+    {
+      "name": "Roasted Cumin Wrap",
+      "amount": "4",
+      "notes": "roasted cumin flavored wrap"
+    },
+    {
+      "name": "Raita",
+      "amount": "1 cup",
+      "notes": "yogurt and cucumber sauce"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced Green Chilies",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Roasted Cumin Powder",
+      "amount": "2 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "Add the crispy onions and cook until crispy, about 3-4 minutes.",
+    "Add the larb beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the roasted cumin powder, garam masala, and salt, and stir to combine.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the beef mixture onto the bottom half of the wrap, followed by a dollop of raita, some chopped cilantro, and a few slices of green chili.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "indian",
+    "lunch",
+    "spicy",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crispy-thai-beef-larb--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:12:37.149Z"
+}
