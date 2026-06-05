@@ -1,62 +1,74 @@
 {
   "slug": "rich-german-carrot-soup",
   "title": "German Carrot Soup",
-  "description": "A hearty and comforting German-inspired carrot soup recipe.",
-  "cuisine": "German",
+  "description": "A hearty and comforting German-style carrot soup made with rich flavors and nutritious ingredients.",
+  "cuisine": "german",
   "diet": [
     "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "carrot",
-      "amount": "3 large",
-      "notes": ""
+      "name": "carrots",
+      "amount": "2 pounds",
+      "notes": "peeled and chopped"
     },
     {
-      "name": "rich",
-      "amount": "2 tablespoons butter",
-      "notes": ""
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
     },
     {
-      "name": "german",
-      "amount": "1 medium onion, chopped",
-      "notes": ""
+      "name": "rich beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
     },
     {
-      "name": "soup",
-      "amount": "4 cups vegetable broth",
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "german allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
       "notes": ""
     }
   ],
   "instructions": [
-    "Melt butter in a large pot over medium heat.",
-    "Add chopped onion and cook until softened, about 5 minutes.",
-    "Add chopped carrots and cook for an additional 5 minutes.",
-    "Pour in vegetable broth and bring to a boil.",
-    "Reduce heat and simmer until carrots are tender, about 20 minutes.",
-    "Blend soup until smooth.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "In a large pot, sauté the chopped onion in a little bit of oil until softened.",
+    "Add the chopped carrots and cook for 5 minutes.",
+    "Pour in the beef broth and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes or until the carrots are tender.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the pot to the stovetop and add the heavy cream (if using).",
+    "Stir in the ground allspice and season with black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh herbs, if desired."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
   "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "carrot soup",
-    "german soup",
+    "german",
+    "soup",
+    "carrot",
     "vegetarian"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 3,
-    "carbs": 25,
-    "fat": 7
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/rich-german-carrot-soup",
   "providerUsed": "groq",
-  "createdAt": "2026-05-31T17:10:40.830Z"
+  "createdAt": "2026-06-02T06:09:03.464Z"
 }
