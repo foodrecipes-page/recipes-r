@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-crispy-thai-beef-larb",
+  "title": "Thai Larb Beef Salad",
+  "description": "A spicy and sour Thai salad made with crispy fried beef, herbs, and chilies. Perfect for a quick and easy dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "250g",
+      "notes": "Use high-quality beef for best results"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Can be substituted with sweet basil"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds fresh flavor"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": "Use Thai chilies or substitute with jalapenos"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds crunch"
+    },
+    {
+      "name": "Crushed crispy fried shallots",
+      "amount": "2 tbsp",
+      "notes": "Can be substituted with regular shallots"
+    }
+  ],
+  "instructions": [
+    "Crisp-fry the beef in a pan with a little oil until golden brown. Set aside.",
+    "Chop the Thai basil, mint leaves, and chili peppers. Set aside.",
+    "In a large bowl, combine the crispy fried beef, chopped herbs, fish sauce, lime juice, and peanuts.",
+    "Toss everything together until well combined.",
+    "Transfer the salad to a serving platter.",
+    "Garnish with crushed crispy fried shallots and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "salad",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crispy-thai-beef-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:20:57.576Z"
+}
