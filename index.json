@@ -7792,16 +7792,16 @@
   },
   {
     "slug": "rich-pillowy-french-french-pilaf",
-    "title": "Rich Pillowy French Pilaf",
+    "title": "French Pilaf with Garlic and Herbs",
     "tags": [
-      "crowd-pleaser",
-      "dinner",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "french",
+      "pilaf",
+      "side-dish",
+      "aromatic",
+      "easy-bake"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -15467,17 +15467,15 @@
   },
   {
     "slug": "roasted-mediterranean-chinese-long-beans-gratin",
-    "title": "Roasted Mediterranean Chinese Long Beans Gratin",
+    "title": "Roasted Mediterranean Bean Gratin",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
       "mediterranean",
-      "one-pan",
-      "paleo",
-      "whole30"
+      "vegetarian",
+      "bean",
+      "gratin"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 37,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -16737,16 +16735,15 @@
   },
   {
     "slug": "roasted-tunisian-tomato-skewers",
-    "title": "Roasted Tunisian Tomato Skewers",
+    "title": "Tunisian Roasted Skewers with Tomato",
     "tags": [
-      "easy-snacks",
-      "gluten-free",
-      "roasted-vegetables",
-      "tunisian-cuisine",
-      "vegetarian"
+      "north-african",
+      "skewers",
+      "grilled",
+      "summer"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -20837,16 +20834,14 @@
   },
   {
     "slug": "rustic-venezuelan-corn-flatbread",
-    "title": "Rustic Venezuelan Corn Flatbread",
+    "title": "Arequipe de Queso con Arepas Venezolanas",
     "tags": [
-      "flatbread",
-      "homemade",
-      "latin-american",
-      "romantic-dinner",
-      "traditional"
+      "veggie",
+      "comfort-food",
+      "latin-american"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -21243,12 +21238,11 @@
   },
   {
     "slug": "rustic-turkish-flour-flatbread--thai",
-    "title": "Thai Flatbread with Rustic Spices",
+    "title": "Thai-Style Flatbread Wraps",
     "tags": [
-      "thaifood",
-      "flatbread",
-      "snack",
-      "easyrecipe"
+      "thai-cuisine",
+      "flatbread-wraps",
+      "veggie-wraps"
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
@@ -21500,6 +21494,31 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-peruvian-garlic-nigiri--italian",
+    "title": "Italian-Style Garlic Shrimp",
+    "tags": [
+      "italian",
+      "seafood",
+      "quick-meal"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 13,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-spiced-german-pork-stew--gluten-free",
+    "title": "Hearty German-Style Pork Stew",
+    "tags": [
+      "german",
+      "pork",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 170,
     "shard": "r"
   }
 ]
