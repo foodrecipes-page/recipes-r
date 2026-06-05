@@ -1,0 +1,81 @@
+{
+  "slug": "rich-savory-mexican-chicken-tacos",
+  "title": "Mexican Chicken Tacos",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring juicy chicken, crunchy lettuce, and creamy avocado.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with taco seasoning.",
+    "Bake the chicken in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, chop the lettuce and dice the tomatoes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the cooked chicken and placing it on a tortilla, followed by lettuce, tomatoes, cheese, and avocado.",
+    "Top with sour cream and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:56:37.843Z"
+}
