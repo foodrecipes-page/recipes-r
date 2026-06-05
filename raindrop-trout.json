@@ -1,0 +1,79 @@
+{
+  "slug": "raindrop-trout",
+  "title": "Pan-Seared Trout with Lemon and Herbs",
+  "description": "A simple and flavorful dish that showcases the delicate flavor of trout. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Fish",
+  "diet": [
+    "Gluten-Free",
+    "Low-Carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout Fillets",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Raindrop Caper",
+      "amount": "1 tsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the trout fillets and pat them dry with paper towels.",
+    "3. Season the trout with salt and pepper.",
+    "4. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "5. Sear the trout for 2-3 minutes on each side, or until golden brown.",
+    "6. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "7. Remove the skillet from the oven and top the trout with lemon juice, chopped parsley, and chopped raindrop caper.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "fish",
+    "lemon",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raindrop-trout",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:20:04.653Z"
+}
