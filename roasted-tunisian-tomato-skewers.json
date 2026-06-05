@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-tunisian-tomato-skewers",
+  "title": "Tunisian Roasted Skewers with Tomato",
+  "description": "A flavorful and colorful dish featuring roasted vegetables, Tunisian spices, and juicy tomatoes, all threaded onto skewers for a fun and easy meal.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Tunisian Spice Mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread vegetables and red pepper onto skewers.",
+    "In a small bowl, mix together Tunisian spice mix, salt, and black pepper.",
+    "Brush olive oil onto the vegetables and toss to coat.",
+    "Sprinkle spice mixture evenly over the vegetables.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until vegetables are tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-tunisian-tomato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:14:23.335Z"
+}
