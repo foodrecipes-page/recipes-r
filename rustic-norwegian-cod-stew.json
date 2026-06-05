@@ -1,0 +1,97 @@
+{
+  "slug": "rustic-norwegian-cod-stew",
+  "title": "Norwegian Cod Stew",
+  "description": "A hearty and flavorful stew originating from Norway, featuring cod as the main ingredient. Perfect for a cold winter's night.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the onion, carrot, and celery, and cook until the vegetables are softened, about 5 minutes.",
+    "Add the cod fillets and cook for 2-3 minutes on each side.",
+    "Remove the cod from the pot and set aside.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Slowly add the fish stock, whisking constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the white wine and lemon juice to the pot, and stir to combine.",
+    "Return the cod to the pot and simmer, covered, until the fish is cooked through, about 8-10 minutes.",
+    "Add the potatoes to the pot and simmer, covered, until they are tender, about 15-20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "fish-stew",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-norwegian-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:28:15.049Z"
+}
