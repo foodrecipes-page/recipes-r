@@ -4284,16 +4284,14 @@
   },
   {
     "slug": "rich-creamy-saudi-arabian-lentils-grill",
-    "title": "rich creamy saudi-arabian lentils grill",
+    "title": "Saudi Arabian Lentil Stew",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "high-fiber",
-      "lentils",
-      "saudi-arabian",
-      "vegetarian"
+      "lentil stew",
+      "saudi arabian cuisine",
+      "vegetarian",
+      "ricotta cheese"
     ],
-    "cuisine": "saudi-arabian",
+    "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
     "shard": "r"
   },
@@ -5855,11 +5853,12 @@
     "slug": "rich-german-carrot-soup",
     "title": "German Carrot Soup",
     "tags": [
-      "carrot soup",
-      "german soup",
+      "german",
+      "soup",
+      "carrot",
       "vegetarian"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "r"
   },
@@ -9645,18 +9644,15 @@
   },
   {
     "slug": "rich-silky-saudi-arabian-lamb-tagine",
-    "title": "Rich Silky Saudi Arabian Lamb Tagine",
+    "title": "Classic Saudi Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "international-dish",
-      "low-sodium",
-      "one-pan",
-      "weeknight",
-      "winter-recipe"
+      "lamb",
+      "tagine",
+      "middle-eastern",
+      "slow-cooked"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 110,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
@@ -21466,6 +21462,44 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-silky-thai-potatoes-yum-salad--indian",
+    "title": "Thai-Style Indian Potato Salad",
+    "tags": [
+      "indian",
+      "thai",
+      "salad",
+      "potato"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-norwegian-cod-stew--indian",
+    "title": "Indian Cod Stew",
+    "tags": [
+      "indian",
+      "fish",
+      "casserole"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "restful-uruguayan-yogurt-bowl--vegan",
+    "title": "Restful Uruguayan Morning Bowl",
+    "tags": [
+      "uruguayan",
+      "breakfast",
+      "vegan",
+      "granola"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
     "shard": "r"
   }
 ]
