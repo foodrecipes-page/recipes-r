@@ -1,0 +1,62 @@
+{
+  "slug": "raw-peruvian-garlic-nigiri",
+  "title": "Peruvian-Style Grilled Nigiri",
+  "description": "A fusion dish combining the flavors of Peru and Japan, featuring grilled nigiri with a spicy Peruvian flair.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons",
+      "notes": "Peruvian aji amarillo pepper sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nigiri",
+      "amount": "4 pieces",
+      "notes": "Japanese-style raw tuna nigiri"
+    },
+    {
+      "name": "raw",
+      "amount": "1 piece",
+      "notes": "Japanese-style raw tuna"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season nigiri with salt and pepper.",
+    "Grill nigiri for 2-3 minutes per side, or until lightly charred.",
+    "In a small bowl, mix together Peruvian and garlic.",
+    "Brush the mixture onto the grilled nigiri.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "japanese",
+    "grilled",
+    "nigiri",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-peruvian-garlic-nigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:29:23.488Z"
+}
