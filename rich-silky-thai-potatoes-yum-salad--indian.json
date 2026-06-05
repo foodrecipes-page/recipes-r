@@ -1,0 +1,78 @@
+{
+  "slug": "rich-silky-thai-potatoes-yum-salad--indian",
+  "title": "Thai-Style Indian Potato Salad",
+  "description": "A creamy and flavorful salad that combines the richness of Indian cuisine with the bold flavors of Thai cuisine. Serve as a side dish or light lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "silky yum sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, about 15 minutes.",
+    "In a bowl, whisk together the silky yum sauce, chopped cilantro, salt, ground cumin, and ground cayenne pepper.",
+    "Drain the cooked potatoes and let them cool slightly.",
+    "Add the grated ginger to the sauce and mix well.",
+    "In a large bowl, combine the cooled potatoes and the sauce mixture.",
+    "Mix well until the potatoes are fully coated with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "thai",
+    "salad",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-thai-potatoes-yum-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:02:40.356Z"
+}
