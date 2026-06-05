@@ -1,0 +1,73 @@
+{
+  "slug": "roasted-dense-american-eggs-frittata",
+  "title": "American Frittata",
+  "description": "A classic American breakfast dish made with eggs, a great way to use up leftover ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "Freshly cracked"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Dense, sharp cheese"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup",
+      "notes": "American-style ham"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh and fragrant"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced ham and cook until lightly browned, about 3-4 minutes.",
+    "In a large bowl, whisk together the eggs, shredded cheese, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the cooked ham in the skillet.",
+    "Cook the eggs for about 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Let the frittata cool for a few minutes before slicing and serving.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-dense-american-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:57:21.474Z"
+}
