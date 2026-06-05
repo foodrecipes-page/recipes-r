@@ -1,0 +1,73 @@
+{
+  "slug": "redcurrant-kessim",
+  "title": "Kessim and Redcurrant Crumble",
+  "description": "A sweet and tangy dessert featuring kessim and redcurrant topped with a crunchy crumble mixture.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kessim",
+      "amount": "250g"
+    },
+    {
+      "name": "redcurrant",
+      "amount": "300g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large bowl, mix together the kessim and redcurrant.",
+    "In another bowl, combine the flour, cold unsalted butter, brown sugar, and granulated sugar.",
+    "Add the egg wash to the dry ingredients and mix until a crumbly mixture forms.",
+    "Transfer the kessim and redcurrant mixture to a baking dish.",
+    "Top the mixture with the crumble topping.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Serve warm with vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kessim",
+    "redcurrant",
+    "dessert",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/redcurrant-kessim",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:42:03.832Z"
+}
