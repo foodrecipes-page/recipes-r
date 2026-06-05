@@ -1,0 +1,89 @@
+{
+  "slug": "robustly-spiced-german-pork-stew--gluten-free",
+  "title": "Hearty German-Style Pork Stew",
+  "description": "A rich and flavorful gluten-free stew made with tender pork and a blend of spices. Perfect for a cozy evening meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth, gluten-free",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine, gluten-free",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "German seasoning, gluten-free",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes in batches until browned on all sides, about 5 minutes per batch. Remove the pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned pork back to the pot, along with the beef broth, red wine, and German seasoning.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew in a preheated oven at 300°F (150°C) for 2 1/2 hours, or until the pork is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spiced-german-pork-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:15:38.617Z"
+}
