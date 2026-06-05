@@ -1,0 +1,71 @@
+{
+  "slug": "raw-peruvian-garlic-nigiri--italian",
+  "title": "Italian-Style Garlic Shrimp",
+  "description": "A quick and flavorful Italian-inspired dish featuring succulent garlic shrimp. Serve with your favorite pasta or as a standalone meal.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "nigiri",
+      "amount": "1/2 teaspoon",
+      "notes": "Italian seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the shrimp under cold water and pat dry with paper towels.",
+    "2. In a large skillet, heat the peruvian over medium-high heat.",
+    "3. Add the garlic and cook for 1-2 minutes until fragrant.",
+    "4. Add the shrimp and cook for 2-3 minutes per side or until pink and cooked through.",
+    "5. Sprinkle with nigiri, salt, and black pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-peruvian-garlic-nigiri--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:11:16.874Z"
+}
