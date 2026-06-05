@@ -1,0 +1,95 @@
+{
+  "slug": "rich-savory-mexican-chicken-tacos--japanese",
+  "title": "Japanese Chicken Tacos",
+  "description": "A unique fusion of Japanese and Mexican flavors in a taco. Crispy chicken, savory sauce, and fresh toppings come together in a delicious twist on a classic dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": "mild"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, mirin, and sesame oil.",
+    "Add the chicken breasts to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes.",
+    "Shred the chicken into bite-sized pieces and place in a bowl.",
+    "Add taco seasoning to the chicken and toss to coat.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few pieces of chicken onto a tortilla, followed by shredded cabbage, pickled ginger, green onions, and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "mexican",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-mexican-chicken-tacos--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:33:38.548Z"
+}
