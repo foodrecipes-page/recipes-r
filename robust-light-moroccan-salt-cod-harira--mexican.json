@@ -1,0 +1,73 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--mexican",
+  "title": "Baja-Style Cod Tacos",
+  "description": "A twist on traditional Mexican street food, featuring crispy cod, spicy slaw, and a hint of Moroccan flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "harira spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "robust red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "moroccan preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Season cod with harira spice and salt. Add to the skillet and sear for 3-4 minutes per side, or until cooked through.",
+    "Transfer cod to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Flake the cooked cod into the skillet with the onion and stir to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos with cod mixture, preserved lemon, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baja-style",
+    "cod-tacos",
+    "mexican-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:54.861Z"
+}
