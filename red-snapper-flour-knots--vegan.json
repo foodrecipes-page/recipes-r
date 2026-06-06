@@ -1,0 +1,54 @@
+{
+  "slug": "red-snapper-flour-knots--vegan",
+  "title": "Pan-Seared Red Snapper with Crispy Knots",
+  "description": "A vegan twist on a seafood dish, featuring pan-seared red snapper and crispy vegan knots.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Red snapper",
+      "amount": "1 fillet",
+      "notes": "Make sure to get a sustainable and vegan-friendly substitute."
+    },
+    {
+      "name": "Vegan flour",
+      "amount": "1 cup",
+      "notes": "Use a gluten-free flour if needed."
+    },
+    {
+      "name": "Vegan knots",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought works fine."
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Season the red snapper fillet with salt and pepper.",
+    "3. Add a small amount of oil to the pan and sear the red snapper for 3-4 minutes per side.",
+    "4. While the red snapper is cooking, heat some oil in a separate pan and cook the vegan knots until crispy.",
+    "5. Serve the pan-seared red snapper with crispy knots on the side.",
+    "6. Garnish with your favorite herbs or spices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-seafood",
+    "vegan-fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:29:03.743Z"
+}
