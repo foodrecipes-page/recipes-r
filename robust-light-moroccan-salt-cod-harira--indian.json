@@ -1,0 +1,70 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--indian",
+  "title": "Cod with Harira and Spices",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring cod, harira, and robust spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "harira",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "robust",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with salt and robust spice.",
+    "In a separate pan, heat the chopped harira over medium heat.",
+    "Add light and moroccan spices to the harira and stir well.",
+    "Place the cod fillets on a baking sheet lined with parchment paper.",
+    "Bake the cod in the preheated oven for 12-15 minutes or until cooked through.",
+    "Serve the cod with the harira-spice sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "spices",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:27:52.458Z"
+}
