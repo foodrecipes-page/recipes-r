@@ -15870,17 +15870,14 @@
   },
   {
     "slug": "roasted-portuguese-chicken-wrap",
-    "title": "Roasted Portuguese Chicken Wrap",
+    "title": "Portuguese Chicken Wrap",
     "tags": [
-      "chicken-recipes",
-      "easy-lunch",
-      "gluten-free",
-      "healthy-meals",
-      "low-glycemic",
-      "portuguese-cuisine"
+      "chicken",
+      "wrap",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21766,6 +21763,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "raindrop-trout--indian",
+    "title": "Tandoori Trout with Raindrop Chutney",
+    "tags": [
+      "indian",
+      "trout",
+      "raindrop",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-peruvian-garlic-nigiri--french",
+    "title": "Pan-Seared Nigiri with Garlic Butter",
+    "tags": [
+      "french",
+      "breakfast",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "r"
   }
 ]
