@@ -1,0 +1,75 @@
+{
+  "slug": "robust-spicy-norwegian-perilla-leaf-casserole",
+  "title": "Spicy Norwegian Perilla Casserole",
+  "description": "A flavorful and spicy casserole dish from Norway, featuring perilla leaves and a robust blend of spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Casserole mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Spicy robust seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ground beef in a pan over medium heat until browned, breaking into small pieces.",
+    "Add chopped garlic, spicy robust seasoning, salt, and pepper to the pan and stir for 1 minute.",
+    "In a separate pan, heat olive oil over medium heat. Add chopped perilla leaves and cook until wilted.",
+    "Combine cooked beef mixture and wilted perilla leaves. Stir in casserole mix according to package instructions.",
+    "Transfer the mixture to a baking dish and top with additional perilla leaves if desired.",
+    "Bake in the preheated oven for 25-30 minutes or until the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "casserole",
+    "perilla",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spicy-norwegian-perilla-leaf-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:06:35.190Z"
+}
