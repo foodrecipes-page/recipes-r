@@ -4702,16 +4702,15 @@
   },
   {
     "slug": "rich-crumbly-argentinian-beef-empanadas",
-    "title": "Rich Crumbly Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-empanadas",
-      "paleo-friendly",
-      "gluten-free",
-      "crumbly-crust"
+      "argentinian",
+      "beef",
+      "empanadas",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -21730,6 +21729,45 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-peruvian-garlic-nigiri--keto",
+    "title": "Pan-Seared Raw Tuna with Peruvian Spices",
+    "tags": [
+      "keto",
+      "peruvian",
+      "tuna",
+      "dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 28,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-mediterranean-chinese-long-beans-gratin--thai",
+    "title": "Thai Long Beans with Roasted Mediterranean Flair",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "gluten-free",
+      "easy-dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-quick-chinese-asparagus-bowl--german",
+    "title": "Roasted Asparagus German Bowl",
+    "tags": [
+      "german",
+      "vegetarian",
+      "bowls",
+      "asparagus"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
