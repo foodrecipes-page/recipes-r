@@ -1,0 +1,75 @@
+{
+  "slug": "roasted-quick-chinese-asparagus-bowl--german",
+  "title": "Roasted Asparagus German Bowl",
+  "description": "A hearty German-inspired bowl filled with roasted asparagus and topped with a fried egg. Perfect for a quick and easy dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Roasted chicken breast",
+      "amount": "1 cup, diced",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Quick German mustard",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Bread",
+      "amount": "1 cup, cubed",
+      "notes": "gluten-free option"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the asparagus with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 12-15 minutes, or until tender.",
+    "In a separate pan, fry the diced chicken breast over medium-high heat until browned.",
+    "Add the sliced red onion to the pan and cook until softened.",
+    "Stir in the quick German mustard and cook for an additional minute.",
+    "To assemble the bowls, place a portion of the roasted asparagus in the bottom of a bowl.",
+    "Top with the chicken and onion mixture, followed by a fried egg.",
+    "Garnish with chopped parsley and serve with cubed bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "bowls",
+    "asparagus"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-quick-chinese-asparagus-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:54:09.032Z"
+}
