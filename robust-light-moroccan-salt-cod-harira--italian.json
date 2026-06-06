@@ -1,0 +1,73 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--italian",
+  "title": "Italian Cod with Harira Crust",
+  "description": "A Mediterranean-inspired Italian dish featuring cod with a flavorful harira crust.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "harira mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "robust olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "light breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "moroccan spices",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the cod fillet and pat dry with paper towels.",
+    "In a bowl, mix the harira mix, robust olive oil, salt, and moroccan spices.",
+    "Coat the cod fillet evenly with the harira mixture, pressing gently to adhere.",
+    "Coat the coated cod fillet with light breadcrumbs, pressing gently to adhere.",
+    "Place the coated cod fillet on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the cod is cooked through and the crust is golden brown.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mediterranean",
+    "fish",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:29.058Z"
+}
