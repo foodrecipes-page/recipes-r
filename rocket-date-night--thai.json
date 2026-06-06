@@ -1,0 +1,95 @@
+{
+  "slug": "rocket-date-night--thai",
+  "title": "Thai Rocket Salad",
+  "description": "A refreshing and spicy Thai-inspired salad made with rocket, dates, and a tangy dressing. Enjoy as a light and healthy snack or side dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rocket (rocket greens)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Night (shallots)",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the rocket, dates, and night (shallots).",
+    "2. In a small bowl, mix together the chili pepper, fish sauce, lime juice, and honey.",
+    "3. Pour the dressing over the rocket mixture and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Sprinkle with chopped peanuts (if using).",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "rocket",
+    "dates",
+    "night",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rocket-date-night--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:15:10.407Z"
+}
