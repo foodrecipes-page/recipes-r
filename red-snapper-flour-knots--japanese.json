@@ -1,0 +1,61 @@
+{
+  "slug": "red-snapper-flour-knots--japanese",
+  "title": "Japanese Battered Snapper",
+  "description": "A simple Japanese-inspired recipe for a delicious battered snapper.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "4",
+      "notes": "Fresh fish for the best taste"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": "For the batter"
+    },
+    {
+      "name": "Panko Knots (Japanese Breadcrumbs)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together the flour and a pinch of salt.",
+    "2. In a separate dish, crack an egg and whisk it lightly.",
+    "3. Dip each snapper fillet into the flour mixture, coating it evenly.",
+    "4. Then, dip the floured fillet into the egg mixture, making sure it's fully coated.",
+    "5. Finally, roll the fillet in the Panko knots to coat evenly.",
+    "6. Place the coated snapper fillet on a plate or tray.",
+    "7. Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "8. When the oil is hot, add 2-3 coated snapper fillets to the skillet.",
+    "9. Cook for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "10. Repeat with the remaining snapper fillets.",
+    "11. Remove the snapper from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "12. Serve hot with your favorite sides, such as steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "battered",
+    "snapper"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:29:30.288Z"
+}
