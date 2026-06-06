@@ -1,0 +1,89 @@
+{
+  "slug": "red-snapper-flour-knots--vegetarian",
+  "title": "Herb Crusted Red Snapper with Knot Breadcrumbs",
+  "description": "A flavorful and crispy vegetarian dish featuring red snapper crusted with herbs and breadcrumbs, served with a side of your choice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillet",
+      "amount": "1",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "knots",
+      "amount": "1 cup",
+      "notes": "Baked and crumbled"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the red snapper fillet and pat dry with paper towels.",
+    "In a shallow dish, mix together flour, parsley, garlic powder, lemon zest, salt, and pepper.",
+    "Dip the red snapper fillet in the flour mixture, coating both sides evenly.",
+    "Place the coated red snapper fillet on the prepared baking sheet.",
+    "Drizzle olive oil over the red snapper fillet.",
+    "Sprinkle the crumbled knot breadcrumbs over the red snapper fillet.",
+    "Bake in the preheated oven for 12-15 minutes or until the fish is cooked through and the breadcrumbs are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "seafood",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:29:01.032Z"
+}
