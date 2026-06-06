@@ -1,0 +1,89 @@
+{
+  "slug": "rustic-venezuelan-corn-flatbread--gluten-free",
+  "title": "Venezuelan Corn Flatbread",
+  "description": "A gluten-free flatbread recipe inspired by Venezuelan cuisine, topped with roasted corn and rustic flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Rustic bread",
+      "amount": "1 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 cup, cut into small pieces",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1 egg",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, mix together the corn kernels, crumbled rustic bread, and chopped cilantro.",
+    "Add the shredded cheese and mix well.",
+    "In a separate bowl, mix together the beaten egg and a pinch of salt and pepper.",
+    "Add the egg mixture to the corn mixture and mix until well combined.",
+    "Place the flatbread pieces on a baking sheet and brush with butter.",
+    "Spoon the corn mixture onto the flatbread, dividing it evenly among the pieces.",
+    "Bake in the preheated oven for 15-20 minutes, or until the flatbread is crispy and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "venezuelan",
+    "corn",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-venezuelan-corn-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:36:07.144Z"
+}
