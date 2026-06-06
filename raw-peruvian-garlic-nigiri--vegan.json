@@ -1,0 +1,86 @@
+{
+  "slug": "raw-peruvian-garlic-nigiri--vegan",
+  "title": "Spicy Vegan Peruvian Stew",
+  "description": "A hearty, flavorful stew made with Peruvian aji amarillo peppers and served with a side of crunchy raw vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Peruvian garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "raw potatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "raw carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "raw onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "raw bell peppers",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "raw tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "raw cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "raw lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add the diced aji amarillo peppers, onions, bell peppers, and potatoes. Cook for 5-7 minutes, until the vegetables are tender.",
+    "Add the diced tomatoes, chopped cilantro, and freshly squeezed lime juice. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, until the stew has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "peruvian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-peruvian-garlic-nigiri--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:25:31.695Z"
+}
