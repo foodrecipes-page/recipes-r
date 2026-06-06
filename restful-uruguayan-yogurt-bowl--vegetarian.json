@@ -1,0 +1,72 @@
+{
+  "slug": "restful-uruguayan-yogurt-bowl--vegetarian",
+  "title": "Uruguayan Restful Bowl",
+  "description": "A delicious and healthy vegetarian bowl filled with restful flavors of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Restful salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook quinoa according to package instructions.",
+    "2. In a separate pan, heat olive oil over medium heat.",
+    "3. Add black beans and cook for 2-3 minutes.",
+    "4. Stir in restful salsa and cook for another minute.",
+    "5. In a large bowl, combine cooked quinoa, black bean mixture, and chopped cilantro.",
+    "6. Top with yogurt.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/restful-uruguayan-yogurt-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:13:03.462Z"
+}
