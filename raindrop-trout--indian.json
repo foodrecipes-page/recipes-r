@@ -1,0 +1,95 @@
+{
+  "slug": "raindrop-trout--indian",
+  "title": "Tandoori Trout with Raindrop Chutney",
+  "description": "A fusion of Indian flavors with a fresh twist, this dish combines the delicate taste of trout with the crunch of raindrop chutney.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "raindrop",
+      "amount": "1 cup",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a blender, combine yogurt, ginger, garam masala, cumin, cayenne pepper, and lemon juice. Blend until smooth.",
+    "3. Place the trout in a baking dish and brush the yogurt mixture evenly on both sides of the fish.",
+    "4. Drizzle olive oil over the fish and season with salt.",
+    "5. Bake in the preheated oven for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "6. Meanwhile, combine chopped raindrop, salt, and a squeeze of lemon juice in a bowl.",
+    "7. To serve, place the trout on a plate and top with a dollop of raindrop chutney.",
+    "8. Garnish with chopped cilantro or scallions, if desired.",
+    "9. Serve immediately and enjoy!",
+    "10. For the raindrop chutney, adjust the seasoning to taste with salt, lemon juice, or cayenne pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "trout",
+    "raindrop",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raindrop-trout--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:20.336Z"
+}
