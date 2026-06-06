@@ -21597,5 +21597,87 @@
     "cuisine": "french",
     "totalTimeMin": 55,
     "shard": "r"
+  },
+  {
+    "slug": "rustic-norwegian-cod-stew--thai",
+    "title": "Pan-Seared Cod with Thai Stew Ingredients",
+    "tags": [
+      "thai-food",
+      "fish-recipes",
+      "cod-recipes"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "restful-uruguayan-yogurt-bowl--vegetarian",
+    "title": "Uruguayan Restful Bowl",
+    "tags": [
+      "uruguayan",
+      "vegetarian",
+      "lunch",
+      "healthy"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-tunisian-tomato-skewers--mexican",
+    "title": "Tunisian Chicken Skewers with Roasted Tomato Salsa",
+    "tags": [
+      "mexican",
+      "grilled",
+      "skewers",
+      "chicken",
+      "roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 38,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-venezuelan-corn-flatbread--vegetarian",
+    "title": "Venezuelan Corn Flatbread",
+    "tags": [
+      "venezuelan",
+      "corn",
+      "flatbread",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "rocket-date-night--french",
+    "title": "French Rocket Salad with Date Vinaigrette",
+    "tags": [
+      "salad",
+      "french",
+      "healthy",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 10,
+    "shard": "r"
+  },
+  {
+    "slug": "rocket-date-night--thai",
+    "title": "Thai Rocket Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "rocket",
+      "dates",
+      "night",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "r"
   }
 ]
