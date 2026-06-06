@@ -1,0 +1,63 @@
+{
+  "slug": "roasted-dense-american-eggs-frittata--keto",
+  "title": "Keto American Frittata",
+  "description": "A dense and flavorful frittata, packed with eggs and perfect for a keto diet. Serve for breakfast, lunch, or dinner.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "diced roasted vegetables (bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": "such as zucchini and cherry tomatoes"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook diced roasted vegetables until tender.",
+    "In a large bowl, whisk together eggs, salt, and pepper.",
+    "Add grated cheddar cheese to the bowl and stir to combine.",
+    "Pour egg mixture over cooked vegetables in skillet.",
+    "Transfer skillet to oven and bake for 20-25 minutes, or until eggs are set.",
+    "Remove from oven and garnish with chopped parsley, if desired.",
+    "Let cool before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-american-frittata",
+    "easy-frittata-recipe",
+    "low-carb-frittata"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-dense-american-eggs-frittata--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:55:27.463Z"
+}
