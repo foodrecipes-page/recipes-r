@@ -1,0 +1,75 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--german",
+  "title": "Cod in Light German Harira",
+  "description": "A German-inspired take on the Moroccan stew, using cod for a seafood twist. This light and flavorful dish is perfect for a casual dinner.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "500g",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "harira",
+      "amount": "1 can",
+      "notes": "use the Moroccan variety for authentic flavor"
+    },
+    {
+      "name": "robust",
+      "amount": "2 tsp",
+      "notes": "add depth to the harira"
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp",
+      "notes": "balance out the flavors"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "optional, for extra Moroccan flair"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Rinse the cod and pat it dry with paper towels.",
+    "Season the cod with salt and a pinch of robust.",
+    "Heat a non-stick skillet over medium heat and add a small amount of light.",
+    "Add the cod to the skillet, skin side up, and sear for 2-3 minutes.",
+    "Flip the cod over and cook for another 2-3 minutes, until cooked through.",
+    "While the cod is cooking, heat the harira in a separate saucepan over low heat.",
+    "Add the moroccan spice to the harira, if using.",
+    "To serve, place the cod on a plate and spoon the harira over the top.",
+    "Garnish with a sprinkle of salt and a drizzle of light, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:40:42.036Z"
+}
