@@ -1,0 +1,72 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira",
+  "title": "Moroccan Cod Stew",
+  "description": "A hearty and flavorful stew made with cod, robust and light spices, and traditional moroccan harira. Serve with a side of crusty bread.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "500g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "robust",
+      "amount": "2 tsp",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tbsp",
+      "notes": "harissa or chili paste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "harira",
+      "amount": "2 cups",
+      "notes": "dried lentil soup mix"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod and pat dry with paper towels.",
+    "Heat a large pot over medium heat.",
+    "Add the robust, light, and moroccan spices, and cook for 1 minute, stirring constantly.",
+    "Add the harira and 4 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Add the cod to the pot, cover, and cook for 8-10 minutes, or until the fish is cooked through.",
+    "Season with salt to taste.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish-stew",
+    "lentil-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:16.324Z"
+}
