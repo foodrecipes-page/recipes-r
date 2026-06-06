@@ -1,0 +1,58 @@
+{
+  "slug": "red-snapper-flour-knots--french",
+  "title": "Pan-Seared Snapper with Crispy Knots",
+  "description": "A simple yet elegant French dish featuring pan-seared snapper served with crispy knots. This recipe showcases the delicate flavor of snapper, paired with a crunchy side of bread.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Red Flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Knots",
+      "amount": "1/2 cup",
+      "notes": "French bread, cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Dust snapper fillets with red flour, shaking off excess.",
+    "Heat a skillet over medium-high heat with 2 tablespoons of oil.",
+    "Sear snapper for 2-3 minutes per side, or until cooked through.",
+    "Transfer skillet to oven and bake for an additional 5-7 minutes.",
+    "Meanwhile, toss knots with 1 tablespoon of oil and season with salt.",
+    "Bake knots in the oven for 5-7 minutes, or until golden brown.",
+    "Serve snapper with crispy knots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "fish",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:52.046Z"
+}
