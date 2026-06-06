@@ -1,0 +1,65 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--gluten-free",
+  "title": "Moroccan Cod Stew",
+  "description": "A hearty and flavorful stew made with cod, inspired by the spices of Moroccan cuisine. Perfect for a cold day.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1 lb (450g)",
+      "notes": "fresh cod fillets"
+    },
+    {
+      "name": "harira",
+      "amount": "1 can (14.5oz/410g)",
+      "notes": "Moroccan-style tomato soup"
+    },
+    {
+      "name": "robust",
+      "amount": "1 tsp (5g)",
+      "notes": "robust spice mix"
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp (5g)",
+      "notes": "light spice mix"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the robust spice mix and cook for 1 minute.",
+    "Add the cod and cook for 2-3 minutes on each side.",
+    "Add the harira, salt, and light spice mix. Stir well.",
+    "Bring to a simmer, reduce heat to low, and cook for 10-12 minutes or until the cod is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:40.066Z"
+}
