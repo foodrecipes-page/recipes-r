@@ -1,0 +1,66 @@
+{
+  "slug": "robust-light-moroccan-salt-cod-harira--vegan",
+  "title": "Vegan Moroccan Harira Stew",
+  "description": "A hearty and flavorful vegan stew inspired by Moroccan cuisine, made with robust vegetables and harira.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "robust",
+      "amount": "2 medium-sized",
+      "notes": "any robust vegetable will do, such as eggplant or zucchini"
+    },
+    {
+      "name": "light",
+      "amount": "1 small",
+      "notes": "such as bell pepper or onion"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tbsp",
+      "notes": "dried or fresh mix of spices, adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "harira",
+      "amount": "2 cups",
+      "notes": "or 1 can of harira, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the chopped light and robust vegetables and cook until tender.",
+    "Add the moroccan spice mix and salt, stir well.",
+    "Add the harira and 2 cups of water, stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "moroccan",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-light-moroccan-salt-cod-harira--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:39.321Z"
+}
