@@ -1,0 +1,70 @@
+{
+  "slug": "raw-peruvian-garlic-nigiri--french",
+  "title": "Pan-Seared Nigiri with Garlic Butter",
+  "description": "A French-inspired twist on traditional nigiri, featuring a crispy pan-seared crust and a rich garlic butter sauce.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nigiri",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "raw",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 tablespoon",
+      "notes": "white wine vinegar"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add the raw butter and let it melt.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the nigiri and sear for 2-3 minutes on each side.",
+    "Transfer the nigiri to a plate and set aside.",
+    "Add the peruvian white wine vinegar to the pan and reduce by half.",
+    "Stir in the raw butter until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve the pan-seared nigiri with garlic butter sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "breakfast",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-peruvian-garlic-nigiri--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:51.782Z"
+}
