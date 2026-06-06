@@ -1,0 +1,84 @@
+{
+  "slug": "red-snapper-flour-knots--thai",
+  "title": "Red Snapper in Thai-Style Crust",
+  "description": "A Thai-inspired dish featuring red snapper in a crispy crust, served with a side of garlic knots.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup (all-purpose)"
+    },
+    {
+      "name": "knots",
+      "amount": "1 dozen (garlic)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the red snapper fillets with salt and pepper.",
+    "In a bowl, mix together flour, garlic, fish sauce, lemon juice, chili flakes, cumin, and paprika.",
+    "Dredge the red snapper fillets in the flour mixture, shaking off excess.",
+    "Heat 1/4 cup of vegetable oil in a skillet over medium-high heat. Sear the red snapper fillets for 2-3 minutes on each side.",
+    "Transfer the red snapper fillets to a baking sheet and bake for 8-10 minutes or until cooked through.",
+    "Meanwhile, bake the garlic knots in the oven for 10-12 minutes or until golden brown.",
+    "Serve the red snapper fillets with garlic knots on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "seafood",
+    "garlic-knots"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:27:55.712Z"
+}
