@@ -1,0 +1,62 @@
+{
+  "slug": "red-snapper-flour-knots--german",
+  "title": "Pan-Seared Red Snapper with German-Style Breadcrumbs",
+  "description": "A delicious and easy-to-make German-inspired dish featuring pan-seared red snapper topped with crispy breadcrumbs.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Knots (Breadcrumbs)",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "1. Season the snapper fillets with salt and pepper.",
+    "2. Dust the fillets with flour, shaking off excess.",
+    "3. Heat a skillet over medium-high heat with 2 tablespoons of melted butter.",
+    "4. Sear the snapper fillets for 3-4 minutes per side, or until cooked through.",
+    "5. Meanwhile, mix the breadcrumbs with 2 tablespoons of melted butter.",
+    "6. Transfer the snapper to a plate and top with breadcrumb mixture.",
+    "7. Serve immediately, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:04.594Z"
+}
