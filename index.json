@@ -21787,5 +21787,180 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "r"
+  },
+  {
+    "slug": "rich-roasted-french-lentil-stew--indian",
+    "title": "French Lentil Stew",
+    "tags": [
+      "indian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "comfortfood"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-light-moroccan-salt-cod-harira--indian",
+    "title": "Cod with Harira and Spices",
+    "tags": [
+      "indian",
+      "fish",
+      "spices",
+      "easy-dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--thai",
+    "title": "Red Snapper in Thai-Style Crust",
+    "tags": [
+      "thai",
+      "fish",
+      "seafood",
+      "garlic-knots"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 33,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--german",
+    "title": "Pan-Seared Red Snapper with German-Style Breadcrumbs",
+    "tags": [
+      "german",
+      "fish",
+      "seafood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-light-moroccan-salt-cod-harira--french",
+    "title": "Baked Cod with Harira Crust",
+    "tags": [
+      "french",
+      "baked-fish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-light-moroccan-salt-cod-harira--vegetarian",
+    "title": "Moroccan Harira Stew",
+    "tags": [
+      "moroccan",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-light-moroccan-salt-cod-harira--vegan",
+    "title": "Vegan Moroccan Harira Stew",
+    "tags": [
+      "vegan",
+      "moroccan",
+      "stew",
+      "lunch"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--french",
+    "title": "Pan-Seared Snapper with Crispy Knots",
+    "tags": [
+      "french",
+      "seafood",
+      "fish",
+      "easy-dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-light-moroccan-salt-cod-harira--mexican",
+    "title": "Baja-Style Cod Tacos",
+    "tags": [
+      "baja-style",
+      "cod-tacos",
+      "mexican-fish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--vegetarian",
+    "title": "Herb Crusted Red Snapper with Knot Breadcrumbs",
+    "tags": [
+      "vegetarian",
+      "seafood",
+      "fish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--vegan",
+    "title": "Pan-Seared Red Snapper with Crispy Knots",
+    "tags": [
+      "vegan-seafood",
+      "vegan-fish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-spicy-norwegian-perilla-leaf-casserole--german",
+    "title": "Sauerbraten with Robust Caramelized Onions",
+    "tags": [
+      "german",
+      "beef",
+      "casserole",
+      "pot-roast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-portuguese-chicken-wrap--thai",
+    "title": "Thai Chicken Wrap",
+    "tags": [
+      "thai",
+      "chicken",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "red-snapper-flour-knots--japanese",
+    "title": "Japanese Battered Snapper",
+    "tags": [
+      "japanese",
+      "fish",
+      "battered",
+      "snapper"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "r"
   }
 ]
