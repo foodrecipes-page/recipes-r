@@ -1,0 +1,88 @@
+{
+  "slug": "rich-crumbly-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "Classic South American pastries filled with seasoned ground beef, served as a savory snack or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, cumin, paprika, salt, and black pepper to the pan and continue to cook until the onion is translucent.",
+    "Let the mixture cool slightly, then stir in the beaten egg.",
+    "In a large bowl, combine the flour and water to form a dough. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "On a lightly floured surface, use a rolling pin to flatten each ball of dough into a circle.",
+    "Place a tablespoon or two of the beef mixture onto the center of each dough circle, then brush the edges with a little water.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal the empanada. Use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little water.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crumbly-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:11:21.849Z"
+}
