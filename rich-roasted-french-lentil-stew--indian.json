@@ -1,0 +1,81 @@
+{
+  "slug": "rich-roasted-french-lentil-stew--indian",
+  "title": "French Lentil Stew",
+  "description": "A hearty and comforting French-inspired Indian stew made with rich lentils and roasted vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French Green Lentils",
+      "amount": "1 cup",
+      "notes": "Sort and rinse before use"
+    },
+    {
+      "name": "Roasted Red Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Rich Tomato Puree",
+      "amount": "1/2 cup",
+      "notes": "Canned or homemade"
+    },
+    {
+      "name": "Roasted Carrot",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "French Herbs",
+      "amount": "1 tablespoon",
+      "notes": "Chopped fresh herbs such as parsley, thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the tomato puree and cook for 1 minute.",
+    "Add the chopped carrot and cook for 2 minutes.",
+    "Add the lentils, herbs, salt, and pepper. Stir to combine.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-french-lentil-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:28:31.115Z"
+}
