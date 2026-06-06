@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-tunisian-tomato-skewers--mexican",
+  "title": "Tunisian Chicken Skewers with Roasted Tomato Salsa",
+  "description": "Grilled Tunisian chicken skewers served with a fresh and flavorful roasted tomato salsa, perfect for a Mexican-inspired dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "Roasted Tomato",
+      "amount": "2 large",
+      "notes": "cored and chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jalapeño Pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, salt, and pepper. Add the chicken and marinate for at least 30 minutes.",
+    "Thread the chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "While the chicken is cooking, roast the tomatoes in the oven at 400°F for 20-25 minutes, or until they are tender.",
+    "In a blender or food processor, combine the roasted tomatoes, red onion, jalapeño pepper, and cilantro. Blend until smooth.",
+    "Serve the grilled chicken skewers with the roasted tomato salsa spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "skewers",
+    "chicken",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-tunisian-tomato-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:17:12.514Z"
+}
