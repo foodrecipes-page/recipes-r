@@ -1,0 +1,57 @@
+{
+  "slug": "red-snapper-flour-knots--mexican",
+  "title": "Battered Snapper Tacos",
+  "description": "A Mexican-inspired dish featuring crispy battered snapper, served with a side of warm flour tortillas and a sprinkle of red knots. Perfect for a light and refreshing meal.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "Red knots",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Prepare the snapper fillets by patting them dry with paper towels.",
+    "In a bowl, mix together flour and a pinch of salt.",
+    "Dredge the snapper fillets in the flour mixture, shaking off excess.",
+    "Carefully place the battered snapper in the hot oil and fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Drain the fried snapper on paper towels.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of fried snapper on each tortilla, followed by a sprinkle of red knots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "tacos",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:51.610Z"
+}
