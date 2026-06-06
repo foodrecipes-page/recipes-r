@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-portuguese-chicken-wrap",
+  "title": "Portuguese Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with roasted chicken, sautéed onions and peppers, and spices.",
+  "cuisine": "portuguese",
+  "diet": [
+    "lacto-ovo",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "4-6 pieces"
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": "soft flour wrap"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Roasted red pepper sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the chicken on a baking sheet and roast in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onion and red bell pepper and cook until tender, about 5-7 minutes.",
+    "Shred the cooked chicken into bite-sized pieces and add to the skillet with the onion and peppers.",
+    "Stir in the roasted red pepper sauce and cook for an additional 2-3 minutes.",
+    "Warm the flour tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the chicken and vegetable mixture onto the center of the tortilla, and topping with shredded cheese if desired.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-portuguese-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:36.041Z"
+}
