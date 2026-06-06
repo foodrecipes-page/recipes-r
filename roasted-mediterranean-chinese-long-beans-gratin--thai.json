@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-mediterranean-chinese-long-beans-gratin--thai",
+  "title": "Thai Long Beans with Roasted Mediterranean Flair",
+  "description": "A flavorful Thai-inspired dish that combines the crunchy texture of long beans with the rich flavors of roasted Mediterranean ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long Beans",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup pitted",
+      "notes": null
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can drained",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the long beans and cook until tender, about 5 minutes.",
+    "Add the roasted red pepper, kalamata olives, and artichoke hearts. Cook for an additional 2 minutes.",
+    "Sprinkle the Mediterranean spice blend over the top and cook for 1 minute.",
+    "Stir in the chopped cilantro and fish sauce (if using).",
+    "Cook for an additional 1 minute, until the flavors have melded together.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "gluten-free",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-chinese-long-beans-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:16:01.984Z"
+}
