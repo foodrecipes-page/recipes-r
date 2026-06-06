@@ -1,0 +1,75 @@
+{
+  "slug": "rocket-date-night--french",
+  "title": "French Rocket Salad with Date Vinaigrette",
+  "description": "A simple yet elegant French-inspired salad featuring fresh rocket leaves, sweet dates, and a tangy vinaigrette.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Rocket",
+      "amount": "4 cups",
+      "notes": "Fresh, curly leaves"
+    },
+    {
+      "name": "Dates",
+      "amount": "6 medjool dates",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality oil"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "Choose a good quality vinegar"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Pure, raw honey"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Fleur de sel or flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rocket leaves and pitted dates.",
+    "In a small bowl, whisk together the olive oil, apple cider vinegar, honey, salt, and black pepper.",
+    "Drizzle the vinaigrette over the rocket mixture and toss to combine.",
+    "Season to taste with additional salt and pepper if needed.",
+    "Serve immediately, garnished with additional dates if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "french",
+    "healthy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": "3g",
+    "carbs": "30g",
+    "fat": "7g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rocket-date-night--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:15:05.271Z"
+}
