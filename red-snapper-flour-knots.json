@@ -1,0 +1,60 @@
+{
+  "slug": "red-snapper-flour-knots",
+  "title": "Pan-Seared Red Snapper with Crusty Knots",
+  "description": "A simple yet flavorful dish featuring pan-seared red snapper paired with crispy knots.",
+  "cuisine": "American",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red snapper",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "knots",
+      "amount": "1 bag (12-15 knots)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the flour with salt and pepper.",
+    "3. Dredge the red snapper fillets in the flour mixture, shaking off excess.",
+    "4. Heat a skillet over medium-high heat with 2 tablespoons of oil.",
+    "5. Add the dredged snapper fillets to the skillet and sear for 2-3 minutes on each side.",
+    "6. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "7. Meanwhile, heat the remaining 2 tablespoons of oil in a separate skillet.",
+    "8. Add the knots to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "9. Serve the pan-seared red snapper with the crispy knots on the side.",
+    "10. Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "snapper",
+    "knots",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:23.990Z"
+}
