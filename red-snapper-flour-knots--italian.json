@@ -1,0 +1,54 @@
+{
+  "slug": "red-snapper-flour-knots--italian",
+  "title": "Italian-Style Baked Red Snapper",
+  "description": "A classic Italian-inspired dish featuring a flavorful red snapper, topped with a crunchy breadcrumb mixture.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper",
+      "amount": "2 fillets"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "knots (Italian bread)",
+      "amount": "1 cup, torn into pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Dredge the snapper in flour, shaking off excess.",
+    "Place the snapper on a baking sheet lined with parchment paper.",
+    "In a bowl, toss the torn bread pieces with a little olive oil.",
+    "Sprinkle the bread mixture evenly over the snapper.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the bread is golden brown.",
+    "Serve immediately, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-snapper-flour-knots--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:35.537Z"
+}
