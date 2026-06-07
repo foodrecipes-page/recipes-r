@@ -1,0 +1,72 @@
+{
+  "slug": "resinous-dense-malaysian-blackberries-gratin",
+  "title": "Blackberry Gratin",
+  "description": "A sweet and tangy dessert featuring fresh blackberries and a crunchy malaysian-inspired topping.",
+  "cuisine": "dessert",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh Blackberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malaysian-Style Panko Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gratin Seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a separate bowl, mix together panko breadcrumbs, sugar, and grated parmesan cheese.",
+    "In a separate bowl, whisk the beaten egg and add to the breadcrumb mixture. Mix until well combined.",
+    "Add the unsalted butter to the breadcrumb mixture and mix until the butter is evenly distributed.",
+    "In a 9x13 inch baking dish, arrange the fresh blackberries in an even layer.",
+    "Pour the breadcrumb mixture evenly over the blackberries.",
+    "Bake for 35-40 minutes or until the top is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blackberry",
+    "gratin",
+    "dessert",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-dense-malaysian-blackberries-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:29:32.383Z"
+}
