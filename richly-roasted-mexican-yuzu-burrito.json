@@ -1,0 +1,89 @@
+{
+  "slug": "richly-roasted-mexican-yuzu-burrito",
+  "title": "Mexican Burrito Bowl",
+  "description": "A flavorful and nutritious twist on the classic burrito, served without the wrap. Richly roasted vegetables add depth to this dish, while a hint of yuzu brings a touch of brightness.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Richly Roasted Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch cubes and roast at 425°F (220°C) for 20-25 minutes."
+    },
+    {
+      "name": "Roasted Black Beans",
+      "amount": "1 can (15 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Yuzu Slaw",
+      "amount": "1 cup",
+      "notes": "Made with shredded red cabbage, carrots, and a squeeze of yuzu juice"
+    },
+    {
+      "name": "Mexican Rice",
+      "amount": "1 cup",
+      "notes": "Cooked with onion, garlic, and cumin"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1 cup",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "Squeeze over the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the sweet potatoes with oil and roast for 20-25 minutes, or until tender.",
+    "Cook the black beans according to package instructions.",
+    "Make the yuzu slaw by mixing together the shredded cabbage, carrots, and yuzu juice.",
+    "Cook the Mexican rice with onion, garlic, and cumin.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the burrito bowls by placing a scoop of each component in a bowl.",
+    "Top with diced avocado, salsa, queso fresco, and chopped cilantro.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "burrito",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-mexican-yuzu-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:55:09.778Z"
+}
