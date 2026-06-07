@@ -1,0 +1,92 @@
+{
+  "slug": "rich-roasted-british-beef-pie",
+  "title": "Beef and British Pie",
+  "description": "A hearty, rich pie filled with slow-cooked beef and topped with a flaky crust.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (chuck or round)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown gravy mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "for crust"
+    },
+    {
+      "name": "Pie crust (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop the onion, carrots, and potatoes.",
+    "In a large pan, sauté the chopped onion, carrots, and potatoes in butter until tender.",
+    "Add the beef to the pan and cook until browned.",
+    "Add the flour, beef broth, and brown gravy mix to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 20 minutes.",
+    "Roll out the pie crust and place it in a 9x13 inch baking dish.",
+    "Fill the pie crust with the beef mixture and cover with another pie crust or a pie crust top.",
+    "Brush the top of the pie with butter and cut a few slits in the top to allow steam to escape.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown.",
+    "Let the pie cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pie",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-british-beef-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:19:56.244Z"
+}
