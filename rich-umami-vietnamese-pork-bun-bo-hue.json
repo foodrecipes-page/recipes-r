@@ -1,0 +1,85 @@
+{
+  "slug": "rich-umami-vietnamese-pork-bun-bo-hue",
+  "title": "Hue Style Pork Bun",
+  "description": "A flavorful and spicy Vietnamese dish featuring grilled pork and served in a crispy bun. Inspired by the popular street food from Hue, Vietnam.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or regular fish sauce"
+    },
+    {
+      "name": "Hue style chili paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6"
+    },
+    {
+      "name": "Rich soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Bo leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine fish sauce, chili paste, lime juice, ginger, and cilantro. Blend until smooth.",
+    "2. In a bowl, mix the blended mixture with pork shoulder until well coated.",
+    "3. Let the pork marinate for at least 30 minutes.",
+    "4. Grill the pork over medium heat until cooked through.",
+    "5. Meanwhile, toast the bun on a dry pan or grill.",
+    "6. Assemble the bun by spreading the grilled pork, followed by a sprinkle of palm sugar and a few leaves of bo.",
+    "7. Drizzle with rich soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-umami-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:10:38.253Z"
+}
