@@ -1116,13 +1116,14 @@
   },
   {
     "slug": "raw-kale-glow",
-    "title": "Raw Kale Glow",
+    "title": "Glowing Kale Stir Fry",
     "tags": [
-      "raw",
-      "paleo-friendly",
+      "stir-fry",
+      "vegetarian",
+      "kale",
       "glow"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "vegetarian",
     "totalTimeMin": 15,
     "shard": "r"
   },
@@ -1340,15 +1341,16 @@
   },
   {
     "slug": "red-blaze-low-carb-shawarma",
-    "title": "Red Blaze Low Carb Shawarma",
+    "title": "Low Carb Shawarma",
     "tags": [
-      "red-blaze",
       "low-carb",
-      "shawarma",
-      "spicy"
+      "middle-eastern",
+      "lunch",
+      "grilled",
+      "shawarma"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -2047,16 +2049,14 @@
   },
   {
     "slug": "resinous-dense-malaysian-blackberries-gratin",
-    "title": "Resinous, Dense Malaysian Blackberries Gratin",
+    "title": "Blackberry Gratin",
     "tags": [
-      "breakfast",
-      "comfort-food",
+      "blackberry",
       "gratin",
-      "hangover-cure",
-      "high-protein",
+      "dessert",
       "malaysian"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "dessert",
     "totalTimeMin": 50,
     "shard": "r"
   },
@@ -8242,13 +8242,12 @@
   },
   {
     "slug": "rich-roasted-british-beef-pie",
-    "title": "Rich Roasted British Beef Pie",
+    "title": "Beef and British Pie",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "hearty",
-      "one-pot",
-      "weeknight"
+      "beef",
+      "pie",
+      "british",
+      "comfort-food"
     ],
     "cuisine": "British",
     "totalTimeMin": 55,
@@ -12292,17 +12291,16 @@
   },
   {
     "slug": "richly-flavored-russian-lamb-stew",
-    "title": "Richly Flavored Russian Lamb Stew",
+    "title": "Braised Russian Style Lamb Stew",
     "tags": [
-      "cold-weather",
-      "hearty-stew",
-      "lamb-recipes",
-      "low-sodium",
-      "one-pot",
-      "russian-cuisine"
+      "lamb",
+      "stew",
+      "russian",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
@@ -18074,17 +18072,15 @@
   },
   {
     "slug": "robust-roasted-slovakian-chicken-skewers",
-    "title": "Robust Roasted Slovakian Chicken Skewers",
+    "title": "Slovakian Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "european-cuisine",
-      "kid-friendly",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "skewers",
+      "slovakian",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovak",
+    "totalTimeMin": 27,
     "shard": "r"
   },
   {
