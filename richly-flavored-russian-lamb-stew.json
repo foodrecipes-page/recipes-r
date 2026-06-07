@@ -1,0 +1,102 @@
+{
+  "slug": "richly-flavored-russian-lamb-stew",
+  "title": "Braised Russian Style Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Russia, made with tender lamb and rich vegetables.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening the stew"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and brown on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrot and potato, cook for an additional 5 minutes.",
+    "Add the mushroom and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, red wine, salt, and pepper. Stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the stew in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "russian",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 44,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-russian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:40:50.877Z"
+}
