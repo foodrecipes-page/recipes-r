@@ -1,0 +1,65 @@
+{
+  "slug": "raw-kale-glow",
+  "title": "Glowing Kale Stir Fry",
+  "description": "A quick and easy vegetarian stir fry featuring kale and glow. Perfect for a weeknight dinner.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw Kale",
+      "amount": "2 cups, stems removed and chopped"
+    },
+    {
+      "name": "Glow",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add kale and cook until wilted, about 3-4 minutes.",
+    "Add glow and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "kale",
+    "glow"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-kale-glow",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:41:55.865Z"
+}
