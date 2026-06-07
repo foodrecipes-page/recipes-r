@@ -1,0 +1,78 @@
+{
+  "slug": "rejuvenating-venezuelan-tomato-bowl",
+  "title": "Venezuelan Bowl",
+  "description": "A hearty bowl filled with flavors of Venezuela. This dish is a perfect combination of protein, carbs, and veggies.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rejuvenating Quinoa",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Venezuelan-Style Black Beans",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Fresh Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Venezuelan Bowl Bites",
+      "amount": "4",
+      "notes": "Vegan, store-bought or homemade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook the quinoa according to package instructions.",
+    "Warm the black beans in a pan over medium heat.",
+    "In a separate pan, heat some oil over medium-high heat.",
+    "Add the diced tomato and cook until tender.",
+    "Add the cooked black beans to the pan with the tomato.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Divide the cooked quinoa among four bowls.",
+    "Add the black bean and tomato mixture on top of the quinoa.",
+    "Garnish with sliced avocado and serve with Venezuelan Bowl Bites on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "black-beans",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rejuvenating-venezuelan-tomato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:37:37.712Z"
+}
