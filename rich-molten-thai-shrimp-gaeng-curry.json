@@ -1,0 +1,90 @@
+{
+  "slug": "rich-molten-thai-shrimp-gaeng-curry",
+  "title": "Thai Shrimp Curry",
+  "description": "A spicy and flavorful Thai-inspired curry made with succulent shrimp and a rich, creamy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "2-3 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rich coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "gaeng keow wan sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add coconut milk, gaeng keow wan sauce (if using), fish sauce, and brown sugar.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 2-3 minutes or until sauce has thickened slightly.",
+    "Stir in lime juice and Thai basil.",
+    "Season with salt to taste.",
+    "Serve immediately over steamed rice or noodles.",
+    "Garnish with additional Thai basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "shrimp",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "20g",
+    "carbs": "20g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-molten-thai-shrimp-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:06:02.268Z"
+}
