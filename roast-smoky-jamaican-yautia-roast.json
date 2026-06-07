@@ -1,0 +1,78 @@
+{
+  "slug": "roast-smoky-jamaican-yautia-roast",
+  "title": "Crispy Smoked Yautia Fries with Jamaican Seasoning",
+  "description": "A flavorful twist on traditional fries, these smoky yautia fries are seasoned with a hint of Jamaican spice and roasted to perfection.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "2 large",
+      "notes": "Peel and cut into fry shapes"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tbsp",
+      "notes": "For roasting yautia"
+    },
+    {
+      "name": "Smoky Seasoning",
+      "amount": "2 tsp",
+      "notes": "For added smokiness"
+    },
+    {
+      "name": "Jamaican Seasoning",
+      "amount": "1 tsp",
+      "notes": "For Caribbean flair"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Toss yautia fries with roast, smoky seasoning, and jamaican seasoning in a bowl until evenly coated",
+    "Line a baking sheet with parchment paper and arrange yautia fries in a single layer",
+    "Drizzle olive oil over yautia fries and toss to coat",
+    "Roast yautia fries in the oven for 20-25 minutes, or until crispy and golden brown",
+    "Remove yautia fries from the oven and sprinkle with salt and black pepper to taste",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fries",
+    "snack",
+    "caribbean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roast-smoky-jamaican-yautia-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:12:22.743Z"
+}
