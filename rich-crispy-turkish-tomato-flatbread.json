@@ -1,0 +1,81 @@
+{
+  "slug": "rich-crispy-turkish-tomato-flatbread",
+  "title": "Turkish Flatbread Pizza",
+  "description": "A crispy and flavorful flatbread topped with rich tomato sauce and melted mozzarella cheese.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 1/2 cups",
+      "notes": "Divided into 4 equal pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing flatbread"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Divide the flatbread into 4 equal pieces.",
+    "Brush the flatbread with olive oil.",
+    "Spread 1/2 cup of tomato sauce onto each piece of flatbread.",
+    "Top with sliced Turkish pepper, mozzarella cheese, and minced garlic.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 12-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "pizza",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-turkish-tomato-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:43:22.190Z"
+}
