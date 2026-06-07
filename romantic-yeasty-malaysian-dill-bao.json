@@ -1,0 +1,70 @@
+{
+  "slug": "romantic-yeasty-malaysian-dill-bao",
+  "title": "Malaysian Bao with Dill Pickles",
+  "description": "A twist on traditional bao with the added crunch and flavor of dill pickles. Perfect for a light lunch or dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4"
+    },
+    {
+      "name": "Dill Pickle Slices",
+      "amount": "8",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Romantic Lettuce",
+      "amount": "1 head",
+      "notes": "use any mixed greens"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer or a pot of boiling water with a steamer basket.",
+    "In a small bowl, mix yeast with 1/2 cup warm water and let it sit for 5 minutes.",
+    "In a large bowl, combine the yeast mixture, 2 cups of flour, and 1/4 cup of sugar. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Punch down the dough and divide it into 4 equal parts.",
+    "Shape each part into a ball and then flatten it slightly into a disk.",
+    "Steam the bao for 10-12 minutes, or until cooked through.",
+    "Meanwhile, slice the dill pickles into thin rounds.",
+    "To assemble, place a bao on a plate, top with a lettuce leaf, a few slices of pickle, and some chopped fresh dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "bao",
+    "pickles",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-yeasty-malaysian-dill-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:51:17.962Z"
+}
