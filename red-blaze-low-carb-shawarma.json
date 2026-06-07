@@ -1,0 +1,84 @@
+{
+  "slug": "red-blaze-low-carb-shawarma",
+  "title": "Low Carb Shawarma",
+  "description": "A low-carb twist on the classic Middle Eastern dish. Grilled to perfection and served in a low-carb wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "blaze sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "low carb pitas",
+      "amount": "4",
+      "notes": "or substitute with lettuce wraps"
+    },
+    {
+      "name": "shawarma spice",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 lb",
+      "notes": "or substitute with beef or chicken"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix shawarma spice and garlic.",
+    "Add the spice mixture to the ground lamb and mix well.",
+    "Form the lamb mixture into 4-6 patties.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your liking.",
+    "Meanwhile, grill the low-carb pitas for 1-2 minutes per side, or until lightly toasted.",
+    "Assemble the shawarma by slicing the grilled lamb and serving in the pitas.",
+    "Top with sliced red onion, cucumber, and a drizzle of blaze sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "middle-eastern",
+    "lunch",
+    "grilled",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-blaze-low-carb-shawarma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:16:48.126Z"
+}
