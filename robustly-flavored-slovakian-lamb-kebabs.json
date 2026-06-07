@@ -1,0 +1,85 @@
+{
+  "slug": "robustly-flavored-slovakian-lamb-kebabs",
+  "title": "Slovakian Lamb Kebabs",
+  "description": "Classic Slovakian-inspired lamb kebabs, marinated in a flavorful blend of spices and herbs. Serve with a side of warm pita bread and a dollop of sour cream.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, parsley, dill, red pepper flakes, salt, and black pepper.",
+    "Add lamb cubes to the marinade and toss to coat.",
+    "Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush kebabs with remaining marinade.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Serve kebabs hot with pita bread, a dollop of sour cream, and a side of warm vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "slovakian",
+    "grilling",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-flavored-slovakian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:51:11.240Z"
+}
