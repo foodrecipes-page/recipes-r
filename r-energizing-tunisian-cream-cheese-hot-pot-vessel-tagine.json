@@ -1,0 +1,73 @@
+{
+  "slug": "r-energizing-tunisian-cream-cheese-hot-pot-vessel-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful North African stew made with chicken, spices, and dried fruits. Perfect for a cold evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 teaspoons tunisian spice blend"
+    },
+    {
+      "name": "hot",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "energizing",
+      "amount": "1/2 teaspoon ground ginger"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup chicken broth"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup crumbled feta cheese (optional)"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large onion, chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and black pepper.",
+    "Heat oil in a large pot over medium-high heat. Sear the chicken until browned, then remove from the pot.",
+    "Add the tunisian spice blend, cumin, and ginger to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chicken broth to the pot and stir to combine.",
+    "Return the chicken to the pot and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the chicken is cooked through, about 20-25 minutes.",
+    "Stir in the crumbled feta cheese (if using).",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "stew",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/r-energizing-tunisian-cream-cheese-hot-pot-vessel-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:29:17.591Z"
+}
