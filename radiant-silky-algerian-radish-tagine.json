@@ -1,0 +1,65 @@
+{
+  "slug": "radiant-silky-algerian-radish-tagine",
+  "title": "Tagine with Radish and Algerian Flair",
+  "description": "A flavorful North African-inspired stew made with tender radish and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 tsp ground",
+      "notes": "cumin and coriander blend"
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the silky in a large clay or ceramic pot over medium heat.",
+    "Add the Algerian and cook, stirring constantly, for 1-2 minutes until fragrant.",
+    "Add the radish and cook, stirring occasionally, for 5-7 minutes until tender.",
+    "Add the water, salt, and tagine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 10-15 minutes.",
+    "Serve hot, garnished with additional Algerian if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-silky-algerian-radish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:57:37.012Z"
+}
