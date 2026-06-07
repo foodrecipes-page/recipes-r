@@ -1,0 +1,58 @@
+{
+  "slug": "radiant-egyptian-milk-mousse",
+  "title": "Egyptian Milk Mousse Radiant Delight",
+  "description": "A creamy and light dessert that combines the richness of milk with the elegance of radiant and egyptian ingredients. Perfect for a sweet indulgence.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk for best results"
+    },
+    {
+      "name": "radiant",
+      "amount": "1/4 cup",
+      "notes": "optional, for added sparkle"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tablespoon",
+      "notes": "honey or rosewater for flavor"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine milk and egyptian. Heat over medium heat, stirring occasionally, until the mixture simmers.",
+    "Remove the saucepan from the heat and let it steep for 5 minutes.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl. Discard the solids.",
+    "Whip 1/2 cup heavy cream until stiff peaks form. Fold the whipped cream into the milk mixture until well combined.",
+    "If using radiant, fold it gently into the mixture. Spoon the mousse into individual serving cups.",
+    "Refrigerate for at least 2 hours, or until chilled and set.",
+    "Serve chilled, garnished with additional radiant if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "mousse",
+    "creamy",
+    "radiant",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-egyptian-milk-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:56:52.908Z"
+}
