@@ -1,0 +1,79 @@
+{
+  "slug": "rich-tunisian-almonds-fritters",
+  "title": "Tunisian Fritter Bread",
+  "description": "A traditional Tunisian dessert with a twist, using fritters and rich almonds.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "rich almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, confectioners' sugar, and salt.",
+    "Add chopped almonds and mix well.",
+    "In a separate bowl, whisk together eggs and vanilla extract.",
+    "Add fritters to the egg mixture and mix until well combined.",
+    "Pour the egg mixture into the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Shape the dough into a round loaf.",
+    "Brush with vegetable oil and bake for 35-40 minutes or until golden brown.",
+    "Let cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "dessert",
+    "almonds",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tunisian-almonds-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:50:33.027Z"
+}
