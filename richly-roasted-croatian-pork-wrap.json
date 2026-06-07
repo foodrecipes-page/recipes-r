@@ -1,0 +1,89 @@
+{
+  "slug": "richly-roasted-croatian-pork-wrap",
+  "title": "Croatian Pork Wrap",
+  "description": "A delicious wrap filled with slow-cooked, richly flavored Croatian pork, perfect for a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian pork shoulder",
+      "amount": "1 (3 pound) piece",
+      "notes": "Bone-in for extra flavor"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "Sliced into strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Hungarian-style"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lamb's letuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "Whole wheat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork shoulder with salt, black pepper, and paprika.",
+    "Place the pork in a roasting pan and roast for 2 1/2 hours, or until tender.",
+    "While the pork is cooking, sauté the onion and garlic in a skillet until caramelized.",
+    "Add the roasted red peppers to the skillet and cook for an additional 2 minutes.",
+    "Shred the cooked pork with two forks and add to the skillet.",
+    "Stir in the chopped lamb's lettuce.",
+    "Warm the wrap in the oven for 2-3 minutes.",
+    "Assemble the wrap by placing the pork mixture on the wrap and serving immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "wrap",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-croatian-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:39:12.265Z"
+}
