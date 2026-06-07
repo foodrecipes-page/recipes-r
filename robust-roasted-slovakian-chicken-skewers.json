@@ -1,0 +1,77 @@
+{
+  "slug": "robust-roasted-slovakian-chicken-skewers",
+  "title": "Slovakian Chicken Skewers",
+  "description": "A delicious and easy-to-make dish from Slovakia, featuring marinated chicken skewers grilled to perfection. This recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Slovak",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 teaspoons",
+      "notes": "Smoked"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together paprika, garlic, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken and roasted peppers onto skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "slovakian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-roasted-slovakian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:15:50.642Z"
+}
