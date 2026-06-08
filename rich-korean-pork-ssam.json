@@ -1,0 +1,89 @@
+{
+  "slug": "rich-korean-pork-ssam",
+  "title": "Korean-Style Pork Ssam",
+  "description": "A Korean-inspired pork dish served with a sweet and spicy sauce, wrapped in a crispy lettuce leaf.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce leaves (such as napa or romaine)",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Rich sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together chili flakes, brown sugar, garlic, ginger, soy sauce, and rice vinegar.",
+    "2. Add the sliced pork to the marinade and toss to coat.",
+    "3. Let the pork marinate for at least 30 minutes.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Remove the pork from the marinade and cook for 3-4 minutes per side, or until cooked through.",
+    "6. Brush the lettuce leaves with sesame oil.",
+    "7. Assemble the ssam by placing a few pieces of pork onto a lettuce leaf, followed by a spoonful of the marinade sauce.",
+    "8. Serve immediately and enjoy!",
+    "9. Cook the pork to an internal temperature of 145°F (63°C) to ensure food safety.",
+    "10. Let the pork rest for 5 minutes before slicing against the grain."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "ssam"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-korean-pork-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:23:34.398Z"
+}
