@@ -1,0 +1,65 @@
+{
+  "slug": "roasted-italian-pecorino-caponata",
+  "title": "Italian Pecorino Frittata with Roasted Vegetables",
+  "description": "A delicious Italian-inspired frittata filled with roasted vegetables and topped with a blend of pecorino cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "Large eggs for the frittata"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "Chopped roasted vegetables such as zucchini, bell peppers, and eggplant"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup",
+      "notes": "Shaved or grated pecorino cheese for topping"
+    },
+    {
+      "name": "Caponata",
+      "amount": "1/4 cup",
+      "notes": "Chopped caponata for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk the eggs in a bowl and season with salt and pepper.",
+    "Heat a non-stick skillet over medium heat and add the roasted vegetables.",
+    "Pour the whisked eggs over the vegetables and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle the pecorino cheese over the top.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and top with chopped caponata.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "frittata",
+    "eggs",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-italian-pecorino-caponata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:02:18.420Z"
+}
