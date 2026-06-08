@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-shandong-lemongrass-takrai-roast",
+  "title": "Shandong Roast Chicken with Lemongrass",
+  "description": "A classic Chinese-inspired dish with the flavors of Shandong province. Perfect for a weeknight dinner. The lemongrass adds a nice citrus note to the rich roast chicken.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1",
+      "notes": "3-4 lbs"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Shandong roast",
+      "amount": "2 tbsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together soy sauce, Shandong roast, and black pepper.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "Stuff the cavity with lemongrass, garlic, and ginger.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast for 45-50 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "lemon",
+    "garlic",
+    "ginger",
+    "soy sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-shandong-lemongrass-takrai-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:52.076Z"
+}
