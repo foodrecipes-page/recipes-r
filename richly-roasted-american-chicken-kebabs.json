@@ -1,0 +1,89 @@
+{
+  "slug": "richly-roasted-american-chicken-kebabs",
+  "title": "Richly Roasted Chicken Kebabs",
+  "description": "A delicious and flavorful dish featuring marinated chicken kebabs roasted to perfection. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless, skinless",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "Roasted peppers (any color)",
+      "amount": "2",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Add chicken and roasted peppers to the bowl. Toss to coat with marinade.",
+    "Thread chicken and peppers onto skewers.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Brush tops with lemon juice.",
+    "Roast for 20-25 minutes or until chicken is cooked through and internal temperature reaches 165°F (74°C).",
+    "Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "roasted",
+    "american",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-american-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:00.787Z"
+}
