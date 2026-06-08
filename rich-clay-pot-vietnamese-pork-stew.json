@@ -1,0 +1,88 @@
+{
+  "slug": "rich-clay-pot-vietnamese-pork-stew",
+  "title": "Vietnamese-Style Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and a variety of spices. Perfect for a cold winter's night.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "pot",
+      "amount": null,
+      "notes": "large pot for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in the pot over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and minced garlic and cook until the onion is translucent.",
+    "Add the fish sauce, soy sauce, sugar, and chili flakes and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "stew",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-clay-pot-vietnamese-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:42:48.133Z"
+}
