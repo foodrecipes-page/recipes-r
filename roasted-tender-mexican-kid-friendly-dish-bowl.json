@@ -1,0 +1,99 @@
+{
+  "slug": "roasted-tender-mexican-kid-friendly-dish-bowl",
+  "title": "Mexican Roasted Chicken Bowl",
+  "description": "A delicious and easy to make Mexican inspired dish, perfect for a weeknight dinner. This recipe serves four and can be customized with your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with cumin, chili powder, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the chicken until browned, then transfer to a baking sheet and roast in the oven for 20-25 minutes.",
+    "While the chicken is roasting, heat some more olive oil in the skillet and sauté the red bell pepper, onion, and tomato until tender.",
+    "Fluff the cooked brown rice with a fork and divide among four bowls.",
+    "Once the chicken is done, let it rest for a few minutes before slicing and serving on top of the rice.",
+    "Add the roasted vegetables to the bowls and top with the sliced chicken.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-roasted-chicken",
+    "kid-friendly",
+    "easy-meals",
+    "chicken-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-tender-mexican-kid-friendly-dish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:39:50.878Z"
+}
