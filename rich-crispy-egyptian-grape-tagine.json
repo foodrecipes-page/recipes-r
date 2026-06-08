@@ -1,0 +1,84 @@
+{
+  "slug": "rich-crispy-egyptian-grape-tagine",
+  "title": "Grilled Grape and Tagine Chicken Shawarma",
+  "description": "A flavorful and aromatic street food-inspired dish featuring grilled chicken, sweet grapes, and rich tagine spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Grape halves",
+      "amount": "1 cup",
+      "notes": "red or green, fresh"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Crispy flatbread",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Rich tahini sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tomato wedges",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together tagine spice blend, 2 tablespoons olive oil, and 1 tablespoon lemon juice.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the flatbread on the grill or in a toaster.",
+    "Assemble the shawarma by slicing the grilled chicken and serving it in the flatbread with grapes, tahini sauce, cucumber slices, tomato wedges, and parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "shawarma",
+    "middle-eastern",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-egyptian-grape-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:41:30.681Z"
+}
