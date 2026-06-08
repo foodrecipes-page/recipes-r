@@ -1,0 +1,105 @@
+{
+  "slug": "rich-algerian-ox-tail-tagine",
+  "title": "Algerian Ox Tail Tagine",
+  "description": "A hearty Moroccan-inspired stew made with tender ox tail, rich flavors, and aromatic spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ox tail",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rich tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger; cook for 1 minute.",
+    "Add the cumin, coriander, paprika, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the ox tail and cook until browned on all sides, about 5 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 hours, or until the meat is tender.",
+    "Stir in the rich tomato paste. Simmer over low heat for 10 minutes.",
+    "Serve hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "algerian",
+    "ox-tail",
+    "tagine",
+    "morrocan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-algerian-ox-tail-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:27:34.450Z"
+}
