@@ -1,0 +1,66 @@
+{
+  "slug": "rich-mexican-chickpea-stir-fry",
+  "title": "Chickpea Fajita Stir Fry",
+  "description": "A fusion of Mexican and Indian flavors in a quick and easy stir fry dish made with chickpeas.",
+  "cuisine": "Mexican-Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rich stir-fry sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add chickpeas, fajita seasoning, and cumin. Stir well.",
+    "Pour in stir-fry sauce and stir-fry until the sauce is bubbly and slightly thickened.",
+    "Serve hot over rice or with tortillas.",
+    "Garnish with cilantro, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "mexican",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-chickpea-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:03:14.185Z"
+}
