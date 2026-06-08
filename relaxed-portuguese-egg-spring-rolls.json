@@ -1,0 +1,89 @@
+{
+  "slug": "relaxed-portuguese-egg-spring-rolls",
+  "title": "Spring Roll Filling with Portuguese Egg Omelette",
+  "description": "A delicious and easy-to-make spring roll filling featuring a Portuguese egg omelette, perfect for a quick snack or meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spring rolls",
+      "amount": "4",
+      "notes": "any type of spring roll wrapper"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "2 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, beat the eggs and set aside.",
+    "Heat a small pan over medium heat and cook the onion and garlic until softened.",
+    "Add the Portuguese sausage to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Pour the beaten eggs over the onion and sausage mixture and cook until the eggs are almost set.",
+    "Add salt and pepper to taste.",
+    "To assemble the spring rolls, lay a spring roll wrapper on a clean surface.",
+    "Place a tablespoon of the egg mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet or wok over medium-high heat and add a tablespoon of vegetable oil.",
+    "When the oil is hot, add the spring rolls to the pan and cook until golden brown and crispy.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "egg",
+    "spring-roll",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/relaxed-portuguese-egg-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:15:15.456Z"
+}
