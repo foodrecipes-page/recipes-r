@@ -1,0 +1,57 @@
+{
+  "slug": "raw-earth-bean-salad",
+  "title": "Earth Salad Bowl",
+  "description": "A fresh and earthy salad bowl made with locally sourced ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw earth",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "bean salad",
+      "amount": "2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "fresh and crisp"
+    },
+    {
+      "name": "crushed salad",
+      "amount": "1/2 cup",
+      "notes": "adds crunch to the dish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the crushed earth, bean salad, and mixed greens.",
+    "2. Top with crushed salad and mix well.",
+    "3. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-earth-bean-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:35:28.558Z"
+}
