@@ -1,0 +1,94 @@
+{
+  "slug": "rich-and-meaty-vietnamese-sausages-pho",
+  "title": "Vietnamese Sausage Pho",
+  "description": "A rich and comforting Vietnamese noodle soup made with meaty sausages and a flavorful broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vietnamese sausages",
+      "amount": "1 pound",
+      "notes": "You can use either pork or chicken sausages"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Add the sliced ginger and onion to the pot and simmer for 10 minutes.",
+    "Add the fish sauce, soy sauce, and sugar to the pot and stir to combine.",
+    "Add the Vietnamese sausages to the pot and cook for 5 minutes.",
+    "Add the rice noodles to the pot and cook for 2-3 minutes, or until they are slightly tender.",
+    "Remove the sausages from the pot and slice them into thin rounds.",
+    "Add the sliced sausages back to the pot and stir to combine.",
+    "Ladle the soup into bowls and top with bean sprouts and a lime wedge.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-meaty-vietnamese-sausages-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:19:45.384Z"
+}
