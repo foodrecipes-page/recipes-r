@@ -1,0 +1,83 @@
+{
+  "slug": "rich-roasted-syrian-mushroom-casserole",
+  "title": "Syrian Roasted Mushroom Casserole",
+  "description": "A hearty, comforting casserole filled with rich roasted mushrooms and syrian spices. Perfect for a cozy dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Roasted mushrooms",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat the olive oil in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the roasted mushrooms, paprika, salt, and pepper. Cook for 2-3 minutes.",
+    "Stir in the Syrian rice and beef broth. Bring to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort food",
+    "syrian cuisine",
+    "mushroom dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-syrian-mushroom-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:43:34.793Z"
+}
