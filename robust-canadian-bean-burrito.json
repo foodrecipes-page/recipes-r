@@ -1,0 +1,75 @@
+{
+  "slug": "robust-canadian-bean-burrito",
+  "title": "Canadian Bean Burrito",
+  "description": "A hearty burrito packed with robust flavors and wholesome Canadian beans.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Robust burrito seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": "whole wheat or corn"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the tortilla in a dry pan for 30 seconds on each side.",
+    "Add the cooked Canadian beans, robust burrito seasoning, and diced avocado to the tortilla.",
+    "Squeeze a small amount of lime juice over the filling.",
+    "Sprinkle chopped cilantro on top.",
+    "Fold the bottom half of the tortilla up over the filling.",
+    "Fold in the sides and roll the burrito up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "beans",
+    "burrito",
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-canadian-bean-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:14:36.095Z"
+}
