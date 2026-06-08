@@ -1,0 +1,100 @@
+{
+  "slug": "rich-gooey-slovakian-pork-belly-stir-fry",
+  "title": "Slovakian Pork Belly Stir Fry",
+  "description": "A hearty Slovakian-inspired dish featuring crispy pork belly and a rich, savory sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rich slovakian dark rye",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "goey honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork belly and cook until crispy, about 5-7 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the crushed dark rye and cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth, soy sauce, salt, and black pepper to the skillet.",
+    "Bring the mixture to a simmer and cook until slightly thickened, about 2-3 minutes.",
+    "Add the cooked pork belly back to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, until the pork is coated in the sauce.",
+    "Serve hot over rice or noodles and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "belly",
+    "stir-fry",
+    "rich",
+    "goey"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-gooey-slovakian-pork-belly-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:30:02.146Z"
+}
