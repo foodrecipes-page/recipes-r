@@ -1,0 +1,79 @@
+{
+  "slug": "richly-glazed-turkish-lamb-iskender",
+  "title": "Turkish-Style Iskender Lamb Kebabs",
+  "description": "A classic Turkish dish featuring thinly sliced lamb, served with a rich and savory sauce, and a side of crusty bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Iskender sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4-6 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the lamb with salt, black pepper, and paprika.",
+    "Thread the lamb slices onto skewers, if using.",
+    "Brush the grill with butter to prevent sticking.",
+    "Grill the lamb for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the bread on the grill or in a toaster.",
+    "Serve the lamb hot with toasted bread, iskender sauce, and a sprinkle of garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "grilled",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-glazed-turkish-lamb-iskender",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:25:59.961Z"
+}
