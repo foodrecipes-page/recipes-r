@@ -1,0 +1,87 @@
+{
+  "slug": "romantic-spicy-jamaican-tarragon-bake",
+  "title": "Jamaican Jerk Chicken Bake",
+  "description": "A spicy and aromatic chicken dish with a Jamaican twist, perfect for a romantic dinner. The combination of jerk seasoning and tarragon adds a unique flavor profile.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "fresh tarragon",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together jerk seasoning, olive oil, tarragon, onion, garlic, and bell pepper.",
+    "Place the chicken breast in a large baking dish and brush with the jerk seasoning mixture.",
+    "Add the diced potato and tomato paste (if using) to the baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the chicken is cooked through.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "spicy",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-spicy-jamaican-tarragon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:33:21.136Z"
+}
