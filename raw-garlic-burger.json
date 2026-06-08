@@ -1,0 +1,72 @@
+{
+  "slug": "raw-garlic-burger",
+  "title": "Classic Cheeseburger",
+  "description": "A simple yet delicious homemade burger recipe featuring a juicy beef patty, melted cheese, and fresh toppings.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": "soft and fresh"
+    },
+    {
+      "name": "American cheese",
+      "amount": "4 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 equal sized patties.",
+    "Season the patties with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 63°C (145°F).",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Assemble the burgers by spreading garlic mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese, a few slices of tomato, and finally the shredded lettuce.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheeseburger",
+    "homemade",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-garlic-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:27:51.277Z"
+}
