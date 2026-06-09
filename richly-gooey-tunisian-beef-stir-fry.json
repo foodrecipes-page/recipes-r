@@ -1,0 +1,111 @@
+{
+  "slug": "richly-gooey-tunisian-beef-stir-fry",
+  "title": "Tunisian Beef Tagine",
+  "description": "A flavorful North African stew made with tender beef and richly aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound, cut into small pieces)",
+      "amount": "1",
+      "notes": "Use a tougher cut of beef, such as shank or short ribs."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality olive oil for the best flavor."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion into small pieces for easier cooking."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for best flavor."
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "A mix of cumin, coriander, and cinnamon."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add more cumin to taste."
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Add more coriander to taste."
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Add more cinnamon to taste."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Add more salt to taste."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Add more black pepper to taste."
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "Use low-sodium broth for best flavor."
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "Chop the apricots into small pieces."
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "Chop the almonds into small pieces."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the tunisian spice blend, cumin, coriander, cinnamon, salt, and black pepper.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the dried apricots and almonds.",
+    "Simmer for 10 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "north-african",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-gooey-tunisian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:08:53.338Z"
+}
