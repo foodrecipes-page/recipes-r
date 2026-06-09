@@ -1,0 +1,74 @@
+{
+  "slug": "rich-uruguayan-beef-roast",
+  "title": "Uruguayan Beef Roast",
+  "description": "A traditional Uruguayan-style roasted beef dish, served with a rich and savory flavor. Perfect for special occasions.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Roast",
+      "amount": "2 pounds",
+      "notes": "Chuck or rib roast works well"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the beef roast with salt and black pepper.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven.",
+    "Roast the beef in the oven for 2-3 hours, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the beef rest for 10-15 minutes before slicing.",
+    "Serve with a sprinkle of fresh thyme and garlic on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "roast",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:41:19.772Z"
+}
