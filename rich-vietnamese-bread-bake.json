@@ -1,0 +1,78 @@
+{
+  "slug": "rich-vietnamese-bread-bake",
+  "title": "Vietnamese Banh Mi Sandwich",
+  "description": "A classic Vietnamese sandwich made with a crispy baguette, pickled vegetables, and a variety of meats, all grilled to perfection. This recipe is perfect for a quick and delicious meal.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "4-6 inches"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Vietnamese Chili Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pickled Carrots and Daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the pork belly with salt and pepper.",
+    "Grill the pork belly for 2-3 minutes per side, or until cooked through.",
+    "Slice the baguette in half and grill for 1-2 minutes, or until crispy.",
+    "Spread mayonnaise on the bottom half of the baguette.",
+    "Add sliced pork belly, pickled carrots and daikon, mint leaves, cucumber slices, and hoisin sauce on top of the mayonnaise.",
+    "Place the top half of the baguette on the sandwich and serve immediately.",
+    "Garnish with fresh cilantro and serve with additional chili sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "sandwich",
+    "grilled",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-vietnamese-bread-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:04:36.020Z"
+}
