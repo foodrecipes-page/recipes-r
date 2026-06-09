@@ -1,0 +1,84 @@
+{
+  "slug": "richly-spiced-kenyan-lamb-stew",
+  "title": "Spiced Kenyan Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with richly spiced lamb. Serve with a side of rice or naan bread.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Spices",
+      "amount": "2 teaspoons curry powder, 1 teaspoon turmeric, 1 teaspoon cumin, 1 teaspoon paprika",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 lemon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the lamb until browned, about 5 minutes. Remove the lamb and set aside.",
+    "Reduce heat to medium. Add the onion, garlic, and red bell pepper. Cook until the vegetables are softened, about 5 minutes.",
+    "Add the tomatoes, spices, salt, and pepper. Cook for 1 minute.",
+    "Return the lamb to the pot. Add the coconut milk. Stir well to combine.",
+    "Bring the stew to a boil. Reduce heat to low. Cover the pot and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the cilantro. Squeeze the lemon juice over the stew.",
+    "Serve the stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "kenyan",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:56:09.028Z"
+}
