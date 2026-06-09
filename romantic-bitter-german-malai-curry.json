@@ -1,0 +1,97 @@
+{
+  "slug": "romantic-bitter-german-malai-curry",
+  "title": "German Curry Chicken",
+  "description": "A twist on traditional German cuisine, this dish combines the flavors of India with classic German comfort. Chicken cooked in a rich curry sauce, served with a side of bitter greens.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Malai curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "German beer",
+      "amount": "1 cup",
+      "notes": "used for cooking"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "German potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Romantic red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "German parsley",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the chicken until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add curry paste to the pot and cook for 1 minute, stirring constantly.",
+    "Add beer to the pot, scraping up any browned bits from the bottom.",
+    "Return the chicken to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken cooks, boil the potatoes until tender. Drain and set aside.",
+    "In a large skillet, sauté the bitter greens with olive oil until wilted.",
+    "To serve, slice the chicken and serve with potatoes, bitter greens, and garnish with parsley.",
+    "Serve with a side of Romantic red onion salad, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "curry",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-bitter-german-malai-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:58:28.209Z"
+}
