@@ -1,0 +1,89 @@
+{
+  "slug": "robust-raw-dutch-beet-tagine",
+  "title": "Beet and Robust Tagine",
+  "description": "A hearty and flavorful Moroccan stew made with roasted beets, robust beef, and fragrant spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Robust beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Raw beets",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Dutch carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Beetroot powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large Dutch oven or heavy pot, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the chopped beets, carrots, cumin, coriander, turmeric, salt, and pepper.",
+    "Stir to combine, then add the beetroot powder (if using).",
+    "Transfer the pot to the preheated oven and roast for 30 minutes.",
+    "Reduce heat to 300°F (150°C) and simmer, covered, for 1 hour.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "beets",
+    "moroccan",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-raw-dutch-beet-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:43:33.785Z"
+}
