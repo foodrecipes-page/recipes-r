@@ -1,0 +1,69 @@
+{
+  "slug": "roasted-charred-middle-eastern-lamb-kebabs",
+  "title": "Middle Eastern Lamb Kebabs",
+  "description": "A flavorful and easy-to-make dish featuring marinated lamb skewers, perfect for a summer evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, parsley, garlic, lemon juice, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix to coat.",
+    "Thread the marinated lamb onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the lamb is cooked to your liking.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-charred-middle-eastern-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:14:36.700Z"
+}
