@@ -1,0 +1,95 @@
+{
+  "slug": "rustic-croatian-vegetable-flatbread",
+  "title": "Croatian Vegetable Flatbread",
+  "description": "A rustic Croatian-inspired flatbread topped with a variety of sautéed vegetables and perfect for snacking or as a side dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread (Croatian rustic bread)",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "any color, chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the flatbread into 1-inch (2.5 cm) thick slices.",
+    "3. Brush the flatbread slices with olive oil and season with salt and black pepper.",
+    "4. In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "5. Add the chopped onion, garlic, bell pepper, and zucchini, and cook for 5-7 minutes, until the vegetables are tender.",
+    "6. Add the chopped tomato and cook for an additional 1-2 minutes.",
+    "7. Brush the flatbread slices with the remaining 2 tablespoons of olive oil and place on a baking sheet.",
+    "8. Bake the flatbread in the preheated oven for 5-7 minutes, until crispy and golden brown.",
+    "9. Remove the flatbread from the oven and top with the sautéed vegetables.",
+    "10. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "flatbread",
+    "snack",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-croatian-vegetable-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:57:50.216Z"
+}
