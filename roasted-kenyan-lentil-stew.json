@@ -1,0 +1,86 @@
+{
+  "slug": "roasted-kenyan-lentil-stew",
+  "title": "Kenyan Lentil Stew",
+  "description": "A hearty and flavorful Kenyan-inspired lentil stew, perfect for a chilly evening.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Spices (cumin, coriander, turmeric)",
+      "amount": "1 teaspoon each",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened.",
+    "Add carrot and potato, cook for 5 minutes.",
+    "Add cumin, coriander, and turmeric, cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add red lentils, vegetable broth, and roasted tomatoes.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-kenyan-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:24:17.264Z"
+}
