@@ -1,0 +1,86 @@
+{
+  "slug": "racy-mediterranean-boudin-blanc-bowl",
+  "title": "Boudin and Blanc Bowl",
+  "description": "A flavorful and nutritious bowl dish featuring boudin and a side of creamy blanc sauce.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin",
+      "amount": "250g",
+      "notes": "Cajun-style sausage"
+    },
+    {
+      "name": "blanc",
+      "amount": "150g",
+      "notes": "White rice"
+    },
+    {
+      "name": "racy",
+      "amount": "1 bunch",
+      "notes": "Mixed greens"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    }
+  ],
+  "instructions": [
+    "Cook the blanc according to the package instructions.",
+    "Heat the olive oil in a pan over medium-high heat. Add the boudin and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Add the cherry tomatoes to the pan and cook for 2-3 minutes, until they start to release their juices.",
+    "To assemble the bowl, place a scoop of cooked blanc on the bottom, followed by a slice of cooked boudin.",
+    "Top the boudin with a spoonful of mixed greens and a sprinkle of salt and pepper.",
+    "Drizzle the lemon juice over the top of the bowl and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bowl",
+    "lunch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/racy-mediterranean-boudin-blanc-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:28:42.726Z"
+}
