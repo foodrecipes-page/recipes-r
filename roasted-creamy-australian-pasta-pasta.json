@@ -1,0 +1,71 @@
+{
+  "slug": "roasted-creamy-australian-pasta-pasta",
+  "title": "Creamy Australian Pasta Bake",
+  "description": "A comforting pasta bake with a creamy sauce and a touch of australian flavors.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "roasted vegetables (carrots, zucchini)",
+      "amount": "250g",
+      "notes": "diced"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "250ml",
+      "notes": "store-bought"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "sliced australian bacon (optional)",
+      "amount": "100g"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, sauté the roasted vegetables in a little bit of oil until tender.",
+    "Add the creamy sauce to the skillet and stir to combine.",
+    "In a large mixing bowl, combine the cooked pasta, sautéed vegetables, and creamy sauce. Mix well.",
+    "Transfer the pasta mixture to a baking dish and top with grated cheddar cheese.",
+    "If using australian bacon, sprinkle it on top of the cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pasta-bake",
+    "creamy-sauce",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-creamy-australian-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:24:09.696Z"
+}
