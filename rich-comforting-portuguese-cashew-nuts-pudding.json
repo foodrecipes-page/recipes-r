@@ -1,0 +1,76 @@
+{
+  "slug": "rich-comforting-portuguese-cashew-nuts-pudding",
+  "title": "Portuguese Creamy Pudding Custard",
+  "description": "A traditional Portuguese dessert made creamy with cashew pudding. Rich and comforting, perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Custard Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender, blend soaked cashews with water until smooth.",
+    "In a saucepan, combine sugar, custard powder, and a pinch of salt. Whisk until well combined.",
+    "Gradually add the blended cashew mixture to the saucepan and cook over medium heat, stirring constantly.",
+    "In a separate bowl, whisk together eggs and vanilla extract.",
+    "Temper the egg mixture by slowly pouring the warm cashew mixture into the eggs, whisking continuously.",
+    "Pour the mixture into individual ramekins or a large baking dish.",
+    "Bake for 25-30 minutes or until set.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve cold, garnished with a sprinkle of cinnamon or nutmeg if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "comforting",
+    "rich",
+    "cream",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-comforting-portuguese-cashew-nuts-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:13:22.334Z"
+}
