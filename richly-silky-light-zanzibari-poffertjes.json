@@ -1,0 +1,80 @@
+{
+  "slug": "richly-silky-light-zanzibari-poffertjes",
+  "title": "Zanzibari Poffertjes with Light Silky Sauce",
+  "description": "A simple yet elegant dessert featuring poffertjes with a zanzibari inspired sauce, topped with a silky light whipped cream.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Poffertjes Mix",
+      "amount": "250g",
+      "notes": "available at most Dutch bakeries"
+    },
+    {
+      "name": "Zanzibari Spice Blend",
+      "amount": "1 tsp",
+      "notes": "contains cinnamon, cardamom, and nutmeg"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Light Cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Rich Whipped Cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick poffertjes pan or a regular pan with a small amount of butter.",
+    "Combine poffertjes mix, zanzibari spice blend, and 1 tbsp of unsalted butter in a bowl.",
+    "Add large eggs and mix until a smooth batter forms.",
+    "Gradually add 3/4 cup of granulated sugar and mix until combined.",
+    "Pour the batter into the preheated pan and cook until the poffertjes are golden brown.",
+    "In a separate bowl, whip the light cream until stiff peaks form.",
+    "Add the remaining 1/4 cup of granulated sugar and whip until combined.",
+    "To assemble the dessert, place 2-3 poffertjes on a plate, top with a dollop of light whipped cream, and drizzle with the silky sauce (optional).",
+    "If desired, top with rich whipped cream and a sprinkle of zanzibari spice blend."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "dessert",
+    "whipped-cream",
+    "poffertjes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-silky-light-zanzibari-poffertjes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:12:01.261Z"
+}
