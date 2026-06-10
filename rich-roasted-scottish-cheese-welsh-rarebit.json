@@ -1,0 +1,81 @@
+{
+  "slug": "rich-roasted-scottish-cheese-welsh-rarebit",
+  "title": "Welsh Rarebit",
+  "description": "A classic Welsh dish made with melted cheese and ale, served over toasted bread.",
+  "cuisine": "Welsh",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Grated cheddar or similar"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "White or whole wheat"
+    },
+    {
+      "name": "Ale",
+      "amount": "1/4 cup",
+      "notes": "Beer or stout"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tablespoon",
+      "notes": "Dijon or English"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    " Toast the bread slices until lightly browned.",
+    "In a saucepan, melt the butter over low heat.",
+    "Add the grated cheese, ale, mustard, and Worcestershire sauce (if using).",
+    "Stir until the cheese is melted and the sauce is smooth.",
+    "Season with salt and pepper to taste.",
+    "Place the toasted bread slices under the broiler for 1-2 minutes, until the cheese is bubbly and golden brown.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "cheese",
+    "ale",
+    "wales",
+    "rarebit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-scottish-cheese-welsh-rarebit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:57:20.535Z"
+}
