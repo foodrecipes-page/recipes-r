@@ -1,0 +1,94 @@
+{
+  "slug": "robata-grilled-mediterranean-lamb-tagine",
+  "title": "Mediterranean Lamb Tagine",
+  "description": "A flavorful and aromatic lamb tagine infused with the essence of Mediterranean spices, perfect for a special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot or Dutch oven over medium heat.",
+    "Brown the lamb on all sides, then set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cinnamon, cumin, coriander, salt, and pepper, and cook for 1 minute.",
+    "Add the browned lamb and any accumulated juices, and bring to a simmer.",
+    "Transfer the pot to the oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and stir in the preserved lemon, if using.",
+    "Serve the lamb hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robata-grilled-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:26:46.205Z"
+}
