@@ -1,0 +1,90 @@
+{
+  "slug": "robustly-citrusy-ukrainian-white-beans-stew",
+  "title": "Borshch Stew",
+  "description": "A hearty and flavorful Ukrainian stew made with beef and vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "white beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "stew soup mix",
+      "amount": "1 packet",
+      "notes": "optional"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "or beef broth"
+    }
+  ],
+  "instructions": [
+    "Combine beef, carrots, beets, and white beans in a large pot.",
+    "Add onion, garlic, tomato paste, and stew soup mix to the pot.",
+    "Pour in water and vinegar, if using.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-citrusy-ukrainian-white-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:59:06.321Z"
+}
