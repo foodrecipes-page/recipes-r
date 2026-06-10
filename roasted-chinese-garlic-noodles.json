@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-chinese-garlic-noodles",
+  "title": "Chinese Roasted Garlic Noodles",
+  "description": "A simple and flavorful noodle dish that combines the richness of roasted garlic with the savory flavors of Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced green onions and cook until softened, about 2-3 minutes.",
+    "Add the roasted garlic and cook for an additional 1-2 minutes.",
+    "Add the soy sauce and sesame oil to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "garlic",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-chinese-garlic-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:39:40.457Z"
+}
