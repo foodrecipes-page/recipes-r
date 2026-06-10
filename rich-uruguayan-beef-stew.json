@@ -1,0 +1,94 @@
+{
+  "slug": "rich-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A traditional Uruguayan beef stew made with tender chunks of beef and rich flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "2 tablespoons",
+      "notes": "Uruguayan herb sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the red wine to the pot and cook until reduced by half, about 5 minutes.",
+    "Add the beef broth, tomato paste, and chimichurri to the pot. Stir to combine.",
+    "Return the beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:02:20.759Z"
+}
