@@ -1,0 +1,58 @@
+{
+  "slug": "robust-korean-shiitake-noodles",
+  "title": "Spicy Korean Noodle Soup",
+  "description": "A flavorful and spicy noodle soup made with Korean chili flakes, shiitake mushrooms, and robust noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "robust noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Add the robust noodles and cook according to package instructions.",
+    "In a separate pan, heat 1 tbsp of vegetable oil over medium-high heat.",
+    "Add the shiitake mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Korean chili flakes and stir to combine.",
+    "Add the cooked noodles to the pan with the mushrooms and chili flakes.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional Korean chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "noodles",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-korean-shiitake-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:12:35.390Z"
+}
