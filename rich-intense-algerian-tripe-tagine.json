@@ -1,0 +1,96 @@
+{
+  "slug": "rich-intense-algerian-tripe-tagine",
+  "title": "Tripe Tagine",
+  "description": "A hearty and flavorful North African stew originating from Algeria, made with tender tripe and rich spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Rich Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and adding flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust according to preference"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Brown the tripe on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add the chickpeas, tripe, Algerian spice blend, tagine spice blend, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the tripe is tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "north-african",
+    "tagine",
+    "tripe",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-intense-algerian-tripe-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:18:29.856Z"
+}
