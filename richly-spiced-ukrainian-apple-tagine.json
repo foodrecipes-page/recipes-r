@@ -1,0 +1,89 @@
+{
+  "slug": "richly-spiced-ukrainian-apple-tagine",
+  "title": "Ukrainian Spiced Apple Tagine",
+  "description": "A warm and aromatic stew originating from Ukraine, this tagine combines the sweetness of apples with the rich flavors of spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3-4",
+      "notes": "Granny Smith or other firm varieties"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "richly spiced ukrainian sausage",
+      "amount": "1 lb",
+      "notes": "Sliced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add sausage and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add onion and cook, stirring occasionally, until softened, about 8 minutes.",
+    "Add tagine spice blend, cinnamon, nutmeg, salt, and pepper; cook, stirring constantly, for 1 minute.",
+    "Add apples and cook, stirring occasionally, until slightly tender, about 5 minutes.",
+    "Transfer pot to the oven and cook, covered, at 300°F (150°C) for 30 minutes.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "stew",
+    "apples",
+    "spices",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-ukrainian-apple-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:53:05.731Z"
+}
