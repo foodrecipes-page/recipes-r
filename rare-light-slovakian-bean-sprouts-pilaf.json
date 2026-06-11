@@ -1,0 +1,83 @@
+{
+  "slug": "rare-light-slovakian-bean-sprouts-pilaf",
+  "title": "Slovakian Bean and Pilaf Delight",
+  "description": "A hearty and flavorful dish from Slovakia, featuring tender beans and a nutty pilaf.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Bean",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Sprouts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and sauté until fragrant.",
+    "Add the pilaf and stir to combine with the garlic.",
+    "Add the dried beans, paprika, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 20 minutes or until the beans are tender.",
+    "Stir in the fresh sprouts and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional sprouts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "bean",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rare-light-slovakian-bean-sprouts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:08:20.288Z"
+}
