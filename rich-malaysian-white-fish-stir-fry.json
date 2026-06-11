@@ -1,0 +1,92 @@
+{
+  "slug": "rich-malaysian-white-fish-stir-fry",
+  "title": "Malaysian-Style Fish Fry",
+  "description": "A flavorful and spicy dish from Malaysia, where fish is stir-fried in a mixture of rich and aromatic spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (white fish fillets)",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Rich soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian chili paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Stir-fry vegetables (bell peppers, onions, etc.)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the white fish fillets and cook for 2-3 minutes on each side, until cooked through.",
+    "Remove the fish from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil and stir-fry the stir-fry vegetables until tender.",
+    "Add the Malaysian chili paste and stir-fry for another minute.",
+    "Return the cooked fish to the wok and pour in the rich soy sauce.",
+    "Stir everything together to combine and cook for a further 2-3 minutes.",
+    "Season with salt to taste and serve hot.",
+    "Serve with steamed rice or noodles.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "fish",
+    "stir-fry",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malaysian-white-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:10:54.916Z"
+}
