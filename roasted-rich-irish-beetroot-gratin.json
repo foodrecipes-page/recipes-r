@@ -1,0 +1,93 @@
+{
+  "slug": "roasted-rich-irish-beetroot-gratin",
+  "title": "Irish Beetroot Gratin",
+  "description": "A hearty and comforting dish that combines the sweetness of beetroot with the richness of a gratin topping.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Roasted potatoes",
+      "amount": "2-3",
+      "notes": "for serving"
+    },
+    {
+      "name": "Rich cream",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the beetroot into 1/2-inch thick rounds.",
+    "In a large saucepan, combine the sliced beetroot, butter, garlic, and a pinch of salt and pepper.",
+    "Cook over medium heat, stirring occasionally, until the beetroot is tender and lightly caramelized.",
+    "Transfer the beetroot mixture to a baking dish and top with grated cheese, breadcrumbs, and a splash of milk.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve the gratin hot, topped with roasted potatoes and a dollop of rich cream if desired.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beetroot",
+    "gratin",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-rich-irish-beetroot-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:29:48.898Z"
+}
