@@ -1,0 +1,84 @@
+{
+  "slug": "rich-crunchy-nostalgic-jamaican-beef-shin-stir-fry",
+  "title": "Jamaican Beef Stew",
+  "description": "A rich and flavorful stew made with tender beef shin and a blend of Jamaican spices. Perfect for a cold winter's night.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "rich all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting the meat"
+    },
+    {
+      "name": "crunchy chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "nostalgic chopped carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fry salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Dust the beef shin with the flour, shaking off any excess.",
+    "2. Heat the oil in a large Dutch oven over medium-high heat.",
+    "3. Sear the beef shin until browned on all sides, about 5 minutes.",
+    "4. Remove the beef from the pot and set aside.",
+    "5. Add the chopped onion and carrot to the pot, cooking until they begin to soften.",
+    "6. Add the jerk seasoning, salt, and beef broth to the pot, stirring to combine.",
+    "7. Return the beef to the pot, making sure it's covered in the broth.",
+    "8. Bring the stew to a boil, then reduce the heat to low and simmer for 2 1/2 hours, or until the beef is tender.",
+    "9. Remove the beef from the pot and let it rest for 10 minutes before slicing and serving.",
+    "10. Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-nostalgic-jamaican-beef-shin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:44:56.620Z"
+}
