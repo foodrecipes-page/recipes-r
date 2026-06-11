@@ -1,0 +1,72 @@
+{
+  "slug": "rich-silky-norwegian-almond-pudding",
+  "title": "Norwegian Cream Pudding",
+  "description": "A rich and silky dessert inspired by traditional Norwegian recipes, featuring almond and creamy pudding.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Chilled in the refrigerator"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Gluten-free flour for a gluten-free option"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Norwegian pudding mix",
+      "amount": "1 package",
+      "notes": "Look for a mix specifically labeled as 'Norwegian' for the best flavor"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened to room temperature"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the heavy cream, granulated sugar, and almond extract.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a simmer.",
+    "Reduce the heat to low and cook for an additional 2-3 minutes, or until the mixture has thickened slightly.",
+    "Remove the saucepan from the heat and stir in the Norwegian pudding mix until well combined.",
+    "Add in the softened butter and stir until melted and fully incorporated.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Serve chilled, garnished with a sprinkle of granulated sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "norwegian",
+    "cream-pudding",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-norwegian-almond-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:20:49.401Z"
+}
