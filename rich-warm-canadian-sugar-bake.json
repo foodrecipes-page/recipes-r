@@ -1,0 +1,82 @@
+{
+  "slug": "rich-warm-canadian-sugar-bake",
+  "title": "Warm Canadian Sugar Pie",
+  "description": "A classic Canadian dessert with a warm, gooey sugar filling, perfect for a cold winter's night. This pie is a staple of Canadian cuisine, with a rich, comforting flavor that's sure to satisfy any sweet tooth.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "cold, for pie crust"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "for filling"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "for filling"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "for crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the pie crust by combining flour, cold butter, and sea salt in a bowl. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch. Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a separate bowl, whisk together granulated sugar, brown sugar, egg, heavy cream, and vanilla extract until well combined.",
+    "Pour the sugar mixture into the pie crust and smooth the top with a spatula.",
+    "Bake the pie for 40-45 minutes, or until the filling is golden brown and the crust is bubbly.",
+    "Remove the pie from the oven and let it cool on a wire rack for at least 30 minutes before serving.",
+    "Serve warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "dessert",
+    "pie",
+    "sugar",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-warm-canadian-sugar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:01:46.328Z"
+}
