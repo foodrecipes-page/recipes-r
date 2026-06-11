@@ -1,0 +1,80 @@
+{
+  "slug": "rich-earthy-chinese-sweet-potatoes-shui-zhu-yu",
+  "title": "Pan-Seared Yu with Sweet Potatoes and Zhu Sauce",
+  "description": "A Chinese-inspired dish featuring pan-seared yu, roasted sweet potatoes, and a savory zhu sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yu",
+      "amount": "2",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "zhu",
+      "amount": "2 tablespoons",
+      "notes": "shaoxing wine or dry sherry"
+    },
+    {
+      "name": "rich",
+      "amount": "1 tablespoon",
+      "notes": "dark soy sauce"
+    },
+    {
+      "name": "earthy",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the yu into 1-inch pieces and season with salt.",
+    "3. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "4. Add the yu to the skillet and cook for 2-3 minutes on each side, or until browned.",
+    "5. Transfer the yu to a baking sheet and roast in the oven for 10-12 minutes, or until cooked through.",
+    "6. While the yu is cooking, heat the remaining 1 tablespoon of oil in the skillet over medium heat.",
+    "7. Add the earthy (garlic) and chinese (ginger) to the skillet and cook for 1-2 minutes, or until fragrant.",
+    "8. Add the zhu (shaoxing wine or dry sherry) and rich (dark soy sauce) to the skillet and cook for 1-2 minutes, or until the liquid has almost completely evaporated.",
+    "9. Add the sweet potatoes to the skillet and cook for 2-3 minutes, or until they begin to brown.",
+    "10. Serve the pan-seared yu with the sweet potatoes and zhu sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "vegetarian-dinner",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-earthy-chinese-sweet-potatoes-shui-zhu-yu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:05:48.030Z"
+}
