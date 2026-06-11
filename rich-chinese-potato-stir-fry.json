@@ -1,0 +1,65 @@
+{
+  "slug": "rich-chinese-potato-stir-fry",
+  "title": "Stir-Fried Potatoes with Chinese Seasoning",
+  "description": "A simple and flavorful side dish that combines the richness of potatoes with the bold flavors of Chinese seasoning.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "rich soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chinese seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the Chinese seasoning and stir-fry for 1-2 minutes, until the potatoes are coated in the seasoning.",
+    "Add the soy sauce and stir-fry for another 1-2 minutes, until the potatoes are tender and the sauce has thickened.",
+    "Serve hot, garnished with chopped green onion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "side-dish",
+    "vegetarian",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chinese-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:20:54.501Z"
+}
