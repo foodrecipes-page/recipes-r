@@ -1,0 +1,76 @@
+{
+  "slug": "richly-textured-german-tomatoes-casserole",
+  "title": "German Tomato Casserole",
+  "description": "A hearty German-inspired casserole filled with juicy tomatoes and richly textured ingredients. Perfect for a comforting meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "German Sausage",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the German Sausage in a pan over medium heat until browned.",
+    "Add the sliced Mushrooms and chopped Onions to the pan and cook until the vegetables are softened.",
+    "Add the sliced Tomatoes, Tomato Paste, and Olive Oil to the pan. Stir well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the Breadcrumbs and Parmesan Cheese on top.",
+    "Bake for 25-30 minutes or until the casserole is golden brown and hot.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "tomatoes",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-textured-german-tomatoes-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:37:16.965Z"
+}
