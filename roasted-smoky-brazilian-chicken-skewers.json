@@ -1,0 +1,82 @@
+{
+  "slug": "roasted-smoky-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with a smoky flavor, inspired by Brazilian cuisine. Perfect for a quick and easy dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together soy sauce, olive oil, garlic powder, smoked paprika, salt, and black pepper.",
+    "Brush the mixture onto both sides of the chicken.",
+    "Grill the chicken for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Brush the diced roasted red pepper onto the chicken during the last 2 minutes of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-smoky-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:46:47.965Z"
+}
