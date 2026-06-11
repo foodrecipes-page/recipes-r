@@ -1,0 +1,83 @@
+{
+  "slug": "rich-savory-croatian-egg-white-frittata",
+  "title": "Croatian Savory Frittata",
+  "description": "A hearty and flavorful Croatian-inspired frittata, perfect for breakfast or brunch. This dish combines rich flavors and textures to create a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "6",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "White Frittata",
+      "amount": "1",
+      "notes": "Store-bought or homemade white frittata"
+    },
+    {
+      "name": "Rich Croatsian Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated cheese such as Paski Sir or similar"
+    },
+    {
+      "name": "Savory Bacon",
+      "amount": "4 slices",
+      "notes": "Diced and cooked bacon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "Diced onion"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, cook the diced bacon over medium heat until crispy. Remove from heat and set aside.",
+    "3. In the same skillet, add the diced onion and cook until translucent.",
+    "4. Add the minced garlic and cook for an additional minute.",
+    "5. In a large bowl, whisk together the eggs and a pinch of salt.",
+    "6. Add the cooked bacon, onion, and garlic to the bowl and stir to combine.",
+    "7. Pour the egg mixture into a greased 9-inch pie plate or skillet.",
+    "8. Sprinkle the grated cheese over the egg mixture.",
+    "9. Bake the frittata in the preheated oven for 25-30 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "10. Remove the frittata from the oven and sprinkle with chopped parsley.",
+    "11. Let the frittata rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "croatian",
+    "savory",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-croatian-egg-white-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:38:01.702Z"
+}
