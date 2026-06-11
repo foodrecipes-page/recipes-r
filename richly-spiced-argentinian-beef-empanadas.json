@@ -1,0 +1,89 @@
+{
+  "slug": "richly-spiced-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic South American dish filled with richly flavored beef, these empanadas are perfect for a snack or light meal.",
+  "cuisine": "South American",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Spiced Argentinian Sausage",
+      "amount": "1/2 pound, sliced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten (for egg wash)"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rich Empanada Filling (beef, onion, red pepper, sausage)",
+      "amount": "sufficient to fill empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the beef, onion, and red pepper over medium-high heat, breaking up the beef with a spoon, until the mixture is browned and cooked through.",
+    "Add the sliced sausage to the pan and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine the flour, salt, and black pepper.",
+    "Gradually add the water to the flour mixture, stirring with a fork until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon or two of the beef mixture onto the center of each disk.",
+    "Fold the dough in half over the filling, pressing the edges to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:38:53.193Z"
+}
