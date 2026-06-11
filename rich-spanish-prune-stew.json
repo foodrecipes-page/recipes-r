@@ -1,0 +1,87 @@
+{
+  "slug": "rich-spanish-prune-stew",
+  "title": "Rich Beef Stew",
+  "description": "A hearty, comforting stew made with tender beef, rich flavors, and a hint of spanish spices.",
+  "cuisine": "spanish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "rich beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "use for flavor"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add stew, beef broth, rice, salt, and pepper.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the meat is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-prune-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:15:32.341Z"
+}
