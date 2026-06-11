@@ -1,0 +1,79 @@
+{
+  "slug": "rich-silky-greek-semolina-galaktoboureko",
+  "title": "Galaktoboureko",
+  "description": "A traditional Greek semolina custard pie wrapped in phyllo pastry and topped with a sweet syrup.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine the semolina, water, and sugar. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in the eggs, one at a time.",
+    "Stir in the milk and melted butter.",
+    "Wrap the phyllo dough around a baking dish, brushing with butter to prevent sticking.",
+    "Pour the semolina mixture into the phyllo-lined baking dish.",
+    "Bake for 45 minutes, or until the phyllo is golden brown.",
+    "While the galaktoboureko is baking, mix the honey with 1 tablespoon of water in a small saucepan.",
+    "Bring the honey mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the galaktoboureko from the oven and let it cool for 10 minutes.",
+    "Drizzle the honey syrup over the top of the galaktoboureko."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "semolina",
+    "phyllo",
+    "custard",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-greek-semolina-galaktoboureko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:58:14.477Z"
+}
