@@ -1,0 +1,85 @@
+{
+  "slug": "rich-smoky-ethiopian-chicken-wings-dulet",
+  "title": "Smoky Ethiopian Chicken Wings",
+  "description": "A rich and flavorful take on traditional buffalo wings, inspired by the bold spices of Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "drumsticks and flats"
+    },
+    {
+      "name": "rich berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with Ethiopian chili powder"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "dulet seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with a mixture of cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken wings and pat them dry with paper towels.",
+    "In a large bowl, whisk together the berbere spice blend, honey, and apple cider vinegar (if using).",
+    "Add the chicken wings to the bowl and toss to coat with the spice blend mixture.",
+    "Heat the ghee or vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken wings to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and sprinkle the dulet seasoning over the chicken wings.",
+    "Toss the chicken wings to coat with the seasoning and serve hot.",
+    "Optional: garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "wings",
+    "snack",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-ethiopian-chicken-wings-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:17:48.026Z"
+}
