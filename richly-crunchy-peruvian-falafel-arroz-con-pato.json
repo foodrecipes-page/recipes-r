@@ -1,0 +1,86 @@
+{
+  "slug": "richly-crunchy-peruvian-falafel-arroz-con-pato",
+  "title": "Pero Grilled Pato with Arroz con Falafel",
+  "description": "A twist on traditional Peruvian dish, featuring grilled pato with crunchy arroz con falafel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pero",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crunchy peruvian falafel",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "arroz con",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "pato",
+      "amount": "1/2 cup diced, boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add diced pato and cook until browned, about 3-4 minutes.",
+    "Add cumin and chili powder, stir to combine.",
+    "Add cooked arroz con to the skillet and stir to combine with pato mixture.",
+    "Cook for an additional 2-3 minutes.",
+    "Meanwhile, grill falafel over medium heat until crispy and golden brown.",
+    "Serve arroz con pato mixture in a bowl, topped with grilled falafel and chopped cilantro.",
+    "Drizzle with remaining 1 tbsp of olive oil and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "falafel",
+    "arroz-con"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-crunchy-peruvian-falafel-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:10:50.640Z"
+}
