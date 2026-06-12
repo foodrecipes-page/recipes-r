@@ -1,0 +1,68 @@
+{
+  "slug": "robata-grilled-norwegian-digestive-biscuits-toast",
+  "title": "Norwegian Robata Toast",
+  "description": "A simple and delicious breakfast dish made with Norwegian toast topped with grilled robata and a hint of digestive biscuits.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten",
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Robata",
+      "amount": "200g",
+      "notes": "grilled to perfection"
+    },
+    {
+      "name": "Norwegian Toast",
+      "amount": "4 slices",
+      "notes": "crunchy"
+    },
+    {
+      "name": "Digestive Biscuits",
+      "amount": "2",
+      "notes": "crushed for topping"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "20g",
+      "notes": "for toasting"
+    },
+    {
+      "name": "Milk",
+      "amount": "50ml",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    " Toast the Norwegian toast until lightly browned.",
+    " Grill the robata until slightly charred.",
+    " Spread unsalted butter on each toasted slice.",
+    " Top with a slice of grilled robata.",
+    " Sprinkle crushed digestive biscuits over the robata.",
+    " Serve with a glass of cold milk."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "scandinavian",
+    "grilled",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robata-grilled-norwegian-digestive-biscuits-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:41:45.907Z"
+}
