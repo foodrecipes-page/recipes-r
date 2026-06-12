@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-chewy-mexican-pork-tacos-al-pastor",
+  "title": "Al Pastor Tacos",
+  "description": "A twist on traditional Mexican tacos, using al pastor-style pork and topped with fresh cilantro and onion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Roasted onion",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chewy tortillas",
+      "amount": "8-10 count",
+      "notes": "Warm them before serving"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Al pastor seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to 400°F (200°C).",
+    "2. In a large bowl, whisk together al pastor seasoning, lime juice, and olive oil.",
+    "3. Add the pork shoulder to the bowl and toss to coat with the marinade.",
+    "4. Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "5. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Slice the grilled pork into thin strips.",
+    "7. Assemble the tacos by placing a few slices of pork onto a tortilla, followed by a spoonful of roasted onion, a sprinkle of cilantro, and a dollop of Mexican crema.",
+    "8. Serve immediately and garnish with lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "al-pastor",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-chewy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:52:12.550Z"
+}
