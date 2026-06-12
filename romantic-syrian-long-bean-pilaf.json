@@ -1,0 +1,77 @@
+{
+  "slug": "romantic-syrian-long-bean-pilaf",
+  "title": "Syrian Pilaf with Bean and Pilaf",
+  "description": "A hearty and flavorful Middle Eastern-inspired pilaf dish, featuring tender beans and a mix of fragrant spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long bean",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups, cooked",
+      "notes": ""
+    },
+    {
+      "name": "Romantic (red) onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced long bean and cook, stirring occasionally, until tender, about 8 minutes.",
+    "Stir in the cooked pilaf and cook for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer to a serving platter and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "middle-eastern",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-syrian-long-bean-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:50:54.116Z"
+}
