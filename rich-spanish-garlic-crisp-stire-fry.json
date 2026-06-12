@@ -1,0 +1,63 @@
+{
+  "slug": "rich-spanish-garlic-crisp-stire-fry",
+  "title": "Crispy Spanish Fries",
+  "description": "A classic Spanish-inspired snack, these crispy fries are easy to make and delicious to eat. Serve with your favorite dipping sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rich potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "stire oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crisp salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Peel the potatoes and cut them into long, thin strips.",
+    "Heat the stire oil in the pan to the correct temperature.",
+    "Add a handful of potato strips to the hot oil and fry until golden brown.",
+    "Remove the fries from the oil with a slotted spoon and place them on a paper towel-lined plate to drain.",
+    "Sprinkle the crisp salt over the fries to taste.",
+    "Repeat the frying process with the remaining potato strips.",
+    "Serve the crispy fries hot, garnished with minced garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "spanish",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-garlic-crisp-stire-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:08:41.905Z"
+}
