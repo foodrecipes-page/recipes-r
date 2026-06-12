@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-shattering-mediterranean-asparagus-bowl",
+  "title": "Roasted Asparagus Bowl",
+  "description": "A simple and healthy bowl filled with roasted asparagus, topped with a Mediterranean vinaigrette.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1/2 cup",
+      "notes": "Jarred or roasted"
+    },
+    {
+      "name": "Mediterranean Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Trim the ends of the asparagus and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Roast in the oven for 12-15 minutes, or until tender.",
+    "Meanwhile, mix the roasted red pepper with the Mediterranean vinaigrette in a bowl.",
+    "Once the asparagus is done, remove it from the oven and let it cool for a minute or two.",
+    "Place the asparagus in the bowl with the roasted red pepper mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "mediterranean",
+    "vegan",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-shattering-mediterranean-asparagus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:35:54.517Z"
+}
