@@ -1,0 +1,70 @@
+{
+  "slug": "rich-gooey-russian-dum-pierogi",
+  "title": "Traditional Russian-Style Pierogi",
+  "description": "A classic Russian dish made with tender dumplings filled with a mix of potatoes, cheese, and fried onions. Serve with a dollop of sour cream.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water. Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 2 equal parts. Roll out each part into a thin sheet.",
+    "In a separate bowl, mix together mashed potatoes, grated cheese, and fried onions.",
+    "Place small spoonfuls of the potato mixture onto the center of each dough sheet. Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil. Gently add the pierogi and cook for 5-7 minutes, or until they float to the surface.",
+    "Serve the pierogi hot with a dollop of sour cream. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "russian",
+    "dumplings",
+    "potatoes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-gooey-russian-dum-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:05:53.623Z"
+}
