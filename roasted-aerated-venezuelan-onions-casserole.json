@@ -1,0 +1,60 @@
+{
+  "slug": "roasted-aerated-venezuelan-onions-casserole",
+  "title": "Venezuelan Roasted Casserole",
+  "description": "A hearty, flavorful casserole inspired by Venezuelan cuisine, made with roasted onions and topped with a crunchy, aerated crust.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted onions",
+      "amount": "2 large",
+      "notes": "Chopped and caramelized"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "Crushed and used as crust topping"
+    },
+    {
+      "name": "Venezuelan bread",
+      "amount": "4 slices",
+      "notes": "For the crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté chopped onions in a pan until caramelized, then set aside.",
+    "In a large bowl, mix crushed casserole with cooked onions and seasonings.",
+    "Spread the mixture in a baking dish and top with sliced Venezuelan bread.",
+    "Bake for 20 minutes, then broil for 5 minutes to crisp the crust.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "casserole",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-aerated-venezuelan-onions-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:06:09.774Z"
+}
