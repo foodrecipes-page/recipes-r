@@ -1,0 +1,73 @@
+{
+  "slug": "rich-italian-nectarines-puff-pastry-tart",
+  "title": "Nectarine Tart",
+  "description": "A sweet and flaky pastry tart filled with caramelized nectarines, perfect for a warm dessert.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": null
+    },
+    {
+      "name": "Nectarines",
+      "amount": "2, sliced",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Confectioners Sugar",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together sugar and almond extract.",
+    "Arrange the sliced nectarines on the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the edges of the pastry up over the nectarines, pressing gently to seal.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown.",
+    "Dust the tart with confectioners sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "dessert",
+    "fruits",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-nectarines-puff-pastry-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:35:59.714Z"
+}
