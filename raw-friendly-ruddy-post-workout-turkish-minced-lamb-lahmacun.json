@@ -1,0 +1,85 @@
+{
+  "slug": "raw-friendly-ruddy-post-workout-turkish-minced-lamb-lahmacun",
+  "title": "Turkish-Style Mini Lamb Pies (Lahmacun)",
+  "description": "A classic Turkish dish, these mini lamb pies are filled with spiced meat and topped with a mix of onions and herbs. Perfect as a snack or appetizer.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Minced lamb",
+      "amount": "1 pound",
+      "notes": "Make sure to handle the meat safely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chop the onion before using"
+    },
+    {
+      "name": "Lahmacun",
+      "amount": "1 package",
+      "notes": "Use store-bought or homemade dough"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "Mix of cumin, paprika, and salt"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the pies"
+    },
+    {
+      "name": "Flat-leaf parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the lahmacun dough to a thickness of about 1/8 inch.",
+    "Cut the dough into small squares, about 3 inches per side.",
+    "In a large bowl, combine the minced lamb, chopped onion, Turkish spices, salt, and black pepper. Mix well.",
+    "Place a small spoonful of the lamb mixture onto one half of each dough square.",
+    "Brush the edges of the dough with olive oil and fold the other half over the filling to form a triangle.",
+    "Press the edges together to seal the pie and use a fork to crimp them.",
+    "Place the pies on a baking sheet lined with parchment paper.",
+    "Brush the tops of the pies with olive oil and bake for 15-20 minutes, or until golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "pies",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-friendly-ruddy-post-workout-turkish-minced-lamb-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:28:03.838Z"
+}
