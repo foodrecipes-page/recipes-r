@@ -1,0 +1,88 @@
+{
+  "slug": "rich-peruvian-beef-pollo-a-la-brasa",
+  "title": "Peruvian-Style Grilled Beef with Aji Amarillo Sauce",
+  "description": "A delicious and flavorful Peruvian-inspired dish featuring grilled beef and a spicy Aji Amarillo sauce. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1",
+      "notes": "1 pound, preferably at room temperature"
+    },
+    {
+      "name": "Aji Amarillo Peppers",
+      "amount": "4",
+      "notes": "roasted and pureed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pollo Broth",
+      "amount": "1 cup",
+      "notes": "for Aji Amarillo sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the flank steak with salt and black pepper.",
+    "3. Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "5. Meanwhile, roast the Aji Amarillo peppers over an open flame or in the oven until charred.",
+    "6. Peel the peppers and puree them in a blender with garlic, cilantro, lime juice, and pollo broth.",
+    "7. Strain the sauce through a fine-mesh sieve into a bowl.",
+    "8. Serve the sliced steak with the Aji Amarillo sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-beef",
+    "peruvian-cuisine",
+    "aji-amarillo-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peruvian-beef-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:05:13.790Z"
+}
