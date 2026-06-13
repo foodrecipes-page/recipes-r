@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-nutty-american-turkey-bake",
+  "title": "American Turkey Bake",
+  "description": "A classic American-inspired turkey bake with a nutty twist. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Bread Crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground turkey over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the roasted vegetables, mashed potatoes, and nutty bread crumbs to the skillet. Stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "If using bacon, sprinkle it on top of the mixture.",
+    "Sprinkle the cheddar cheese over the top.",
+    "Drizzle with olive oil and season with salt and pepper to taste.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "american",
+    "comfort-food",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-nutty-american-turkey-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:37:51.167Z"
+}
