@@ -1,0 +1,94 @@
+{
+  "slug": "rich-indian-rigatoni-stir-fry",
+  "title": "Spicy Indian Rigatoni Stir Fry",
+  "description": "A flavorful and spicy twist on a classic pasta dish, combining the best of Indian and Italian cuisines. This recipe is quick, easy, and packed with nutrients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rigatoni according to the package instructions until al dente.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chopped bell pepper and cook for another 3-4 minutes.",
+    "Add the chopped carrots and cook for 5 minutes, or until they start to soften.",
+    "Add the chopped tomato and cook for an additional 2 minutes.",
+    "Stir in the cumin, coriander, turmeric, and cayenne pepper (if using).",
+    "Add the cooked rigatoni to the skillet and stir in the stir fry sauce.",
+    "Combine everything well and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "pasta",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indian-rigatoni-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:49:07.866Z"
+}
