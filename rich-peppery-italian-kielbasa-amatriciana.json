@@ -1,0 +1,95 @@
+{
+  "slug": "rich-peppery-italian-kielbasa-amatriciana",
+  "title": "Kielbasa Amatriciana Pasta",
+  "description": "A classic Italian-inspired pasta dish featuring spicy kielbasa sausage, rich tomatoes, and peppery greens.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz (340g)",
+      "notes": null
+    },
+    {
+      "name": "Kielbasa sausage",
+      "amount": "1 lb (450g)",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Grana Padano",
+      "amount": "1 cup (115g), grated",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 cup (240ml)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat. Add sliced kielbasa sausage and cook, browning on all sides, about 5 minutes.",
+    "Add diced onion and minced garlic to the skillet. Cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add crushed tomatoes, salt, and black pepper to the skillet. Stir to combine.",
+    "Add cooked spaghetti to the skillet, tossing to combine with tomato sauce.",
+    "Top with grated Grana Padano and fresh basil leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "kielbasa",
+    "sausage",
+    "amitriciana"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 44,
+    "carbs": 70,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peppery-italian-kielbasa-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:34:05.833Z"
+}
