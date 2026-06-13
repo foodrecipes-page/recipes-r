@@ -1,0 +1,88 @@
+{
+  "slug": "robust-spicy-ethiopian-lentils-injera",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with red or brown lentils and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or brown"
+    },
+    {
+      "name": "injera",
+      "amount": "2 pieces",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "robust spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "spicy berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion, ginger, and garlic; cook until the onion is translucent.",
+    "Add the torn injera pieces and cook for 2 minutes.",
+    "Add the robust spice blend and spicy berbere spice; cook for 1 minute.",
+    "Add the tomato paste; cook for 1 minute.",
+    "Add the lentils, water, and salt; bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Serve hot with additional injera bread on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spicy-ethiopian-lentils-injera",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:18:47.906Z"
+}
