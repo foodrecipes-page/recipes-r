@@ -1,0 +1,88 @@
+{
+  "slug": "rich-red-vietnamese-tomatoes-curry",
+  "title": "Vietnamese Beef Curry",
+  "description": "A rich and flavorful Vietnamese-inspired beef curry made with tender beef, fresh tomatoes, and aromatic spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) beef brisket or chuck, cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "preferably Vietnamese curry paste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz/397g) full-fat coconut milk"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat. Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the pan and set aside.",
+    "Add the remaining 1 tablespoon of oil to the pan and reduce heat to medium.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Return the beef to the pan and add the diced tomatoes, fish sauce, and sugar (if using).",
+    "Stir to combine and cook for an additional 5-7 minutes, or until the beef is cooked through and the sauce has thickened.",
+    "Season with black pepper and rice vinegar (if using).",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "curry",
+    "tomatoes",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-red-vietnamese-tomatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:17:32.532Z"
+}
