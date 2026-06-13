@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-norwegian-lamb-stew",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb, root vegetables, and a rich broth.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian lamb shoulder",
+      "amount": "1 lb",
+      "notes": "Cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder in batches, about 5 minutes per batch.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the browned lamb, red wine, beef broth, and rosemary to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:16:14.982Z"
+}
