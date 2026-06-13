@@ -1,100 +1,94 @@
 {
   "slug": "rich-velvety-irish-lamb-stew",
-  "title": "Rich Irish Lamb Stew",
-  "description": "A hearty and comforting lamb stew made with tender lamb, rich flavors, and a hint of Irish spice. Perfect for a cold winter's night.",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting lamb stew with rich, velvety texture, inspired by traditional Irish cuisine.",
   "cuisine": "Irish",
   "diet": [
     "meat",
-    "gluten"
+    "omnivore"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Lamb shoulder, cut into 2-inch pieces",
-      "amount": "1 1/2 pounds",
-      "notes": null
+      "name": "Lamb Shoulder",
+      "amount": "1-1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
     },
     {
-      "name": "Onion, chopped",
-      "amount": "2",
-      "notes": null
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
     },
     {
-      "name": "Carrots, peeled and chopped",
-      "amount": "4",
-      "notes": null
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
     },
     {
-      "name": "Potatoes, peeled and chopped",
-      "amount": "2",
-      "notes": null
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Sliced"
     },
     {
-      "name": "Irish stout, such as Guinness",
+      "name": "Pearl Onions",
       "amount": "1 cup",
-      "notes": null
+      "notes": "Thinly sliced"
     },
     {
-      "name": "Beef broth",
-      "amount": "2 cups",
-      "notes": null
-    },
-    {
-      "name": "Tomato paste",
+      "name": "All-purpose Flour",
       "amount": "2 tablespoons",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "Thyme, dried",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "Lamb Stock",
+      "amount": "2 cups",
+      "notes": ""
     },
     {
-      "name": "Rosemary, dried",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
     },
     {
-      "name": "Salt",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": ""
     },
     {
-      "name": "Black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": null
+      "name": "Rosemary",
+      "amount": "1 sprig",
+      "notes": ""
     }
   ],
   "instructions": [
     "Heat oil in a large Dutch oven over medium-high heat.",
-    "Brown the lamb on all sides, about 5 minutes.",
-    "Remove the lamb from the pot and set aside.",
-    "Add the onion to the pot and cook until softened, about 5 minutes.",
-    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
-    "Add the Guinness, beef broth, tomato paste, thyme, rosemary, salt, and pepper to the pot.",
-    "Return the lamb to the pot and bring to a boil.",
-    "Cover the pot and transfer to the oven.",
-    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
-    "Serve hot, garnished with fresh thyme if desired."
+    "Brown the lamb cubes in batches until browned on all sides. Set aside.",
+    "Add more oil to the pot if necessary, then sauté the chopped onion until softened.",
+    "Add the sliced carrots and potatoes to the pot, continue cooking for 5 minutes.",
+    "Add the pearl onions, all-purpose flour, lamb stock, red wine, thyme, and rosemary to the pot.",
+    "Return the browned lamb cubes to the pot, cover, and bring to a boil.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it rest for 10-15 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
   ],
-  "prepTimeMin": 20,
+  "prepTimeMin": 30,
   "cookTimeMin": 150,
-  "totalTimeMin": 170,
+  "totalTimeMin": 180,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "irish",
     "lamb",
-    "stew"
+    "stew",
+    "irish"
   ],
   "nutrition": {
-    "calories": 450,
+    "calories": 550,
     "protein": 35,
     "carbs": 30,
-    "fat": 25
+    "fat": 30
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-irish-lamb-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T20:39:35.896Z"
+  "createdAt": "2026-06-10T21:21:17.636Z"
 }
