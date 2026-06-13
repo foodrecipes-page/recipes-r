@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-chewy-mexican-corn-tacos",
+  "title": "Mexican Roasted Corn Tacos",
+  "description": "A delicious and easy-to-make taco recipe filled with roasted corn, perfect for a summer evening.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Corn",
+      "amount": "1 cup",
+      "notes": "Fresh corn, roasted over an open flame or in the oven"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "4-6 shells",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Monterey Jack or Pepper Jack work well"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/2 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Sliced or diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the corn with a tablespoon of olive oil and season with salt and pepper. Roast in the oven for 15-20 minutes, or until lightly charred.",
+    "Warm the tacos shells according to the package instructions.",
+    "In a large bowl, combine the roasted corn, diced tomatoes, avocado, and chopped cilantro.",
+    "Squeeze the lime juice over the top and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Assemble the tacos by spooning the corn mixture into the warmed shells.",
+    "Top with shredded cheese and serve immediately.",
+    "Serve with additional lime wedges and cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "summer",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-chewy-mexican-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:07.752Z"
+}
