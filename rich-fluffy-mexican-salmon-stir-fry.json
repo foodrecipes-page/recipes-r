@@ -1,0 +1,87 @@
+{
+  "slug": "rich-fluffy-mexican-salmon-stir-fry",
+  "title": "Salmon and Mexican Stir Fry",
+  "description": "A delicious and quick-to-make stir fry recipe featuring salmon and Mexican flavors. This dish is perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4 oz",
+      "notes": "Fresh salmon fillets"
+    },
+    {
+      "name": "Rich stir fry sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fluffy Mexican rice",
+      "amount": "1 cup cooked",
+      "notes": "Flavored with cumin and coriander"
+    },
+    {
+      "name": "Mexican chopped onions",
+      "amount": "1 cup",
+      "notes": "Diced red onion"
+    },
+    {
+      "name": "Stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "Mixed bell peppers and carrots"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro for garnish"
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "4-6",
+      "notes": "For serving"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Cook the salmon for 3-4 minutes per side, or until cooked through.",
+    "In a separate pan, heat the stir fry sauce over medium heat.",
+    "Add the Mexican chopped onions and stir-fry vegetables to the sauce.",
+    "Cook for 2-3 minutes, or until the vegetables are tender.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the stir fries by placing a cooked salmon fillet onto a tortilla, followed by a spoonful of the sauce and vegetables.",
+    "Top with shredded cheese, if using.",
+    "Serve immediately and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "salmon",
+    "stir-fry",
+    "quick-and-easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-fluffy-mexican-salmon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:32.583Z"
+}
