@@ -1,0 +1,62 @@
+{
+  "slug": "rich-egyptian-fry-grind-rice-khao-khua-pilaf",
+  "title": "Khao Khua Pilaf",
+  "description": "A spicy and flavorful khao khua pilaf dish with a kick of Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Khao Khua",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/2 cup",
+      "notes": "egyptian spices blend"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the Fry and cook for 1 minute, until fragrant.",
+    "Add the Khao Khua and cook for 2 minutes, until lightly toasted.",
+    "Add the Rice and Pilaf, stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "spicy",
+    "rice",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-egyptian-fry-grind-rice-khao-khua-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:03:17.338Z"
+}
