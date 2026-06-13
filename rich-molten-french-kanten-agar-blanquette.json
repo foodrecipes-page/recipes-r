@@ -1,0 +1,79 @@
+{
+  "slug": "rich-molten-french-kanten-agar-blanquette",
+  "title": "Rich Agar Panna Cotta",
+  "description": "A creamy dessert made with agar agar and topped with a rich caramel sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Agar",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": "dissolve in 1 cup hot water"
+    },
+    {
+      "name": "French cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or substitute"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1/4 cup (1 oz)",
+      "notes": "melted and cooled"
+    },
+    {
+      "name": "Rich caramel sauce",
+      "amount": "1/4 cup (2 oz)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Kanten (agar agar powder)",
+      "amount": "optional",
+      "notes": "optional thickening agent"
+    }
+  ],
+  "instructions": [
+    "1. Combine the agar agar and 1 cup of hot water in a small bowl.",
+    "2. Whisk until the agar is fully dissolved.",
+    "3. In a medium saucepan, combine the cream, sugar, and vanilla extract (if using).",
+    "4. Cook over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "5. Remove the mixture from the heat and stir in the melted chocolate and dissolved agar agar.",
+    "6. Let the mixture cool slightly, then pour it into individual serving cups or ramekins.",
+    "7. Refrigerate for at least 4 hours or overnight until set.",
+    "8. To serve, top each panna cotta with a drizzle of caramel sauce.",
+    "9. If desired, sprinkle with a pinch of kanten powder for added texture.",
+    "10. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-molten-french-kanten-agar-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:20:06.465Z"
+}
