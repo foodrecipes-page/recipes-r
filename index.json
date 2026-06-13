@@ -2581,16 +2581,14 @@
   },
   {
     "slug": "rest-mediterranean-fromage-blanc-bake",
-    "title": "rest mediterranean fromage-blanc bake",
+    "title": "Rest Baked Mediterranean Chicken",
     "tags": [
-      "kosher",
+      "chicken",
       "mediterranean",
-      "one-pan",
-      "quick",
-      "vegetarian",
-      "weeknight"
+      "rest",
+      "baked"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 40,
     "shard": "r"
   },
@@ -7567,17 +7565,16 @@
   },
   {
     "slug": "rich-peppery-italian-kielbasa-amatriciana",
-    "title": "Rich Peppery Italian Kielbasa Amatriciana",
+    "title": "Kielbasa Amatriciana Pasta",
     "tags": [
-      "crowd-pleaser",
-      "italian-food",
-      "one-pot",
-      "saucy",
-      "spicy",
-      "weeknight"
+      "italian",
+      "pasta",
+      "kielbasa",
+      "sausage",
+      "amitriciana"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -7778,15 +7775,14 @@
   },
   {
     "slug": "rich-polish-meat-stew",
-    "title": "Rich Polish Meat Stew",
+    "title": "Polish Beef Stew",
     "tags": [
-      "hearty",
-      "lamb",
-      "polish",
-      "weeknight"
+      "beef",
+      "stew",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 210,
+    "totalTimeMin": 165,
     "shard": "r"
   },
   {
@@ -13659,31 +13655,27 @@
   },
   {
     "slug": "roasted-algerian-white-yam-tagine",
-    "title": "Roasted Algerian White Yam Tagine",
+    "title": "Roasted Yam with White Tagine Sauce",
     "tags": [
-      "kosher-friendly",
-      "meal-prep",
       "north-african",
-      "one-pan",
-      "weeknight"
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
     "slug": "roasted-american-broccoli-bake",
-    "title": "Roasted American Broccoli Bake",
+    "title": "Roasted Broccoli Bake",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "umami",
-      "vegan",
-      "weeknight"
+      "roasted",
+      "broccoli",
+      "bake",
+      "vegetarian"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
