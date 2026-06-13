@@ -1,0 +1,88 @@
+{
+  "slug": "radiant-norwegian-chicken-stew",
+  "title": "Norwegian Chicken Stew",
+  "description": "A hearty stew originating from Norway, made with tender chicken and root vegetables.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "radiant salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Season chicken with radiant salt and black pepper.",
+    "Sear the chicken until browned on both sides, then set aside.",
+    "Add more oil if needed, and sauté the onion and garlic until softened.",
+    "Add carrots and potatoes; cook for 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add stew broth, whisking continuously.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Remove the chicken, let it rest, then slice and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "norwegian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-norwegian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:09:43.500Z"
+}
