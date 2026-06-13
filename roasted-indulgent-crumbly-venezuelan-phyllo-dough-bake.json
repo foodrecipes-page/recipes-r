@@ -1,0 +1,91 @@
+{
+  "slug": "roasted-indulgent-crumbly-venezuelan-phyllo-dough-bake",
+  "title": "Venezuelan Phyllo Empanadas",
+  "description": "Delicious empanadas filled with a rich and indulgent Venezuelan beef mixture, wrapped in crispy phyllo dough.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted cumin",
+      "amount": "1 tsp",
+      "notes": " ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the diced onion and minced garlic. Cook until the onion is translucent.",
+    "Stir in the roasted cumin, chili powder, salt, and black pepper. Cook for 1-2 minutes.",
+    "Lay a sheet of phyllo dough on a flat surface. Brush with melted butter.",
+    "Place about 1/4 cup of the beef mixture in the center of the phyllo dough.",
+    "Fold the phyllo dough over the filling to form a triangle, pressing the edges together to seal.",
+    "Brush the tops of the empanadas with melted butter and sprinkle with crumbly feta cheese (if using).",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the phyllo dough is golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "phyllo",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-indulgent-crumbly-venezuelan-phyllo-dough-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:41:09.048Z"
+}
