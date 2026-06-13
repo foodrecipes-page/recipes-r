@@ -1,0 +1,79 @@
+{
+  "slug": "rich-german-bread-stir-fry",
+  "title": "German Breaded Schnitzel",
+  "description": "A crispy breaded schnitzel dish, typically served with a side of fries. This recipe is a German-inspired twist on the classic dish.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "fish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "streaky bacon",
+      "amount": "6 slices",
+      "notes": "for garnish"
+    },
+    {
+      "name": "breaded crumbs",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "rich mustard",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Season the pork cutlets with salt and pepper.",
+    "Dredge the pork cutlets in flour, shaking off any excess.",
+    "Dip the floured cutlets in the beaten eggs, making sure they're fully coated.",
+    "Roll the egg-coated cutlets in the breaded crumbs, pressing the crumbs onto the meat to ensure they stick.",
+    "Heat about 1/2 inch of vegetable oil in a large frying pan over medium-high heat.",
+    "Add the breaded cutlets to the pan and fry for about 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Transfer the cutlets to a plate and cover with foil to keep warm.",
+    "Reduce the heat to medium and fry the streaky bacon until crispy.",
+    "Serve the schnitzel hot with a side of fries and a dollop of rich mustard."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breaded",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-german-bread-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:28:49.434Z"
+}
