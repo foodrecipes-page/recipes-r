@@ -1,0 +1,97 @@
+{
+  "slug": "rich-polish-vietnamese-sausage-pho",
+  "title": "Vietnamese Sausage Pho",
+  "description": "Rich, flavorful pho made with spicy Vietnamese sausage and a variety of fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese sausage",
+      "amount": "1 pound",
+      "notes": "Such as chorizo or Knockwurst"
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "2 quarts",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pho noodles",
+      "amount": "1 pound",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add the sliced onion and ginger.",
+    "Cook for 10 minutes, or until the onion is translucent.",
+    "Add the Vietnamese sausage and cook for 5 minutes, or until browned.",
+    "Add the fish sauce and soy sauce, if using.",
+    "Cook for an additional 2 minutes.",
+    "Add the pho noodles to the pot and cook according to package instructions.",
+    "Divide the noodles among four bowls.",
+    "Slice the cooked sausage and place on top of the noodles.",
+    "Garnish with chopped basil and mint.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "sausage",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-polish-vietnamese-sausage-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:13:20.155Z"
+}
