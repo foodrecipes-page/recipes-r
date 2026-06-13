@@ -5644,14 +5644,16 @@
   },
   {
     "slug": "rich-fluffy-mexican-salmon-stir-fry",
-    "title": "Rich, Fluffy Mexican Salmon Stir-fry",
+    "title": "Salmon and Mexican Stir Fry",
     "tags": [
-      "smoked salmon",
+      "mexican",
+      "salmon",
       "stir-fry",
-      "mexican"
+      "quick-and-easy",
+      "dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "r"
   },
   {
@@ -7643,18 +7645,16 @@
   },
   {
     "slug": "rich-piedmontese-cheese-cassata",
-    "title": "Rich Piedmontese Cheese Cassata",
+    "title": "Cassata Cake",
     "tags": [
-      "cheese-cassata",
-      "egg-free",
-      "flaky",
       "italian",
-      "piemontese",
-      "savory",
-      "tandoor"
+      "cake",
+      "dessert",
+      "ricotta",
+      "cassata"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -7989,16 +7989,16 @@
   },
   {
     "slug": "rich-red-vietnamese-tomatoes-curry",
-    "title": "Rich Red Vietnamese Tomatoes Curry",
+    "title": "Vietnamese Beef Curry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "curry",
+      "tomatoes",
+      "coconut-milk"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -13236,17 +13236,14 @@
   },
   {
     "slug": "richly-spiced-ukrainian-cheese-casserole",
-    "title": "Richly Spiced Ukrainian Cheese Casserole",
+    "title": "Spiced Ukrainian Casserole",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "one-pan",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "casserole",
+      "ukrainian",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
@@ -15425,16 +15422,14 @@
   },
   {
     "slug": "roasted-norwegian-lamb-stew",
-    "title": "Roasted Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "fondue-pot",
-      "hearty-stew",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "special-occasion"
+      "lamb",
+      "stew",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "cuisine": "European",
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
