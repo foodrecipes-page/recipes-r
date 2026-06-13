@@ -1,0 +1,87 @@
+{
+  "slug": "roasted-algerian-white-yam-tagine",
+  "title": "Roasted Yam with White Tagine Sauce",
+  "description": "A flavorful North African-inspired dish featuring roasted yam, topped with a creamy white tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "white tagine sauce",
+      "amount": "2 tbsp (homemade or store-bought)",
+      "notes": null
+    },
+    {
+      "name": "algerian olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. In a large bowl, toss the yam cubes with Algerian olive oil, garlic, cumin, coriander, red pepper flakes, salt, and black pepper until the yam is evenly coated.",
+    "3. Spread the yam mixture on a baking sheet lined with parchment paper.",
+    "4. Roast in the preheated oven for 20-25 minutes or until the yam is tender and lightly caramelized.",
+    "5. In a small saucepan, heat the white tagine sauce over low heat.",
+    "6. To assemble, place the roasted yam on a serving plate and spoon the white tagine sauce over the top.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-white-yam-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:04:02.857Z"
+}
