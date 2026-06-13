@@ -1,0 +1,97 @@
+{
+  "slug": "roasted-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A classic Uruguayan dish, our beef skewers are marinated in a zesty blend of spices and grilled to perfection.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips (1 pound)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red onion (1)",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper (1)",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Uruguayan oregano (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Lime juice (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri sauce (for serving)",
+      "amount": "for serving",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, and Uruguayan oregano.",
+    "Add beef strips, red onion, and red bell pepper to the bowl. Toss to coat with marinade.",
+    "Thread beef and vegetables onto skewers, leaving a small space between each piece.",
+    "Season with salt and black pepper to taste.",
+    "Grill skewers for 8-10 minutes per side, or until beef reaches 135°F for medium-rare.",
+    "Transfer skewers to a plate and let rest for 5 minutes before serving.",
+    "Serve with chimichurri sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "grilled",
+    "skewers",
+    "dinner",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:24:01.721Z"
+}
