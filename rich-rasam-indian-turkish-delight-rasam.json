@@ -1,0 +1,78 @@
+{
+  "slug": "rich-rasam-indian-turkish-delight-rasam",
+  "title": "Turkish Delight Rasam",
+  "description": "A unique fusion of Turkish Delight and Indian Rasam, this sweet and spicy soup is a refreshing twist on traditional flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rasam powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup, cut into small pieces"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the vegetable broth, rasam powder, and grated ginger. Bring to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Add the cut Turkish Delight to the pot and simmer for another 5 minutes, or until the Delight has dissolved.",
+    "Stir in the coconut milk and lime juice. Season with honey to taste.",
+    "Ladle the soup into bowls and garnish with chopped cilantro and a sprinkle of rasam powder.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "indian",
+    "rasam",
+    "delight",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-rasam-indian-turkish-delight-rasam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:19:41.577Z"
+}
