@@ -1,0 +1,71 @@
+{
+  "slug": "rich-light-polish-salt-cod-stir-fry",
+  "title": "Pan-Seared Cod with Polish-Style Stir Fry",
+  "description": "A simple dish that combines the flavors of Polish cuisine with the freshness of pan-seared cod. This recipe is quick and easy to prepare, making it perfect for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4-6 oz",
+      "notes": "Fresh cod fillets, skin removed"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced Polish sausage, such as kielbasa"
+    },
+    {
+      "name": "Light Oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil or canola oil"
+    },
+    {
+      "name": "Rich Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced onions"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unsalted salt"
+    },
+    {
+      "name": "Fry Spices",
+      "amount": "1 teaspoon",
+      "notes": "Paprika and garlic powder for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the light oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, about 5 minutes.",
+    "Add the sliced Polish sausage and cook until browned, about 3-4 minutes.",
+    "Season with salt and fry spices to taste.",
+    "Add the cod fillets to the skillet, skin side up. Cook for 2-3 minutes, or until the skin is crispy.",
+    "Flip the cod over and cook for an additional 2-3 minutes, or until cooked through.",
+    "Serve the cod with the Polish-style stir fry and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "polish-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-light-polish-salt-cod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:25:34.717Z"
+}
