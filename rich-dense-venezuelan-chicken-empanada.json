@@ -1,0 +1,92 @@
+{
+  "slug": "rich-dense-venezuelan-chicken-empanada",
+  "title": "Venezuelan Empanada with Chicken Filling",
+  "description": "A delicious Venezuelan empanada filled with a rich chicken mixture. Perfect for a snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/2 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, salt, and cumin.",
+    "Add the shortening and, using a pastry blender or your fingers, work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until smooth.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your empanadas to be.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon or two of the chicken mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "venezuelan",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-venezuelan-chicken-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:32.350Z"
+}
