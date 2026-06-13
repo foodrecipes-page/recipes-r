@@ -1,0 +1,72 @@
+{
+  "slug": "roasted-uruguayan-courgettes-bake",
+  "title": "Uruguayan Roasted Courgette Bake",
+  "description": "A delicious and easy-to-make Uruguayan-inspired dish featuring roasted courgettes baked in a flavorful mixture.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Uruguayan chimichurri sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the courgettes into 1/2-inch thick rounds.",
+    "In a large bowl, toss the courgette slices with olive oil, Uruguayan chimichurri sauce, salt, and pepper.",
+    "Arrange the courgette slices in a single layer in a 9x13 inch baking dish.",
+    "Bake for 20-25 minutes or until the courgettes are tender and lightly browned.",
+    "While the courgettes are baking, prepare the topping by mixing the grated cheddar cheese with chopped red onion and minced garlic.",
+    "Remove the courgettes from the oven and top with the cheese mixture.",
+    "Return the baking dish to the oven and bake for an additional 5-10 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "bake",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-courgettes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:15:38.589Z"
+}
