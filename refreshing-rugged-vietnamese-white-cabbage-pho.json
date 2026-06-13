@@ -1,0 +1,85 @@
+{
+  "slug": "refreshing-rugged-vietnamese-white-cabbage-pho",
+  "title": "Vietnamese Pho with Cabbage",
+  "description": "A refreshing twist on the classic Vietnamese noodle soup, featuring a rugged cabbage slaw.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "rugged (daikon) radish",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "vietnamese fresh herbs (such as basil, mint, cilantro)",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "pho noodles",
+      "amount": "1 package, 200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Reduce heat to a simmer and add soy sauce, lime juice, honey, salt, and black pepper. Stir to combine.",
+    "Cook the pho noodles according to the package instructions. Drain and set aside.",
+    "In a large bowl, combine the shredded cabbage and grated daikon radish.",
+    "Add the chopped fresh herbs to the bowl and toss to combine.",
+    "To assemble the pho, place a portion of noodles into a bowl, then add a portion of the cabbage slaw on top.",
+    "Ladle the hot broth over the noodles and slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "vegetarian",
+    "soup",
+    "noodle",
+    "cabbage",
+    "daikon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-rugged-vietnamese-white-cabbage-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:10:16.304Z"
+}
