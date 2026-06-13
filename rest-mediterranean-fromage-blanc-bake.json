@@ -1,0 +1,84 @@
+{
+  "slug": "rest-mediterranean-fromage-blanc-bake",
+  "title": "Rest Baked Mediterranean Chicken",
+  "description": "A flavorful and healthy chicken dish, baked in a Mediterranean-inspired sauce, with rest on top.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "rest",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "bake",
+      "amount": null,
+      "notes": "for 25-30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, whisk together olive oil, lemon juice, garlic, and oregano.",
+    "3. Season the chicken with salt and pepper.",
+    "4. Place the chicken in a baking dish and brush the Mediterranean sauce all over it.",
+    "5. Sprinkle the chopped rest on top of the chicken.",
+    "6. Bake in the preheated oven for 20-25 minutes.",
+    "7. Remove the chicken from the oven and top with crumbled feta cheese.",
+    "8. Return the chicken to the oven and bake for an additional 5-10 minutes.",
+    "9. Remove the chicken from the oven and let it rest for 5-10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "rest",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rest-mediterranean-fromage-blanc-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:03:03.763Z"
+}
