@@ -2967,15 +2967,14 @@
   },
   {
     "slug": "rich-american-lettuce-salad",
-    "title": "Rich American Lettuce Salad",
+    "title": "Classic American Cheeseburger",
     "tags": [
-      "lettuce",
-      "salad",
-      "american",
-      "creamy"
+      "beef",
+      "cheeseburger",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 20,
+    "cuisine": "american",
+    "totalTimeMin": 23,
     "shard": "r"
   },
   {
@@ -7259,16 +7258,14 @@
   },
   {
     "slug": "rich-molten-french-kanten-agar-blanquette",
-    "title": "Rich Molten French Kanten Agar Blanquette",
+    "title": "Rich Agar Panna Cotta",
     "tags": [
-      "french-cuisine",
-      "kanten-agar",
-      "low-fat",
-      "molten-dish",
-      "post-workout"
+      "dessert",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 33,
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -7895,21 +7892,17 @@
   },
   {
     "slug": "rich-rasam-indian-turkish-delight-rasam",
-    "title": "Rich Rasam Indian Turkish Delight Rasam",
+    "title": "Turkish Delight Rasam",
     "tags": [
-      "al-dente",
-      "corn-husk-wrap",
-      "festive",
-      "goan",
+      "turkish",
       "indian",
-      "jain-friendly",
       "rasam",
-      "silky",
-      "spicy",
-      "turkish-delight"
+      "delight",
+      "soup",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 22,
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -10389,17 +10382,15 @@
   },
   {
     "slug": "rich-spring-italian-lamb-risotto",
-    "title": "Rich Spring Italian Lamb Risotto",
+    "title": "Spring Lamb Risotto",
     "tags": [
-      "comfort-food",
+      "spring",
       "italian",
       "lamb",
-      "one-pan",
-      "spring",
-      "weeknight"
+      "risotto"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -11189,14 +11180,14 @@
   },
   {
     "slug": "rich-velvety-irish-lamb-stew",
-    "title": "Rich Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "irish",
       "lamb",
-      "stew"
+      "stew",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "r"
   },
   {
@@ -17522,18 +17513,14 @@
   },
   {
     "slug": "robust-light-argentinian-shrimp-skillet",
-    "title": "Robust Light Argentinian Shrimp Skillet",
+    "title": "Argentinian Shrimp Skillet",
     "tags": [
-      "argentinian-cuisine",
-      "briny-flavors",
-      "gluten-free",
-      "one-pan",
-      "quick-dinner",
-      "shrimp-recipes",
-      "whole30"
+      "argentinian",
+      "seafood",
+      "skillet"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "argentinian",
+    "totalTimeMin": 13,
     "shard": "r"
   },
   {
@@ -18271,17 +18258,15 @@
   },
   {
     "slug": "robust-spicy-ethiopian-lentils-injera",
-    "title": "Robust Spicy Ethiopian Lentils Injera",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "halal",
-      "high-protein",
-      "one-pot",
-      "pressure-cooker",
-      "vegetarian",
-      "weeknight"
+      "ethiopian",
+      "lentils",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
