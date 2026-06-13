@@ -1,0 +1,74 @@
+{
+  "slug": "rich-buttery-american-waffle-pancakes",
+  "title": "Classic American Buttermilk Waffles",
+  "description": "A traditional breakfast recipe featuring crispy waffles, fluffy on the inside, made with buttermilk and a hint of richness.",
+  "cuisine": "American",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your waffle iron according to the manufacturer's instructions.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together eggs, buttermilk, melted butter, and vanilla extract.",
+    "Gradually add the dry ingredients to the wet ingredients, whisking until just combined.",
+    "The batter should still be slightly lumpy.",
+    "Pour about 1/4 cup of batter onto the center of the waffle iron and spread it out to the edges.",
+    "Cook the waffle for 3-5 minutes, or until it's golden brown and crispy.",
+    "Repeat with the remaining batter, greasing the waffle iron with cooking spray as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "american",
+    "waffles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-american-waffle-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:05:53.427Z"
+}
