@@ -1,0 +1,85 @@
+{
+  "slug": "rich-polish-meat-stew",
+  "title": "Polish Beef Stew",
+  "description": "A hearty and comforting stew originating from Poland, perfect for a cold winter night.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrot and potato and cook for an additional 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, thyme, salt, and pepper. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours or until the beef is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-polish-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:39:09.565Z"
+}
