@@ -1,0 +1,63 @@
+{
+  "slug": "rustic-crispy-venezuelan-dough-flatbread",
+  "title": "Venezuelan Flatbread",
+  "description": "A crispy flatbread from Venezuela, perfect as a snack or side dish.",
+  "cuisine": "Latin American",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dough",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "Venezuelan rustic flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix warm water and yeast. Let it sit for 5 minutes.",
+    "Combine flour, salt, and olive oil in a bowl.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes.",
+    "Let the dough rest for 1 hour.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Heat a non-stick pan over medium-high heat.",
+    "Cook the flatbread for 1-2 minutes on each side, until crispy and golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    " venezuelan flatbread",
+    " latin american recipe",
+    " crispy flatbread"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-crispy-venezuelan-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:07:29.441Z"
+}
