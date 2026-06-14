@@ -1,0 +1,91 @@
+{
+  "slug": "radiant-uruguayan-white-bean-stew",
+  "title": "Uruguayan Stew",
+  "description": "A hearty and flavorful Uruguayan-inspired stew made with tender beef and beans.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "White beans",
+      "amount": "1 cup",
+      "notes": "Canned or dried"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "White potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, garlic, potatoes, and bell pepper to the pot.",
+    "Cook until the vegetables are tender, about 10 minutes.",
+    "Add the tomato paste and dried oregano, if using.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the browned beef, white beans, salt, and pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-uruguayan-white-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:57:35.570Z"
+}
