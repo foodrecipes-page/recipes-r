@@ -1,0 +1,94 @@
+{
+  "slug": "resinous-thai-basil-curry",
+  "title": "Thai Basil Curry",
+  "description": "A flavorful and aromatic Thai-inspired curry made with fresh Thai basil, resinous curry paste, and your choice of protein. Serve with steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tbsp",
+      "notes": "resinous"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the sliced red bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the diced onion and cook until softened, about 2-3 minutes.",
+    "Add the chopped Thai basil and cook for 1 minute.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Add the chicken breast and cook until cooked through, about 5-7 minutes.",
+    "Season with fish sauce, soy sauce, salt, and black pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "basil",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-thai-basil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:23:57.673Z"
+}
