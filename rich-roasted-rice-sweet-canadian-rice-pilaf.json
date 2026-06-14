@@ -1,0 +1,81 @@
+{
+  "slug": "rich-roasted-rice-sweet-canadian-rice-pilaf",
+  "title": "Sweet Pilaf with Rich Roasted Flavor",
+  "description": "A flavorful and aromatic pilaf dish with sweet undertones. Perfect as a side or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rich Roasted Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet Rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canadian Pilaf",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add the pilaf, roasted rice, sweet rice, and Canadian pilaf to the saucepan.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Add salt and black pepper to taste.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "rice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-rice-sweet-canadian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:56:00.363Z"
+}
