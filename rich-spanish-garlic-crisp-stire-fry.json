@@ -1,7 +1,7 @@
 {
   "slug": "rich-spanish-garlic-crisp-stire-fry",
-  "title": "Crispy Spanish Fries",
-  "description": "A classic Spanish-inspired snack, these crispy fries are easy to make and delicious to eat. Serve with your favorite dipping sauce.",
+  "title": "Garlic Crisp Fry",
+  "description": "A delicious Spanish-inspired fry recipe with a rich flavor.",
   "cuisine": "Spanish",
   "diet": [
     "vegetarian",
@@ -10,45 +10,60 @@
   "meal": "snack",
   "ingredients": [
     {
-      "name": "rich potatoes",
-      "amount": "2 large",
-      "notes": ""
+      "name": "Potatoes",
+      "amount": "2-3 large",
+      "notes": "Choose high-starch potatoes"
     },
     {
-      "name": "stire oil",
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Rich Olive Oil",
       "amount": "1/2 cup",
-      "notes": ""
+      "notes": null
     },
     {
-      "name": "crisp salt",
+      "name": "Spanish Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
       "amount": "to taste",
-      "notes": ""
+      "notes": "Use flaky sea salt"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": ""
+      "name": "Crisp Crumb",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
     }
   ],
   "instructions": [
-    "Preheat the oil in a deep frying pan to 350°F (180°C).",
-    "Peel the potatoes and cut them into long, thin strips.",
-    "Heat the stire oil in the pan to the correct temperature.",
-    "Add a handful of potato strips to the hot oil and fry until golden brown.",
-    "Remove the fries from the oil with a slotted spoon and place them on a paper towel-lined plate to drain.",
-    "Sprinkle the crisp salt over the fries to taste.",
-    "Repeat the frying process with the remaining potato strips.",
-    "Serve the crispy fries hot, garnished with minced garlic."
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the potatoes into long, thin strips. Rinse in cold water to remove excess starch.",
+    "Dry the potatoes thoroughly with paper towels.",
+    "In a bowl, toss the potatoes with 2 tbsp olive oil, smoked paprika, and salt.",
+    "Line a baking sheet with parchment paper. Arrange the potatoes in a single layer.",
+    "Bake for 20-25 minutes or until crispy and golden.",
+    "While the potatoes are baking, heat the remaining 2 tbsp olive oil in a non-stick skillet over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes or until fragrant.",
+    "Once the potatoes are done, toss them in the garlic-infused oil.",
+    "If desired, sprinkle with crisp crumb as a topping.",
+    "Serve immediately."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "snack",
     "spanish",
-    "fries"
+    "fried",
+    "potatoes",
+    "garlic",
+    "snack"
   ],
   "nutrition": {
     "calories": 220,
@@ -59,5 +74,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-garlic-crisp-stire-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T10:08:41.905Z"
+  "createdAt": "2026-06-11T04:05:01.463Z"
 }
