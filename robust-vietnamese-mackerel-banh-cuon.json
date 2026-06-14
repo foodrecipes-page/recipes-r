@@ -1,0 +1,86 @@
+{
+  "slug": "robust-vietnamese-mackerel-banh-cuon",
+  "title": "Vietnamese-Style Banh Cuon with Mackerel Filling",
+  "description": "A creative twist on traditional banh cuon with a delicious mackerel filling. This Vietnamese-inspired dish is perfect for a light and refreshing meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "banh",
+      "amount": "1 package",
+      "notes": "round rice flour sheets"
+    },
+    {
+      "name": "mackerel",
+      "amount": "1 can",
+      "notes": "drained, flaked"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Prepare the mackerel filling by combining the flaked mackerel, cucumber, mint, soy sauce, rice vinegar, sesame oil, salt, and pepper in a bowl. Mix well to combine.",
+    "Soak the banh sheets in warm water for about 10 minutes, or until they are soft and pliable. Drain and set aside.",
+    "Assemble the banh cuon by placing a banh sheet on a flat surface. Spread a small amount of the mackerel filling onto the center of the banh sheet, leaving a 1-inch border around the edges.",
+    "Fold the bottom half of the banh sheet up over the filling, then fold in the sides and roll the banh cuon into a tight cylinder.",
+    "Repeat with the remaining banh sheets and mackerel filling.",
+    "Serve the banh cuon warm or at room temperature, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "breakfast",
+    "mackerel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-vietnamese-mackerel-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:16:50.764Z"
+}
