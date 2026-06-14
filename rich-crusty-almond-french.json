@@ -1,0 +1,58 @@
+{
+  "slug": "rich-crusty-almond-french",
+  "title": "Almond Crostini",
+  "description": "A simple French appetizer featuring rich almond butter on crusty bread.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crusty baguette",
+      "amount": "1 baguette",
+      "notes": "cut into 1/2-inch slices"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": "such as strawberries or blueberries (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place bread slices on a baking sheet.",
+    "Toast bread in the oven for 5-7 minutes, or until lightly browned.",
+    "Spread almond butter on each toasted bread slice.",
+    "Drizzle honey over the almond butter.",
+    "Garnish with fresh berries, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crusty-almond-french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:55:51.732Z"
+}
