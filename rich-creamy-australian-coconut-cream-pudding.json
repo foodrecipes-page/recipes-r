@@ -1,0 +1,74 @@
+{
+  "slug": "rich-creamy-australian-coconut-cream-pudding",
+  "title": "Coconut Cream Pudding",
+  "description": "A rich and creamy Australian-style dessert made with coconut cream and pudding.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 package",
+      "notes": "vanilla flavor"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chilled coconut cream and pudding mix.",
+    "Mix well until the pudding mix is fully incorporated.",
+    "If desired, add the granulated sugar and mix until combined.",
+    "Beat in the large egg until well combined.",
+    "Add the vanilla extract if using and mix until combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Just before serving, garnish with shredded coconut.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "coconut",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-australian-coconut-cream-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:43:00.222Z"
+}
