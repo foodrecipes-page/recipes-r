@@ -1,0 +1,86 @@
+{
+  "slug": "roasted-aromatic-slovakian-grape-tomatoes-bowl",
+  "title": "Slovakian Grape and Tomato Stew",
+  "description": "A hearty stew originating from Slovakia, made with roasted grapes and tomatoes.",
+  "cuisine": "Slovak",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted grapes",
+      "amount": "1 cup",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "Aromatic tomatoes",
+      "amount": "2 medium",
+      "notes": "such as Roma or Plum"
+    },
+    {
+      "name": "Slovakian bread",
+      "amount": "1/2 loaf",
+      "notes": "or substitute with gluten-free bread"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the top off the tomatoes and scoop out the insides.",
+    "3. Place the tomatoes on a baking sheet and drizzle with 1 tablespoon of olive oil.",
+    "4. Roast the tomatoes in the oven for 20-25 minutes, or until tender.",
+    "5. In a large saucepan, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "6. Add the roasted grapes and cook for 5-7 minutes, or until they start to soften.",
+    "7. Add the roasted tomatoes to the saucepan and stir to combine.",
+    "8. Season with salt and black pepper to taste.",
+    "9. Serve the stew hot, garnished with fresh parsley.",
+    "10. Serve with a slice of Slovakian bread on the side."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "gluten-free",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-aromatic-slovakian-grape-tomatoes-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:57:53.384Z"
+}
