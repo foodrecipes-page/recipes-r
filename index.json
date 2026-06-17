@@ -4882,10 +4882,15 @@
   },
   {
     "slug": "rich-dense-british-lentils-stew",
-    "title": "Rich Dense British Lentils Stew",
-    "tags": [],
+    "title": "Hearty British Lentil Stew",
+    "tags": [
+      "lentil",
+      "vegetarian",
+      "stew",
+      "british"
+    ],
     "cuisine": "British",
-    "totalTimeMin": null,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -13802,16 +13807,15 @@
   },
   {
     "slug": "roasted-aromatic-slovakian-grape-tomatoes-bowl",
-    "title": "Roasted, Aromatic Slovakian Grape Tomatoes Bowl",
+    "title": "Slovakian Grape and Tomato Stew",
     "tags": [
-      "gluten-free",
       "slovakian",
-      "summer",
-      "tomatoes",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free",
+      "stew"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "Slovak",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
