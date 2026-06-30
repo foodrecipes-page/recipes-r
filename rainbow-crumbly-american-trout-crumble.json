@@ -1,0 +1,79 @@
+{
+  "slug": "rainbow-crumbly-american-trout-crumble",
+  "title": "Trout Crumble with Rainbow Salad",
+  "description": "A flavorful fish dish with a crunchy topping, served with a colorful side salad.",
+  "cuisine": "american",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "crumbly crackers",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "rainbow carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for greasing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place trout fillets on the prepared baking sheet.",
+    "Drizzle with olive oil and season with salt.",
+    "Bake for 12-15 minutes, or until cooked through.",
+    "Meanwhile, mix crumble topping with crushed crackers.",
+    "Toss rainbow carrots with lemon juice and season with salt.",
+    "To assemble, place cooked trout on a plate and top with crumble mixture and rainbow salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "fish",
+    "salad",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rainbow-crumbly-american-trout-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:49:40.841Z"
+}
