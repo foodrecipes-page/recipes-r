@@ -1,0 +1,93 @@
+{
+  "slug": "rich-greek-ground-meat-baked-pastitsio",
+  "title": "Greek Baked Pastitsio",
+  "description": "A classic Greek pasta dish made with ground meat and a rich bechamel sauce, all topped with a layer of melted cheese and baked to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground meat",
+      "amount": "500g",
+      "notes": "80% beef, 20% pork"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Béchamel sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the ground meat over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the tomato sauce to the skillet and stir to combine. Bring the sauce to a simmer and let it cook for a few minutes until heated through.",
+    "In a separate saucepan, make the béchamel sauce by melting 2 tablespoons of butter over medium heat.",
+    "Add 2 tablespoons of all-purpose flour to the saucepan and whisk to combine. Cook for 1-2 minutes until the mixture is lightly golden.",
+    "Slowly pour in 1 cup of milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and let it cook until it thickens, stirring occasionally.",
+    "Remove the saucepan from the heat and stir in 1/2 cup of grated Parmesan cheese until melted.",
+    "In a large bowl, combine the cooked noodles, meat sauce, and béchamel sauce. Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded mozzarella cheese.",
+    "Bake the pastitsio in the preheated oven for 25-30 minutes until the cheese is melted and bubbly.",
+    "Remove the pastitsio from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pasta",
+    "meat sauce",
+    "cheese",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-greek-ground-meat-baked-pastitsio",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:35.670Z"
+}
