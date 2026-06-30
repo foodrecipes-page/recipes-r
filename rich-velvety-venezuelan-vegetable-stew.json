@@ -1,0 +1,79 @@
+{
+  "slug": "rich-velvety-venezuelan-vegetable-stew",
+  "title": "Venezuelan Vegetable Stew",
+  "description": "A hearty and flavorful stew made with rich and velvety venezuelan ingredients, perfect for a chilly evening.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Venezuelan Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced Potatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan-Style Stew Seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Plantain",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the Venezuelan Vegetable Broth in a large pot over medium heat.",
+    "Add the diced carrots, potatoes, and bell peppers. Cook until the vegetables are tender.",
+    "Add the diced tomatoes, Venezuelan-Style Stew Seasoning, and sliced plantain. Stir to combine.",
+    "Bring the stew to a simmer and cook for 20 minutes, or until the flavors have melded together.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-venezuelan-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:37.647Z"
+}
