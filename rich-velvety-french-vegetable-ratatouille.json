@@ -1,0 +1,91 @@
+{
+  "slug": "rich-velvety-french-vegetable-ratatouille",
+  "title": "French Vegetable Ratatouille",
+  "description": "A classic French dish made with tender vegetables and a rich, velvety sauce. This ratatouille is perfect as a side dish or light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tablespoon",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the eggplant, zucchini, bell pepper, and chopped tomato. Cook for 10-12 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "vegetable",
+    "ratatouille"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-french-vegetable-ratatouille",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:26:59.949Z"
+}
