@@ -1,0 +1,74 @@
+{
+  "slug": "roast-german-malai-pastry",
+  "title": "German Roast Pastry",
+  "description": "A sweet German-inspired pastry filled with roasted flavors.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Roast Pastry Dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade dough"
+    },
+    {
+      "name": "Malai Milk",
+      "amount": "1 cup",
+      "notes": "Can be substituted with heavy cream"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "0.25 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Ground Nutmeg",
+      "amount": "0.125 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the malai milk, unsalted butter, granulated sugar, ground cinnamon, and ground nutmeg.",
+    "Place a tablespoon of the malai milk mixture in the center of each dough circle.",
+    "Fold the dough over the filling, pressing the edges together to seal.",
+    "Brush the tops of the pastries with a little extra malai milk.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastries are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german-roast-pastry",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roast-german-malai-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:19:24.949Z"
+}
