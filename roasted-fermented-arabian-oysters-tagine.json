@@ -1,0 +1,97 @@
+{
+  "slug": "roasted-fermented-arabian-oysters-tagine",
+  "title": "Roasted Oysters Tagine",
+  "description": "A flavorful and exotic dish combining roasted oysters with the rich spices of Arabian tagine. This recipe serves as a perfect appetizer or main course.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": ".5 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the oysters and pat them dry with a paper towel.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground cumin, coriander, and smoked paprika.",
+    "Add the diced roasted red pepper and cook for 2 minutes.",
+    "Arrange the oysters in a baking dish and spoon the onion mixture over them.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 12-15 minutes, or until the oysters are cooked through.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "seafood",
+    "tagine",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-fermented-arabian-oysters-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:42:38.117Z"
+}
