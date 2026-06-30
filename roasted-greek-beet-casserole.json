@@ -1,0 +1,73 @@
+{
+  "slug": "roasted-greek-beet-casserole",
+  "title": "Beet and Roasted Greek Casserole",
+  "description": "A hearty and flavorful casserole made with roasted beets, Greek yogurt, and crispy phyllo pastry.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap beets in foil and roast for 45 minutes.",
+    "Let beets cool, then peel and slice into wedges.",
+    "In a bowl, mix yogurt, olive oil, salt, and pepper.",
+    "In a 9x13 inch baking dish, arrange a layer of phyllo pastry.",
+    "Spread half of the yogurt mixture over the phyllo.",
+    "Arrange half of the beets on top, followed by half of the feta (if using).",
+    "Repeat the layers, ending with a layer of phyllo.",
+    "Bake for 25-30 minutes or until the phyllo is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "greek",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-greek-beet-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:09:38.673Z"
+}
