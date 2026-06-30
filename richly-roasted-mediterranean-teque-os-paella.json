@@ -1,0 +1,83 @@
+{
+  "slug": "richly-roasted-mediterranean-teque-os-paella",
+  "title": "Teque Paella",
+  "description": "A flavorful and hearty Spanish-inspired dish featuring richly roasted vegetables, teque sauce, and paella rice. This recipe serves 4-6 people and is perfect for a weekend dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "teque sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mediterranean oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the chopped red bell pepper and sauté for another 2-3 minutes.",
+    "Add the chopped zucchini and sauté for another 2-3 minutes.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the paella rice and stir to combine with the vegetables and oil.",
+    "Add the teque sauce and stir to combine.",
+    "Add 2 cups of water to the paella pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the paella pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-mediterranean-teque-os-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:01:16.812Z"
+}
