@@ -1,0 +1,86 @@
+{
+  "slug": "richly-roasted-peruvian-turkey-mince-papa-rellena",
+  "title": "Peruvian Stuffed Papas Rellenas",
+  "description": "A twist on traditional Peruvian papas rellenas, these stuffed potatoes are filled with a rich mixture of ground turkey and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 large potatoes",
+      "amount": "1 kg",
+      "notes": null
+    },
+    {
+      "name": "1 cup ground turkey",
+      "amount": "120g",
+      "notes": null
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "30g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Bake the potatoes for 45-60 minutes, or until they're tender when pierced with a fork.",
+    "3. Meanwhile, heat the olive oil in a pan over medium heat.",
+    "4. Add the onion and cook until softened, about 5 minutes.",
+    "5. Add the garlic, cumin, and paprika. Cook for 1 minute.",
+    "6. Add the ground turkey and cook, breaking it up with a spoon, until it's no longer pink, about 5 minutes.",
+    "7. Season with salt and pepper to taste.",
+    "8. Once the potatoes are cool enough to handle, slice them in half lengthwise and scoop out some of the flesh to make room for the filling.",
+    "9. Stuff each potato with the turkey mixture and top with the scooped-out potato flesh.",
+    "10. Place the stuffed potatoes on a baking sheet and bake for an additional 15-20 minutes, or until heated through.",
+    "11. Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "turkey",
+    "potatoes",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-peruvian-turkey-mince-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:29:10.423Z"
+}
