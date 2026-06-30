@@ -1,0 +1,90 @@
+{
+  "slug": "rich-jamaican-carnaroli-rice-pilaf",
+  "title": "Jamaican Coconut Rice Pilaf",
+  "description": "A flavorful and aromatic Jamaican-inspired rice pilaf dish infused with coconut and spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "Rich coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1/4 cup",
+      "notes": "short-grain rice for added texture"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the Carnaroli rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the pilaf rice, Jamaican jerk seasoning, salt, and black pepper. Cook for 1 minute.",
+    "Add the coconut milk and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the rice pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "rice",
+    "pilaf",
+    "jamaican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-jamaican-carnaroli-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:28:56.230Z"
+}
