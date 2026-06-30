@@ -1,0 +1,92 @@
+{
+  "slug": "rich-molten-uruguayan-bottarga-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A traditional Uruguayan recipe for savory empanadas filled with rich, molten cheese and meat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cubanelle pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "Rich, molten cheese"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Bottarga",
+      "amount": "4 slices",
+      "notes": "Optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, and Cubanelle pepper to the pan and cook until the vegetables are softened.",
+    "Season the mixture with salt and black pepper.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Place a tablespoon of the meat mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Top the meat with a slice of Uruguayan cheese.",
+    "Fold the other half of the dough over the filling and press the edges to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt.",
+    "Bake the empanadas for 15-20 minutes, or until golden brown.",
+    "Serve the empanadas hot, garnished with sliced bottarga if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "cheese",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-molten-uruguayan-bottarga-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:48.237Z"
+}
