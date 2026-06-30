@@ -1,0 +1,93 @@
+{
+  "slug": "robustly-festive-mediterranean-kidney-beans-tagine",
+  "title": "Festive Kidney Bean Tagine",
+  "description": "A hearty and flavorful North African-inspired stew made with kidney beans and robust spices. Perfect for a cold winter evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "main",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add cumin, paprika, and cayenne pepper; cook for 1 minute.",
+    "Add kidney beans, salt, and 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "north-african",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-festive-mediterranean-kidney-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:26:32.634Z"
+}
