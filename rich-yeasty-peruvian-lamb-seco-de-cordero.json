@@ -1,0 +1,89 @@
+{
+  "slug": "rich-yeasty-peruvian-lamb-seco-de-cordero",
+  "title": "Peruvian Lamb Stew",
+  "description": "A hearty and flavorful stew from Peru, made with tender lamb and a rich, yeasty broth.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Rich, yeasty Peruvian beer",
+      "amount": "1 cup",
+      "notes": "such as Cusqueña"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Secco de cordero",
+      "amount": "2 cups",
+      "notes": "Peruvian lamb broth"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the beer, secco de cordero, red bell pepper, and tomato paste.",
+    "Stir to combine and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-yeasty-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:24:57.410Z"
+}
