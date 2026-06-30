@@ -5999,16 +5999,16 @@
   },
   {
     "slug": "rich-greek-ground-meat-baked-pastitsio",
-    "title": "Rich Greek Ground Meat Baked Pastitsio",
+    "title": "Greek Baked Pastitsio",
     "tags": [
-      "beef",
       "greek",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pasta",
+      "meat sauce",
+      "cheese",
+      "baked"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "r"
   },
   {
@@ -7301,18 +7301,15 @@
   },
   {
     "slug": "rich-molten-uruguayan-bottarga-empanadas",
-    "title": "Rich Molten Uruguayan Bottarga Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "beurre-monte",
-      "bottarga",
-      "halal",
-      "molten",
-      "rich",
-      "sick-day",
-      "uruguayan"
+      "uruguayan",
+      "empanadas",
+      "cheese",
+      "meat"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 28,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -14796,13 +14793,14 @@
   },
   {
     "slug": "roasted-greek-beet-casserole",
-    "title": "Roasted Greek Beet Casserole",
+    "title": "Beet and Roasted Greek Casserole",
     "tags": [
+      "beets",
       "greek",
-      "dinner"
+      "casserole"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
