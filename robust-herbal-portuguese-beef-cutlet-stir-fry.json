@@ -1,0 +1,85 @@
+{
+  "slug": "robust-herbal-portuguese-beef-cutlet-stir-fry",
+  "title": "Portuguese Beef Cutlet Stir Fry",
+  "description": "A hearty and flavorful stir fry made with thinly cut beef cutlets, robust herbs, and a hint of portuguese spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlets",
+      "amount": "500g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "portuguese seasonings",
+      "amount": "2 tsp",
+      "notes": "Dried oregano and thyme"
+    },
+    {
+      "name": "robust herbs",
+      "amount": "2 tbsp",
+      "notes": "Chopped rosemary and thyme"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "fry mix",
+      "amount": "1 cup",
+      "notes": "Portuguese-style stir-fry mix"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add the beef cutlets and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "Remove the beef from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of olive oil.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the portuguese seasonings, robust herbs, and fry mix.",
+    "Return the beef cutlets to the skillet and stir to coat with the herb mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-herbal-portuguese-beef-cutlet-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:25.064Z"
+}
