@@ -1,0 +1,71 @@
+{
+  "slug": "raw-friendly-garlicky-silky-moroccan-stir-fry",
+  "title": "Spicy Moroccan Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish that combines the spices of Morocco with the crunch of stir-fried vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moroccan",
+      "amount": "2 tsp",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "Garlicky",
+      "amount": "3 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/2 cup",
+      "notes": "silky tofu"
+    },
+    {
+      "name": "Raw",
+      "amount": "2 cups",
+      "notes": "mixed bell peppers and onions"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tbsp",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 tsp",
+      "notes": "sesame oil"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the mixed bell peppers and onions and cook for 3-4 minutes until they start to soften.",
+    "Add the silky tofu and stir-fry sauce and cook for another 2-3 minutes until the tofu is golden brown and the sauce is bubbly.",
+    "Stir in the Moroccan spice blend and cook for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stir-fry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-friendly-garlicky-silky-moroccan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:31:05.630Z"
+}
