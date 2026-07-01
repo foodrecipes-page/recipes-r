@@ -1,0 +1,61 @@
+{
+  "slug": "robust-british-celery-yorkshire-pudding",
+  "title": "Traditional British Yorkshire Pudding",
+  "description": "A classic British dish often served with roasted meats. Yorkshire pudding is a simple, yet satisfying meal that is easy to prepare.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef drippings or oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. In a large bowl, whisk together flour, salt, and a pinch of pepper.",
+    "3. In a separate bowl, whisk together milk, eggs, and a pinch of salt.",
+    "4. Add the wet ingredients to the dry ingredients and mix until smooth.",
+    "5. Heat the beef drippings or oil in a 12-cup muffin tin in the oven for 5 minutes.",
+    "6. Pour the batter into the hot muffin tin and cook for 20-25 minutes, or until puffed and golden brown.",
+    "7. Serve hot with your favorite breakfast items, such as bacon, sausage, or black pudding."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "breakfast",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-british-celery-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:14:59.742Z"
+}
