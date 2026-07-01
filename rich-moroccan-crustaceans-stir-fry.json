@@ -1,0 +1,90 @@
+{
+  "slug": "rich-moroccan-crustaceans-stir-fry",
+  "title": "Spicy Moroccan Shrimp Stir Fry",
+  "description": "A flavorful and spicy stir fry with succulent shrimp, crunchy vegetables, and a hint of Moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Gluten-free",
+    "Seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Moroccan chili flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and chopped lemongrass and cook for 1 minute.",
+    "Add the Moroccan chili flakes, cumin, and coriander and cook for 1 minute.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and garnish with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "shrimp",
+    "stir-fry",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-moroccan-crustaceans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:20.426Z"
+}
