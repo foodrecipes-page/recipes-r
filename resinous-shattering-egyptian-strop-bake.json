@@ -1,0 +1,65 @@
+{
+  "slug": "resinous-shattering-egyptian-strop-bake",
+  "title": "Egyptian Strop Cake",
+  "description": "A moist and flavorful cake infused with resinous hints, topped with a crunchy strop crust. Serve as a snack or dessert.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bake",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "resinous",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "strop",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease two 8-inch round cake pans.",
+    "Combine bake, resinous, strop, and egyptian in a large bowl.",
+    "Mix well until a smooth batter forms.",
+    "Pour batter into prepared pans and bake for 25-30 minutes.",
+    "Check for doneness by inserting a toothpick into the center of each cake.",
+    "If the toothpick comes out clean, cakes are done.",
+    "Allow cakes to cool in pans for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once cakes are cool, frost with a simple buttercream frosting or glaze with a powdered sugar glaze.",
+    "Top with chopped nuts or shredded coconut for added texture and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "egyptian",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-shattering-egyptian-strop-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:32:50.323Z"
+}
