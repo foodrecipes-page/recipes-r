@@ -1,0 +1,87 @@
+{
+  "slug": "robust-smoky-tunisian-fish-tagine",
+  "title": "Tunisian Fish Tagine",
+  "description": "A hearty, flavorful North African-inspired stew made with tender fish and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz), diced"
+    },
+    {
+      "name": "Fish broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add fish and cook until browned on all sides, about 5 minutes.",
+    "Add Tunisian spice blend, tomatoes, fish broth, honey, and lemon juice.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until fish is cooked through and sauce has thickened, about 10-15 minutes.",
+    "Stir in smoked paprika and parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "fish",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-smoky-tunisian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:38:16.372Z"
+}
