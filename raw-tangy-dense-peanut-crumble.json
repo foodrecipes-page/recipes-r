@@ -1,0 +1,69 @@
+{
+  "slug": "raw-tangy-dense-peanut-crumble",
+  "title": "Peanut Crumble Bars",
+  "description": "A sweet and tangy dessert featuring a peanut crust and crumble topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "raw sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "dense oats",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "crumble mixture",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Line an 8x8 inch baking dish with parchment paper.",
+    "In a medium bowl, mix together the peanut butter, raw sugar, and oats.",
+    "Press the peanut butter mixture into the prepared baking dish.",
+    "Bake for 20 minutes.",
+    "While the crust is baking, mix together the crumble mixture and peanuts.",
+    "Remove the crust from the oven and top with the crumble mixture.",
+    "Bake for an additional 25 minutes.",
+    "Let cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "crumble",
+    "dessert",
+    "bars"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-tangy-dense-peanut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:43:29.051Z"
+}
