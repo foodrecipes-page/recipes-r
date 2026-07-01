@@ -1,0 +1,94 @@
+{
+  "slug": "richly-seasoned-french-lamb-cassoulet",
+  "title": "French Lamb Cassoulet",
+  "description": "A hearty French dish made with lamb, beans, and rich flavors.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "Dried white beans (cannellini or Great Northern)",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "Cassoulet spice blend",
+      "amount": "2 tbsp",
+      "notes": "or substitute with a combination of thyme, rosemary, and bay leaves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Red wine (Merlot or Cabernet Sauvignon)",
+      "amount": "1 cup",
+      "notes": "for braising the lamb"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "for braising the lamb"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Mince lamb's tongue (optional)",
+      "amount": "2 tbsp",
+      "notes": "for added flavor (if desired)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb with cassoulet spice blend, salt, and pepper.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, then remove from the pot and set aside.",
+    "Reduce heat to medium and sauté the minced garlic until fragrant.",
+    "Add the red wine to the pot, scraping up any browned bits from the bottom.",
+    "Add the chicken broth, tomato paste, and browned lamb back to the pot.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2-3 hours, or until tender and falling apart.",
+    "Meanwhile, cook the soaked and drained white beans in a separate pot until tender.",
+    "To assemble the cassoulet, create a layer of beans in the bottom of a large baking dish.",
+    "Add a layer of lamb on top of the beans, then repeat the process until all ingredients are used, finishing with a layer of beans on top.",
+    "Bake the cassoulet in the preheated oven for an additional 30-40 minutes, or until the top is golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "beans",
+    "cassoulet",
+    "french",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-seasoned-french-lamb-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:35:41.227Z"
+}
