@@ -1,0 +1,80 @@
+{
+  "slug": "rich-middle-eastern-semolina-pudding",
+  "title": "Middle Eastern Semolina Pudding",
+  "description": "A creamy and comforting dessert inspired by the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rich pudding",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "optional: chopped pistachios",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together semolina flour and sugar.",
+    "In a separate bowl, whisk together milk, melted butter, ground cardamom, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and whisk until smooth.",
+    "Pour the mixture into 6-8 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool for 10 minutes.",
+    "Serve warm or chilled, topped with store-bought rich pudding and chopped pistachios if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "dessert",
+    "pudding",
+    "semolina",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-middle-eastern-semolina-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:11:45.923Z"
+}
