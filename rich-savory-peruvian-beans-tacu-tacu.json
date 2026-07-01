@@ -1,0 +1,97 @@
+{
+  "slug": "rich-savory-peruvian-beans-tacu-tacu",
+  "title": "Tacu Tacu with Beans and Peruvian Salsa",
+  "description": "A hearty, comforting Peruvian dish made with crispy tacu tacu patties, creamy beans, and a tangy salsa.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tacu tacu",
+      "amount": "1 cup",
+      "notes": "Cooked and mashed"
+    },
+    {
+      "name": "Red kidney beans",
+      "amount": "1 cup",
+      "notes": "Cooked and mashed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add diced tomato and cook for 2-3 minutes, until tender.",
+    "Add diced aji amarillo pepper and cook for another minute.",
+    "Mix in cooked tacu tacu and red kidney beans.",
+    "Season with salt and black pepper to taste.",
+    "Form the mixture into patties and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Serve hot with a dollop of salsa on top.",
+    "To make the salsa, combine diced tomato, onion, garlic, and aji amarillo pepper in a bowl.",
+    "Squeeze in lime juice and stir to combine.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "beans",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-peruvian-beans-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:15:23.825Z"
+}
