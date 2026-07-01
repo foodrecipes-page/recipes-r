@@ -1,0 +1,73 @@
+{
+  "slug": "rich-velvety-egyptian-egg-rolls-gyoza",
+  "title": "Egyptian Gyoza Rolls",
+  "description": "A fusion twist on traditional Egyptian cuisine, these rich and velvety gyoza rolls are perfect for a snack or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "1 package (about 20-24 wrappers)"
+    },
+    {
+      "name": "Rich, velvety eggplant spread (e.g. baba ganoush)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rolls (e.g. pita or flatbread)",
+      "amount": "4-6"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "(optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Place a gyoza wrapper on a flat surface and brush the edges with a little water.",
+    "Place a tablespoon of eggplant spread in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll the wrapper into a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Pan-fry the gyoza rolls until they're golden brown and crispy, about 2-3 minutes per side.",
+    "Serve warm with a dollop of eggplant spread and chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "gyoza",
+    "rolls",
+    "snack",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-egyptian-egg-rolls-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:47:35.273Z"
+}
