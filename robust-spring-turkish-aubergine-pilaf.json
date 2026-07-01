@@ -1,0 +1,75 @@
+{
+  "slug": "robust-spring-turkish-aubergine-pilaf",
+  "title": "Turkish Stuffed Aubergine",
+  "description": "A flavorful and nutritious Turkish dish, this recipe combines the sweetness of aubergine with the savory flavors of robust spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "Choose firm, dark-skinned aubergines"
+    },
+    {
+      "name": "robust red pepper",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/4 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cut the aubergines in half lengthwise and scoop out the insides, leaving a shell about 1/2 inch thick.",
+    "3. In a bowl, mix together the chopped red pepper, spring onions, pilaf, salt, and black pepper.",
+    "4. Stuff each aubergine shell with the pilaf mixture, dividing it evenly.",
+    "5. Brush the tops of the aubergines with olive oil.",
+    "6. Place the stuffed aubergines on a baking sheet lined with parchment paper.",
+    "7. Bake for 30-35 minutes, or until the aubergines are tender and the tops are golden brown.",
+    "8. Serve hot, garnished with additional chopped spring onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "aubergine",
+    "stuffed-vegetables"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spring-turkish-aubergine-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:22.203Z"
+}
