@@ -1,0 +1,76 @@
+{
+  "slug": "rich-indian-cheese-samosas",
+  "title": "Cheesy Samosa Casserole",
+  "description": "A creamy, cheesy twist on traditional samosas. Rich, comforting and easy to make.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Samosas (homemade or store-bought)",
+      "amount": "1 package (20-25 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Open the package of samosas and arrange them in a single layer on a baking sheet.",
+    "Bake the samosas for 10-12 minutes, or until they are lightly browned and crispy.",
+    "While the samosas are baking, melt the butter in a medium saucepan over medium heat.",
+    "Add the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the shredded cheese, stirring until the cheese is melted and the sauce is smooth.",
+    "Add the garam masala and stir to combine.",
+    "Remove the samosas from the oven and place them in a 9x13 inch baking dish.",
+    "Pour the cheese sauce over the samosas and sprinkle with additional cheese if desired.",
+    "Bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "cheese",
+    "comfort-food",
+    "samosas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indian-cheese-samosas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:53.365Z"
+}
