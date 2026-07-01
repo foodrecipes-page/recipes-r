@@ -1,0 +1,68 @@
+{
+  "slug": "rich-light-midnight-craving-egyptian-spaghetti-stir-fry",
+  "title": "Egyptian Midnight Spaghetti Stir Fry",
+  "description": "A quick and flavorful stir fry featuring spaghetti, light sauce, and a hint of rich spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Light sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Midnight spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rich olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Craving fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egyptian garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in boiling water until al dente.",
+    "Heat rich olive oil in a pan over medium heat.",
+    "Add Egyptian garlic and sauté for 1 minute.",
+    "Add light sauce and stir to combine.",
+    "Add midnight spices and cook for 1 minute.",
+    "Add cooked spaghetti to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Season with craving fresh basil.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "spaghetti",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-light-midnight-craving-egyptian-spaghetti-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:45:22.922Z"
+}
