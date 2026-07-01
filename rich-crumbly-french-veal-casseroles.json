@@ -1,0 +1,83 @@
+{
+  "slug": "rich-crumbly-french-veal-casseroles",
+  "title": "French Veal Casserole",
+  "description": "A classic French dish made with tender veal and rich flavors, perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal Cutlets",
+      "amount": "4-6"
+    },
+    {
+      "name": "French Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the veal cutlets with salt and pepper.",
+    "Dredge the veal cutlets in flour, shaking off excess.",
+    "Melt butter in a large skillet over medium heat.",
+    "Sear the veal cutlets until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the veal cutlets to a baking dish.",
+    "In the same skillet, add the French breadcrumbs and cook until lightly browned.",
+    "Sprinkle the breadcrumbs over the veal cutlets.",
+    "Pour the milk over the breadcrumbs.",
+    "Sprinkle the Gruyère cheese over the top.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Garnish with fresh thyme and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "veal",
+    "casserole",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crumbly-french-veal-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:40.862Z"
+}
