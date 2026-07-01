@@ -1,0 +1,83 @@
+{
+  "slug": "rustic-silky-turkish-bulgur-kisir",
+  "title": "Turkish-Style Bulgur Salad",
+  "description": "A refreshing salad from Turkey, made with toasted bulgur, crunchy vegetables, and a tangy dressing.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "kisir",
+      "amount": "2 tablespoons",
+      "notes": "or plain yogurt"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bulgur according to package instructions.",
+    "In a large bowl, combine the cooked bulgur, kisir, chopped cucumber, red onion, parsley, and mint.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the dressing over the bulgur mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "salad",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-silky-turkish-bulgur-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:17:06.585Z"
+}
