@@ -1,0 +1,68 @@
+{
+  "slug": "roasted-dense-argentinian-mascarpone-bowl",
+  "title": "Argentinian Mascarpone Cheesecake",
+  "description": "A dense and creamy dessert, inspired by the argentinian passion for cheese and rich flavors.",
+  "cuisine": "argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "dense granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. In a bowl, mix together mascarpone cheese, roasted almonds, dense granulated sugar, and vanilla extract.",
+    "3. Add eggs one at a time, mixing until well combined.",
+    "4. Pour mixture into a 23cm (9 inch) springform pan.",
+    "5. Bake for 40-45 minutes, or until the edges are set and the center is slightly jiggly.",
+    "6. Remove from oven and let cool completely.",
+    "7. Refrigerate for at least 4 hours, or overnight.",
+    "8. Release springform pan sides and transfer to a serving bowl.",
+    "9. Serve chilled, garnished with roasted almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-dense-argentinian-mascarpone-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:40:18.218Z"
+}
