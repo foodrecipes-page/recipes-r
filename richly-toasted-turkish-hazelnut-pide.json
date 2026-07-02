@@ -1,0 +1,81 @@
+{
+  "slug": "richly-toasted-turkish-hazelnut-pide",
+  "title": "Turkish Pide Bread with Hazelnut Topping",
+  "description": "A delicious Turkish flatbread topped with a rich and nutty hazelnut mixture, perfect for snacking or as a side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "turkish pide spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and yeast. Let it sit for 5-7 minutes, until yeast is activated.",
+    "Add flour, salt, and Turkish pide spice blend to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10-12 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and roll it out into a thin circle.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Mix together hazelnuts, honey, and a pinch of salt. Spread the mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Bake for 15-20 minutes, until the crust is golden brown and the topping is caramelized.",
+    "Remove from the oven and let it cool for 5-10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "bread",
+    "hazelnut",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-toasted-turkish-hazelnut-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:37.748Z"
+}
