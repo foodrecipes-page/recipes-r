@@ -1,0 +1,79 @@
+{
+  "slug": "rustic-ukrainian-dough-dumplings",
+  "title": "Pierogi Ruskie",
+  "description": "Traditional Ukrainian potato and cheese dumplings. A classic comfort food.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rustic Ukrainian Dough",
+      "amount": "1 package",
+      "notes": "Available in most European markets"
+    },
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and grate"
+    },
+    {
+      "name": "Farmers Cheese",
+      "amount": "1 cup",
+      "notes": "Available in most European markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop finely"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine grated potatoes, farmers cheese, chopped onion, chopped fresh dill, salt, and black pepper.",
+    "2. Mix well to combine.",
+    "3. Divide the rustic Ukrainian dough into small pieces.",
+    "4. Roll out each piece into a thin circle.",
+    "5. Place a tablespoon of the potato and cheese mixture in the center of each dough circle.",
+    "6. Fold the dough over the filling to form a half-circle shape, and press edges together to seal.",
+    "7. Bring a large pot of salted water to a boil.",
+    "8. Carefully add the pierogi to the boiling water.",
+    "9. Cook for 5-7 minutes, or until the pierogi float to the surface.",
+    "10. Remove from water with a slotted spoon, and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-ukrainian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:59:21.050Z"
+}
