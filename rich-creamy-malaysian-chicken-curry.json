@@ -1,0 +1,87 @@
+{
+  "slug": "rich-creamy-malaysian-chicken-curry",
+  "title": "Creamy Malaysian Chicken Curry",
+  "description": "A rich and flavorful curry dish from Malaysia, featuring tender chicken in a creamy coconut-based sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "malaysian-style"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add chicken, cook until browned.",
+    "Add curry paste, cook for 1 minute.",
+    "Add coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring to a simmer, then reduce heat to low.",
+    "Cook for 15-20 minutes, or until chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "malaysian",
+    "coconut",
+    "rich",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-malaysian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:54:23.949Z"
+}
