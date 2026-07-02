@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-crisp-french-mixed-berries-cassoulet",
+  "title": "Berry Cassoulet French Toast",
+  "description": "A sweet twist on the classic cassoulet, featuring roasted berries and crispy French toast.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Roasted berries",
+      "amount": "1 cup",
+      "notes": "such as strawberries, blueberries, or raspberries"
+    },
+    {
+      "name": "French cassoulet",
+      "amount": "1 cup",
+      "notes": "or French beans"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk or a non-dairy milk alternative"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a shallow dish, whisk together eggs, milk, cinnamon, and sugar (if using).",
+    "Heat a non-stick skillet over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "Place the bread slices in the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve the French toast warm with roasted berries and a side of French cassoulet.",
+    "Optional: top with additional roasted berries, whipped cream, or maple syrup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crisp-french-mixed-berries-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:57.141Z"
+}
