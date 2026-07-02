@@ -1,0 +1,72 @@
+{
+  "slug": "rich-velvety-ethiopian-lentils-misir-wot",
+  "title": "Ethiopian Red Lentil Stew",
+  "description": "A hearty and flavorful stew made with rich, velvety Ethiopian red lentils, perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "misir wot spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking lentils"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté onion and garlic until softened, about 5 minutes.",
+    "Add spice mix and cook for 1 minute, stirring constantly.",
+    "Add lentils and water, bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Season with salt to taste, then serve hot over injera or rice.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "ethiopian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-ethiopian-lentils-misir-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:16:17.627Z"
+}
