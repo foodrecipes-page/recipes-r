@@ -1,0 +1,92 @@
+{
+  "slug": "radiant-british-rice-bowl",
+  "title": "British-Style Radiant Chicken Bowl",
+  "description": "A hearty, flavorful dish featuring chicken cooked in a radiant British-style sauce, served over a bed of rice in a bowl.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "radiant sauce",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "british spices",
+      "amount": "1 tsp",
+      "notes": "a mix of thyme and rosemary"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Stir in the radiant sauce and bring to a simmer.",
+    "Return the chicken to the skillet and cook until the sauce has thickened and the chicken is cooked through, about 5-7 minutes.",
+    "Serve the chicken over a bed of cooked rice in a large bowl.",
+    "Garnish with additional radiant sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "british",
+    "radiant",
+    "sauce",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-british-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:03:47.250Z"
+}
