@@ -1,0 +1,71 @@
+{
+  "slug": "resinous-roasted-australian-bread-flatbread",
+  "title": "Australian Roasted Panini",
+  "description": "A delicious panini sandwich filled with roasted Australian meats and served on crispy flatbread.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Australian Steak",
+      "amount": "6 oz",
+      "notes": "Medium-rare preferred"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "2 slices",
+      "notes": "Crusty preferred"
+    },
+    {
+      "name": "Roasted Red Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Roasted Bell Peppers",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Resinous Rosemary",
+      "amount": "1 sprig",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Australian Cheddar Cheese",
+      "amount": "1 slice",
+      "notes": "Melted preferred"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a panini press or grill to medium-high heat.",
+    "2. Slice the roasted Australian steak into thin strips.",
+    "3. Assemble the panini by layering the steak, roasted red onions, roasted bell peppers, and resilient rosemary on one slice of flatbread.",
+    "4. Top with Australian cheddar cheese and another slice of flatbread.",
+    "5. Place the panini in the press or grill and cook for 3-4 minutes, or until the cheese is melted and the flatbread is crispy.",
+    "6. Remove from heat and let cool for a minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "panini",
+    "roasted",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-roasted-australian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:14:12.192Z"
+}
