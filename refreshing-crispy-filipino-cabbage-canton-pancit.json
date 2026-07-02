@@ -1,0 +1,78 @@
+{
+  "slug": "refreshing-crispy-filipino-cabbage-canton-pancit",
+  "title": "Crispy Filipino Pancit",
+  "description": "A popular Filipino stir-fry noodle dish made with thin Canton-style noodles and a variety of vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canton-style noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh green onions",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions. Drain and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the cabbage and stir-fry until it starts to soften.",
+    "Add the stir-fry sauce and stir-fry for another 2-3 minutes.",
+    "Add the cooked noodles to the wok or skillet and stir-fry everything together.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pancit to a serving platter or individual plates.",
+    "Garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-crispy-filipino-cabbage-canton-pancit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:11:27.575Z"
+}
