@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-smoky-portuguese-chicken-skewers",
+  "title": "Smoky Portuguese Chicken Skewers",
+  "description": "A flavorful and delicious twist on traditional chicken skewers, infused with the rich flavors of Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Portuguese spice blend",
+      "amount": "1 tablespoon",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adds a smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, Portuguese spice blend, smoked paprika, and salt. Add the chicken cubes and toss to coat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the remaining marinade.",
+    "Grill the skewers for 8-10 minutes, or until the chicken is cooked through and slightly charred.",
+    "Remove from heat and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-smoky-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:31:26.484Z"
+}
