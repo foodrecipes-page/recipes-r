@@ -1,0 +1,94 @@
+{
+  "slug": "robust-german-pork-stew",
+  "title": "Hearty German Pork Stew",
+  "description": "A classic German-inspired stew made with tender pork and robust flavors.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot, peeled and chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery, chopped",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "beer (any German lager)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the beer, beef broth, apple cider vinegar, thyme, salt, and pepper to the pot.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-german-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:32:20.272Z"
+}
