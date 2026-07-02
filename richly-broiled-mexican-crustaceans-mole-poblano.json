@@ -1,0 +1,101 @@
+{
+  "slug": "richly-broiled-mexican-crustaceans-mole-poblano",
+  "title": "Broiled Shrimp with Poblano Mole",
+  "description": "A rich and flavorful Mexican dish featuring succulent shrimp smothered in a spicy poblano mole sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler.",
+    "Season shrimp with salt, pepper, cumin, and ancho chili powder.",
+    "Heat 1 tablespoon oil in a skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Transfer shrimp to a broiler pan and broil until cooked through.",
+    "Meanwhile, heat remaining oil in the skillet over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add roasted poblano peppers, chipotle peppers, and chocolate chips.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Pour sauce over cooked shrimp and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "chocolate",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-broiled-mexican-crustaceans-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:43:42.827Z"
+}
