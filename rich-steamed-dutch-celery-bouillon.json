@@ -1,0 +1,62 @@
+{
+  "slug": "rich-steamed-dutch-celery-bouillon",
+  "title": "Creamy Celery Soup",
+  "description": "A rich and comforting soup made with celery, bouillon, and a touch of cream.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "bouillon",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rich",
+      "amount": "1/2 cup heavy cream"
+    },
+    {
+      "name": "steamed",
+      "amount": "2 tablespoons butter"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/2 teaspoon nutmeg"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large saucepan over medium heat.",
+    "Add chopped celery and cook until tender, about 5 minutes.",
+    "Pour in bouillon and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Stir in heavy cream and nutmeg.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped celery if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "celery",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-steamed-dutch-celery-bouillon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:46:57.660Z"
+}
