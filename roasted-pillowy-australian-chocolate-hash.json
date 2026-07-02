@@ -1,0 +1,70 @@
+{
+  "slug": "roasted-pillowy-australian-chocolate-hash",
+  "title": "Australian Chocolate Pillows",
+  "description": "A dessert recipe combining Australian hash with roasted chocolate for a unique and delicious treat. These pillows are perfect for a dinner dessert or a late-night snack.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted chocolate",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pillowy chocolate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine hash, roasted chocolate, and sugar. Mix well.",
+    "In a separate bowl, whisk together milk, egg, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Divide the dough into 6 equal pieces. Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Place the disks onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the edges are golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chocolate",
+    "dessert",
+    "pillow"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-pillowy-australian-chocolate-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:21.714Z"
+}
