@@ -1,0 +1,78 @@
+{
+  "slug": "richly-smoked-canadian-chicken-skillet",
+  "title": "Skillet Smoked Chicken",
+  "description": "A richly flavored and smoky chicken dish cooked to perfection in a skillet.",
+  "cuisine": "American",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian Smoked Chicken Breasts",
+      "amount": "4",
+      "notes": " Boneless, skinless breasts"
+    },
+    {
+      "name": "Richly Aged Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the chicken breasts with garlic powder, salt, and pepper.",
+    "Add the olive oil to the preheated skillet and sear the chicken for 5 minutes on each side.",
+    "Reduce heat to medium-low and continue cooking for an additional 10-12 minutes or until the chicken reaches an internal temperature of 165°F.",
+    "Remove the chicken from the skillet and let it rest for 5 minutes before slicing.",
+    "Return the skillet to the heat and add the shredded cheddar cheese.",
+    "Stir until the cheese is melted and well combined.",
+    "Serve the sliced chicken with the cheesy skillet sauce and garnish with chopped chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "smoked",
+    "cheese",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-smoked-canadian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:53:16.512Z"
+}
