@@ -1,0 +1,80 @@
+{
+  "slug": "rich-shattering-american-chocolate-pie",
+  "title": "American Pie",
+  "description": "A classic American dessert, this pie is a must-try for anyone with a sweet tooth.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chocolate pie crust",
+      "amount": "1 pie crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rich chocolate chips",
+      "amount": "1 cup",
+      "notes": "semi-sweet or milk chocolate"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped cream for topping"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 cups",
+      "notes": "for filling and crust"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "for crust and filling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in pie dish.",
+    "In a separate bowl, whisk together sugar, eggs, and vanilla extract.",
+    "Melt chocolate chips in a double boiler or in the microwave in 30-second increments.",
+    "Whisk heavy cream and melted chocolate until smooth.",
+    "Pour filling into pie crust.",
+    "Bake for 40-45 minutes or until filling is set and crust is golden brown.",
+    "Allow pie to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chocolate",
+    "pie",
+    "dessert",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-shattering-american-chocolate-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:11:37.349Z"
+}
