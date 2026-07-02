@@ -1,0 +1,67 @@
+{
+  "slug": "rustic-aerated-venezuelan-buckwheat-pilaf",
+  "title": "Venezuelan Buckwheat Pilaf",
+  "description": "A hearty, one-pot dish inspired by Venezuelan cuisine, featuring buckwheat and rustic pilaf.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rustic Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aerated water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Venezuelan in a large saucepan over medium heat.",
+    "Add the buckwheat and cook, stirring frequently, for 2-3 minutes.",
+    "Add the rustic pilaf and stir to combine.",
+    "Pour in the aerated water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the water is absorbed.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "pilaf",
+    "buckwheat",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-aerated-venezuelan-buckwheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:24:18.119Z"
+}
