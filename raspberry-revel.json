@@ -1,0 +1,74 @@
+{
+  "slug": "raspberry-revel",
+  "title": "Raspberry Revel Crisp",
+  "description": "A sweet and tangy dessert featuring fresh raspberries and a crunchy revel topping.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Revel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oatmeal",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix raspberries, granulated sugar, and vanilla extract in a bowl.",
+    "Roll out the revel and flour mixture to form a flat sheet.",
+    "Place the revel mixture on top of the raspberry mixture.",
+    "Mix cold butter and oatmeal in another bowl.",
+    "Add the oatmeal mixture on top of the revel mixture.",
+    "Bake in the oven for 35-40 minutes.",
+    "Check if the topping is golden brown and the filling is bubbly.",
+    "Serve warm with vanilla ice cream or whipped cream.",
+    "Enjoy your delicious raspberry revel crisp!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "raspberry",
+    "revel",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raspberry-revel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:01:13.517Z"
+}
