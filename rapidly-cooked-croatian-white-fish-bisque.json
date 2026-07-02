@@ -1,0 +1,77 @@
+{
+  "slug": "rapidly-cooked-croatian-white-fish-bisque",
+  "title": "Baked Croatian White Fish",
+  "description": "A simple and flavorful dish featuring Croatian white fish baked to perfection. Serve with a side of vegetables or salad for a well-rounded meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian White Fish",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen, about 6 oz each"
+    },
+    {
+      "name": "Rapidly Cooked Croissant Crumbs",
+      "amount": "1 cup",
+      "notes": "Make from croissant dough or use store-bought"
+    },
+    {
+      "name": "White Wine",
+      "amount": "2 tbsp",
+      "notes": "Dry white wine, for added flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted, for greasing the baking dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Freshly ground, for seasoning"
+    },
+    {
+      "name": "Bisque",
+      "amount": "1 cup",
+      "notes": "Fish bisque or make your own from fish stock and vegetables"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish",
+      "notes": "Optional, for added flavor and color"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grease a baking dish with 2 tbsp of butter.",
+    "Season the fish with salt and place in the baking dish.",
+    "Pour the white wine over the fish.",
+    "Sprinkle the rapidly cooked croissant crumbs over the fish.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve with a side of vegetables or salad.",
+    "Drizzle with fish bisque and garnish with parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "croatian",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rapidly-cooked-croatian-white-fish-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:55:39.726Z"
+}
