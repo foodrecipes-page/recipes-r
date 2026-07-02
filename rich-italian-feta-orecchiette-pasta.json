@@ -1,0 +1,75 @@
+{
+  "slug": "rich-italian-feta-orecchiette-pasta",
+  "title": "Creamy Feta Pasta Bake",
+  "description": "A rich and satisfying Italian-inspired pasta dish featuring orecchiette, feta cheese, and a creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the orecchiette pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the crumbled feta cheese and cook, stirring occasionally, until lightly browned.",
+    "In a large mixing bowl, combine the cooked pasta, feta mixture, ricotta cheese, and parmesan cheese. Stir until well combined.",
+    "Transfer the pasta mixture to a baking dish and dot the top with the remaining 1 tablespoon of butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "creamy",
+    "feta",
+    "ricotta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-feta-orecchiette-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:33:49.651Z"
+}
