@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-smoky-syrian-lamb-roast",
+  "title": "Smoky Syrian Roast Lamb",
+  "description": "A flavorful and tender roast lamb dish infused with smoky and middle eastern flavors.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Roast potatoes",
+      "amount": "2-3 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a small bowl, mix together roasted garlic, smoked paprika, and Syrian allspice.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes, then reduce the oven temperature to 180°C (350°F) and continue roasting for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "While the lamb is roasting, toss the sliced roast potatoes with a little bit of oil and season with salt and pepper.",
+    "After the lamb has roasted for 2 hours, add the potatoes to the roasting pan and continue roasting for another 30-40 minutes, or until the potatoes are golden brown.",
+    "Remove the lamb and potatoes from the oven and let them rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "syrian",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-smoky-syrian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:45:21.669Z"
+}
