@@ -1,0 +1,80 @@
+{
+  "slug": "rich-roasted-moroccan-gelatin-copper-pot-chebakia",
+  "title": "Moroccan Chebakia",
+  "description": "A traditional Moroccan dessert made with honey and spices, served with a crunchy sesame seed topping.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, cinnamon, ginger, and salt.",
+    "Add the honey, vegetable oil, and orange blossom water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a triangle.",
+    "Heat the sesame seeds in a pan over medium heat until fragrant and lightly browned.",
+    "Dip each triangle into the sesame seeds, coating both sides evenly.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until the sesame seeds are golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "sweet",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-moroccan-gelatin-copper-pot-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:24:59.666Z"
+}
