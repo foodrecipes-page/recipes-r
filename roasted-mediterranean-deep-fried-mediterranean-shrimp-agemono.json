@@ -1,0 +1,86 @@
+{
+  "slug": "roasted-mediterranean-deep-fried-mediterranean-shrimp-agemono",
+  "title": "Japanese-Style Deep Fried Shrimp",
+  "description": "A crispy and flavorful appetizer or snack, perfect for any occasion. Simply marinate shrimp in a mixture of soy sauce and sake, then coat and fry to a golden brown.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil for frying",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, a pinch of salt, and a pinch of pepper.",
+    "In a separate dish, beat the egg.",
+    "In another dish, mix together panko breadcrumbs and a pinch of salt.",
+    "Dredge the shrimp in the flour mixture, shaking off excess.",
+    "Dip the floured shrimp in the beaten egg, making sure they're fully coated.",
+    "Roll the egg-coated shrimp in the panko breadcrumb mixture, pressing the crumbs onto the shrimp to help them stick.",
+    "Heat about 1/2-inch (1 cm) of vegetable oil in a large skillet over medium-high heat until it reaches 350°F (180°C).",
+    "When the oil is hot, add 3-4 shrimp to the skillet and fry for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fried shrimp from the oil with a slotted spoon and place them on a paper towel-lined plate to drain any excess oil.",
+    "Repeat the frying process with the remaining shrimp.",
+    "Serve the deep-fried shrimp hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "deep-fried",
+    "shrimp",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-deep-fried-mediterranean-shrimp-agemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:35:28.272Z"
+}
