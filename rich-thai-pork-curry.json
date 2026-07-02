@@ -1,0 +1,88 @@
+{
+  "slug": "rich-thai-pork-curry",
+  "title": "Thai-Style Pork Curry",
+  "description": "A rich and flavorful Thai-style curry made with tender pork and crunchy vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "none"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "none"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook for 20-25 minutes, or until the pork is tender.",
+    "Add the bell pepper, carrots, and onion to the pan. Cook for an additional 5-10 minutes, or until the vegetables are tender.",
+    "Stir in the fresh basil leaves.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "porkcurry",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-thai-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:11:15.656Z"
+}
