@@ -1,0 +1,76 @@
+{
+  "slug": "rich-crunchy-jamaican-vinegar-stir-fry",
+  "title": "Jamaican Jerk Chicken Stir Fry",
+  "description": "A spicy and flavorful stir fry dish made with jerk seasoned chicken, crunchy vegetables, and a hint of vinegar.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rich bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "crunchy carrots",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add jerk seasoning to the skillet and cook for 1 minute.",
+    "Add chicken to the skillet and cook until browned and cooked through.",
+    "Add bell peppers and carrots to the skillet and cook until tender.",
+    "Add vinegar and stir-fry sauce to the skillet and stir to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-jamaican-vinegar-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:35:46.782Z"
+}
