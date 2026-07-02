@@ -1,0 +1,88 @@
+{
+  "slug": "robust-spicy-korean-lamb-skewers",
+  "title": "Spicy Korean Lamb Skewers",
+  "description": "A flavorful and spicy twist on traditional lamb skewers, inspired by Korean BBQ.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Robust marinade",
+      "amount": "1 cup",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine gochujang, soy sauce, brown sugar, garlic, and 2 tablespoons of water. Blend until smooth.",
+    "In a large bowl, whisk together the blended sauce, ginger, and green onions. Add the lamb cubes and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated lamb cubes onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Brush the skewers with robust marinade during the last 2 minutes of grilling.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lamb",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spicy-korean-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:15:18.099Z"
+}
