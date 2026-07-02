@@ -1,0 +1,80 @@
+{
+  "slug": "revitalizing-roasted-japanese-lemon-kushikatsu",
+  "title": "Kushikatsu Tempura with Lemon Dipping Sauce",
+  "description": "A Japanese-inspired dish featuring crispy kushikatsu tempura and a refreshing lemon dipping sauce. This snack is perfect for a quick and easy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut potatoes, cabbage, and carrots into 1-inch pieces.",
+    "In a bowl, mix flour and a pinch of salt.",
+    "In a separate bowl, beat the egg.",
+    "Dip each vegetable piece first into the flour mixture, then into the beaten egg, and finally into the panko breadcrumbs.",
+    "Heat about 2-3 inches of oil in a deep frying pan to 350°F (180°C).",
+    "Fry the breaded vegetables in batches until golden brown, about 3-4 minutes.",
+    "Drain the kushikatsu tempura on paper towels.",
+    "In a small bowl, whisk together lemon juice and lemon zest to make the dipping sauce.",
+    "Serve the kushikatsu tempura hot with the lemon dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "tempura",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/revitalizing-roasted-japanese-lemon-kushikatsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:47:05.333Z"
+}
