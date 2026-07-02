@@ -1,0 +1,66 @@
+{
+  "slug": "robust-peppery-northern-thai-lamb-khanom-thai",
+  "title": "Thai-Style Lamb Stir Fry",
+  "description": "A flavorful and aromatic stir fry made with lamb, robust and peppery Thai ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, sliced",
+      "amount": "450g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "20g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Northern Thai chilies",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Thai oyster sauce",
+      "amount": "2 tbsp",
+      "notes": "Savory sauce"
+    },
+    {
+      "name": "Khanom jeen rice noodles",
+      "amount": "200g",
+      "notes": "Cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat",
+    "Cook lamb until browned, about 3-4 minutes",
+    "Add chilies, basil, and oyster sauce, stir-frying for 2 minutes",
+    "Add cooked noodles, stir-frying to combine",
+    "Cook for an additional 2-3 minutes, until heated through",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stir-fry",
+    "thai-cuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-peppery-northern-thai-lamb-khanom-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:04:12.308Z"
+}
