@@ -1,0 +1,73 @@
+{
+  "slug": "richly-baked-dutch-ham-bake",
+  "title": "Dutch Ham Bake",
+  "description": "A simple and flavorful baked ham dish, great for a weeknight dinner.",
+  "cuisine": "Western",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Baked Beans",
+      "amount": "1 can (16 oz)"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bread, cubed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix together brown sugar and mustard.",
+    "Place the ham in a 9x13 inch baking dish.",
+    "Spread the sugar-mustard mixture evenly over the ham.",
+    "Top the ham with the chopped onion and cubed bread.",
+    "Pour the baked beans over the top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the ham is browned and the internal temperature reaches 140°F (60°C).",
+    "Let the dish rest for 5-10 minutes before serving.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ham",
+    "baked",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-baked-dutch-ham-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:36:12.101Z"
+}
