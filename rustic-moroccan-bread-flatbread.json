@@ -1,0 +1,67 @@
+{
+  "slug": "rustic-moroccan-bread-flatbread",
+  "title": "Moroccan Flatbread",
+  "description": "A rustic flatbread inspired by Moroccan cuisine, perfect for dipping in your favorite soups or olive oil.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, water, salt, and yeast. Mix until a shaggy dough forms.",
+    "2. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "3. Place the dough in a lightly oiled bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "4. Preheat the oven to 450°F (230°C).",
+    "5. Punch down the dough and divide it into 4-6 equal pieces.",
+    "6. Roll out each piece into a thin circle, about 6-7 inches in diameter.",
+    "7. Brush the flatbreads with olive oil and sprinkle with semolina flour.",
+    "8. Bake the flatbreads in the preheated oven for 10-12 minutes, or until they are golden brown and crispy.",
+    "9. Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "bread",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-moroccan-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:01:14.524Z"
+}
