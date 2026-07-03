@@ -1,0 +1,79 @@
+{
+  "slug": "rich-shattering-ethiopian-jam-azifa",
+  "title": "Ethiopian Azifa Cake with Rich Jam Glaze",
+  "description": "A moist and flavorful cake inspired by Ethiopian cuisine, topped with a rich jam glaze.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ethiopian Azifa",
+      "amount": "1 cup",
+      "notes": "ground chickpeas"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "rich jam",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease two 8-inch round cake pans.",
+    "Whisk together flour, sugar, and baking powder.",
+    "In a separate bowl, whisk together Azifa, softened butter, and eggs.",
+    "Add the dry ingredients to the wet ingredients and mix until combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 20-25 minutes or until a toothpick inserted comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring to a wire rack.",
+    "Once the cakes are completely cool, place one layer on a serving plate and spread with jam.",
+    "Top with the second cake layer and drizzle with rich jam glaze.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "ethiopian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-shattering-ethiopian-jam-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:39:55.427Z"
+}
