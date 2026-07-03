@@ -1,0 +1,90 @@
+{
+  "slug": "robust-springy-greek-lamb-skewers",
+  "title": "Greek Lamb Skewers",
+  "description": "A classic Greek recipe featuring tender lamb skewers, perfect for a quick and flavorful meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Robust red wine",
+      "amount": "1/4 cup",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together yogurt, olive oil, garlic, salt, and pepper.",
+    "3. Add lamb cubes to the marinade and mix well to coat.",
+    "4. Cover bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "5. Thread lamb cubes, spring onions, and parsley onto skewers.",
+    "6. Brush skewers with olive oil and season with salt and pepper.",
+    "7. Grill skewers for 8-10 minutes per side, or until lamb reaches 145°F (63°C).",
+    "8. Serve immediately, garnished with additional parsley if desired.",
+    "9. If desired, serve with a drizzle of robust red wine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "summer",
+    "grill",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-springy-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:28:59.961Z"
+}
