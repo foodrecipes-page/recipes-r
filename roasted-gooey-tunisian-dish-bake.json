@@ -1,0 +1,69 @@
+{
+  "slug": "roasted-gooey-tunisian-dish-bake",
+  "title": "Tunisian Stuffed Baked Goods",
+  "description": "A sweet treat with a gooey center, inspired by the flavors of Tunisia. This dish is perfect for a snack or dessert.",
+  "cuisine": "tunisian",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tunisian pastry dough",
+      "amount": "1 package",
+      "notes": "available at most bakeries"
+    },
+    {
+      "name": "Gooey chocolate spread",
+      "amount": "1 jar",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Roasted almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/4 inch.",
+    "Spread the gooey chocolate spread evenly over the dough, leaving a 1-inch border.",
+    "Sprinkle the roasted almonds and granulated sugar over the chocolate spread.",
+    "Fold the dough over the filling, pressing the edges to seal.",
+    "Bake for 25-30 minutes or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "chocolate",
+    "almonds",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-gooey-tunisian-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:45:41.811Z"
+}
