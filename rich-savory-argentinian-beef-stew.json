@@ -1,0 +1,86 @@
+{
+  "slug": "rich-savory-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with tender beef and rich flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Chuck",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Dried"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Reduce heat to medium and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the beef is tender.",
+    "Stir in the tomato paste and dried thyme.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "argentinian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:39:49.836Z"
+}
