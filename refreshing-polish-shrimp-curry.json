@@ -1,0 +1,96 @@
+{
+  "slug": "refreshing-polish-shrimp-curry",
+  "title": "Refreshing Polish Shrimp Curry",
+  "description": "A light and flavorful curry dish perfect for a warm evening, featuring succulent shrimp and a hint of Polish spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add sliced Polish sausage and cook until browned, about 3-4 minutes.",
+    "Add garlic and curry powder, cook for 1 minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Stir in lemon juice, salt, and chopped cilantro.",
+    "Reduce heat to low and simmer for 2-3 minutes.",
+    "Stir in Greek yogurt and chopped basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "shrimp",
+    "curry",
+    "easy",
+    "seafood",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-polish-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:23:18.586Z"
+}
