@@ -1,0 +1,72 @@
+{
+  "slug": "rich-creamy-ukrainian-figs-dumplings",
+  "title": "Syrnyk with Fig Compote",
+  "description": "A traditional Ukrainian dessert featuring a creamy cheese filling and a sweet fig compote.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Syrnyk cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh figs",
+      "amount": "4"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine heavy cream, sugar, and butter. Heat over medium heat, stirring occasionally.",
+    "Bring mixture to a simmer and cook for 5 minutes, or until slightly thickened.",
+    "Remove from heat and stir in cornstarch mixture. Let cool slightly.",
+    "Crumble Syrnyk cheese into a bowl and mix in lemon juice.",
+    "Add cooled cream mixture to cheese mixture and mix until smooth.",
+    "Spoon creamy mixture into individual serving cups or ramekins.",
+    "In a separate saucepan, combine figs and 2 tbsp sugar. Cook over low heat, stirring occasionally.",
+    "Cook figs for 10-12 minutes, or until they're tender and caramelized.",
+    "Serve fig compote over creamy cheese mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dessert",
+    "cheese",
+    "figs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-ukrainian-figs-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:57:01.149Z"
+}
