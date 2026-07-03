@@ -1,0 +1,62 @@
+{
+  "slug": "radish-rebellion",
+  "title": "Roasted Radish Delight",
+  "description": "A simple and flavorful side dish that brings out the natural sweetness of radishes. Perfect for a quick and easy addition to any meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "1 large, peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the radish cubes with olive oil, salt, black pepper, and garlic powder in a bowl until they are evenly coated.",
+    "Spread the radish mixture on a baking sheet in a single layer.",
+    "Roast in the preheated oven for 20-25 minutes, or until the radishes are tender and caramelized.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "radish",
+    "roasted",
+    "side-dish",
+    "easy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radish-rebellion",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:40:28.057Z"
+}
