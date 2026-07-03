@@ -1,0 +1,85 @@
+{
+  "slug": "robust-peppery-australian-papelon-stew",
+  "title": "Robust Australian Stew",
+  "description": "A hearty, flavorful stew originating from Australia, made with tender chunks of beef, robust spices, and a hint of sweetness from the papelon.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef stew meat",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Papelon",
+      "amount": "1 medium",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Robust pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tsp",
+      "notes": "whole"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Sear the beef until browned on all sides, about 5 minutes.",
+    "3. Remove the beef from the pot and set aside.",
+    "4. Add more oil if necessary and sauté the onion until softened.",
+    "5. Add the garlic and sauté for 1 minute.",
+    "6. Add the papelon, stew, robust pepper, salt, and peppercorns.",
+    "7. Stir to combine.",
+    "8. Return the beef to the pot and bring to a boil.",
+    "9. Reduce heat to low, cover, and simmer for 1.5 hours or until the beef is tender.",
+    "10. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-stew",
+    "beef-stew",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-peppery-australian-papelon-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:42:52.238Z"
+}
