@@ -1,0 +1,82 @@
+{
+  "slug": "rich-croatian-pepper-stew",
+  "title": "Croatian Beef Stew",
+  "description": "Hearty beef stew with a rich flavor profile, perfect for a cold winter night.",
+  "cuisine": "croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes to pot and cook for 5 minutes.",
+    "Add browned beef back to pot, along with paprika, pepper, and salt. Stir to combine.",
+    "Add beef broth and water to pot, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-croatian-pepper-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:29:18.949Z"
+}
