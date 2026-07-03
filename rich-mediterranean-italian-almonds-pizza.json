@@ -1,0 +1,80 @@
+{
+  "slug": "rich-mediterranean-italian-almonds-pizza",
+  "title": "Italian Almond Pizza Bites",
+  "description": "A delicious and easy-to-make Italian-inspired appetizer. Perfect for snacking.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pizza dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Cut the dough into 1-inch squares.",
+    "In a small bowl, mix together the ricotta cheese, parmesan cheese, and chopped basil.",
+    "Place a small spoonful of the cheese mixture onto the center of each dough square.",
+    "Top with a sliced almond.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake for 12-15 minutes, or until the dough is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 20,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "almonds",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-italian-almonds-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:22:24.367Z"
+}
