@@ -1,0 +1,84 @@
+{
+  "slug": "rich-savory-chinese-chicken-noodles",
+  "title": "Savory Chicken Noodle Stir Fry",
+  "description": "A simple and flavorful Chinese-inspired stir fry made with chicken, noodles, and vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "any color"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the soy sauce and sugar to the skillet and stir to combine.",
+    "Add the noodles to the skillet and cook for 2-3 minutes, until heated through.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 1-2 minutes, until the chicken is coated in the sauce.",
+    "Stir in the chopped scallions and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "noodles",
+    "stir-fry",
+    "chinese",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-chinese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:14:43.298Z"
+}
