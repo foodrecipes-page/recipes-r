@@ -1,0 +1,75 @@
+{
+  "slug": "richly-aerated-canadian-lemon-puff",
+  "title": "Aerated Puff Pastry with Lemon Filling",
+  "description": "A light and airy pastry filled with a tangy lemon curd, perfect for a springtime dessert.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry, thawed",
+      "amount": "1 package (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to the prepared baking sheet.",
+    "In a small bowl, whisk together the sugar, eggs, lemon juice, and lemon zest.",
+    "Spread the lemon mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with the softened butter.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and puffed.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lemon",
+    "pastry",
+    "dessert",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-aerated-canadian-lemon-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:18:30.764Z"
+}
