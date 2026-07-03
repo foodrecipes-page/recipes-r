@@ -1,0 +1,82 @@
+{
+  "slug": "robust-spring-italian-chicken-skewers",
+  "title": "Grilled Chicken Skewers with Spring Vegetables",
+  "description": "A refreshing and flavorful summer dish featuring marinated chicken and spring vegetables grilled to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "italian spring vegetables (bell peppers, zucchini, cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "3. Add the chicken and spring vegetables to the bowl and toss to coat with the marinade.",
+    "4. Thread the chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 10-12 minutes, turning occasionally, or until the chicken is cooked through and the vegetables are tender.",
+    "6. Serve hot, garnished with lemon wedges and fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "summer",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spring-italian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:07:03.113Z"
+}
