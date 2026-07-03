@@ -1,0 +1,77 @@
+{
+  "slug": "robust-roasted-greek-sirloin-steak-tips-tzatziki",
+  "title": "Greek Sirloin Steak with Tzatziki Sauce",
+  "description": "A classic Greek dish featuring a grilled sirloin steak served with a refreshing tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "1.5-2 inches thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 (juiced)",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 (thinly sliced)",
+      "notes": "for serving"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 (diced)",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the sirloin steak with garlic powder, if using.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the sirloin steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F - 135°F for medium-rare.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, slice the cucumber and tomato.",
+    "Serve the sirloin steak with tzatziki sauce, cucumber, and tomato slices.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "grilled-steak",
+    "tzatziki-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-roasted-greek-sirloin-steak-tips-tzatziki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:22:26.851Z"
+}
