@@ -1,0 +1,98 @@
+{
+  "slug": "rich-roasted-canadian-ground-beef-lasagna",
+  "title": "Classic Canadian Beef Lasagna",
+  "description": "A hearty, comforting dish featuring rich, roasted beef and layers of lasagna noodles, rich cheese and tomato sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best for this recipe"
+    },
+    {
+      "name": "Lasagna",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Rich, Roasted Beef",
+      "amount": "1 cup, shredded",
+      "notes": "Use leftover roast beef or roast in oven at 300°F for 2-3 hours"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add ground beef and cook until browned, breaking up with a spoon as needed.",
+    "Add tomato sauce, salt, and black pepper. Simmer for 10-15 minutes.",
+    "In a separate bowl, combine shredded mozzarella and parmesan cheese.",
+    "In a 9x13 inch baking dish, create a thin layer of tomato sauce.",
+    "Arrange 4 lasagna noodles on top of sauce.",
+    "Spread half of the ricotta cheese mixture over noodles, followed by half of the shredded cheese mixture.",
+    "Repeat the layers, starting with noodles, then sauce, then cheese.",
+    "Top with remaining cheese and cover with foil.",
+    "Bake for 30 minutes, then remove foil and continue baking for an additional 10-15 minutes, or until golden brown.",
+    "Let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "beef",
+    "italian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-canadian-ground-beef-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:30:45.830Z"
+}
