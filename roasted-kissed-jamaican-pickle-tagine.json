@@ -1,0 +1,87 @@
+{
+  "slug": "roasted-kissed-jamaican-pickle-tagine",
+  "title": "Jamaican Jerk Chicken with Jamaican Pickle Slaw",
+  "description": "A Caribbean-inspired dish featuring jerk chicken paired with a tangy slaw made with Jamaican pickles and a hint of roasted spices.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup",
+      "notes": "chopped, jarred"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Roasted cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together jerk seasoning, cumin, and allspice.",
+    "Rub the spice mix all over the chicken breasts.",
+    "Bake the chicken in the oven for 20-25 minutes or until cooked through.",
+    "In a large bowl, combine chopped pickles, mayonnaise, honey, and lime juice.",
+    "Mix well until combined.",
+    "Add shredded cabbage and grated carrots to the bowl and toss to coat with the slaw dressing.",
+    "Serve the jerk chicken with the Jamaican pickle slaw on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pickles",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-kissed-jamaican-pickle-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:31:59.811Z"
+}
