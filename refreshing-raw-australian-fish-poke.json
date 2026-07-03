@@ -1,0 +1,90 @@
+{
+  "slug": "refreshing-raw-australian-fish-poke",
+  "title": "Australian Style Poke Bowl",
+  "description": "A refreshing and light poke bowl featuring Australian fish and mixed greens.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Sardines",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Raw Mango",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Peppercorns",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the mixed greens and place in a large bowl.",
+    "Drain the sardines and flake them into small pieces.",
+    "Add the flaked sardines to the bowl with the mixed greens.",
+    "Slice the raw mango into thin pieces and add to the bowl.",
+    "Thinly slice the red onion and add to the bowl.",
+    "Chop the fresh cilantro and add to the bowl.",
+    "Squeeze the fresh lime juice over the bowl.",
+    "Drizzle the sesame oil over the bowl.",
+    "Sprinkle salt and crushed peppercorns to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "poke",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-raw-australian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:29:27.001Z"
+}
