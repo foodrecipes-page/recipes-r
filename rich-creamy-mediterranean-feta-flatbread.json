@@ -1,0 +1,90 @@
+{
+  "slug": "rich-creamy-mediterranean-feta-flatbread",
+  "title": "Mediterranean Flatbread",
+  "description": "A flavorful and easy-to-make flatbread topped with creamy feta and rich Mediterranean ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mediterranean flatbread",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Rich hummus",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Bake for 8-10 minutes, or until the flatbread is crispy.",
+    "While the flatbread is baking, mix together the feta cheese, hummus, olives, parsley, artichoke hearts, and red onion.",
+    "Once the flatbread is done, remove it from the oven and top with the feta mixture.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "mediterranean",
+    "feta",
+    "hummus",
+    "olives"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-mediterranean-feta-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:29:37.917Z"
+}
