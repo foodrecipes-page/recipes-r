@@ -1,0 +1,73 @@
+{
+  "slug": "rousing-ethiopian-corn-flour-kik-alicha",
+  "title": "Alicha Wot with Corn Fritters",
+  "description": "A traditional Ethiopian dish, Alicha Wot is a mild and flavorful stew made with spices, onions, and a choice of protein. Paired with crispy corn fritters, this meal is a delicious and satisfying option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rousing",
+      "amount": "2 cups",
+      "notes": "Water used for soaking and cooking"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tablespoons",
+      "notes": "Berbere spice mix"
+    },
+    {
+      "name": "Corn",
+      "amount": "2 ears",
+      "notes": "Fresh corn on the cob"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour for fritter batter"
+    },
+    {
+      "name": "Kik",
+      "amount": "1 cup",
+      "notes": "Split red lentils"
+    },
+    {
+      "name": "Alicha",
+      "amount": "2 tablespoons",
+      "notes": "Spice mix for the wot"
+    }
+  ],
+  "instructions": [
+    "Soak the kik (lentils) in the rousing (water) for 30 minutes. Drain and set aside.",
+    "Heat oil in a pan over medium heat. Add the onion and cook until softened.",
+    "Add the Berbere spice mix (Ethiopian) and cook for 1 minute.",
+    "Add the kik (lentils) and 2 cups of rousing (water). Bring to a boil, then reduce heat and simmer.",
+    "Cook the corn on the cob by boiling in water until tender. Set aside.",
+    "In a separate bowl, mix together the flour, a pinch of salt, and a dash of water to make the fritter batter.",
+    "Heat oil in a pan over medium-high heat. Drop spoonfuls of the fritter batter into the oil and fry until crispy and golden.",
+    "Serve the Alicha Wot with the corn fritters on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "corn-fritters",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rousing-ethiopian-corn-flour-kik-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:31:31.478Z"
+}
