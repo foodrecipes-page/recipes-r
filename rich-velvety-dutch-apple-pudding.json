@@ -1,0 +1,86 @@
+{
+  "slug": "rich-velvety-dutch-apple-pudding",
+  "title": "Dutch Apple Pudding",
+  "description": "A delicious dessert that combines the richness of Dutch chocolate pudding with the sweetness of caramelized apples.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch chocolate pudding",
+      "amount": "1 package",
+      "notes": "12 oz"
+    },
+    {
+      "name": "Large apples",
+      "amount": "2",
+      "notes": "Granny Smith"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "In a medium bowl, whisk together the sugar, flour, cinnamon, and salt.",
+    "Add the sliced apples to the bowl and toss until they are evenly coated with the sugar mixture.",
+    "Transfer the apple mixture to a baking dish and dot the top with the unsalted butter.",
+    "Bake for 20-25 minutes, or until the apples are tender and caramelized.",
+    "While the apples are baking, prepare the Dutch chocolate pudding according to the package instructions.",
+    "Once the pudding is cooked, stir in the beaten egg until well combined.",
+    "Remove the apples from the oven and pour the warm pudding over the top.",
+    "Return the dish to the oven and bake for an additional 5-7 minutes, or until the pudding is set.",
+    "Remove the dish from the oven and let it cool to room temperature.",
+    "Serve the Dutch apple pudding chilled, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-apple-pudding",
+    "chocolate-pudding",
+    "caramelized-apples"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-dutch-apple-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:28:19.028Z"
+}
