@@ -1,0 +1,74 @@
+{
+  "slug": "rsoft-algerian-kippers-pilaf",
+  "title": "Algerian-Style Pilaf with Smoked Fish",
+  "description": "A flavorful North African-inspired dish featuring pilaf, kippers, and fresh herbs.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kippers",
+      "amount": "4",
+      "notes": "smoked and flaked"
+    },
+    {
+      "name": "rsoft",
+      "amount": "1/4 cup",
+      "notes": "or other chopped fresh herbs"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": "or other spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add kippers; cook 2-3 minutes per side.",
+    "Flake and set aside.",
+    "In the same skillet, add pilaf and algerian spice blend.",
+    "Cook 2-3 minutes, stirring frequently.",
+    "Add chopped herbs and cook until fragrant.",
+    "Stir in cooked kippers.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fish",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rsoft-algerian-kippers-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:54:59.498Z"
+}
