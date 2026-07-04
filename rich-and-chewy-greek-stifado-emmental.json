@@ -1,0 +1,86 @@
+{
+  "slug": "rich-and-chewy-greek-stifado-emmental",
+  "title": "Greek Emmental Stifado",
+  "description": "A hearty Greek stifado recipe made with tender beef, rich emmental cheese, and a hint of spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "200ml",
+      "notes": "dry"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "60g",
+      "notes": "crushed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "400ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "stifado spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "emmental cheese",
+      "amount": "250g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the beef in batches until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary and sauté the onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine and stir to deglaze the pot.",
+    "Add the crushed tomato paste and beef broth, stirring to combine.",
+    "Return the browned beef to the pot and add the stifado spice mix.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Stir in the grated emmental cheese until melted and well combined.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "beef",
+    "emmental",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 55
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-chewy-greek-stifado-emmental",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:27:33.841Z"
+}
