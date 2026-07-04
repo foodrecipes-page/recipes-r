@@ -1,0 +1,82 @@
+{
+  "slug": "rich-brazilian-nectarine-pilaf",
+  "title": "Brazilian Pilaf Bowl with Grilled Nectarine",
+  "description": "A flavorful and refreshing Brazilian-inspired dish featuring grilled nectarine and a hearty pilaf.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sliced nectarine",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium heat.",
+    "2. In a large saucepan, heat olive oil over medium heat. Add chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add minced garlic and grated ginger, cooking for an additional 1-2 minutes.",
+    "4. Stir in pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "5. Add chicken broth and sugar, bringing to a boil. Reduce heat to low, cover, and simmer for 10-12 minutes.",
+    "6. Meanwhile, grill sliced nectarine for 2-3 minutes per side, until lightly charred.",
+    "7. Fluff pilaf with a fork and stir in chopped cilantro.",
+    "8. Serve pilaf hot, topped with grilled nectarine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "brazilian",
+    "nectarine",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-brazilian-nectarine-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:27:44.554Z"
+}
