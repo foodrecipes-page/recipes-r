@@ -1,0 +1,77 @@
+{
+  "slug": "rich-donabe-glazed-venezuelan-seitan-roast",
+  "title": "Venezuelan Seitan Stew in Donabe",
+  "description": "A hearty, comforting stew made with seitan, inspired by Venezuelan flavors, cooked in a rich donabe.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "donabe",
+      "amount": "1"
+    },
+    {
+      "name": "seitan",
+      "amount": "250g",
+      "notes": "store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "glazed venezuelan coffee",
+      "amount": "1 tsp",
+      "notes": "available at specialty stores"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rich broth",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in the donabe over medium heat.",
+    "Add the onion and garlic and cook until softened, 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the seitan, soy sauce, and coffee, and stir to combine.",
+    "Pour in the broth and bring to a boil.",
+    "Transfer to the oven and bake at 200°C (400°F) for 20 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "seitan",
+    "vegan",
+    "latin",
+    "donabe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-donabe-glazed-venezuelan-seitan-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:54:26.349Z"
+}
