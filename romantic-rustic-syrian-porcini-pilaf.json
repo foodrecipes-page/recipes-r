@@ -1,0 +1,78 @@
+{
+  "slug": "romantic-rustic-syrian-porcini-pilaf",
+  "title": "Syrian Pilaf with Porcini Mushrooms",
+  "description": "A hearty, rustic Syrian pilaf dish filled with earthy porcini mushrooms. Perfect for a cold evening dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Rice pilaf",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Crushed tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the porcini mushrooms and cook until they release their moisture and start to brown.",
+    "Add the crushed tomatoes, salt, and black pepper.",
+    "Stir in the rice pilaf and add enough water to cover the pilaf.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes or until the water is absorbed and the pilaf is tender.",
+    "Fluff the pilaf with a fork and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "pilaf",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-rustic-syrian-porcini-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:09:33.531Z"
+}
