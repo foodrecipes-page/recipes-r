@@ -1,0 +1,55 @@
+{
+  "slug": "robust-filipino-gobo-burdock-dinuguan",
+  "title": "Braised Dinuguan with Gobo and Burdock",
+  "description": "A twist on the traditional Filipino dish, dinuguan is paired with the earthy flavors of gobo and burdock.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pig's Blood",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Gobo",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Burdock",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "1. Cut the gobo and burdock into bite-sized pieces.",
+    "2. In a large pot, combine the pork belly and pig's blood. Cook over medium heat, stirring occasionally, until the blood has thickened and the pork is cooked through.",
+    "3. Add the gobo and burdock to the pot and continue to cook, stirring occasionally, until the vegetables are tender.",
+    "4. Season the dinuguan with salt and pepper to taste.",
+    "5. Serve the braised dinuguan hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "braised",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-filipino-gobo-burdock-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:35:29.061Z"
+}
