@@ -7025,17 +7025,15 @@
   },
   {
     "slug": "rich-mexican-poblano-tacos",
-    "title": "Rich Mexican Poblano Tacos",
+    "title": "Roasted Poblano Tacos",
     "tags": [
-      "buttery",
-      "easy-to-make",
-      "late-night",
       "mexican",
-      "nut-free",
-      "poblano-tacos"
+      "tacos",
+      "poblano",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
@@ -9549,17 +9547,16 @@
   },
   {
     "slug": "rich-slovakian-ground-beef-dumplings",
-    "title": "Rich Slovakian Ground Beef Dumplings",
+    "title": "Traditional Slovakian Beef Goulash",
     "tags": [
-      "comfort-food",
-      "dumplings",
-      "flambe",
-      "ground-beef",
-      "rich-sauce",
-      "slovakian-cuisine"
+      "slovakian",
+      "beef",
+      "goulash",
+      "dinner",
+      "comfortfood"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
@@ -19522,10 +19519,15 @@
   },
   {
     "slug": "rosemary-smoky-australian-lamb-roast",
-    "title": "Rosemary Smoky Australian Lamb Roast",
-    "tags": [],
-    "cuisine": "Australian",
-    "totalTimeMin": null,
+    "title": "Classic Australian Lamb Roast",
+    "tags": [
+      "australian",
+      "lamb",
+      "roast",
+      "herbs"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 75,
     "shard": "r"
   },
   {
@@ -19737,17 +19739,14 @@
   },
   {
     "slug": "rsoft-algerian-kippers-pilaf",
-    "title": "RSoft Algerian Kippers Pilaf",
+    "title": "Algerian-Style Pilaf with Smoked Fish",
     "tags": [
       "algerian",
-      "kippers",
-      "lazy-sunday",
-      "pilaf",
-      "shojin-friendly",
-      "umami"
+      "fish",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
