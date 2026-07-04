@@ -1,0 +1,77 @@
+{
+  "slug": "rich-tasty-mediterranean-flax-eggs-bowl",
+  "title": "Mediterranean Flax Frittata",
+  "description": "A delicious and nutritious frittata packed with the flavors of the Mediterranean, featuring flaxseeds for extra goodness.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaxseeds",
+      "amount": "1/4 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "large"
+    },
+    {
+      "name": "Rich Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Tasty Kalamata Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the eggs, salt, and pepper.",
+    "Add the ground flaxseeds, crumbled feta cheese, chopped parsley, and pitted olives to the bowl.",
+    "Mix well to combine.",
+    "Pour the egg mixture into a greased 9-inch (23cm) pie plate or skillet.",
+    "Bake for 35-40 minutes, or until the frittata is set and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "mediterranean",
+    "frittata",
+    "eggs",
+    "flaxseeds"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tasty-mediterranean-flax-eggs-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:51:08.670Z"
+}
