@@ -1,0 +1,94 @@
+{
+  "slug": "rich-mexican-poblano-tacos",
+  "title": "Roasted Poblano Tacos",
+  "description": "A flavorful and spicy Mexican dish featuring roasted poblano peppers in tacos with rich toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place poblano peppers on a baking sheet and roast for 30-40 minutes, or until the skin is charred and blistered.",
+    "Remove peppers from the oven and let cool in a bowl covered with plastic wrap for 10-15 minutes.",
+    "Peel the skin off the peppers and chop them into strips.",
+    "In a large skillet, heat olive oil over medium heat. Add cumin and garlic powder and cook for 1 minute.",
+    "Add the chopped poblano peppers to the skillet and cook for 2-3 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a portion of the poblano pepper mixture onto a tortilla, followed by a spoonful of shredded cheese, a sprinkle of cilantro, and a dollop of sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "poblano",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-poblano-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:47:39.472Z"
+}
