@@ -192,13 +192,14 @@
   },
   {
     "slug": "radiant-italian-chicken-wrap",
-    "title": "Radiant Italian Chicken Wrap",
+    "title": "Italian Chicken Wrap",
     "tags": [
       "italian",
-      "lunch"
+      "chicken",
+      "wrap"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "r"
   },
   {
@@ -3003,17 +3004,15 @@
   },
   {
     "slug": "rich-and-chewy-greek-stifado-emmental",
-    "title": "Rich And Chewy Greek Stifado Emmental",
+    "title": "Greek Emmental Stifado",
     "tags": [
-      "chewy",
-      "greek-dish",
-      "one-pan",
-      "rich",
-      "slow-cooked",
-      "sugar-free-friendly"
+      "greek",
+      "beef",
+      "emmental",
+      "stew"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 145,
+    "totalTimeMin": 140,
     "shard": "r"
   },
   {
@@ -3854,17 +3853,14 @@
   },
   {
     "slug": "rich-chinese-pork-dumplings",
-    "title": "Rich Chinese Pork Dumplings",
+    "title": "Pan-Seared Pork Dumplings",
     "tags": [
-      "beurre-monte-recipes",
-      "chinese-food",
-      "dumplings",
-      "indulgent-meals",
-      "pork-recipes",
-      "shandong-cuisine"
+      "chinese",
+      "pork",
+      "dumplings"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -12279,16 +12275,14 @@
   },
   {
     "slug": "richly-glazed-korean-chicken-bowl",
-    "title": "Richly Glazed Korean Chicken Bowl",
+    "title": "Korean Chicken Bowl",
     "tags": [
-      "glazed-chicken",
-      "korean-inspired",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "chicken",
+      "bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -19608,17 +19602,16 @@
   },
   {
     "slug": "rounded-crisp-korean-cabbage-songpyeon",
-    "title": "Rounded Crisp Korean Cabbage Songpyeon",
+    "title": "Korean-Style Roasted Songpyeon with Crisp Kimchi",
     "tags": [
-      "asian-fusion",
-      "crispy-snacks",
-      "date-night",
-      "korean-cuisine",
-      "songpyeon-recipe",
-      "vegetarian-friendly"
+      "korean",
+      "vegetarian",
+      "gluten-free",
+      "roasted",
+      "slaw"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "r"
   },
   {
