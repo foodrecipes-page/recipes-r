@@ -1,0 +1,80 @@
+{
+  "slug": "rich-mexican-tomatoes-tacos",
+  "title": "Mexican Taco Casserole",
+  "description": "A twist on traditional tacos, this casserole is perfect for a weeknight dinner. It's easy to make and feeds a crowd.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "tacos",
+      "amount": "1 package (8-10 count)",
+      "notes": null
+    },
+    {
+      "name": "rich",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8",
+      "notes": "corn"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Brown the ground beef in a large skillet over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Once browned, drain the excess fat and add the cumin, stirring to combine.",
+    "Stir in the diced tomatoes and cook for an additional 2-3 minutes.",
+    "In a separate pot, warm the tacos according to package instructions.",
+    "In a large baking dish, arrange a layer of tortillas.",
+    "Spoon the beef mixture over the tortillas, followed by a layer of shredded cheese.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with additional cheese, sour cream, and diced tomatoes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "tacos",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-tomatoes-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:20:06.022Z"
+}
