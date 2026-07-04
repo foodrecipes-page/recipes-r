@@ -1,0 +1,91 @@
+{
+  "slug": "rich-australian-beef-skewers",
+  "title": "Australian Beef Skewers",
+  "description": "Savor the flavors of the outback with these mouthwatering beef skewers, marinated in a rich and savory sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Australian barbecue sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together Australian barbecue sauce, oil, garlic, ginger, soy sauce, brown sugar, salt, and black pepper.",
+    "3. Add the beef cubes to the marinade and mix until they are well coated.",
+    "4. Thread 3-4 beef cubes onto each bamboo skewer.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australia",
+    "beef",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-australian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:47:31.654Z"
+}
