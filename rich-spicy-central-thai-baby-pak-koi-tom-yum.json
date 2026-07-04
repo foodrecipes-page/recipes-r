@@ -1,0 +1,77 @@
+{
+  "slug": "rich-spicy-central-thai-baby-pak-koi-tom-yum",
+  "title": "Spicy Thai Style Tom Yum Soup",
+  "description": "A rich and spicy Thai-inspired soup made with a variety of flavors and ingredients. Serve with steamed rice for a complete meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby pak choi",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "koi fish-free broth",
+      "amount": "4 cups",
+      "notes": "vegetarian broth"
+    },
+    {
+      "name": "rich coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "central Thai chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a large pot over medium heat.",
+    "Add the tom yum paste and cook for 1 minute.",
+    "Add the chopped pak choi and cook until wilted.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Add the sliced chili and cook for an additional 2 minutes.",
+    "Season with palm sugar to taste.",
+    "Serve hot, garnished with chopped Thai basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "southern",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spicy-central-thai-baby-pak-koi-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:41:28.471Z"
+}
