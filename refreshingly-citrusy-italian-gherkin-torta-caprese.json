@@ -1,0 +1,77 @@
+{
+  "slug": "refreshingly-citrusy-italian-gherkin-torta-caprese",
+  "title": "Torta Caprese with Citrusy Gherkin Salsa",
+  "description": "A refreshing twist on the classic Italian dessert, paired with a zesty gherkin salsa.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "torta caprese",
+      "amount": "1 (12-inch) round cake"
+    },
+    {
+      "name": "fresh mozzarella",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gherkin",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together lemon juice and olive oil.",
+    "2. Add chopped gherkin to the bowl and stir to combine.",
+    "3. Preheat oven to 350°F (175°C).",
+    "4. Slice the torta caprese into 1-inch thick slices.",
+    "5. Place a slice of torta caprese on a serving plate.",
+    "6. Top with a slice of fresh mozzarella.",
+    "7. Drizzle the lemon-gherkin dressing over the mozzarella.",
+    "8. Sprinkle chopped basil over the top.",
+    "9. Season with salt to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "caprese",
+    "torta"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshingly-citrusy-italian-gherkin-torta-caprese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:16:55.671Z"
+}
