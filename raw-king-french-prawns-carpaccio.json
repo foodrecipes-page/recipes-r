@@ -1,0 +1,64 @@
+{
+  "slug": "raw-king-french-prawns-carpaccio",
+  "title": "Seared Carpaccio with King Prawn Skewers",
+  "description": "A refreshing and light dish featuring seared carpaccio and flavorful king prawn skewers. This recipe is perfect for a summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "raw carpaccio",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "french",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread king prawns onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Brush with olive oil and grill for 2-3 minutes per side.",
+    "Meanwhile, slice raw carpaccio into thin strips.",
+    "Place carpaccio slices on a plate in a decorative pattern.",
+    "Garnish with chopped parsley and serve with king prawn skewers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-king-french-prawns-carpaccio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:21:42.655Z"
+}
