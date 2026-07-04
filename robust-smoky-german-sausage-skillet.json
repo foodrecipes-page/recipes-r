@@ -1,0 +1,81 @@
+{
+  "slug": "robust-smoky-german-sausage-skillet",
+  "title": "German Sausage Skillet",
+  "description": "A hearty, smoky skillet dish featuring robust german sausage, perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large cast-iron skillet"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and swirl to coat the bottom of the skillet.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced potatoes and cook for an additional 5 minutes.",
+    "Add the German sausage and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Sprinkle with caraway seeds, salt, and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "skillet",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-smoky-german-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:44:27.438Z"
+}
