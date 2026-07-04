@@ -7007,14 +7007,14 @@
   },
   {
     "slug": "rich-mexican-pecan-stir-fry",
-    "title": "Rich Mexican Pecan Stir-Fry",
+    "title": "Pecan Crusted Fish Tacos",
     "tags": [
-      "rich-mexican-pecan-stir-fry",
-      "nut-free-friendly",
-      "sous-vide"
+      "fish-tacos",
+      "mexican-cuisine",
+      "pecan-crusted"
     ],
-    "cuisine": "Mexican-Venezuelan",
-    "totalTimeMin": 150,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -7032,17 +7032,15 @@
   },
   {
     "slug": "rich-mexican-tomatoes-tacos",
-    "title": "Rich Mexican Tomatoes Tacos",
+    "title": "Mexican Taco Casserole",
     "tags": [
-      "anti-inflammatory",
       "mexican",
-      "quick-meal",
+      "casserole",
       "tacos",
-      "vegan",
-      "vegetarian"
+      "dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -19912,16 +19910,16 @@
   },
   {
     "slug": "rustic-brazilian-rye-ceviche",
-    "title": "Rustic Brazilian Rye Ceviche",
+    "title": "Brazilian Rye Ceviche",
     "tags": [
       "brazilian",
-      "low-fodmap",
-      "quick",
-      "rustic",
-      "snack"
+      "ceviche",
+      "fish",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
