@@ -1,0 +1,78 @@
+{
+  "slug": "rich-garlic-indulgent-pilaf",
+  "title": "Indulgent Garlic Pilaf",
+  "description": "A rich and savory pilaf infused with the deep flavors of garlic, perfect as a side dish or light meal.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a medium saucepan over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add uncooked pilaf and stir to coat with oil and garlic.",
+    "Pour in chicken broth, salt, and black pepper. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until liquid is absorbed.",
+    "Stir in remaining 1 tbsp of olive oil.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped parsley if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "garlic",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-garlic-indulgent-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:11:18.564Z"
+}
