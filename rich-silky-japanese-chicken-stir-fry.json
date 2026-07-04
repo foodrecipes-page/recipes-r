@@ -1,0 +1,93 @@
+{
+  "slug": "rich-silky-japanese-chicken-stir-fry",
+  "title": "Silky Chicken Stir Fry",
+  "description": "A quick and delicious Japanese-inspired dish made with tender chicken and a rich, savory sauce. Serve with steamed rice or noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "stir-fry sauce (optional)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the soy sauce, honey, and stir-fry sauce (if using) to the skillet and stir to combine.",
+    "Return the chicken to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Transfer the chicken and sauce to a serving platter or individual plates.",
+    "Garnish with chopped green onions and sesame seeds (if using).",
+    "Serve immediately, with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "japanese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-japanese-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:54:05.078Z"
+}
