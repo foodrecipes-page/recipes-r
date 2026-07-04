@@ -1,0 +1,82 @@
+{
+  "slug": "radiant-italian-chicken-wrap",
+  "title": "Italian Chicken Wrap",
+  "description": "A delicious and easy-to-make wrap filled with Italian-seasoned chicken and fresh ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tablespoon",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "radiant wrap",
+      "amount": "1 large",
+      "notes": "or Italian flatbread"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "4-6",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sliced pepperoncini",
+      "amount": "4-6",
+      "notes": "optional"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "4-6",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together Italian seasoning and a pinch of salt.",
+    "Season the chicken with the Italian seasoning mixture.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 2-3 minutes before slicing.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading tomato sauce on the wrap, followed by sliced chicken, shredded mozzarella cheese, pepperoncini, lettuce leaves, and fresh basil leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-italian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:34:43.710Z"
+}
