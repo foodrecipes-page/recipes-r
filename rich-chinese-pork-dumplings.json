@@ -1,0 +1,84 @@
+{
+  "slug": "rich-chinese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A Chinese-inspired dish featuring pan-seared dumplings filled with rich pork and served with a side of steamed vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a mixing bowl, combine pork mince, soy sauce, sesame oil, garlic, ginger, and scallions. Mix well until just combined.",
+    "2. Lay a wonton wrapper on a clean surface. Place a small spoonful of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "5. Press the edges together to seal the dumpling. Repeat with the remaining wrappers and filling.",
+    "6. Heat a large skillet or wok over medium-high heat.",
+    "7. Add a small amount of oil to the pan and swirl it around.",
+    "8. When the oil is hot, add the dumplings to the pan, being careful not to overcrowd it.",
+    "9. Cook the dumplings for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "10. Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:24:04.244Z"
+}
