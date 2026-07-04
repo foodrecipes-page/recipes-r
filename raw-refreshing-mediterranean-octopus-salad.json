@@ -1,0 +1,74 @@
+{
+  "slug": "raw-refreshing-mediterranean-octopus-salad",
+  "title": "Grilled Octopus with Mediterranean Salad",
+  "description": "A refreshing and flavorful dish that combines the taste of the Mediterranean with the tenderness of grilled octopus. This recipe is perfect for a light lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Octopus",
+      "amount": "1 pound, cleaned and tentacles separated"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 lemons, juiced",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups, fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the octopus with salt and black pepper.",
+    "Grill the octopus for 2-3 minutes per side, or until slightly charred.",
+    "Let the octopus rest for 5 minutes before slicing into bite-sized pieces.",
+    "In a large bowl, combine the mixed greens, lemon juice, garlic, and olive oil.",
+    "Toss the salad to combine and season with salt and black pepper to taste.",
+    "To serve, place a portion of the salad on a plate and top with sliced octopus.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "octopus",
+    "mediterranean",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-refreshing-mediterranean-octopus-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:10:29.882Z"
+}
