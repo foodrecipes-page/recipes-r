@@ -1,0 +1,95 @@
+{
+  "slug": "rich-mexican-pecan-stir-fry",
+  "title": "Pecan Crusted Fish Tacos",
+  "description": "A twist on traditional fish tacos, with a crunchy pecan crust and a zesty Mexican slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together pecans, cumin, chili powder, salt, and pepper.",
+    "Dip each cod fillet into the pecan mixture, coating both sides evenly.",
+    "Heat a large skillet over medium-high heat. Add a small amount of oil and cook the cod for 2-3 minutes on each side.",
+    "Transfer the cod to a baking sheet and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, mix together lime juice, cumin, and chili powder in a small bowl.",
+    "In a large bowl, combine cabbage, red onion, and cilantro. Drizzle with the lime juice mixture and toss to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a cod fillet onto a tortilla, followed by a spoonful of the slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-tacos",
+    "mexican-cuisine",
+    "pecan-crusted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-pecan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:58:27.571Z"
+}
