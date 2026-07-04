@@ -1,0 +1,81 @@
+{
+  "slug": "rustic-brazilian-rye-ceviche",
+  "title": "Brazilian Rye Ceviche",
+  "description": "A refreshing Brazilian-inspired ceviche dish made with raw rye fish, rustic tomatoes, and spices. Enjoy as a light and zesty snack or appetizer.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye fish (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rustic tomatoes (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the rye fish into small pieces and place in a shallow dish.",
+    "Chop the rustic tomatoes, red onion, and fresh cilantro.",
+    "Add the chopped vegetables to the dish with the fish.",
+    "Squeeze the lime juice over the top of the fish and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the fish to 'cook' in the lime juice.",
+    "Just before serving, stir the ceviche gently to distribute the flavors.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired.",
+    "Note: Raw rye fish can be a risk for foodborne illness if not handled properly. Ensure that all utensils, cutting boards, and plates are thoroughly cleaned and sanitized before preparing and serving the ceviche."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "ceviche",
+    "fish",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-brazilian-rye-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:26:53.978Z"
+}
