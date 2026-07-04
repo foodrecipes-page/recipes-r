@@ -1,0 +1,64 @@
+{
+  "slug": "rich-and-light-peruvian-avocado-salad",
+  "title": "Peruvian Avocado Salad",
+  "description": "A refreshing and light salad inspired by Peruvian cuisine, featuring rich flavors from avocado and a variety of greens.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe avocados, diced"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped mixed greens, diced avocado, sliced red onion, halved cherry tomatoes, and diced red pepper.",
+    "In a small bowl, whisk together a squeeze of lime juice and a drizzle of olive oil to make a dressing.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle chopped cilantro over the top of the salad and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "salad",
+    "avocado",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-light-peruvian-avocado-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:49:00.908Z"
+}
