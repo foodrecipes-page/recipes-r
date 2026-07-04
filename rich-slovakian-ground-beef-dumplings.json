@@ -1,0 +1,85 @@
+{
+  "slug": "rich-slovakian-ground-beef-dumplings",
+  "title": "Traditional Slovakian Beef Goulash",
+  "description": "A hearty, comforting Slovakian dish made with rich beef broth and tender dumplings. Perfect for a chilly evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 teaspoons",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1.5 liters",
+      "notes": "rich and beefy"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the paprika, caraway seeds, and flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth to the pot, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the dumplings to the pot and cook for an additional 10-15 minutes, or until they are cooked through.",
+    "Season the goulash with salt and pepper to taste.",
+    "Serve the goulash hot, garnished with chopped fresh parsley or dill if desired.",
+    "Enjoy with a side of crusty bread or a green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "goulash",
+    "dinner",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-slovakian-ground-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:52:08.182Z"
+}
