@@ -1,0 +1,87 @@
+{
+  "slug": "rich-savory-british-banana-biryani",
+  "title": "Traditional British Bangers and Mash",
+  "description": "A hearty British dish featuring pork sausages and mashed potatoes. A comforting meal that's perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausages",
+      "amount": "4",
+      "notes": "British-style sausages"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": "large"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gravy granules",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook the potatoes until tender, about 15-20 minutes.",
+    "2. While the potatoes cook, heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "3. Add the sausages to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "4. Remove the sausages from the skillet and set aside.",
+    "5. Add the remaining 1 tablespoon of butter to the skillet and add the sliced onion.",
+    "6. Cook the onion until softened, about 3-4 minutes.",
+    "7. Add the minced garlic to the skillet and cook for 1 minute.",
+    "8. Add the flour to the skillet and cook for 1 minute.",
+    "9. Gradually add the milk to the skillet, whisking continuously.",
+    "10. Bring the mixture to a simmer and cook until thickened, about 2-3 minutes.",
+    "11. Add the cooked sausages back to the skillet and stir to coat with the gravy.",
+    "12. Drain the cooked potatoes and mash with butter and milk.",
+    "13. Serve the sausages with the mashed potatoes and spoon some of the onion gravy over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "traditional",
+    "comfort-food",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-british-banana-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:32:08.929Z"
+}
