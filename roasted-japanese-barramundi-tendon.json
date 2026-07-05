@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-japanese-barramundi-tendon",
+  "title": "Pan-Seared Barramundi with Japanese Tendon Sauce",
+  "description": "A flavorful and healthy dish featuring pan-seared barramundi served with a rich Japanese tendon sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Japanese tendon sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Roasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Season the barramundi fillets with salt and pepper.",
+    "3. Add 1 tablespoon of sesame oil to the skillet and sear the barramundi for 3-4 minutes on each side, or until cooked through.",
+    "4. Remove the barramundi from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of sesame oil.",
+    "6. Add the grated ginger, minced garlic, and sliced green onions to the skillet and sauté for 1 minute, or until fragrant.",
+    "7. Add the Japanese tendon sauce to the skillet and stir to combine.",
+    "8. Return the barramundi to the skillet and spoon the tendon sauce over the top.",
+    "9. Garnish with roasted sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "pan-seared",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-japanese-barramundi-tendon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:52:03.653Z"
+}
