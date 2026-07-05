@@ -1,0 +1,83 @@
+{
+  "slug": "rich-decadent-tunisian-chickpeas-pilaf",
+  "title": "Tunisian Chickpea Pilaf",
+  "description": "A flavorful and nutritious pilaf dish from Tunisia, made with chickpeas and aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the chickpeas and cook for 2 minutes.",
+    "Add the pilaf and stir to combine.",
+    "Reduce heat to low and cover. Simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "pilaf",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-decadent-tunisian-chickpeas-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:40:10.346Z"
+}
