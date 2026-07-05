@@ -1,0 +1,92 @@
+{
+  "slug": "richly-seasoned-mexican-fish-huaraches",
+  "title": "Baja-Style Fish Tacos",
+  "description": "A flavorful and spicy fish dish inspired by the flavors of Baja California, served in a crispy taco shell with a side of creamy slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Basa or Cod)",
+      "amount": "4",
+      "notes": "Skin removed, cut into small pieces"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Huaraches (Corn Tortillas)",
+      "amount": "8-10",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together lime juice, cilantro, Mexican seasoning, cumin, chili powder, garlic powder, salt, and black pepper.",
+    "2. Add the fish pieces to the marinade and coat evenly. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the fish from the marinade, letting any excess liquid drip off.",
+    "4. Grill the fish for 3-4 minutes per side, or until cooked through.",
+    "5. Warm the huaraches by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by placing a piece of fish on each huarache, followed by your desired toppings (e.g. diced onions, shredded lettuce, diced tomatoes, salsa, avocado).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "tacos",
+    "baja-style"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-seasoned-mexican-fish-huaraches",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:41.586Z"
+}
