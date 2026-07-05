@@ -1,0 +1,73 @@
+{
+  "slug": "rich-roasted-saudi-arabian-snow-peas-bowl",
+  "title": "Saudi Arabian Snow Pea Pilaf",
+  "description": "A flavorful and aromatic pilaf dish originating from Saudi Arabia, made with snow peas, rich sautéed onions, and roasted rice.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aromatic rice",
+      "amount": "1 cup",
+      "notes": "preferably roasted"
+    },
+    {
+      "name": "snow peas",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "rich and caramelized"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Sauté the onion until rich and caramelized, about 8 minutes.",
+    "Add the snow peas and cook until tender, about 3 minutes.",
+    "Add the roasted rice and stir well.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "saudi-arabian",
+    "vegetarian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-saudi-arabian-snow-peas-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:59:35.057Z"
+}
