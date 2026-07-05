@@ -1245,18 +1245,16 @@
   },
   {
     "slug": "raw-umami-crunch",
-    "title": "Raw Umami Crunch",
+    "title": "Crunchy Umami Bites",
     "tags": [
-      "raw",
+      "snack",
       "umami",
       "crunchy",
-      "croatian"
+      "easy",
+      "bite-sized"
     ],
-    "cuisine": [
-      "Croatian",
-      "Raw Food"
-    ],
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -6865,16 +6863,14 @@
   },
   {
     "slug": "rich-mediterranean-collards-stir-fry",
-    "title": "Rich Mediterranean Collards Stir-fry",
+    "title": "Mediterranean Stir-Fry",
     "tags": [
       "mediterranean",
-      "stir-fry",
-      "veggie-dominant",
-      "collards",
-      "gluten-free"
+      "vegetarian",
+      "low-carb"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -11401,16 +11397,16 @@
   },
   {
     "slug": "rich-yeasty-brazilian-fettuccine-pasta",
-    "title": "Rich Yeasty Brazilian Fettuccine Pasta",
+    "title": "Brazilian Fettuccine Alfredo",
     "tags": [
       "brazilian",
-      "comfort-food",
-      "one-pot",
+      "italian",
       "pasta",
-      "yeasty"
+      "cream",
+      "cheese"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "r"
   },
   {
@@ -16021,18 +16017,14 @@
   },
   {
     "slug": "roasted-spicy-canadian-borlotti-beans-stew",
-    "title": "Roasted Spicy Canadian Borlotti Beans Stew",
+    "title": "Hearty Canadian Borlotti Stew",
     "tags": [
-      "canadian",
       "comfort-food",
-      "high-protein",
-      "one-pan",
       "stew",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 45,
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
