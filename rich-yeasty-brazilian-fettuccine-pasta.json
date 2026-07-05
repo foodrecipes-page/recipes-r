@@ -1,0 +1,73 @@
+{
+  "slug": "rich-yeasty-brazilian-fettuccine-pasta",
+  "title": "Brazilian Fettuccine Alfredo",
+  "description": "A creamy Brazilian-inspired twist on the Italian classic, with rich fettuccine pasta and a hint of yeasty flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "1 pound"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "rich butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook fettuccine pasta according to package instructions.",
+    "Meanwhile, melt yeast in a small saucepan over low heat.",
+    "Add butter to the saucepan and stir until melted.",
+    "Add Brazilian cheese to the saucepan and stir until melted and smooth.",
+    "Add cream to the saucepan and stir until heated through.",
+    "Add garlic to the saucepan and stir for 1 minute.",
+    "Drain fettuccine pasta and return to pot.",
+    "Add cheese sauce to fettuccine pasta and toss until coated.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "italian",
+    "pasta",
+    "cream",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-yeasty-brazilian-fettuccine-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:30:01.914Z"
+}
