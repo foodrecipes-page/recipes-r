@@ -1,0 +1,66 @@
+{
+  "slug": "rich-flaky-brazilian-parmesan-stir-fry",
+  "title": "Brazilian Cheesy Flaky Bites",
+  "description": "A crispy and cheesy snack with a hint of Brazilian flavor.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rich Flaky Dough",
+      "amount": "1 cup",
+      "notes": "Thawed and ready to use"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Brazilian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flaky dough into small squares.",
+    "In a bowl, mix the parmesan cheese, brazilian seasoning, and salt.",
+    "Place a spoonful of the cheese mixture onto each dough square.",
+    "Brush the edges of the dough with beaten egg.",
+    "Fold the dough in half to form a triangle and press the edges to seal.",
+    "Place the bites on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-brazilian-parmesan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:25:52.065Z"
+}
