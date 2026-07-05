@@ -1,0 +1,87 @@
+{
+  "slug": "raw-umami-crunch",
+  "title": "Crunchy Umami Bites",
+  "description": "A tasty and easy-to-make snack that combines crunchy textures with savory umami flavors.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Raw Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Fried Garlic",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Fried Ginger",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the Panko breadcrumbs, Miso paste, Soy sauce, and Sesame oil.",
+    "Add the crispy Fried Shallots, Crunchy Fried Garlic, and Crunchy Fried Ginger to the bowl. Mix well.",
+    "Stir in the chopped Raw Scallions.",
+    "Spoon small amounts of the mixture onto a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes or until crispy and golden brown.",
+    "Season with Salt to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "umami",
+    "crunchy",
+    "easy",
+    "bite-sized"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-umami-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:55:35.825Z"
+}
