@@ -1,0 +1,65 @@
+{
+  "slug": "roasted-springy-croatian-colby-jack-tagine",
+  "title": "Colby and Jack Cheese Tagine",
+  "description": "A twist on traditional tagine recipes, using Colby and Jack cheese for a creamy and flavorful dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "springy pasta",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Colby cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Jack cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1, sliced",
+      "notes": null
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package directions.",
+    "In a large skillet, add Croatian paprika and sauté for 1 minute.",
+    "Add roasted red pepper slices and cook for an additional 3 minutes.",
+    "Stir in Colby and Jack cheese until melted and well combined.",
+    "Combine cooked pasta and cheese mixture.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-springy-croatian-colby-jack-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:48:23.254Z"
+}
