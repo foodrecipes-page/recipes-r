@@ -1,0 +1,67 @@
+{
+  "slug": "roasted-indian-fish-fillet-curry",
+  "title": "Roasted Fish Fillet with Indian Curry",
+  "description": "A flavorful and aromatic dish combining the delicate taste of roasted fish fillet with the rich flavors of Indian curry.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet (600g)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Curry Paste (60g)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillet with salt.",
+    "Heat olive oil in an oven-safe pan over medium heat.",
+    "Add the roasted curry paste and cook for 1 minute.",
+    "Place the fish fillet in the pan and cook for 2-3 minutes on each side.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "indian",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-indian-fish-fillet-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:24:13.191Z"
+}
