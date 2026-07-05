@@ -1,0 +1,77 @@
+{
+  "slug": "robust-dense-chinese-vegetables-yangzhou-fried-rice",
+  "title": "Yangzhou Fried Rice",
+  "description": "A classic Chinese dish made with rice, vegetables, and a hint of yangzhou flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yangzhou rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetables (e.g. peas, carrots, green onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Robust soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Dense sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp sesame oil in a wok or large skillet over medium-high heat.",
+    "Add vegetables and cook until they begin to soften, about 3-4 minutes.",
+    "Push vegetables to one side of the wok. Crack in 2 eggs and scramble them.",
+    "Mix eggs with vegetables.",
+    "Add cooked Yangzhou rice to the wok, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with vegetables and eggs for 2-3 minutes.",
+    "Add robust soy sauce and fried shallots. Stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fried-rice",
+    "yangzhou"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-dense-chinese-vegetables-yangzhou-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:38:09.630Z"
+}
