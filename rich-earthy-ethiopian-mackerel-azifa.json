@@ -1,0 +1,88 @@
+{
+  "slug": "rich-earthy-ethiopian-mackerel-azifa",
+  "title": "Ethiopian Azifa Stew",
+  "description": "A traditional Ethiopian stew made with azifa and mackerel, rich in flavor and earthy goodness. This recipe is perfect for a cozy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Azifa",
+      "amount": "1 cup",
+      "notes": "dried lentils"
+    },
+    {
+      "name": "Mackerel",
+      "amount": "2 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tsp",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add mackerel and cook until browned on both sides, about 3-4 minutes.",
+    "Add azifa, berbere spice, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-earthy-ethiopian-mackerel-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:05:09.029Z"
+}
