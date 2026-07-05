@@ -1,0 +1,64 @@
+{
+  "slug": "rich-mediterranean-collards-stir-fry",
+  "title": "Mediterranean Stir-Fry",
+  "description": "A quick and flavorful stir-fry with a Mediterranean twist, perfect for a weeknight dinner. The rich flavors of the Mediterranean come together with the crunch of collards for a delicious and healthy meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rich Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add collard greens and cook for 3-4 minutes, until slightly wilted.",
+    "Sprinkle with Mediterranean seasoning and season with salt and pepper.",
+    "Serve hot, garnished with additional seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-collards-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:40:43.579Z"
+}
