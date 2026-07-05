@@ -1,0 +1,105 @@
+{
+  "slug": "rich-rested-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A hearty and aromatic Moroccan stew made with lamb, rich flavors, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds lamb shoulder",
+      "amount": "cut into 2-inch pieces",
+      "notes": "boneless"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground turmeric",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14 oz) diced tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups lamb or chicken broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until browned, about 8 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add diced tomatoes, broth, and honey. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-rested-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:59:35.822Z"
+}
