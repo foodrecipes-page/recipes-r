@@ -1,0 +1,69 @@
+{
+  "slug": "roasted-ukrainian-cashews-pastry",
+  "title": "Roasted Ukrainian Cashew Pastry",
+  "description": "A traditional Ukrainian pastry filled with a delicious mixture of roasted cashews, perfect as a snack or dessert.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry dough",
+      "amount": "1 package (thawed)",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Roasted in a 350°F oven for 10 minutes"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the roasted cashews, granulated sugar, and a pinch of salt.",
+    "Place the mixture in the center of the pastry dough, leaving a 1-inch border around it.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with the remaining egg wash.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Let the pastry cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pastry",
+    "cashew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ukrainian-cashews-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:18:48.937Z"
+}
