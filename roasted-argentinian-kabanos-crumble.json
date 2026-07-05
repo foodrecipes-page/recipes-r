@@ -1,0 +1,71 @@
+{
+  "slug": "roasted-argentinian-kabanos-crumble",
+  "title": "Roasted Kabanos Crumble",
+  "description": "A savory crumble dish featuring the flavors of kabanos sausage, topped with a crunchy roasted vegetable crust. Perfect for a hearty snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Roasted onions",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Roasted bell peppers",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Crumble mixture",
+      "amount": "1 cup, store-bought or homemade"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced kabanos sausage and diced roasted onions and bell peppers.",
+    "Transfer the sausage mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together crumble mixture, shredded cheddar cheese, and chopped parsley.",
+    "Spread the crumble mixture evenly over the sausage mixture.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the sausage is heated through.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kabanos",
+    "crumble",
+    "argentinian",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-argentinian-kabanos-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:39:25.433Z"
+}
