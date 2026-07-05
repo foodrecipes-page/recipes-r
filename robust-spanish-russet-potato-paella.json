@@ -1,0 +1,83 @@
+{
+  "slug": "robust-spanish-russet-potato-paella",
+  "title": "Spanish Paella with Potato and Robust Chicken",
+  "description": "A hearty Spanish-inspired paella dish loaded with chicken, potatoes, and smoky saffron flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spanish onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Russet potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the Spanish onion to the pan and cook until softened, about 3-4 minutes.",
+    "Add the sliced potatoes to the pan and cook for an additional 5 minutes.",
+    "Add the paella rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, saffron, smoked paprika, and cooked chicken to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the paella from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spanish-russet-potato-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:09:02.894Z"
+}
