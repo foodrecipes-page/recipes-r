@@ -1,0 +1,97 @@
+{
+  "slug": "rich-nutty-crumbly-indian-pork-shoulder-jjigae-style-vada",
+  "title": "Pork Shoulder Jjigae",
+  "description": "A spicy, flavorful Korean-inspired pork shoulder stew.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "crumbly indian flatbread",
+      "amount": "100g",
+      "notes": "crushed"
+    },
+    {
+      "name": "pork jjigae style sauce",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rich sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the crushed flatbread and cook for 2 minutes.",
+    "Add the pork shoulder and cook until browned.",
+    "Add the pork jjigae style sauce, gochujang, soy sauce, and brown sugar.",
+    "Bring to a boil, then reduce heat and simmer for 1.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "stew",
+    "pork",
+    "shoulder",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-nutty-crumbly-indian-pork-shoulder-jjigae-style-vada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:07:41.291Z"
+}
