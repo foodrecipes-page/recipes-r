@@ -1,0 +1,88 @@
+{
+  "slug": "rest-slovakian-semolina-rimacinata-pierogi",
+  "title": "Slovakian Pierogi with Rimaninata Filling",
+  "description": "Slovakian pierogi filled with a delicious rimacinata filling, perfect for a hearty dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup",
+      "notes": "For the pierogi dough"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the pierogi dough"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "For the pierogi dough"
+    },
+    {
+      "name": "Rimaninata",
+      "amount": "1 cup",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped, for the filling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for the filling"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "For the pierogi dough"
+    }
+  ],
+  "instructions": [
+    "Combine semolina, flour, and eggs in a large mixing bowl to make the pierogi dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin sheet.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of rimacinata filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Serve the pierogi hot with your favorite toppings, such as sour cream or fried onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "slovakian",
+    "rimacinata",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rest-slovakian-semolina-rimacinata-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:02:30.699Z"
+}
