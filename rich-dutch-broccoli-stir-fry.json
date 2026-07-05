@@ -1,0 +1,65 @@
+{
+  "slug": "rich-dutch-broccoli-stir-fry",
+  "title": "Stir Fry with Broccoli and Dutch Sausage",
+  "description": "A simple and flavorful stir fry recipe using Dutch sausage and broccoli.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the Dutch sausage and cook until browned, about 5 minutes.",
+    "Add the broccoli and stir-fry until tender, about 3-4 minutes.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "stir-fry",
+    "breakfast-for-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dutch-broccoli-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:05:24.185Z"
+}
