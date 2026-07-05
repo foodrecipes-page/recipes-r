@@ -1,0 +1,82 @@
+{
+  "slug": "robata-grilled-dutch-jalapeno-bowl",
+  "title": "Spicy Dutch Jalapeno Robata Bowl",
+  "description": "A spicy and savory bowl dish made with grilled meats and vegetables, served in a Dutch bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch oven",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Robata",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "4",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork belly and robata onto bamboo skewers.",
+    "Brush with sesame oil and season with salt and pepper.",
+    "Grill for 4-5 minutes per side, or until cooked through.",
+    "In a separate grill pan, cook sliced jalapeno peppers for 2-3 minutes per side, or until charred.",
+    "In a Dutch oven, combine cooked skewers, grilled jalapeno peppers, and chopped green onions.",
+    "Drizzle with soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "japanese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robata-grilled-dutch-jalapeno-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:25:02.342Z"
+}
