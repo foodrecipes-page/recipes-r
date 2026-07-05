@@ -1,0 +1,65 @@
+{
+  "slug": "rich-silky-poached-halal-friendly-german-cabbage-stir-fry",
+  "title": "Cabbage Stir Fry",
+  "description": "A quick and easy stir fry made with friendly cabbage and a hint of german spices. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the cabbage and cook for 5 minutes, until slightly tender.",
+    "Add the german mustard and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stir-fry",
+    "cabbage",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-poached-halal-friendly-german-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:34:27.317Z"
+}
