@@ -1,0 +1,90 @@
+{
+  "slug": "roasted-british-lamb-roast",
+  "title": "Classic British Lamb Roast",
+  "description": "A traditional British-style lamb roast recipe, perfect for a special occasion. This recipe serves 4-6 people and is a hearty, flavorful dish.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Roast (2-3 pounds)",
+      "amount": "2 1/4 to 2 3/4 pounds",
+      "notes": "ask your butcher for a bone-in leg of lamb"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-6 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 large",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Rinse the lamb roast and pat it dry with paper towels.",
+    "Season the lamb with salt, black pepper, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to a large roasting pan and add the rosemary sprigs.",
+    "Roast the lamb in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145°F (63°C).",
+    "While the lamb is roasting, toss the carrots and potatoes with a little bit of oil and season with salt and pepper.",
+    "After the lamb has been roasting for 30 minutes, add the carrots and potatoes to the roasting pan.",
+    "Continue roasting for another 30-40 minutes, or until the vegetables are tender and the lamb reaches the desired level of doneness.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve the lamb with the roasted carrots and potatoes, and garnish with fresh rosemary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "british",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "10g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-british-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:37:43.308Z"
+}
