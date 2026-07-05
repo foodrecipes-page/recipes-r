@@ -1,0 +1,98 @@
+{
+  "slug": "rich-indulgent-springy-greek-porcini-avgolemono",
+  "title": "Creamy Porcini Risotto with Avgolemono Sauce",
+  "description": "A rich and indulgent Greek-inspired risotto dish featuring springy porcini mushrooms and a tangy avgolemono sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Porcini Mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Arborio Rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Avgolemono Sauce",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a large saucepan over medium heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until absorbed, stirring constantly.",
+    "Add 1 cup of hot broth and cook until absorbed, stirring constantly. Repeat for 20-25 minutes or until the rice is cooked.",
+    "Stir in the Greek yogurt and cook until heated through.",
+    "Add the porcini mushrooms and cook until heated through.",
+    "Season with salt, black pepper, and parsley.",
+    "Serve with avgolemono sauce on top.",
+    "To make the avgolemono sauce, whisk together the Greek yogurt, lemon juice, and egg.",
+    "Cook the egg mixture over low heat, whisking constantly, until the mixture thickens.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "risotto",
+    "porcini",
+    "avgolemono"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indulgent-springy-greek-porcini-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:27:14.896Z"
+}
