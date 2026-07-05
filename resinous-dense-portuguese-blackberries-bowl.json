@@ -1,0 +1,79 @@
+{
+  "slug": "resinous-dense-portuguese-blackberries-bowl",
+  "title": "Blackberry Portuguese Custard Tarts",
+  "description": "A classic Portuguese dessert featuring a rich custard filling and a flaky crust, topped with sweet blackberries.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blackberries",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "port wine",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch and cut into 12 equal squares.",
+    "Transfer the squares to a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "In a medium saucepan, combine the sugar, eggs, and port wine (if using).",
+    "Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl.",
+    "Stir in the melted butter and confectioners' sugar.",
+    "Arrange the baked tart shells on a serving plate.",
+    "Spoon the custard mixture into the tart shells.",
+    "Top with blackberries and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "blackberry",
+    "custard",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-dense-portuguese-blackberries-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:47:09.773Z"
+}
