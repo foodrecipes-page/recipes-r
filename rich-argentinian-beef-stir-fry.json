@@ -1,0 +1,89 @@
+{
+  "slug": "rich-argentinian-beef-stir-fry",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A quick and flavorful stir fry dish featuring tender beef and rich argentinian inspiration.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 pound)",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "Rich Argentinian chimichurri sauce (1 cup)",
+      "amount": "1 cup",
+      "notes": "see notes for homemade chimichurri recipe"
+    },
+    {
+      "name": "stir-fry oil (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "grapeseed or peanut oil work well"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper (1 medium)",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato (1 medium)",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": "to taste",
+      "notes": "adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion, bell pepper, and garlic to skillet and cook until tender, about 4-5 minutes.",
+    "Add tomato and cook for an additional 1-2 minutes.",
+    "Return beef to skillet and stir in chimichurri sauce.",
+    "Cook for an additional 1-2 minutes, until beef is coated in sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stirfry",
+    "latinamerican"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-argentinian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:29:28.339Z"
+}
