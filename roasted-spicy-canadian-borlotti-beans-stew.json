@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-spicy-canadian-borlotti-beans-stew",
+  "title": "Hearty Canadian Borlotti Stew",
+  "description": "A comforting and flavorful stew made with borlotti beans, perfect for a cozy evening. This recipe combines the rich flavors of roasted vegetables with a hint of spice.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and celery"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spicy tomato paste",
+      "amount": "2 tbsp",
+      "notes": "such as chipotle"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 tsp",
+      "notes": "such as thyme and rosemary"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add roasted vegetables and cook for 5 minutes.",
+    "Add borlotti beans, spicy tomato paste, and stew seasoning. Stir to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "If using Canadian bacon, add it to the pot and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Optional: serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-spicy-canadian-borlotti-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:36:09.262Z"
+}
