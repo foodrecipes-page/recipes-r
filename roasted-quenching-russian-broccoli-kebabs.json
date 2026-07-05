@@ -1,0 +1,71 @@
+{
+  "slug": "roasted-quenching-russian-broccoli-kebabs",
+  "title": "Roasted Russian Broccoli Kebabs",
+  "description": "A delicious and healthy side dish or snack, featuring roasted Russian broccoli and kebabs.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rusian Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Kebabs (such as beef or chicken)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Quenching Sauce (such as Tzatziki)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the Russian broccoli and trim the ends.",
+    "In a large bowl, toss the broccoli with olive oil, salt, pepper, and red pepper flakes.",
+    "Spread the broccoli on a baking sheet and roast for 15-20 minutes, or until tender.",
+    "Meanwhile, grill or cook the kebabs according to package instructions.",
+    "Serve the roasted broccoli with grilled kebabs and a side of quenching sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "kebabs",
+    "broccoli",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-quenching-russian-broccoli-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:11:30.917Z"
+}
