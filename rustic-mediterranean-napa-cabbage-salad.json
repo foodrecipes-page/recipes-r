@@ -1,0 +1,71 @@
+{
+  "slug": "rustic-mediterranean-napa-cabbage-salad",
+  "title": "Rustic Cabbage Salad",
+  "description": "A hearty and flavorful salad featuring rustic bread, crunchy cabbage, and a hint of Mediterranean flair.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rustic bread, cubed",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Napa cabbage, shredded",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean salad",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red cabbage, shredded",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Toss the rustic bread cubes with olive oil and a pinch of salt. Spread on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "In a large bowl, combine the toasted bread, shredded napa cabbage, and mediterranean salad.",
+    "In a small bowl, whisk together lemon juice and a pinch of salt.",
+    "Pour the dressing over the bread mixture and toss to combine.",
+    "Top with shredded red cabbage and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-mediterranean-napa-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:51:43.664Z"
+}
