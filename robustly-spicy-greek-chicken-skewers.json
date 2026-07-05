@@ -1,0 +1,85 @@
+{
+  "slug": "robustly-spicy-greek-chicken-skewers",
+  "title": "Spicy Greek Chicken Skewers",
+  "description": "Tender chicken skewers marinated in a blend of Greek herbs and spices, grilled to perfection. Perfect for a quick and flavorful summer dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a blender or food processor, combine lemon juice, yogurt, oregano, parsley, and chili flakes. Blend until smooth.",
+    "In a large bowl, whisk together marinade and chicken pieces. Cover and refrigerate for at least 30 minutes.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "chicken",
+    "skewers",
+    "summer",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spicy-greek-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:00:13.069Z"
+}
