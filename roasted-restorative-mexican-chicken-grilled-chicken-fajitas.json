@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-restorative-mexican-chicken-grilled-chicken-fajitas",
+  "title": "Mexican Chicken Fajitas",
+  "description": "Savor the flavors of Mexico with this spicy and flavorful dish. Marinated chicken cooked with bell peppers and onions, served with warm flour tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and bell peppers to the skillet and cook until tender, about 5 minutes.",
+    "Add the fajita seasoning to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and seasoning.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the chicken and vegetable mixture onto a tortilla and topping with sour cream and shredded cheese, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-restorative-mexican-chicken-grilled-chicken-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:12:42.035Z"
+}
