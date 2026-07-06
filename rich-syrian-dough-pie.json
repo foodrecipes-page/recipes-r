@@ -1,0 +1,98 @@
+{
+  "slug": "rich-syrian-dough-pie",
+  "title": "Syrian Meat Pie",
+  "description": "A hearty, flavorful pie filled with rich meat and spices. Perfect for a satisfying dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pork",
+    "beef",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pie crust"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the dough by combining flour and water in a bowl. Mix until a ball forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "In a pan, heat olive oil over medium heat. Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add ground beef and cook until browned, breaking up with a spoon.",
+    "Season with salt, black pepper, paprika, and nutmeg.",
+    "Transfer the meat mixture to the center of the dough.",
+    "Fold the dough over the filling, pressing edges to seal.",
+    "Brush the top of the pie with olive oil.",
+    "Bake for 30 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "meat",
+    "pie",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-syrian-dough-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:18:20.778Z"
+}
