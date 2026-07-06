@@ -1,0 +1,84 @@
+{
+  "slug": "rainbow-trout-salad",
+  "title": "Pan-Seared Trout with Rainbow Salad",
+  "description": "A simple and delicious trout dish served with a colorful rainbow salad.",
+  "cuisine": "Fish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "2 pieces",
+      "notes": "About 6 ounces each"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Orange",
+      "amount": "1",
+      "notes": "segmented"
+    },
+    {
+      "name": "Radish",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with salt and pepper.",
+    "Heat a skillet over medium-high heat. Add 1 tablespoon of avocado oil.",
+    "Sear the trout fillets for 2-3 minutes on each side, then transfer them to a baking sheet.",
+    "Bake the trout in the oven for 8-10 minutes or until cooked through.",
+    "In a separate bowl, combine the mixed greens, carrots, red bell pepper, orange segments, and radish.",
+    "In a small bowl, whisk together the remaining 1 tablespoon of avocado oil and lemon juice.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve the trout with the rainbow salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "salad",
+    "healthy",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rainbow-trout-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:34:11.934Z"
+}
