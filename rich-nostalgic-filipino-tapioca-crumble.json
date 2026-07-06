@@ -1,0 +1,83 @@
+{
+  "slug": "rich-nostalgic-filipino-tapioca-crumble",
+  "title": "Tapioca Crumble Bars",
+  "description": "A rich dessert bar with a nostalgic twist, combining the classic flavors of the Philippines with a crunchy crumble topping.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare the crumble topping by combining the brown sugar, cold butter, and flour in a bowl. Mix until crumbly.",
+    "In a separate bowl, whisk together the tapioca pearls, sugar, eggs, and vanilla extract.",
+    "Press the tapioca mixture into a 9x9-inch baking dish.",
+    "Top with the crumble topping.",
+    "Bake for 40-45 minutes or until the topping is golden brown.",
+    "Let cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "crumble",
+    "tapioca",
+    "filipino",
+    "dessert",
+    "bars"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-nostalgic-filipino-tapioca-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:40:42.244Z"
+}
