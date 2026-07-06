@@ -1,0 +1,77 @@
+{
+  "slug": "roasted-gooey-australian-pecorino-bake",
+  "title": "Australian Pecorino Bake",
+  "description": "A delicious Australian-inspired dish made with gooey pecorino cheese and roasted ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Baked egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes into 1-inch pieces.",
+    "In a large bowl, toss the sweet potatoes with olive oil, salt, and pepper until they're evenly coated.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the sweet potatoes are roasting, mix the crumbled pecorino cheese with minced roasted garlic.",
+    "Once the sweet potatoes are done, let them cool slightly.",
+    "In a large skillet, crack in the egg and scramble it until cooked through.",
+    "Add the scrambled egg to the skillet with the roasted sweet potatoes and toss to combine.",
+    "Transfer the sweet potato and egg mixture to a baking dish and top with the pecorino cheese mixture.",
+    "Bake in the preheated oven for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with fresh rosemary and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "lunch",
+    "cheese",
+    "sweet potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-gooey-australian-pecorino-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:45:43.335Z"
+}
