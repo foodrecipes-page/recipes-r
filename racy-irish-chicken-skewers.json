@@ -1,0 +1,64 @@
+{
+  "slug": "racy-irish-chicken-skewers",
+  "title": "Irish Chicken Skewers",
+  "description": "A delicious and easy-to-make recipe that combines the flavors of Ireland with the convenience of chicken skewers. Perfect for a quick weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "racy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "irish seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": "such as McCormick's Irish Seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, racy sauce, and irish seasoning blend onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through and reaches an internal temperature of 165°F.",
+    "Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/racy-irish-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:37:03.756Z"
+}
