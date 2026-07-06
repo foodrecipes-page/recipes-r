@@ -1,0 +1,96 @@
+{
+  "slug": "robust-kenyan-rice-vermicelli-noodles",
+  "title": "African Noodle Stir Fry",
+  "description": "A spicy and flavorful stir fry inspired by Kenyan cuisine, featuring the bold flavors of African vermicelli noodles.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": "preferably African-style"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "white or brown"
+    },
+    {
+      "name": "Robust",
+      "amount": "2 tablespoons",
+      "notes": "chili pepper paste"
+    },
+    {
+      "name": "Kenyan",
+      "amount": "1 teaspoon",
+      "notes": "curry powder"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "or other oil of choice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "any color, chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add carrots and bell peppers and cook for an additional 4-5 minutes.",
+    "Add robust and Kenyan and stir to combine.",
+    "Add noodles and stir to coat with the spice mixture.",
+    "Cook for 2-3 minutes, until noodles are well combined with the spices.",
+    "Add rice and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the mixture is heated through.",
+    "Season with soy sauce if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stir-fry",
+    "noodles",
+    "rice",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-kenyan-rice-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:23:58.847Z"
+}
