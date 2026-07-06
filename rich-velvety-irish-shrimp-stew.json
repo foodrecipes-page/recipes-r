@@ -1,0 +1,87 @@
+{
+  "slug": "rich-velvety-irish-shrimp-stew",
+  "title": "Irish Shrimp Stew",
+  "description": "A hearty and comforting stew filled with succulent shrimp, tender potatoes, and rich flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "Seafood",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish Stew Seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large saucepan over medium heat.",
+    "Add diced onion and sauté until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add Irish Stew Seasoning and stir to combine.",
+    "Add diced potatoes and cook for 5 minutes.",
+    "Add shrimp and cook until pink and cooked through.",
+    "Add flour to thicken the stew, stir to combine.",
+    "Gradually add milk, whisking continuously.",
+    "Bring the stew to a simmer and cook for 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "seafood",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-irish-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:41:39.318Z"
+}
