@@ -1,0 +1,91 @@
+{
+  "slug": "rich-gooey-algerian-tortillas-quesadilla",
+  "title": "Algerian Beef Quesadillas",
+  "description": "A twist on traditional quesadillas, featuring rich, gooey Algerian beef filling wrapped in crispy tortillas.",
+  "cuisine": "North African",
+  "diet": [
+    "beef",
+    "lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian beef filling",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Rich, gooey cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the ground cumin and smoked paprika, and cook for 1 minute.",
+    "Add the Algerian beef filling and cook until heated through.",
+    "In a separate pan or griddle, warm the tortillas over medium heat.",
+    "Assemble the quesadillas by spooning the beef filling onto half of each tortilla, and topping with shredded cheese.",
+    "Fold the tortillas in half and cook for 2-3 minutes on each side, until the cheese is melted and the tortillas are crispy.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "beef",
+    "quesadillas",
+    "tortillas",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-gooey-algerian-tortillas-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:53:10.967Z"
+}
