@@ -1,0 +1,96 @@
+{
+  "slug": "rich-silky-american-mushrooms-casserole",
+  "title": "American Mushroom Casserole",
+  "description": "A rich, comforting casserole filled with sautéed mushrooms and topped with a silky, cheesy crust.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "American",
+      "amount": "1 cup",
+      "notes": "shredded cheddar cheese"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 (9x13-inch) dish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the mushrooms, onion, and garlic in olive oil until the mushrooms release their liquid and start to brown.",
+    "Sprinkle the flour over the mushrooms and cook for 1-2 minutes.",
+    "Gradually pour in the milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens.",
+    "Stir in the shredded cheddar cheese until melted.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mushroom mixture to the prepared casserole dish.",
+    "Top with additional shredded cheese if desired.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "mushrooms",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-american-mushrooms-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:50:01.526Z"
+}
