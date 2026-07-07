@@ -1,0 +1,78 @@
+{
+  "slug": "robust-resinous-middle-eastern-rest-meat-tabbouleh",
+  "title": "Middle Eastern Tabbouleh",
+  "description": "A refreshing salad originating from the Middle East, typically served as a side dish or light meal. This version features robust flavors from the parsley and bulgur.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "cracked wheat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 cups",
+      "notes": "curly-leaf"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "4 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a light hand"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 30 minutes.",
+    "Drain and chop the bulgur into smaller pieces.",
+    "Combine the parsley, mint, bulgur, lemon juice, olive oil, salt, and black pepper in a large bowl.",
+    "Toss the salad gently to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Serve the tabbouleh chilled, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "gluten-free",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-resinous-middle-eastern-rest-meat-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:51:40.922Z"
+}
