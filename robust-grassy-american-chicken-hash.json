@@ -1,0 +1,85 @@
+{
+  "slug": "robust-grassy-american-chicken-hash",
+  "title": "Grilled Chicken Hash",
+  "description": "A hearty breakfast dish featuring grilled chicken and a crispy hash of potatoes, onions, and herbs.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt, pepper, and thyme.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Meanwhile, peel and dice the potatoes and onion.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the potatoes and onion to the skillet and cook for 5-7 minutes, or until they are golden brown.",
+    "Stir in the chopped parsley.",
+    "Serve the grilled chicken with the hash alongside.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "hash",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-grassy-american-chicken-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:12:52.892Z"
+}
