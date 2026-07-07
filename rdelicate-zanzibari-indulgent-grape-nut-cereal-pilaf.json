@@ -1,0 +1,78 @@
+{
+  "slug": "rdelicate-zanzibari-indulgent-grape-nut-cereal-pilaf",
+  "title": "Delicate Crusted Pilaf Cake",
+  "description": "A unique dessert featuring a delicate crust made from pilaf and indulgent filling made with grape and nut.",
+  "cuisine": "International",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grape",
+      "amount": "1 cup",
+      "notes": "seedless"
+    },
+    {
+      "name": "Nut",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cereal",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Indulgent",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "rdelicate",
+      "amount": "1 tsp",
+      "notes": "flavor extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Combine pilaf, grape, nut, and zanzibari in a bowl.",
+    "Mix cereal and indulgent in a separate bowl.",
+    "Add rdelicate extract to the cereal mixture and mix well.",
+    "Pour the cereal mixture over the pilaf mixture and mix until well combined.",
+    "Transfer the mixture to a greased cake pan.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "cake",
+    "pilaf",
+    "grape",
+    "nut"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rdelicate-zanzibari-indulgent-grape-nut-cereal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:02:59.179Z"
+}
