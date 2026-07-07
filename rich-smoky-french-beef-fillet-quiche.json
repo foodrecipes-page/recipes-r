@@ -1,0 +1,87 @@
+{
+  "slug": "rich-smoky-french-beef-fillet-quiche",
+  "title": "Smoked Beef Fillet Quiche",
+  "description": "A savory and rich quiche filled with smoked beef and perfect for a dinner or brunch option.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked beef fillet",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Rich quiche crust",
+      "amount": "1 sheet",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups",
+      "notes": "Half-and-half or whole milk works too"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": "Cheddar or Swiss work well"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the quiche crust and place it in a 9-inch tart pan.",
+    "In a skillet, sauté the onion and garlic until softened.",
+    "Add the sliced smoked beef to the skillet and cook until heated through.",
+    "In a separate bowl, whisk together the heavy cream, eggs, grated cheese, salt, and pepper.",
+    "Pour the cream mixture over the cooked beef mixture and stir to combine.",
+    "Pour the mixture into the quiche crust.",
+    "Bake for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Let the quiche cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "quiche",
+    "french",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-french-beef-fillet-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:18:38.023Z"
+}
