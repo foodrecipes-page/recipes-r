@@ -1,0 +1,82 @@
+{
+  "slug": "rich-syrian-nectarine-tart",
+  "title": "Tart Nectarine Crisp",
+  "description": "A sweet and satisfying dessert featuring nectarine, perfect for warm days. Serve warm with a scoop of vanilla ice cream.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4"
+    },
+    {
+      "name": "Rich Tart Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Oat Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart pastry and place it in a 9-inch round baking dish.",
+    "In a large bowl, combine the nectarines, granulated sugar, flour, and cinnamon. Let it sit for 10 minutes, until the nectarines start to release their juice.",
+    "Transfer the nectarine mixture to the tart pastry-lined baking dish and spread it out evenly.",
+    "In a small bowl, mix together the oat flour, brown sugar, and cold butter until crumbly. Sprinkle this mixture evenly over the nectarine filling.",
+    "Bake for 40-45 minutes, until the pastry is golden brown and the filling is bubbly.",
+    "Remove from the oven and let it cool for 10-15 minutes before serving. Serve warm with a scoop of vanilla ice cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "nectarine",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4.5,
+    "carbs": 47,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-syrian-nectarine-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:13:08.861Z"
+}
