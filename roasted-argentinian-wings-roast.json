@@ -1,0 +1,84 @@
+{
+  "slug": "roasted-argentinian-wings-roast",
+  "title": "Argentinian Roast Chicken with Roasted Wings",
+  "description": "A classic Argentinian dish featuring roasted chicken and wings seasoned with herbs and spices. This recipe is perfect for a family dinner or special occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1 (3-4 lbs)",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian chorizo",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "roasted wings",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, pepper, and chopped parsley.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken on both sides until browned, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 30-40 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, grill or roast the wings according to your preference.",
+    "Once the chicken is cooked, let it rest for 10 minutes before slicing.",
+    "Serve the sliced chicken with the roasted wings and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "roast-chicken",
+    "roasted-wings"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "42g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-argentinian-wings-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:51:40.384Z"
+}
