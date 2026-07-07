@@ -1,0 +1,75 @@
+{
+  "slug": "roasted-velvety-turkish-eggs-menemen",
+  "title": "Turkish Eggs Menemen",
+  "description": "A traditional Turkish dish made with eggs, onions, and spices, often served as a snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Turkish Spices (Sumac, Paprika, Salt, Black Pepper)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "a few sprigs",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "Add the chopped onion to the pan and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced roasted red peppers to the pan and cook for 2-3 minutes.",
+    "Pour the whisked eggs over the vegetables in the pan and cook until the eggs start to set.",
+    "Sprinkle the Turkish spices over the eggs and cook for another minute.",
+    "Use a spatula to gently fold the eggs over the filling, so that the uncooked egg flows to the top.",
+    "Continue cooking for another 2-3 minutes, until the eggs are cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "breakfast",
+    "eggs",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-velvety-turkish-eggs-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:35:34.498Z"
+}
