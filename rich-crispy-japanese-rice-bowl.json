@@ -1,0 +1,92 @@
+{
+  "slug": "rich-crispy-japanese-rice-bowl",
+  "title": "Crispy Chicken Katsu Bowl",
+  "description": "A Japanese-inspired dish featuring crispy fried chicken served atop a bed of steaming hot rice, perfect for a quick and satisfying meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for crispy coating"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "tonkatsu sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the breading station by mixing panko breadcrumbs and a pinch of salt in a shallow dish.",
+    "2. In a separate dish, beat the egg for the egg wash.",
+    "3. Season the chicken breasts with salt and pepper.",
+    "4. Dip each chicken breast in the flour, shaking off excess, then in the egg wash, and finally in the panko breadcrumb mixture, pressing gently to adhere.",
+    "5. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "6. Fry the breaded chicken breasts until golden brown and crispy, about 3-4 minutes per side.",
+    "7. Transfer the fried chicken to a paper towel-lined plate to drain excess oil.",
+    "8. Cook the rice according to package instructions.",
+    "9. Assemble the bowls by placing a scoop of cooked rice on the bottom, followed by a piece of fried chicken, a drizzle of tonkatsu sauce, and garnishes of shredded cabbage and pickled ginger.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "japanese",
+    "rice",
+    "bowl",
+    "crispy",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-japanese-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:52:10.629Z"
+}
