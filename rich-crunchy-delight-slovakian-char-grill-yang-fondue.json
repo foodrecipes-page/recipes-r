@@ -1,0 +1,65 @@
+{
+  "slug": "rich-crunchy-delight-slovakian-char-grill-yang-fondue",
+  "title": "Grilled Slovakian Pork Chops with Yang's Delight",
+  "description": "A savory and flavorful Slovakian-inspired dish featuring grilled pork chops and a rich yang's delight fondue sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "Slovakian Delight",
+      "amount": "2 tablespoons",
+      "notes": "dry rub"
+    },
+    {
+      "name": "Yang's Delight Fondue",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rich Fondue Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Char's Grill Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season pork chops with Slovakian Delight and Char's Grill Seasoning.",
+    "Grill pork chops for 4-5 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Meanwhile, heat Yang's Delight Fondue and Rich Fondue Sauce in a saucepan over low heat.",
+    "Serve grilled pork chops with the fondue sauce for dipping.",
+    "Optional: garnish with fresh herbs like parsley or thyme."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "grilled-pork",
+    "fondue"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-delight-slovakian-char-grill-yang-fondue",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:19:29.129Z"
+}
