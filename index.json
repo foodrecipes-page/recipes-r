@@ -4487,10 +4487,17 @@
   },
   {
     "slug": "rich-crispy-japanese-rice-bowl",
-    "title": "Rich Crispy Japanese Rice Bowl",
-    "tags": [],
+    "title": "Crispy Chicken Katsu Bowl",
+    "tags": [
+      "chicken",
+      "japanese",
+      "rice",
+      "bowl",
+      "crispy",
+      "fried"
+    ],
     "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -17454,17 +17461,15 @@
   },
   {
     "slug": "robust-resinous-middle-eastern-rest-meat-tabbouleh",
-    "title": "Robust Resinous Middle Eastern Rest Meat Tabbouleh",
+    "title": "Middle Eastern Tabbouleh",
     "tags": [
-      "festive",
+      "middle eastern",
+      "vegetarian",
       "gluten-free",
-      "middle-eastern",
-      "one-pan",
-      "special-occasion",
-      "sugar-free"
+      "salad"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
