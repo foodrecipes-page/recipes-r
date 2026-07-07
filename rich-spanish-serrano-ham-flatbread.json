@@ -1,0 +1,68 @@
+{
+  "slug": "rich-spanish-serrano-ham-flatbread",
+  "title": "Spanish Flatbread Pizza",
+  "description": "A simple and delicious flatbread topped with ham and serrano ham, inspired by Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Serrano Ham",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "4 oz",
+      "notes": null
+    },
+    {
+      "name": "Rich Red Pepper Jam",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread slices on a baking sheet.",
+    "Drizzle the olive oil over the flatbread.",
+    "Top each flatbread slice with 1 oz of serrano ham and 1 oz of ham.",
+    "Spread 1 tbsp of red pepper jam over the ham.",
+    "Bake for 10-12 minutes, or until the flatbread is crispy.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "flatbread",
+    "pizza",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-serrano-ham-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:00:45.801Z"
+}
