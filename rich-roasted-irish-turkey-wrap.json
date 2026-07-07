@@ -1,0 +1,77 @@
+{
+  "slug": "rich-roasted-irish-turkey-wrap",
+  "title": "Rich Turkey Wrap",
+  "description": "A flavorful and satisfying wrap filled with roasted turkey, rich cheese, and crispy vegetables.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Turkey Breast",
+      "amount": "4 oz",
+      "notes": null
+    },
+    {
+      "name": "Rich Cheddar Cheese",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cucumber Slices",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "irish wrap or similar"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato Slices",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crispy Bacon Bits",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the roasted turkey breast into thin strips.",
+    "Lay the wrap flat and spread the cheddar cheese slices evenly.",
+    "Add the sliced turkey breast on top of the cheese.",
+    "Add the lettuce leaves, tomato slices, and crispy bacon bits on top of the turkey.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkey",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-irish-turkey-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:26:43.235Z"
+}
