@@ -1,0 +1,80 @@
+{
+  "slug": "rich-roasted-creamy-australian-chive-dip-bake",
+  "title": "Roasted Australian Chive Dip",
+  "description": "A delicious roasted Australian eggplant dip with a rich and creamy texture, topped with fresh chives.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian eggplant",
+      "amount": "1 medium",
+      "notes": "roasted"
+    },
+    {
+      "name": "chive",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "rich"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Australian eggplant in half lengthwise and place on a baking sheet.",
+    "Drizzle with olive oil and season with salt.",
+    "Roast in the oven for 30-40 minutes, or until tender.",
+    "Let cool and scoop out the flesh.",
+    "In a blender or food processor, combine the roasted eggplant, chive, Greek yogurt, garlic, and lemon juice.",
+    "Blend until smooth and creamy.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dip",
+    "snack",
+    "eggplant",
+    "chive"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-creamy-australian-chive-dip-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:11:34.798Z"
+}
