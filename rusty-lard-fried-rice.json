@@ -1,0 +1,56 @@
+{
+  "slug": "rusty-lard-fried-rice",
+  "title": "Rusty Fried Rice",
+  "description": "A simple and flavorful fried rice dish made with rustic ingredients.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rusty Rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fried Lard",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    1,
+    "Heat the fried lard in a large skillet over medium-high heat.",
+    2,
+    "Add the rusty rice to the skillet and stir-fry for 5 minutes.",
+    3,
+    "Push the rice to one side of the skillet and crack an egg into the other side.",
+    4,
+    "Scramble the egg and then mix it with the rice.",
+    5,
+    "Season with salt and pepper to taste.",
+    6,
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "rustic",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rusty-lard-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T14:20:31.298Z"
+}
