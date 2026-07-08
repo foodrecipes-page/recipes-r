@@ -1,0 +1,83 @@
+{
+  "slug": "rich-buttery-russian-rice-pilaf",
+  "title": "Creamy Russian Pilaf",
+  "description": "A rich and buttery twist on traditional pilaf, inspired by Russian cuisine. This dish is perfect for a comforting dinner.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Russian sausage",
+      "amount": "1 package",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Russian sausage and cook until browned, about 5 minutes.",
+    "Add the uncooked white rice and stir to combine.",
+    "Cook for 1-2 minutes, until the rice is lightly toasted.",
+    "Add the chicken broth, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff the pilaf with a fork and stir in the remaining 2 tablespoons of butter.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pilaf",
+    "comfort-food",
+    "meat-and-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-russian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:59:46.438Z"
+}
