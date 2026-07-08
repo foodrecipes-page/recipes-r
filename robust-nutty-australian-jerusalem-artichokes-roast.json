@@ -1,0 +1,84 @@
+{
+  "slug": "robust-nutty-australian-jerusalem-artichokes-roast",
+  "title": "Roasted Australian Artichokes with Robust Rub",
+  "description": "A hearty and savory side dish featuring roasted Australian artichokes seasoned with a robust rub.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Australian artichokes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "jerusalem artichokes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the artichokes under cold water, and pat them dry.",
+    "In a small bowl, mix the robust rub ingredients.",
+    "Rub the artichokes with olive oil, then sprinkle the rub evenly over them.",
+    "Place the artichokes on a baking sheet, and roast for 30-40 minutes.",
+    "Flip the artichokes halfway through the cooking time.",
+    "Check for tenderness by inserting a fork. If it's still firm, roast for an additional 10-15 minutes.",
+    "Remove from the oven, and let it rest for 5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-artichokes",
+    "roasted-artichokes",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-nutty-australian-jerusalem-artichokes-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:12:27.080Z"
+}
