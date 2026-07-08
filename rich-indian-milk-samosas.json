@@ -1,0 +1,85 @@
+{
+  "slug": "rich-indian-milk-samosas",
+  "title": "Spiced Samosas with Rich Chutney",
+  "description": "Crispy samosas filled with spiced potatoes and peas, served with a creamy rich chutney. Perfect for a snack or appetizer.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Samosa pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Rich chutney",
+      "amount": "1 cup store-bought"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle.",
+    "Add onion, ginger, chili powder, and coriander powder. Cook until onion is translucent.",
+    "Add potatoes and peas. Cook until potatoes are tender.",
+    "Let the filling cool.",
+    "Assemble the samosas by filling the pastry with the potato mixture.",
+    "Heat ghee or oil in a pan over medium heat.",
+    "Fry the samosas until crispy and golden brown.",
+    "Serve with rich chutney.",
+    "Enjoy your spiced samosas!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "samosa",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indian-milk-samosas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:53:40.624Z"
+}
