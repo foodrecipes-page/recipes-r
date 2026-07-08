@@ -1,0 +1,81 @@
+{
+  "slug": "robustly-spiced-saudi-arabian-vegetable-pilaf",
+  "title": "Saudi Arabian Vegetable Pilaf",
+  "description": "A flavorful and aromatic Middle Eastern-inspired rice dish, packed with nutritious vegetables. Perfect for a light lunch or dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian Pilaf Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Spiced Robustly Blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add carrots, zucchini, and tomato. Cook for an additional 3 minutes.",
+    "Stir in the Spiced Robustly Blend, salt, and black pepper. Cook for 1 minute.",
+    "Add the pilaf rice to the saucepan, stirring to coat with the vegetable mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "pilaf",
+    "arabic",
+    "saudi arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spiced-saudi-arabian-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:54:07.296Z"
+}
