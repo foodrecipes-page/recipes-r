@@ -1,0 +1,83 @@
+{
+  "slug": "richly-garlicky-french-khus-khus-madeleine",
+  "title": "Khus Madeleine Cake",
+  "description": "A rich and garlicky French dessert cake made with khus syrup.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "khus syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic-infused butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "madeleine cake pan",
+      "amount": "",
+      "notes": "greased"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a madeleine cake pan.",
+    "Whisk together flour, sugar, and salt.",
+    "Beat eggs and khus syrup until combined.",
+    "Gradually add flour mixture to egg mixture.",
+    "Add garlic-infused butter and mix until just combined.",
+    "Pour batter into greased madeleine cake pan.",
+    "Bake for 18-20 minutes, or until golden brown.",
+    "Allow to cool in pan for 5 minutes.",
+    "Transfer to wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "khus",
+    "madeleine",
+    "french",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-garlicky-french-khus-khus-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:36:09.239Z"
+}
