@@ -1,0 +1,76 @@
+{
+  "slug": "robata-style-turkish-dill-pickles-grill",
+  "title": "Turkish Dill Sausage Wraps with Pickled Grilled Onions",
+  "description": "A flavorful and easy-to-make Turkish-inspired dish featuring dill-infused robata sausage, pickled onions, and crispy grill bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Robata Sausage",
+      "amount": "4",
+      "notes": "dill-infused"
+    },
+    {
+      "name": "Turkish Bread",
+      "amount": "4",
+      "notes": "crusty"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Grill the sausage for 5-7 minutes per side, until browned and cooked through.",
+    "3. Meanwhile, grill the onions for 3-4 minutes per side, until caramelized and slightly charred.",
+    "4. Brush the bread with water and grill for 1-2 minutes per side, until crispy.",
+    "5. Slice the sausage and assemble the wraps with the grilled onions, pickles, and dill.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "grill",
+    "sausage",
+    "dill",
+    "pickles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robata-style-turkish-dill-pickles-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:49:39.951Z"
+}
