@@ -1,0 +1,81 @@
+{
+  "slug": "refreshing-light-portuguese-chicken-curry",
+  "title": "Light Chicken Curry",
+  "description": "A refreshing and flavorful Portuguese-inspired chicken curry, made with tender chicken and a hint of spice. Perfect for a light and satisfying meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the chopped onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "5. Stir in the curry powder and cook for 1 minute.",
+    "6. Pour in the coconut milk and bring the mixture to a simmer.",
+    "7. Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "8. Season with salt to taste.",
+    "9. Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "portuguese",
+    "light",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-light-portuguese-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:42:04.240Z"
+}
