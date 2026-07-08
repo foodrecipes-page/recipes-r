@@ -1,0 +1,99 @@
+{
+  "slug": "romantic-gooey-greek-lamb-braise",
+  "title": "Lamb Braise with a Romantic Greek Twist",
+  "description": "A classic lamb braise with a gooey twist and a hint of Greek flavor. Perfect for a cozy evening with loved ones.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and bring the liquid to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Stir in the honey and cook for an additional 10 minutes.",
+    "Serve the lamb hot, topped with crumbled feta cheese and fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "braise",
+    "greek",
+    "romantic",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-gooey-greek-lamb-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:28:36.140Z"
+}
