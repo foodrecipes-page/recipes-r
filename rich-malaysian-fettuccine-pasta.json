@@ -1,0 +1,83 @@
+{
+  "slug": "rich-malaysian-fettuccine-pasta",
+  "title": "Rich Fettuccine Pasta",
+  "description": "A creamy fettuccine pasta dish inspired by Malaysian flavors.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "rich coconut cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "30g"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "20g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the fettuccine pasta according to package instructions.",
+    "In a separate pan, toast the peanuts over medium heat for 2 minutes.",
+    "In a blender or food processor, combine the coconut cream, toasted peanuts, soy sauce, fish sauce, lime juice, garlic, and sugar. Blend until smooth.",
+    "In a large saucepan, combine the blended coconut mixture and grated coconut. Whisk over medium heat until the sauce thickens.",
+    "Add the cooked fettuccine pasta to the saucepan and toss until well coated.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "pasta",
+    "rich-coconut-cream"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malaysian-fettuccine-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:22.407Z"
+}
