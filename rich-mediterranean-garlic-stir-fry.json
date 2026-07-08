@@ -1,0 +1,62 @@
+{
+  "slug": "rich-mediterranean-garlic-stir-fry",
+  "title": "Mediterranean Stir Fry",
+  "description": "A delicious and quick stir fry recipe combining the flavors of the Mediterranean with the simplicity of a stir fry.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rich stir sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, zucchini, and tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil over medium-high heat in a large skillet.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add the Mediterranean vegetables and stir-fry for 3-4 minutes.",
+    "Add the olives and stir-fry for another minute.",
+    "Pour in the rich stir sauce and stir well.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:15:01.245Z"
+}
