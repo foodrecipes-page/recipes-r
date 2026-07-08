@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-smoky-indian-chicken-biryani",
+  "title": "Smoky Indian Chicken Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish that combines the richness of smoky spices with the tender taste of chicken.",
+  "cuisine": "Indian",
+  "diet": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Smoky garam masala",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Roasted cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the rice in a fine mesh strainer and soak it in 3 cups of water for 30 minutes.",
+    "2. Drain the water and set the rice aside.",
+    "3. In a large bowl, combine the chicken, garam masala, cumin powder, salt, and black pepper. Mix well to coat the chicken evenly.",
+    "4. Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "5. Add the chicken to the skillet and cook until browned on all sides and cooked through, about 6-8 minutes.",
+    "6. In a large saucepan, heat 2 tablespoons of oil over medium heat.",
+    "7. Add the soaked rice to the saucepan and stir to coat the rice with oil.",
+    "8. Add 3 cups of water to the saucepan and bring to a boil.",
+    "9. Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and fluffy.",
+    "10. Add the cooked chicken to the saucepan with the rice and mix well.",
+    "11. Reduce the heat to low and simmer for 2-3 minutes or until the chicken is heated through.",
+    "12. Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "biriyani",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-smoky-indian-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:29:21.091Z"
+}
