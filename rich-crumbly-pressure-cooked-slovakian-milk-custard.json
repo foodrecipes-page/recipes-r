@@ -1,0 +1,81 @@
+{
+  "slug": "rich-crumbly-pressure-cooked-slovakian-milk-custard",
+  "title": "Slovakian Custard Cake",
+  "description": "A traditional Slovakian dessert, this custard cake is rich, crumbly, and utterly delicious.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rich custard",
+      "amount": "400g",
+      "notes": "see below for custard recipe"
+    },
+    {
+      "name": "Slovakian pastry",
+      "amount": "1 package",
+      "notes": "found in most European bakeries"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml",
+      "notes": "whole milk for best results"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "200g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "room temperature for best results"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": "for pastry crust"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "100g",
+      "notes": "for pastry crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Make the custard by whisking together the milk, sugar, eggs, and vanilla extract in a medium saucepan.",
+    "Cook the custard over medium heat, stirring constantly, until it thickens.",
+    "Strain the custard into a clean bowl and let cool.",
+    "Roll out the Slovakian pastry and place in a 23cm springform pan.",
+    "Spread the cooled custard over the pastry, leaving a 2cm border around the edges.",
+    "Fold the edges of the pastry up over the custard to form a crust.",
+    "Brush the pastry with melted butter and sprinkle with granulated sugar.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "custard",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crumbly-pressure-cooked-slovakian-milk-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:03:25.334Z"
+}
