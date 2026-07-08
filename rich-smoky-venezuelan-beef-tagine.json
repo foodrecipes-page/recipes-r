@@ -1,0 +1,88 @@
+{
+  "slug": "rich-smoky-venezuelan-beef-tagine",
+  "title": "Venezuelan Beef Tagine",
+  "description": "A hearty beef tagine with rich and smoky flavors inspired by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef brisket or shank, cut into 2-inch pieces"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons olive oil"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 onion, chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup beef broth"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon tomato paste"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 teaspoon cayenne pepper"
+    },
+    {
+      "name": "tagine",
+      "amount": "salt and pepper, to taste"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 potatoes, peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, about 5 minutes per batch. Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the beef broth, tomato paste, garlic, cumin, smoked paprika, and cayenne pepper to the pot. Stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the tagine for 2 1/2 hours, or until the beef is tender.",
+    "Add the potatoes to the pot and continue to braise for another 30 minutes, or until the potatoes are tender.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    " venezuelan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-venezuelan-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:08:34.415Z"
+}
