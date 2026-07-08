@@ -1,0 +1,77 @@
+{
+  "slug": "roasted-velvet-italian-hazelnut-tart",
+  "title": "Hazelnut and Velvet Tart",
+  "description": "A rich and creamy tart with a hazelnut crust and a velvety filling.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 1/2 cups",
+      "notes": "ground"
+    },
+    {
+      "name": "Velvet",
+      "amount": "1 cup",
+      "notes": "unsweetened almond milk"
+    },
+    {
+      "name": "Italian Flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Tart Crust Fat",
+      "amount": "1/2 cup",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Make the crust by mixing the hazelnuts, Italian flour, and Tart Crust Fat in a bowl.",
+    "Press the crust mixture into a tart pan and refrigerate for 30 minutes.",
+    "Make the filling by mixing the Velvet, Granulated Sugar, Maple Syrup, and Vanilla Extract in a bowl.",
+    "Pour the filling into the crust and bake for 35-40 minutes.",
+    "Allow the tart to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "hazelnut",
+    "velvet",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "16g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-velvet-italian-hazelnut-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:31:48.704Z"
+}
