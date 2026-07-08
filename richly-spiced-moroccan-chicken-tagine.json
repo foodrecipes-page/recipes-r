@@ -1,0 +1,115 @@
+{
+  "slug": "richly-spiced-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A traditional Moroccan stew made with chicken, spices, and dried fruits, slow-cooked in a clay pot. The perfect blend of flavors and aromas.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the onion, garlic, and ginger; cook, stirring occasionally, until the onion is softened, about 8 minutes.",
+    "Add the chicken; cook, stirring occasionally, until browned on all sides, about 10 minutes.",
+    "Add the cinnamon, cumin, coriander, paprika, salt, and pepper; cook, stirring constantly, for 1 minute.",
+    "Add the apricots, broth, and honey; bring to a boil.",
+    "Cover the pot and transfer to the oven; cook for 25 minutes.",
+    "Remove the pot from the oven and stir in the chopped fresh herbs.",
+    "Serve the tagine hot, garnished with chopped fresh herbs and pita bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine",
+    "dinner",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:28:20.123Z"
+}
