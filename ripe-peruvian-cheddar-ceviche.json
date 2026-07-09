@@ -1,0 +1,94 @@
+{
+  "slug": "ripe-peruvian-cheddar-ceviche",
+  "title": "Peruvian Ceviche with Cheddar Crostini",
+  "description": "A refreshing Peruvian ceviche served with crispy cheddar crostini for a delightful snack or light meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ripe corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ceviche",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 baguette",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the crusty bread into 1/2-inch slices.",
+    "Toast the bread slices until crispy.",
+    "Spread shredded cheddar cheese on toasted bread slices.",
+    "In a medium bowl, combine diced Peruvian, corn, ceviche, red onion, and chopped cilantro.",
+    "Squeeze lime juice over the mixture and season with salt and black pepper.",
+    "Mix well and refrigerate for at least 30 minutes.",
+    "Serve ceviche mixture on top of crispy cheddar crostini.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "cvieche",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ripe-peruvian-cheddar-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:40:18.977Z"
+}
