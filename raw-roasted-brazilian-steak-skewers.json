@@ -1,0 +1,77 @@
+{
+  "slug": "raw-roasted-brazilian-steak-skewers",
+  "title": "Brazilian Steak Skewers",
+  "description": "A delicious and easy-to-make dish featuring marinated steak and vegetables grilled to perfection on skewers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw Steak",
+      "amount": "1.5 pounds",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Raw Onion",
+      "amount": "1 medium",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Raw Bell Pepper",
+      "amount": "2 medium",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Raw Zucchini",
+      "amount": "2 medium",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Brazilian Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available in most grocery stores or online"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Brazilian seasoning and olive oil.",
+    "Add sliced steak, onion, bell pepper, and zucchini to the bowl. Toss to coat with marinade.",
+    "Thread steak and vegetables onto skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until steak reaches an internal temperature of 135°F for medium-rare.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "beef",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-roasted-brazilian-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:07:12.025Z"
+}
