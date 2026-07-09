@@ -1,0 +1,82 @@
+{
+  "slug": "rich-flaky-portuguese-fish-skewers",
+  "title": "Grilled Portuguese Fish Skewers",
+  "description": "A delicious and flavorful dish featuring fresh fish marinated in a zesty Portuguese-inspired mixture. Perfect for a quick and satisfying meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, chili flakes, salt, and black pepper.",
+    "Add the cod cubes to the marinade and toss to coat.",
+    "Thread the marinated cod onto the skewers, leaving a little space between each piece.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the fish is cooked through and flakes easily with a fork.",
+    "Transfer the skewers to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-portuguese-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:23:31.930Z"
+}
