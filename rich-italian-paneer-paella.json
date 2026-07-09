@@ -1,0 +1,77 @@
+{
+  "slug": "rich-italian-paneer-paella",
+  "title": "Rich Italian-Style Paneer Paella",
+  "description": "A creamy, rich, and savory Italian twist on the classic Spanish paella dish, featuring paneer instead of seafood.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "1 block"
+    },
+    {
+      "name": "Italian Arborio Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium heat.",
+    "Add garlic and Italian seasoning, and sauté for 1 minute.",
+    "Add Arborio rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add crushed tomatoes, and stir to combine.",
+    "Bring the mixture to a simmer, and cook for 5 minutes.",
+    "Add paneer, and stir to combine.",
+    "Reduce heat to low, and cook for an additional 5 minutes.",
+    "Stir in mascarpone cheese until melted and creamy.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh basil, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paella",
+    "paneer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-paneer-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:50:38.130Z"
+}
