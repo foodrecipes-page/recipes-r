@@ -1,0 +1,70 @@
+{
+  "slug": "robust-yeasty-indian-potatoes-vada-pav",
+  "title": "Vada Pav Recipe",
+  "description": "A popular Indian street food dish consisting of a deep-fried vada served in a bread bun with spices.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vada",
+      "amount": "2",
+      "notes": "Indian-style fried lentil doughnuts"
+    },
+    {
+      "name": "Pav",
+      "amount": "2",
+      "notes": "Indian bread buns"
+    },
+    {
+      "name": "Robust Indian Chutney",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": "For frying the vadas"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 large",
+      "notes": "For serving"
+    },
+    {
+      "name": "Spices",
+      "amount": "",
+      "notes": "Cumin, coriander, turmeric for serving"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes and let them cool. Slice them into thin rounds.",
+    "Heat the oil in a deep frying pan for frying the vadas.",
+    "Prepare the vadas according to the packet instructions.",
+    "Deep fry the vadas until they turn golden brown.",
+    "Slice the pav in half and toast it lightly.",
+    "Assemble the vada pav by placing the fried vada in the pav and topping with the boiled potatoes, robust chutney and spices.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "street-food",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-yeasty-indian-potatoes-vada-pav",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:42.144Z"
+}
