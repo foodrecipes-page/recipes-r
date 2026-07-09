@@ -1,0 +1,57 @@
+{
+  "slug": "radiant-saudi-deodeok-soup",
+  "title": "Saudian Deodeok Stew",
+  "description": "A hearty stew originating from the Saudi region, featuring the unique flavor of deodeok. This dish is perfect for a cold day.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "2 cups chopped",
+      "notes": "Make sure to peel and chop the deodeok before use"
+    },
+    {
+      "name": "Radiant",
+      "amount": "1 cup chopped",
+      "notes": "Radiant can be used as a garnish or mixed with the deodeok for extra flavor"
+    },
+    {
+      "name": "Soup",
+      "amount": "2 cups",
+      "notes": "Use a clear broth as the base for the stew"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat",
+    "Add the chopped deodeok and sauté until tender",
+    "Add the chopped radiant and stir well",
+    "Pour in the clear broth and bring to a boil",
+    "Reduce heat and let simmer for 20 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot, garnished with additional radiant if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "saudi",
+    "deodeok",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-saudi-deodeok-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:42:31.099Z"
+}
