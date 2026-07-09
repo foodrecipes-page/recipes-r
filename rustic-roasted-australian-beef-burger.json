@@ -1,0 +1,88 @@
+{
+  "slug": "rustic-roasted-australian-beef-burger",
+  "title": "Australian Beef Burger",
+  "description": "A classic beef burger with a rustic twist, featuring roasted australian beef and topped with your favorite condiments.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rustic Burger Buns",
+      "amount": "4",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Roasted Australian Beef Patties",
+      "amount": "4",
+      "notes": "seasoned with salt, pepper, and your choice of herbs"
+    },
+    {
+      "name": "Australian Beef",
+      "amount": "1 kg",
+      "notes": "minced and mixed with egg and breadcrumbs"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "8 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 cup",
+      "notes": "or your favorite condiment"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Form the Australian beef into 4 patties and season with salt and pepper.",
+    "3. Add the patties to the grill and cook for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Meanwhile, toast the rustic burger buns on the grill or in a toaster.",
+    "5. Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese (if using), a lettuce leaf, a tomato slice, an onion slice, and a few slices of pickle.",
+    "6. Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "burger",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-roasted-australian-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:32.189Z"
+}
