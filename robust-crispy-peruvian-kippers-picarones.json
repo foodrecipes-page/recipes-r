@@ -1,0 +1,90 @@
+{
+  "slug": "robust-crispy-peruvian-kippers-picarones",
+  "title": "Pan-Seared Kippers with Picarones",
+  "description": "A Peruvian-inspired breakfast dish featuring crispy kippers and sweet picarones. The robust flavors of the kippers are paired with the crunchy picarones for a delightful breakfast treat.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "2",
+      "notes": "smoked herring"
+    },
+    {
+      "name": "Picarones",
+      "amount": "4",
+      "notes": "Peruvian doughnuts"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "for picarones"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for picarones"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": "for picarones"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten for picarones"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "for picarones"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "for picarones"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a bowl, whisk together flour, sugar, baking powder, and cinnamon.",
+    "3. Add the eggs, milk, and melted butter to the dry ingredients. Mix well.",
+    "4. Using a spoon, drop small balls of the dough into hot oil.",
+    "5. Fry the picarones until golden brown, about 2-3 minutes per side.",
+    "6. Drain the picarones on paper towels.",
+    "7. Meanwhile, heat a skillet over medium-high heat.",
+    "8. Add the kippers, skin side up, and sear for 2-3 minutes.",
+    "9. Flip the kippers and cook for an additional 2-3 minutes.",
+    "10. Serve the kippers with picarones and a sprinkle of granulated sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "peruvian",
+    "kippers",
+    "picarones"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-crispy-peruvian-kippers-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:57:50.047Z"
+}
