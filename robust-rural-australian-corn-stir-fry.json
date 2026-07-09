@@ -1,0 +1,81 @@
+{
+  "slug": "robust-rural-australian-corn-stir-fry",
+  "title": "Aussie Bush Camp Stir Fry",
+  "description": "A hearty and flavorful stir fry made with fresh ingredients inspired by the Australian bush. Perfect for a quick and easy meal on a camping trip.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rural corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Robust bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Australian onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the onions and bell peppers and cook until they start to soften.",
+    "Add the corn and cook for another 2-3 minutes.",
+    "Add the soy sauce, garlic powder, salt, and black pepper, and stir to combine.",
+    "Cook for a further 1-2 minutes, until the ingredients are well coated in the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "camping",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-rural-australian-corn-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:45:09.431Z"
+}
