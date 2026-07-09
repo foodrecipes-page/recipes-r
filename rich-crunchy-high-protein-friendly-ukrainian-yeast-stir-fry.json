@@ -1,0 +1,79 @@
+{
+  "slug": "rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry",
+  "title": "Crispy Ukrainian Pancakes (Syrnyky)",
+  "description": "A traditional Ukrainian dish made with a yeast dough, often served with sour cream, fruit, or powdered sugar.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 packet (2 1/4 teaspoons)"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "friendly oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water.",
+    "2. Add sugar and let it sit for 5-10 minutes, until foamy.",
+    "3. Add flour, salt, egg, and milk to the bowl. Mix until a smooth dough forms.",
+    "4. Knead the dough for 10 minutes, until elastic.",
+    "5. Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "6. Preheat a non-stick skillet or frying pan over medium heat.",
+    "7. Divide the dough into small pieces and roll them into balls.",
+    "8. Flatten each ball into a pancake shape.",
+    "9. Place the pancakes in the preheated skillet and fry for 2-3 minutes on each side, until golden brown.",
+    "10. Serve the syrniki warm with sour cream, fruit, or powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "breakfast",
+    "pancakes",
+    "syrnyky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:02:44.061Z"
+}
