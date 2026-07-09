@@ -1,0 +1,78 @@
+{
+  "slug": "romantic-chinese-noodles-zha-jiang-mian",
+  "title": "Stir-Fried Mian Noodles",
+  "description": "A classic Chinese dish made with stir-fried mian noodles, romantic vegetables, and a blend of savory zha and jiang sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mian Noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetables (Romantic)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zha Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jiang Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a wok over medium-high heat.",
+    "Add the romantic vegetables and stir-fry for 2-3 minutes.",
+    "Add the mian noodles and stir-fry for another 2-3 minutes.",
+    "In a small bowl, mix together the zha sauce, jiang sauce, soy sauce, sugar, salt, and black pepper.",
+    "Pour the sauce mixture over the noodles and vegetables, and stir-fry for an additional 1-2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "noodles",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "6g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:09:44.757Z"
+}
