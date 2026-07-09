@@ -1,0 +1,77 @@
+{
+  "slug": "red-hot-resinous-vietnamese-rice-mi-quang",
+  "title": "Vietnamese Chicken and Rice Bowl",
+  "description": "A flavorful and aromatic Vietnamese-inspired dish featuring chicken, rice, and bold spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese hot sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Quang chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Resinous rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the chicken breast and cook until browned, about 5-6 minutes per side.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "5. Add the sliced red onion and cook until softened, about 3-4 minutes.",
+    "6. Add the Vietnamese hot sauce and stir to combine.",
+    "7. Add the cooked chicken back into the skillet and stir to coat with the sauce.",
+    "8. Fluff the cooked resinous rice with a fork and serve alongside the chicken.",
+    "9. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "rice",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-hot-resinous-vietnamese-rice-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:02:02.844Z"
+}
