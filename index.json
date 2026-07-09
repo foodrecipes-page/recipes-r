@@ -3663,18 +3663,14 @@
   },
   {
     "slug": "rich-canadian-blueberry-pie",
-    "title": "Rich Canadian Blueberry Pie",
+    "title": "Blueberry Pie",
     "tags": [
-      "dessert",
+      "blueberry",
       "pie",
-      "vegetarian",
-      "blueberry-pie",
-      "flaky-crust",
-      "rich",
-      "Canadian"
+      "dessert"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 65,
+    "cuisine": "american",
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
@@ -18632,17 +18628,15 @@
   },
   {
     "slug": "romantic-chinese-noodles-zha-jiang-mian",
-    "title": "Romantic Chinese Zha Jiang Mian Noodles",
+    "title": "Stir-Fried Mian Noodles",
     "tags": [
       "chinese",
-      "lacto-vegetarian",
-      "one-pan",
-      "romantic",
-      "weeknight",
-      "xinjiang"
+      "vegetarian",
+      "noodles",
+      "quick-and-easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -18735,17 +18729,16 @@
   },
   {
     "slug": "romantic-crispy-japanese-vegetable-chawanmushi",
-    "title": "Romantic Crispy Japanese Vegetable Chawanmushi",
+    "title": "Crispy Chawanmushi with Japanese Vegetables",
     "tags": [
-      "buddhist-friendly",
-      "crispy",
-      "herbal",
-      "japanese-cuisine",
-      "romantic-dinner",
-      "vegetarian"
+      "japanese",
+      "vegetarian",
+      "gluten-free",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "r"
   },
   {
