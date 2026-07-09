@@ -1,0 +1,81 @@
+{
+  "slug": "romantic-crispy-japanese-vegetable-chawanmushi",
+  "title": "Crispy Chawanmushi with Japanese Vegetables",
+  "description": "A Japanese-style steamed egg custard with a crispy bottom and flavorful vegetables, perfect for a light and refreshing meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chawanmushi",
+      "amount": "4",
+      "notes": "Japanese steamed egg mixture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "japanese vegetables",
+      "amount": "1 cup",
+      "notes": "such as shiitake mushrooms and green beans"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 teaspoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat steamer to high heat.",
+    "Pour chawanmushi mixture into small cups or ramekins.",
+    "Add a few slices of japanese vegetables on top of the chawanmushi.",
+    "Steam for 10-12 minutes, or until the eggs are set and the vegetables are tender.",
+    "While steaming, heat a small non-stick pan with 1 tablespoon of vegetable oil over medium heat.",
+    "Add the remaining 1 tablespoon of vegetable oil and let it melt.",
+    "Carefully place the cups or ramekins onto the pan with the melted oil.",
+    "Cook for 2-3 minutes, or until the bottom is crispy and golden brown.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "gluten-free",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-crispy-japanese-vegetable-chawanmushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:37:42.668Z"
+}
