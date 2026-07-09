@@ -426,14 +426,13 @@
   },
   {
     "slug": "rainbow-smoke-veggie-delight",
-    "title": "Rainbow Smoke Veggie Delight",
+    "title": "Rainbow Veggie Delight",
     "tags": [
       "rainbow",
-      "veggie",
-      "smoke",
-      "greek"
+      "veggie-delight",
+      "snack"
     ],
-    "cuisine": "Greek",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "r"
   },
@@ -1181,17 +1180,15 @@
   },
   {
     "slug": "raw-roasted-brazilian-steak-skewers",
-    "title": "Raw Roasted Brazilian Steak Skewers",
+    "title": "Brazilian Steak Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "raw-food",
-      "weeknight"
+      "grilled",
+      "skewers",
+      "beef",
+      "vegetarian-options"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 225,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -1335,14 +1332,15 @@
   },
   {
     "slug": "red-hot-resinous-vietnamese-rice-mi-quang",
-    "title": "Red-hot Resinous Vietnamese Rice Mi Quang",
+    "title": "Vietnamese Chicken and Rice Bowl",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "vietnamese",
+      "chicken",
+      "rice",
+      "spicy"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -6296,17 +6294,15 @@
   },
   {
     "slug": "rich-italian-paneer-paella",
-    "title": "Rich Italian Paneer Paella",
+    "title": "Rich Italian-Style Paneer Paella",
     "tags": [
-      "gluten-free",
-      "indian-influenced",
       "italian",
-      "one-pan",
-      "slow-cooked",
+      "paella",
+      "paneer",
       "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
