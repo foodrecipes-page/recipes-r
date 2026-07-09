@@ -1,0 +1,93 @@
+{
+  "slug": "rich-indulgent-mexican-beans-tacos",
+  "title": "Creamy Bean Tacos",
+  "description": "A rich and indulgent twist on traditional tacos, featuring creamy beans and a crispy tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canned black beans",
+      "amount": "1 can (15 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, chili powder, and salt. Cook for 1 minute.",
+    "Add the canned black beans and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla, followed by a sprinkle of cheese and a dollop of sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indulgent-mexican-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:22:09.574Z"
+}
