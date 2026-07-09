@@ -1,0 +1,80 @@
+{
+  "slug": "richly-flavored-american-chicken-skillet",
+  "title": "Richly Flavored American Chicken Skillet",
+  "description": "A hearty and flavorful skillet dish made with juicy chicken, richly flavored sauce, and a medley of vegetables.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces, sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rich chicken gravy mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove chicken from the skillet and set aside.",
+    "Add onion, garlic, mushrooms, and red bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in chicken broth and rich chicken gravy mix. Bring to a simmer.",
+    "Return chicken to the skillet and toss to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "american",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:09:46.038Z"
+}
