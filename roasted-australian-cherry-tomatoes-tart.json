@@ -1,0 +1,82 @@
+{
+  "slug": "roasted-australian-cherry-tomatoes-tart",
+  "title": "Australian Cherry Tomato Tart",
+  "description": "A sweet and savory tart filled with roasted Australian cherry tomatoes and a hint of tartness.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Tart pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roll out the tart pastry dough to a thickness of about 1/8 inch.",
+    "3. Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "4. Trim the edges of the dough and press it into the corners of the pan.",
+    "5. In a large bowl, toss the cherry tomatoes with the olive oil, salt, black pepper, and garlic powder.",
+    "6. Spread the cherry tomatoes over the tart dough, leaving a 1-inch border around the edges.",
+    "7. Drizzle the melted butter over the tomatoes.",
+    "8. Sprinkle the chopped basil over the tomatoes.",
+    "9. Bake the tart for 25-30 minutes, or until the crust is golden brown and the tomatoes are tender.",
+    "10. Remove the tart from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "tart",
+    "cherry-tomato",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-australian-cherry-tomatoes-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:46:22.441Z"
+}
