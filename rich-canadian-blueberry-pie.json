@@ -1,0 +1,75 @@
+{
+  "slug": "rich-canadian-blueberry-pie",
+  "title": "Blueberry Pie",
+  "description": "A classic dessert recipe with a rich and flaky crust, filled with a sweet and tangy blueberry filling.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blueberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, salt, and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add ice water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a separate bowl, mix together blueberries, granulated sugar, and lemon juice.",
+    "Pour the blueberry mixture into the pie crust.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch. Use a pastry cutter or a knife to cut the dough into strips for a lattice-top crust.",
+    "Place the strips on top of the blueberry filling, weaving them into a lattice pattern. Trim the edges and press the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with a little bit of milk or beaten egg for a golden brown finish.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the filling is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blueberry",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-canadian-blueberry-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:52:54.256Z"
+}
