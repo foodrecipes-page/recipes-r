@@ -1,0 +1,82 @@
+{
+  "slug": "robust-refreshing-greek-butter-beans-spanakopita",
+  "title": "Greek Spanakopita Stuffed Beans",
+  "description": "A refreshing twist on traditional spanakopita, using tender beans as the base and a crumbly greek filling.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "any type will work, but cannellini or great northern are best"
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package (thawed)",
+      "notes": "homemade or store-bought, crumbled"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the beans, crumbled spanakopita, melted butter, chopped dill, crumbled feta, minced garlic, salt, and black pepper. Mix until well combined.",
+    "Spoon the bean mixture into a baking dish and cover with aluminum foil.",
+    "Bake for 25-30 minutes or until the beans are tender.",
+    "Remove the foil and continue baking for an additional 5-10 minutes or until the top is lightly browned.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "beans",
+    "spanakopita",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-refreshing-greek-butter-beans-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:55:19.336Z"
+}
