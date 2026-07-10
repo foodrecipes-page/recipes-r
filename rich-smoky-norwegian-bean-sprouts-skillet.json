@@ -1,0 +1,80 @@
+{
+  "slug": "rich-smoky-norwegian-bean-sprouts-skillet",
+  "title": "Smoky Norwegian Bean Skillet",
+  "description": "A hearty, one-pan meal featuring smoky Norwegian salmon and beans, served with a side of crunchy sprouts.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillet",
+      "amount": "1 (6 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced red bell pepper and cook for 5 minutes.",
+    "Add the sliced red onion and cook for an additional 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the soaked and drained navy beans, smoked paprika, and salt and pepper to taste.",
+    "Add the Norwegian salmon fillet and cook for 3-4 minutes per side.",
+    "Serve the skillet hot, garnished with crunchy sprouts.",
+    "Optional: serve with a side of crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skillet",
+    "norwegian",
+    "salmon",
+    "beans",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-norwegian-bean-sprouts-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:28:31.289Z"
+}
