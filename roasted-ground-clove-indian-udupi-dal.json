@@ -1,0 +1,97 @@
+{
+  "slug": "roasted-ground-clove-indian-udupi-dal",
+  "title": "Udupi Dal Fry",
+  "description": "A South Indian-inspired lentil dish made with roasted ground dal, spices, and aromatics.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roasted ground dal",
+      "amount": "1 cup",
+      "notes": "split red or yellow lentils work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add mustard seeds and let them sizzle.",
+    "Add curry leaves, if using.",
+    "Add chopped onion and sauté until translucent.",
+    "Add garlic and ginger, sauté for a minute.",
+    "Add cumin, coriander, and turmeric, sauté for a minute.",
+    "Add roasted ground dal and stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes, or until dal is cooked.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice or roti."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "udupi",
+    "lentil",
+    "dal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ground-clove-indian-udupi-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:31.235Z"
+}
