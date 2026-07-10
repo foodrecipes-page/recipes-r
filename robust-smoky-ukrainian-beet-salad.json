@@ -1,0 +1,78 @@
+{
+  "slug": "robust-smoky-ukrainian-beet-salad",
+  "title": "Smoky Beet Salad",
+  "description": "A hearty, smoky beet salad with a mix of robust flavors, perfect for a light lunch or dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and roasted"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "arugula, spinach, lettuce"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "Let the beets cool, then peel and slice into wedges.",
+    "In a large bowl, combine the mixed greens, sliced red onion, and chopped dill.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Add the roasted beets and smoked salmon to the bowl with the greens.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "salad",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-smoky-ukrainian-beet-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:48:22.768Z"
+}
