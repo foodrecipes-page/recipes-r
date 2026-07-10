@@ -1,0 +1,71 @@
+{
+  "slug": "rich-tender-chinese-pecan-stew",
+  "title": "Pecan Crusted Rich Pork Chops",
+  "description": "A rich and tender pork chop dish coated with a crunchy pecan crust. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-inch thick"
+    },
+    {
+      "name": "pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with garlic powder.",
+    "In a bowl, mix together chopped pecans, melted butter, honey, and soy sauce.",
+    "Coat each pork chop with the pecan mixture, pressing gently to adhere.",
+    "Place pork chops on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Remove from oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pork",
+    "pecans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-chinese-pecan-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:29:42.645Z"
+}
