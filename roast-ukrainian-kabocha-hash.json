@@ -1,0 +1,90 @@
+{
+  "slug": "roast-ukrainian-kabocha-hash",
+  "title": "Roast Ukrainian-Style Kabocha Hash",
+  "description": "A hearty, comforting dish featuring roasted kabocha squash and crispy hash browns, inspired by Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled, seeded"
+    },
+    {
+      "name": "hash browns",
+      "amount": "2 medium potatoes, peeled and grated",
+      "notes": "drained of excess moisture"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tablespoons olive oil",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the kabocha squash with 1 tablespoon of the olive oil, salt, and pepper on a baking sheet; roast for 20-25 minutes, or until tender.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium-high heat.",
+    "Add the diced onion and cook, stirring occasionally, until softened and lightly browned, about 8-10 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the grated potatoes to the skillet and cook, stirring occasionally, until golden brown and crispy, about 15-20 minutes.",
+    "Stir in the parsley, salt, and pepper.",
+    "Serve the roasted kabocha squash on top of the hash browns, with a dollop of sour cream (if using).",
+    "Enjoy hot and warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "kabocha",
+    "hash-browns"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roast-ukrainian-kabocha-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:19:05.011Z"
+}
