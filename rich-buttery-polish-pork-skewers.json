@@ -1,0 +1,83 @@
+{
+  "slug": "rich-buttery-polish-pork-skewers",
+  "title": "Polish Pork Skewers with Butter",
+  "description": "Grilled pork skewers with a rich and buttery twist, inspired by traditional polish cuisine.",
+  "cuisine": "polish",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch chunks",
+      "amount": "1 pound",
+      "notes": "use a meat mallet to pound to 1/4 inch thickness"
+    },
+    {
+      "name": "polish sausage, sliced",
+      "amount": "8 ounces",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "rich butter",
+      "amount": "4 tablespoons",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "preferably wood or bamboo"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread pork and sausage onto skewers, leaving a little space between each piece.",
+    "3. In a small bowl, mix together butter, garlic powder, salt, and pepper.",
+    "4. Brush the butter mixture onto the pork and sausage.",
+    "5. Grill skewers for 8-10 minutes per side, or until the pork reaches an internal temperature of 145°F.",
+    "6. Let the skewers rest for 5 minutes before serving.",
+    "7. Garnish with chopped parsley, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "skewers",
+    "polish-cuisine",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-polish-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:15:44.011Z"
+}
