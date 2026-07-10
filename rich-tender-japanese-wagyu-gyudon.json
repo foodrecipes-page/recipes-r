@@ -1,0 +1,97 @@
+{
+  "slug": "rich-tender-japanese-wagyu-gyudon",
+  "title": "Japanese Wagyu Beef Gyudon Recipe",
+  "description": "A classic Japanese dish made with rich, tender wagyu beef, onions, and a savory soy-based broth. Serve over a bed of steaming hot rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef (Thinly Sliced)",
+      "amount": "1 pound",
+      "notes": "Choose high-quality wagyu beef for the best flavor and texture."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion to help it cook evenly."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/2 cup",
+      "notes": "Use high-quality soy sauce for the best flavor."
+    },
+    {
+      "name": "Sake (Japanese Rice Wine)",
+      "amount": "2 tablespoons",
+      "notes": "Add a splash of sake for added depth of flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Balance the savory flavors with a touch of sugar."
+    },
+    {
+      "name": "Mirin (Sweet Japanese Cooking Wine)",
+      "amount": "2 tablespoons",
+      "notes": "Use mirin to add a sweet and savory flavor to the dish."
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions."
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly slice the green onions for garnish."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate the ginger for added flavor."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "Use sesame oil for added depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add thinly sliced onions and cook until caramelized, about 5 minutes.",
+    "Add grated ginger and cook for an additional 1 minute.",
+    "Add sliced wagyu beef and cook until browned, about 3-4 minutes.",
+    "Add soy sauce, sake, sugar, and mirin to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Serve the wagyu beef and sauce over a bed of steaming hot rice.",
+    "Garnish with thinly sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "wagyu",
+    "beef",
+    "gyudon",
+    "soy-sauce",
+    "sake",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-japanese-wagyu-gyudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:53:15.772Z"
+}
