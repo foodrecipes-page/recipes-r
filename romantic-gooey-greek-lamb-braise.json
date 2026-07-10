@@ -1,99 +1,95 @@
 {
   "slug": "romantic-gooey-greek-lamb-braise",
-  "title": "Lamb Braise with a Romantic Greek Twist",
-  "description": "A classic lamb braise with a gooey twist and a hint of Greek flavor. Perfect for a cozy evening with loved ones.",
+  "title": "Romantic Lamb Shanks with Gooey Egg and Greek Veggies",
+  "description": "Tender lamb shanks slow-cooked in a rich braise with gooey egg and a mix of Greek veggies, perfect for a romantic dinner.",
   "cuisine": "Greek",
   "diet": [
-    "omnivore"
+    "meat",
+    "pork-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "lamb shoulder",
-      "amount": "1.5 pounds",
+      "name": "Lamb shanks",
+      "amount": "4",
+      "notes": "2 pounds"
+    },
+    {
+      "name": "Gooey egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Greek veggies",
+      "amount": "1 bunch",
+      "notes": "1 mix of carrots, potatoes, zucchini, and bell peppers"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
       "notes": ""
     },
     {
-      "name": "red wine",
-      "amount": "1 cup",
+      "name": "Onion",
+      "amount": "1 medium",
       "notes": ""
     },
     {
-      "name": "beef broth",
-      "amount": "1 cup",
-      "notes": ""
-    },
-    {
-      "name": "onion",
-      "amount": "1 large",
-      "notes": ""
-    },
-    {
-      "name": "garlic",
+      "name": "Garlic",
       "amount": "3 cloves",
       "notes": ""
     },
     {
-      "name": "tomato paste",
+      "name": "Tomato paste",
       "amount": "2 tablespoons",
       "notes": ""
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons",
+      "name": "Red wine",
+      "amount": "1 cup",
       "notes": ""
     },
     {
-      "name": "fresh parsley",
-      "amount": "1/4 cup",
-      "notes": ""
-    },
-    {
-      "name": "feta cheese",
-      "amount": "1/2 cup",
-      "notes": "crumbled"
-    },
-    {
-      "name": "honey",
-      "amount": "2 tablespoons",
-      "notes": ""
+      "name": "Braised liquid",
+      "amount": "2 cups",
+      "notes": "beef broth and stock"
     }
   ],
   "instructions": [
-    "Preheat the oven to 300°F (150°C).",
-    "Season the lamb shoulder with salt and pepper.",
-    "Heat the olive oil in a large Dutch oven over medium-high heat.",
-    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
-    "Remove the lamb from the pot and set it aside.",
-    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
-    "Add the tomato paste and cook for 1 minute.",
-    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
-    "Return the lamb to the pot and bring the liquid to a simmer.",
-    "Cover the pot and transfer it to the preheated oven.",
-    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
-    "Stir in the honey and cook for an additional 10 minutes.",
-    "Serve the lamb hot, topped with crumbled feta cheese and fresh parsley."
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb shanks with salt and pepper.",
+    "Heat olive oil in a large Dutch oven over medium-high heat. Sear lamb shanks until browned on all sides, about 5 minutes.",
+    "Remove lamb shanks from the pot, and set aside.",
+    "Reduce heat to medium, and cook onion until softened. Add garlic and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add red wine and bring to a simmer, scraping up any browned bits from the bottom of the pot.",
+    "Return lamb shanks to the pot, and add braised liquid.",
+    "Cover the pot, and transfer to the preheated oven.",
+    "Braise lamb shanks for 2 1/2 to 3 hours, or until tender and falling off the bone.",
+    "About 30 minutes before serving, carefully remove lamb shanks from the pot, and let rest.",
+    "Add Greek veggies to the pot, and cook until tender, about 30 minutes.",
+    "To serve, place a lamb shank on each plate, and top with a gooey egg and a portion of the Greek veggies."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 150,
-  "totalTimeMin": 170,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "hard",
   "tags": [
     "lamb",
-    "braise",
     "greek",
     "romantic",
-    "dinner"
+    "braise",
+    "egg"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": 43,
-    "carbs": 22,
-    "fat": 36
+    "calories": 740,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 43
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/romantic-gooey-greek-lamb-braise",
   "providerUsed": "groq",
-  "createdAt": "2026-07-06T11:28:36.140Z"
+  "createdAt": "2026-07-08T01:57:00.212Z"
 }
