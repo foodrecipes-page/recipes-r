@@ -1,0 +1,77 @@
+{
+  "slug": "rich-smoky-uruguayan-cheese-sandwich",
+  "title": "Uruguayan Cheese Sandwich",
+  "description": "A classic Uruguayan dish, this rich and smoky cheese sandwich is perfect for a quick meal or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan cheese",
+      "amount": "8 oz (225g)",
+      "notes": "such as quesito or chivo"
+    },
+    {
+      "name": "Rich, smoky deli meat",
+      "amount": "4 oz (115g)",
+      "notes": "such as chorizo or morcilla"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "such as baguette or ciabatta"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or pan over medium heat.",
+    "Butter one side of each slice of bread.",
+    "Place one slice of bread, butter-side down, on the griddle.",
+    "Top with a slice of deli meat, a few slices of cheese, and a sprinkle of parsley.",
+    "Place the second slice of bread, butter-side up, on top of the filling.",
+    "Cook for 2-3 minutes, or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for an additional 2-3 minutes, or until the other side is also golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-uruguayan-cheese-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:55:42.551Z"
+}
