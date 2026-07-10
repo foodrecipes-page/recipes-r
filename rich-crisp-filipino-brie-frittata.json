@@ -1,0 +1,84 @@
+{
+  "slug": "rich-crisp-filipino-brie-frittata",
+  "title": "Filipino Frittata with Brie and Crisp Toppings",
+  "description": "A fusion breakfast dish featuring a crispy Filipino-style omelette topped with melted brie and crunchy rich ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Filipino-style omelette eggs",
+      "amount": "6",
+      "notes": "Rich in protein"
+    },
+    {
+      "name": "Brie cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "Mild and creamy"
+    },
+    {
+      "name": "Crunchy fried garlic",
+      "amount": "1/4 cup",
+      "notes": "Adds a rich flavor"
+    },
+    {
+      "name": "Crisp plantain chips",
+      "amount": "1 cup",
+      "notes": "Tropical and crunchy"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh and herbaceous"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": "Enhances flavors"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh chili peppers",
+      "amount": "1-2, sliced",
+      "notes": "For added spice"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together. Season with salt and pepper to taste.",
+    "2. Heat the olive oil in a large skillet over medium-high heat.",
+    "3. Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "4. Add the crumbled brie cheese to one half of the omelette.",
+    "5. Add the crunchy fried garlic, crisp plantain chips, and sliced chili peppers on top of the cheese.",
+    "6. Use a spatula to gently fold the other half of the omelette over the filling.",
+    "7. Cook for another 2-3 minutes, until the cheese is melted and the eggs are cooked through.",
+    "8. Garnish with chopped cilantro leaves and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "filipino",
+    "brie",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crisp-filipino-brie-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:06:42.884Z"
+}
