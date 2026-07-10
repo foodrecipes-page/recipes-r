@@ -1,0 +1,89 @@
+{
+  "slug": "rich-sweet-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting stew made with tender lamb and flavorful Irish spices. Perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "Irish Stew Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "or beef broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Dust the lamb cubes with flour, shaking off excess.",
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the lamb on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium. Add more oil if necessary, then sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped carrots and potatoes. Cook for 5 minutes, stirring occasionally.",
+    "Add the browned lamb, Irish stew seasoning, red wine, and water to the pot.",
+    "Bring to a boil, then cover the pot and transfer to the preheated oven.",
+    "Bake for 2-3 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-sweet-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:06:07.047Z"
+}
