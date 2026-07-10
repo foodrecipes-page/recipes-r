@@ -1,0 +1,79 @@
+{
+  "slug": "rich-creamy-ukrainian-whole-wheat-bread",
+  "title": "Cuban-Style Bread Pudding",
+  "description": "A rich and creamy dessert made with whole wheat bread, perfect for a cozy evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "2 cups, stale and cubed",
+      "notes": "Any type of whole wheat bread works well"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, whisk together the eggs, granulated sugar, and brown sugar.",
+    "Add in the heavy cream, vanilla extract, and cinnamon. Whisk until well combined.",
+    "Add in the cubed bread and toss until the bread is evenly coated with the egg mixture.",
+    "Pour the bread mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the bread is set.",
+    "Remove the bread pudding from the oven and let it cool for a few minutes.",
+    "Serve warm, topped with your favorite toppings such as whipped cream or a caramel sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread-pudding",
+    "cuban-style",
+    "dessert",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-ukrainian-whole-wheat-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:28:52.391Z"
+}
