@@ -1,0 +1,79 @@
+{
+  "slug": "rich-vietnamese-nectarines-braised-porridge",
+  "title": "Vietnamese Braised Nectarine Porridge",
+  "description": "A rich and comforting porridge dish from Vietnam, featuring tender nectarines and a mixture of spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the rice, coconut milk, brown sugar, star anise, ginger, and salt. Stir to combine.",
+    "Add in the sliced nectarines and water.",
+    "Cook over medium heat, stirring occasionally, until the liquid has been absorbed and the rice is tender.",
+    "Reduce heat to low and simmer for 10 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with additional nectarine slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-vietnamese-nectarines-braised-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:01:17.119Z"
+}
