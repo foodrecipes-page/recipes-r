@@ -1,0 +1,70 @@
+{
+  "slug": "rich-polish-kielbasa-stew",
+  "title": "Polish Kielbasa Stew",
+  "description": "A hearty and flavorful stew made with Polish kielbasa and rich flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    "serves-4"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the kielbasa and cook until browned, about 5 minutes.",
+    "Remove the kielbasa from the pot and set aside.",
+    "Add the onion, carrots, and potatoes to the pot and cook until tender, about 10 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth, salt, and pepper to the pot and stir to combine.",
+    "Return the kielbasa to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "kielbasa",
+    "polish-cuisine",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-polish-kielbasa-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:06:40.074Z"
+}
