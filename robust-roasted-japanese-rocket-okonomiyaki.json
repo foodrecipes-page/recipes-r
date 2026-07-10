@@ -1,0 +1,85 @@
+{
+  "slug": "robust-roasted-japanese-rocket-okonomiyaki",
+  "title": "Robust Okonomiyaki Burger",
+  "description": "A twist on traditional okonomiyaki, this burger combines the flavors of Japan with the richness of a beef patty. The robust flavors are balanced by the freshness of rocket and the crunch of roasted ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Patty",
+      "amount": "1",
+      "notes": "80/20 ground beef"
+    },
+    {
+      "name": "Robust Okonomiyaki Sauce",
+      "amount": "2 tablespoons",
+      "notes": "make your own or use store-bought"
+    },
+    {
+      "name": "Roasted Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Japanese Cucumber",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rocket Greens",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Roasted Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Okonomiyaki Flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Form beef patties and season with salt and pepper.",
+    "3. Grill beef patties for 4-5 minutes per side, or until cooked to desired level of doneness.",
+    "4. Meanwhile, toast buns on grill.",
+    "5. Spread okonomiyaki sauce on bottom bun.",
+    "6. Add beef patty, roasted onion, and Japanese cucumber.",
+    "7. Top with rocket greens and roasted sesame seeds.",
+    "8. Dust with okonomiyaki flour for extra crunch.",
+    "9. Add top bun and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "okonomiyaki",
+    "burger",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-roasted-japanese-rocket-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:04:19.692Z"
+}
