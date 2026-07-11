@@ -1,0 +1,82 @@
+{
+  "slug": "rich-tender-energizing-norwegian-beans-stir-fry",
+  "title": "Norwegian Energizing Stir Fry",
+  "description": "A quick and easy stir fry filled with the flavors of Norway, using rich and tender ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1/2 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 (14.5 oz) can",
+      "notes": "diced"
+    },
+    {
+      "name": "Norwegian feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir-fry for 2-3 minutes, until the onion is translucent.",
+    "Add the green beans and stir-fry for another 2-3 minutes, until they begin to soften.",
+    "Add the canned tomatoes and stir-fry for 1 minute, breaking up any large pieces with a spoon.",
+    "Stir in the brown rice and cook for 1-2 minutes, until it is lightly toasted.",
+    "Crumble the feta cheese over the top and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the cheese is melted and the mixture is heated through.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve immediately, garnished with fresh parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "energizing",
+    "stir-fry",
+    "vegetarian",
+    "easy",
+    "quick",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-energizing-norwegian-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:27:00.214Z"
+}
