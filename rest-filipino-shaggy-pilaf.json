@@ -1,0 +1,83 @@
+{
+  "slug": "rest-filipino-shaggy-pilaf",
+  "title": "Shaggy's Filipino-Style Rest Pilaf",
+  "description": "A twist on a classic pilaf, this Filipino-inspired dish combines the flavors of rest and shaggy with the warmth of pilaf.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rest",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "shaggy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chopped rest and cook for 5 minutes.",
+    "Add the uncooked pilaf and stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the fish sauce, soy sauce, and chopped shaggy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "filipino",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rest-filipino-shaggy-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:16:23.551Z"
+}
