@@ -1,0 +1,80 @@
+{
+  "slug": "rich-and-pungent-indian-ground-allspice-curry",
+  "title": "Spiced Chicken Curry",
+  "description": "A flavorful and aromatic Indian-inspired chicken curry made with a blend of spices and herbs.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Rich coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat canned coconut milk"
+    },
+    {
+      "name": "And a pinch of salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pungent ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground curry powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the cumin, allspice, and curry powder to the pan and cook for 1 minute.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Return the chicken to the pan and cook until the sauce has thickened and the chicken is cooked through, about 10-12 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "indian",
+    "spicy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-pungent-indian-ground-allspice-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:26:39.727Z"
+}
