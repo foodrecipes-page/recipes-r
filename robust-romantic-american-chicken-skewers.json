@@ -1,0 +1,71 @@
+{
+  "slug": "robust-romantic-american-chicken-skewers",
+  "title": "Romantic Chicken Skewers",
+  "description": "Tender and flavorful chicken skewers perfect for a romantic dinner.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "romantic",
+      "amount": "1/2 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "american",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and pepper.",
+    "Add the chicken pieces to the bowl and toss to coat.",
+    "Thread the chicken onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "romantic",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 2,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-romantic-american-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:11:05.970Z"
+}
