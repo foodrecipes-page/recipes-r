@@ -1,0 +1,79 @@
+{
+  "slug": "rounded-tender-jamaican-dumplings-dumplings",
+  "title": "Jamaican Dumplings",
+  "description": "A classic Jamaican dish made with tender dumplings, typically served with a variety of sides. These dumplings are flavorful and delicious, perfect for a comforting meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "optional: scotch bonnet peppers",
+      "amount": "1 tablespoon",
+      "notes": "use sparingly for heat"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, combine the flour, baking powder, salt, and sugar.",
+    "3. Add the milk and vegetable oil to the dry ingredients and stir until a dough forms.",
+    "4. Knead the dough for 5-7 minutes until it is smooth and elastic.",
+    "5. Divide the dough into 8-10 equal pieces.",
+    "6. Roll each piece into a ball and then flatten it slightly into a disk.",
+    "7. Heat a non-stick skillet or griddle over medium heat.",
+    "8. Cook the dumplings for 2-3 minutes on each side, or until they are golden brown.",
+    "9. Transfer the dumplings to a baking sheet lined with parchment paper.",
+    "10. Bake for 12-15 minutes, or until the dumplings are cooked through.",
+    "11. Serve warm with your favorite sides, such as fried plantains or steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "dumplings",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rounded-tender-jamaican-dumplings-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:11:09.945Z"
+}
