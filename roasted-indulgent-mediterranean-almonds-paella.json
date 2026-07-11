@@ -1,0 +1,90 @@
+{
+  "slug": "roasted-indulgent-mediterranean-almonds-paella",
+  "title": "Roasted Mediterranean Paella",
+  "description": "A flavorful and indulgent take on the classic Spanish dish, combining the richness of roasted vegetables with the brightness of Mediterranean herbs.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced zucchini and sauté for 3-4 minutes, until tender.",
+    "Add the roasted red peppers and cook for an additional 2 minutes.",
+    "Add the paella rice and cook, stirring constantly, for 1-2 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked.",
+    "Stir in the sliced almonds and Mediterranean seasoning.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Let the paella rest for 5-10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "paella",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-indulgent-mediterranean-almonds-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:34:32.511Z"
+}
