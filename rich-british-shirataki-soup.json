@@ -1,0 +1,81 @@
+{
+  "slug": "rich-british-shirataki-soup",
+  "title": "Creamy British Chicken and Shirataki Soup",
+  "description": "A hearty and comforting soup made with British chicken, shirataki noodles, and a rich creamy broth.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "1 package",
+      "notes": "rinse and drain before using"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "rich chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional, for a creamy version"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the chopped onion and minced garlic until softened.",
+    "Add the cut chicken breast and cook until browned on all sides.",
+    "Add the shirataki noodles, chicken broth, and flour. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes.",
+    "If using heavy cream, stir it in during the last 2 minutes of cooking.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "soup",
+    "british",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-shirataki-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:24:28.543Z"
+}
