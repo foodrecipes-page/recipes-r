@@ -1,0 +1,82 @@
+{
+  "slug": "rich-savory-venezuelan-black-beans-stew",
+  "title": "Venezuelan Black Bean Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with black beans, rich beef broth, and savory spices.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Black beans, dried",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, bell pepper, and carrots; cook until the vegetables are tender.",
+    "Add black beans, beef broth, tomato paste, smoked paprika, cumin, salt, and black pepper.",
+    "Bring to a boil; reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "bean",
+    "stew",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-venezuelan-black-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:48:41.411Z"
+}
