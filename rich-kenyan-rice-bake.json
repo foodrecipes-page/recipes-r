@@ -1,0 +1,118 @@
+{
+  "slug": "rich-kenyan-rice-bake",
+  "title": "Kenyan-Style Chicken Bake",
+  "description": "A flavorful and aromatic chicken bake recipe inspired by Kenyan cuisine, perfect for a weeknight dinner. The combination of rich spices and tender chicken will leave you wanting more.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rich coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "",
+      "notes": "preheated oven"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "Preheat the oven to 400°F (200°C)."
+    },
+    {
+      "step": "Season the chicken with salt, black pepper, and Kenyan curry powder."
+    },
+    {
+      "step": "Heat a large skillet over medium-high heat and cook the chicken until browned, about 5-6 minutes per side."
+    },
+    {
+      "step": "Transfer the chicken to a baking dish and set aside."
+    },
+    {
+      "step": "In the same skillet, add the onion, tomato, and garlic. Cook until the vegetables are tender, about 5-7 minutes."
+    },
+    {
+      "step": "Stir in the coconut milk and bring to a simmer."
+    },
+    {
+      "step": "Pour the coconut milk mixture over the chicken in the baking dish."
+    },
+    {
+      "step": "Add the uncooked rice to the baking dish, making sure it's covered with the coconut milk mixture."
+    },
+    {
+      "step": "Cover the dish with aluminum foil and bake for 25-30 minutes."
+    },
+    {
+      "step": "Remove the foil and continue baking for an additional 10-15 minutes, or until the chicken is cooked through and the rice is tender."
+    },
+    {
+      "step": "Serve hot and enjoy!"
+    }
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kenyan",
+    "curry",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:40:56.612Z"
+}
