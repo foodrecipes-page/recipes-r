@@ -1,0 +1,72 @@
+{
+  "slug": "rapid-mexican-fennel-tostada",
+  "title": "Mexican Tostada with Rapid Salsa and Fennel Slaw",
+  "description": "A flavorful and crunchy Mexican-inspired dish with a rapid salsa and a refreshing fennel slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Rapid salsa",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tostada",
+      "amount": "1 package",
+      "notes": "crispy corn tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the fennel bulb in half and slice it thinly.",
+    "In a bowl, mix together sliced fennel, red cabbage, and lime juice.",
+    "Heat the rapid salsa in a pan over medium heat.",
+    "Warm the tostada by wrapping it in foil and baking for 5 minutes.",
+    "Assemble the tostada by topping it with the fennel slaw and spooning the rapid salsa over it.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "fast",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rapid-mexican-fennel-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:58:04.743Z"
+}
