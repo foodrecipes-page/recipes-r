@@ -1,0 +1,93 @@
+{
+  "slug": "rich-indian-paneer-curry",
+  "title": "Creamy Indian Paneer Curry",
+  "description": "A rich and creamy Indian-inspired curry dish made with paneer cheese. Perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "8 oz",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "adjust to desired creaminess"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until the onion is translucent.",
+    "Add curry powder, cumin powder, and garam masala. Cook for 1 minute.",
+    "Add paneer cheese and cook until it starts to brown.",
+    "Pour in heavy cream and bring the mixture to a simmer.",
+    "Reduce heat to low and let the curry simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over basmati rice or with naan bread.",
+    "Garnish with chopped cilantro or scallions, if desired.",
+    "Let the curry rest for 5-10 minutes before serving to allow the flavors to meld.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:04:18.232Z"
+}
