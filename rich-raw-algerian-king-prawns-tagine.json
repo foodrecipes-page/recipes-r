@@ -1,0 +1,80 @@
+{
+  "slug": "rich-raw-algerian-king-prawns-tagine",
+  "title": "King Prawns with Algerian Tagine Sauce",
+  "description": "A flavorful North African-inspired dish featuring king prawns in a rich and aromatic tagine sauce. Serve over couscous or rice for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "tagine spice blend"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "raw",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 can",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tagine spice blend and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes and chicken broth, stirring to combine.",
+    "Bring the sauce to a simmer and cook for 5-7 minutes, or until slightly thickened.",
+    "Add the king prawns to the skillet and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Serve the prawns and sauce over couscous or rice.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "seafood",
+    "prawns",
+    "tagine",
+    "algerian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-raw-algerian-king-prawns-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:11:56.389Z"
+}
