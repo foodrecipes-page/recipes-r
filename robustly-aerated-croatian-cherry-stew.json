@@ -1,0 +1,87 @@
+{
+  "slug": "robustly-aerated-croatian-cherry-stew",
+  "title": "Cherry Croatian Stew",
+  "description": "A hearty stew originating from Croatia, flavored with robustly roasted cherry tomatoes and aerated by a dollop of sour cream.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "robustly roasted cherry tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "aerated with a dollop"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add cherry tomatoes and cook until they start to break down.",
+    "Add stew, paprika, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in sour cream to aerate the stew.",
+    "Serve hot, garnished with additional sour cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-aerated-croatian-cherry-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:14:11.407Z"
+}
