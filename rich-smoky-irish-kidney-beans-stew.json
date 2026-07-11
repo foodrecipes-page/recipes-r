@@ -1,0 +1,99 @@
+{
+  "slug": "rich-smoky-irish-kidney-beans-stew",
+  "title": "Irish Kidney Bean Stew",
+  "description": "A hearty and comforting Irish stew made with rich, smoky flavor and tender kidney beans. Perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rich Irish Stew Meat (Beef or Lamb)",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Kidney Beans (Canned or Cooked)",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Smoked Bacon",
+      "amount": "6 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Guinness Stout Beer",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven, cook the smoked bacon over medium heat until crispy. Remove the bacon and set aside.",
+    "2. Add the onion, carrots, and potatoes to the pot and cook until the vegetables are tender.",
+    "3. Add the stew meat and cook until browned on all sides.",
+    "4. Add the kidney beans, allspice, thyme, salt, and pepper to the pot. Stir to combine.",
+    "5. If using Guinness stout, add it to the pot and stir to combine.",
+    "6. Cover the pot and bring the stew to a boil. Reduce the heat to low and simmer for 1 hour.",
+    "7. Add the cooked bacon back to the pot and stir to combine.",
+    "8. Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "kidney-beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-irish-kidney-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:13:44.935Z"
+}
