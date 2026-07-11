@@ -1,0 +1,86 @@
+{
+  "slug": "rich-uruguayan-sweetcorn-dumplings",
+  "title": "Sweetcorn and Uruguayan Dumplings Delight",
+  "description": "A hearty and flavorful dish that combines the sweetness of corn with the rich taste of uruguayan dumplings.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "uruguayan rich sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water to form a dough. Knead for 5 minutes.",
+    "Divide the dough into 8-10 equal pieces and roll each into a ball.",
+    "On a floured surface, use a rolling pin to flatten each ball into a thin circle.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the uruguayan rich sausage to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the sweetcorn kernels to the skillet and cook for 2-3 minutes.",
+    "Place a dumpling on top of the filling in the skillet and cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the dumpling over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining dumplings and serving.",
+    "Serve the sweetcorn and uruguayan dumplings hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sweetcorn",
+    "dumplings",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-sweetcorn-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:45:58.755Z"
+}
