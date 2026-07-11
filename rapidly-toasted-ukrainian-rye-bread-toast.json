@@ -1,0 +1,63 @@
+{
+  "slug": "rapidly-toasted-ukrainian-rye-bread-toast",
+  "title": "Rye Toast with Toasted Ukrainian Bread",
+  "description": "A simple Ukrainian-inspired snack made with toasted rye bread and served with rapidly toasted bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Ukrainian bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: sour cream or cheese",
+      "amount": "for serving",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cut the Ukrainian bread into 1-inch (2.5 cm) cubes.",
+    "Place the bread cubes on a baking sheet and toast in the oven for 5-7 minutes, or until lightly toasted.",
+    "Meanwhile, cut the rye bread into 1-inch (2.5 cm) slices.",
+    "Butter one side of each rye bread slice.",
+    "Place the bread slices on a baking sheet and toast in the oven for 2-3 minutes, or until lightly toasted.",
+    "Remove the bread from the oven and let cool for a minute.",
+    "Top each rye bread slice with a spoonful of toasted Ukrainian bread cubes.",
+    "Season with salt to taste.",
+    "Serve immediately, with sour cream or cheese on the side if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rye-bread",
+    "ukrainian-bread",
+    "snack",
+    "toasted"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rapidly-toasted-ukrainian-rye-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:21:22.606Z"
+}
