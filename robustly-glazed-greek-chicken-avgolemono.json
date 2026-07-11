@@ -1,0 +1,103 @@
+{
+  "slug": "robustly-glazed-greek-chicken-avgolemono",
+  "title": "Classic Greek Chicken",
+  "description": "A traditional Greek-inspired dish with a tangy avgolemono sauce, glazed chicken, and a side of robustly flavored roasted vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Avgolemono sauce ingredients:",
+      "amount": "",
+      "notes": "See notes for ingredients"
+    },
+    {
+      "name": "Mixed roasted vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Glazed yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a small bowl, mix together the Greek seasoning, olive oil, salt, and pepper. Rub the mixture all over the chicken breasts, making sure they are evenly coated.",
+    "3. Place the chicken breasts on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "4. While the chicken is baking, prepare the avgolemono sauce by whisking together the lemon juice, garlic powder, onion powder, and 1 cup of water in a small bowl.",
+    "5. To make the glazed yogurt, mix together the yogurt, lemon juice, and 1 tsp of garlic powder in a small bowl.",
+    "6. To roast the vegetables, toss them with olive oil, salt, and pepper on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "7. To assemble the dish, place a cooked chicken breast on a plate, top with a spoonful of avgolemono sauce, and serve with a side of roasted vegetables.",
+    "8. Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "greek",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-glazed-greek-chicken-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:21:52.241Z"
+}
