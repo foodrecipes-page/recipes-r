@@ -1,0 +1,84 @@
+{
+  "slug": "rich-thai-black-pudding-stir-fry",
+  "title": "Thai Fried Pudding",
+  "description": "A sweet and savory Thai inspired dessert, with crispy fried pudding. Crunchy on the outside, soft and chewy on the inside.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Black",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Rich",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "Thai",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/4 teaspoon",
+      "notes": "black pepper"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the pudding, black flour, rich coconut milk, and thai fish sauce.",
+    "Add the stir vegetable oil and fry black pepper to the mixture, and mix until well combined.",
+    "Gradually add in the sugar and beaten egg, and mix until a smooth batter forms.",
+    "Heat a non-stick pan over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the pan, and flatten slightly.",
+    "Fry the pudding until golden brown on both sides, about 2-3 minutes per side.",
+    "Remove the fried pudding from the pan, and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the Thai fried pudding warm, dust with powdered sugar if desired.",
+    "Enjoy your crispy and chewy dessert!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "fried",
+    "pudding",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-thai-black-pudding-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:00.145Z"
+}
