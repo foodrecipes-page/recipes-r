@@ -1,0 +1,83 @@
+{
+  "slug": "raw-aerated-kenyan-prawns-pilaf",
+  "title": "Crab-Free Prawn Pilaf",
+  "description": "A flavorful pilaf dish made with prawns and aerated ingredients. This recipe is a great alternative to traditional crab-based dishes.",
+  "cuisine": "International",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kenyan pilaf mix",
+      "amount": "1 cup",
+      "notes": "any type of pilaf mix can be used"
+    },
+    {
+      "name": "raw onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "aerated vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "shelled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the prawns and cook until pink, about 2-3 minutes per side.",
+    "Add the pilaf mix and cook for 1-2 minutes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "prawns",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-aerated-kenyan-prawns-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:14:23.854Z"
+}
