@@ -1,0 +1,76 @@
+{
+  "slug": "rich-springy-chinese-zucchini-mu-shu",
+  "title": "Pan-Seared Zucchini with Chinese-Style Shu Sauce",
+  "description": "A simple and flavorful dish combining the freshness of zucchini with the savory flavors of Shu sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "rich soy sauce (or tamari)",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "springy scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "shu",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "mu",
+      "amount": "1 tsp",
+      "notes": "grated, for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium-high heat.",
+    "Add zucchini slices and cook for 3-4 minutes per side, until tender and lightly browned.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and Shu sauce.",
+    "Pour sauce over zucchini and toss to coat.",
+    "Sprinkle with chopped scallions and grated mu.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-springy-chinese-zucchini-mu-shu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:37:28.832Z"
+}
