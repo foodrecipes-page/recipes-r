@@ -1,0 +1,90 @@
+{
+  "slug": "romantic-earthy-polish-scallions-pilaf",
+  "title": "Romantic Earthy Polish Pilaf",
+  "description": "A hearty, earthy pilaf dish infused with romantic flavors of Eastern Europe, perfect for a cozy evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 lb, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced sausage and cook until browned, about 5 minutes.",
+    "Add sliced mushrooms and cook until tender, about 3 minutes.",
+    "Add chopped scallions and cook for 1 minute.",
+    "Stir in caraway seeds, salt, and black pepper.",
+    "Add pilaf and stir to combine.",
+    "Transfer mixture to a serving dish and top with crumbled feta cheese.",
+    "Serve hot and enjoy!",
+    "Cook time can be reduced by using pre-cooked sausage.",
+    "Pilaf can be cooked separately and added to the skillet in the final step."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "romantic",
+    "earthy",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-earthy-polish-scallions-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:00:10.822Z"
+}
