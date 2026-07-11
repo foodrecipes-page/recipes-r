@@ -1,0 +1,71 @@
+{
+  "slug": "richly-fermented-malaysian-black-beans-fried-rice",
+  "title": "Fried Black Bean Nasi Goreng",
+  "description": "A spicy Malaysian-inspired fried rice dish packed with black beans and the savory flavors of fermented ingredients.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Chili Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rich Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Malaysian Fried Shallots",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add Malaysian fried shallots and cook until fragrant.",
+    "Add black beans and cook until heated through.",
+    "Add fried rice and stir-fry for 2-3 minutes.",
+    "Pour in fermented chili sauce and rich soy sauce, and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Transfer to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "fried-rice",
+    "black-beans",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-fermented-malaysian-black-beans-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:11:49.872Z"
+}
