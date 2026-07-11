@@ -1,0 +1,91 @@
+{
+  "slug": "rich-british-quinoa-pilaf",
+  "title": "Traditional British Quinoa Pilaf",
+  "description": "A classic British-inspired pilaf dish made with quinoa, rich flavors, and a hint of comfort.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free alternative available"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole, low-fat or nonfat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large saucepan, melt the butter over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Stir in the flour and cook for 1-2 minutes.",
+    "5. Gradually add the chicken broth, whisking continuously to avoid lumps.",
+    "6. Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "7. Stir in the cooked quinoa, milk, and grated cheddar cheese (if using).",
+    "8. Cook for an additional 2-3 minutes or until the quinoa is heated through.",
+    "9. Season with salt and pepper to taste.",
+    "10. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quinoa",
+    "pilaf",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-quinoa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:10:16.062Z"
+}
