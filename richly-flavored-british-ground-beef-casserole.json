@@ -1,0 +1,86 @@
+{
+  "slug": "richly-flavored-british-ground-beef-casserole",
+  "title": "Classic British Beef Casserole",
+  "description": "A hearty, comforting dish made with ground beef, rich gravy, and tender vegetables, perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, carrots, and potatoes to the pan and continue cooking for 5 minutes.",
+    "Add the flour to the pan and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef stock, red wine, and tomato paste to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the mushrooms to the pan and continue simmering for another 5 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with a lid.",
+    "Bake in the preheated oven for 25-30 minutes, or until the casserole is hot and the vegetables are tender.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-british-ground-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:16.501Z"
+}
