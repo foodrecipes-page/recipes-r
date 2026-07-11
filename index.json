@@ -8966,10 +8966,16 @@
   },
   {
     "slug": "rich-savory-venezuelan-black-beans-stew",
-    "title": "Rich Savory Venezuelan Black Beans Stew",
-    "tags": [],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": null,
+    "title": "Venezuelan Black Bean Stew",
+    "tags": [
+      "venezuelan",
+      "bean",
+      "stew",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -13831,17 +13837,16 @@
   },
   {
     "slug": "roasted-crisp-british-potato-gratin",
-    "title": "Roasted Crisp British Potato Gratin",
+    "title": "Roasted British Potato Gratin",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "lazy-sunday",
-      "one-pan",
-      "ovo-vegetarian",
-      "parmesan-cheese"
+      "british",
+      "potatoes",
+      "gratin",
+      "side-dish",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 75,
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
