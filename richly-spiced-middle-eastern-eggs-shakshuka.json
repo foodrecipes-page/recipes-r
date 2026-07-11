@@ -1,0 +1,93 @@
+{
+  "slug": "richly-spiced-middle-eastern-eggs-shakshuka",
+  "title": "Spiced Shakshuka",
+  "description": "A North African-inspired dish where eggs are poached in a rich, flavorful tomato sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "richly spiced",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "shakshuka",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the richly spiced, ground cumin, ground coriander, cayenne pepper (if using), salt, and black pepper. Cook for 1 minute.",
+    "Add the shakshuka and stir to combine. Bring to a simmer.",
+    "Create 4 wells in the sauce and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Serve hot, garnished with fresh parsley or cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "shakshuka",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-middle-eastern-eggs-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:12:53.942Z"
+}
