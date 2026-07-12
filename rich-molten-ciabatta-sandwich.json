@@ -1,0 +1,56 @@
+{
+  "slug": "rich-molten-ciabatta-sandwich",
+  "title": "Grilled Ciabatta Sandwich with Melted Cheese",
+  "description": "A simple, yet delicious sandwich recipe featuring rich, melted cheese and crispy ciabatta bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ciabatta",
+      "amount": "2 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "rich, molten cheese",
+      "amount": "2 cups, shredded",
+      "notes": "such as mozzarella or provolone"
+    },
+    {
+      "name": "sandwich",
+      "amount": "1",
+      "notes": "for inspiration"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Place the ciabatta slices on the grill and cook for 2-3 minutes on each side, or until lightly toasted.",
+    "While the bread is toasting, place the shredded cheese in a bowl and stir to separate the curds.",
+    "Once the bread is ready, place one slice on a flat surface and spoon half of the cheese mixture onto the bread.",
+    "Place the second slice of bread on top of the cheese and press down gently.",
+    "Cook the sandwich in the grill for an additional 2-3 minutes, or until the cheese is melted and the bread is crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheese",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-molten-ciabatta-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:38:49.171Z"
+}
