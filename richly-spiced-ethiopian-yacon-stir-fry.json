@@ -1,0 +1,79 @@
+{
+  "slug": "richly-spiced-ethiopian-yacon-stir-fry",
+  "title": "Spicy Ethiopian Stir Fry",
+  "description": "A flavorful and spicy stir fry dish inspired by Ethiopian cuisine, made with yacon and a variety of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yacon",
+      "amount": "1 medium yacon root, peeled and diced"
+    },
+    {
+      "name": "spiced oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mixture of olive and sesame oil with added spices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the spiced oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the diced yacon and cook for 5-7 minutes, or until it starts to caramelize.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Adjust seasoning and spice level to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "spicy",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-ethiopian-yacon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:32:47.046Z"
+}
