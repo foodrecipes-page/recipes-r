@@ -1,0 +1,82 @@
+{
+  "slug": "redeeming-molten-portuguese-lamb-wrap",
+  "title": "Portuguese Lamb Wrap",
+  "description": "A flavorful wrap filled with tender lamb and crispy vegetables, inspired by traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Lamb",
+      "amount": "0.5 lbs",
+      "notes": "Boneless, thinly sliced"
+    },
+    {
+      "name": "Lamb Rub",
+      "amount": "2 tbsp",
+      "notes": "Combine 1 tsp cumin, 1 tsp paprika, 1 tsp garlic powder"
+    },
+    {
+      "name": "Redeeming Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded, melted"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the lamb with lamb rub, letting it sit for 15 minutes.",
+    "Grill the lamb for 3-4 minutes per side, or until cooked to your liking.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading molten cheese on the center, followed by the grilled lamb, cucumber, tomato, red onion, and parsley.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "lamb",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/redeeming-molten-portuguese-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:13:29.722Z"
+}
