@@ -1,0 +1,81 @@
+{
+  "slug": "resinous-portuguese-almonds-wrap",
+  "title": "Portuguese Almond Wrap",
+  "description": "A traditional Portuguese recipe with a twist, adding some crunchy almonds and a sweet resinous flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup, sliced",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Resinous honey",
+      "amount": "2 tbsp",
+      "notes": "or substitute with regular honey"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Rosemary leaves",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the Portuguese bread into 1-inch thick slices.",
+    "Brush both sides of the bread with olive oil and sprinkle with salt.",
+    "Bake the bread slices in the oven for 5-7 minutes or until lightly toasted.",
+    "In a small pan, heat the resinous honey over medium heat until warm and runny.",
+    "Brush the honey onto the toasted bread slices, leaving a small border around the edges.",
+    "Sprinkle sliced almonds over the honey.",
+    "Add a few rosemary leaves on top of the almonds.",
+    "If using feta cheese, crumble it over the rosemary.",
+    "Fold the bread slices in half to enclose the filling.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "almonds",
+    "honey",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-portuguese-almonds-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:08:47.629Z"
+}
