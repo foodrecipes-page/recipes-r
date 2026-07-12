@@ -1,0 +1,72 @@
+{
+  "slug": "robust-russian-semolina-wrap",
+  "title": "Russian-Style Robust Semolina Wraps",
+  "description": "A hearty breakfast dish featuring robust semolina wraps filled with a savory, Russian-inspired filling.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "robust semolina flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "russian black bread",
+      "amount": "2 cups, cubed"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "6-8, for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine semolina flour and cubed black bread.",
+    "In a separate bowl, whisk together scrambled eggs, mozzarella cheese, salt, and black pepper.",
+    "Add the egg mixture to the semolina mixture and mix until well combined.",
+    "Divide the mixture into 6-8 portions and shape each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the semolina disks for 2-3 minutes on each side, until golden brown.",
+    "Serve the semolina disks wrapped in a wrap with your favorite fillings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "breakfast",
+    "semolina",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-russian-semolina-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:48:00.613Z"
+}
