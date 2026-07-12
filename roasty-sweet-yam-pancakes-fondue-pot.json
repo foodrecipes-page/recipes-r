@@ -1,0 +1,69 @@
+{
+  "slug": "roasty-sweet-yam-pancakes-fondue-pot",
+  "title": "Sweet Roasty Yam Pancakes",
+  "description": "A delicious and fluffy pancake made with roasted sweet yams, perfect for a warm breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "roasty",
+      "amount": "1/4 cup",
+      "notes": "mashed"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4-6 mix",
+      "notes": null
+    },
+    {
+      "name": "fondue",
+      "amount": "2 tablespoons",
+      "notes": "melted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the yam with a fork several times and roast for 45-60 minutes, or until tender.",
+    "Let the yam cool, then mash.",
+    "In a large bowl, whisk together the pancake mix, granulated sweet, and melted fondue.",
+    "Add the mashed yam to the dry ingredients and stir until combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasty-sweet-yam-pancakes-fondue-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:15:17.395Z"
+}
