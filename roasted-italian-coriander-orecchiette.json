@@ -1,0 +1,87 @@
+{
+  "slug": "roasted-italian-coriander-orecchiette",
+  "title": "Roasted Italian Orecchiette",
+  "description": "A hearty, flavorful pasta dish featuring roasted vegetables and Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": "roasted at 425°F (220°C) for 30 minutes"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the sliced zucchini with 1 tbsp olive oil, salt, and Italian seasoning on a baking sheet. Roast for 20 minutes.",
+    "Toss the cherry tomatoes with 1 tbsp olive oil, salt, and Italian seasoning on a baking sheet. Roast for 10-12 minutes.",
+    "Cook the orecchiette pasta according to the package instructions.",
+    "In a large skillet, sauté the minced garlic and chopped coriander in 1 tbsp olive oil until fragrant.",
+    "Add the roasted zucchini and cherry tomatoes to the skillet. Stir to combine.",
+    "Stir in the cooked orecchiette pasta, roasted red peppers, and grated Parmesan cheese.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional Parmesan cheese and Italian seasoning if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "roasted",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-italian-coriander-orecchiette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:11:29.577Z"
+}
