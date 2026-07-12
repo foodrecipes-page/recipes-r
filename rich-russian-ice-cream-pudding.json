@@ -1,0 +1,67 @@
+{
+  "slug": "rich-russian-ice-cream-pudding",
+  "title": "Rich Russian Cream Pudding",
+  "description": "A rich dessert made with cream, pudding, and a hint of Russian flair.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pudding mix",
+      "amount": "1 package",
+      "notes": "Any flavor"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the pudding mix, heavy cream, granulated sugar, and vanilla extract.",
+    "Add the softened butter and whisk until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Serve chilled and enjoy!",
+    "Optional: Top with whipped cream and a sprinkle of sugar, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rich",
+    "russian",
+    "cream",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-russian-ice-cream-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:48:08.199Z"
+}
