@@ -1,0 +1,55 @@
+{
+  "slug": "rich-chewy-lazy-sunday-potatoe-bun",
+  "title": "Sunday Bun Sliders",
+  "description": "A delicious and easy-to-make burger slider perfect for a lazy Sunday afternoon. Made with rich, chewy buns and savory fillings.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rich, chewy buns",
+      "amount": "4",
+      "notes": "preferably freshly baked"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "mashed or diced"
+    },
+    {
+      "name": "bun",
+      "amount": "2",
+      "notes": "for the top and bottom of the slider"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the potato until tender, then mash or dice.",
+    "3. Grill the buns until lightly toasted.",
+    "4. Assemble the sliders by spreading mashed potato on the bottom bun, followed by your desired fillings.",
+    "5. Top with the top bun."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "burger",
+    "slider",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-lazy-sunday-potatoe-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:27:59.507Z"
+}
