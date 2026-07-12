@@ -1,0 +1,93 @@
+{
+  "slug": "rich-spicy-thai-pork-moo-ping",
+  "title": "Spicy Thai Pork Skewers",
+  "description": "A flavorful and spicy Thai-inspired dish featuring marinated pork, served with a side of tangy peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ping",
+      "amount": "2",
+      "notes": "Thai chilies"
+    },
+    {
+      "name": "rich",
+      "amount": "1/2 cup",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "moo",
+      "amount": "1/4 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "spicy",
+      "amount": "2 tbsp",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "for peanut sauce"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine fish sauce, coconut milk, curry paste, garlic, and ginger. Blend until smooth.",
+    "Add the blended mixture to the sliced pork and mix well. Cover and refrigerate for at least 30 minutes or overnight.",
+    "Thread the marinated pork onto skewers, leaving a little space between each piece.",
+    "Brush the grill or grill pan with olive oil and preheat to medium-high heat.",
+    "Grill the pork skewers for 8-10 minutes, turning frequently, until cooked through.",
+    "Meanwhile, prepare the peanut sauce by blending peanuts, fish sauce, and a squeeze of lime juice.",
+    "Serve the grilled pork skewers with a side of peanut sauce for dipping.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spicy",
+    "pork",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spicy-thai-pork-moo-ping",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:02:48.547Z"
+}
