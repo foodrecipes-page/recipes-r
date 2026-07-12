@@ -1,0 +1,106 @@
+{
+  "slug": "rich-spanish-cod-paella",
+  "title": "Spanish Cod Paella",
+  "description": "A classic Spanish dish made with cod, rich saffron-infused rice, and savory vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 cup",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the cod fillets and cook for 2-3 minutes on each side.",
+    "Add the diced tomato, saffron threads, smoked paprika, salt, and black pepper.",
+    "Add the Spanish rice and stir to combine with the vegetables and seafood.",
+    "Cook for 5-7 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fish",
+    "paella",
+    "seafood",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-cod-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:20:24.103Z"
+}
