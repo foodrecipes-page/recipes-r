@@ -1,0 +1,90 @@
+{
+  "slug": "robust-shaggy-canadian-onion-poutine",
+  "title": "Robust Poutine Fritters",
+  "description": "A twist on the classic Canadian dish, these fritters are made with robust mushroom duxelles and crispy poutine bits.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "robust mushrooms",
+      "amount": "1 cup, finely chopped",
+      "notes": "1/2 cup for duxelles"
+    },
+    {
+      "name": "shaggy mushrooms",
+      "amount": "1/2 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "canadian poutine",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a skillet, sauté the chopped onion until translucent. Set aside.",
+    "In the same skillet, add the chopped robust and shaggy mushrooms. Cook until they release their liquid and start to brown.",
+    "Stir in the crumbled poutine and cook until it's lightly toasted.",
+    "In a bowl, whisk together the flour, egg, and grated cheddar. Add the cooked mushroom mixture and stir until combined.",
+    "Season with salt and black pepper to taste.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "Heat about 1/2 inch of oil in a skillet over medium heat. Fry the patties until golden brown and crispy, flipping halfway through.",
+    "Transfer the fritters to a baking sheet and bake in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "mushrooms",
+    "poutine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-shaggy-canadian-onion-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:17:55.199Z"
+}
