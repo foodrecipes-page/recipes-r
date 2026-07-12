@@ -1,0 +1,69 @@
+{
+  "slug": "romantic-pillowy-slovakian-sugar-pastry",
+  "title": "Traditional Slovakian Apple Strudel",
+  "description": "A classic Slovakian dessert made with layers of pillowy pastry, sweet apples, and a hint of sugar.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pastry",
+      "amount": "1 package (thawed)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Apples",
+      "amount": "2-3",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "Romantic",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "In a large bowl, combine the sliced apples, sugar, and romantic (vanilla extract).",
+    "Roll out the pastry on a floured surface to a large rectangle.",
+    "Spread the apple mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the 1-inch border over the filling to create a seal, then roll the strudel into a tight log.",
+    "Place the strudel on a baking sheet lined with parchment paper.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Let the strudel cool for 10 minutes before serving.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dessert",
+    "apples",
+    "strudel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-pillowy-slovakian-sugar-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:16:50.416Z"
+}
