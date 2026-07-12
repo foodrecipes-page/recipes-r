@@ -1,0 +1,84 @@
+{
+  "slug": "roasted-australian-pork-belly-skewers",
+  "title": "Grilled Australian Pork Belly Skewers",
+  "description": "Tender and juicy pork belly skewers marinated in a mixture of soy sauce, brown sugar, and spices, then grilled to perfection.",
+  "cuisine": "australian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian Pork Belly",
+      "amount": "500g",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the pork belly into 1-inch cubes.",
+    "In a large bowl, whisk together brown sugar, soy sauce, garlic, ginger, black pepper, and salt.",
+    "Add the pork cubes to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 5-7 minutes per side, or until the pork is cooked through.",
+    "Serve hot with roasted red pepper slices on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-australian-pork-belly-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:53:51.096Z"
+}
