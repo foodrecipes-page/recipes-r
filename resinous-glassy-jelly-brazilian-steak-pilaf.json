@@ -1,0 +1,67 @@
+{
+  "slug": "resinous-glassy-jelly-brazilian-steak-pilaf",
+  "title": "Brazilian Steak Pilaf",
+  "description": "A flavorful and savory dish featuring grilled Brazilian steak served atop a rich pilaf.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian steak",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "preferably store-bought or homemade"
+    },
+    {
+      "name": "Resinous",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1/4 cup",
+      "notes": "crushed or sliced, for garnish"
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season Brazilian steak with salt and pepper.",
+    "Grill steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Prepare pilaf according to package instructions.",
+    "In a small pan, heat resinous over low heat.",
+    "Add jelly to pan and stir to combine.",
+    "Simmer mixture for 2-3 minutes, or until thickened.",
+    "Serve steak atop pilaf, garnished with crushed glassy and drizzled with resinous-jelly mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "meat",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-glassy-jelly-brazilian-steak-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:29:37.349Z"
+}
