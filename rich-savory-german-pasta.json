@@ -1,0 +1,94 @@
+{
+  "slug": "rich-savory-german-pasta",
+  "title": "Savory German Pasta Bake",
+  "description": "A hearty, comforting dish that combines the flavors of Germany with the ease of a pasta bake. Rich, savory sauce and a blend of cheeses make this a satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook penne pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Stir in canned tomatoes, beef broth, and sour cream. Bring the mixture to a simmer and let cook for 10 minutes.",
+    "In a large bowl, combine cooked pasta, tomato mixture, and chopped parsley. Season with salt and pepper to taste.",
+    "Transfer the pasta mixture to a 9x13-inch baking dish and top with shredded cheddar cheese and grated Parmesan cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-german-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:12:00.519Z"
+}
