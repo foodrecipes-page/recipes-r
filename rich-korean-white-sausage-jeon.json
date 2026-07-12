@@ -1,0 +1,75 @@
+{
+  "slug": "rich-korean-white-sausage-jeon",
+  "title": "Spicy Korean Sausage and Kimchi Pancake",
+  "description": "A spicy Korean-inspired twist on the classic pancake, featuring rich, savory sausage and crispy kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean sausage",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rich egg",
+      "amount": "2"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, water, egg, soy sauce, and gochujang until smooth.",
+    "Add kimchi and Korean sausage to the bowl and stir until well combined.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until the edges start to set.",
+    "Flip the pancake and cook for an additional 1-2 minutes, until golden brown.",
+    "Repeat with remaining batter, until all pancakes are cooked.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "pancake",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-korean-white-sausage-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:55:41.692Z"
+}
