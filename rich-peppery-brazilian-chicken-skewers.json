@@ -1,0 +1,71 @@
+{
+  "slug": "rich-peppery-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with a rich and peppery flavor, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Brazilian pepper sauce",
+      "amount": "1/4 cup",
+      "notes": "or substitute with hot sauce"
+    },
+    {
+      "name": "Rich chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush chicken with Brazilian pepper sauce and sprinkle with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush chimichurri sauce on skewers during the last 2 minutes of cooking.",
+    "Serve immediately, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peppery-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:58:10.596Z"
+}
