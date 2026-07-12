@@ -1,0 +1,74 @@
+{
+  "slug": "rustic-crumbly-vietnamese-gelatin-noodles",
+  "title": "Vietnamese-Style Noodle Dessert",
+  "description": "A light and refreshing dessert made with noodles, gelatin, and a touch of rustic charm.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vietnamese noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Rustic sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly cookie crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Food coloring (optional)",
+      "amount": "a few drops",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the noodles in water for 5-7 minutes, or until softened.",
+    "Drain and cut the noodles into shorter lengths.",
+    "In a separate bowl, dissolve the gelatin in 1 cup of boiling water.",
+    "Add the rustic sugar to the gelatin mixture and stir until dissolved.",
+    "Combine the noodles and gelatin mixture, stirring until well coated.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Refrigerate until set, about 3-4 hours.",
+    "Top with crumbly cookie crumbs before serving.",
+    "If desired, add a few drops of food coloring to tint the dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "dessert",
+    "gelatin",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-crumbly-vietnamese-gelatin-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:42:18.098Z"
+}
