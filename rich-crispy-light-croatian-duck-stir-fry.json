@@ -1,0 +1,85 @@
+{
+  "slug": "rich-crispy-light-croatian-duck-stir-fry",
+  "title": "Crispy Duck Breast with Croatian Stir-Fry",
+  "description": "A delicious and flavorful dish featuring crispy duck breast paired with a rich and spicy Croatian-style stir-fry.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4 x 120g",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the duck breast with salt and black pepper.",
+    "Heat 1 tablespoon of oil in an oven-safe pan over medium heat. Sear the duck breast for 2-3 minutes on each side.",
+    "Transfer the pan to the preheated oven and cook for 12-15 minutes or until the duck reaches 63°C (145°F) for medium-rare.",
+    "While the duck is cooking, heat the remaining 1 tablespoon of oil in a separate pan over medium-high heat.",
+    "Add the sliced onion and bell pepper to the pan and cook for 3-4 minutes or until they start to soften.",
+    "Add the minced garlic and Croatian paprika to the pan and cook for another minute.",
+    "Stir-fry the mixture for a further 2-3 minutes or until the vegetables are tender.",
+    "Remove the duck from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the crispy duck breast with the Croatian-style stir-fry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "croatian",
+    "stir-fry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-light-croatian-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:02.030Z"
+}
