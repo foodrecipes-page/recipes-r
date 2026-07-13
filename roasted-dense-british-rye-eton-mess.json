@@ -1,0 +1,67 @@
+{
+  "slug": "roasted-dense-british-rye-eton-mess",
+  "title": "Eton Mess Trifle",
+  "description": "A classic British dessert made with layers of sweet strawberries, creamy whipped cream, and crunchy meringue pieces. Perfect for warm weather and outdoor gatherings.",
+  "cuisine": "British",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Eton mess",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Meringue pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sherry or Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the Eton mess and strawberries.",
+    "2. In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "3. Fold the whipped cream into the Eton mess mixture until well combined.",
+    "4. Spoon a layer of the mixture into individual serving glasses or a large serving dish.",
+    "5. Drizzle a tablespoon of sherry or Grand Marnier over the top of each layer.",
+    "6. Repeat the layers two more times, ending with a layer of meringue pieces on top.",
+    "7. Dust the top of the trifle with granulated sugar.",
+    "8. Refrigerate for at least 30 minutes before serving.",
+    "9. Just before serving, garnish with additional strawberries and meringue pieces if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "eton mess",
+    "british dessert",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-dense-british-rye-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:41:51.114Z"
+}
