@@ -1,0 +1,83 @@
+{
+  "slug": "rich-smoky-portuguese-liver-stew",
+  "title": "Portuguese Stew with Smoky Rich Flavor",
+  "description": "A hearty, rich stew with smoky flavors, made with tender beef and liver, perfect for a cold winter night.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Liver",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Portuguese Spices (paprika, salt, black pepper)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium-high heat.",
+    "Add the beef stew meat and cook until browned, about 5 minutes.",
+    "Add the liver and cook until browned, about 3 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the tomatoes, beef broth, Portuguese spices, and smoked paprika.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley or thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "smoky-flavor",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-portuguese-liver-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:37:05.308Z"
+}
