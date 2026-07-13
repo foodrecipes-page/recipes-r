@@ -1,0 +1,82 @@
+{
+  "slug": "richly-fermented-uruguayan-squid-ceviche",
+  "title": "Uruguayan Ceviche de Pulpo",
+  "description": "A twist on traditional ceviche, this Uruguayan recipe uses fresh squid and a tangy fermented marinade.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "fresh, cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Fermented Lime Juice",
+      "amount": "1/2 cup",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine squid, fermented lime juice, onion, garlic, and red pepper flakes.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the squid to 'cook' in the acidic marinade.",
+    "Just before serving, stir in chopped cilantro and season with salt and black pepper to taste.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired.",
+    "Note: Traditionally, ceviche is not cooked, as the acidity of the lime juice 'cooks' the seafood. However, if you prefer a more cooked texture, you can add the squid to a skillet over medium heat for 2-3 minutes on each side.",
+    "Let the squid cool to room temperature before serving.",
+    "Serve the ceviche with tortilla chips or tostadas for a fun and easy snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "ceviche",
+    "squid",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-fermented-uruguayan-squid-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:56.852Z"
+}
