@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-creamy-australian-chicken-bowl",
+  "title": "Creamy Chicken Bowl",
+  "description": "A simple and satisfying dish featuring roasted chicken, creamy sauce, and fresh vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Roasted vegetables (such as carrots, zucchini, bell peppers)",
+      "amount": "1 cup",
+      "notes": "any combination of your choice"
+    },
+    {
+      "name": "Creamy sauce (store-bought or homemade)",
+      "amount": "1/2 cup",
+      "notes": "made with heavy cream, Greek yogurt, and herbs"
+    },
+    {
+      "name": "Cooked rice or quinoa",
+      "amount": "1 cup",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Fresh herbs (such as parsley, basil, cilantro)",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "Roast the chicken in the oven for 20-25 minutes or until cooked through.",
+    "While the chicken is cooking, heat the olive oil in a pan over medium heat.",
+    "Add the roasted vegetables to the pan and cook for 3-4 minutes or until tender.",
+    "In a separate saucepan, heat the creamy sauce over low heat.",
+    "To assemble the bowls, place a portion of cooked rice or quinoa on the bottom, followed by a piece of roasted chicken, some roasted vegetables, and a drizzle of creamy sauce.",
+    "Garnish with chopped fresh herbs and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "australian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-creamy-australian-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:53:58.554Z"
+}
