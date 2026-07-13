@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-uruguayan-kale-empanadas",
+  "title": "Uruguayan Empanada Kale Soup",
+  "description": "A hearty and flavorful soup filled with roasted kale and empanadas, inspired by the flavors of Uruguay.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Kale",
+      "amount": "2 cups, chopped",
+      "notes": "From 1 bunch of kale, roasted at 400°F (200°C) for 10 minutes"
+    },
+    {
+      "name": "Uruguayan Empanadas",
+      "amount": "4-6 empanadas, chopped",
+      "notes": "Homemade or store-bought, filled with beef or chicken for added flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the onions and garlic"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "For added flavor and aroma"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "For a rich and savory soup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the soup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the roasted kale and chopped empanadas to the pot.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes, or until the soup has thickened slightly.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with additional roasted kale and empanadas if desired.",
+    "Optional: add a dollop of sour cream or a sprinkle of queso fresco for added creaminess and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "soup",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-kale-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:26:29.277Z"
+}
