@@ -1,0 +1,81 @@
+{
+  "slug": "robust-japanese-grana-padano-gyoza",
+  "title": "Pan-Seared Gyoza with Robust Cheese Sauce",
+  "description": "A Japanese-inspired dish featuring crispy pan-seared gyoza served with a rich and creamy Robust cheese sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gyoza",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Robust cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/4 cup, grated",
+      "notes": "adds a salty finish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium-high heat.",
+    "Add 1 tablespoon of sesame oil and cook the gyoza until golden brown, about 2 minutes per side.",
+    "Remove the gyoza from the pan and set aside.",
+    "In the same pan, add 2 tablespoons of soy sauce and 1 clove of minced garlic.",
+    "Scrape the bottom of the pan to release any browned bits.",
+    "Add 1/2 cup of Robust cheese to the pan and stir until melted.",
+    "Add 1/4 cup of grated Grana Padano cheese to the pan and stir until well combined.",
+    "Return the gyoza to the pan and toss with the cheese sauce until coated.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "cheese-sauce",
+    "pan-seared",
+    "gyoza",
+    "easy-vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-japanese-grana-padano-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:57:58.322Z"
+}
