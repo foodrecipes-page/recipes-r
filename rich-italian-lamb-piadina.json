@@ -1,0 +1,93 @@
+{
+  "slug": "rich-italian-lamb-piadina",
+  "title": "Lamb Piadina Wraps",
+  "description": "A delicious Italian-inspired wrap filled with lamb and served with a rich sauce. This recipe is perfect for a quick and satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "250g",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "Piadina",
+      "amount": "4-6",
+      "notes": "Italian-style flatbread"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add olive oil and sauté the onion and garlic until softened.",
+    "Add the lamb and cook, breaking it up with a spoon, until browned.",
+    "Stir in tomato sauce and bring to a simmer.",
+    "Season with salt and black pepper to taste.",
+    "Warm the piadina according to package instructions.",
+    "Spoon the lamb mixture onto the piadina, followed by mozzarella cheese and fresh basil.",
+    "Fold the piadina in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lamb",
+    "piadina"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-lamb-piadina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:49:26.368Z"
+}
