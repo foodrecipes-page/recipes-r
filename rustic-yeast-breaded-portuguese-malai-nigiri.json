@@ -1,0 +1,67 @@
+{
+  "slug": "rustic-yeast-breaded-portuguese-malai-nigiri",
+  "title": "Portuguese Malai Bites",
+  "description": "A crispy, breaded twist on traditional Portuguese malai. Serve as a snack or appetizer.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese malai",
+      "amount": "1 package"
+    },
+    {
+      "name": "Breaded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Cut the malai into bite-sized pieces.",
+    "In a shallow dish, mix together the flour, salt, and black pepper.",
+    "In another shallow dish, beat the egg.",
+    "Dredge the malai pieces in the flour mixture, then dip in the beaten egg, and finally coat in the breaded mixture.",
+    "Fry the coated malai pieces in the hot oil until golden brown, about 3-4 minutes.",
+    "Remove the fried malai from the oil and drain on paper towels.",
+    "Serve the Portuguese malai bites hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "portuguese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-yeast-breaded-portuguese-malai-nigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:00:46.859Z"
+}
