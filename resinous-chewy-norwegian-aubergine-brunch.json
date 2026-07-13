@@ -1,0 +1,71 @@
+{
+  "slug": "resinous-chewy-norwegian-aubergine-brunch",
+  "title": "Chewy Norwegian Breakfast Pancakes",
+  "description": "A classic breakfast dish from Norway, these chewy pancakes are perfect for a weekend brunch. Serve them warm with fresh fruit and a drizzle of syrup.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "resinous flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chewy milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "a pinch of norwegian salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, milk, egg, and salt. Mix until smooth.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with melted butter and maple syrup, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-pancakes",
+    "norwegian-food",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-chewy-norwegian-aubergine-brunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:16:39.851Z"
+}
