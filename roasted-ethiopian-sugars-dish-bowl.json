@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-ethiopian-sugars-dish-bowl",
+  "title": "Ethiopian Stew in a Roasted Sugar Bowl",
+  "description": "A flavorful and nutritious Ethiopian-inspired stew served in a roasted sugar bowl. This dish showcases the rich flavors of Ethiopia's traditional cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "roasted sugar"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the sugar in the oven for 5-7 minutes, or until caramelized.",
+    "In a large pan, heat oil over medium heat. Add the onion, garlic, and ginger, and cook until softened.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth, roasted sugar, berbere spice, salt, and black pepper. Stir well.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the stew has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew in a roasted sugar bowl, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "sugar",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ethiopian-sugars-dish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:15:48.605Z"
+}
