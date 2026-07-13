@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-peppery-ethiopian-egg-yolks-berbere-stew",
+  "title": "Ethiopian Berbere Stew",
+  "description": "A hearty and aromatic stew inspired by Ethiopian cuisine, made with roasted peppers and served with a fried egg.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Ethiopian Berbere Spice Mix",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add roasted peppers, cook for 2-3 minutes.",
+    "Add tomatoes, berbere spice mix, and a pinch of salt.",
+    "Simmer for 10-15 minutes.",
+    "Serve with fried egg on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "breakfast-for-lunch",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-peppery-ethiopian-egg-yolks-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:45:54.948Z"
+}
