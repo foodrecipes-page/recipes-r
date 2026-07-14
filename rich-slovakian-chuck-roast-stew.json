@@ -1,0 +1,93 @@
+{
+  "slug": "rich-slovakian-chuck-roast-stew",
+  "title": "Slovakian Beef Stew",
+  "description": "Traditional Slovakian beef stew made with tender chunks of beef and rich flavors.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds beef chuck roast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 carrots, peeled and chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 potatoes, peeled and chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the carrots and potatoes, cooking for 5 minutes.",
+    "Add the beef broth, water, tomato paste, and paprika. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "slovakian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-slovakian-chuck-roast-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:45:30.661Z"
+}
