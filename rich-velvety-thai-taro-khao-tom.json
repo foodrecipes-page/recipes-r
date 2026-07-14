@@ -1,0 +1,72 @@
+{
+  "slug": "rich-velvety-thai-taro-khao-tom",
+  "title": "Thai Taro Soup",
+  "description": "A rich and creamy Thai-inspired soup made with taro and a hint of coconut milk.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taro",
+      "amount": "2 cups",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Khao",
+      "amount": "1/2 cup",
+      "notes": "glutinous rice flour"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Tom",
+      "amount": "2 cups",
+      "notes": "water"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and sauté for 1 minute.",
+    "Add taro, coconut milk, and water. Stir well.",
+    "Bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Stir in khao to thicken the soup.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "thaicuisine",
+    "velvety",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-thai-taro-khao-tom",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:23:50.564Z"
+}
