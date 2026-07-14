@@ -1,0 +1,78 @@
+{
+  "slug": "robust-smoky-canadian-lamb-kebabs",
+  "title": "Lamb Kebabs Canadian Style",
+  "description": "A classic North American twist on traditional lamb kebabs, featuring smoky flavor and robust spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Canadian Robust BBQ Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "enhance flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "balance flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "enhance flavor"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together BBQ sauce, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add lamb pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread marinated lamb onto skewers.",
+    "Brush kebabs with vegetable oil and season with additional salt and pepper if desired.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches a safe internal temperature of 145°F.",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "bbq",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-smoky-canadian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:05:05.629Z"
+}
