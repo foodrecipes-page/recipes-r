@@ -1,0 +1,71 @@
+{
+  "slug": "rich-crunchy-turkish-cod-kebabs",
+  "title": "Turkish Cod Kebabs",
+  "description": "A flavorful and healthy dish featuring cod, marinated in a rich Turkish-inspired sauce, then grilled to perfection.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "rich, turkish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic, and paprika.",
+    "Place cod fillets in a shallow dish and brush the marinade on both sides of the fish.",
+    "Sprinkle crunchy breadcrumbs on top of the fish.",
+    "Season with salt and pepper to taste.",
+    "Grill the cod for 4-5 minutes per side, or until cooked through.",
+    "Serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "grilled-fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-turkish-cod-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:48:42.872Z"
+}
