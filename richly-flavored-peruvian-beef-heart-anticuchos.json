@@ -1,0 +1,81 @@
+{
+  "slug": "richly-flavored-peruvian-beef-heart-anticuchos",
+  "title": "Peruvian-Style Beef Heart Anticuchos",
+  "description": "A traditional Peruvian street food dish made with marinated beef heart, grilled to perfection. These anticuchos are a flavorful and healthy snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef Heart",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Aji Panca",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the beef heart into 1-inch pieces.",
+    "In a blender or food processor, combine the red onion, aji amarillo peppers, garlic, cilantro, lime juice, and Peruvian aji panca. Blend until smooth.",
+    "Add the marinade to the beef heart pieces and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the beef heart from the marinade, letting any excess liquid drip off.",
+    "Grill the beef heart for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the anticuchos hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-heart",
+    "peruvian",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-peruvian-beef-heart-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:38:58.066Z"
+}
