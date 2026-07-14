@@ -1,0 +1,81 @@
+{
+  "slug": "radiant-chinese-sweet-potato-stir-fry",
+  "title": "Sweet Potato Stir Fry",
+  "description": "A simple and delicious stir fry recipe using sweet potatoes and a variety of vegetables.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Radiant oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Chinese broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chopped stir fry vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of radiant oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped garlic and ginger and stir-fry for 1 minute.",
+    "Add the chopped Chinese broccoli and stir-fry for 2-3 minutes, or until tender.",
+    "Add the chopped stir fry vegetables and sweet potato and stir-fry for 2-3 minutes, or until the sweet potato is tender.",
+    "In a small bowl, whisk together the soy sauce, salt, and pepper.",
+    "Pour the soy sauce mixture over the stir-fry and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the sweet potato is coated in the sauce.",
+    "Serve hot, garnished with green onions if desired.",
+    "Cook time: 15-20 minutes.",
+    "Prep time: 10 minutes.",
+    "Total time: 25-30 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato-stir-fry",
+    "vegetarian",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-chinese-sweet-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:53:15.274Z"
+}
