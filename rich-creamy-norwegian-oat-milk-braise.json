@@ -1,0 +1,57 @@
+{
+  "slug": "rich-creamy-norwegian-oat-milk-braise",
+  "title": "Norwegian Braised Oatmeal",
+  "description": "A hearty and comforting Norwegian-inspired oatmeal dish made with rich, creamy milk.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": "Rich, creamy milk"
+    },
+    {
+      "name": "Braised",
+      "amount": "1/4 cup",
+      "notes": "Braised in a creamy sauce"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, bring 2 cups of milk to a simmer over medium heat.",
+    "Add 1 cup of oats and stir to combine.",
+    "Reduce heat to low and let cook for 5-7 minutes, stirring occasionally.",
+    "Stir in 1/4 cup of braised mixture (see notes).",
+    "Cook for an additional 2-3 minutes or until oats have absorbed most of the liquid.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "norwegian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-norwegian-oat-milk-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:58:39.017Z"
+}
