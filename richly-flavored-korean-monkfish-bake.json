@@ -1,0 +1,84 @@
+{
+  "slug": "richly-flavored-korean-monkfish-bake",
+  "title": "Korean-Style Baked Monkfish",
+  "description": "A flavorful and spicy dish featuring monkfish baked in a Korean-inspired sauce. This recipe is quick, easy, and perfect for a weeknight dinner.",
+  "cuisine": "korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4-6 pieces",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Rinse the monkfish fillets under cold water, pat dry with paper towels.",
+    "In a small bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger.",
+    "Place the monkfish fillets on the prepared baking sheet, brush the Korean-inspired sauce evenly over both sides of the fillets.",
+    "Sprinkle green onions and crushed black pepper over the top of the fillets.",
+    "Bake for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fish",
+    "baked",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-korean-monkfish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:45:29.141Z"
+}
