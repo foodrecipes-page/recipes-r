@@ -1,0 +1,65 @@
+{
+  "slug": "resinous-slovakian-wheat-flatbread",
+  "title": "Slovakian Wheat Flatbread",
+  "description": "A traditional Slovakian flatbread recipe, perfect for accompanying main courses or as a side dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1/4 cup crumbled (for topping)"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise for 1 hour in a warm place.",
+    "Preheat oven to 400°F (200°C).",
+    "Punch down the dough and roll out into a thin circle.",
+    "Transfer the dough to a baking sheet or flatbread stone.",
+    "Top with crumbled flatbread.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Let cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "slovakian",
+    "bread",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-slovakian-wheat-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:59:33.933Z"
+}
