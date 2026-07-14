@@ -1,0 +1,91 @@
+{
+  "slug": "roasted-algerian-chicken-tacos",
+  "title": "Algerian Chicken Tacos",
+  "description": "A flavorful twist on traditional chicken tacos, this Algerian-inspired recipe combines roasted chicken with a blend of spices and herbs.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, and Algerian spice blend.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the chicken for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a baking sheet and roast in the preheated oven for 10-15 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "While the chicken is cooking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it into thin strips.",
+    "Assemble the tacos by placing a few slices of chicken onto a tortilla, followed by a spoonful of diced roasted red peppers, a sprinkle of parsley, and a squeeze of lime juice.",
+    "Serve immediately and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tacos",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:31:52.156Z"
+}
