@@ -1,0 +1,74 @@
+{
+  "slug": "rapidly-cooked-basque-french-chicken-pilaf",
+  "title": "Basque Chicken Pilaf",
+  "description": "A hearty Basque-inspired pilaf dish with chicken, quickly cooked to perfection. Perfect for a weeknight dinner.",
+  "cuisine": "Basque",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 package",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "rapidly cooked chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "basque seasoning",
+      "amount": "2 teaspoons",
+      "notes": "paprika, garlic powder"
+    },
+    {
+      "name": "french parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the pilaf to the skillet and cook until lightly browned, about 2-3 minutes.",
+    "Add the basque seasoning to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Reduce heat to low and simmer, covered, until the chicken is cooked through and the liquid has been absorbed, about 5-7 minutes.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "chicken",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rapidly-cooked-basque-french-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:48:30.847Z"
+}
