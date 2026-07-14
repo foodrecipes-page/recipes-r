@@ -4849,15 +4849,14 @@
   },
   {
     "slug": "rich-dense-japanese-porridge-oats-porridge",
-    "title": "Japanese-Style Porridge",
+    "title": "Japanese-Style Oat Porridge",
     "tags": [
-      "japanese-cuisine",
-      "comfort-food",
-      "fodmap-friendly",
-      "porridge"
+      "breakfast",
+      "oatmeal",
+      "japanese"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -6457,17 +6456,14 @@
   },
   {
     "slug": "rich-kenyan-fish-pasta",
-    "title": "Rich Kenyan Fish Pasta",
+    "title": "Kenyan Fish Pasta",
     "tags": [
-      "healthy",
-      "kenyan-cuisine",
-      "pasta-dish",
-      "pescatarian",
-      "sous-vide",
-      "weeknight"
+      "kenyan",
+      "fish-pasta",
+      "curry"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
