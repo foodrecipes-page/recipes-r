@@ -1,0 +1,84 @@
+{
+  "slug": "rich-kenyan-fish-pasta",
+  "title": "Kenyan Fish Pasta",
+  "description": "A flavorful and spicy Kenyan-inspired dish featuring fish and pasta.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta (500g)",
+      "amount": "500g",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "Fish ( tilapia or similar)",
+      "amount": "400g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Rich's Curry Powder",
+      "amount": "2 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the fish pieces and cook until browned on both sides, about 4-5 minutes.",
+    "Add the tomato paste and stir to combine.",
+    "Add the curry powder and stir to combine.",
+    "Add the cooked pasta to the pan, tossing to combine with the fish and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish-pasta",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:42:39.625Z"
+}
