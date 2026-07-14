@@ -1,0 +1,88 @@
+{
+  "slug": "richly-spiced-vietnamese-tofu-bun-cha",
+  "title": "Vietnamese Rice Noodle Bowl",
+  "description": "A flavorful and easy-to-make Vietnamese dish featuring rice noodles, spiced tofu, and served with crispy bun.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 package",
+      "notes": "8 oz"
+    },
+    {
+      "name": "Spiced tofu",
+      "amount": "1 block",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Bun",
+      "amount": "1 package",
+      "notes": "6 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "Cut the spiced tofu into small cubes and pan-fry until golden brown.",
+    "Crisp the bun in a pan with a little oil until golden brown.",
+    "In a large bowl, combine the cooked noodles, tofu, and crispy bun.",
+    "In a small pan, heat the soy sauce, ginger, and garlic over low heat.",
+    "Pour the sauce over the noodle mixture and toss to combine.",
+    "Garnish with cilantro and serve with a squeeze of lime juice and a drizzle of hoisin sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "vegetarian",
+    "noodle-bowl",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-vietnamese-tofu-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:57:18.111Z"
+}
