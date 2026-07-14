@@ -1,0 +1,93 @@
+{
+  "slug": "rich-uruguayan-lentil-curry",
+  "title": "Uruguayan Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, made with lentils, rich beef broth, and a hint of curry.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "rich beef broth is essential to this uruguayan dish"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and celery. Cook until the vegetables are tender.",
+    "Add curry powder and cook for 1 minute.",
+    "Add lentils, beef broth, tomato paste, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes or until the lentils are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "uruguayan",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:34:48.926Z"
+}
