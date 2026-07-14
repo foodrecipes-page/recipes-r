@@ -1,0 +1,68 @@
+{
+  "slug": "robust-crumbly-venezuelan-speck-empanadas",
+  "title": "Venezuelan Empanada Filling",
+  "description": "A delicious and easy-to-make filling for empanadas, inspired by the flavors of Venezuela.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan cheese",
+      "amount": "8 oz",
+      "notes": "a type of queso fresco"
+    },
+    {
+      "name": "crumbly plantain",
+      "amount": "1 ripe plantain",
+      "notes": "mashed"
+    },
+    {
+      "name": "speck of onion",
+      "amount": "1 small onion",
+      "notes": "minced"
+    },
+    {
+      "name": "robust garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mash the plantain and mix with minced onion and garlic.",
+    "Add the Venezuelan cheese and mix until well combined.",
+    "Place the empanada dough on a floured surface and roll out to about 1/4 inch thickness.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the cheese mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanada",
+    "latin-american",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-crumbly-venezuelan-speck-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:33:24.675Z"
+}
