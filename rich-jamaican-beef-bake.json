@@ -1,0 +1,93 @@
+{
+  "slug": "rich-jamaican-beef-bake",
+  "title": "Jamaican Beef Bake",
+  "description": "A hearty, flavorful beef dish with a rich Jamaican twist. Perfect for a comforting dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Lean beef, cut into 1-inch pieces"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Rich",
+      "amount": "1/2 cup",
+      "notes": "Butter, softened"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "2 tablespoons",
+      "notes": "Allspice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the beef over medium-high heat until browned. Remove from heat and set aside.",
+    "In the same skillet, cook the onion, bell pepper, and garlic until the vegetables are tender.",
+    "Add the allspice, Worcestershire sauce, and tomato to the skillet. Cook for 1 minute.",
+    "In a large bowl, whisk together the flour, butter, and sour cream (if using).",
+    "Add the cooked beef back into the bowl and mix well to coat with the flour mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until the beef is cooked through and the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "jamaican",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-jamaican-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:51:13.395Z"
+}
