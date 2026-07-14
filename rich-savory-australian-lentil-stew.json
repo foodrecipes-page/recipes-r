@@ -1,0 +1,89 @@
+{
+  "slug": "rich-savory-australian-lentil-stew",
+  "title": "Australian Lentil Stew",
+  "description": "A hearty, comforting stew filled with the flavors of Australia, made with red lentils and a variety of savory vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic and cook, stirring constantly, for 1 minute.",
+    "Add carrots and celery and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add lentils, beef broth, thyme, and salt. Bring to a boil, then reduce heat to low and simmer, covered, until lentils are tender, about 30 minutes.",
+    "Season with additional salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "18g",
+    "carbs": "45g",
+    "fat": "9g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-australian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:18:54.390Z"
+}
