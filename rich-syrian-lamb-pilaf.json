@@ -1,0 +1,95 @@
+{
+  "slug": "rich-syrian-lamb-pilaf",
+  "title": "Lamb Pilaf with Rich Flavor",
+  "description": "A hearty, flavorful pilaf dish made with lamb and spices. A perfect one-pot meal.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless and cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Syrian spice mix",
+      "amount": "",
+      "notes": "(or make your own mix of cumin, coriander, cinnamon, and allspice)"
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf spice mix",
+      "amount": "",
+      "notes": "(or use a combination of saffron, turmeric, and paprika)"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the Syrian spice mix and cook for 1 minute.",
+    "Add the rice, pilaf spice mix, and chicken broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes.",
+    "Return the lamb to the pot and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Let the pilaf rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "middle-eastern",
+    "one-pot-meal",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-syrian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:28:19.322Z"
+}
