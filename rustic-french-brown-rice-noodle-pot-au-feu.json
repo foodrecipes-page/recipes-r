@@ -1,0 +1,99 @@
+{
+  "slug": "rustic-french-brown-rice-noodle-pot-au-feu",
+  "title": "Rustic French Chicken Casserole",
+  "description": "A hearty, comforting casserole made with chicken, vegetables, and a rich sauce, all topped with a crispy crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free alternative: rice flour"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Saute the onion, carrot, and celery in butter until tender.",
+    "Add the mushroom and cook until softened.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the chicken broth, whisking constantly.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Stir in heavy cream and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "In a separate pan, cook the chicken breast until browned and cooked through.",
+    "Transfer the chicken to a 9x13 inch baking dish.",
+    "Pour the sauce over the chicken.",
+    "Top with shredded gruyère cheese.",
+    "Bake for 20-25 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "french",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-french-brown-rice-noodle-pot-au-feu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:25:59.984Z"
+}
