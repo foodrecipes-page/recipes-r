@@ -1,0 +1,93 @@
+{
+  "slug": "rounded-yeasty-korean-tofu-jeon",
+  "title": "Spicy Korean Jeon with Tofu and Sesame",
+  "description": "A twist on traditional Korean-style pancakes, this version features crispy tofu and a side of spicy dipping sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Jeon mix (Korean pancake mix)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Rounded Korean cheddar",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together jeon mix, soy sauce, and sesame oil.",
+    "Add the shredded Korean cheddar and mix until combined.",
+    "Cut the tofu into small cubes and add to the bowl.",
+    "Mix well to combine.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "Flip the jeon and cook for an additional 2 minutes, until golden brown.",
+    "Repeat with the remaining batter, adjusting the heat as needed.",
+    "Serve the jeon hot with a side of spicy dipping sauce (made by whisking together gochujang and soy sauce).",
+    "Garnish with chopped green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pancake",
+    "breakfast",
+    "veggie",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rounded-yeasty-korean-tofu-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:40:09.571Z"
+}
