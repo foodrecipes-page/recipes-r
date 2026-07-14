@@ -1,0 +1,64 @@
+{
+  "slug": "rich-dense-japanese-porridge-oats-porridge",
+  "title": "Japanese-Style Oat Porridge",
+  "description": "Warm and comforting, this Japanese-style oat porridge is made with rich and creamy flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green tea",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the oats and reduce heat to low; simmer for 5-7 minutes.",
+    "Stir in the milk, honey, vanilla extract, and green tea.",
+    "Continue to simmer for an additional 2-3 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Serve warm, topped with your choice of toppings if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-japanese-porridge-oats-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:05:46.990Z"
+}
