@@ -1,0 +1,92 @@
+{
+  "slug": "rich-algerian-chickpea-tagine",
+  "title": "Algerian Chickpea Stew",
+  "description": "A flavorful and aromatic stew originating from Algeria, made with rich chickpeas, and spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened (5 minutes).",
+    "Stir in cumin, coriander, and cayenne pepper, cook for 1 minute.",
+    "Add chickpeas, salt, and tagine. Stir well to combine.",
+    "Bring to a simmer, reduce heat to low, and cook for 20 minutes.",
+    "Stir in parsley, and cook for a further 2 minutes.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Optional: Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "chickpea",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-algerian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:45:05.434Z"
+}
