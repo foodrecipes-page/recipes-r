@@ -1,0 +1,78 @@
+{
+  "slug": "rich-british-mushroom-stir-fry",
+  "title": "Classic British Beef Stir Fry",
+  "description": "A simple and flavorful stir fry recipe made with tender beef and a variety of British vegetables.",
+  "cuisine": "british",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin) strips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (button)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed British vegetables (carrots, peas, onions)",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Rich beef stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large frying pan over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes. Remove from the pan and set aside.",
+    "Add the mixed British vegetables to the pan and cook until tender, about 3-4 minutes.",
+    "Add the mushrooms to the pan and cook until they release their moisture and start to brown, about 2-3 minutes.",
+    "Return the beef to the pan and pour in the stir fry sauce. Stir to combine and cook for 1-2 minutes.",
+    "Add the beef stock to the pan and bring to a simmer. Cook for 2-3 minutes or until the sauce has thickened slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mushrooms",
+    "british",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-mushroom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:55:29.544Z"
+}
