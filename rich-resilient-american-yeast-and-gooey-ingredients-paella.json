@@ -1,0 +1,97 @@
+{
+  "slug": "rich-resilient-american-yeast-and-gooey-ingredients-paella",
+  "title": "Classic American Paella",
+  "description": "A hearty, one-pot dish that combines the flavors of Spanish paella with American ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sausages",
+      "amount": "1 lb",
+      "notes": "such as chorizo or chicken sausage"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "chicken or beef broth works too"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the sausages and cook until browned, about 5 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the diced onion and minced garlic and cook until the onion is translucent.",
+    "Add the diced tomato and cook for 2-3 minutes.",
+    "Add the paella rice and stir to coat the rice in the oil and mix with the vegetables.",
+    "Add the vegetable broth, smoked paprika, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the cover and cook for an additional 5-10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "paella",
+    "chicken",
+    "shrimp",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-resilient-american-yeast-and-gooey-ingredients-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:35:09.295Z"
+}
