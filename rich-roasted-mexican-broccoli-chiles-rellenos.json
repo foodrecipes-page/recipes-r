@@ -1,0 +1,91 @@
+{
+  "slug": "rich-roasted-mexican-broccoli-chiles-rellenos",
+  "title": "Roasted Mexican Stuffed Peppers",
+  "description": "A flavorful and nutritious dish filled with the rich flavors of roasted vegetables and Mexican spices, served in crunchy bell peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "roasted chiles",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "rellenos",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 cup",
+      "notes": "steamed and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove seeds and membranes.",
+    "In a pan, heat 2 tbsp of oil over medium heat. Add onion and cook until softened.",
+    "Add roasted chiles, rellenos, broccoli, cumin, salt, and pepper. Cook for 5 minutes.",
+    "Stuff each bell pepper with the mixture and top with cheddar cheese.",
+    "Bake for 20-25 minutes or until bell peppers are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "stuffed peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-mexican-broccoli-chiles-rellenos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:42:39.143Z"
+}
