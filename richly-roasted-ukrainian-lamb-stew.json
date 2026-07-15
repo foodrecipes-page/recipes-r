@@ -1,0 +1,93 @@
+{
+  "slug": "richly-roasted-ukrainian-lamb-stew",
+  "title": "Braised Lamb Stew",
+  "description": "A hearty and flavorful lamb stew, perfect for a cold winter's night. This Ukrainian-inspired dish is rich in flavors and tender in texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb to the pot and brown it on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened, about 5 minutes.",
+    "Add the chopped carrots, potatoes, and beets to the pot and cook for 5 minutes.",
+    "Add the browned lamb back to the pot, along with the salt, black pepper, and thyme.",
+    "Pour in enough beef broth to cover the lamb and vegetables, and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ukrainian",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-ukrainian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:51:05.043Z"
+}
