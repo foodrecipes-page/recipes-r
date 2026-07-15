@@ -1,0 +1,57 @@
+{
+  "slug": "rich-egg-chinese-bake",
+  "title": "Rich Baked Egg",
+  "description": "A simple yet satisfying breakfast dish featuring a rich egg baked in a crispy, flaky crust. Perfect for a cozy morning.",
+  "cuisine": "Western",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large egg"
+    },
+    {
+      "name": "Rich",
+      "amount": "1",
+      "notes": "2 tablespoons of rich, crumbled bacon"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "1 pie crust, thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a pie dish.",
+    "In a bowl, whisk the egg and crumbled bacon together. Season with salt and pepper to taste.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake for 20-25 minutes, or until the crust is golden brown and the egg is set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "bacon",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-egg-chinese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:38:10.348Z"
+}
