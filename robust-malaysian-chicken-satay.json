@@ -1,0 +1,94 @@
+{
+  "slug": "robust-malaysian-chicken-satay",
+  "title": "Malaysian-Style Chicken Satay",
+  "description": "A popular Southeast Asian dish of marinated chicken grilled to perfection and served with spicy peanut sauce. Perfect for a quick dinner or as an appetizer.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into skewer-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "1 cup",
+      "notes": "For serving (store-bought or homemade)"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, lime juice, ginger, garlic, soy sauce, and brown sugar. Blend until smooth.",
+    "Add the chicken to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "In a small saucepan, combine peanut butter, 2 tablespoons of water, and 1 tablespoon of soy sauce. Whisk until smooth.",
+    "Serve the grilled chicken with peanut sauce, satay sauce, and your favorite sides, such as rice or vegetables.",
+    "Optional: Garnish with fresh cilantro, basil, or mint leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "satay",
+    "malaysian",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:57:39.022Z"
+}
