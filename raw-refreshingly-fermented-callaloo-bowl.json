@@ -1,0 +1,76 @@
+{
+  "slug": "raw-refreshingly-fermented-callaloo-bowl",
+  "title": "Callaloo and Fermented Bowl",
+  "description": "A refreshing and healthy bowl filled with nutrient-rich callaloo and fermented ingredients.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "raw almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced fresh ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the callaloo and chop it into bite-sized pieces.",
+    "Heat the coconut oil in a pan over medium heat.",
+    "Add the minced ginger and sauté for 1 minute.",
+    "Add the chopped callaloo and sauté for 3-4 minutes, or until it's tender.",
+    "Stir in the fermented vegetables and cook for another minute.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a bowl and top with chopped cilantro, raw almonds, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "healthy",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-refreshingly-fermented-callaloo-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:42:44.782Z"
+}
