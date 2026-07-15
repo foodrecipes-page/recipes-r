@@ -1,0 +1,93 @@
+{
+  "slug": "rich-midnight-peruvian-cheese-tagine",
+  "title": "Peruvian Midnight Beef Tagine",
+  "description": "A hearty beef stew inspired by Peruvian cuisine, rich in flavor and aroma. The midnight ingredient adds a subtle mystery to this dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound), cut into 2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion (1)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "midnight (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper (1)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cheese (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "shredded (optional)"
+    },
+    {
+      "name": "rich (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix (2 teaspoons)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove from the pot and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, midnight, and pepper; cook for 1 minute.",
+    "Add the broth, return the beef to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "Stir in the cheese and cook until melted and well combined.",
+    "Season with tagine spice mix and serve hot, garnished with a sprinkle of rich."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-midnight-peruvian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:13:58.550Z"
+}
