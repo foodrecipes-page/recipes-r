@@ -1,0 +1,77 @@
+{
+  "slug": "rich-savory-argentinian-white-beans-stew",
+  "title": "Argentinian Bean Stew",
+  "description": "A hearty and flavorful stew inspired by the rich culinary traditions of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White beans",
+      "amount": "1 cup, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Savory stew mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the rich beef broth in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the stew mix, tomato, and white beans. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with argentinian spices to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-stew",
+    "argentinian-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-savory-argentinian-white-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:30:35.655Z"
+}
