@@ -5095,16 +5095,14 @@
   },
   {
     "slug": "rich-egg-chinese-bake",
-    "title": "Rich Egg Chinese Bake",
+    "title": "Rich Baked Egg",
     "tags": [
-      "rich",
+      "breakfast",
       "egg",
-      "chinese",
-      "shandong",
-      "orange juice",
-      "nut-free"
+      "bacon",
+      "pie"
     ],
-    "cuisine": "Shandong (Chinese)",
+    "cuisine": "Western",
     "totalTimeMin": 30,
     "shard": "r"
   },
@@ -12923,17 +12921,14 @@
   },
   {
     "slug": "richly-toasted-american-nut-tagine",
-    "title": "Richly Toasted American Nut Tagine",
+    "title": "Tagine Chicken with Toasted Nuts",
     "tags": [
-      "american",
-      "crispy",
-      "nutty",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "north-african",
+      "chicken",
+      "tagine"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -13767,20 +13762,15 @@
   },
   {
     "slug": "roasted-crisp-tunisian-mars-bar-toast",
-    "title": "Roasted Crisp Tunisian Mars Bar Toast",
+    "title": "Mars Bar Crisp Sundae",
     "tags": [
-      "crisp",
-      "dessert",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "roasted",
-      "snack",
-      "tunisian"
+      "chocolate",
+      "peanut",
+      "sweet",
+      "munchie"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "r"
   },
   {
@@ -15040,16 +15030,16 @@
   },
   {
     "slug": "roasted-peruvian-tamarind-pulp-causa-lima",
-    "title": "Roasted Peruvian Tamarind Pulp Causa Lima",
+    "title": "Peruvian Roasted Lima Causa",
     "tags": [
-      "causa-lima",
-      "gluten-free",
-      "pandan-leaf",
       "peruvian",
-      "tamarind"
+      "roasted",
+      "lima",
+      "vegan",
+      "causa"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
