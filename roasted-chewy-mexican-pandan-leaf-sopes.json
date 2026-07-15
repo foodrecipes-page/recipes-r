@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-chewy-mexican-pandan-leaf-sopes",
+  "title": "Pandan Sopes with Roasted Meats",
+  "description": "A twist on traditional Mexican sopes, these are filled with roasted meats and topped with a side of chewy leafy greens.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "roasted pork",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sopes",
+      "amount": "8",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chewy leafy greens",
+      "amount": "1 cup",
+      "notes": "such as kale or collard greens"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Shred the roasted pork and mix with soy sauce and lime juice. Set aside.",
+    "Prepare the sopes according to package instructions.",
+    "Top each sope with a spoonful of the pork mixture, followed by a sprinkle of shredded cheese (if using).",
+    "Top each sope with a small handful of chewy leafy greens.",
+    "Garnish with a fresh pandan leaf.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pandan",
+    "mexican",
+    "sopes",
+    "roasted-pork",
+    "leafy-greens"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-chewy-mexican-pandan-leaf-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:09.051Z"
+}
