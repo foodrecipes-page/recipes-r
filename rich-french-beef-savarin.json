@@ -1,0 +1,90 @@
+{
+  "slug": "rich-french-beef-savarin",
+  "title": "French Beef Bourguignon",
+  "description": "A classic French stew made with tender beef, rich flavors, and a hint of French flair.",
+  "cuisine": "French",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "2 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef short ribs in batches until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are softened.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the red wine to the pot, scraping up any browned bits from the bottom.",
+    "Add the beef broth, tomato paste, and thyme to the pot.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the beef in the oven for 2 1/2 hours, or until the meat is tender.",
+    "Serve the beef and vegetables hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "french",
+    "boudin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-french-beef-savarin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:34:34.331Z"
+}
