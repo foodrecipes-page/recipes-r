@@ -4152,10 +4152,16 @@
   },
   {
     "slug": "rich-creamy-spanish-chickpea-stew",
-    "title": "Rich Creamy Spanish Chickpea Stew",
-    "tags": [],
+    "title": "Spanish Chickpea Stew",
+    "tags": [
+      "spanish",
+      "chickpea",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
     "cuisine": "Spanish",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -8411,17 +8417,16 @@
   },
   {
     "slug": "rich-russian-garlic-stir-fry",
-    "title": "Rich Russian Garlic Stir-fry",
+    "title": "Garlic Beef Stir Fry",
     "tags": [
-      "rich",
-      "stir-fry",
-      "monsoon",
+      "beef",
       "russian",
+      "stir-fry",
       "garlic",
-      "vegan"
+      "easy"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 13,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -12367,13 +12372,12 @@
   },
   {
     "slug": "richly-roasted-ukrainian-lamb-stew",
-    "title": "Richly Roasted Ukrainian Lamb Stew",
+    "title": "Braised Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "low-carb",
-      "one-pot"
+      "lamb",
+      "stew",
+      "ukrainian",
+      "braised"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 180,
@@ -12760,17 +12764,15 @@
   },
   {
     "slug": "richly-spiced-syrian-lamb-kebabs",
-    "title": "Richly Spiced Syrian Lamb Kebabs",
+    "title": "Spiced Lamb Kebabs",
     "tags": [
-      "high-protein",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "syrian-cuisine",
+      "grilled-kebabs",
+      "lamb-recipe",
+      "summer-dinner"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 31,
     "shard": "r"
   },
   {
@@ -13735,16 +13737,14 @@
   },
   {
     "slug": "roasted-crisp-chinese-black-olives-kung-pao",
-    "title": "Roasted Crisp Chinese Black Olives Kung Pao",
+    "title": "Crispy Black Olives Stir Fry",
     "tags": [
-      "kung-pao",
-      "one-pan",
-      "quick-and-easy",
-      "sichuan",
-      "vegetarian"
+      "chinese-cuisine",
+      "stir-fry",
+      "easy-dinner"
     ],
-    "cuisine": "sichuan",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "r"
   },
   {
@@ -18361,15 +18361,15 @@
   },
   {
     "slug": "romantic-algerian-lamb-roast",
-    "title": "algerian lamb roast",
+    "title": "Roasted Algerian Lamb",
     "tags": [
       "algerian",
       "lamb",
       "romantic",
-      "yeast"
+      "dinner"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 300,
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
