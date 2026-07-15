@@ -5489,17 +5489,15 @@
   },
   {
     "slug": "rich-fluffy-russian-banana-wrap",
-    "title": "Rich Fluffy Russian Banana Wrap",
+    "title": "Russian Banana Wrap",
     "tags": [
-      "banana-recipes",
-      "easy-snack",
-      "mustard-based",
-      "russian-cuisine",
-      "ssam-wrap",
-      "vegan-friendly"
+      "dessert",
+      "russian",
+      "banana",
+      "wrap"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21064,6 +21062,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crispy-turkish-tomato-flatbread--italian",
+    "title": "Bruschetta Italiano",
+    "tags": [
+      "italian",
+      "appetizer",
+      "bruschetta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "r"
   }
 ]
