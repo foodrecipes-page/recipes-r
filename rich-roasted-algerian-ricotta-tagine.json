@@ -1,0 +1,76 @@
+{
+  "slug": "rich-roasted-algerian-ricotta-tagine",
+  "title": "Algerian Tagine Cake with Ricotta Glaze",
+  "description": "A rich dessert made with roasted tagine spices, topped with a creamy ricotta glaze. Perfect for a sweet treat.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ricotta",
+      "amount": "1 cup",
+      "notes": "Whole-milk ricotta"
+    },
+    {
+      "name": "Rich Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Roasted Almonds",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease a 9-inch (23cm) round cake pan and dust with caster sugar.",
+    "In a large bowl, whisk together ricotta, tagine spice blend, and roasted almonds.",
+    "Add eggs one at a time, whisking well after each addition.",
+    "Melt butter and allow to cool slightly.",
+    "Whisk in melted butter and mix until smooth.",
+    "Pour batter into prepared pan and smooth top.",
+    "Bake for 30-35 minutes or until a toothpick inserted comes out clean.",
+    "Remove from oven and let cool in pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "To make ricotta glaze, whisk together ricotta and 1 tablespoon caster sugar in a bowl until smooth.",
+    "Drizzle glaze over cooled cake and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cake",
+    "dessert",
+    "ricotta",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-algerian-ricotta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:33:23.579Z"
+}
