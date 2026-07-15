@@ -1,0 +1,63 @@
+{
+  "slug": "radiant-slovakian-ricotta-bowl",
+  "title": "Slovakian Ricotta Crepes",
+  "description": "Delight in these thin Slovakian-inspired crepes filled with a creamy ricotta mixture, perfect for a light dessert or snack.",
+  "cuisine": "slovakian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "1 cup",
+      "notes": "Whole-milk ricotta for best flavor"
+    },
+    {
+      "name": "radiant",
+      "amount": "2 tablespoons",
+      "notes": "Add a touch of radiant's sweetness to balance out the ricotta"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 teaspoon",
+      "notes": "A pinch of traditional Slovakian spice adds depth to the filling"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "Granulated sugar to balance out the flavors"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the ricotta, radiant, slovakian, and sugar until smooth.",
+    "Heat a small non-stick pan over medium heat.",
+    "Brush the pan with a small amount of oil to prevent sticking.",
+    "Pour in a small amount of batter and tilt the pan to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for an additional 30 seconds to 1 minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all the crepes are cooked."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepes",
+    "ricotta",
+    "dessert",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-slovakian-ricotta-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:41:31.777Z"
+}
