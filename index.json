@@ -603,12 +603,13 @@
     "slug": "rapidly-cooked-basque-french-chicken-pilaf",
     "title": "Basque Chicken Pilaf",
     "tags": [
-      "basque",
       "chicken",
-      "pilaf"
+      "pilaf",
+      "basque",
+      "lunch"
     ],
     "cuisine": "Basque",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -5530,17 +5531,14 @@
   },
   {
     "slug": "rich-french-beef-savarin",
-    "title": "Rich French Beef Savarin",
+    "title": "French Beef Bourguignon",
     "tags": [
       "beef",
-      "gluten-free",
-      "main-course",
-      "one-pan",
-      "solo-dinner",
-      "weeknight"
+      "french",
+      "boudin"
     ],
     "cuisine": "French",
-    "totalTimeMin": 210,
+    "totalTimeMin": 180,
     "shard": "r"
   },
   {
@@ -21074,6 +21072,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-peruvian-tamarind-pulp-causa-lima--french",
+    "title": "Roasted Lima Causa Tarts",
+    "tags": [
+      "french",
+      "peruvian",
+      "vegetarian",
+      "appetizer"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-german-pork-stew--indian",
+    "title": "German Pork Stew",
+    "tags": [
+      "german",
+      "indian",
+      "stew",
+      "pork",
+      "hearty"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 115,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-raw-dutch-beet-tagine--german",
+    "title": "Beet and Beet Tagine Stew",
+    "tags": [
+      "german",
+      "stew",
+      "beet",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "r"
   }
 ]
