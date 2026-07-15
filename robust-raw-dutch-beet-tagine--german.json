@@ -1,0 +1,64 @@
+{
+  "slug": "robust-raw-dutch-beet-tagine--german",
+  "title": "Beet and Beet Tagine Stew",
+  "description": "A hearty German-inspired stew made with beet and tagine, perfect for a chilly evening. This robust and flavorful dish is sure to become a new favorite.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beet",
+      "amount": "2 large"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raw",
+      "amount": "1 cup"
+    },
+    {
+      "name": "robust",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Peel and chop the beet into large chunks.",
+    "In a large Dutch oven, heat the robust in a saucepan over medium heat.",
+    "Add the chopped beet and cook until it starts to soften.",
+    "Add the tagine, raw, and dutch to the pot. Stir to combine.",
+    "Transfer the pot to the preheated oven and braise for 45 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "beet",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-raw-dutch-beet-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:32:03.290Z"
+}
