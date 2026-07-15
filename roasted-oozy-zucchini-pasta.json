@@ -1,0 +1,56 @@
+{
+  "slug": "roasted-oozy-zucchini-pasta",
+  "title": "Zucchini Pasta with Oozy Sauce",
+  "description": "A quick and easy summer pasta dish featuring roasted zucchini, pasta, and a creamy oozy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "roasted"
+    },
+    {
+      "name": "Oozy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "While the pasta cooks, slice the roasted zucchini into thin strips.",
+    "In a large skillet, combine the sliced zucchini and 1/4 cup of the oozy sauce. Heat over medium heat until the sauce is bubbly and the zucchini is well coated.",
+    "Drain the cooked pasta and add it to the skillet with the zucchini and oozy sauce. Toss everything together until the pasta is well coated.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "zucchini",
+    "italian",
+    "vegetarian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-oozy-zucchini-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:16:41.950Z"
+}
