@@ -1,0 +1,95 @@
+{
+  "slug": "richly-spiced-syrian-lamb-kebabs",
+  "title": "Spiced Lamb Kebabs",
+  "description": "A flavorful and aromatic dish from the Syrian cuisine, perfect for a summer night. This recipe serves 4-6 people and can be adjusted to suit your taste.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably leg of lamb or shoulder"
+    },
+    {
+      "name": "Richly spiced kebab marinade",
+      "amount": "1/4 cup",
+      "notes": "see instructions for ingredients"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine kebab marinade ingredients: 2 cloves of garlic, 1 tablespoon olive oil, 1 tablespoon lemon juice, 1 teaspoon dried oregano, 1/2 teaspoon ground cumin, 1/4 teaspoon cayenne pepper, salt, and black pepper.",
+    "Add the lamb to the blender and blend until well combined.",
+    "Thread the lamb, onion, bell pepper, and tomato onto skewers.",
+    "Brush the skewers with the remaining olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb reaches a minimum internal temperature of 145°F (63°C).",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with fresh parsley and serve hot.",
+    "Serve with a side of rice, salad, or pita bread.",
+    "For a more intense flavor, let the lamb marinate for 30 minutes to 1 hour before grilling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian-cuisine",
+    "grilled-kebabs",
+    "lamb-recipe",
+    "summer-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:15:41.436Z"
+}
