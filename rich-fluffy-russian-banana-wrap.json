@@ -1,0 +1,75 @@
+{
+  "slug": "rich-fluffy-russian-banana-wrap",
+  "title": "Russian Banana Wrap",
+  "description": "A delicious and unique dessert wrap filled with sweet banana and rich, fluffy Russian-inspired cream.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large Banana",
+      "amount": "1"
+    },
+    {
+      "name": "Phyllo Dough (for wrap)",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Confectioner's Sugar (for dusting)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Melted Butter (for brushing)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the phyllo dough on a flat surface and brush the top layer with melted butter.",
+    "Mix the mascarpone cheese, granulated sugar, flour, and vanilla extract in a bowl until smooth.",
+    "Peel the banana and place it in the center of the phyllo dough.",
+    "Spread the mascarpone mixture on top of the banana.",
+    "Fold the phyllo dough over the filling to form a triangle or roll.",
+    "Brush the top layer with melted butter and bake for 15-20 minutes.",
+    "Dust with confectioner's sugar and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "russian",
+    "banana",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-fluffy-russian-banana-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:16:46.819Z"
+}
