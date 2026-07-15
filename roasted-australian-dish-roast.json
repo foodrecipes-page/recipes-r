@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-australian-dish-roast",
+  "title": "Australian Roast Beef with Roasted Vegetables",
+  "description": "A classic Australian-inspired roast beef dish with tender roast vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef roast",
+      "amount": "1.5 kg",
+      "notes": "choose a 1.5 kg beef roast for a family dinner"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh rosemary leaves for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting vegetables"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the beef roast with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe pan over high heat.",
+    "Sear the beef roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes per kilogram, or until the internal temperature reaches 60°C (140°F) for medium-rare.",
+    "While the beef is roasting, toss the carrots, potatoes, and onion with the remaining 1 tablespoon of olive oil, salt, and pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove the beef from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve the sliced beef with the roasted vegetables and garnish with fresh rosemary leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "roast",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "55g",
+    "carbs": "20g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-australian-dish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:23:06.986Z"
+}
