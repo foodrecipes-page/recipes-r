@@ -1,0 +1,88 @@
+{
+  "slug": "rich-russian-garlic-stir-fry",
+  "title": "Garlic Beef Stir Fry",
+  "description": "A quick and flavorful beef stir fry with garlic and a hint of Russian-inspired spices. Serve over rice for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat-dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "250g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "rich beef broth",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Russian flat-leaf parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or peanut oil"
+    },
+    {
+      "name": "fry",
+      "amount": "2 eggs",
+      "notes": "Beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of stir-fry oil.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef broth and bring to a simmer.",
+    "Return the cooked beef to the skillet and stir to coat with the sauce.",
+    "Add the chopped parsley and stir-fry for 1 minute.",
+    "Push the beef and sauce to one side of the skillet.",
+    "Add the beaten eggs to the other side and scramble until cooked through.",
+    "Mix the eggs with the beef and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "russian",
+    "stir-fry",
+    "garlic",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-russian-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:22:08.497Z"
+}
