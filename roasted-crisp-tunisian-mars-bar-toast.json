@@ -1,0 +1,62 @@
+{
+  "slug": "roasted-crisp-tunisian-mars-bar-toast",
+  "title": "Mars Bar Crisp Sundae",
+  "description": "A unique dessert made by combining the crunchy texture of crisps with the sweet taste of mars bars.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars Bars",
+      "amount": "4"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 cup",
+      "notes": "any flavor"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tunisian honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bar of chocolate",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Crush the Mars bars and mix with the roasted peanuts.",
+    "Add the crushed crisp to the Mars mixture.",
+    "Mix the Tunisian honey with the mixture.",
+    "If desired, add a broken bar of chocolate for extra flavor.",
+    "Serve the mixture in a bowl and top with more crushed crisp.",
+    "Add additional toppings as desired.",
+    "Enjoy your Mars Bar Crisp Sundae!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "peanut",
+    "sweet",
+    "munchie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crisp-tunisian-mars-bar-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:44:43.170Z"
+}
