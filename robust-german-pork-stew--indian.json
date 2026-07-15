@@ -1,0 +1,94 @@
+{
+  "slug": "robust-german-pork-stew--indian",
+  "title": "German Pork Stew",
+  "description": "A hearty and flavorful stew that combines the best of German and Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato and cook for another 5 minutes.",
+    "Add the cubed pork and cook until browned, about 5 minutes.",
+    "Stir in the tomato puree, curry powder, garam masala, salt, and black pepper.",
+    "Add the water or beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 90,
+  "totalTimeMin": 115,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "indian",
+    "stew",
+    "pork",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-german-pork-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:31:53.812Z"
+}
