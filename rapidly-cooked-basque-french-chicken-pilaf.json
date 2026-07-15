@@ -1,74 +1,71 @@
 {
   "slug": "rapidly-cooked-basque-french-chicken-pilaf",
   "title": "Basque Chicken Pilaf",
-  "description": "A hearty Basque-inspired pilaf dish with chicken, quickly cooked to perfection. Perfect for a weeknight dinner.",
+  "description": "A flavorful one-pot dish from the Basque region, featuring chicken, pilaf, and French flair.",
   "cuisine": "Basque",
-  "diet": [
-    "omnivore"
-  ],
-  "meal": "dinner",
+  "diet": null,
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "chicken breast",
-      "amount": "1 pound",
-      "notes": "boneless, skinless"
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
     },
     {
       "name": "pilaf",
-      "amount": "1 package",
-      "notes": "pre-cooked"
+      "amount": "1 cup",
+      "notes": "uncooked"
     },
     {
-      "name": "rapidly cooked chicken broth",
-      "amount": "4 cups",
-      "notes": "low sodium"
-    },
-    {
-      "name": "basque seasoning",
-      "amount": "2 teaspoons",
-      "notes": "paprika, garlic powder"
-    },
-    {
-      "name": "french parsley",
-      "amount": "1 bunch",
-      "notes": "chopped"
+      "name": "French garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
     },
     {
       "name": "olive oil",
-      "amount": "2 tablespoons",
-      "notes": "for cooking"
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "rapidly-cooked onion",
+      "amount": "1 cup",
+      "notes": "chopped"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
-    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes.",
-    "Remove the chicken from the skillet and set aside.",
-    "Add the remaining 1 tablespoon of olive oil to the skillet.",
-    "Add the pilaf to the skillet and cook until lightly browned, about 2-3 minutes.",
-    "Add the basque seasoning to the skillet and stir to combine.",
-    "Add the chicken broth to the skillet and bring to a boil.",
-    "Return the chicken to the skillet and stir to combine.",
-    "Reduce heat to low and simmer, covered, until the chicken is cooked through and the liquid has been absorbed, about 5-7 minutes.",
-    "Stir in the chopped parsley and serve hot."
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add pilaf and cook for 2 minutes.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "Stir in cooked onion and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "basque",
     "chicken",
-    "pilaf"
+    "pilaf",
+    "basque",
+    "lunch"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 40,
-    "carbs": 20,
-    "fat": 20
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/rapidly-cooked-basque-french-chicken-pilaf",
   "providerUsed": "groq",
-  "createdAt": "2026-07-13T05:48:30.847Z"
+  "createdAt": "2026-07-14T17:35:44.767Z"
 }
