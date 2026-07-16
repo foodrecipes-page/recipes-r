@@ -1,0 +1,84 @@
+{
+  "slug": "rich-smoky-rye-bake--thai",
+  "title": "Smoky Rye Baked Fish",
+  "description": "A Thai-inspired dish featuring smoky fish baked with rich flavors and served with a side of rye.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked fish",
+      "amount": "1 pound",
+      "notes": "such as salmon or mackerel"
+    },
+    {
+      "name": "rich fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as nam pla"
+    },
+    {
+      "name": "rye flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tablespoon",
+      "notes": "such as soy sauce or oyster sauce"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the baking sheet"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grease a baking sheet with vegetable oil.",
+    "Dust the rye flour on a plate.",
+    "Place the smoked fish on the plate and coat both sides with rye flour.",
+    "In a small bowl, mix together the rich fish sauce, bake, chili flakes, and brown sugar.",
+    "Brush the mixture evenly over both sides of the fish.",
+    "Place the fish on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "thai",
+    "baked",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-rye-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:01:11.420Z"
+}
