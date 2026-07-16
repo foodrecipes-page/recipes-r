@@ -1,0 +1,82 @@
+{
+  "slug": "rich-peruvian-beef-pollo-a-la-brasa--japanese",
+  "title": "Beef Yakitori",
+  "description": "A Japanese-inspired dish featuring grilled beef skewers, marinated in a sweet soy sauce mixture. Perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, mirin, sake, and sugar to make the marinade.",
+    "Add the sliced beef to the marinade and mix well to coat.",
+    "Refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread the beef onto skewers, leaving a small space between each piece.",
+    "Brush the grill with sesame oil to prevent sticking.",
+    "Grill the beef for 2-3 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve hot, garnished with green onions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peruvian-beef-pollo-a-la-brasa--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:07:01.766Z"
+}
