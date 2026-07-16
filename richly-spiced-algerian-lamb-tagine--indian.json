@@ -1,0 +1,94 @@
+{
+  "slug": "richly-spiced-algerian-lamb-tagine--indian",
+  "title": "Spiced Lamb Tagine",
+  "description": "A rich and flavorful Indian-inspired dish made with tender lamb, aromatic spices, and a blend of sweet and tangy flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, then remove from the pot and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add cumin, coriander, cinnamon, and cayenne pepper, and cook for 1 minute.",
+    "Return the lamb to the pot and add enough water to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-algerian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:17:59.957Z"
+}
