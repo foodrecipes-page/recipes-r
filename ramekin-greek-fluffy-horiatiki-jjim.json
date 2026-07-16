@@ -1,0 +1,56 @@
+{
+  "slug": "ramekin-greek-fluffy-horiatiki-jjim",
+  "title": "Greek Yogurt Fluffy Dessert",
+  "description": "A light and airy dessert made with Greek yogurt, perfect for warm weather. Serve chilled and garnish with fresh fruit.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fluffy marshmallow creme",
+      "amount": "4 oz"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a ramekin, mix together the Greek yogurt, fluffy marshmallow creme, and sugar until smooth.",
+    "Add vanilla extract and mix well.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with fresh fruit if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "dessert",
+    "yogurt",
+    "marshmallow"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ramekin-greek-fluffy-horiatiki-jjim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:31:53.291Z"
+}
