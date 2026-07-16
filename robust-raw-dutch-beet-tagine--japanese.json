@@ -1,0 +1,95 @@
+{
+  "slug": "robust-raw-dutch-beet-tagine--japanese",
+  "title": "Beet Tagine Beef Kabobs",
+  "description": "A Japanese-inspired twist on traditional tagine, featuring marinated beet and beef kabobs grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "beet",
+      "amount": "2 medium, peeled and chopped",
+      "notes": null
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tablespoon",
+      "notes": "Dutch mustard"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "robust",
+      "amount": "1 tablespoon",
+      "notes": "Robust red wine"
+    },
+    {
+      "name": "raw",
+      "amount": "1 tablespoon",
+      "notes": "Raw honey"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kabobs"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, Dutch mustard, and robust red wine. Add chopped beets and let marinate for 30 minutes.",
+    "3. Add beef to the marinade and let it sit for 10-15 minutes.",
+    "4. Thread beef and beets onto skewers, leaving a small space between each piece.",
+    "5. In a small bowl, mix together tagine spice blend and raw honey. Brush the mixture onto the kabobs.",
+    "6. Brush cooking oil onto the grill grates and place kabobs on the grill.",
+    "7. Cook for 8-10 minutes, turning occasionally, until beef is cooked to desired doneness.",
+    "8. Transfer kabobs to a serving platter and top with chopped green onion and sesame seeds.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "beet",
+    "japanese",
+    "grilled",
+    "kabobs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-raw-dutch-beet-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:03:52.875Z"
+}
