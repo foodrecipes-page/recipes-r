@@ -1,0 +1,87 @@
+{
+  "slug": "rich-buttery-polish-pork-skewers--french",
+  "title": "Pork and Polish Sausage Skewers",
+  "description": "A delicious and easy French-inspired dish featuring marinated pork and polish sausage on skewers, grilled to perfection.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "4 sausages, sliced",
+      "notes": " casings removed"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, melted butter, garlic, thyme, salt, and pepper.",
+    "Add pork and polish sausage to the bowl and toss to coat.",
+    "Thread pork and sausage onto skewers, leaving a small space between each piece.",
+    "Brush skewers with remaining marinade.",
+    "Grill skewers for 8-10 minutes per side, or until pork reaches an internal temperature of 145°F.",
+    "Remove skewers from grill and let rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "grilled",
+    "skewers",
+    "pork",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 12,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-polish-pork-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:37:04.228Z"
+}
