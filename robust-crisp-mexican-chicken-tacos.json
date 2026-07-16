@@ -1,0 +1,73 @@
+{
+  "slug": "robust-crisp-mexican-chicken-tacos",
+  "title": "Crispy Chicken Tacos",
+  "description": "A delicious twist on traditional tacos, featuring crispy chicken and a variety of flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crisp tortillas",
+      "amount": "6-8",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 small",
+      "notes": "Optional"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 small",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a shallow dish, mix together taco seasoning and 1 tablespoon of oil.",
+    "Dip each chicken breast into the taco seasoning mixture, coating both sides evenly.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the chicken is done, let it cool for a few minutes before slicing it into thin strips.",
+    "Assemble the tacos by placing a few slices of chicken onto a tortilla, followed by a sprinkle of cheese, some diced onion and bell pepper (if using), and a dollop of your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-crisp-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:39:54.056Z"
+}
