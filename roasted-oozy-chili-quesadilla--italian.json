@@ -1,0 +1,82 @@
+{
+  "slug": "roasted-oozy-chili-quesadilla--italian",
+  "title": "Italian Quesadilla Chili",
+  "description": "A spicy twist on the classic quesadilla, filled with oozy cheese and chili peppers, served with a side of roasted vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Oozy Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Quesadilla Filling (pre-made)",
+      "amount": "1",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Brush both sides of the quesadilla with olive oil.",
+    "Place the quesadilla in the skillet and sprinkle with roasted red peppers and mozzarella cheese.",
+    "Cook for 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Sprinkle with chili flakes if desired.",
+    "Transfer the quesadilla to a cutting board and sprinkle with chopped basil.",
+    "Cut the quesadilla into wedges and serve immediately.",
+    "Serve with roasted vegetables on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chili",
+    "quesadilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-oozy-chili-quesadilla--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:38:59.346Z"
+}
