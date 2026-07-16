@@ -1,0 +1,80 @@
+{
+  "slug": "rich-polish-kielbasa-stew--chinese",
+  "title": "Kielbasa and Vegetables Stir Fry",
+  "description": "A Chinese-inspired dish combining the flavors of kielbasa with stir-fried vegetables and a hint of polish flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "rich vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "polish stew",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the kielbasa and cook until browned, about 3-4 minutes.",
+    "Remove the kielbasa from the skillet and set aside.",
+    "Add the onion and bell pepper to the skillet and cook until tender, about 4-5 minutes.",
+    "Add the stew, soy sauce, ginger, and garlic to the skillet and cook for 1 minute.",
+    "Return the kielbasa to the skillet and stir to combine.",
+    "Add the sugar snap peas and cook until tender, about 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the kielbasa and vegetables hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kielbasa",
+    "stir-fry",
+    "vegetables",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-polish-kielbasa-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:09:10.719Z"
+}
