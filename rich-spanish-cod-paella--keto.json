@@ -1,0 +1,90 @@
+{
+  "slug": "rich-spanish-cod-paella--keto",
+  "title": "Spanish Cod Paella",
+  "description": "A keto version of the classic Spanish dish, featuring pan-seared cod and a flavorful paella-style rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice, gluten-free"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 cup",
+      "notes": "Spanish sausage, sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the shrimp and cook until pink, about 2 minutes.",
+    "Add the cod fillets and cook for 2-3 minutes per side.",
+    "Add the Spanish rice to the skillet and stir to combine with the cooked ingredients.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Season with smoked paprika, salt, and pepper to taste.",
+    "Serve the cod and paella hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "fish",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-cod-paella--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:33:48.727Z"
+}
