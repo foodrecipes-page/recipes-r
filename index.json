@@ -9071,17 +9071,15 @@
   },
   {
     "slug": "rich-silky-greek-cheonggukjang-bowl",
-    "title": "Rich Silky Greek Cheonggukjang Bowl",
+    "title": "Cheonggukjang Stew with Greek Yogurt",
     "tags": [
-      "anti-inflammatory",
-      "greek-cuisine",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "quick-meal"
+      "korean",
+      "stew",
+      "spicy",
+      "veggie"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 20,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21124,6 +21122,58 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crispy-turkish-tomato-flatbread--vegan",
+    "title": "Turkish Vegan Flatbread",
+    "tags": [
+      "vegan",
+      "turkish",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-peruvian-tamarind-pulp-causa-lima--german",
+    "title": "Peruvian-Style Causa Limena with a German Twist",
+    "tags": [
+      "german",
+      "peruvian",
+      "potato",
+      "chicken",
+      "lunch",
+      "causa"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crispy-turkish-tomato-flatbread--japanese",
+    "title": "Japanese-Style Flatbread Topping",
+    "tags": [
+      "japanese",
+      "easy",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-german-pork-stew--vegetarian",
+    "title": "Vegetarian German Stew",
+    "tags": [
+      "german",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "r"
   }
 ]
