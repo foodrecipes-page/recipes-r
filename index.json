@@ -1518,18 +1518,17 @@
   },
   {
     "slug": "refreshing-citrusy-croatian-pineapple-skewers",
-    "title": "Croatian Pineapple Skewers",
+    "title": "Grilled Shrimp Skewers with Lemon and Pineapple",
     "tags": [
-      "citrusy",
-      "croatian",
-      "gluten-free",
-      "pineapple",
-      "refreshing",
+      "grilled",
+      "shrimp",
       "skewers",
-      "vegetarian"
+      "lemon",
+      "pineapple",
+      "summer"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -21174,6 +21173,59 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-raw-dutch-beet-tagine--japanese",
+    "title": "Beet Tagine Beef Kabobs",
+    "tags": [
+      "beef",
+      "beet",
+      "japanese",
+      "grilled",
+      "kabobs"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crispy-turkish-tomato-flatbread--german",
+    "title": "German-Style Flatbread with Turkish-Style Tomato Tapenade",
+    "tags": [
+      "german-cuisine",
+      "turkish-cuisine",
+      "snack-ideas",
+      "vegetarian-recipes",
+      "easy-recipes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-spring-italian-lamb-risotto--german",
+    "title": "Lamb and Mushroom Risotto",
+    "tags": [
+      "german",
+      "lamb",
+      "mushroom",
+      "risotto"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-french-beef-savarin--german",
+    "title": "Savarin Beef Rouladen",
+    "tags": [
+      "german",
+      "beef",
+      "savarin"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
     "shard": "r"
   }
 ]
