@@ -1,0 +1,94 @@
+{
+  "slug": "roasted-spicy-middle-eastern-chicken-roast",
+  "title": "Roasted Middle Eastern Chicken",
+  "description": "A flavorful roasted chicken dish with a blend of Middle Eastern spices and a hint of heat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken (whole)",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together cumin, coriander, paprika, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken.",
+    "Drizzle olive oil over the chicken and rub it in.",
+    "Squeeze lemon juice over the chicken and sprinkle minced garlic on top.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "chicken",
+    "roasted",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-spicy-middle-eastern-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:36:17.581Z"
+}
