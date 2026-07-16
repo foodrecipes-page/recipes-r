@@ -1,0 +1,77 @@
+{
+  "slug": "rich-crispy-turkish-tomato-flatbread--vegan",
+  "title": "Turkish Vegan Flatbread",
+  "description": "A crispy and flavorful flatbread inspired by Turkish cuisine, made with rich ingredients and perfect for snacking.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Tomato",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "Rich Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Red Onion",
+      "amount": "1 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roll out the flatbread to a thickness of 1/4 inch.",
+    "3. Brush the flatbread with rich olive oil.",
+    "4. Top the flatbread with diced Turkish tomato, thinly sliced crispy red onion, minced garlic, and a sprinkle of salt.",
+    "5. Bake the flatbread in the preheated oven for 15-20 minutes, or until crispy and golden brown.",
+    "6. Remove the flatbread from the oven and sprinkle with chopped fresh parsley.",
+    "7. Cut the flatbread into slices and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "turkish",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-turkish-tomato-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:32.959Z"
+}
