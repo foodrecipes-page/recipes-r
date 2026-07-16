@@ -15653,17 +15653,15 @@
   },
   {
     "slug": "roasted-spicy-middle-eastern-chicken-roast",
-    "title": "Roasted Spicy Middle Eastern Chicken Roast",
+    "title": "Roasted Middle Eastern Chicken",
     "tags": [
-      "chicken-roast",
-      "gluten-free",
       "middle-eastern",
-      "one-pan",
-      "spicy",
-      "whole30"
+      "chicken",
+      "roasted",
+      "dinner"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
@@ -21314,6 +21312,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 36,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-mustardy-mediterranean-lentils-stew--vegan",
+    "title": "Lentil Stew",
+    "tags": [
+      "lentil stew",
+      "vegan stew",
+      "mediterranean stew"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 55,
     "shard": "r"
   }
 ]
