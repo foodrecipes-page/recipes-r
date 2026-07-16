@@ -1,0 +1,95 @@
+{
+  "slug": "roasted-peruvian-tamarind-pulp-causa-lima--german",
+  "title": "Peruvian-Style Causa Limena with a German Twist",
+  "description": "A creamy potato and chicken dish with Peruvian flavors, given a German twist with the addition of sauerkraut and mustard.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian causa pulp",
+      "amount": "1 cup",
+      "notes": "or regular potato pulp"
+    },
+    {
+      "name": "Roasted chicken breast",
+      "amount": "1 breast",
+      "notes": "diced"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "or tamarind sauce"
+    },
+    {
+      "name": "Sauteed onions",
+      "amount": "1/2 cup",
+      "notes": "or caramelized onions"
+    },
+    {
+      "name": "Sauteed sauerkraut",
+      "amount": "1 cup",
+      "notes": "with caraway seeds and black pepper"
+    },
+    {
+      "name": "German mustard",
+      "amount": "1 tablespoon",
+      "notes": "or Dijon mustard"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "or parsley"
+    },
+    {
+      "name": "Lima beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Dice the roasted chicken breast and set aside.",
+    "In a large bowl, combine the potato pulp, mashed lima beans, tamarind paste, sautéed onions, sautéed sauerkraut, and diced chicken breast. Mix well.",
+    "Add the German mustard, chopped cilantro, salt, and pepper to the bowl and mix until combined.",
+    "Transfer the mixture to a baking dish and dot the top with butter.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "peruvian",
+    "potato",
+    "chicken",
+    "lunch",
+    "causa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-peruvian-tamarind-pulp-causa-lima--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:38.362Z"
+}
