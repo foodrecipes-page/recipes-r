@@ -1,0 +1,84 @@
+{
+  "slug": "rich-greek-ground-meat-baked-pastitsio--vegan",
+  "title": "Vegan Pastitsio",
+  "description": "A rich, baked pasta dish inspired by Greek cuisine, adapted to be vegan-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free pasta",
+      "amount": "1 pound",
+      "notes": "(such as brown rice pasta)"
+    },
+    {
+      "name": "rich tomato sauce",
+      "amount": "2 cups",
+      "notes": "(homemade or store-bought)"
+    },
+    {
+      "name": "ground meat substitute",
+      "amount": "1 cup",
+      "notes": "(such as lentils or tempeh)"
+    },
+    {
+      "name": "baked eggplant",
+      "amount": "2 medium",
+      "notes": "(see note)"
+    },
+    {
+      "name": "vegan bechamel sauce",
+      "amount": "1 cup",
+      "notes": "(see note)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplant into rounds and bake in the oven for 20 minutes.",
+    "Cook the pasta according to package instructions.",
+    "In a pan, sauté the ground meat substitute with olive oil until browned.",
+    "Add the tomato sauce and stir to combine.",
+    "In a separate saucepan, heat the vegan bechamel sauce over low heat.",
+    "In a 9x13 inch baking dish, create a layer of pasta, followed by a layer of the meat sauce, and then a layer of bechamel sauce. Repeat this process until all ingredients are used, finishing with a layer of bechamel sauce on top.",
+    "Bake in the preheated oven for 30-40 minutes, or until the top is golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "greek",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-greek-ground-meat-baked-pastitsio--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:03:10.947Z"
+}
