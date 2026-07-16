@@ -1,0 +1,90 @@
+{
+  "slug": "rich-spring-italian-lamb-risotto--german",
+  "title": "Lamb and Mushroom Risotto",
+  "description": "A hearty German-inspired risotto dish featuring lamb and spring mushrooms.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "spring mushrooms",
+      "amount": "2 cups",
+      "notes": "Sliced"
+    },
+    {
+      "name": "rich mushroom broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "italian risotto rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the white wine and cook until it's almost completely evaporated.",
+    "Add 1/2 cup of the mushroom broth and cook until it's mostly absorbed.",
+    "Repeat the process of adding the broth in 1/2 cup increments, stirring constantly and allowing each portion to be absorbed before adding the next.",
+    "After 20 minutes of cooking, the risotto should be creamy and the liquid should have been absorbed.",
+    "Stir in the cooked lamb and mushroom mixture.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "mushroom",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spring-italian-lamb-risotto--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:53:05.249Z"
+}
