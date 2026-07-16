@@ -1,0 +1,98 @@
+{
+  "slug": "robust-roasted-russian-beef-pie",
+  "title": "Beef and Russian Pie",
+  "description": "A hearty beef pie filled with a rich and savory Russian-inspired filling.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "pirogovka",
+      "amount": "1 cup",
+      "notes": "or Russian beef gravy mix"
+    },
+    {
+      "name": "robust coffee",
+      "amount": "2 tablespoons",
+      "notes": "strongly brewed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "roasted salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the pirogovka and brewed coffee, and bring the mixture to a simmer.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "In a separate bowl, mix together the flour and a pinch of salt.",
+    "Gradually add the flour mixture to the beef mixture, stirring constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the beaten egg and cook for an additional 2-3 minutes, or until the filling has thickened.",
+    "Roll out the pie dough to a thickness of about 1/8 inch.",
+    "Spoon the beef filling into the center of the pie dough, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pie dough with a little water, then fold the dough over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pie to allow steam to escape.",
+    "Place the pie on a baking sheet and brush the top with a little bit of egg wash.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "pie",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-roasted-russian-beef-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:48:39.981Z"
+}
