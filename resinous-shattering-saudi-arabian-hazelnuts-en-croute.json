@@ -1,0 +1,68 @@
+{
+  "slug": "resinous-shattering-saudi-arabian-hazelnuts-en-croute",
+  "title": "Saudi Arabian Hazelnut Cakes",
+  "description": "A rich and crunchy dessert originating from Saudi Arabia, made with hazelnuts and a touch of sweetness.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Saudi Arabian Resinous Crote",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Shattering Sugar",
+      "amount": "1/2 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "En Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Croute Flour",
+      "amount": "1 1/2 cups",
+      "notes": "All-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, whisk together crote, shattering sugar, and cinnamon.",
+    "Add chopped hazelnuts and mix until well combined.",
+    "In a separate bowl, whisk together croute flour and a pinch of salt.",
+    "Add dry ingredients to the hazelnut mixture and mix until a dough forms.",
+    "Drop spoonfuls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Allow cakes to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "saudi-arabian",
+    "hazelnut"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-shattering-saudi-arabian-hazelnuts-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:32:29.277Z"
+}
