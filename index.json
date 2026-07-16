@@ -10660,16 +10660,15 @@
   },
   {
     "slug": "rich-uruguayan-oat-stew",
-    "title": "Rich Uruguayan Oat Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "one-pot",
-      "uruguayan-cuisine"
+      "beef-stew",
+      "uruguayan-cuisine",
+      "hearty-meals",
+      "comfort-food"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 60,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 210,
     "shard": "r"
   },
   {
@@ -21375,6 +21374,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 26,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-polish-kielbasa-stew--chinese",
+    "title": "Kielbasa and Vegetables Stir Fry",
+    "tags": [
+      "kielbasa",
+      "stir-fry",
+      "vegetables",
+      "chinese-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
