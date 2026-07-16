@@ -1,0 +1,87 @@
+{
+  "slug": "rich-mustardy-mediterranean-lentils-stew--vegan",
+  "title": "Lentil Stew",
+  "description": "A hearty and comforting lentil stew, perfect for a cold day. This vegan recipe is made with red lentils, onions, garlic, and a blend of aromatic spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for another 5 minutes.",
+    "Add lentils, Mediterranean seasoning, thyme, and tomato paste. Stir to combine.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30-40 minutes, or until lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil stew",
+    "vegan stew",
+    "mediterranean stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mustardy-mediterranean-lentils-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:20:12.410Z"
+}
