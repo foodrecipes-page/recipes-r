@@ -21258,5 +21258,30 @@
     "cuisine": "italian",
     "totalTimeMin": 20,
     "shard": "r"
+  },
+  {
+    "slug": "rich-peruvian-beef-pollo-a-la-brasa--japanese",
+    "title": "Beef Yakitori",
+    "tags": [
+      "beef",
+      "japanese",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "r"
+  },
+  {
+    "slug": "rarely-velvety-chinese-fish-bao--keto",
+    "title": "Pan-Seared Fish Bao",
+    "tags": [
+      "keto",
+      "chinese",
+      "fish",
+      "bao"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
+    "shard": "r"
   }
 ]
