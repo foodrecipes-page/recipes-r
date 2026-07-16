@@ -1,0 +1,78 @@
+{
+  "slug": "rich-crispy-turkish-tomato-flatbread--keto",
+  "title": "Turkish Keto Flatbread",
+  "description": "A crispy keto flatbread recipe inspired by Turkish cuisine, made with rich flavors and perfect for snacking or as a side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "full-fat for keto"
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine almond flour, egg, Greek yogurt, Turkish Spice Mix, and salt. Mix well to form a dough.",
+    "Divide the dough into 2-3 equal portions, depending on desired flatbread size.",
+    "Roll out each portion into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with olive oil.",
+    "Bake for 12-15 minutes, or until crispy and golden brown.",
+    "Remove from oven and garnish with parsley, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": "2-3",
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "turkish",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-turkish-tomato-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:38:17.062Z"
+}
