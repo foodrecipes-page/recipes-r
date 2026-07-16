@@ -1,0 +1,92 @@
+{
+  "slug": "robust-german-pork-stew--vegetarian",
+  "title": "Vegetarian German Stew",
+  "description": "A hearty and comforting German-inspired stew made with robust vegetables and a variety of flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth (vegetarian version)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "dry thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion, carrots, and celery. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth, thyme, salt, and pepper. Bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the potatoes and continue to simmer for an additional 15 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-german-pork-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:00:19.250Z"
+}
