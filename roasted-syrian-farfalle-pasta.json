@@ -1,0 +1,70 @@
+{
+  "slug": "roasted-syrian-farfalle-pasta",
+  "title": "Pasta Primavera with Roasted Vegetables",
+  "description": "A colorful and flavorful spring-inspired pasta dish loaded with roasted vegetables and tossed in a light sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Syran Bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Farfalle Pasta",
+      "amount": "8 oz, cooked al dente"
+    },
+    {
+      "name": "Roasted Vegetables (bell peppers, zucchini, cherry tomatoes)",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the cubed bread with olive oil, salt, and pepper on a baking sheet and roast for 5-7 minutes.",
+    "In a large skillet, heat olive oil over medium-high. Add garlic and sauté for 1 minute.",
+    "Add the roasted vegetables to the skillet and cook for 2-3 minutes.",
+    "Add the cooked farfalle pasta to the skillet and toss with the vegetables and garlic.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta mixture to a serving dish and top with roasted bread and basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-syrian-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:57:23.171Z"
+}
