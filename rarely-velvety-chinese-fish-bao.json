@@ -1,0 +1,79 @@
+{
+  "slug": "rarely-velvety-chinese-fish-bao",
+  "title": "Pan-Seared Fish Bao",
+  "description": "A delicate and flavorful dish where fish is pan-seared to perfection and served in a soft and fluffy Chinese bao. Perfect for a quick and easy dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bao (4 pieces)",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium-high heat.",
+    "2. Add vegetable oil and swirl to coat the pan.",
+    "3. Season the fish with soy sauce, garlic, and ginger.",
+    "4. Add the fish to the pan and sear for 3-4 minutes on each side.",
+    "5. Remove the fish from the pan and set aside.",
+    "6. Warm the bao in the pan for 1-2 minutes.",
+    "7. Assemble the bao by placing a piece of fish in each bao.",
+    "8. Garnish with green onions and serve immediately.",
+    "9. Serve with your favorite dipping sauce.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rarely-velvety-chinese-fish-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:01:46.183Z"
+}
