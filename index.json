@@ -17227,16 +17227,15 @@
   },
   {
     "slug": "robust-roasted-russian-beef-pie",
-    "title": "Robust Roasted Russian Beef Pie",
+    "title": "Beef and Russian Pie",
     "tags": [
-      "flexitarian-friendly",
-      "hearty-dish",
-      "post-workout",
-      "russian-cuisine",
-      "winter-nights"
+      "beef",
+      "russian",
+      "pie",
+      "dinner"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -21324,6 +21323,58 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-silky-light-zanzibari-poffertjes--thai",
+    "title": "Thai Poffertjes with Silky Coconut Sauce",
+    "tags": [
+      "thai",
+      "dessert",
+      "coconut",
+      "poffertjes",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-greek-ground-meat-baked-pastitsio--vegan",
+    "title": "Vegan Pastitsio",
+    "tags": [
+      "vegan",
+      "greek",
+      "pasta"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
+    "shard": "r"
+  },
+  {
+    "slug": "resinous-shattering-saudi-arabian-hazelnuts-en-croute--japanese",
+    "title": "Japanese Hazelnut Croustade",
+    "tags": [
+      "japanese",
+      "hazelnut",
+      "croustade",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-buttery-polish-pork-skewers--keto",
+    "title": "Keto Polish Pork Skewers",
+    "tags": [
+      "keto",
+      "pork",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 26,
     "shard": "r"
   }
 ]
