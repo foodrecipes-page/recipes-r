@@ -1,0 +1,95 @@
+{
+  "slug": "rich-uruguayan-oat-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, made with rich beef and served with crusty bread.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Oat Flour",
+      "amount": "2 tablespoons",
+      "notes": "Optional for thickening"
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Custom blend or store-bought"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Optional, can substitute with beef broth"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven or pot over medium-high heat.",
+    "Add a small amount of oil and sear the beef cubes until browned, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and add more oil if necessary.",
+    "Sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the stew seasoning and cook for 1 minute, until fragrant.",
+    "Return the browned beef to the pot and add the red wine (if using).",
+    "Scrape up any browned bits from the bottom of the pot.",
+    "Add the beef broth and bring to a boil.",
+    "Return the heat to low and simmer, covered, for 2-3 hours, or until the beef is tender.",
+    "Stir in the oat flour (if using) to thicken the stew.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "uruguayan-cuisine",
+    "hearty-meals",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-oat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:02:39.692Z"
+}
