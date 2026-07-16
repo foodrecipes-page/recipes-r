@@ -21227,5 +21227,44 @@
     "cuisine": "german",
     "totalTimeMin": 140,
     "shard": "r"
+  },
+  {
+    "slug": "rich-crispy-turkish-tomato-flatbread--keto",
+    "title": "Turkish Keto Flatbread",
+    "tags": [
+      "keto",
+      "turkish",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 17,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-spanish-cod-paella--keto",
+    "title": "Spanish Cod Paella",
+    "tags": [
+      "spanish",
+      "paella",
+      "fish",
+      "keto"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-oozy-chili-quesadilla--italian",
+    "title": "Italian Quesadilla Chili",
+    "tags": [
+      "italian",
+      "chili",
+      "quesadilla",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "r"
   }
 ]
