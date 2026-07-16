@@ -1,0 +1,61 @@
+{
+  "slug": "rich-crispy-turkish-tomato-flatbread--japanese",
+  "title": "Japanese-Style Flatbread Topping",
+  "description": "A simple, flavorful topping for flatbread made with the richness of rich sauce, crunch of crispy onions, and the tang of turkish spices.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Rich sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Arrange flatbread slices on a baking sheet.",
+    "3. Brush flatbread with rich sauce.",
+    "4. Sprinkle crispy onions on top.",
+    "5. Add diced tomato and sprinkle with turkish spices.",
+    "6. Bake for 10-12 minutes or until fragrant.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crispy-turkish-tomato-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:42.147Z"
+}
