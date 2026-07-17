@@ -1,0 +1,75 @@
+{
+  "slug": "rich-flaky-brazilian-parmesan-stir-fry--german",
+  "title": "Savory German Sausage and Potato Hash",
+  "description": "A hearty German-inspired dish featuring crispy sausage and potato hash, perfect for a weekend breakfast or brunch.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausage (Bratwurst)",
+      "amount": "1 pound",
+      "notes": "German-style sausage, sliced"
+    },
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Rich Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Flaky Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Brazilian-Style Stir-Fry Peppers",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the diced potatoes to the skillet and cook until they begin to brown, about 5 minutes.",
+    "Add the diced peppers to the skillet and cook until they are tender.",
+    "Return the cooked sausage to the skillet and stir to combine with the potatoes and peppers.",
+    "Reduce the heat to medium and add the butter to the skillet, stirring until melted.",
+    "Stir in the shredded Parmesan cheese until melted and well combined.",
+    "Season with flaky salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "bratwurst",
+    "potato-hash"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-brazilian-parmesan-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:24:59.601Z"
+}
