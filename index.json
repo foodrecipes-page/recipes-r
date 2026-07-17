@@ -21414,5 +21414,31 @@
     "cuisine": "Italian",
     "totalTimeMin": 45,
     "shard": "r"
+  },
+  {
+    "slug": "roasty-sweet-yam-pancakes-fondue-pot--keto",
+    "title": "Roasty Yam Pancakes with Sweet Fondue",
+    "tags": [
+      "ketogenic",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 75,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-flaky-irish-carnaroli-rice-risotto--vegan",
+    "title": "Carnaroli Risotto with Mushroom Duxelles",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "italian",
+      "carnaroli-rice",
+      "mushroom-duxelles"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "r"
   }
 ]
