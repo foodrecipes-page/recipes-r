@@ -21606,5 +21606,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 36,
     "shard": "r"
+  },
+  {
+    "slug": "rest-filipino-shaggy-pilaf--vegan",
+    "title": "Vegan Filipino-Style Rice Bowl",
+    "tags": [
+      "vegan",
+      "filipino",
+      "rice-bowl"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-spiced-saudi-arabian-vegetable-pilaf--italian",
+    "title": "Saudi Pilaf with Spiced Vegetables",
+    "tags": [
+      "italian",
+      "saudi",
+      "arabian",
+      "pilaf",
+      "vegetable"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
   }
 ]
