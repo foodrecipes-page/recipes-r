@@ -1,0 +1,76 @@
+{
+  "slug": "rest-filipino-shaggy-pilaf--vegan",
+  "title": "Vegan Filipino-Style Rice Bowl",
+  "description": "A flavorful and nutritious vegan Filipino-inspired rice bowl filled with a variety of sautéed vegetables and served with a side of spicy vegan sambal.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rest",
+      "amount": "2 cups",
+      "notes": "uncooked brown rice"
+    },
+    {
+      "name": "Filipino Shaggy",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "Filipino Pilaf",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Rest",
+      "amount": "2 cups mixed vegetables",
+      "notes": "such as bell peppers, zucchini, and mushrooms"
+    },
+    {
+      "name": "Filipino",
+      "amount": "2 tablespoons",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "Shaggy",
+      "amount": "2 teaspoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 tablespoon",
+      "notes": "rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the mixed vegetables and cook until they start to soften.",
+    "Add the cooked brown rice to the skillet and stir-fry for 2-3 minutes.",
+    "Season with soy sauce and rice vinegar to taste.",
+    "Transfer the rice mixture to a serving bowl and top with chopped green onions and a side of spicy vegan sambal.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rest-filipino-shaggy-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:33:00.931Z"
+}
