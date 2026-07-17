@@ -21632,5 +21632,44 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-ukrainian-cashews-pastry--french",
+    "title": "French Cashew Tart",
+    "tags": [
+      "french",
+      "dessert",
+      "cashew",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-mediterranean-italian-almonds-pizza--italian",
+    "title": "Classic Italian Pizza",
+    "tags": [
+      "italian",
+      "pizza",
+      "homemade",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-mexican-poblano-tacos--chinese",
+    "title": "Kung Pao Poblano Tacos",
+    "tags": [
+      "kung-pao",
+      "poblano",
+      "tacos",
+      "chinese-mexican-fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
