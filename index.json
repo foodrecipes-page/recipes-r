@@ -8779,13 +8779,12 @@
   },
   {
     "slug": "rich-savory-peruvian-chicken-causa-limena",
-    "title": "Rich Savory Peruvian Chicken Causa Limena",
+    "title": "Peruvian Chicken Causa",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine"
+      "peruvian",
+      "chicken",
+      "causa",
+      "limena"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
@@ -21567,6 +21566,31 @@
       "river-american-mustard"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-nutty-portuguese-peas-stir-fry--vegan",
+    "title": "Vegan Portuguese Pea Fry",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "peas",
+      "stir-fry"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-aerated-venezuelan-buckwheat-pilaf--chinese",
+    "title": "Venezuelan Buckwheat Pilaf",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "r"
   }
