@@ -1,0 +1,75 @@
+{
+  "slug": "roasted-ukrainian-cashews-pastry--french",
+  "title": "French Cashew Tart",
+  "description": "A classic French dessert combining the crunch of cashews with the flaky pastry, perfect for any special occasion.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 sheet",
+      "notes": "Thaw the pastry according to the package instructions"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Roasted cashews work best for this recipe"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Melted for brushing pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To balance the sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Trim the edges of the pastry to fit the pan and press gently into the corners.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Brush the edges of the pastry with the melted butter.",
+    "In a medium bowl, whisk together the sugar and eggs until well combined.",
+    "Stir in the roasted cashews.",
+    "Pour the cashew mixture into the pastry-lined tart pan and smooth the top.",
+    "Bake for 35-40 minutes or until the pastry is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool completely on a wire rack.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "cashew",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ukrainian-cashews-pastry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:51:21.296Z"
+}
