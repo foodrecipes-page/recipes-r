@@ -1,0 +1,104 @@
+{
+  "slug": "restorative-yeasty-malaysian-chicken-noodles--indian",
+  "title": "Chicken Noodle Korma",
+  "description": "A mild and creamy Indian-inspired chicken noodle dish, perfect for a weeknight dinner. The restorative properties of the spices will leave you feeling refreshed and rejuvenated.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with Indian curry powder"
+    },
+    {
+      "name": "restorative turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with regular turmeric"
+    },
+    {
+      "name": "yeasty active dry yeast",
+      "amount": "1 teaspoon (used to make a yogurt sauce)"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "for the yogurt sauce"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2-3, sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add the onion, garlic, and chilies. Cook until the onion is translucent.",
+    "Add the chicken and cook until browned.",
+    "Add the curry powder and turmeric. Cook for 1 minute.",
+    "Add the yogurt sauce (made by mixing the yeast with yogurt) and stir to combine.",
+    "Add the noodles and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped cilantro (if desired).",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Serve with a side of naan or rice for a filling meal.",
+    "Garnish with chopped cilantro and serve with a dollop of yogurt sauce on top (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "noodles",
+    "curry",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/restorative-yeasty-malaysian-chicken-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:59:09.026Z"
+}
