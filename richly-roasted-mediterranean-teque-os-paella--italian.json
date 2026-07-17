@@ -1,0 +1,92 @@
+{
+  "slug": "richly-roasted-mediterranean-teque-os-paella--italian",
+  "title": "Classic Italian Paella",
+  "description": "A traditional Italian paella dish filled with Mediterranean flavors, perfect for a weekend dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice is best for paella"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, zucchini, and cherry tomatoes"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Teque cheese",
+      "amount": "1 cup",
+      "notes": "shredded, or substitute with mozzarella"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Mediterranean vegetables and cook until they start to soften, about 5 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the paella rice and stir to coat with the broth.",
+    "Add the diced roasted red peppers and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and top with the shredded Teque cheese.",
+    "Cover the pan with a clean kitchen towel and let it rest for 5 minutes.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paella",
+    "rice",
+    "vegetarian",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-mediterranean-teque-os-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:11:31.133Z"
+}
