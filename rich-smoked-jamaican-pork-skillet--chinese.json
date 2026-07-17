@@ -1,0 +1,87 @@
+{
+  "slug": "rich-smoked-jamaican-pork-skillet--chinese",
+  "title": "Smoked Pork Skillet",
+  "description": "A savory chinese-inspired dish featuring smoked pork and a rich, flavorful sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Pork",
+      "amount": "1 lb",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Skillet-ripe Onions",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": "Dissolved in 1 tbsp soy sauce"
+    },
+    {
+      "name": "Rich Hoisin Sauce",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pork Broth",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large skillet over medium-high heat.",
+    "2. Add the sliced onions and cook until caramelized, about 5 minutes.",
+    "3. Add the smoked pork and cook until browned, about 3-4 minutes.",
+    "4. Add the jamaican jerk seasoning and stir to combine.",
+    "5. Add the pork broth and stir to combine. Bring to a simmer.",
+    "6. Reduce heat to medium-low and cook for 10-15 minutes or until the pork is cooked through.",
+    "7. Serve the pork and onions over rice, garnished with sliced green onions and a drizzle of hoisin sauce.",
+    "8. Optional: Add a splash of soy sauce and rice vinegar for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoked-jamaican-pork-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:38:20.705Z"
+}
