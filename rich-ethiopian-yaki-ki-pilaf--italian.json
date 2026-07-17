@@ -1,0 +1,81 @@
+{
+  "slug": "rich-ethiopian-yaki-ki-pilaf--italian",
+  "title": "Spicy Italian Sausage Pilaf",
+  "description": "A hearty Italian-inspired pilaf dish flavored with yaki sauce and rich sausage. Serve with a side of steamed ki vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian Sausage",
+      "amount": "1 lb",
+      "notes": "Choose a spicy sausage for added flavor"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Use a gluten-free pilaf mix or make your own with rice and spices"
+    },
+    {
+      "name": "Yaki Sauce",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste for level of spiciness"
+    },
+    {
+      "name": "Ki",
+      "amount": "2 medium",
+      "notes": "Peel and chop for a side dish or add to the pilaf"
+    },
+    {
+      "name": "Ethiopian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Add a pinch of spice for extra depth"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing the sausage and pilaf"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season the pilaf and sausage to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the Italian sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the pilaf mix to the skillet and stir to combine with the sausage.",
+    "Add the yaki sauce and Ethiopian spice blend to the pilaf and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the pilaf is lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pilaf to a serving dish and top with chopped ki.",
+    "Serve hot and enjoy!",
+    "Optional: add additional spices or herbs to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "pilaf",
+    "ki",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-ethiopian-yaki-ki-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:39:18.200Z"
+}
