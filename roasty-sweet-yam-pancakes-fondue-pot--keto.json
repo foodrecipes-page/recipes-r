@@ -1,0 +1,74 @@
+{
+  "slug": "roasty-sweet-yam-pancakes-fondue-pot--keto",
+  "title": "Roasty Yam Pancakes with Sweet Fondue",
+  "description": "A unique keto dessert featuring roasted yam pancakes served with a sweet fondue dip.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yam",
+      "amount": "2 medium",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Roasty",
+      "amount": "1 cup",
+      "notes": "Nut meal"
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 cup",
+      "notes": "Coconut sugar"
+    },
+    {
+      "name": "Pancakes",
+      "amount": "1 package",
+      "notes": "Keto-friendly mix"
+    },
+    {
+      "name": "Fondue",
+      "amount": "1 cup",
+      "notes": "Sugar-free chocolate"
+    },
+    {
+      "name": "Pot",
+      "amount": "1 large",
+      "notes": "For boiling yams"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Pierce the yams with a fork and boil them in a large pot of water for 45 minutes.",
+    "3. Remove the yams from the water and roast them in the oven for 30 minutes, or until tender.",
+    "4. Mix the nut meal, coconut sugar, and keto-friendly pancake mix in a bowl.",
+    "5. Add the roasted yams to the bowl and mix until a dough forms.",
+    "6. Form the dough into pancakes and cook them in a skillet over medium heat.",
+    "7. Mix the sugar-free chocolate and heavy cream in a saucepan over low heat.",
+    "8. Stir the chocolate mixture until smooth and creamy.",
+    "9. Serve the roasted yam pancakes with the sweet fondue dip.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ketogenic",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasty-sweet-yam-pancakes-fondue-pot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:02:09.895Z"
+}
