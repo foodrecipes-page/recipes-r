@@ -1,0 +1,59 @@
+{
+  "slug": "rustic-aerated-venezuelan-buckwheat-pilaf--italian",
+  "title": "Italian Buckwheat Pilaf",
+  "description": "A simple and nutty Italian buckwheat pilaf, perfect as a side dish or light lunch.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rustic Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Venezuelan Aji Amarillo Peppers",
+      "amount": "1 small"
+    },
+    {
+      "name": "Aerated Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced aji amarillo pepper and cook until softened, about 3-4 minutes.",
+    "Add the buckwheat and cook, stirring constantly, for 2-3 minutes.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-aerated-venezuelan-buckwheat-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:12:09.285Z"
+}
