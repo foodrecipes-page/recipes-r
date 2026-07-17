@@ -1,0 +1,78 @@
+{
+  "slug": "richly-lavished-irish-cream-cheese-stir-fry",
+  "title": "Creamy Irish Cheese Stir Fry",
+  "description": "A decadent and rich stir fry dish featuring Irish cream and cheese, perfect for a comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, melt the butter over medium heat.",
+    "2. Add the sliced onions and cook until they are translucent.",
+    "3. Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Stir in the Irish cream and bring the mixture to a simmer.",
+    "6. Reduce the heat to low and let the sauce simmer for 2-3 minutes.",
+    "7. Stir in the shredded cheese until it is melted and the sauce is smooth.",
+    "8. Season with salt and black pepper to taste.",
+    "9. Serve the creamy Irish cheese stir fry hot, garnished with chopped fresh herbs if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "cheese",
+    "stir-fry",
+    "comfort-food",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-lavished-irish-cream-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:06:48.802Z"
+}
