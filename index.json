@@ -21671,5 +21671,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-algerian-baby-aubergine-grill--vegan",
+    "title": "Grilled Aubergine with Algerian Spices",
+    "tags": [
+      "vegan",
+      "grilled",
+      "aubergine",
+      "algerian-spices"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-ethiopian-baby-aubergine-tagine--japanese",
+    "title": "Japanese Grilled Aubergine with Roasted Red Pepper Sauce",
+    "tags": [
+      "japanese",
+      "aubergine",
+      "grilled",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
