@@ -1,0 +1,87 @@
+{
+  "slug": "rich-mexican-poblano-tacos--chinese",
+  "title": "Kung Pao Poblano Tacos",
+  "description": "A fusion of Chinese and Mexican flavors, this dish combines the spicy and sour taste of Kung Pao chicken with the richness of poblano peppers, all wrapped in a crunchy taco.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "2 large",
+      "notes": "Roasted and diced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4-6",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Sliced for topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C). Roast poblano peppers for 30 minutes, or until the skin is blistered and charred.",
+    "2. Peel the skin off the poblano peppers and dice them.",
+    "3. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "4. Add the diced poblano peppers and cook for 2-3 minutes, or until they start to soften.",
+    "5. Add the cumin, chili flakes, and a pinch of salt. Cook for 1 minute, stirring constantly.",
+    "6. Add the soy sauce, rice vinegar, and hoisin sauce. Stir to combine.",
+    "7. Cook for an additional 2-3 minutes, or until the sauce has thickened and the peppers are tender.",
+    "8. Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "9. Assemble the tacos by spooning the poblano pepper mixture onto a tortilla and topping with sliced avocado.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kung-pao",
+    "poblano",
+    "tacos",
+    "chinese-mexican-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-poblano-tacos--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:21:00.135Z"
+}
