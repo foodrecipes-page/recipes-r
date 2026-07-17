@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-mussels-french-stew",
+  "title": "French Mussels Stew",
+  "description": "A hearty French-inspired stew featuring tender mussels, flavorful broth, and a hint of herbs.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "2 pounds",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat. Add sliced leeks and cook until softened (5 minutes).",
+    "Add minced garlic and cook for an additional minute.",
+    "Add white wine and cook until reduced by half (2 minutes).",
+    "Add fish stock and bring to a simmer.",
+    "Add mussels, thyme, salt, and pepper. Cover the saucepan and cook until mussels open (5-7 minutes).",
+    "Serve stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mussels",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mussels-french-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:10:48.724Z"
+}
