@@ -1,0 +1,67 @@
+{
+  "slug": "rocky-river-american-fish-hash--indian",
+  "title": "Rocky River Fish Fry",
+  "description": "A crispy fried fish dish inspired by Indian cuisine, served with a side of spicy hash.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Rocky Road Hash",
+      "amount": "2 cups",
+      "notes": "crispy"
+    },
+    {
+      "name": "River American Mustard",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "American Rice Flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Cut fish into 4 equal pieces and set aside.",
+    "Heat 1 inch of vegetable oil in a deep frying pan over medium-high heat.",
+    "In a shallow dish, mix together River American Mustard and a pinch of salt.",
+    "Dip each fish piece into the mustard mixture, coating both sides evenly.",
+    "Dredge the coated fish pieces in American Rice Flour, shaking off excess.",
+    "Fry the fish pieces in batches until golden brown and cooked through.",
+    "Drain the fried fish on paper towels and keep warm.",
+    "Heat the Rocky Road Hash in a separate pan over medium heat until crispy.",
+    "Serve the fried fish with a side of spicy hash."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fried-fish",
+    "hash",
+    "river-american-mustard"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rocky-river-american-fish-hash--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:54:13.245Z"
+}
