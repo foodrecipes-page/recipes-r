@@ -1,0 +1,94 @@
+{
+  "slug": "roasted-kenyan-sardine-tagine",
+  "title": "Kenyan Sardine Tagine",
+  "description": "A flavorful Kenyan-inspired stew made with sardines, roasted spices, and a hint of tagine, perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardines in Water",
+      "amount": "2 (8 oz) cans",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted Ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Roasted Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas, drained and rinsed",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add sardines, roasted ginger, roasted cumin, tagine spice mix, and tomato paste. Stir to combine.",
+    "Add chickpeas and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh cilantro.",
+    "Serve with steamed rice or naan bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "sardine",
+    "tagine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-kenyan-sardine-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:25:11.573Z"
+}
