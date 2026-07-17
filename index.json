@@ -13855,17 +13855,15 @@
   },
   {
     "slug": "roasted-crunchy-ethiopian-cabbage-berbere-stew",
-    "title": "Roasted Crunchy Ethiopian Cabbage Berbere Stew",
+    "title": "Ethiopian Berbere Stew",
     "tags": [
-      "cabbage-lovers",
-      "easy-to-make",
-      "high-fiber",
-      "one-pan",
+      "ethiopian",
+      "stew",
       "vegetarian",
-      "weeknight"
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21387,6 +21385,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-tender-japanese-wagyu-gyudon--indian",
+    "title": "Wagyu Gyudon Curry",
+    "tags": [
+      "indian",
+      "japanese",
+      "curry",
+      "beef",
+      "wagyu"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-roasted-mediterranean-teque-os-paella--italian",
+    "title": "Classic Italian Paella",
+    "tags": [
+      "italian",
+      "paella",
+      "rice",
+      "vegetarian",
+      "mediterranean"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
