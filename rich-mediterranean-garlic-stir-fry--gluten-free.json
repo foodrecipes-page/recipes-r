@@ -1,0 +1,73 @@
+{
+  "slug": "rich-mediterranean-garlic-stir-fry--gluten-free",
+  "title": "Garlic Shrimp Stir Fry",
+  "description": "Quick and flavorful gluten-free shrimp stir fry, perfect for a weeknight dinner. This dish is cooked to perfection with garlic and a hint of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rich stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mediterranean seasoning blend",
+      "amount": "1 tsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Stir in the rich stir fry sauce and Mediterranean seasoning blend.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "shrimp",
+    "stir-fry",
+    "garlic",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-garlic-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:52:00.010Z"
+}
