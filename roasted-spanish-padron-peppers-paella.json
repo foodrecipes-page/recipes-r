@@ -1,0 +1,98 @@
+{
+  "slug": "roasted-spanish-padron-peppers-paella",
+  "title": "Spanish Paella with Roasted Peppers",
+  "description": "A classic Spanish dish made with sautéed vegetables and smoky roasted peppers, served over a bed of flavorful rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted peppers",
+      "amount": "2 large",
+      "notes": "any color, thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced tomato and cook until the liquid has evaporated, about 5 minutes.",
+    "Add the sliced roasted peppers and cook for an additional 2-3 minutes.",
+    "Add the green beans and cook until tender, about 5-7 minutes.",
+    "Add the Spanish rice and smoked paprika (if using) to the pan.",
+    "Cook for 2-3 minutes, stirring constantly, until the rice is coated in oil and slightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "vegetarian",
+    "rice",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-spanish-padron-peppers-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:16:06.694Z"
+}
