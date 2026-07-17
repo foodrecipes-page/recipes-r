@@ -1,0 +1,75 @@
+{
+  "slug": "rich-mediterranean-italian-almonds-pizza--italian",
+  "title": "Classic Italian Pizza",
+  "description": "A traditional Italian-style pizza made with fresh ingredients and a crispy crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pizza dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Spread the tomato sauce over the dough, leaving a small border around the edges.",
+    "Sprinkle the mozzarella and parmesan cheese over the sauce.",
+    "Top with fresh basil leaves.",
+    "Drizzle with olive oil, if using.",
+    "Season with salt to taste.",
+    "Transfer the pizza to a baking sheet.",
+    "Bake for 15-20 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pizza",
+    "homemade",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mediterranean-italian-almonds-pizza--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:06:06.776Z"
+}
