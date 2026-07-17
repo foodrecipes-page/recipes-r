@@ -14610,17 +14610,15 @@
   },
   {
     "slug": "roasted-kenyan-sardine-tagine",
-    "title": "Roasted Kenyan Sardine Tagine",
+    "title": "Kenyan Sardine Tagine",
     "tags": [
-      "african-cuisine",
-      "dairy-free",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "kenyan",
+      "sardine",
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21542,6 +21540,33 @@
       "crepes"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-buttery-german-gelatin-grill--thai",
+    "title": "Thai Gelatin Dessert with German Fruit",
+    "tags": [
+      "thai",
+      "dessert",
+      "fruit",
+      "gelatin",
+      "coconut"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rocky-river-american-fish-hash--indian",
+    "title": "Rocky River Fish Fry",
+    "tags": [
+      "indian",
+      "fried-fish",
+      "hash",
+      "river-american-mustard"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "r"
   }
