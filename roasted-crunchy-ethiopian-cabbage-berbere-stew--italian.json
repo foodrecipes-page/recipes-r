@@ -1,0 +1,90 @@
+{
+  "slug": "roasted-crunchy-ethiopian-cabbage-berbere-stew--italian",
+  "title": "Ethiopian-Style Beef Stew with Cabbage and Berbere",
+  "description": "A hearty and flavorful Italian-inspired stew featuring Ethiopian spices, tender beef, and crunchy cabbage.",
+  "cuisine": "italian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head, sliced",
+      "notes": null
+    },
+    {
+      "name": "roasted red peppers, diced",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the berbere spice mix and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Add the sliced cabbage to the pot and continue to braise for another 30 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with roasted red peppers and crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "cabbage",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crunchy-ethiopian-cabbage-berbere-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:15:03.190Z"
+}
