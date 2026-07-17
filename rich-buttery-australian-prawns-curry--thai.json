@@ -1,0 +1,82 @@
+{
+  "slug": "rich-buttery-australian-prawns-curry--thai",
+  "title": "Thai Prawn Curry",
+  "description": "A rich and creamy Thai-inspired curry made with succulent prawns, featuring a blend of spices and coconut milk. Serve with steamed rice for a delicious and satisfying meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Prawns",
+      "amount": "1 pound",
+      "notes": "deveined and peeled"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rich Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned or carton"
+    },
+    {
+      "name": "Buttery Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Aromatics",
+      "amount": "1 onion, 2 cloves garlic",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    },
+    {
+      "name": "Thai Fish Balls",
+      "amount": "4",
+      "notes": "optional for added texture"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add aromatics and cook until fragrant, about 2 minutes.",
+    "Add prawns and cook until pink, about 2-3 minutes per side.",
+    "Add curry paste and cook for 1 minute, until fragrant.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 5-7 minutes, until sauce thickens.",
+    "Stir in fish sauce and season with salt and pepper to taste.",
+    "Serve with steamed rice, garnished with cilantro and fish balls if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "prawns",
+    "seafood",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-australian-prawns-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:36:46.336Z"
+}
