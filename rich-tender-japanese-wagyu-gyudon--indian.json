@@ -1,0 +1,100 @@
+{
+  "slug": "rich-tender-japanese-wagyu-gyudon--indian",
+  "title": "Wagyu Gyudon Curry",
+  "description": "A Japanese-Indian fusion dish featuring Wagyu beef in a rich curry sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Japanese curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add red bell pepper. Cook for 2 minutes.",
+    "Add Wagyu beef. Cook until browned.",
+    "Add curry powder, garam masala, cumin, and turmeric. Cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in soy sauce.",
+    "Serve hot over rice.",
+    "Garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "japanese",
+    "curry",
+    "beef",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-japanese-wagyu-gyudon--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T10:58:06.255Z"
+}
