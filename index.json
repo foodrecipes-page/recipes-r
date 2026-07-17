@@ -15610,16 +15610,16 @@
   },
   {
     "slug": "roasted-spanish-padron-peppers-paella",
-    "title": "Roasted Spanish Padron Peppers Paella",
+    "title": "Spanish Paella with Roasted Peppers",
     "tags": [
-      "one-pan",
-      "paella",
-      "peppers",
       "spanish",
-      "weeknight"
+      "paella",
+      "vegetarian",
+      "rice",
+      "peppers"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -21466,6 +21466,44 @@
     ],
     "cuisine": null,
     "totalTimeMin": 10,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-aerated-venezuelan-buckwheat-pilaf--italian",
+    "title": "Italian Buckwheat Pilaf",
+    "tags": [
+      "italian",
+      "gluten-free",
+      "pilaf"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-smoked-jamaican-pork-skillet--chinese",
+    "title": "Smoked Pork Skillet",
+    "tags": [
+      "chinese",
+      "pork",
+      "skillet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-ethiopian-yaki-ki-pilaf--italian",
+    "title": "Spicy Italian Sausage Pilaf",
+    "tags": [
+      "italian",
+      "sausage",
+      "pilaf",
+      "ki",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
