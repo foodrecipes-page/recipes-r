@@ -21710,5 +21710,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 50,
     "shard": "r"
+  },
+  {
+    "slug": "restorative-yeasty-malaysian-chicken-noodles--indian",
+    "title": "Chicken Noodle Korma",
+    "tags": [
+      "indian",
+      "chicken",
+      "noodles",
+      "curry",
+      "yogurt"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-flaky-brazilian-parmesan-stir-fry--german",
+    "title": "Savory German Sausage and Potato Hash",
+    "tags": [
+      "german",
+      "breakfast",
+      "bratwurst",
+      "potato-hash"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "r"
   }
 ]
