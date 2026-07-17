@@ -1,0 +1,77 @@
+{
+  "slug": "roasted-ethiopian-baby-aubergine-tagine--japanese",
+  "title": "Japanese Grilled Aubergine with Roasted Red Pepper Sauce",
+  "description": "A flavorful and visually appealing Japanese-inspired dish featuring grilled aubergine and a tangy roasted red pepper sauce. This recipe is perfect for a light and refreshing summer meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "2",
+      "notes": "preferably Japanese or American eggplant"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1",
+      "notes": "canned in water, drained and chopped"
+    },
+    {
+      "name": "Ethiopian spices (berbere blend)",
+      "amount": "1 tsp",
+      "notes": "or Japanese curry powder"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Cut the baby aubergine in half lengthwise and brush with a little oil.",
+    "3. Grill the aubergine for 3-4 minutes per side, or until tender and lightly charred.",
+    "4. Meanwhile, mix the chopped roasted red pepper, Ethiopian spices, soy sauce, rice vinegar, and honey (if using) in a bowl.",
+    "5. Once the aubergine is cooked, place it on a plate and spoon the roasted red pepper sauce over the top.",
+    "6. Season with salt to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "aubergine",
+    "grilled",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ethiopian-baby-aubergine-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:57:09.491Z"
+}
