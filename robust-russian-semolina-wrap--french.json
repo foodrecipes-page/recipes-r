@@ -1,0 +1,79 @@
+{
+  "slug": "robust-russian-semolina-wrap--french",
+  "title": "French-Style Semolina Crepes",
+  "description": "Delicate semolina crepes filled with a rich, buttery Russian creme. A classic French brunch dish.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "wrap",
+      "amount": "2 large"
+    },
+    {
+      "name": "robust",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "russian creme",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together semolina, milk, eggs, robust, and sugar.",
+    "Add the melted butter to the bowl and whisk until smooth.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour a small amount of batter into the pan and tilt to coat evenly.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all crepes are cooked.",
+    "To fill the crepes, place a tablespoon of Russian creme onto the center of each crepe and fold the crepe in half.",
+    "Serve immediately, garnished with fresh berries if desired.",
+    "To make the Russian creme, beat the heavy cream in a separate bowl until stiff peaks form.",
+    "Add the granulated sugar to the bowl and beat until combined.",
+    "Fold the whipped cream into the granulated sugar until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "brunch",
+    "crepes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-russian-semolina-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:56:20.461Z"
+}
