@@ -1,0 +1,72 @@
+{
+  "slug": "raw-earth-bean-salad--keto",
+  "title": "Keto Bean Salad",
+  "description": "A simple salad recipe combining earthy flavors with the nutty taste of beans, perfect for a keto diet.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Raw Bean",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Earth (Spinach)",
+      "amount": "2 cups, fresh"
+    },
+    {
+      "name": "Salad (Mixed Greens)",
+      "amount": "2 cups, fresh"
+    },
+    {
+      "name": "Avocado (available in a real kitchen)",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cooked beans, fresh spinach, and mixed greens.",
+    "2. In a separate bowl, whisk together the olive oil and vinegar.",
+    "3. Add the diced avocado to the bowl with the oil and vinegar mixture.",
+    "4. Pour the dressing over the salad and toss to combine.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "salad",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-earth-bean-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:57:37.538Z"
+}
