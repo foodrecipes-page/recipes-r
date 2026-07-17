@@ -21505,5 +21505,44 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-crunchy-ethiopian-cabbage-berbere-stew--italian",
+    "title": "Ethiopian-Style Beef Stew with Cabbage and Berbere",
+    "tags": [
+      "italian",
+      "beef",
+      "cabbage",
+      "berbere"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-mediterranean-garlic-stir-fry--gluten-free",
+    "title": "Garlic Shrimp Stir Fry",
+    "tags": [
+      "gluten-free",
+      "shrimp",
+      "stir-fry",
+      "garlic",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-russian-semolina-wrap--french",
+    "title": "French-Style Semolina Crepes",
+    "tags": [
+      "french",
+      "brunch",
+      "crepes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
