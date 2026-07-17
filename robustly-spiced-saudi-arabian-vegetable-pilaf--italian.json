@@ -1,0 +1,85 @@
+{
+  "slug": "robustly-spiced-saudi-arabian-vegetable-pilaf--italian",
+  "title": "Saudi Pilaf with Spiced Vegetables",
+  "description": "A flavorful and aromatic pilaf dish inspired by Saudi Arabian cuisine, infused with Italian spices and vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian Pilaf Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Spiced Robust Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "make sure it's a flavorful broth"
+    },
+    {
+      "name": "Spiced Italian Sausage",
+      "amount": "1 lb",
+      "notes": "use mild Italian sausage and slice it thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "use a good quality olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chop it finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "mince it finely"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": "use fresh thyme if possible"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use sea salt for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion and minced garlic to the saucepan and cook until the onion is translucent.",
+    "Add the spiced robust vegetable broth to the saucepan and bring to a boil.",
+    "Add the Saudi Arabian pilaf rice to the saucepan and stir to coat with the broth.",
+    "Return the cooked sausage to the saucepan and stir to combine.",
+    "Reduce heat to low, cover the saucepan, and simmer for 18-20 minutes or until the rice is cooked.",
+    "Fluff the pilaf with a fork and season with dried thyme and salt to taste.",
+    "Serve hot and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "saudi",
+    "arabian",
+    "pilaf",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spiced-saudi-arabian-vegetable-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:14:05.424Z"
+}
