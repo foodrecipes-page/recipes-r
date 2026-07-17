@@ -1,0 +1,87 @@
+{
+  "slug": "rich-buttery-german-gelatin-grill--thai",
+  "title": "Thai Gelatin Dessert with German Fruit",
+  "description": "A refreshing and light dessert inspired by Thai cuisine, using German gelatin and rich fruit.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "German gelatin",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gelatin flavor (Thai red tea)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mango",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rich butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grilled coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the German gelatin sheets in water for 5 minutes.",
+    "Combine the sugar, gelatin flavor, and coconut milk in a saucepan.",
+    "Heat the mixture over low heat, stirring until the sugar dissolves.",
+    "In a separate bowl, whip the coconut milk until it thickens.",
+    "Add the whipped coconut milk to the saucepan and stir until combined.",
+    "Strain the mixture through a fine-mesh sieve into a bowl.",
+    "Add the pineapple, mango, and lime juice to the bowl and stir to combine.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Top with grilled coconut flakes and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "fruit",
+    "gelatin",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-german-gelatin-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:39:50.555Z"
+}
