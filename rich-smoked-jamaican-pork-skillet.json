@@ -1,0 +1,96 @@
+{
+  "slug": "rich-smoked-jamaican-pork-skillet",
+  "title": "Jamaican Pork Skillet",
+  "description": "A hearty and flavorful skillet dish made with rich and smoky pork, inspired by Jamaican cuisine.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "rich brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "balances the heat"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "for a bold and aromatic flavor"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, Scotch bonnet peppers (if using), and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the smoked paprika, Jamaican jerk seasoning, and brown sugar to the skillet and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and braise the pork for 20-25 minutes, or until tender.",
+    "Remove the skillet from the oven and let it cool slightly.",
+    "Serve the pork and sauce hot, garnished with chopped fresh cilantro (if desired).",
+    "Note: If using Scotch bonnet peppers, be careful when handling and cutting them, as the oils in the peppers can cause skin irritation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "jamaican",
+    "skillet",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoked-jamaican-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:26:19.757Z"
+}
