@@ -1,0 +1,86 @@
+{
+  "slug": "richly-seasoned-mexican-fish-huaraches--chinese",
+  "title": "Cantonese-Style Fish Tacos",
+  "description": "A fusion dish that combines the flavors of China and Mexico. Crispy fish is served in a taco shell with a sweet and spicy sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cantonese-style sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Dredge fish fillets in a mixture of cornstarch and spices until evenly coated.",
+    "Add fish to skillet and cook for 3-4 minutes on each side or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked fish in a tortilla, topping with Cantonese-style sauce, sliced green onions, radishes, and cilantro.",
+    "Serve with a lime wedge and sprinkle with sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mexican",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-seasoned-mexican-fish-huaraches--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:52:40.424Z"
+}
