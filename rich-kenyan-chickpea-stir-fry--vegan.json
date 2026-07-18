@@ -1,0 +1,72 @@
+{
+  "slug": "rich-kenyan-chickpea-stir-fry--vegan",
+  "title": "Kenyan-Style Vegan Chickpea Stir Fry",
+  "description": "A flavorful and nutritious vegan stir fry recipe inspired by Kenyan cuisine, featuring chickpeas as the main ingredient.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "rich",
+      "amount": "2 tbsp",
+      "notes": "vegan stir-fry sauce"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "coconut or avocado oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper, cook for 3-4 minutes or until tender.",
+    "Add the tomato, cook for an additional 2 minutes.",
+    "Add the chickpeas, rich, and a pinch of salt. Stir well to combine.",
+    "Cook for 2-3 minutes or until the flavors have melded together.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "stir-fry",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-chickpea-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:37:31.887Z"
+}
