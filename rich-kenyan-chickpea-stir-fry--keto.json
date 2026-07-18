@@ -1,0 +1,83 @@
+{
+  "slug": "rich-kenyan-chickpea-stir-fry--keto",
+  "title": "Kenyan Chicken Fry",
+  "description": "A keto and flavorful Kenyan-inspired dish made with chicken, rich spices, and a hint of stir-fry flair.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the Kenyan spice blend and stir to coat the chicken.",
+    "Add the chickpea flour and stir to coat the chicken.",
+    "Cook for an additional 2-3 minutes, until the flour is lightly toasted.",
+    "Stir in the fresh cilantro, salt, and black pepper.",
+    "Cook for an additional minute, until the flavors are combined.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "keto",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-chickpea-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:24:43.748Z"
+}
