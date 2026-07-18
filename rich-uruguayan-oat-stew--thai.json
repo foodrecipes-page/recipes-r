@@ -1,0 +1,84 @@
+{
+  "slug": "rich-uruguayan-oat-stew--thai",
+  "title": "Thai Stew with Uruguayan Beef",
+  "description": "A twist on the classic Thai red curry, this recipe incorporates rich and flavorful Uruguayan beef. This hearty stew is perfect for a cold evening.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Oat",
+      "amount": "1/4 cup",
+      "notes": "Rolled oats for thickening"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add beef broth, fish sauce, brown sugar, and lime juice.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Return beef to pot and simmer until cooked through, about 10-15 minutes.",
+    "Stir in oats and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh basil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "thaistew",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-oat-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:32:17.237Z"
+}
