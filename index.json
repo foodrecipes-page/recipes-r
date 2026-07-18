@@ -21761,5 +21761,32 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "robata-grilled-norwegian-digestive-biscuits-toast--mexican",
+    "title": "Grilled Biscuit Tostada",
+    "tags": [
+      "mexican",
+      "snack",
+      "grilled",
+      "avocado",
+      "chorizo"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-seasoned-mexican-fish-huaraches--chinese",
+    "title": "Cantonese-Style Fish Tacos",
+    "tags": [
+      "chinese",
+      "mexican",
+      "fish",
+      "tacos"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "r"
   }
 ]
