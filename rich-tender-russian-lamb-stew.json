@@ -1,0 +1,95 @@
+{
+  "slug": "rich-tender-russian-lamb-stew",
+  "title": "Russian Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and rich beef broth.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 tablespoons of water"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "ground"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add beef broth, tomato paste, flour, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in chopped dill, if using.",
+    "Serve hot, garnished with additional dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "lamb",
+    "comfort food",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-russian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:07:53.510Z"
+}
