@@ -1,0 +1,86 @@
+{
+  "slug": "rich-canadian-mackerel-bowl--chinese",
+  "title": "Pan-Seared Mackerel with Soy Glaze",
+  "description": "A simple yet flavorful Chinese dish featuring pan-seared mackerel glazed with a sweet and savory soy sauce mixture.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tsp",
+      "notes": "vegetable"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil or parchment paper.",
+    "Season the mackerel fillets with a pinch of salt and pepper.",
+    "Heat a skillet over medium-high heat and add the cooking oil.",
+    "Sear the mackerel fillets for 2-3 minutes on each side, or until browned.",
+    "Transfer the mackerel to the prepared baking sheet and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, whisk together the soy sauce, honey, rice vinegar, and grated ginger in a small bowl.",
+    "Bring the soy glaze to a simmer in the skillet over medium heat and cook for 2-3 minutes, or until thickened.",
+    "Remove the mackerel from the oven and brush with the soy glaze.",
+    "Top with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mackerel",
+    "chinese",
+    "gluten-free",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-canadian-mackerel-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:26:26.660Z"
+}
