@@ -21877,5 +21877,43 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "r"
+  },
+  {
+    "slug": "richly-roasted-mediterranean-teque-os-paella--vegan",
+    "title": "Mediterranean Vegan Paella",
+    "tags": [
+      "vegan",
+      "paella",
+      "mediterranean",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-kenyan-chickpea-stir-fry--keto",
+    "title": "Kenyan Chicken Fry",
+    "tags": [
+      "kenyan",
+      "keto",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-uruguayan-oat-stew--thai",
+    "title": "Thai Stew with Uruguayan Beef",
+    "tags": [
+      "beef",
+      "thaistew",
+      "uruguayan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "r"
   }
 ]
