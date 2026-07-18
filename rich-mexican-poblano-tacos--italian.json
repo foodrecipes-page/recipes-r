@@ -1,0 +1,85 @@
+{
+  "slug": "rich-mexican-poblano-tacos--italian",
+  "title": "Italian-Style Poblano Tacos",
+  "description": "A unique fusion of Italian and Mexican flavors, featuring roasted poblano peppers in a crispy taco shell.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "Roast at 400°F for 20-25 minutes"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "Mix of oregano, basil, thyme"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour, preferably day-old"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "Optional, for a creamy filling"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded, for topping"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Roast poblano peppers for 20-25 minutes, or until skin is charred and blistered.",
+    "Remove peppers from oven and let cool in a bowl covered with plastic wrap.",
+    "Once cool, peel off skin, remove seeds, and cut into strips.",
+    "In a skillet, heat olive oil over medium heat.",
+    "Add italian seasoning and cook for 1-2 minutes, until fragrant.",
+    "Add roasted poblano strips to the skillet and cook for 2-3 minutes, until slightly caramelized.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning poblano mixture onto a tortilla, topping with ricotta cheese (if using), and sprinkling with parmesan cheese.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mexican",
+    "poblano",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-mexican-poblano-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:20:56.935Z"
+}
