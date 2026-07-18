@@ -22093,5 +22093,45 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-rice-fragrant-russian-quinoa-bowl--german",
+    "title": "German-Style Roasted Rice Bowl",
+    "tags": [
+      "german",
+      "russian",
+      "roasted",
+      "quinoa",
+      "rice"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-chinese-ginger-bake--vegetarian",
+    "title": "Ginger and Ginger Vegetarian Bake",
+    "tags": [
+      "ginger",
+      "vegetarian",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-australian-cherry-tomatoes-tart--keto",
+    "title": "Keto Australian Cherry Tomato Tart",
+    "tags": [
+      "keto",
+      "australian",
+      "cherry",
+      "tomatoes",
+      "tart"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "r"
   }
 ]
