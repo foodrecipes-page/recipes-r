@@ -2641,17 +2641,17 @@
   },
   {
     "slug": "reviving-mexican-rice-tamales",
-    "title": "Reviving Mexican Rice Tamales",
+    "title": "Mexican Reviving Tamale Casserole",
     "tags": [
-      "cheese-pull",
-      "easy",
-      "fermented",
       "mexican",
-      "rice-noodles",
-      "tamales"
+      "breakfast",
+      "casserole",
+      "tamale",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
@@ -10381,15 +10381,16 @@
   },
   {
     "slug": "rich-tender-russian-lamb-stew",
-    "title": "Rich Tender Russian Lamb Stew",
+    "title": "Russian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "post-workout",
-      "rich-ingredient"
+      "stew",
+      "beef",
+      "lamb",
+      "comfort food",
+      "russian"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 110,
     "shard": "r"
   },
   {
@@ -15576,17 +15577,15 @@
   },
   {
     "slug": "roasted-snappy-jamaican-beef-fillet-skewers",
-    "title": "Roasted Snappy Jamaican Beef Fillet Skewers",
+    "title": "Jamaican Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "dinner-ideas",
-      "flexitarian-friendly",
-      "jamaican-cuisine",
-      "roasted-vegetables",
-      "skewer-recipes"
+      "jamaican",
+      "beef",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 36,
     "shard": "r"
   },
   {
@@ -22132,6 +22131,45 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-glazed-korean-chicken-bowl--keto",
+    "title": "Korean Chicken Bowl",
+    "tags": [
+      "korean",
+      "chicken",
+      "bowl",
+      "keto"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-savory-australian-lentil-stew--german",
+    "title": "German Lentil Stew",
+    "tags": [
+      "german",
+      "lentil",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-uruguayan-beef-skewers--french",
+    "title": "French Beef Skewers",
+    "tags": [
+      "beef",
+      "skewers",
+      "grill",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
