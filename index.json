@@ -13761,16 +13761,15 @@
   },
   {
     "slug": "roasted-crispy-algerian-olive-oil-tagine",
-    "title": "roasted crispy algerian olive oil tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
       "algerian",
-      "dessert",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "chicken",
+      "couscous",
+      "tagine"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 55,
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -21982,6 +21981,31 @@
       "appetizer"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-kenyan-fish-pasta--vegetarian",
+    "title": "Kenyan Vegetable Pasta",
+    "tags": [
+      "kenyan",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-dense-egyptian-macaroni-pasta--vegan",
+    "title": "Egyptian Macaroni Pasta Bowl",
+    "tags": [
+      "vegan",
+      "middle-eastern",
+      "pasta",
+      "lunch"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "r"
   }
