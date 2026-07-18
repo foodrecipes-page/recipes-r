@@ -1,0 +1,85 @@
+{
+  "slug": "robustly-glazed-greek-chicken-avgolemono--french",
+  "title": "French-Style Chicken with Avgolemono Sauce",
+  "description": "Tender chicken breast in a zesty avgolemono sauce, inspired by classic French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "glazed robusto coffee",
+      "amount": "1 shot",
+      "notes": "optional"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avgolemono sauce mix",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "Reduce heat to medium and add the garlic to the skillet. Cook for 1-2 minutes, until fragrant.",
+    "Add the white wine to the skillet, scraping up any browned bits from the bottom. Bring to a simmer and cook until reduced by half, about 3-4 minutes.",
+    "Stir in the chicken broth and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook until cooked through, about 10-12 minutes.",
+    "While the chicken cooks, whisk together the greek yogurt and lemon juice in a small bowl.",
+    "Stir the avgolemono sauce mix into the yogurt-lemon mixture and cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve the chicken with the avgolemono sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "dinner",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-glazed-greek-chicken-avgolemono--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:41:15.895Z"
+}
