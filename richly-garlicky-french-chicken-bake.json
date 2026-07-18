@@ -1,0 +1,86 @@
+{
+  "slug": "richly-garlicky-french-chicken-bake",
+  "title": "Creamy French Chicken Bake",
+  "description": "A rich and flavorful chicken dish, perfect for a weeknight dinner. With a creamy sauce and tender chicken, this recipe is sure to become a favorite.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "richly garlicky butter",
+      "amount": "6 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as Gruyère or Cheddar"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "In a large skillet, melt 4 tablespoons of the richly garlicky butter over medium-high heat.",
+    "Add the chicken breasts and cook until browned on both sides and cooked through, about 5-6 minutes per side.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the remaining 2 tablespoons of richly garlicky butter.",
+    "Add the flour and whisk together to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in the white wine and chicken broth, whisking continuously.",
+    "Bring the mixture to a simmer and cook until it thickens, about 2-3 minutes.",
+    "Stir in the heavy cream and grated cheese until the cheese is melted and the sauce is smooth.",
+    "Pour the sauce over the chicken breasts in the baking dish.",
+    "Sprinkle with chopped parsley and bake in the preheated oven for 10-15 minutes, or until the sauce is bubbly and the cheese is melted and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-garlicky-french-chicken-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:13:20.550Z"
+}
