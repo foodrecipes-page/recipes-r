@@ -1,0 +1,78 @@
+{
+  "slug": "roasted-snappy-jamaican-beef-fillet-skewers",
+  "title": "Jamaican Beef Skewers",
+  "description": "Tender beef skewers infused with the bold flavors of Jamaica, perfect for a summer evening.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "500g",
+      "notes": "cut into 1.5cm cubes"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "snappy scallions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (180°C).",
+    "2. In a large bowl, whisk together jerk seasoning, brown sugar, soy sauce (if using), and lemon juice.",
+    "3. Add beef cubes to the marinade, tossing to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Remove beef from marinade, letting any excess liquid drip off.",
+    "5. Thread beef cubes onto skewers, leaving a small space between each piece.",
+    "6. Grill skewers for 8-10 minutes per side, or until beef reaches 63°C.",
+    "7. During the last 2 minutes of grilling, brush skewers with peanut oil and sprinkle with chopped peanuts and scallions.",
+    "8. Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-snappy-jamaican-beef-fillet-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:20:48.730Z"
+}
