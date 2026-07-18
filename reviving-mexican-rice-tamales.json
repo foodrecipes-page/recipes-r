@@ -1,0 +1,89 @@
+{
+  "slug": "reviving-mexican-rice-tamales",
+  "title": "Mexican Reviving Tamale Casserole",
+  "description": "A comforting, flavorful casserole that combines the best of Mexican and tamales in a simple, satisfying dish",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "reviving spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tamales",
+      "amount": "4",
+      "notes": "corn husk-free tamales recommended"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": "day-old rice preferred"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar recommended"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and bell pepper until tender.",
+    "Add the garlic, diced tomatoes, black beans, and reviving spice blend. Cook for 2-3 minutes.",
+    "In a large mixing bowl, combine the cooked rice, tamale filling, and sautéed vegetable mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheese and cover with aluminum foil.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Remove the foil and continue baking for an additional 5-10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "casserole",
+    "tamale",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/reviving-mexican-rice-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:46:51.384Z"
+}
