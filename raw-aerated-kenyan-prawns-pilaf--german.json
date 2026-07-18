@@ -1,0 +1,79 @@
+{
+  "slug": "raw-aerated-kenyan-prawns-pilaf--german",
+  "title": "Kenyan Prawn Pilaf",
+  "description": "A flavorful German-inspired pilaf dish featuring Kenyan spices and succulent prawns.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan pilaf mix",
+      "amount": "1 cup",
+      "notes": "available at most African or international grocery stores"
+    },
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "shelled and deveined"
+    },
+    {
+      "name": "Raw vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "2 cups",
+      "notes": "for pilaf"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the prawns and cook until pink, about 3-4 minutes per side.",
+    "Add the Kenyan pilaf mix and stir to combine.",
+    "Add the aerated water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "kenyan",
+    "prawns",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-aerated-kenyan-prawns-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:22:31.183Z"
+}
