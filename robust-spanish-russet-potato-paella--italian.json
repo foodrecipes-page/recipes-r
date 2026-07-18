@@ -1,0 +1,96 @@
+{
+  "slug": "robust-spanish-russet-potato-paella--italian",
+  "title": "Italian-Style Paella Potatoes",
+  "description": "A tasty Italian-inspired dish that combines the flavors of paella with the comfort of roasted potatoes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Robust potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Spanish potato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Russet potato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "optional, traditional paella is made with rice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and chop the robust potatoes into 1-inch pieces.",
+    "Place the chopped potatoes in a bowl and drizzle with olive oil, salt, and black pepper.",
+    "Toss the potatoes to coat evenly and spread them out in a single layer on a baking sheet.",
+    "Roast the potatoes in the preheated oven for 20-25 minutes, or until they are golden brown and crispy.",
+    "While the potatoes are roasting, heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and chopped onion to the skillet and cook until the onion is translucent.",
+    "Add the chopped Spanish and Russet potatoes to the skillet and cook for 5-7 minutes, or until they are tender.",
+    "Season the potatoes with salt and black pepper to taste.",
+    "Serve the roasted potatoes hot, garnished with chopped fresh parsley.",
+    "If using paella rice, cook it according to package instructions and serve alongside the potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "paella",
+    "roasted-potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spanish-russet-potato-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:43:13.584Z"
+}
