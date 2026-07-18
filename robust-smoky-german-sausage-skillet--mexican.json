@@ -1,0 +1,96 @@
+{
+  "slug": "robust-smoky-german-sausage-skillet--mexican",
+  "title": "Skillet Sausage Fajitas",
+  "description": "Quick and spicy fajitas made with smoky sausage and robust flavors. Serve with warm flour tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound, sliced",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large, sliced",
+      "notes": "Any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add olive oil and cook sausage until browned, about 5 minutes.",
+    "Remove sausage and set aside.",
+    "Add more oil if necessary, then cook the onion and bell pepper until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add fajita seasoning and stir to combine.",
+    "Return sausage to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the sausage and vegetable mixture onto the tortillas and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "sausage",
+    "skillet",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-smoky-german-sausage-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:04:38.069Z"
+}
