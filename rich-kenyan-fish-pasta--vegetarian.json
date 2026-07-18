@@ -1,0 +1,75 @@
+{
+  "slug": "rich-kenyan-fish-pasta--vegetarian",
+  "title": "Kenyan Vegetable Pasta",
+  "description": "A flavorful and healthy pasta dish inspired by Kenyan cuisine, featuring a variety of colorful vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "carrots",
+      "amount": "3",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tbsp",
+      "notes": " Kenyan rich sauce (see notes)"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "optional (omit for vegetarian)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add onions and cook until softened, about 3-4 minutes.",
+    "Add chopped carrots and bell peppers to the skillet and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Stir in chopped tomatoes and cook for an additional 2-3 minutes.",
+    "Add cooked pasta to the skillet and toss with the vegetable mixture.",
+    "Stir in Kenyan rich sauce and fish sauce (if using). Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-fish-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:19:35.077Z"
+}
