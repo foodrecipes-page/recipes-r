@@ -1,0 +1,80 @@
+{
+  "slug": "richly-flavored-mediterranean-lamb-pilaf--italian",
+  "title": "Mediterranean Lamb Pilaf",
+  "description": "A savory, flavorful Italian dish made with richly seasoned lamb and Mediterranean pilaf. This hearty recipe is perfect for a satisfying meal.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Mediterranean Pilaf Mix",
+      "amount": "1 package",
+      "notes": "includes orzo, cherry tomatoes, and herbs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add the lamb and cook until browned, about 5 minutes.",
+    "Transfer the lamb to a large Dutch oven or oven-safe pot.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Mediterranean pilaf mix to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the cooked pilaf mix to the Dutch oven with the lamb.",
+    "Sprinkle the crushed oregano, salt, and black pepper over the top of the lamb and pilaf.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 30-40 minutes, until the lamb is cooked through and the pilaf is tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-mediterranean-lamb-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:34:02.832Z"
+}
