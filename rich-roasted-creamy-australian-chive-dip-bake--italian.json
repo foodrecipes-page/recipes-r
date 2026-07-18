@@ -1,0 +1,61 @@
+{
+  "slug": "rich-roasted-creamy-australian-chive-dip-bake--italian",
+  "title": "Creamy Italian Dip Bake",
+  "description": "A twist on the classic Italian dip, baked to perfection with a rich and creamy texture.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rich creamy dip",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baked australian cheddar cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, mix together the rich creamy dip, baked australian cheddar cheese, roasted garlic, and italian seasoning until well combined.",
+    "Transfer the mixture to a baking dish and top with additional shredded cheese if desired.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh chives and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "cheesy",
+    "dip",
+    "baked",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-creamy-australian-chive-dip-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:20:53.785Z"
+}
