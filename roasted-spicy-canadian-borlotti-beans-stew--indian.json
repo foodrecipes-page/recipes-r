@@ -1,0 +1,93 @@
+{
+  "slug": "roasted-spicy-canadian-borlotti-beans-stew--indian",
+  "title": "Spicy Borlotti Bean Stew",
+  "description": "A flavorful and spicy stew originating from Canada, with the addition of Indian spices, made with roasted borlotti beans.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Borlotti Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Spicy Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and grated ginger, sauté for 1 minute.",
+    "Add diced tomato and cook until they start to break down.",
+    "Add spicy tomato paste, cumin powder, coriander powder, and cayenne pepper.",
+    "Cook for 1-2 minutes, until the spices are fragrant.",
+    "Add roasted borlotti beans, water, and adjust seasoning as needed.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "beans",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-spicy-canadian-borlotti-beans-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:08:19.733Z"
+}
