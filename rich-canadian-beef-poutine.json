@@ -1,0 +1,82 @@
+{
+  "slug": "rich-canadian-beef-poutine",
+  "title": "Montreal-Style Beef Poutine",
+  "description": "A classic Canadian dish featuring slow-cooked beef, crispy fries, and rich cheese curds. Perfect for a cozy dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Cheese curds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Canned beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "1. Cut the beef into 1-inch cubes and season with salt and pepper.",
+    "2. In a large Dutch oven, heat 1 tablespoon of oil over medium heat. Sear the beef until browned on all sides, about 5 minutes.",
+    "3. Remove the beef from the pot and set aside. Add the remaining 1 tablespoon of oil to the pot.",
+    "4. Add the sliced bacon to the pot and cook until crispy, about 5 minutes. Remove the bacon from the pot and set aside.",
+    "5. Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "6. Gradually add the beef broth to the pot, whisking constantly to avoid lumps.",
+    "7. Return the beef to the pot and bring the mixture to a simmer.",
+    "8. Reduce the heat to low and cook, covered, for 2 1/2 hours, or until the beef is tender.",
+    "9. Meanwhile, peel the potatoes and cut them into 1/2-inch thick fries.",
+    "10. Heat a large skillet with about 1/2 inch of oil over medium-high heat. Fry the potatoes in batches until golden brown, about 3-4 minutes per batch.",
+    "11. Remove the fries from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "12. To assemble the poutine, place a portion of fries in a bowl, top with a spoonful of the beef and gravy, and finish with a sprinkle of cheese curds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-canadian-beef-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:55:53.789Z"
+}
