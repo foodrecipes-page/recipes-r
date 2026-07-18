@@ -1,0 +1,70 @@
+{
+  "slug": "roasted-rice-fragrant-russian-quinoa-bowl--german",
+  "title": "German-Style Roasted Rice Bowl",
+  "description": "A hearty, comforting German-inspired dish featuring roasted vegetables, fragrant rice, and quinoa in a flavorful bowl.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Vegetables (carrots, zucchini, bell peppers)",
+      "amount": "2 cups",
+      "notes": "Pre-cooked roasted vegetables from the oven"
+    },
+    {
+      "name": "Fragrant Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Russian Dressing",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade Russian dressing"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Crumbled Feta Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "1. Cook the fragrant rice and quinoa according to package instructions.",
+    "2. Roast the pre-cooked vegetables with a drizzle of olive oil and seasonings to taste.",
+    "3. In a large bowl, combine the cooked rice, quinoa, and roasted vegetables.",
+    "4. Drizzle Russian dressing over the top and toss to combine.",
+    "5. Garnish with sliced scallions and crumbled feta cheese (if using).",
+    "6. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "russian",
+    "roasted",
+    "quinoa",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-rice-fragrant-russian-quinoa-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:20:14.689Z"
+}
