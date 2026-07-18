@@ -21915,5 +21915,31 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "r"
+  },
+  {
+    "slug": "rustic-roasted-australian-beef-burger--keto",
+    "title": "Aussie Keto Beef Burger",
+    "tags": [
+      "keto",
+      "low-carb",
+      "beef",
+      "burger"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-flavored-mediterranean-lamb-pilaf--italian",
+    "title": "Mediterranean Lamb Pilaf",
+    "tags": [
+      "italian",
+      "lamb",
+      "pilaf",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "r"
   }
 ]
