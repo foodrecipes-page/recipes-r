@@ -1,0 +1,58 @@
+{
+  "slug": "raw-garlic-burger--japanese",
+  "title": "Japanese Sliders",
+  "description": "A simple and flavorful Japanese-inspired burger recipe using juicy beef patties and crispy tempura bits.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Raw Beef (80/20)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Burger Buns (gluten-free)",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat (180°C).",
+    "Divide the beef into 4 equal portions and shape each into a ball.",
+    "Flatten each ball into a patty about 1.5 cm thick.",
+    "Season the patties with salt and pepper on both sides.",
+    "Grill the patties for 4-5 minutes per side, or until they reach your desired level of doneness.",
+    "While the patties are cooking, toast the buns on the grill or in a toaster.",
+    "Assemble the sliders by spreading a slice of garlic on the bottom bun, followed by a cooked patty, a few slices of lettuce, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-sliders",
+    "beef-sliders",
+    "grilled-burgers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-garlic-burger--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:26:28.250Z"
+}
