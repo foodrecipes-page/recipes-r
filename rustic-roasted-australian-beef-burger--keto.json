@@ -1,0 +1,72 @@
+{
+  "slug": "rustic-roasted-australian-beef-burger--keto",
+  "title": "Aussie Keto Beef Burger",
+  "description": "A low-carb twist on a classic Aussie burger, featuring a high-protein beef patty served with roasted vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Rustic bread (low-carb or keto-friendly)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Roasted vegetables (such as lettuce, tomato, onion)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (such as cheddar or mozzarella)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise or keto-friendly spread",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Burger seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the Australian beef into 4 equal-sized patties.",
+    "Season the patties with burger seasoning.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 135°F (57°C) for medium-rare.",
+    "Meanwhile, toast the rustic bread slices.",
+    "Assemble the burgers by spreading mayonnaise or keto-friendly spread on the toasted bread, followed by a beef patty, roasted vegetables, and cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "beef",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-roasted-australian-beef-burger--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:55:03.178Z"
+}
