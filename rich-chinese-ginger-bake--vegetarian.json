@@ -1,0 +1,77 @@
+{
+  "slug": "rich-chinese-ginger-bake--vegetarian",
+  "title": "Ginger and Ginger Vegetarian Bake",
+  "description": "A delicious and easy-to-make vegetarian bake packed with the flavors of ginger and a rich texture.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Rich milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chinese vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bake flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and grate the ginger.",
+    "In a large mixing bowl, combine the ginger, milk, Chinese vegetables, flour, sugar, and egg.",
+    "Mix well until a smooth batter forms.",
+    "Melt the butter and add it to the batter.",
+    "Pour the batter into a greased baking dish.",
+    "Bake for 30-40 minutes or until a toothpick inserted comes out clean.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ginger",
+    "vegetarian",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chinese-ginger-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:35:11.731Z"
+}
