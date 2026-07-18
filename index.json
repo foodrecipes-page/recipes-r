@@ -18392,17 +18392,14 @@
   },
   {
     "slug": "romantic-crisp-dutch-prawns-pilaf",
-    "title": "Romantic Crisp Dutch Prawns Pilaf",
+    "title": "Dutch Prawn Pilaf",
     "tags": [
-      "easy-dessert-alt",
-      "high-protein",
-      "one-pan",
-      "prawn",
-      "romantic",
-      "weeknight"
+      "seafood",
+      "netherlands",
+      "quick-dinner"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -22056,6 +22053,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-mexican-poblano-tacos--italian",
+    "title": "Italian-Style Poblano Tacos",
+    "tags": [
+      "italian",
+      "mexican",
+      "poblano",
+      "tacos"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-roasted-ukrainian-lamb-stew--mexican",
+    "title": "Mexican Lamb Stew",
+    "tags": [
+      "mexican",
+      "lamb",
+      "stew",
+      "richly-roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 110,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-fluffy-ukrainian-pork-dumplings--chinese",
+    "title": "Pan-Fried Chinese-Style Pork Dumplings",
+    "tags": [
+      "chinese",
+      "dumplings",
+      "pork",
+      "pan-fried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
