@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-gooey-kenyan-vermicelli-rice-noodles-noodles",
+  "title": "Kenyan Vermicelli Noodle Dish",
+  "description": "A flavorful and spicy Kenyan dish made with vermicelli noodles, roasted vegetables, and gooey cheese. Serve hot and enjoy!",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Roasted vegetables (carrots, zucchini, bell peppers)",
+      "amount": "200g"
+    },
+    {
+      "name": "Gooey cheese (mozzarella or cheddar)",
+      "amount": "100g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kenyan spice mix (or substitute with curry powder)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to package instructions. Drain and set aside.",
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the roasted vegetables and cook for 2-3 minutes.",
+    "Add the tomato paste and Kenyan spice mix. Stir well to combine.",
+    "Add the cooked noodles to the pan and stir to combine with the vegetable mixture.",
+    "Transfer the noodle mixture to a baking dish.",
+    "Top with gooey cheese and bake in a preheated oven at 375°F (190°C) for 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-gooey-kenyan-vermicelli-rice-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:17:37.892Z"
+}
