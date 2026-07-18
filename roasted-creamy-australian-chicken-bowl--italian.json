@@ -1,0 +1,99 @@
+{
+  "slug": "roasted-creamy-australian-chicken-bowl--italian",
+  "title": "Creamy Australian Chicken Bowl",
+  "description": "A flavorful Italian-inspired dish featuring roasted chicken, creamy sauce, and a hint of Australian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "shellfish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian-inspired spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 boneless, skinless breasts",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2 large, sliced",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup, chopped",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup, cooked",
+      "notes": "bow-tie or penne"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the Australian-inspired spice blend, salt, and black pepper.",
+    "Rub the spice blend mixture all over the chicken breasts, making sure to coat them evenly.",
+    "Place the chicken breasts on a baking sheet lined with parchment paper and roast in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is roasting, cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced roasted red peppers and cook for 3-4 minutes, or until they start to soften.",
+    "Add the minced garlic and cook for an additional minute, or until fragrant.",
+    "Stir in the creamy sauce and cook for an additional 2-3 minutes, or until heated through.",
+    "Add the cooked pasta to the skillet and toss to combine with the creamy sauce.",
+    "Once the chicken is done roasting, let it rest for a few minutes before slicing it into thin strips.",
+    "Add the sliced chicken to the pasta and toss to combine.",
+    "Serve the Creamy Australian Chicken Bowl hot, garnished with chopped basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "creamy",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-creamy-australian-chicken-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:17:38.229Z"
+}
