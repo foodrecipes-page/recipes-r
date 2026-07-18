@@ -1107,18 +1107,16 @@
   },
   {
     "slug": "raw-refreshing-mediterranean-king-prawns-ceviche",
-    "title": "Raw Refreshing Mediterranean King Prawns Ceviche",
+    "title": "Mediterranean Prawn Ceviche",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "kosher",
-      "low-carb",
+      "prawns",
+      "ceviche",
       "mediterranean",
-      "refreshing",
-      "seafood"
+      "gluten-free",
+      "pescatarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -14287,13 +14285,11 @@
   },
   {
     "slug": "roasted-gooey-kenyan-vermicelli-rice-noodles-noodles",
-    "title": "Roasted Gooey Kenyan Vermicelli Rice Noodles",
+    "title": "Kenyan Vermicelli Noodle Dish",
     "tags": [
-      "high-carb",
       "kenyan",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "vegetarian",
+      "noodle"
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 35,
@@ -21961,6 +21957,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-canadian-mackerel-bowl--chinese",
+    "title": "Pan-Seared Mackerel with Soy Glaze",
+    "tags": [
+      "mackerel",
+      "chinese",
+      "gluten-free",
+      "fish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rounded-yeasty-korean-tofu-jeon--japanese",
+    "title": "Korean-Style Tofu Bites with Yeasty Breading",
+    "tags": [
+      "korean",
+      "tofu",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
