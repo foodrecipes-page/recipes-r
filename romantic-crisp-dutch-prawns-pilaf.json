@@ -1,0 +1,81 @@
+{
+  "slug": "romantic-crisp-dutch-prawns-pilaf",
+  "title": "Dutch Prawn Pilaf",
+  "description": "A simple and flavorful pilaf dish from the Netherlands, loaded with succulent prawns. Perfect as a quick dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "Shell and devein the prawns before using"
+    },
+    {
+      "name": "Crisp Pilaf Mix",
+      "amount": "1 packet",
+      "notes": "Use a store-bought crisp pilaf mix for convenience"
+    },
+    {
+      "name": "Dutch Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral oil with a high smoke point"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, minced",
+      "notes": "Optional, but adds extra depth"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": "Optional, but adds extra flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for a brighter flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the prawns from the skillet and set aside.",
+    "Add the pilaf mix to the skillet and cook according to the package instructions.",
+    "Stir in the ginger, garlic, lemon juice, salt, and pepper.",
+    "Return the prawns to the skillet and toss to coat with the pilaf mixture.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "netherlands",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-crisp-dutch-prawns-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:52:49.000Z"
+}
