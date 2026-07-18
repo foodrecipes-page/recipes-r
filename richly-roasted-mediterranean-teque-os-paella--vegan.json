@@ -1,0 +1,79 @@
+{
+  "slug": "richly-roasted-mediterranean-teque-os-paella--vegan",
+  "title": "Mediterranean Vegan Paella",
+  "description": "A vegan take on the classic Spanish dish, packed with roasted vegetables and flavorful spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Richly roasted red peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Teque seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add smoked paprika, salt, and black pepper. Stir for 1 minute.",
+    "Add the paella rice and stir for 2 minutes.",
+    "Add the roasted red peppers, olives, and Teque seeds. Stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "paella",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-mediterranean-teque-os-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:39:00.093Z"
+}
