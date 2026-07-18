@@ -1,0 +1,73 @@
+{
+  "slug": "rich-fluffy-ukrainian-pork-dumplings",
+  "title": "Traditional Ukrainian Pork Dumplings",
+  "description": "A hearty Ukrainian dish featuring rich and fluffy pork dumplings made with love and care.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Ground",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, salt, and black pepper.",
+    "Add the egg and mix well to combine.",
+    "Gradually add the flour and water, mixing until a dough forms.",
+    "Knead the dough for about 10 minutes until smooth.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Spoon a small amount of the pork mixture onto the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 5-7 minutes.",
+    "Serve the dumplings hot with your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-fluffy-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:54:46.466Z"
+}
