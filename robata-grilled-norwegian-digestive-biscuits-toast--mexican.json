@@ -1,0 +1,89 @@
+{
+  "slug": "robata-grilled-norwegian-digestive-biscuits-toast--mexican",
+  "title": "Grilled Biscuit Tostada",
+  "description": "A twist on traditional Mexican tostadas, featuring grilled biscuits topped with a variety of flavorful ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian Digestive Biscuits",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Robata Grilled Chorizo",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the chorizo until browned and cooked through, about 5 minutes.",
+    "Grill the biscuits for 2-3 minutes on each side, or until crispy.",
+    "Toast the bread slices until lightly browned.",
+    "In a medium bowl, combine diced avocado, radishes, and cilantro.",
+    "Stir in queso fresco and lime juice.",
+    "Split the toasted biscuits in half and top with a slice of grilled chorizo, a spoonful of the avocado mixture, and a sprinkle of queso fresco.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "grilled",
+    "avocado",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robata-grilled-norwegian-digestive-biscuits-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:47:30.933Z"
+}
