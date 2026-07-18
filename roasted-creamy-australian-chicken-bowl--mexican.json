@@ -1,0 +1,93 @@
+{
+  "slug": "roasted-creamy-australian-chicken-bowl--mexican",
+  "title": "Creamy Chicken Bowl",
+  "description": "A delicious Mexican-inspired bowl filled with roasted chicken and creamy sauce, served over a bed of rice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "roasted red bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss chicken with cumin, paprika, salt, and pepper. Roast in the oven for 20-25 minutes, or until cooked through.",
+    "Sauté diced onion and minced garlic in a pan until softened.",
+    "Add roasted red bell peppers to the pan and cook for an additional 2-3 minutes.",
+    "Stir in creamy tomato sauce and bring to a simmer.",
+    "Serve chicken over a bed of cooked white rice, topped with the creamy sauce and roasted red bell peppers.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "creamy",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-creamy-australian-chicken-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:48:27.701Z"
+}
