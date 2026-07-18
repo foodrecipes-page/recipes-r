@@ -5506,17 +5506,14 @@
   },
   {
     "slug": "rich-fluffy-ukrainian-pork-dumplings",
-    "title": "Rich Fluffy Ukrainian Pork Dumplings",
+    "title": "Traditional Ukrainian Pork Dumplings",
     "tags": [
-      "dumplings",
-      "festive-dishes",
-      "keto-friendly",
-      "low-carb",
-      "pork-recipes",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -21736,6 +21733,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-creamy-australian-chicken-bowl--mexican",
+    "title": "Creamy Chicken Bowl",
+    "tags": [
+      "mexican",
+      "chicken",
+      "creamy",
+      "roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-roasted-creamy-australian-chive-dip-bake--italian",
+    "title": "Creamy Italian Dip Bake",
+    "tags": [
+      "italian",
+      "cheesy",
+      "dip",
+      "baked",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
