@@ -11912,17 +11912,14 @@
   },
   {
     "slug": "richly-garlicky-french-chicken-bake",
-    "title": "Richly Garlicky French Chicken Bake",
+    "title": "Creamy French Chicken Bake",
     "tags": [
-      "claypot-cooking",
-      "crowd-pleaser",
-      "french-cuisine",
-      "garlic-lover",
-      "low-glycemic",
-      "one-pot"
+      "chicken",
+      "french",
+      "bake"
     ],
     "cuisine": "French",
-    "totalTimeMin": 85,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -22007,6 +22004,58 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-aerated-kenyan-prawns-pilaf--german",
+    "title": "Kenyan Prawn Pilaf",
+    "tags": [
+      "german",
+      "kenyan",
+      "prawns",
+      "pilaf"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-glazed-greek-chicken-avgolemono--french",
+    "title": "French-Style Chicken with Avgolemono Sauce",
+    "tags": [
+      "chicken",
+      "french",
+      "dinner",
+      "sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-flavored-british-ground-beef-casserole--german",
+    "title": "German Beef Casserole",
+    "tags": [
+      "beef",
+      "german",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-glazed-korean-chicken-bowl--thai",
+    "title": "Thai-Style Glazed Korean Chicken Bowl",
+    "tags": [
+      "thai",
+      "korean",
+      "chicken",
+      "bowl"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
