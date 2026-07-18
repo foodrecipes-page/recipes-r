@@ -1,0 +1,85 @@
+{
+  "slug": "raw-aerated-kenyan-prawns-pilaf--italian",
+  "title": "Italian Prawn Pilaf",
+  "description": "A flavorful and easy-to-make Italian-inspired dish featuring succulent prawns and a delicious pilaf.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw prawns",
+      "amount": "12 ounces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 teaspoon",
+      "notes": " Kenyan spices for flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "aerated water for cooking pilaf"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the raw prawns and cook until they turn pink, about 2-3 minutes per side.",
+    "Remove the prawns from the skillet and set aside.",
+    "Add the pilaf to the skillet and cook according to the package instructions, using the aerated water.",
+    "Once the pilaf is cooked, fluff it with a fork and stir in the Kenyan spices.",
+    "Add the cooked prawns back into the pilaf and stir in the lemon juice.",
+    "Season with salt to taste.",
+    "Serve the prawn pilaf hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "prawn",
+    "pilaf",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-aerated-kenyan-prawns-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:02:30.217Z"
+}
