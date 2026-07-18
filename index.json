@@ -21851,5 +21851,31 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-portuguese-flaxseed-skewers--thai",
+    "title": "Thai Chicken Satay",
+    "tags": [
+      "thai",
+      "chicken",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-creamy-australian-chicken-bowl--italian",
+    "title": "Creamy Australian Chicken Bowl",
+    "tags": [
+      "italian",
+      "chicken",
+      "creamy",
+      "roasted"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "r"
   }
 ]
