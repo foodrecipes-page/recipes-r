@@ -358,17 +358,15 @@
   },
   {
     "slug": "radical-kenyan-cabbage-fritters",
-    "title": "Radical Kenyan Cabbage Fritters",
+    "title": "Radical Kenyan Fritter Cabbage Stir Fry",
     "tags": [
-      "double-fry",
-      "french-fried",
-      "high-fiber",
-      "macrobiotic-friendly",
-      "quick-snack",
-      "vegan"
+      "kenyan",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -22182,6 +22180,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-spanish-russet-potato-paella--indian",
+    "title": "Spiced Paella Potato Fritters",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "fried"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-korean-white-sausage-jeon--keto",
+    "title": "Korean-Style Pork Jeon",
+    "tags": [
+      "korean",
+      "breakfast",
+      "keto",
+      "pork",
+      "jeon"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
