@@ -1,0 +1,84 @@
+{
+  "slug": "richly-roasted-uruguayan-pork-back-ribs-skewers",
+  "title": "Uruguayan Pork Ribs",
+  "description": "A flavorful and tender recipe inspired by Uruguayan cuisine, featuring richly roasted pork ribs served with a side of your choice.",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan pork back ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, mix together roasted red pepper paste, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture evenly onto both sides of the pork ribs.",
+    "Place the ribs on a baking sheet lined with aluminum foil, leaving space between each rib.",
+    "Drizzle olive oil over the ribs and toss to coat.",
+    "Roast the ribs in the preheated oven for 20 minutes.",
+    "Increase oven temperature to 400°F (200°C) and continue roasting for an additional 15-20 minutes, or until the ribs are caramelized and tender.",
+    "Remove the ribs from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "pork",
+    "ribs",
+    "grill",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-uruguayan-pork-back-ribs-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:37:36.076Z"
+}
