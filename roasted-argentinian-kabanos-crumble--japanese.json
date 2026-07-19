@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-argentinian-kabanos-crumble--japanese",
+  "title": "Japanese-Style Beef Kabanos Skewers with Roasted Vegetable Crumble",
+  "description": "A fusion twist on traditional Japanese cuisine, featuring tender beef kabanos skewers paired with a roasted vegetable crumble.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kabanos",
+      "amount": "1 lb"
+    },
+    {
+      "name": "roasted vegetables (carrots, zucchini, bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "_argentinian beef flank steak",
+      "amount": "1 lb"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crumble topping (almonds, breadcrumbs, grated Parmesan)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Cut beef kabanos into 1-inch pieces and thread onto skewers.",
+    "Grill the beef kabanos for 5-7 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, cut Argentinian beef flank steak into 1-inch cubes and marinate in a mixture of soy sauce, sugar, and rice vinegar for at least 30 minutes.",
+    "Grill the beef cubes for 3-5 minutes per side, or until cooked to desired doneness.",
+    "Toss roasted vegetables with sesame oil and season with salt and pepper.",
+    "To make the crumble topping, mix together almonds, breadcrumbs, and grated Parmesan cheese.",
+    "Sprinkle the crumble topping over the roasted vegetables and serve with beef skewers and grilled beef cubes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "skewers",
+    "roasted-vegetables",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-argentinian-kabanos-crumble--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:59:16.257Z"
+}
