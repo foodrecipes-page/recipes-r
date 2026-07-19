@@ -1,0 +1,91 @@
+{
+  "slug": "romantic-algerian-lamb-roast--thai",
+  "title": "Thai-Style Roasted Lamb",
+  "description": "A fusion of Thai and Mediterranean flavors in this unique roasted lamb dish.",
+  "cuisine": "thai",
+  "diet": [
+    "lamb",
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg roast",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "bone-in"
+    },
+    {
+      "name": "romantic olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "algerian ras el hanout",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a small bowl, mix together olive oil, ras el hanout, brown sugar, fish sauce, lime juice, garlic, and ginger.",
+    "Rub the spice mixture all over the lamb leg roast, making sure to coat it evenly.",
+    "Season the lamb with salt and pepper to taste.",
+    "Place the lamb on a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing.",
+    "Transfer the sliced lamb to a serving platter and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "thai",
+    "romantic",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-algerian-lamb-roast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:54:27.248Z"
+}
