@@ -1,0 +1,81 @@
+{
+  "slug": "romantic-vietnamese-vegetables-nem-nuong--mexican",
+  "title": "Nem Nuong Tacos",
+  "description": "A unique fusion of Vietnamese and Mexican flavors, Nem Nuong Tacos are a flavorful twist on traditional street food.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nem Nuong Sausages",
+      "amount": "8",
+      "notes": "Available in most Asian markets or online"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 count",
+      "notes": "Corn tortillas work best for this recipe"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "For serving"
+    },
+    {
+      "name": "Vegetables (lettuce, carrots, bean sprouts)",
+      "amount": "1 cup",
+      "notes": "Shredded or sliced for tacos"
+    },
+    {
+      "name": "Sriracha Mayo",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vietnamese chili sauce (sriracha)",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cilantro-lime sauce (see below)",
+      "amount": "1/4 cup",
+      "notes": "Homemade sauce"
+    }
+  ],
+  "instructions": [
+    "1. Grill or pan-fry Nem Nuong Sausages until cooked through.",
+    "2. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "3. Assemble tacos with cooked sausages, shredded vegetables, cilantro, and a dollop of sriracha mayo.",
+    "4. Drizzle cilantro-lime sauce over the top of each taco.",
+    "5. Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vietnamese",
+    "fusion",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-vietnamese-vegetables-nem-nuong--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:08:56.401Z"
+}
