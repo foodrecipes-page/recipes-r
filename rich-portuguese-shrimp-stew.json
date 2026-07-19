@@ -1,0 +1,88 @@
+{
+  "slug": "rich-portuguese-shrimp-stew",
+  "title": "Portuguese Shrimp Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, rich in seafood and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Rich Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Portuguese Stew Fish (such as Cod or Haddock)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion, minced garlic, and diced red pepper, and sauté until the vegetables are soft.",
+    "Add the chopped tomato and sauté for another 2 minutes.",
+    "Add the fish sauce, white wine, and stir to combine.",
+    "Add the Portuguese stew fish and shrimp, and stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley if desired.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-portuguese-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:14:25.635Z"
+}
