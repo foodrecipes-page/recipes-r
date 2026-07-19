@@ -1,0 +1,82 @@
+{
+  "slug": "resinous-polish-taco-stir-fry",
+  "title": "Taco Stew",
+  "description": "A twist on traditional tacos, this stew combines the flavors of the taco with the comfort of a stew. Perfect for a chilly evening.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taco",
+      "amount": "1 packet",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cups",
+      "notes": "Mixed vegetables"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "Diced potatoes"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon",
+      "notes": "For potatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the polish in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the stir and fry and cook for 5 minutes.",
+    "Add the taco seasoning and stir to combine.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-polish-taco-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:15:23.018Z"
+}
