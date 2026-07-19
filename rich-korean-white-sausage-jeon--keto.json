@@ -1,0 +1,90 @@
+{
+  "slug": "rich-korean-white-sausage-jeon--keto",
+  "title": "Korean-Style Pork Jeon",
+  "description": "A crispy and savory Korean-style pancake made with pork sausage and served with a side of spicy sauce. This keto-friendly dish is perfect for a quick and delicious meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": " casings removed"
+    },
+    {
+      "name": "white rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rich milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "jeon",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the white rice flour, rich milk, and egg until smooth.",
+    "Add the pork sausage, korean chili flakes, and chopped green onions to the bowl and stir until well combined.",
+    "Heat a large non-stick skillet or cast-iron pan over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and cook for 2-3 minutes, until the bottom is golden brown.",
+    "Flip the jeon and cook for an additional 1-2 minutes, until the other side is also golden brown.",
+    "Repeat with the remaining batter, until all the jeon are cooked.",
+    "Serve the jeon hot with a side of spicy sauce, made by heating the unsalted butter and sugar in a small saucepan over low heat, until the sugar has dissolved.",
+    "Add the jeon to the sauce and toss to coat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "keto",
+    "pork",
+    "jeon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-korean-white-sausage-jeon--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:20:05.187Z"
+}
