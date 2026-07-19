@@ -1,0 +1,92 @@
+{
+  "slug": "rich-korean-pork-ssam--italian",
+  "title": "Pork Ssam Italian Wrap",
+  "description": "A unique fusion of Italian flavors and Korean-style pork ssam. Tender pork, crunchy vegetables, and creamy sauce wrapped in a crispy Italian flatbread.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "Italian flatbread",
+      "amount": "1 package",
+      "notes": "4-6 wraps"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/4 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, pepper, and Korean chili flakes.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, then transfer to the oven and cook until tender, about 20-25 minutes.",
+    "Meanwhile, toast the Italian flatbread slices in the oven for 2-3 minutes, or until crispy.",
+    "In a small bowl, mix together ricotta cheese, soy sauce, and minced garlic.",
+    "Assemble the wraps by spreading a tablespoon of ricotta mixture on each flatbread slice.",
+    "Top with sliced cucumber, grated carrots, chopped green onions, and a few slices of the cooked pork shoulder.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "pork",
+    "wrap",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-korean-pork-ssam--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:31:17.998Z"
+}
