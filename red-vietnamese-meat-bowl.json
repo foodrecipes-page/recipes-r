@@ -1,0 +1,89 @@
+{
+  "slug": "red-vietnamese-meat-bowl",
+  "title": "Vietnamese Meat Bowl",
+  "description": "A flavorful Vietnamese-inspired meal consisting of marinated meat, herbs, and noodles served in a bowl.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese-style Pork",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese Rice Noodles",
+      "amount": "200g",
+      "notes": "cooked"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together fish sauce, soy sauce, and hoisin sauce to make the marinade.",
+    "2. Add the sliced pork to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "3. Cook the Vietnamese rice noodles according to package instructions. Drain and set aside.",
+    "4. Heat a large skillet or wok over medium-high heat. Add the sliced red onion and cook until lightly browned.",
+    "5. Add the sliced red chili peppers to the skillet and cook for an additional 2 minutes.",
+    "6. Remove the pork from the marinade and add it to the skillet. Cook until browned and cooked through.",
+    "7. To assemble the bowls, place a portion of noodles in the bottom of a bowl, followed by the cooked pork and vegetables.",
+    "8. Sprinkle chopped cilantro on top of the pork and serve immediately.",
+    "9. Serve with a squeeze of lime juice and additional fish sauce, soy sauce, or hoisin sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "meat",
+    "lunch",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-vietnamese-meat-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:40:11.525Z"
+}
