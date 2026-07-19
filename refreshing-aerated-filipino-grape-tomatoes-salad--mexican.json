@@ -1,0 +1,55 @@
+{
+  "slug": "refreshing-aerated-filipino-grape-tomatoes-salad--mexican",
+  "title": "Mexican Grape Salad",
+  "description": "A light and refreshing salad with a twist of mexican flavors. Perfect for hot summer days.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape",
+      "amount": "2 cups, halved"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups, mixed greens"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Aerated vinegar",
+      "amount": "2 tsp, apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens, halved grapes, and diced tomatoes.",
+    "2. In a small bowl, whisk together the aerated vinegar, salt, and pepper.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "vegetarian",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-aerated-filipino-grape-tomatoes-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:47:49.703Z"
+}
