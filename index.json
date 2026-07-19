@@ -15969,18 +15969,14 @@
   },
   {
     "slug": "roasted-ukrainian-pepper-roast",
-    "title": "Roasted Ukrainian Pepper Roast",
+    "title": "Roasted Ukrainian Pepper Delight",
     "tags": [
-      "date-night",
-      "european",
-      "fluffy",
-      "one-pan",
-      "roasted-pepper",
-      "ukrainian",
-      "vegetarian"
+      "ukrainian-cuisine",
+      "roasted-peppers",
+      "vegetarian-dinner"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -16790,17 +16786,14 @@
   },
   {
     "slug": "robust-juicy-polish-morning-glory-noodles",
-    "title": "Polish Morning Glory Noodles",
+    "title": "Polish Morning Glory Breakfast Noodles",
     "tags": [
-      "healthy-breakfast",
-      "jain-friendly",
-      "noodle-dish",
-      "polish-cuisine",
-      "quick-meal",
-      "vegetarian"
+      "breakfast",
+      "polish",
+      "morning-glory"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -22326,6 +22319,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-uruguayan-beef-stew--vegetarian",
+    "title": "Uruguayan Beef Stew",
+    "tags": [
+      "uruguayan",
+      "vegetarian",
+      "portobello-mushroom"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-chewy-lazy-sunday-potatoe-bun--italian",
+    "title": "Italian Sunday Brunch",
+    "tags": [
+      "italian",
+      "breakfast",
+      "brunch",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
