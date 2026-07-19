@@ -17908,17 +17908,15 @@
   },
   {
     "slug": "robustly-fermented-ukrainian-cabbage-stew",
-    "title": "Robustly Fermented Ukrainian Cabbage Stew",
+    "title": "Traditional Ukrainian Cabbage Stew",
     "tags": [
-      "comfort-food",
-      "fermented-foods",
-      "gluten-free",
-      "keto-friendly",
-      "one-pot",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "cabbage",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -22245,6 +22243,34 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-argentinian-kabanos-crumble--japanese",
+    "title": "Japanese-Style Beef Kabanos Skewers with Roasted Vegetable Crumble",
+    "tags": [
+      "japanese",
+      "beef",
+      "skewers",
+      "roasted-vegetables",
+      "crumble"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-silky-light-zanzibari-poffertjes--keto",
+    "title": "Light Zanzibari Poffertjes Keto Pancakes",
+    "tags": [
+      "keto",
+      "low-carb",
+      "poffertjes",
+      "pancakes",
+      "breakfast"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 20,
     "shard": "r"
   }
 ]
