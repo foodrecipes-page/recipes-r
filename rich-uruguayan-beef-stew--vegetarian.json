@@ -1,0 +1,93 @@
+{
+  "slug": "rich-uruguayan-beef-stew--vegetarian",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty beef stew recipe inspired by the flavors of Uruguay. Since we don't have beef, we'll substitute it with portobello mushrooms for a delicious vegetarian alternative.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Make sure to use a vegetarian broth"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Salsa Criolla (or substitute with a similar salsa)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion, garlic, and red bell pepper. Cook until the vegetables are tender.",
+    "Add the portobello mushrooms and cook until they release their moisture and start to brown.",
+    "Add the tomato paste and cook for 1-2 minutes.",
+    "Add the beef broth, red wine, and Uruguayan salsa criolla. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with crusty bread or over mashed potatoes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "portobello-mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-uruguayan-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:12:35.702Z"
+}
