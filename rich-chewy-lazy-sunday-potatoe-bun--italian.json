@@ -1,0 +1,65 @@
+{
+  "slug": "rich-chewy-lazy-sunday-potatoe-bun--italian",
+  "title": "Italian Sunday Brunch",
+  "description": "A comforting Italian brunch featuring a rich potatoe and bun dish, perfect for a lazy Sunday morning.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoe",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rich",
+      "amount": "1 package of sauteed mushrooms",
+      "notes": ""
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup of fresh ricotta cheese",
+      "notes": ""
+    },
+    {
+      "name": "Lazy",
+      "amount": "1/2 cup of chopped fresh parsley",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the potatoe until tender, then chill.",
+    "Split the buns in half.",
+    "In a pan, saute the mushrooms with olive oil until caramelized.",
+    "Mix the ricotta cheese with parsley and season with salt.",
+    "Assemble the dish by placing a potatoe slice on the bottom bun, topping it with the ricotta mixture, and finishing it with the mushroom mixture.",
+    "Place the top bun on the dish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chewy-lazy-sunday-potatoe-bun--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:52:01.232Z"
+}
