@@ -1,0 +1,72 @@
+{
+  "slug": "robust-yeasty-indian-potatoes-vada-pav--vegetarian",
+  "title": "Vegetarian Vada Pav",
+  "description": "A popular Indian street food, this vegetarian vada pav recipe features crispy fried vadas served in a soft, fluffy pav bun.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pav",
+      "amount": "4-6 buns"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "vada",
+      "amount": "1 package, or homemade vadas"
+    },
+    {
+      "name": "robust",
+      "amount": "1 packet yeast (for pav dough)"
+    },
+    {
+      "name": "yeasty",
+      "amount": "2 cups warm water (for pav dough)"
+    },
+    {
+      "name": "indian",
+      "amount": "2 tablespoons oil (for frying)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine pav dough ingredients and knead for 10 minutes.",
+    "2. Let the dough rise for 1 hour.",
+    "3. Divide the dough into 4-6 equal portions and shape into buns.",
+    "4. Heat oil in a deep frying pan for frying the vadas.",
+    "5. Once the oil is hot, add the vadas and fry until golden brown.",
+    "6. Assemble the vada pav by placing a fried vada inside a soft pav bun.",
+    "7. Serve hot with chutney or ketchup.",
+    "8. For the potato filling, boil the potatoes until tender, then mash and season with salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "finger-food",
+    "street-food",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-yeasty-indian-potatoes-vada-pav--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:12:06.333Z"
+}
