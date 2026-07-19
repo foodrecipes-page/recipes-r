@@ -1,0 +1,79 @@
+{
+  "slug": "radical-kenyan-cabbage-fritters",
+  "title": "Radical Kenyan Fritter Cabbage Stir Fry",
+  "description": "A hearty and flavorful stir fry dish combining the crunch of cabbage, the spiciness of radical kenyan peppers, and crispy fritters.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Radical Kenyan Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fritters",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced radical kenyan peppers and cook until they start to soften, about 3-4 minutes.",
+    "Add the shredded cabbage and cook until it starts to wilt, about 4-5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fritters to the skillet and stir to combine with the peppers and cabbage.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the fritters are crispy and the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radical-kenyan-cabbage-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:49:41.747Z"
+}
