@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-uruguayan-potatoes-gratin",
+  "title": "Uruguayan Roasted Potato Gratin",
+  "description": "A delicious and flavorful side dish that combines the richness of Uruguayan cheese with the simplicity of roasted potatoes.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2-3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup shredded",
+      "notes": "Uruguayan cheese or similar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing potatoes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sliced potatoes with olive oil, garlic, salt, and pepper until they are evenly coated.",
+    "Spread the potatoes in a single layer on a baking sheet and roast for 20-25 minutes, or until they are golden brown and tender.",
+    "While the potatoes are roasting, mix the grated cheese with a pinch of salt and pepper in a separate bowl.",
+    "Once the potatoes are done, remove them from the oven and brush them with a little more olive oil if needed.",
+    "Transfer the potatoes to a baking dish and top with the cheese mixture.",
+    "Return the dish to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and garnish with chopped parsley if desired.",
+    "Serve the Uruguayan roasted potato gratin hot, straight from the oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "sides",
+    "potatoes",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:56:55.937Z"
+}
