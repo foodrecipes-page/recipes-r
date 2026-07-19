@@ -1,0 +1,90 @@
+{
+  "slug": "rustic-dutch-chicken-roast--gluten-free",
+  "title": "Roast Chicken with Dutch Potatoes",
+  "description": "A simple and flavorful roast chicken dish served with rustic Dutch potatoes. This recipe is perfect for a gluten-free meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3-4 lbs)",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3 large rustic potatoes",
+      "notes": ""
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, salt, pepper, garlic powder, and thyme.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is roasting, peel the potatoes and cut them into large chunks.",
+    "Place the potatoes in a large bowl and drizzle with the olive oil, salt, and pepper.",
+    "Toss the potatoes to coat them evenly with the oil and seasonings.",
+    "After the chicken has roasted for 30 minutes, add the potatoes to the oven and continue roasting for another 20-25 minutes, or until they are golden brown.",
+    "Remove the chicken and potatoes from the oven and let them rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roast-chicken",
+    "gluten-free",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-dutch-chicken-roast--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:35:21.386Z"
+}
