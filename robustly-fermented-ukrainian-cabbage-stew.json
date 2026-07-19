@@ -1,0 +1,85 @@
+{
+  "slug": "robustly-fermented-ukrainian-cabbage-stew",
+  "title": "Traditional Ukrainian Cabbage Stew",
+  "description": "A hearty and flavorful Ukrainian-inspired cabbage stew made with fermented sauerkraut and robust Ukrainian sausage.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian Sausage",
+      "amount": "1 lb",
+      "notes": "look for a robust, fermented sausage"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "shredded or chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Dried Bay Leaves",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Brown the Ukrainian sausage in a large Dutch oven over medium-high heat.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the shredded cabbage to the pot and cook until it starts to wilt, about 5 minutes.",
+    "Add the beef broth, caraway seeds, and bay leaves to the pot.",
+    "Return the Ukrainian sausage to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cabbage",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-fermented-ukrainian-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:54:19.172Z"
+}
