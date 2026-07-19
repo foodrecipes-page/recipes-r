@@ -1,0 +1,92 @@
+{
+  "slug": "robust-spanish-russet-potato-paella--indian",
+  "title": "Spiced Paella Potato Fritters",
+  "description": "A twist on traditional Indian street food, these crispy fritters combine the flavors of Indian spices with the warmth of paella.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "robust potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "spanish paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "1. Boil the robust and russet potatoes until tender. Mash them in a bowl.",
+    "2. Heat oil in a pan and add cumin, coriander, turmeric, and red chili powder. Sauté for 1 minute.",
+    "3. Add the Spanish paella rice to the pan and sauté for 2 minutes.",
+    "4. Mix the cooked rice with the mashed potatoes, onion, ginger, lemon juice, and salt.",
+    "5. Divide the mixture into 8 equal portions and shape into patties.",
+    "6. Heat oil in a non-stick pan and fry the patties until golden brown and crispy.",
+    "7. Flip the patties and fry the other side until crispy.",
+    "8. Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spanish-russet-potato-paella--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:18:20.474Z"
+}
