@@ -1,0 +1,85 @@
+{
+  "slug": "robust-crisp-portuguese-chicken-dumplings",
+  "title": "Crispy Chicken Dumplings",
+  "description": "A delicious and easy-to-make dish that combines the flavors of crispy chicken and tender dumplings.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "portuguese dumpling mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "robust red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (175°C).",
+    "2. In a bowl, mix together flour and a pinch of salt.",
+    "3. In a separate bowl, whisk eggs and mix with the dumpling mix.",
+    "4. Add the flour mixture to the egg mixture and mix until a dough forms.",
+    "5. Knead the dough for 5 minutes and divide into 8 equal pieces.",
+    "6. Roll out each piece into a thin circle.",
+    "7. Place a chicken breast in the center of each circle and fold the dough over the chicken.",
+    "8. Seal the edges and press with a fork to ensure they are sealed.",
+    "9. Fry the dumplings for 3-4 minutes on each side, or until golden brown.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dumplings",
+    "portuguese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-crisp-portuguese-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:47:00.058Z"
+}
