@@ -1,0 +1,86 @@
+{
+  "slug": "robust-rural-australian-corn-stir-fry--gluten-free",
+  "title": "Australian-Style Grilled Corn with Bush Tomatoes",
+  "description": "A simple and flavorful recipe featuring grilled corn and bush tomatoes, originating from rural Australia. Perfect for a gluten-free dinner option.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears",
+      "notes": "any variety, husked and silked"
+    },
+    {
+      "name": "bush tomatoes",
+      "amount": "200g",
+      "notes": "or 2 large beefsteak tomatoes, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing corn"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush corn with olive oil and season with salt and pepper.",
+    "Grill corn for 10-12 minutes, turning occasionally, until lightly charred.",
+    "Meanwhile, heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add diced bush tomatoes and cook for 2-3 minutes, until tender.",
+    "Stir in lemon juice and season with salt and pepper to taste.",
+    "Serve grilled corn with the bush tomato mixture spooned over the top.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grilled",
+    "corn",
+    "bush-tomatoes",
+    "gluten-free",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-rural-australian-corn-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:31:14.189Z"
+}
