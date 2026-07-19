@@ -1,0 +1,82 @@
+{
+  "slug": "robust-juicy-polish-morning-glory-noodles",
+  "title": "Polish Morning Glory Breakfast Noodles",
+  "description": "A hearty breakfast recipe combining Polish sausage and Morning Glory flowers in a savory noodle dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "8 oz",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "Morning Glory flowers",
+      "amount": "1 cup",
+      "notes": "Use the young, tender flowers and leaves"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "Gluten-free noodles or traditional egg noodles"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the sliced Polish sausage and cook until browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Morning Glory flowers and cook until wilted.",
+    "Stir in the cooked noodles, salt, and pepper.",
+    "Serve hot, garnished with additional Morning Glory flowers if desired.",
+    "Serve with remaining butter on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "polish",
+    "morning-glory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-juicy-polish-morning-glory-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:04:03.750Z"
+}
