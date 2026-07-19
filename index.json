@@ -16440,16 +16440,14 @@
   },
   {
     "slug": "robust-crisp-portuguese-chicken-dumplings",
-    "title": "Robust Crisp Portuguese Chicken Dumplings",
+    "title": "Crispy Chicken Dumplings",
     "tags": [
-      "crispy",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
+      "chicken",
+      "dumplings",
       "portuguese",
-      "weeknight"
+      "lunch"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 35,
     "shard": "r"
   },
@@ -22235,6 +22233,18 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-fluffy-ukrainian-pork-dumplings--gluten-free",
+    "title": "Traditional Ukrainian Pork Dumplings",
+    "tags": [
+      "ukrainian",
+      "pork",
+      "dumplings"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
