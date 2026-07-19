@@ -1430,16 +1430,15 @@
   },
   {
     "slug": "red-vietnamese-meat-bowl",
-    "title": "Red Vietnamese Meat Bowl",
+    "title": "Vietnamese Meat Bowl",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "meat",
+      "lunch",
+      "noodle"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -12462,17 +12461,15 @@
   },
   {
     "slug": "richly-smoked-norwegian-cheese-casserole",
-    "title": "Richly Smoked Norwegian Cheese Casserole",
+    "title": "Norwegian Smoked Cheese Casserole",
     "tags": [
-      "cheese-pull",
-      "coconut-cream",
-      "flexitarian-friendly",
-      "norwegian-cuisine",
-      "one-pan",
-      "smoked-cheese"
+      "cheese",
+      "casserole",
+      "norwegian",
+      "smoked"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -17052,17 +17049,16 @@
   },
   {
     "slug": "robust-refreshing-greek-yogurt-tzatziki",
-    "title": "Robust Refreshing Greek Yogurt Tzatziki",
+    "title": "Greek Tzatziki Dip",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "greek-food",
-      "refreshing-snack",
-      "summer-snack",
-      "vegetarian-friendly"
+      "greek",
+      "tzatziki",
+      "dip",
+      "refreshing",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 47,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -22302,6 +22298,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 75,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-korean-pork-ssam--italian",
+    "title": "Pork Ssam Italian Wrap",
+    "tags": [
+      "italian",
+      "korean",
+      "pork",
+      "wrap",
+      "flatbread"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
