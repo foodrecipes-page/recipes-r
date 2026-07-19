@@ -1,0 +1,87 @@
+{
+  "slug": "rough-tangy-korean-lentils-jjigae--mexican",
+  "title": "Lentil Jjigae Tacos",
+  "description": "A spicy, savory fusion of Korean and Mexican flavors, featuring lentils and a tangy jjigae sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "Rough Chopped Onion",
+      "amount": "1/2 cup",
+      "notes": "from a Korean market"
+    },
+    {
+      "name": "Tangy Jjigae Sauce",
+      "amount": "2 tbsp",
+      "notes": "from a Korean market or homemade"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "optional, for spice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tsp of cumin and 1 tsp of Korean chili flakes (if using) and cook for 1 minute.",
+    "Add 1/2 cup of rough chopped onion and cook until softened, about 3-4 minutes.",
+    "Add 1 cup of lentils and 2 tbsp of tangy jjigae sauce. Cook for 1-2 minutes.",
+    "Add 2 tbsp of tomato paste (if using) and cook for an additional minute.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning lentil mixture onto a tortilla, topping with cilantro and a dollop of sour cream (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "lentil-tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rough-tangy-korean-lentils-jjigae--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:04:55.109Z"
+}
