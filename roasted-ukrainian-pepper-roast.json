@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-ukrainian-pepper-roast",
+  "title": "Roasted Ukrainian Pepper Delight",
+  "description": "A hearty and flavorful dish inspired by Ukrainian cuisine, featuring roasted peppers as the main attraction.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppers, any color",
+      "amount": "4",
+      "notes": "Any color or combination of peppers works well"
+    },
+    {
+      "name": "Roast chicken broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves",
+      "notes": "Mince roasted garlic for added depth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing peppers"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut peppers in half and remove seeds and membranes.",
+    "Brush peppers with olive oil and season with salt and pepper.",
+    "Roast peppers in the oven for 20-25 minutes, or until skin is blistered and charred.",
+    "Remove peppers from oven and let cool.",
+    "Scoop out flesh and chop into pieces.",
+    "In a large bowl, combine chopped peppers, roasted garlic, chicken broth, salt, and pepper.",
+    "Toss to combine and adjust seasoning as needed.",
+    "Garnish with chopped parsley before serving.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "roasted-peppers",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ukrainian-pepper-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:32:55.462Z"
+}
