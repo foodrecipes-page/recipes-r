@@ -1,0 +1,77 @@
+{
+  "slug": "roasted-australian-cherry-tomatoes-tart--mexican",
+  "title": "Roasted Cherry Tomato Salsa",
+  "description": "A fresh and spicy salsa made with roasted cherry tomatoes, onions, and jalapenos, perfect for topping tacos or grilled meats.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 1/2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted australian jalapeno",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tart lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the cherry tomatoes with 1 tablespoon of oil, salt, and pepper on a baking sheet. Roast for 15-20 minutes, or until the tomatoes are tender and lightly charred.",
+    "In a blender or food processor, combine the roasted tomatoes, red onion, jalapeno, garlic, and cilantro. Blend until coarsely chopped.",
+    "Stir in the lime juice and season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature with tortilla chips, tacos, or grilled meats."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salsa",
+    "mexican",
+    "roasted",
+    "cherry-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-australian-cherry-tomatoes-tart--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:23:55.172Z"
+}
