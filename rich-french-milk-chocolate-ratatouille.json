@@ -1,0 +1,65 @@
+{
+  "slug": "rich-french-milk-chocolate-ratatouille",
+  "title": "French Chocolate Crème Brûlée",
+  "description": "A rich and creamy dessert made with French chocolate and perfect for any dinner party. The caramelized sugar on top adds a delightful textural element.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rich",
+      "amount": "1 cup heavy cream"
+    },
+    {
+      "name": "french",
+      "amount": "1 cup granulated sugar"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup whole milk"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1/2 cup dark chocolate chips"
+    },
+    {
+      "name": "ratatouille",
+      "amount": "2 large egg yolks"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a medium saucepan, whisk together the heavy cream, granulated sugar, and whole milk. Heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and add in the dark chocolate chips. Let it sit for 2 minutes, then whisk until the chocolate is melted and the mixture is smooth.",
+    "In a separate bowl, whisk together the egg yolks. Temper the egg yolks by slowly pouring the warm chocolate mixture into the egg yolks, whisking constantly.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes. Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature. Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of granulated sugar over the top of each ramekin. Caramelize the sugar with a kitchen torch or under the broiler.",
+    "Serve chilled, with the caramelized sugar on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "creme-brulee",
+    "dessert",
+    "chocolate",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-french-milk-chocolate-ratatouille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:10:33.174Z"
+}
