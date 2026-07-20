@@ -1,0 +1,79 @@
+{
+  "slug": "r-energizing-tunisian-cream-cheese-hot-pot-vessel-tagine--vegan",
+  "title": "Vegan Tunisian Stew",
+  "description": "A hearty, flavorful stew originating from the Mediterranean region, made vegan with the use of vegetables and plant-based ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pot",
+      "amount": "1 large",
+      "notes": "For cooking the stew"
+    },
+    {
+      "name": "Vessel",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "Tunisian",
+      "amount": "",
+      "notes": "Inspiration for the dish"
+    },
+    {
+      "name": "Energizing",
+      "amount": "",
+      "notes": "Unknown ingredient, assuming it's a flavor enhancer"
+    },
+    {
+      "name": "Hot",
+      "amount": "",
+      "notes": "Unknown ingredient, assuming it's a spice"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup non-dairy",
+      "notes": "Plant-based cream alternative"
+    },
+    {
+      "name": "Cheese",
+      "amount": "",
+      "notes": "Not suitable for a vegan dish, omitting it"
+    },
+    {
+      "name": "R",
+      "amount": "",
+      "notes": "Unknown ingredient, assuming it's a flavor enhancer"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pot over medium heat.",
+    "Add the chopped vegetables and cook until tender.",
+    "Add the non-dairy cream and stir to combine.",
+    "Add the spices and cook for an additional 5 minutes.",
+    "Transfer the stew to the vessel and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mexican",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/r-energizing-tunisian-cream-cheese-hot-pot-vessel-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:34:55.017Z"
+}
