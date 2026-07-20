@@ -1,0 +1,80 @@
+{
+  "slug": "romantic-vietnamese-vegetables-nem-nuong--japanese",
+  "title": "Grilled Pork Nem Skewers with Vegetables",
+  "description": "Inspired by Japanese flavors, this dish features grilled pork nem skewers served with a variety of colorful vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork nem",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "romantic vegetables (bell peppers, onions, mushrooms)",
+      "amount": "2 cups mixed",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork nem and vegetables onto skewers, leaving small gaps between each piece.",
+    "In a small bowl, whisk together soy sauce, sugar, and 1 tablespoon vegetable oil.",
+    "Brush the skewers with the soy sauce mixture and season with salt and black pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through and the vegetables are tender.",
+    "Transfer the skewers to a plate and brush with the remaining 1 tablespoon vegetable oil.",
+    "Garnish with vietnamese basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "pork",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-vietnamese-vegetables-nem-nuong--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:22:38.795Z"
+}
