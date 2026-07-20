@@ -1,0 +1,100 @@
+{
+  "slug": "richly-spiced-ukrainian-cheese-casserole--german",
+  "title": "German Spiced Cheese Casserole",
+  "description": "A hearty and flavorful German-inspired casserole packed with spiced cheese, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spiced breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Ukrainian sausage in a skillet over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add flour and whisk to combine, cooking for 1-2 minutes.",
+    "Slowly add milk, whisking constantly to avoid lumps.",
+    "Bring mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Add shredded cheese and stir until melted and smooth.",
+    "In a large mixing bowl, combine cooked sausage, cheese sauce, caramelized onions, spiced breadcrumbs, egg, salt, and pepper.",
+    "Transfer mixture to a 9x13 inch baking dish and top with additional shredded cheese.",
+    "Bake for 25-30 minutes, or until golden brown and set.",
+    "Remove from oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-ukrainian-cheese-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:52:23.561Z"
+}
