@@ -1,0 +1,78 @@
+{
+  "slug": "richly-aerated-canadian-lemon-puff--vegan",
+  "title": "Lemon Puff Pancakes",
+  "description": "A vegan take on traditional pancakes using puff pastry and a tangy lemon flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp",
+      "notes": "vegan"
+    },
+    {
+      "name": "Aquafaba",
+      "amount": "2 tbsp",
+      "notes": "from canned chickpeas"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "vegan"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry and cut it into small squares.",
+    "In a bowl, whisk together aquafaba, maple syrup, lemon juice, and vanilla extract.",
+    "Add baking powder and salt to the bowl and mix well.",
+    "Brush the mixture onto the puff pastry squares.",
+    "Fold the squares into triangles and place them on a baking sheet.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "lemon",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-aerated-canadian-lemon-puff--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:27:35.039Z"
+}
