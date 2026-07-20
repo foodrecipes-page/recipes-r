@@ -5546,16 +5546,15 @@
   },
   {
     "slug": "rich-garlicky-russian-egg-frittata",
-    "title": "Rich Garlicky Russian Egg Frittata",
+    "title": "Russian Frittata",
     "tags": [
+      "breakfast",
       "brunch",
-      "high-protein",
-      "kosher-friendly",
-      "one-pan",
-      "weeknight"
+      "eggs",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -22534,6 +22533,35 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-thai-pork-curry--vegan",
+    "title": "Thai Vegan Curry",
+    "tags": [
+      "vegan",
+      "thai",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "resinous-intense-uruguayan-fillet-of-steak-burger--japanese",
+    "title": "Uruguayan Wagyu Steak Yakitori",
+    "tags": [
+      "japanese",
+      "uruguayan",
+      "wagyu",
+      "steak",
+      "yakitori",
+      "grilling",
+      "sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "r"
   }
 ]
