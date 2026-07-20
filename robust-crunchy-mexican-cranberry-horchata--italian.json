@@ -1,0 +1,78 @@
+{
+  "slug": "robust-crunchy-mexican-cranberry-horchata--italian",
+  "title": "Cranberry Horchata Panna Cotta",
+  "description": "An Italian dessert that combines the sweetness of cranberries with the creamy texture of horchata, topped with a crunchy cookie crust.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cranberry Horchata",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Cookie Crust",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare the crunchy cookie crust by crushing 1 cup of cookies, such as biscotti or amaretti.",
+    "Mix the crushed cookies with 2 tbsp of unsalted butter until well combined.",
+    "Press the cookie mixture into the bottom of a 9x13 inch baking dish.",
+    "Bake the crust for 10-12 minutes, or until lightly browned.",
+    "In a medium saucepan, combine the cranberry horchata, granulated sugar, and vanilla extract.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the whipped cream into the cranberry mixture until well combined.",
+    "Pour the mixture over the baked cookie crust.",
+    "Chill the panna cotta in the refrigerator for at least 4 hours, or until set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "panna-cotta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-crunchy-mexican-cranberry-horchata--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:54:20.232Z"
+}
