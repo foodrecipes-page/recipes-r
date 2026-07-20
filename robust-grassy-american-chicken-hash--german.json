@@ -1,0 +1,77 @@
+{
+  "slug": "robust-grassy-american-chicken-hash--german",
+  "title": "German-Style Chicken Hash",
+  "description": "A hearty German-inspired dish made with crispy chicken, hash browns, and a robust blend of herbs.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded and pan-fried"
+    },
+    {
+      "name": "robust coffee rub",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grassy fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped and fresh"
+    },
+    {
+      "name": "american cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded and melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside to rest.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and sauté the hash browns until crispy.",
+    "Sprinkle the robust coffee rub over the hash browns and stir to combine.",
+    "Return the chicken to the skillet and top with shredded cheddar cheese.",
+    "Cook for an additional 1-2 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "chicken",
+    "hash",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-grassy-american-chicken-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:19:20.757Z"
+}
