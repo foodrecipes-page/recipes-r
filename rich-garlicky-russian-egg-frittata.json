@@ -1,0 +1,70 @@
+{
+  "slug": "rich-garlicky-russian-egg-frittata",
+  "title": "Russian Frittata",
+  "description": "A rich, garlicky twist on the classic Italian dish, inspired by Russian flavors. Perfect for a hearty breakfast or brunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "Fresh eggs for the frittata"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic for added flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter for greasing the pan"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "For added freshness and flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small pan, melt butter over medium heat. Add minced garlic and cook for 1 minute, until fragrant.",
+    "In a large bowl, whisk together eggs and a pinch of salt and pepper.",
+    "Add cooked garlic and chopped dill to the egg mixture and stir well.",
+    "Pour the egg mixture into a greased 9-inch (23cm) skillet or oven-safe pan.",
+    "Transfer the skillet to the preheated oven and bake for 18-20 minutes, or until the eggs are set and the edges are golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the pan.",
+    "Slide the frittata onto a serving plate and slice into wedges.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "eggs",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-garlicky-russian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:53:17.687Z"
+}
