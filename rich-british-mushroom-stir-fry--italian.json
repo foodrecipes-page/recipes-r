@@ -1,0 +1,86 @@
+{
+  "slug": "rich-british-mushroom-stir-fry--italian",
+  "title": "British Mushroom Risotto",
+  "description": "A rich and creamy risotto with a mix of sautéed mushrooms and a hint of British seasoning. This Italian-inspired dish is a perfect comfort food.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice ideal for risotto"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "mix of button and cremini"
+    },
+    {
+      "name": " british seasoning",
+      "amount": "1 tsp",
+      "notes": "dried thyme and rosemary"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry, such as pinot grigio"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add mushrooms and cook until tender, about 3-4 minutes.",
+    "Add arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add white wine and cook until absorbed, about 2 minutes.",
+    "Add 1 cup of vegetable broth and cook, stirring constantly, until absorbed.",
+    "Repeat the process, adding the broth in 1 cup increments, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Stir in parmesan cheese and british seasoning.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "comfort-food",
+    "risotto",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-mushroom-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:43:09.929Z"
+}
