@@ -22601,5 +22601,72 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-spanish-padron-peppers-paella--vegan",
+    "title": "Vegan Paella with Padron Peppers",
+    "tags": [
+      "vegan",
+      "spanish",
+      "paella",
+      "padron-peppers",
+      "roasted-peppers"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-aerated-canadian-lemon-puff--vegetarian",
+    "title": "Lemon Puff Pastry Tart",
+    "tags": [
+      "lemon",
+      "pastry",
+      "tart",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-canadian-blueberry-pie--mexican",
+    "title": "Blueberry Pie Tacos",
+    "tags": [
+      "blueberry",
+      "pie",
+      "tacos",
+      "mexican",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-garlicky-russian-egg-frittata--gluten-free",
+    "title": "Russian Frittata",
+    "tags": [
+      "russian",
+      "frittata",
+      "gluten-free",
+      "eggs"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-crunchy-mexican-cranberry-horchata--italian",
+    "title": "Cranberry Horchata Panna Cotta",
+    "tags": [
+      "italian",
+      "dessert",
+      "panna-cotta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 42,
+    "shard": "r"
   }
 ]
