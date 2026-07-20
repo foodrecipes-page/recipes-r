@@ -22467,5 +22467,46 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "r"
+  },
+  {
+    "slug": "richly-aerated-canadian-lemon-puff--vegan",
+    "title": "Lemon Puff Pancakes",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "lemon",
+      "puff-pastry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "romantic-vietnamese-vegetables-nem-nuong--japanese",
+    "title": "Grilled Pork Nem Skewers with Vegetables",
+    "tags": [
+      "grilled",
+      "skewers",
+      "pork",
+      "vegetables"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-and-light-peruvian-avocado-salad--mexican",
+    "title": "Mexican Avocado Salad",
+    "tags": [
+      "mexican",
+      "avocado",
+      "salad",
+      "lunch",
+      "dinner",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "r"
   }
 ]
