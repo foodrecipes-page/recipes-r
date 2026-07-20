@@ -22508,5 +22508,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "r"
+  },
+  {
+    "slug": "richly-spiced-ukrainian-cheese-casserole--german",
+    "title": "German Spiced Cheese Casserole",
+    "tags": [
+      "german",
+      "sausage",
+      "cheese",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-grassy-american-chicken-hash--chinese",
+    "title": "Kung Pao Chicken Hash",
+    "tags": [
+      "chinese",
+      "kung-pao",
+      "chicken",
+      "hash"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
