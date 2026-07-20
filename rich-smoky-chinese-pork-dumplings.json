@@ -1,0 +1,90 @@
+{
+  "slug": "rich-smoky-chinese-pork-dumplings",
+  "title": "Smoky Pork Dumplings",
+  "description": "A twist on traditional Chinese dumplings with a rich and smoky flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20-25 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the ground pork, shredded cabbage, chopped green onions, grated ginger, soy sauce, smoked paprika, salt, and black pepper. Mix well until everything is fully incorporated.",
+    "2. Lay a dumpling wrapper on a clean surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a half-moon shape and press the edges together to seal the dumpling.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. In a large skillet or wok, heat 2 tablespoons of oil over medium-high heat.",
+    "7. When the oil is hot, add the dumplings to the skillet and cook for 2-3 minutes on each side, until they are golden brown.",
+    "8. Add 2 cups of water to the skillet and bring to a boil.",
+    "9. Reduce the heat to medium-low and simmer the dumplings for 10-12 minutes, until they are cooked through.",
+    "10. Serve the smoky pork dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "dumplings",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:02:09.414Z"
+}
