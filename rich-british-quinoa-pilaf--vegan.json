@@ -1,0 +1,60 @@
+{
+  "slug": "rich-british-quinoa-pilaf--vegan",
+  "title": "Quinoa Pilaf with Roasted Vegetables",
+  "description": "A hearty and flavorful vegan quinoa pilaf recipe with roasted vegetables. Perfect as a side dish or main course.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rich British Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "British Pilau Rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the quinoa and British pilau rice in a fine mesh strainer.",
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the rinsed quinoa and British pilau rice to the saucepan.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "While the quinoa is cooking, toss the mushrooms with 1 tablespoon of olive oil, salt, and pepper on a baking sheet.",
+    "Roast the mushrooms in the preheated oven for 15-20 minutes or until tender.",
+    "Once the quinoa is cooked, fluff it with a fork and stir in chopped fresh herbs.",
+    "To assemble the pilaf, place the cooked quinoa mixture in a serving dish and top with roasted mushrooms.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "quinoa",
+    "pilaf",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-quinoa-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:09:09.898Z"
+}
