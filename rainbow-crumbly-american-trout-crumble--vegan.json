@@ -1,0 +1,66 @@
+{
+  "slug": "rainbow-crumbly-american-trout-crumble--vegan",
+  "title": "Rainbow Crumble Salad",
+  "description": "A colorful and crunchy vegan salad made with a variety of vegetables and a crunchy crumble topping.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rainbow Chard",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Crumbly Oat Topping",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "American Almond Cheese",
+      "amount": "8 oz",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Trout-Flavored Tofu",
+      "amount": "1 block",
+      "notes": "marinated in trout-flavored seasonings"
+    },
+    {
+      "name": "Crumbly Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and chop the rainbow chard into bite-sized pieces.",
+    "In a large bowl, combine the chopped chard, crumbly oat topping, and crumbly breadcrumbs.",
+    "In a separate bowl, crumble the American almond cheese and trout-flavored tofu.",
+    "Add the cheese and tofu mixture to the bowl with the chard mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes, or until the top is crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rainbow-crumbly-american-trout-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:30:49.569Z"
+}
