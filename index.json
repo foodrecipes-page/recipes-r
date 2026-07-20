@@ -5518,17 +5518,16 @@
   },
   {
     "slug": "rich-french-milk-chocolate-ratatouille",
-    "title": "Rich French Milk Chocolate Ratatouille",
+    "title": "French Chocolate Crème Brûlée",
     "tags": [
-      "chocolate-recipes",
-      "french-cuisine",
-      "paleo-friendly",
-      "rich-dishes",
-      "special-occasion",
-      "veggie-based"
+      "french",
+      "creme-brulee",
+      "dessert",
+      "chocolate",
+      "rich"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -22575,6 +22574,19 @@
       "mushroom"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-british-quinoa-pilaf--vegan",
+    "title": "Quinoa Pilaf with Roasted Vegetables",
+    "tags": [
+      "vegan",
+      "quinoa",
+      "pilaf",
+      "mushrooms"
+    ],
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "r"
   }
