@@ -1,0 +1,59 @@
+{
+  "slug": "rustic-egyptian-bread-flatbread--vegan",
+  "title": "Vegan Egyptian Flatbread",
+  "description": "A simple, vegan flatbread recipe inspired by Egyptian cuisine. Perfect for dipping in your favorite spreads or sauces.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rustic Bread Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egyptian Flatbread Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the rustic bread flour and Egyptian flatbread flour.",
+    "Gradually add the water, mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "Roll out each piece into a thin circle, about 6-8 inches in diameter.",
+    "Cook the flatbreads in the skillet or griddle for 1-2 minutes on each side, until they are golden brown and slightly puffed.",
+    "Serve the flatbreads warm, with your favorite dips or spreads."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "flatbread",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-egyptian-bread-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:41:47.899Z"
+}
