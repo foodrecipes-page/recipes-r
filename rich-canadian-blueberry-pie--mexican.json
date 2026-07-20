@@ -1,0 +1,80 @@
+{
+  "slug": "rich-canadian-blueberry-pie--mexican",
+  "title": "Blueberry Pie Tacos",
+  "description": "A sweet twist on traditional Mexican cuisine, these blueberry pie tacos are a unique dessert option.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pie Crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Blueberry Filling",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie crust and cut into 4-6 triangles.",
+    "Place a triangle in each tortilla, pressing the edges to seal.",
+    "Spoon blueberry filling onto one half of each taco.",
+    "Drizzle with lime juice and sprinkle with powdered sugar and cinnamon.",
+    "Fold the other half of the tortilla over the filling to form a taco.",
+    "Serve warm with whipped cream, if desired.",
+    "Bake in the oven for 10-12 minutes, or until the crust is golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "blueberry",
+    "pie",
+    "tacos",
+    "mexican",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-canadian-blueberry-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:16:44.722Z"
+}
