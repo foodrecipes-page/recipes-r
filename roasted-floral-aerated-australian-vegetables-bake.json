@@ -1,0 +1,59 @@
+{
+  "slug": "roasted-floral-aerated-australian-vegetables-bake",
+  "title": "Baked Australian Vegetables",
+  "description": "A delicious and easy-to-make dish featuring australian vegetables in a floral twist.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "australian vegetables",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "floral thyme",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss the chopped vegetables with olive oil, thyme, salt, and pepper.",
+    "Transfer the vegetables to a baking sheet and bake for 25 minutes.",
+    "Rotate the baking sheet and continue baking for another 15-20 minutes, or until the vegetables are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-floral-aerated-australian-vegetables-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:56:28.111Z"
+}
