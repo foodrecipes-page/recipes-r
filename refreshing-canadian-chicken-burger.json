@@ -1,0 +1,94 @@
+{
+  "slug": "refreshing-canadian-chicken-burger",
+  "title": "Canadian Chicken Burger",
+  "description": "A refreshing twist on a classic burger featuring Canadian bacon, crispy chicken, and all the fixings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "mayo"
+    },
+    {
+      "name": "Burgers sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "4 slices",
+      "notes": "American or cheddar work well"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breasts with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the buns on the grill.",
+    "Assemble the burgers with Canadian bacon, lettuce, tomato, onion, mayonnaise, and cheese (if using).",
+    "Top with a grilled chicken breast.",
+    "Optional: Add a slice of cheese and a dollop of burgers sauce.",
+    "Garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "burger",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-canadian-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:43:10.190Z"
+}
