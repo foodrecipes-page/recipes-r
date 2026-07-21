@@ -14207,16 +14207,15 @@
   },
   {
     "slug": "roasted-glassy-jelly-luscious-argentinian-cream-bowl",
-    "title": "Roasted Glassy-Jelly Luscious Argentinian Cream Bowl",
+    "title": "Luscious Glassy Bowl Dessert",
     "tags": [
+      "sweet",
       "argentinian",
-      "comfort-food",
-      "korean-bowl",
-      "lacto-vegetarian",
-      "roasted-vegetables"
+      "easy",
+      "dessert"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 5,
     "shard": "r"
   },
   {
@@ -22691,6 +22690,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-dense-argentinian-mascarpone-bowl--french",
+    "title": "French Argentinean Mascarpone Cheesecake",
+    "tags": [
+      "cheesecake",
+      "argentinian",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 70,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-lavished-irish-cream-cheese-stir-fry--keto",
+    "title": "Irish Cream Keto Stir Fry",
+    "tags": [
+      "keto",
+      "irish-cream",
+      "stir-fry",
+      "cheese",
+      "dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "restorative-yeasty-malaysian-chicken-noodles--italian",
+    "title": "Malaysian Chicken Penne",
+    "tags": [
+      "italian",
+      "malaysian",
+      "chicken",
+      "noodles"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
