@@ -1,0 +1,84 @@
+{
+  "slug": "restorative-yeasty-malaysian-chicken-noodles--italian",
+  "title": "Malaysian Chicken Penne",
+  "description": "A fusion of Italian and Malaysian flavors, with spicy chicken and savory noodles. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yeasty penne",
+      "amount": "1 cup",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "malaysian chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "restorative chicken broth",
+      "amount": "2 cups",
+      "notes": "used for cooking noodles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of restorative chicken broth to a boil.",
+    "2. Cook the yeasty penne al dente, then set aside.",
+    "3. In a large skillet, heat olive oil over medium-high heat.",
+    "4. Add the chicken breast pieces and cook until browned, about 5-6 minutes.",
+    "5. Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "6. Stir in the Malaysian chili sauce and cook for an additional 2 minutes.",
+    "7. Add the cooked penne to the skillet and toss with the chicken mixture.",
+    "8. Season with salt to taste.",
+    "9. Serve the Malaysian chicken penne hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "malaysian",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/restorative-yeasty-malaysian-chicken-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:04:30.939Z"
+}
