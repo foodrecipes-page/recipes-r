@@ -1,0 +1,84 @@
+{
+  "slug": "rich-vietnamese-bread-bake--indian",
+  "title": "Spiced Naan Bread",
+  "description": "A classic Indian flatbread infused with aromatic spices. Serve warm with your favorite curries.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and knead for 5 minutes.",
+    "Add the ghee or oil, cumin seeds, chili powder, and garam masala to the dough and knead for another 2 minutes.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or tava over medium heat.",
+    "Punch down the dough and divide it into 6-8 equal portions.",
+    "Roll out each portion into a ball and then flatten it slightly into a disk shape.",
+    "Place the naan breads on the preheated skillet and cook for 1-2 minutes on each side, until they are golden brown and puffed up.",
+    "Brush the naan breads with melted ghee or oil and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "indian",
+    "naan",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-vietnamese-bread-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:25:57.747Z"
+}
