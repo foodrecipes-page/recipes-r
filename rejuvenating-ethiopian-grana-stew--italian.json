@@ -1,0 +1,94 @@
+{
+  "slug": "rejuvenating-ethiopian-grana-stew--italian",
+  "title": "Classic Italian Stew",
+  "description": "A hearty, comforting stew made with tender beef and vegetables in a rich Italian tomato sauce. Perfect for a cold winter's night.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "Beef stew meat",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 8 minutes.",
+    "Add the garlic, crushed tomatoes, red wine, beef broth, and Italian seasoning to the pot. Stir to combine.",
+    "Return the browned beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, topped with grated Grana Padano cheese.",
+    "Enjoy your delicious Italian stew!",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rejuvenating-ethiopian-grana-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:46:39.116Z"
+}
