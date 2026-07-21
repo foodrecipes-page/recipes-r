@@ -1,0 +1,79 @@
+{
+  "slug": "rich-roasted-scottish-cheese-welsh-rarebit--chinese",
+  "title": "Welsh Chinese Rarebit",
+  "description": "A Chinese twist on the classic Welsh rarebit, featuring rich, roasted, and scottish ingredients.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rich Malt Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted Scotch Bonnet Peppers",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "Scottish Smoked Salmon",
+      "amount": "2 ounces, diced"
+    },
+    {
+      "name": "Welsh Rarebit Cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds for Garnish",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the malt vinegar to 180°F (82°C).",
+    "In a separate pan, toast the sesame seeds until fragrant.",
+    "Add the diced scotch bonnet peppers to the toasted sesame seeds and stir for 1 minute.",
+    "Add the diced smoked salmon and stir for an additional 2 minutes.",
+    "Stir in the grated Welsh rarebit cheese until melted.",
+    "Add the sesame oil and soy sauce, and stir for 30 seconds.",
+    "Transfer the mixture to a serving dish and garnish with chopped scallions and toasted sesame seeds.",
+    "Drizzle the heated malt vinegar over the top of the rarebit.",
+    "Serve immediately and garnish with additional sesame seeds if desired.",
+    "Enjoy your delicious Welsh Chinese rarebit!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "scottish",
+    "welschrarebit",
+    "chinesecuisine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-scottish-cheese-welsh-rarebit--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:08:14.771Z"
+}
