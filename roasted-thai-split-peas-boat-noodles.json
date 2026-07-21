@@ -1,0 +1,87 @@
+{
+  "slug": "roasted-thai-split-peas-boat-noodles",
+  "title": "Spicy Thai Boat Noodle Soup",
+  "description": "A spicy and flavorful Thai-inspired noodle soup made with boat noodles, roasted vegetables, and a blend of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boat noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "roasted vegetables (bell peppers, carrots, onions)",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "split peas",
+      "amount": "100g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add garlic and ginger and fry until fragrant.",
+    "Add curry paste and fry for 1 minute.",
+    "Add roasted vegetables and cook for 2-3 minutes.",
+    "Add split peas and cook for 2-3 minutes.",
+    "Pour in coconut milk and vegetable broth.",
+    "Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Add boat noodles and cook for 2-3 minutes.",
+    "Season with fish sauce (if using) and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "noodle-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-thai-split-peas-boat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:15:04.099Z"
+}
