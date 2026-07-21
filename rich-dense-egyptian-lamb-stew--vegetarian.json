@@ -1,0 +1,72 @@
+{
+  "slug": "rich-dense-egyptian-lamb-stew--vegetarian",
+  "title": "Egyptian Stew",
+  "description": "A hearty and flavorful stew inspired by Egyptian cuisine, made with rich and dense ingredients.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb or Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Use vegetable broth for a vegetarian option"
+    },
+    {
+      "name": "Diced rich tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Diced dense eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add diced eggplant and cook until browned, about 5 minutes.",
+    "Add diced tomatoes and cook for 2 minutes.",
+    "Add broth, cumin, and paprika. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-cuisine",
+    "vegetarian",
+    "stew",
+    "lamb-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-egyptian-lamb-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:31:21.975Z"
+}
