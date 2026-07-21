@@ -1,0 +1,73 @@
+{
+  "slug": "richly-lavished-irish-cream-cheese-stir-fry--chinese",
+  "title": "Irish Cream Stir Fry",
+  "description": "A unique and rich Chinese-inspired dish combining the flavors of Ireland with the stir-fry technique. Serve over steamed rice for a satisfying meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stir fry",
+      "amount": "2 cups mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup grated cheddar"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger, stir-frying for 1 minute until fragrant.",
+    "Add mixed vegetables and stir-fry for 3-4 minutes until tender.",
+    "Pour in Irish cream and bring to a simmer.",
+    "Reduce heat to low and stir in cheese until melted and smooth.",
+    "Season with soy sauce and sugar to taste.",
+    "Serve over steamed rice and garnish with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "irish-cream",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-lavished-irish-cream-cheese-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:30:20.552Z"
+}
