@@ -22833,5 +22833,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "redcurrant-kessim--indian",
+    "title": "Redcurrant Kessim Biryani",
+    "tags": [
+      "indian-cuisine",
+      "lunch-ideas",
+      "rice-recipes",
+      "redcurrant-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-charred-middle-eastern-lamb-kebabs--italian",
+    "title": "Charred Lamb Kebabs with Mediterranean Flair",
+    "tags": [
+      "italian",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
   }
 ]
