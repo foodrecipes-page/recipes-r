@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-charred-middle-eastern-lamb-kebabs--italian",
+  "title": "Charred Lamb Kebabs with Mediterranean Flair",
+  "description": "Inspired by the flavors of Italy, these charred lamb kebabs are a perfect summer dish, featuring a blend of Mediterranean herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms, sliced",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb, onion, bell pepper, and mushrooms onto skewers.",
+    "In a small bowl, mix together olive oil, garlic, and rosemary.",
+    "Brush the mixture on both sides of the lamb and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Grill the kebabs for 10-12 minutes per side, or until the lamb reaches 145°F.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-charred-middle-eastern-lamb-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:23:42.553Z"
+}
