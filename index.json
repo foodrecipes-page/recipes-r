@@ -22897,5 +22897,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "rich-roasted-scottish-cheese-welsh-rarebit--chinese",
+    "title": "Welsh Chinese Rarebit",
+    "tags": [
+      "scottish",
+      "welschrarebit",
+      "chinesecuisine",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-lavished-irish-cream-cheese-stir-fry--chinese",
+    "title": "Irish Cream Stir Fry",
+    "tags": [
+      "chinese",
+      "irish-cream",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
