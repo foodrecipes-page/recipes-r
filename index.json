@@ -22859,5 +22859,30 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-aerated-venezuelan-onions-casserole--gluten-free",
+    "title": "Venezuelan Roasted Casserole",
+    "tags": [
+      "gluten-free",
+      "veggie-forward",
+      "latin-american-inspired"
+    ],
+    "cuisine": "latin american",
+    "totalTimeMin": 85,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-dense-egyptian-lamb-stew--vegetarian",
+    "title": "Egyptian Stew",
+    "tags": [
+      "egyptian-cuisine",
+      "vegetarian",
+      "stew",
+      "lamb-free"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 40,
+    "shard": "r"
   }
 ]
