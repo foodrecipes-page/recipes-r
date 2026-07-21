@@ -1,0 +1,82 @@
+{
+  "slug": "romantic-saudi-arabian-steak-kebabs",
+  "title": "Saudi Steak Kebabs",
+  "description": "A classic Saudi dish featuring marinated steak kebabs served with a side of flavorful Arabian spices.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "romantic sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "arabian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cinnamon, cardamom, and allspice"
+    },
+    {
+      "name": "kebabs skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Thread steak, onion, bell pepper, and tomato onto kebab skewers.",
+    "Brush kebabs with vegetable oil and season with salt, black pepper, and arabian spices.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until steak reaches desired doneness.",
+    "Serve with romantic sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "kebabs",
+    "arabian",
+    "romantic",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-saudi-arabian-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:30:20.744Z"
+}
