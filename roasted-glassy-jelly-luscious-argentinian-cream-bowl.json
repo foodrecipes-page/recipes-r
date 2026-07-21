@@ -1,0 +1,60 @@
+{
+  "slug": "roasted-glassy-jelly-luscious-argentinian-cream-bowl",
+  "title": "Luscious Glassy Bowl Dessert",
+  "description": "A sweet and refreshing dessert made with glassy argentinian ingredients.",
+  "cuisine": "argentinian",
+  "diet": [
+    "sweet",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Roasted glassy argentinian",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Luscious cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine roasted glassy argentinian and jelly in a bowl.",
+    "Mix until well combined.",
+    "Top with luscious cream.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "argentinian",
+    "easy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-glassy-jelly-luscious-argentinian-cream-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:27:04.024Z"
+}
