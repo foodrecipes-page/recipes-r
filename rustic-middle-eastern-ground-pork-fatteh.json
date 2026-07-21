@@ -1,0 +1,83 @@
+{
+  "slug": "rustic-middle-eastern-ground-pork-fatteh",
+  "title": "Middle Eastern-Style Ground Pork Fatteh",
+  "description": "A twist on the traditional Middle Eastern dish, this ground pork fatteh combines the flavors of the region with the comfort of a hearty meat pie.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Rustic Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground pork over medium-high heat, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the Middle Eastern spices and cook for 1 minute.",
+    "Season the pork mixture with salt and black pepper to taste.",
+    "Cut the rustic bread into 1-inch cubes and toast in the oven until lightly browned.",
+    "In a large bowl, combine the cooked pork mixture, toasted bread, and chopped parsley.",
+    "Transfer the mixture to a 9x13-inch baking dish and bake for 20-25 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "meat",
+    "middle-eastern",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-middle-eastern-ground-pork-fatteh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:32:42.689Z"
+}
