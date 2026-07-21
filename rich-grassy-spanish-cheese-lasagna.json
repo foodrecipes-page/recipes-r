@@ -1,0 +1,74 @@
+{
+  "slug": "rich-grassy-spanish-cheese-lasagna",
+  "title": "Spanish Lasagna",
+  "description": "A rich and savory lasagna dish inspired by Spanish cuisine, featuring a blend of grassy notes and melted cheese.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "grassy olive oil",
+      "amount": "1/4 cup",
+      "notes": "used for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "used for the filling"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "used for the filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté the chopped onion and minced garlic in grassy olive oil until softened.",
+    "In a large bowl, combine ricotta cheese and Parmesan cheese.",
+    "Spread a layer of the ricotta mixture on the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the sautéed onion and garlic mixture on top of the noodles. Sprinkle with half of the ricotta mixture.",
+    "Repeat the layers, starting with the noodles, then the onion and garlic mixture, and finally the ricotta mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lasagna",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-grassy-spanish-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:57:31.107Z"
+}
