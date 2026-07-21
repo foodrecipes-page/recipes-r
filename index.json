@@ -5778,16 +5778,13 @@
   },
   {
     "slug": "rich-grassy-spanish-cheese-lasagna",
-    "title": "Rich Grassy Spanish Cheese Lasagna",
+    "title": "Spanish Lasagna",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "one-pan",
-      "sick-day",
       "spanish",
-      "vegetarian"
+      "lasagna",
+      "cheese"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "spanish",
     "totalTimeMin": 60,
     "shard": "r"
   },
@@ -22777,6 +22774,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-smoky-moroccan-lamb-tagine--keto",
+    "title": "Moroccan Lamb Tagine",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-vietnamese-bread-bake--indian",
+    "title": "Spiced Naan Bread",
+    "tags": [
+      "bread",
+      "indian",
+      "naan",
+      "flatbread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
