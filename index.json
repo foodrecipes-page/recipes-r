@@ -1494,16 +1494,15 @@
   },
   {
     "slug": "refreshing-canadian-chicken-burger",
-    "title": "Refreshing Canadian Chicken Burger",
+    "title": "Canadian Chicken Burger",
     "tags": [
-      "citrus-infused",
-      "crunchy",
-      "double-fry",
-      "halal-friendly",
-      "quick"
+      "canadian",
+      "burger",
+      "chicken",
+      "grilled"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "r"
   },
   {
@@ -15831,16 +15830,13 @@
   },
   {
     "slug": "roasted-thai-split-peas-boat-noodles",
-    "title": "Roasted Thai Split Peas Boat Noodles",
+    "title": "Spicy Thai Boat Noodle Soup",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "roasted",
-      "thai-inspired",
-      "weeknight"
+      "thai",
+      "noodle-soup",
+      "vegetarian"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "r"
   },
@@ -19514,16 +19510,14 @@
   },
   {
     "slug": "rustic-middle-eastern-ground-pork-fatteh",
-    "title": "Rustic Middle-Eastern Ground Pork Fatteh",
+    "title": "Middle Eastern-Style Ground Pork Fatteh",
     "tags": [
-      "easy-to-make",
+      "meat",
       "middle-eastern",
-      "one-pan",
-      "pork",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -22826,6 +22820,18 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-roasted-mexican-poblano-burrito--keto",
+    "title": "Keto Poblano Burrito",
+    "tags": [
+      "keto",
+      "mexican",
+      "low-carb"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
