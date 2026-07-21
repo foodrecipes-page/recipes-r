@@ -1,0 +1,77 @@
+{
+  "slug": "roasted-egyptian-seafood-mix-tagine--italian",
+  "title": "Shrimp and Scallop Seafood Tagine",
+  "description": "This Italian-inspired dish combines the flavors of Egypt with the freshness of seafood. A hearty and aromatic tagine made with shrimp, scallops, and a blend of spices.",
+  "cuisine": "italian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Scallops",
+      "amount": "1 pound",
+      "notes": "tough side muscles removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Mixed tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or use a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Egyptian roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry, such as Pinot Grigio"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or Dutch oven over medium-high heat.",
+    "Add the shrimp and scallops and cook until they start to brown, about 2-3 minutes.",
+    "Add the tagine spice blend and cook for 1 minute, stirring constantly.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the white wine and bring to a simmer.",
+    "Reduce the heat to low and simmer, covered, for 5-7 minutes, or until the seafood is cooked through.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the seafood hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-egyptian-seafood-mix-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:45:39.500Z"
+}
