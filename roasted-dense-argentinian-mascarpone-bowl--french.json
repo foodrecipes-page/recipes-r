@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-dense-argentinian-mascarpone-bowl--french",
+  "title": "French Argentinean Mascarpone Cheesecake",
+  "description": "A dense and rich Argentinean-inspired cheesecake with a French twist, featuring a roasted crust and a creamy mascarpone filling.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone",
+      "amount": "250g"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "120g"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "10g"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "sour cream",
+      "amount": "120g"
+    },
+    {
+      "name": "dense argentinian chocolate",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Prepare a 20cm springform pan with parchment paper.",
+    "Mix mascarpone, sugar, eggs, vanilla extract in a bowl.",
+    "Add flour and mix until well combined.",
+    "Melt butter and add it to the mixture.",
+    "Pour the mixture into the prepared pan and bake for 40 minutes.",
+    "Let the cheesecake cool down completely.",
+    "Melt chocolate and spread it on top of the cheesecake.",
+    "Chill the cheesecake in the refrigerator for at least 2 hours.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesecake",
+    "argentinian",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-dense-argentinian-mascarpone-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:15:09.559Z"
+}
