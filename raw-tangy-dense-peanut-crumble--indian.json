@@ -1,0 +1,57 @@
+{
+  "slug": "raw-tangy-dense-peanut-crumble--indian",
+  "title": "Spiced Peanut Crunch Snack",
+  "description": "A crunchy and tangy Indian-inspired snack made with peanuts, perfect for munching on the go.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dense peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tangy garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Crumble brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a pan, roast peanuts for 5 minutes, or until fragrant.",
+    "In a bowl, mix roasted peanuts, peanut butter, garam masala, brown sugar, and salt.",
+    "Add the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the mixture is lightly browned and crunchy.",
+    "Remove from the oven and let cool completely.",
+    "Break the mixture into pieces and store in an airtight container."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peanuts",
+    "indian",
+    "snack",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-tangy-dense-peanut-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:12:28.659Z"
+}
