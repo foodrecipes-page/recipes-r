@@ -1,0 +1,73 @@
+{
+  "slug": "robustly-roasted-mexican-poblano-burrito--keto",
+  "title": "Keto Poblano Burrito",
+  "description": "A keto twist on the classic burrito, featuring roasted poblanos and robust flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano Peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Roasted Mexican Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Low-Carb Tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast the poblanos in the oven for 30 minutes.",
+    "Cook the Mexican ground beef in a skillet over medium-high heat.",
+    "Add the cumin, chili powder, and salt to the ground beef. Cook for an additional 2-3 minutes.",
+    "Warm the low-carb tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the burritos by placing a portion of the ground beef mixture onto a tortilla, followed by a roasted poblano, and finally a sprinkle of shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "mexican",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-mexican-poblano-burrito--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:08:49.681Z"
+}
