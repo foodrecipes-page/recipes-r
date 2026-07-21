@@ -1,0 +1,89 @@
+{
+  "slug": "roasted-uruguayan-beef-skewers--mexican",
+  "title": "Uruguayan Beef Skewers with Roasted Flavor",
+  "description": "A fusion of Uruguayan beef and Mexican flavors, these skewers are a perfect blend of spices and smoky roasted flavor.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef (1.5 pounds)",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Roasted peppers (2)",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion (1)",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, roasted peppers, onion, and garlic onto skewers.",
+    "In a small bowl, mix together lime juice, olive oil, salt, black pepper, and Mexican oregano.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 145°F.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-beef-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:36:03.319Z"
+}
