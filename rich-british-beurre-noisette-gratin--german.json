@@ -1,0 +1,73 @@
+{
+  "slug": "rich-british-beurre-noisette-gratin--german",
+  "title": "Beurre Noisette Schnitzel",
+  "description": "A classic German dish with a rich, buttery twist. Schnitzel is a breaded and fried cutlet of meat, typically served with a side of lemon wedges and fries.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "thinly pounded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "beurre noisette",
+      "amount": "2 tablespoons",
+      "notes": "substitute with British butter"
+    },
+    {
+      "name": "rich milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "british breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Season the pork cutlets with salt and pepper.",
+    "2. In a shallow dish, mix together the flour and a pinch of salt and pepper.",
+    "3. Dip each pork cutlet in the flour mixture, coating both sides evenly.",
+    "4. Dip the floured cutlet in the beaten eggs, making sure to coat completely.",
+    "5. Roll the egg-coated cutlet in the breadcrumbs, pressing gently to adhere.",
+    "6. Heat the beurre noisette in a large skillet over medium-high heat.",
+    "7. Add the breaded pork cutlets to the skillet and cook for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "8. Remove the cutlets from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "9. Serve immediately, garnished with lemon wedges and fries on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "beurre-noisette",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-british-beurre-noisette-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:03:54.307Z"
+}
