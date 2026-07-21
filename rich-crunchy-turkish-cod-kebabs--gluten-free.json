@@ -1,0 +1,81 @@
+{
+  "slug": "rich-crunchy-turkish-cod-kebabs--gluten-free",
+  "title": "Turkish Cod Kebabs with Crunchy Slaw",
+  "description": "A gluten-free twist on traditional kebabs, featuring rich cod, crunchy slaw, and a hint of Turkish spice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Turkish-style BBQ sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy slaw (recipe below)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season cod fillets with salt and black pepper.",
+    "Brush with olive oil and grill for 4-5 minutes per side, or until cooked through.",
+    "Transfer cod to a plate and brush with Turkish-style BBQ sauce.",
+    "Combine crunchy slaw and lime juice in a bowl.",
+    "Serve cod with slaw on top and garnished with chopped cilantro (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "gluten-free",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-turkish-cod-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:37:25.335Z"
+}
