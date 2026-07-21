@@ -1,0 +1,92 @@
+{
+  "slug": "robustly-citrusy-ukrainian-white-beans-stew--thai",
+  "title": "Thai White Bean Stew",
+  "description": "A hearty and flavorful Thai-inspired stew made with white beans, vegetables, and a hint of citrus. Perfect for a cold evening.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White kidney beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Citrusy tomato sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for an additional minute.",
+    "Stir in curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add coconut milk and citrusy tomato sauce, and bring to a simmer.",
+    "Add white beans and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-citrusy-ukrainian-white-beans-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:15:08.501Z"
+}
