@@ -1,0 +1,76 @@
+{
+  "slug": "roasted-american-teque-nos-skewers",
+  "title": "Grilled Skewers with Roasted Pepper Sauce",
+  "description": "A flavorful dish that combines the smoky taste of grilled meat with the sweetness of roasted peppers. Perfect for a summer evening.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skewers, wooden",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Teque Chicken Breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Nos Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Peppers, diced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "American Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together minced garlic, roasted peppers, and olive oil.",
+    "Brush the garlic-pepper mixture onto both sides of the chicken.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with additional roasted peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "chicken",
+    "pepper",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-american-teque-nos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:52:38.279Z"
+}
