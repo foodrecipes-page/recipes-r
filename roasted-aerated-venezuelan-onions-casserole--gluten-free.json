@@ -1,0 +1,69 @@
+{
+  "slug": "roasted-aerated-venezuelan-onions-casserole--gluten-free",
+  "title": "Venezuelan Roasted Casserole",
+  "description": "A gluten-free, comforting dish made with roasted meats and caramelized onions.",
+  "cuisine": "latin american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "to enhance flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season beef with salt and pepper. Sear in a large skillet over medium-high heat until browned.",
+    "Transfer beef to a 9x13-inch baking dish.",
+    "Add chopped onions to the skillet and cook until caramelized.",
+    "Add roasted peppers to the skillet and cook for an additional 2 minutes.",
+    "Pour the skillet contents over the beef in the baking dish.",
+    "Mix in tomato paste and add the casserole on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes.",
+    "Let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "veggie-forward",
+    "latin-american-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-aerated-venezuelan-onions-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:28:04.589Z"
+}
