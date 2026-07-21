@@ -22753,5 +22753,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "r"
+  },
+  {
+    "slug": "rich-british-beurre-noisette-gratin--german",
+    "title": "Beurre Noisette Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "beurre-noisette",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "robustly-citrusy-ukrainian-white-beans-stew--thai",
+    "title": "Thai White Bean Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "r"
   }
 ]
