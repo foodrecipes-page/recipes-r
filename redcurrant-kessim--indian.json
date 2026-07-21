@@ -1,0 +1,84 @@
+{
+  "slug": "redcurrant-kessim--indian",
+  "title": "Redcurrant Kessim Biryani",
+  "description": "A popular Indian dish, this biryani is made with the sweetness of redcurrant and the spiciness of kessim.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "redcurrant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kessim",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add onions and sauté until golden brown.",
+    "Add cumin powder, coriander powder, and turmeric powder. Sauté for 1 minute.",
+    "Add kessim and sauté for 1 minute.",
+    "Add rice and mix well. Cook for 2-3 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and cover the pan.",
+    "Simmer for 10-15 minutes or until the rice is cooked.",
+    "Add redcurrant and mix well.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lunch-ideas",
+    "rice-recipes",
+    "redcurrant-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/redcurrant-kessim--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:14:07.116Z"
+}
