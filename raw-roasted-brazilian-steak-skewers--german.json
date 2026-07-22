@@ -1,0 +1,84 @@
+{
+  "slug": "raw-roasted-brazilian-steak-skewers--german",
+  "title": "Grilled Steak with Brazilian Peppers",
+  "description": "A classic German-inspired dish featuring marinated grilled steak and roasted Brazilian peppers.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw steak",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "brazilian peppers",
+      "amount": "4-5",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, garlic, salt, pepper, and lemon juice.",
+    "Place the steak in a large zip-top plastic bag or a shallow dish.",
+    "Pour the marinade over the steak, turning to coat.",
+    "Let the steak marinate for 30 minutes to 1 hour.",
+    "Remove the steak from the marinade, letting any excess liquid drip off.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, toss the Brazilian peppers with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the peppers in the oven at 400°F (200°C) for 20-25 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool in a bowl covered with plastic wrap.",
+    "Once the peppers have cooled, peel off the skin, discarding it, and slice them into strips.",
+    "Serve the sliced steak with the roasted peppers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "grilled-steak",
+    "brazilian-peppers",
+    "marinated-steak"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 4,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-roasted-brazilian-steak-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:23:59.831Z"
+}
