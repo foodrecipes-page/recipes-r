@@ -1,0 +1,92 @@
+{
+  "slug": "roasted-sunday-lazy-kenyan-dish-wrap",
+  "title": "Lazy Sunday Wrap",
+  "description": "A delicious and easy-to-make wrap recipe perfect for a lazy Sunday. This Kenyan-inspired dish is packed with flavor and can be customized to suit your taste.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Lazy beans (kidney beans)",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Sunday roast chicken (cooked)",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Wrap (gluten-free)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add the shredded chicken and cook for 2-3 minutes.",
+    "3. Add the cooked sweet potatoes, kidney beans, and soy sauce to the pan.",
+    "4. Stir well to combine.",
+    "5. Warm the wrap in the microwave for 10-15 seconds.",
+    "6. Assemble the wrap by adding the chicken and sweet potato mixture, lettuce, tomatoes, cucumber, and avocado.",
+    "7. Serve immediately and enjoy!",
+    "8. Refrigerate any leftovers for up to 3 days.",
+    "9. Reheat the wrap in the microwave or oven before serving.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "lazy",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-sunday-lazy-kenyan-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:23:58.105Z"
+}
