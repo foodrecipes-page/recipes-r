@@ -4580,17 +4580,15 @@
   },
   {
     "slug": "rich-crunchy-hunan-rice-fried-rice",
-    "title": "Rich Crunchy Hunan Rice Fried Rice",
+    "title": "Crunchy Hunan Fried Rice",
     "tags": [
-      "buttery",
-      "crunchy",
+      "hunan",
       "fried-rice",
-      "hunan-style",
-      "quick-meal",
-      "sattvic-friendly"
+      "chinese-food",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -22934,6 +22932,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "ravishing-korean-provola-pancake--gluten-free",
+    "title": "Korean-Style Provolone Pancakes",
+    "tags": [
+      "korean",
+      "breakfast",
+      "gluten-free",
+      "cheese",
+      "pancakes"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
