@@ -22992,5 +22992,60 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-fermented-arabian-oysters-tagine--vegan",
+    "title": "Roasted Vegetable Tagine",
+    "tags": [
+      "vegan",
+      "arabian",
+      "lunch",
+      "roasted"
+    ],
+    "cuisine": "arabian",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-dense-slovakian-caraway-seeds-bake--japanese",
+    "title": "Slovakian Caraway Seed Buns (Japanese-Style)",
+    "tags": [
+      "japanese",
+      "bread",
+      "caraway",
+      "sesame",
+      "buns"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-peppery-brazilian-chicken-skewers--mexican",
+    "title": "Brazilian Chicken Skewers with Peppery Chimichurri",
+    "tags": [
+      "mexican",
+      "grilled-chicken",
+      "chimichurri",
+      "peppery",
+      "brazilian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-flavored-peruvian-beef-heart-anticuchos--italian",
+    "title": "Peruvian Beef Heart Skewers with Italian Twist",
+    "tags": [
+      "beef-heart",
+      "peruvian",
+      "italian",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "r"
   }
 ]
