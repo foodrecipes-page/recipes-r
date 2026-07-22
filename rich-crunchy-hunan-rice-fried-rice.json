@@ -1,0 +1,79 @@
+{
+  "slug": "rich-crunchy-hunan-rice-fried-rice",
+  "title": "Crunchy Hunan Fried Rice",
+  "description": "A Chinese-inspired fried rice dish with a crunchy twist from the addition of rich, crunchy ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hunan stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rich sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crunchy chopped nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups (cooked)"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup (chopped)"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add Hunan stir-fry sauce and stir for 1 minute.",
+    "Add crunchy chopped nuts and stir-fry for 2 minutes.",
+    "Add cooked rice and stir-fry for 3-4 minutes.",
+    "Add fried shallots, green onions, soy sauce, salt, and pepper. Stir-fry for another 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hunan",
+    "fried-rice",
+    "chinese-food",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-hunan-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:14:15.332Z"
+}
