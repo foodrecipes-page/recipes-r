@@ -1,0 +1,69 @@
+{
+  "slug": "robust-rye-turkish-lamb-adana-kebap",
+  "title": "Turkish Lamb Kebap",
+  "description": "A traditional Turkish dish featuring marinated lamb kebap grilled to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish Adana Kebap Spice Mix",
+      "amount": "2 tbsp",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Rye Bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Robust Red Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb, Turkish Adana Kebap Spice Mix, and 1 tablespoon olive oil. Mix well to coat lamb cubes.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove lamb from marinade, letting any excess liquid drip off.",
+    "5. Grill lamb cubes for 4-5 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "6. Transfer lamb to a serving platter or individual plates.",
+    "7. Grill rye bread slices for 1-2 minutes per side, or until lightly toasted.",
+    "8. Serve lamb with grilled rye bread and a drizzle of robust red vinegar (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebap",
+    "lamb",
+    "turkish",
+    "grilled",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-rye-turkish-lamb-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:18:12.137Z"
+}
