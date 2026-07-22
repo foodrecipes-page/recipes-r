@@ -1,0 +1,73 @@
+{
+  "slug": "roasted-springy-croatian-colby-jack-tagine--thai",
+  "title": "Thai Cheese Tagine",
+  "description": "A Thai-inspired casserole made with roasted springy cheese, a blend of Croatian and Colby jack cheese, and a touch of spice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Springy Cheese",
+      "amount": "250g",
+      "notes": "Available at most gourmet stores"
+    },
+    {
+      "name": "Croatian Cheese",
+      "amount": "150g",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "100g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with coconut oil.",
+    "In a large bowl, combine the roasted springy cheese, Croatian cheese, and Colby jack cheese.",
+    "Add the tagine spice blend and mix well.",
+    "Transfer the cheese mixture to the prepared baking dish and smooth the top.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped cilantro.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the cilantro is lightly toasted.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "cheese",
+    "casserole",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-springy-croatian-colby-jack-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:08:44.166Z"
+}
