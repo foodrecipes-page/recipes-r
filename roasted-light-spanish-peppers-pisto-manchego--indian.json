@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-light-spanish-peppers-pisto-manchego--indian",
+  "title": "Roasted Pepper and Manchego Naan",
+  "description": "A flavorful and spicy Indian-inspired flatbread filled with roasted peppers and manchego cheese. Perfect for snacking or as a side dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "light flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Spanish peppers",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pisto",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, salt, and water. Mix well to form a dough.",
+    "2. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "3. Divide the dough into 6-8 equal portions.",
+    "4. Roll out each portion into a thin circle.",
+    "5. Heat a non-stick skillet or tava over medium heat.",
+    "6. Place a naan on the skillet and cook for 1-2 minutes or until it starts to puff up.",
+    "7. Flip the naan and cook for another 1-2 minutes.",
+    "8. Brush the naan with pisto and top with roasted peppers, manchego cheese, and Spanish peppers.",
+    "9. Fold the naan in half to enclose the filling.",
+    "10. Cook for another 1-2 minutes or until the cheese is melted and the naan is crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "naan",
+    "roasted-peppers",
+    "manchego-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-light-spanish-peppers-pisto-manchego--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:22:25.595Z"
+}
