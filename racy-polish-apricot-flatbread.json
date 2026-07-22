@@ -1,0 +1,61 @@
+{
+  "slug": "racy-polish-apricot-flatbread",
+  "title": "Polish-Style Apricot Flatbread",
+  "description": "A sweet and savory flatbread topped with a Polish-inspired apricot filling, perfect for a snack or dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (8-10 flatbreads)"
+    },
+    {
+      "name": "apricot",
+      "amount": "1 cup dried apricots, chopped"
+    },
+    {
+      "name": "racy",
+      "amount": "1/4 cup honey"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tsp ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut each flatbread into 8 equal pieces.",
+    "In a small bowl, mix together chopped apricots, honey, and cinnamon.",
+    "Brush one side of each flatbread piece with water.",
+    "Place a spoonful of the apricot mixture on each flatbread piece.",
+    "Fold the flatbread in half to form a triangle.",
+    "Bake for 12-15 minutes, or until the flatbread is crispy and the filling is caramelized.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "flatbread",
+    "apricot",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/racy-polish-apricot-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:20:01.268Z"
+}
