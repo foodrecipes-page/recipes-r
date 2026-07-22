@@ -1,99 +1,90 @@
 {
   "slug": "resinous-intense-uruguayan-fillet-of-steak-burger--japanese",
-  "title": "Uruguayan Wagyu Steak Yakitori",
-  "description": "A Japanese twist on the classic Uruguayan Wagyu steak, served with a side of savory yakitori sauce.",
+  "title": "Uruguayan Steak Yakitori",
+  "description": "A Japanese-inspired dish featuring grilled Uruguayan steak, served with a sweet soy sauce glaze and sesame seeds.",
   "cuisine": "japanese",
   "diet": [
-    "meat-lovers",
-    "beef"
+    "meat"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Uruguayan Wagyu steak",
-      "amount": "1.5 lbs",
-      "notes": null
+      "name": "Uruguayan steak",
+      "amount": "4 steaks",
+      "notes": "1 inch thick"
     },
     {
-      "name": "resinous cedar wood chips",
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Sweet soy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sushi rice",
       "amount": "1 cup",
-      "notes": null
+      "notes": "cooked"
     },
     {
-      "name": "intense soy sauce",
-      "amount": "2 tbsp",
-      "notes": null
-    },
-    {
-      "name": "fillet of steak",
+      "name": "Japanese pickled ginger",
       "amount": "1/4 cup",
-      "notes": "for garnish"
+      "notes": "sliced"
     },
     {
-      "name": "burger buns",
-      "amount": "4",
-      "notes": null
-    },
-    {
-      "name": "green onion",
-      "amount": "1 bunch",
-      "notes": "for garnish"
-    },
-    {
-      "name": "yakitori sauce",
+      "name": "Green onions",
       "amount": "1/4 cup",
-      "notes": null
+      "notes": "chopped"
     },
     {
-      "name": "sesame oil",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
     },
     {
-      "name": "salt",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably Japanese Himalayan"
     },
     {
-      "name": "black pepper",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
     }
   ],
   "instructions": [
-    "Preheat grill to 400°F.",
-    "Season the Wagyu steak with salt and black pepper.",
-    "Grill the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
-    "Meanwhile, toast the cedar wood chips over the grill.",
-    "Mix the yakitori sauce, soy sauce, and sesame oil in a small bowl.",
-    "Brush the sauce onto the grilled steak during the last minute of cooking.",
-    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
-    "Slice the steak into thin strips.",
-    "Serve the steak with toasted cedar wood chips and a side of yakitori sauce.",
-    "Garnish with green onion and sesame seeds, if desired."
+    "Preheat grill to medium-high heat.",
+    "Season the Uruguayan steak with salt and black pepper.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Brush the steak with sesame oil during the last minute of grilling.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Meanwhile, heat the sweet soy sauce in a small saucepan over low heat.",
+    "Stir in toasted sesame seeds and cook for 1-2 minutes, or until the glaze has thickened.",
+    "Serve the sliced steak with sushi rice, Japanese pickled ginger, and green onions.",
+    "Drizzle the sweet soy sauce glaze over the top of the steak and garnish with additional sesame seeds if desired.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 12,
-  "totalTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "japanese",
-    "uruguayan",
-    "wagyu",
+    "grilled",
     "steak",
-    "yakitori",
-    "grilling",
-    "sauce"
+    "yakitori"
   ],
   "nutrition": {
-    "calories": 720,
-    "protein": 54,
-    "carbs": 4,
-    "fat": 52
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/resinous-intense-uruguayan-fillet-of-steak-burger--japanese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T22:23:33.885Z"
+  "createdAt": "2026-07-18T23:22:13.673Z"
 }
