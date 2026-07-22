@@ -1,0 +1,83 @@
+{
+  "slug": "rich-tender-russian-almond-stir-fry--chinese",
+  "title": "Peking Beef Stir Fry",
+  "description": "A classic Chinese stir-fry dish featuring tender beef, rich hoisin sauce, and crunchy vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sliced Beef (Ribeye)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sliced Almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Baby Corn",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Stir-Fry Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of stir-fry oil in a large wok or skillet over high heat.",
+    "Add the sliced beef and cook for 3-4 minutes, or until browned and cooked to your liking.",
+    "Remove the beef from the wok and set aside.",
+    "Add the remaining 1 tablespoon of stir-fry oil, sliced almonds, and minced ginger to the wok.",
+    "Cook for 1-2 minutes, stirring constantly, until the almonds are lightly toasted.",
+    "Add the bell peppers and baby corn to the wok.",
+    "Cook for 2-3 minutes, or until the vegetables are tender but still crisp.",
+    "Return the cooked beef to the wok and stir in the hoisin sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve the Peking beef stir-fry hot, garnished with sliced scallions.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "beef-dishes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-russian-almond-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:30:05.165Z"
+}
