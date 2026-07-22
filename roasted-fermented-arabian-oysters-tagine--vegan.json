@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-fermented-arabian-oysters-tagine--vegan",
+  "title": "Roasted Vegetable Tagine",
+  "description": "A flavorful and aromatic vegan tagine made with roasted vegetables, inspired by Middle Eastern cuisine.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the chopped vegetables with olive oil, cumin, coriander, and paprika in a bowl.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 25 minutes.",
+    "While the vegetables are roasting, heat a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the roasted vegetables to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "arabian",
+    "lunch",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-fermented-arabian-oysters-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:13:35.153Z"
+}
