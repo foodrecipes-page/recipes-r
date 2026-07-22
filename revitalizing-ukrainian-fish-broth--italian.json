@@ -1,0 +1,74 @@
+{
+  "slug": "revitalizing-ukrainian-fish-broth--italian",
+  "title": "Italian Fish Broth",
+  "description": "A light and flavorful fish broth made with Italian herbs and spices.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish bones",
+      "amount": "2 cups",
+      "notes": "white fish bones or a combination of white and dark fish bones"
+    },
+    {
+      "name": "Revitalizing broth",
+      "amount": "4 cups",
+      "notes": "you can use store-bought broth or make your own"
+    },
+    {
+      "name": "Ukrainian-style cabbage",
+      "amount": "1/2 cup",
+      "notes": "such as sauerkraut or kimchi"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs such as basil, oregano, and thyme"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine fish bones and revitalizing broth. Bring to a boil over high heat.",
+    "2. Reduce heat to low and simmer for 10 minutes.",
+    "3. Add Ukrainian-style cabbage and cook for an additional 5 minutes.",
+    "4. Stir in chopped parsley and minced garlic.",
+    "5. Season with Italian seasoning.",
+    "6. Taste and adjust seasoning as needed.",
+    "7. Serve hot.",
+    "8. Enjoy with a side of crusty bread or a green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish-broth",
+    "pescatarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/revitalizing-ukrainian-fish-broth--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:11:23.496Z"
+}
