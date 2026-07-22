@@ -17291,16 +17291,16 @@
   },
   {
     "slug": "robust-rye-turkish-lamb-adana-kebap",
-    "title": "Robust Rye Turkish Lamb Adana Kebap",
+    "title": "Turkish Lamb Kebap",
     "tags": [
-      "flexitarian-friendly",
-      "lamb-recipes",
-      "one-pan",
-      "steamed-dishes",
-      "turkish-cuisine"
+      "kebap",
+      "lamb",
+      "turkish",
+      "grilled",
+      "dinner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -23091,6 +23091,44 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crumbly-argentinian-beef-empanadas--vegetarian",
+    "title": "Argentinian Empanada Stuffed with Roasted Vegetables",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-springy-mexican-dates-sopes--vegan",
+    "title": "Roasted Mexican Sopes with Dates",
+    "tags": [
+      "mexican",
+      "vegan",
+      "breakfast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-molten-korean-rice-krispies-jjigae--gluten-free",
+    "title": "Spicy Korean Rice Krispies Jjigae",
+    "tags": [
+      "korean",
+      "snack",
+      "gluten-free",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "r"
   }
 ]
