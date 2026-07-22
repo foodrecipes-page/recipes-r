@@ -1,0 +1,94 @@
+{
+  "slug": "rich-peppery-brazilian-chicken-skewers--mexican",
+  "title": "Brazilian Chicken Skewers with Peppery Chimichurri",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring marinated chicken skewers served with a tangy and herby peppery chimichurri sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "peppery chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "Soaked in water for 30 minutes before use"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rich adobo seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brazilian chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine peppery chimichurri sauce, olive oil, lime juice, rich adobo seasoning, brazilian chili powder, garlic, and chopped cilantro. Blend until smooth.",
+    "Thread chicken breast onto the skewers, leaving a small space between each piece.",
+    "Season the chicken with salt and pepper.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes per side, or until cooked through.",
+    "Serve the chicken skewers with the peppery chimichurri sauce for dipping.",
+    "Garnish with additional chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled-chicken",
+    "chimichurri",
+    "peppery",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-peppery-brazilian-chicken-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:39:38.914Z"
+}
