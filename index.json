@@ -13830,17 +13830,15 @@
   },
   {
     "slug": "roasted-crunchy-vietnamese-tofu-spring-rolls",
-    "title": "Roasted Crunchy Vietnamese Tofu Spring Rolls",
+    "title": "Vietnamese Spring Rolls",
     "tags": [
-      "crunchy",
-      "plant-based",
+      "vietnamese",
       "spring-rolls",
-      "tofu",
-      "vegan-friendly",
-      "vietnamese"
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -23046,6 +23044,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-roasted-brazilian-steak-skewers--german",
+    "title": "Grilled Steak with Brazilian Peppers",
+    "tags": [
+      "german-cuisine",
+      "grilled-steak",
+      "brazilian-peppers",
+      "marinated-steak"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-tender-russian-almond-stir-fry--chinese",
+    "title": "Peking Beef Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "beef-dishes",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
