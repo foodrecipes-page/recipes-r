@@ -66,18 +66,16 @@
   },
   {
     "slug": "racy-polish-apricot-flatbread",
-    "title": "Racy Polish Apricot Flatbread",
+    "title": "Polish-Style Apricot Flatbread",
     "tags": [
-      "apricot",
-      "crunchy",
-      "double-rise",
+      "dessert",
+      "snack",
       "flatbread",
-      "peppery",
-      "polish",
-      "sugar-free"
+      "apricot",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "r"
   },
   {
@@ -22979,6 +22977,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-romantic-malaysian-chicken-satay--german",
+    "title": "German Chicken Satay",
+    "tags": [
+      "german",
+      "chicken",
+      "satay",
+      "grilled",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
