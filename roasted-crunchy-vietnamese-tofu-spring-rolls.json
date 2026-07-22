@@ -1,0 +1,81 @@
+{
+  "slug": "roasted-crunchy-vietnamese-tofu-spring-rolls",
+  "title": "Vietnamese Spring Rolls",
+  "description": "A delicious and refreshing snack or appetizer made with crispy spring roll wrappers, crunchy vegetables, and savory tofu. Serve with a sweet chili sauce for dipping.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy vietnamese chili sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water.",
+    "Dip a spring roll wrapper into the water for about 10 seconds, until it becomes soft and pliable.",
+    "Remove the wrapper from the water and place it on a clean surface.",
+    "Place a few pieces of tofu, carrots, cucumber, and cabbage in the center of the wrapper.",
+    "Add a few strands of rice noodles and some chopped peanuts on top of the vegetables.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling ingredients.",
+    "Serve the spring rolls with a sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crunchy-vietnamese-tofu-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:31:22.066Z"
+}
