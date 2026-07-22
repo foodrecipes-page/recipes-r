@@ -1,0 +1,77 @@
+{
+  "slug": "resting-juicy-argentinian-beans-empanadas",
+  "title": "Argentinian Empanada with Beans",
+  "description": "A classic Argentinian dish, these empanadas are filled with juicy beans and perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beans, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "resting empanada dough",
+      "amount": "4-6 pieces",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out each piece of empanada dough into a thin circle.",
+    "Place a tablespoon of olive oil on each dough circle and spread evenly.",
+    "Add 1/4 cup of cooked beans to the center of each dough circle.",
+    "Sprinkle the chopped onion and minced garlic over the beans.",
+    "Sprinkle the cumin over the top.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanada",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resting-juicy-argentinian-beans-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:04:53.337Z"
+}
