@@ -1,0 +1,97 @@
+{
+  "slug": "richly-spiced-chinese-pork-noodles",
+  "title": "Spicy Pork Noodle Stir-Fry",
+  "description": "A quick and flavorful stir-fry made with pork, noodles, and a blend of Chinese spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork (thinly sliced)",
+      "amount": "1 lb",
+      "notes": "Choose lean pork for a healthier option"
+    },
+    {
+      "name": "Chinese noodles",
+      "amount": "1 cup",
+      "notes": "Rice noodles or egg noodles work well"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tsp",
+      "notes": "Add a burst of flavor"
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "2 cloves",
+      "notes": "A classic stir-fry ingredient"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Add depth of flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added aroma"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Balance out the spiciness"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "Add a spicy kick"
+    },
+    {
+      "name": "Green onions (chopped)",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "In a small bowl, whisk together soy sauce, sesame oil, sugar, and red pepper flakes.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked noodles to the skillet and stir to combine with the ginger and garlic.",
+    "Return the pork to the skillet and pour in the soy sauce mixture.",
+    "Stir-fry everything together for 2-3 minutes, until the pork is coated in the sauce.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "noodle-stir-fry",
+    "pork",
+    "spicy",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-chinese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:33:33.788Z"
+}
