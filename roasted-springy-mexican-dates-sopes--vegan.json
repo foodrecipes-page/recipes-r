@@ -1,0 +1,90 @@
+{
+  "slug": "roasted-springy-mexican-dates-sopes--vegan",
+  "title": "Roasted Mexican Sopes with Dates",
+  "description": "A flavorful and vegan-friendly twist on traditional Mexican sopes, featuring roasted vegetables and sweet dates.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Roasted spring onions",
+      "amount": "2",
+      "notes": "Chopped and ready to use"
+    },
+    {
+      "name": "Sopes",
+      "amount": "4",
+      "notes": "Traditional Mexican flatbread"
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "6",
+      "notes": "Sliced and ready to use"
+    },
+    {
+      "name": "Roasted bell peppers",
+      "amount": "1",
+      "notes": "Chopped and ready to use"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Roast the spring onions and bell peppers in the oven for 20-25 minutes, or until tender.",
+    "Warm the sopes according to package instructions.",
+    "Spoon some of the roasted vegetables onto each sopes.",
+    "Top with sliced dates, chopped cilantro, and a squeeze of lime juice.",
+    "Serve with vegan salsa and sour cream, and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-springy-mexican-dates-sopes--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:49:27.987Z"
+}
