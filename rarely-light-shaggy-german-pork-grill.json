@@ -1,0 +1,74 @@
+{
+  "slug": "rarely-light-shaggy-german-pork-grill",
+  "title": "Grilled German Pork Sausage with Sauteed Onions",
+  "description": "A classic German-inspired dish featuring juicy pork sausage grilled to perfection. Served with caramelized onions and a hint of smoky flavor.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork sausage",
+      "amount": "1 pound",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Light beer",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Shaggy thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Slice the onions thinly and separate into rings.",
+    "Season the pork sausage with salt and pepper.",
+    "Grill the sausage for 5-7 minutes per side, or until browned and cooked through.",
+    "While the sausage is cooking, sauté the onions in light beer until caramelized.",
+    "Add the thyme sprigs to the onions during the last minute of cooking.",
+    "Serve the grilled sausage with sautéed onions and a side of your choice.",
+    "Optional: serve with a side of braised red cabbage or potato salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "sausage",
+    "german",
+    "pork",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rarely-light-shaggy-german-pork-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:39:53.147Z"
+}
