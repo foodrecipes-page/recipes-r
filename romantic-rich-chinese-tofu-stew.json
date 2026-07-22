@@ -1,0 +1,83 @@
+{
+  "slug": "romantic-rich-chinese-tofu-stew",
+  "title": "Tofu Stew in Rich Brown Sauce",
+  "description": "A hearty and comforting tofu stew with a rich brown sauce, inspired by Chinese cuisine. This dish is perfect for a cozy evening dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained, and cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": "packed"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice Wine or Dry Sherry",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tofu and cook for 2-3 minutes, until golden brown on all sides.",
+    "Pour in the vegetable broth, brown sugar, soy sauce, and rice wine or dry sherry.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-15 minutes, or until the sauce has thickened.",
+    "Stir in the cornstarch and cook for an additional 2-3 minutes, or until the sauce has thickened to your liking.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stew",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/romantic-rich-chinese-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:28:48.095Z"
+}
