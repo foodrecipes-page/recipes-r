@@ -1,0 +1,71 @@
+{
+  "slug": "rustic-slovakian-potato-dumplings",
+  "title": "Slovakian Potato Dumplings",
+  "description": "A hearty, rustic Slovakian dish featuring potato dumplings served with a savory sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine grated potatoes, flour, eggs, and sour cream in a bowl. Mix well.",
+    "Knead the mixture for 5 minutes until it forms a dough.",
+    "Divide the dough into 8 equal pieces and shape each into a dumpling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes, or until they float.",
+    "While the dumplings are cooking, melt butter in a pan over medium heat.",
+    "Add a pinch of salt to the melted butter and stir.",
+    "Serve the cooked dumplings with the butter sauce and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "potato",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-slovakian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:39:22.804Z"
+}
