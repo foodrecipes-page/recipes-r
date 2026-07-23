@@ -1,0 +1,91 @@
+{
+  "slug": "rustic-silky-turkish-bulgur-kisir--vegan",
+  "title": "Turkish-Style Kale Salad",
+  "description": "A refreshing salad made with kisir bulgur, silky greens, and a tangy dressing.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably Turkish"
+    },
+    {
+      "name": "kisir",
+      "amount": "1 cup",
+      "notes": "crushed wheat"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups, chopped",
+      "notes": "silky green"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "1 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped kale and romaine lettuce.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic (if using), cumin, salt, and pepper.",
+    "Pour the dressing over the greens and toss to combine.",
+    "In a separate bowl, mix together the bulgur and kisir.",
+    "Add the bulgur mixture to the greens and toss to combine.",
+    "Serve immediately, garnished with additional lemon wedges or chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kale",
+    "salad",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-silky-turkish-bulgur-kisir--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:38:43.483Z"
+}
