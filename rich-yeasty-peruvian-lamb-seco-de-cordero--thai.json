@@ -1,0 +1,96 @@
+{
+  "slug": "rich-yeasty-peruvian-lamb-seco-de-cordero--thai",
+  "title": "Thai Lamb and Seco Curry",
+  "description": "A flavorful Thai curry made with rich lamb and seco, served with fragrant Thai rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Seco",
+      "amount": "2 tablespoons",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the seco, fish sauce, and brown sugar, and stir to combine.",
+    "Add the lamb back into the pan and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Stir in the Thai basil.",
+    "Serve the curry over rice.",
+    "Cook the rice according to package instructions.",
+    "Serve the curry with steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "lamb",
+    "seco"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-yeasty-peruvian-lamb-seco-de-cordero--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:55:56.345Z"
+}
