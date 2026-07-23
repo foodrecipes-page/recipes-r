@@ -14132,14 +14132,16 @@
   },
   {
     "slug": "roasted-floral-aerated-australian-vegetables-bake",
-    "title": "Baked Australian Vegetables",
+    "title": "Roasted Australian Vegetables with a Twist",
     "tags": [
       "australian",
+      "roasted",
       "vegetarian",
-      "baked"
+      "gluten-free",
+      "easy"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 50,
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -23267,6 +23269,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 185,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-gooey-moroccan-bacon-tagine--gluten-free",
+    "title": "Moroccan Tagine with Bacon",
+    "tags": [
+      "moroccan",
+      "bacon",
+      "gluten-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "r"
   }
 ]
