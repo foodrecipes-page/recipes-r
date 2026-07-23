@@ -1,0 +1,91 @@
+{
+  "slug": "richly-roasted-ukrainian-pork-casserole",
+  "title": "Ukrainian Pork Casserole",
+  "description": "A hearty, comforting casserole filled with tender pork, richly flavored with roasted vegetables and spices.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 lb",
+      "notes": "preferably with a bit of fat"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the sauce"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "you can use chicken broth as well"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "to add a tangy flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brown the pork cubes in a large skillet over medium-high heat, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and sauté until the onion is translucent, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the skillet and sauté for another 5 minutes.",
+    "Transfer the contents of the skillet to a large baking dish.",
+    "In a small bowl, mix together the flour and beef broth until smooth.",
+    "Pour the flour-beef broth mixture over the pork and vegetables in the baking dish.",
+    "Stir in the sour cream and season with salt and pepper to taste.",
+    "Bake the casserole in the preheated oven for 30 minutes.",
+    "Stir the casserole and continue baking for another 15-20 minutes, or until the potatoes are tender.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "casserole",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-roasted-ukrainian-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:25:22.703Z"
+}
