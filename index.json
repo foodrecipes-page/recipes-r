@@ -4895,16 +4895,15 @@
   },
   {
     "slug": "rich-dutch-chicken-wrap",
-    "title": "Rich Dutch Chicken Wrap",
+    "title": "Rich Chicken Wrap",
     "tags": [
-      "chicken-recipes",
-      "diabetic-friendly",
-      "dutch-cuisine",
-      "healthy-meals",
-      "spicy-food"
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy-to-make"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "r"
   },
   {
@@ -23281,6 +23280,31 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 60,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-polish-meat-stew--chinese",
+    "title": "Beef Stew in Oyster Sauce",
+    "tags": [
+      "chinese",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-silky-turkish-bulgur-kisir--vegan",
+    "title": "Turkish-Style Kale Salad",
+    "tags": [
+      "kale",
+      "salad",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
     "shard": "r"
   }
 ]
