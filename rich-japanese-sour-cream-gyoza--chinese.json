@@ -1,0 +1,65 @@
+{
+  "slug": "rich-japanese-sour-cream-gyoza--chinese",
+  "title": "Pan-Seared Gyoza with Rich Dipping Sauce",
+  "description": "A Chinese-inspired dish featuring crispy pan-seared gyoza served with a rich and tangy dipping sauce. Perfect for a quick and delicious snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gyoza",
+      "amount": "1 package (20-24 pieces)"
+    },
+    {
+      "name": "Rich Dipping Sauce",
+      "amount": "1/2 cup (120ml) soy sauce",
+      "notes": "and 1/4 cup (60ml) rice vinegar"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup (chopped)"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (grated)"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "2. Add the gyoza to the skillet and sear until the bottoms are golden brown, about 2-3 minutes.",
+    "3. Flip the gyoza over and cook for an additional 2-3 minutes, until the other sides are golden brown.",
+    "4. While the gyoza is cooking, mix together the soy sauce, rice vinegar, sour cream, green onions, and ginger in a small bowl.",
+    "5. Remove the gyoza from the skillet and place on a serving plate.",
+    "6. Serve the gyoza with the rich dipping sauce and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "appetizer",
+    "pan-seared",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-japanese-sour-cream-gyoza--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:32:08.781Z"
+}
