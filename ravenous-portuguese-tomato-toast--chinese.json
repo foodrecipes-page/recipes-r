@@ -1,0 +1,61 @@
+{
+  "slug": "ravenous-portuguese-tomato-toast--chinese",
+  "title": "Chinese-Style Toasted Tomatoes",
+  "description": "A simple Chinese-inspired appetizer or snack made by topping toasted bread with sautéed tomatoes.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Ravenous oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Slice the Portuguese bread into 1-inch thick slices.",
+    "3. Toast the bread slices for 2-3 minutes or until lightly browned.",
+    "4. In a separate pan, heat the Ravenous oil over medium heat.",
+    "5. Add the sliced tomatoes to the pan and cook for 3-4 minutes or until they start to soften.",
+    "6. Add the sugar and salt to the pan and stir to combine.",
+    "7. Place the toasted bread slices on a plate and top with the sautéed tomatoes.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "appetizer",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ravenous-portuguese-tomato-toast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:10:54.449Z"
+}
