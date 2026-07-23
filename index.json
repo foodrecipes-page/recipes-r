@@ -23243,5 +23243,30 @@
     "cuisine": "Thai",
     "totalTimeMin": 80,
     "shard": "r"
+  },
+  {
+    "slug": "richly-flavored-american-chicken-skillet--thai",
+    "title": "Thai Chicken Skillet",
+    "tags": [
+      "thai",
+      "chicken",
+      "skillet"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-algerian-ox-tail-tagine--indian",
+    "title": "Ox Tail Tagine",
+    "tags": [
+      "indian",
+      "beef",
+      "slow-cooked",
+      "ox-tail"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 185,
+    "shard": "r"
   }
 ]
