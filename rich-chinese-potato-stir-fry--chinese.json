@@ -1,0 +1,73 @@
+{
+  "slug": "rich-chinese-potato-stir-fry--chinese",
+  "title": "Chinese Stir-Fry with Potatoes",
+  "description": "A quick and easy Chinese-inspired dish featuring stir-fried potatoes and vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook for 2-3 minutes, until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped potatoes and cook for 5-7 minutes, until they start to brown.",
+    "Add the chopped bok choy and cook for an additional 2-3 minutes, until wilted.",
+    "Season with soy sauce to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "lunch",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chinese-potato-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:01:31.782Z"
+}
