@@ -1,0 +1,81 @@
+{
+  "slug": "rich-roasted-polish-pork-casseroles--chinese",
+  "title": "Kung Pao Pork Casserole",
+  "description": "A Chinese-inspired casserole featuring rich, roasted pork, \n                   tossed in a spicy sauce and topped with roasted polish sausage.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich roasted pork",
+      "amount": "1 pound, shredded"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Kung pao sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups, uncooked"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the rice according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 5 minutes.",
+    "Add the diced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the Kung pao sauce, soy sauce, and brown sugar. Bring to a simmer.",
+    "Add the shredded pork to the skillet and stir to combine.",
+    "Transfer the pork mixture to a 9x13 inch baking dish.",
+    "Top with cooked rice and sliced Polish sausage.",
+    "Bake in the preheated oven for 20-25 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "casserole",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-polish-pork-casseroles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:08:53.971Z"
+}
