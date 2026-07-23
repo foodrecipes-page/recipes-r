@@ -1,0 +1,112 @@
+{
+  "slug": "rich-algerian-ox-tail-tagine--indian",
+  "title": "Ox Tail Tagine",
+  "description": "A rich and flavorful Indian-inspired tagine made with slow-cooked ox tail, perfect for a special occasion. This dish is a variation of the traditional Algerian dish.",
+  "cuisine": "indian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ox tail",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or heavy pot over medium-high heat.",
+    "Brown the ox tail pieces, then remove them from the pot and set aside.",
+    "Reduce heat to medium and cook the onions until they're lightly browned.",
+    "Add the ginger and garlic and cook for another minute.",
+    "Add the cumin, coriander, turmeric, cayenne pepper, salt, and black pepper.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Return the ox tail to the pot, cover it, and transfer it to the oven.",
+    "Bake at 300°F for 2 1/2 hours or until the meat is tender.",
+    "Add the tomatoes and continue to bake for another 30 minutes.",
+    "Serve the tagine hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "slow-cooked",
+    "ox-tail"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-algerian-ox-tail-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:38:06.357Z"
+}
