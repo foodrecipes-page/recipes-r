@@ -1,0 +1,91 @@
+{
+  "slug": "richly-flavored-american-chicken-skillet--thai",
+  "title": "Thai Chicken Skillet",
+  "description": "A spicy and flavorful Thai-inspired dish made with succulent chicken, richly flavored sauce, and American skillet.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "American skillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "richly flavored sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in the American skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil, garlic, and ginger. Cook for 1 minute.",
+    "Add the green chili and cook for another minute.",
+    "Add the richly flavored sauce, brown sugar, fish sauce, and soy sauce to the skillet. Stir to combine.",
+    "Return the chicken breast to the skillet and cook until coated with the sauce, about 2-3 minutes.",
+    "Reduce heat to medium-low and simmer for 5-7 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-american-chicken-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:01:28.314Z"
+}
