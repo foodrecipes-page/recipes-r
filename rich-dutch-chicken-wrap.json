@@ -1,0 +1,81 @@
+{
+  "slug": "rich-dutch-chicken-wrap",
+  "title": "Rich Chicken Wrap",
+  "description": "A flavorful and satisfying wrap filled with juicy chicken, crunchy vegetables, and creamy sauce.",
+  "cuisine": null,
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "dutch wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "rich sauce (see note)",
+      "amount": "2 tbsp",
+      "notes": "see note"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cheese (shredded)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the chicken breast with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine the shredded lettuce, diced tomatoes, and sliced onion.",
+    "Add the grilled chicken to the bowl and toss to combine.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the rich sauce on the wrap, leaving a 1-inch border around the edges.",
+    "Add the chicken and vegetable mixture on top of the sauce.",
+    "Sprinkle shredded cheese over the top.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dutch-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:00:49.424Z"
+}
