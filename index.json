@@ -23306,5 +23306,31 @@
     "cuisine": "Turkish",
     "totalTimeMin": 15,
     "shard": "r"
+  },
+  {
+    "slug": "rich-roasted-polish-pork-casseroles--chinese",
+    "title": "Kung Pao Pork Casserole",
+    "tags": [
+      "chinese",
+      "pork",
+      "casserole",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-raw-algerian-king-prawns-tagine--keto",
+    "title": "Algerian Prawn Tagine",
+    "tags": [
+      "algerian",
+      "keto",
+      "prawns",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 22,
+    "shard": "r"
   }
 ]
