@@ -1,0 +1,78 @@
+{
+  "slug": "robust-spring-italian-chicken-skewers--keto",
+  "title": "Keto Chicken Skewers with Italian Seasoning",
+  "description": "A flavorful and healthy dish made with marinated chicken breast, served with a side of fresh vegetables. Perfect for a keto diet.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Robust bell peppers",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Italian seasoning, salt, and pepper.",
+    "Thread chicken, spring onions, and robust bell peppers onto skewers.",
+    "Brush both sides of the chicken and vegetables with olive oil.",
+    "Sprinkle the Italian seasoning mixture evenly over both sides of the chicken and vegetables.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "italian",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spring-italian-chicken-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:42:03.185Z"
+}
