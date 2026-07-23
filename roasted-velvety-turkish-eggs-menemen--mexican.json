@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-velvety-turkish-eggs-menemen--mexican",
+  "title": "Mexican Menemen",
+  "description": "A twist on the classic Turkish menemen, this Mexican-inspired dish combines scrambled eggs with roasted vegetables and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "roasted bell peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the roasted bell peppers and cook for 2-3 minutes.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Push the vegetables to one side of the skillet.",
+    "Crack in the eggs and scramble them until almost set.",
+    "Mix the eggs with the vegetables.",
+    "Season with salt and turkish red pepper flakes.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "scrambled-eggs",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-velvety-turkish-eggs-menemen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:13:23.205Z"
+}
