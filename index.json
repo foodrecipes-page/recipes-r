@@ -23180,5 +23180,44 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "r"
+  },
+  {
+    "slug": "rich-tender-energizing-norwegian-beans-stir-fry--japanese",
+    "title": "Energizing Japanese Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "beef",
+      "vegetables"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-canadian-mackerel-bowl--indian",
+    "title": "Mackerel Biryani",
+    "tags": [
+      "biryani",
+      "mackerel",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "rainbow-crumbly-american-trout-crumble--french",
+    "title": "Pan-Seared Trout Amandine",
+    "tags": [
+      "french",
+      "fish",
+      "dinner",
+      "easy",
+      "almond"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
+    "shard": "r"
   }
 ]
