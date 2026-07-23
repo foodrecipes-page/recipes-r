@@ -1,0 +1,87 @@
+{
+  "slug": "rainbow-crumbly-american-trout-crumble--french",
+  "title": "Pan-Seared Trout Amandine",
+  "description": "A classic French dish featuring pan-seared trout topped with a crunchy almond crust and a tangy lemon butter sauce.",
+  "cuisine": "French",
+  "diet": [
+    "Fish",
+    "Gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the trout with salt and pepper.",
+    "Dredge the trout in almond meal, pressing gently to adhere.",
+    "Heat butter in a skillet over medium-high heat.",
+    "Sear the trout for 2-3 minutes on each side or until cooked through.",
+    "Transfer the trout to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add garlic to the skillet.",
+    "Cook for 1 minute, until fragrant.",
+    "Stir in lemon juice and cook for an additional minute.",
+    "Serve the trout with the lemon butter sauce spooned over the top.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "dinner",
+    "easy",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rainbow-crumbly-american-trout-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:20:41.599Z"
+}
