@@ -1,0 +1,81 @@
+{
+  "slug": "rich-smoky-moroccan-lamb-tagine--vegetarian",
+  "title": "Moroccan Tagine with Vegetables",
+  "description": "A hearty, slow-cooked stew from Morocco, made with rich and smoky flavors, and featuring a variety of vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Smoky Moroccan Spice Blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until lightly browned, about 5 minutes.",
+    "Add the carrots, zucchini, red bell pepper, and potatoes. Cook, stirring occasionally, until the vegetables are slightly tender, about 5 minutes.",
+    "Add the Moroccan spice blend, chickpeas, and diced tomatoes. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook, covered, until the vegetables are tender, about 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "vegetarian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-moroccan-lamb-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:26:36.581Z"
+}
