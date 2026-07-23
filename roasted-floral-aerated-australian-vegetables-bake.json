@@ -1,59 +1,75 @@
 {
   "slug": "roasted-floral-aerated-australian-vegetables-bake",
-  "title": "Baked Australian Vegetables",
-  "description": "A delicious and easy-to-make dish featuring australian vegetables in a floral twist.",
-  "cuisine": "australian",
+  "title": "Roasted Australian Vegetables with a Twist",
+  "description": "A delicious and refreshing roasted vegetable dish with an Australian twist. Perfect for a light dinner or as a side.",
+  "cuisine": "Australian",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "australian vegetables",
-      "amount": "2 cups, chopped"
+      "name": "Australian vegetables (such as carrots, zucchini, and bell peppers)",
+      "amount": "1 cup",
+      "notes": ""
     },
     {
-      "name": "olive oil",
-      "amount": "2 tbsp"
+      "name": "Roasted garlic aioli",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "floral thyme",
-      "amount": "1 tsp, dried"
+      "name": "Fresh rosemary leaves",
+      "amount": "1 tsp",
+      "notes": "chopped"
     },
     {
-      "name": "salt",
-      "amount": "1 tsp"
+      "name": "Floral honey",
+      "amount": "1 tsp",
+      "notes": "optional"
     },
     {
-      "name": "pepper",
-      "amount": "0.5 tsp"
+      "name": "Aerated balsamic glaze",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "In a large bowl, toss the chopped vegetables with olive oil, thyme, salt, and pepper.",
-    "Transfer the vegetables to a baking sheet and bake for 25 minutes.",
-    "Rotate the baking sheet and continue baking for another 15-20 minutes, or until the vegetables are tender.",
-    "Serve hot."
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the Australian vegetables with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, mix the roasted garlic aioli with chopped rosemary leaves.",
+    "Remove the vegetables from the oven and brush with the garlic aioli mixture.",
+    "Drizzle with floral honey and aerated balsamic glaze, if using.",
+    "Serve hot, garnished with additional rosemary leaves if desired.",
+    "Adjust seasoning as needed."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 40,
-  "totalTimeMin": 50,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "australian",
+    "roasted",
     "vegetarian",
-    "baked"
+    "gluten-free",
+    "easy"
   ],
   "nutrition": {
     "calories": 120,
     "protein": 2,
     "carbs": 20,
-    "fat": 4
+    "fat": 5
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/roasted-floral-aerated-australian-vegetables-bake",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T17:56:28.111Z"
+  "createdAt": "2026-07-19T13:52:45.445Z"
 }
