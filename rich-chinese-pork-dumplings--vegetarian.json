@@ -1,0 +1,80 @@
+{
+  "slug": "rich-chinese-pork-dumplings--vegetarian",
+  "title": "Pan-Fried Vegetable Dumplings",
+  "description": "A Chinese-inspired vegetarian dish featuring pan-fried dumplings filled with a rich mixture of vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumpling wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "You can find these at most Asian grocery stores"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing dumplings"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine cabbage, carrots, green onions, and ginger.",
+    "2. In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "3. Add the soy sauce mixture to the vegetable mixture and stir to combine.",
+    "4. Lay a dumpling wrapper on a flat surface and place 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with a small amount of water.",
+    "6. Fold the wrapper into a half-moon shape and press the edges together to seal the dumpling.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "9. When the oil is hot, add the dumplings and cook for 2-3 minutes on each side, until they are golden brown.",
+    "10. Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "dinner",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-chinese-pork-dumplings--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:54:57.997Z"
+}
