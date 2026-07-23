@@ -23141,5 +23141,44 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "rustic-croatian-vegetable-flatbread--keto",
+    "title": "Croatian Vegetable Platter with Flatbread",
+    "tags": [
+      "keto",
+      "croatian",
+      "vegetarian",
+      "flatbread"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
+    "shard": "r"
+  },
+  {
+    "slug": "ravenous-portuguese-tomato-toast--chinese",
+    "title": "Chinese-Style Toasted Tomatoes",
+    "tags": [
+      "chinese",
+      "snack",
+      "appetizer",
+      "tomato"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-springy-greek-lamb-skewers--thai",
+    "title": "Thai-Style Lamb Skewers",
+    "tags": [
+      "thai",
+      "lamb",
+      "skewers",
+      "grill"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "r"
   }
 ]
