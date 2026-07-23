@@ -23217,5 +23217,31 @@
     "cuisine": "French",
     "totalTimeMin": 22,
     "shard": "r"
+  },
+  {
+    "slug": "rich-chinese-pork-dumplings--vegetarian",
+    "title": "Pan-Fried Vegetable Dumplings",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "dinner",
+      "dumplings"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-yeasty-peruvian-lamb-seco-de-cordero--thai",
+    "title": "Thai Lamb and Seco Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "lamb",
+      "seco"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 80,
+    "shard": "r"
   }
 ]
