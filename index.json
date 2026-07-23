@@ -12317,17 +12317,15 @@
   },
   {
     "slug": "richly-roasted-ukrainian-pork-casserole",
-    "title": "Richly Roasted Ukrainian Pork Casserole",
+    "title": "Ukrainian Pork Casserole",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "lazy-sunday",
-      "rich-and-savory",
-      "slow-cooked",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pork",
+      "casserole",
+      "comfortfood"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 180,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
     "shard": "r"
   },
   {
@@ -23331,6 +23329,34 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-velvety-turkish-eggs-menemen--mexican",
+    "title": "Mexican Menemen",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "scrambled-eggs",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-spring-italian-chicken-skewers--keto",
+    "title": "Keto Chicken Skewers with Italian Seasoning",
+    "tags": [
+      "keto",
+      "italian",
+      "grilled",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
     "shard": "r"
   }
 ]
