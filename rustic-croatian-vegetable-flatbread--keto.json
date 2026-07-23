@@ -1,0 +1,69 @@
+{
+  "slug": "rustic-croatian-vegetable-flatbread--keto",
+  "title": "Croatian Vegetable Platter with Flatbread",
+  "description": "A keto-friendly platter featuring Croatian flatbread, roasted vegetables, and a side of rustic charm.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Rustic Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with vegetable oil and season with rustic salt.",
+    "Arrange flatbread on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Meanwhile, toss mushrooms, bell peppers, and onions with a pinch of rustic salt.",
+    "Spread vegetables on a separate baking sheet and roast in the oven for 15-20 minutes, or until tender.",
+    "Garnish with chopped parsley and serve with flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "croatian",
+    "vegetarian",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-croatian-vegetable-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:28:58.374Z"
+}
