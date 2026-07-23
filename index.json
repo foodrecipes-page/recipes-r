@@ -19664,17 +19664,14 @@
   },
   {
     "slug": "rustic-slovakian-potato-dumplings",
-    "title": "Rustic Slovakian Potato Dumplings",
+    "title": "Slovakian Potato Dumplings",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pan",
-      "potato",
       "slovakian",
-      "vegetarian"
+      "potato",
+      "dumplings"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "r"
   },
   {
@@ -23129,6 +23126,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-japanese-sour-cream-gyoza--chinese",
+    "title": "Pan-Seared Gyoza with Rich Dipping Sauce",
+    "tags": [
+      "chinese",
+      "snack",
+      "appetizer",
+      "pan-seared",
+      "gyoza"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
