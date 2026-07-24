@@ -1,0 +1,88 @@
+{
+  "slug": "rich-spicy-thai-pork-moo-ping--vegetarian",
+  "title": "Spicy Thai Moo Ping Wrap",
+  "description": "A vegetarian twist on the traditional Thai dish, featuring marinated tofu and spicy sauce, served in a crispy rice paper wrap.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "250g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "rich spicy thai sauce",
+      "amount": "120ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ping rice paper wraps",
+      "amount": "4-6",
+      "notes": "crispy"
+    },
+    {
+      "name": "moo ping-inspired stir-fry mix",
+      "amount": "1",
+      "notes": "store-bought or homemade spice blend"
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "peanut or soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the tofu by cutting it into thin slices and marinating it in the rich spicy thai sauce for at least 30 minutes.",
+    "2. Heat a non-stick pan over medium-high heat and add the marinated tofu.",
+    "3. Stir-fry the tofu for 3-4 minutes on each side, until golden brown and crispy.",
+    "4. Warm the rice paper wraps according to package instructions.",
+    "5. Assemble the wraps by adding the stir-fried tofu, mung bean sprouts, cucumber slices, lettuce leaves, pickled carrots and daikon, and drizzling with peanut or soy sauce.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "vegan",
+    "spicy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spicy-thai-pork-moo-ping--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:24:21.459Z"
+}
