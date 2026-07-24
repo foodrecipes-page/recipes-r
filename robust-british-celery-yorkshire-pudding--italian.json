@@ -1,0 +1,74 @@
+{
+  "slug": "robust-british-celery-yorkshire-pudding--italian",
+  "title": "Traditional Italian Pudding",
+  "description": "A classic Italian-inspired dessert made with a delicate balance of sweet and savory flavors. Yorkshire pudding serves as the base for a creamy custard.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yorkshire Pudding",
+      "amount": "1 large"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Place the Yorkshire pudding on a baking sheet.",
+    "3. In a medium saucepan, combine the heavy cream, granulated sugar, and vanilla extract.",
+    "4. Cook over medium heat, stirring occasionally, until the sugar dissolves.",
+    "5. Bring the mixture to a simmer and cook for 5-7 minutes or until it thickens slightly.",
+    "6. Remove from heat and stir in the cinnamon and butter until melted.",
+    "7. In a separate bowl, whisk together the eggs.",
+    "8. Pour the warm cream mixture into the bowl with the eggs and whisk until smooth.",
+    "9. Pour the custard mixture over the Yorkshire pudding.",
+    "10. Bake for 15-20 minutes or until the custard is set and lightly golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "pudding",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 26,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-british-celery-yorkshire-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:43:30.991Z"
+}
