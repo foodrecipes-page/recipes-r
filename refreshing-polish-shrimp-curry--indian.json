@@ -1,0 +1,97 @@
+{
+  "slug": "refreshing-polish-shrimp-curry--indian",
+  "title": "Shrimp Curry",
+  "description": "A refreshing, spicy shrimp curry made with Indian spices and polish sausage. Perfect for a quick dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add sausage and cook until browned, about 3 minutes. Remove and set aside.",
+    "Add onion and ginger to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add cumin, coriander, turmeric, and salt. Cook for 1 minute, stirring constantly.",
+    "Add shrimp and cook until pink and cooked through, about 2-3 minutes.",
+    "Return sausage to the pan and stir to combine.",
+    "Simmer for 2-3 minutes to allow the flavors to meld.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "shrimp",
+    "indian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-polish-shrimp-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:22:49.134Z"
+}
