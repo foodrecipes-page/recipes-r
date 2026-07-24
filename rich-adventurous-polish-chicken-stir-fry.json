@@ -1,0 +1,89 @@
+{
+  "slug": "rich-adventurous-polish-chicken-stir-fry",
+  "title": "Polish-Style Stir-Fried Chicken",
+  "description": "A hearty and flavorful Polish-inspired stir-fry dish made with chicken, vegetables, and a hint of spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked paprika for extra depth"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onion and bell pepper and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the paprika, caraway seeds, salt, and black pepper to the skillet and cook for 1 minute, until the spices are fragrant.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2-3 minutes, until the chicken is coated in the sauce.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "polish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-adventurous-polish-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:26:12.134Z"
+}
