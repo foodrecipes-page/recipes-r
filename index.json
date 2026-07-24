@@ -8074,17 +8074,16 @@
   },
   {
     "slug": "rich-roasted-mediterranean-vegetable-wrap",
-    "title": "Rich Roasted Mediterranean Vegetable Wrap",
+    "title": "Mediterranean Veggie Wrap",
     "tags": [
-      "easy-to-make",
-      "flexitarian-friendly",
-      "healthy-lunch",
-      "mediterranean-cuisine",
-      "roasted-vegetables",
-      "vegetarian-option"
+      "mediterranean",
+      "veggie",
+      "wrap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 10,
     "shard": "r"
   },
   {
@@ -23560,6 +23559,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 22,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-crispy-thai-beef-larb--vegetarian",
+    "title": "Thai Larb Lettuce Wraps",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "snack",
+      "lettuce-wraps"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "refreshing-polish-shrimp-curry--indian",
+    "title": "Shrimp Curry",
+    "tags": [
+      "curry",
+      "shrimp",
+      "indian",
+      "seafood"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-korean-pork-ssam--mexican",
+    "title": "Korean BBQ Pork Tacos",
+    "tags": [
+      "korean-mexican",
+      "bbq",
+      "tacos",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "r"
   }
 ]
