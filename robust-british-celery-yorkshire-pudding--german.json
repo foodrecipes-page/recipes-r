@@ -1,0 +1,88 @@
+{
+  "slug": "robust-british-celery-yorkshire-pudding--german",
+  "title": "German Yorkshire Pudding with Celery and British Sausage",
+  "description": "A hearty German-inspired dish that combines the classic British Yorkshire pudding with caramelized celery and robust sausage.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British sausage",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Robust mustard",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Yorkshire pudding batter",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Caramelize the celery in a pan over medium heat.",
+    "Cook the British sausage in a separate pan until browned.",
+    "In a large bowl, whisk together the flour, eggs, milk, salt, and black pepper.",
+    "Add the caramelized celery and cooked sausage to the bowl and stir to combine.",
+    "Add the robust mustard to the bowl and stir to combine.",
+    "Pour the Yorkshire pudding batter into a greased 9x13 inch baking dish.",
+    "Pour the sausage and celery mixture over the batter in the baking dish.",
+    "Bake for 25-30 minutes or until the Yorkshire pudding is golden brown and the sausage is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "sausages",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-british-celery-yorkshire-pudding--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:59:11.119Z"
+}
