@@ -2728,14 +2728,14 @@
   },
   {
     "slug": "rich-adventurous-polish-chicken-stir-fry",
-    "title": "Rich & Adventurous Polish Chicken Stir-fry",
+    "title": "Polish-Style Stir-Fried Chicken",
     "tags": [
-      "keto-friendly",
-      "poultry",
-      "spicy"
+      "chicken",
+      "polish",
+      "stir-fry"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -23397,6 +23397,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "racy-polish-apricot-flatbread--keto",
+    "title": "Polish Apricot Flatbread Bites",
+    "tags": [
+      "keto",
+      "gluten-free",
+      "low-carb"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 33,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-british-celery-yorkshire-pudding--italian",
+    "title": "Traditional Italian Pudding",
+    "tags": [
+      "italian",
+      "dessert",
+      "pudding",
+      "custard"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-dense-slovakian-caraway-seeds-bake--german",
+    "title": "Slovakian Caraway Seed Focaccia",
+    "tags": [
+      "german",
+      "slovakian",
+      "bread",
+      "focaccia",
+      "caraway"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
