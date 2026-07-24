@@ -1,0 +1,76 @@
+{
+  "slug": "rich-dense-slovakian-caraway-seeds-bake--german",
+  "title": "Slovakian Caraway Seed Focaccia",
+  "description": "A dense and rich Slovakian-inspired focaccia infused with the warm flavor of caraway seeds, perfect for a German-style snack or side.",
+  "cuisine": "german",
+  "diet": [
+    null,
+    null,
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "slovakian rye flour",
+      "amount": "400g"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "rich sour cream",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Activate the yeast by mixing it with 100ml of warm water.",
+    "Combine the rye flour, caraway seeds, and salt in a large bowl.",
+    "Add the yeast mixture, olive oil, and sour cream to the dry ingredients.",
+    "Mix the dough until it becomes smooth and elastic.",
+    "Knead the dough for 10 minutes until it's well-developed.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 220°C (425°F).",
+    "Punch down the dough and shape it into a rectangle.",
+    "Place the dough on a baking sheet, drizzle with olive oil, and bake for 25 minutes.",
+    "Remove the focaccia from the oven and let it cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "slovakian",
+    "bread",
+    "focaccia",
+    "caraway"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-slovakian-caraway-seeds-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:21:06.422Z"
+}
