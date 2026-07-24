@@ -1,0 +1,80 @@
+{
+  "slug": "roasted-crispy-thai-beef-larb--vegetarian",
+  "title": "Thai Larb Lettuce Wraps",
+  "description": "A vegetarian twist on the classic Thai dish, featuring roasted tofu and crispy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": "Iceberg or romaine"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "Peel and grate"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Larb Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C). Cut the tofu into small cubes and toss with a little oil. Roast for 20-25 minutes, or until crispy.",
+    "2. In a large bowl, combine the lettuce, red onion, cucumber, carrots, and roasted peanuts.",
+    "3. In a small bowl, mix together the larb spice blend and a squeeze of lime juice.",
+    "4. Add the roasted tofu to the bowl with the lettuce mixture and toss with the larb spice blend.",
+    "5. Sprinkle with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "snack",
+    "lettuce-wraps"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crispy-thai-beef-larb--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:21:05.225Z"
+}
