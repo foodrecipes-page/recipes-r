@@ -4718,17 +4718,15 @@
   },
   {
     "slug": "rich-dense-british-tofu-toad-in-the-hole",
-    "title": "Rich Dense British Tofu Toad In The Hole",
+    "title": "Toad in the Hole with British Twist",
     "tags": [
-      "british-cuisine",
-      "high-protein",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "british",
+      "sausages",
+      "yorkshire-pudding"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -23550,6 +23548,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "raw-king-french-prawns-carpaccio--thai",
+    "title": "Spicy Prawn and King Prawn Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "prawn-stir-fry",
+      "king-prawn"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "r"
   }
 ]
