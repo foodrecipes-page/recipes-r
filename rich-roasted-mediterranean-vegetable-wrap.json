@@ -1,0 +1,81 @@
+{
+  "slug": "rich-roasted-mediterranean-vegetable-wrap",
+  "title": "Mediterranean Veggie Wrap",
+  "description": "A flavorful and healthy wrap filled with roasted vegetables, perfect for a quick and easy meal. This Mediterranean-inspired dish is a great way to get your daily dose of vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rich Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Roasted Red Bell Pepper",
+      "amount": "1/2 cup, sliced",
+      "notes": "from a jar"
+    },
+    {
+      "name": "Mediterranean Hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Wrap",
+      "amount": "1 large, whole wheat"
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red Onion, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and Pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "1. Lay the wrap flat on a clean surface.",
+    "2. Spread the hummus evenly over the center of the wrap, leaving a 1-inch border around the edges.",
+    "3. Arrange the sliced bell pepper, cucumber, tomato, and onion on top of the hummus.",
+    "4. Sprinkle the chopped parsley over the vegetables.",
+    "5. Season with salt and pepper to taste.",
+    "6. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "7. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "veggie",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-roasted-mediterranean-vegetable-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:19:38.302Z"
+}
