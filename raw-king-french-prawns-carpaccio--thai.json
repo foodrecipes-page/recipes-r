@@ -1,0 +1,77 @@
+{
+  "slug": "raw-king-french-prawns-carpaccio--thai",
+  "title": "Spicy Prawn and King Prawn Stir Fry",
+  "description": "A quick and flavorful Thai-style stir fry made with succulent prawns, crispy king prawns, and a hint of spice.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "shellfish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Raw Prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "King Prawns",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "French Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute until fragrant.",
+    "Add the carrots and king prawns and stir-fry for 3-4 minutes until the prawns are pink and the carrots are tender.",
+    "Add the raw prawns and stir-fry for 2-3 minutes until they are pink and cooked through.",
+    "Add the curry paste and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "prawn-stir-fry",
+    "king-prawn"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-king-french-prawns-carpaccio--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:27:00.023Z"
+}
