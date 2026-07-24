@@ -1,0 +1,80 @@
+{
+  "slug": "rich-dense-british-tofu-toad-in-the-hole",
+  "title": "Toad in the Hole with British Twist",
+  "description": "A classic British dish with a rich and dense flavor, featuring sausages cooked in a Yorkshire pudding batter.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Choose a high-quality, British-style sausage"
+    },
+    {
+      "name": "Yorkshire pudding mix",
+      "amount": "1 package",
+      "notes": "Make sure it's a British-style mix"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Use whole milk for a richer flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs work best for this recipe"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, unbleached flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for added flavor"
+    },
+    {
+      "name": "Tofu",
+      "amount": "",
+      "notes": "Not used in this recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together the milk, eggs, and Yorkshire pudding mix.",
+    "Add the flour and salt to the bowl and whisk until smooth.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Cook the sausages in a large skillet over medium-high heat until browned on all sides.",
+    "Remove the sausages from the skillet and place them in the baking dish with the batter.",
+    "Pour the remaining batter over the sausages, making sure they're fully covered.",
+    "Bake for 25-30 minutes, or until the Yorkshire pudding is golden brown and puffed.",
+    "Serve the Toad in the Hole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "sausages",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-british-tofu-toad-in-the-hole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:30:43.537Z"
+}
