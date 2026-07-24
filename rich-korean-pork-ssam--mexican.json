@@ -1,0 +1,85 @@
+{
+  "slug": "rich-korean-pork-ssam--mexican",
+  "title": "Korean BBQ Pork Tacos",
+  "description": "A fusion twist on traditional tacos, featuring Korean BBQ pork, crunchy slaw, and a sprinkle of cilantro. This dish is a flavorful and spicy combination of Mexican and Korean cuisines.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Korean chili flakes (gochugaru) optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "slaw mix",
+      "amount": "1 cup",
+      "notes": "shredded cabbage and carrots"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and Korean chili flakes (if using). Add the sliced pork and marinate for at least 2 hours, or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off. Cook the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the cooked pork onto a tortilla, followed by a spoonful of slaw mix, a sprinkle of green onions, and a sprinkle of cilantro.",
+    "Drizzle sriracha over the top (if using) and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "bbq",
+    "tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-korean-pork-ssam--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:42:38.788Z"
+}
