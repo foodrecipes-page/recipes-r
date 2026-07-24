@@ -1,0 +1,78 @@
+{
+  "slug": "roasted-uruguayan-courgettes-bake--german",
+  "title": "Uruguayan-Style Roasted Courgettes",
+  "description": "A hearty and flavorful side dish inspired by Uruguayan cuisine, featuring roasted courgettes and a hint of German flair.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the courgettes into 1-inch slices.",
+    "In a large bowl, whisk together olive oil, garlic, salt, pepper, and paprika (if using).",
+    "Add the courgette slices to the bowl and toss to coat.",
+    "Transfer the courgettes to a baking sheet and roast for 20-25 minutes, or until tender and lightly browned.",
+    "Sprinkle parmesan cheese over the courgettes and return to the oven for an additional 1-2 minutes.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "side-dish",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-courgettes-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:42:10.804Z"
+}
