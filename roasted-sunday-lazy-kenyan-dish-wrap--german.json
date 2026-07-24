@@ -1,0 +1,73 @@
+{
+  "slug": "roasted-sunday-lazy-kenyan-dish-wrap--german",
+  "title": "Lazy Sunday Bratwurst Wrap",
+  "description": "A delicious German-inspired wrap filled with juicy bratwurst and topped with sauerkraut and caramelized onions.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Flour Tortilla",
+      "amount": "1"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill to medium-high heat.",
+    "2. Grill the bratwurst for 5-7 minutes per side, or until cooked through.",
+    "3. Meanwhile, cook the sauerkraut in a pan over medium heat until slightly browned.",
+    "4. In a separate pan, caramelize the onions over low heat for 15-20 minutes.",
+    "5. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the wrap by spreading the mustard on the tortilla, followed by the bratwurst, sauerkraut, and caramelized onions.",
+    "7. Top with chopped parsley and season with salt and pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bratwurst",
+    "wrap",
+    "lazy sunday"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-sunday-lazy-kenyan-dish-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:35:36.699Z"
+}
