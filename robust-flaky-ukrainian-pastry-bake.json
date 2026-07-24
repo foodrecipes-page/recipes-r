@@ -1,0 +1,78 @@
+{
+  "slug": "robust-flaky-ukrainian-pastry-bake",
+  "title": "Ukrainian-Style Pirozhki",
+  "description": "Flaky pastry pockets filled with a savory robust Ukrainian-inspired filling. Perfect as a snack or light meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Robust Ukrainian Meat Filling (beef, pork, onion, carrot, mushroom, dill)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the robust Ukrainian meat filling, egg, salt, and black pepper.",
+    "Place a tablespoon of the meat mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with water, then fold the pastry over the filling to form a triangle or a square shape.",
+    "Press the edges of the pastry together to seal the pirozhki.",
+    "Place the pirozhki on a baking sheet lined with parchment paper.",
+    "Brush the tops of the pirozhki with a little water, then sprinkle with a pinch of salt.",
+    "Bake the pirozhki in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the pirozhki warm, garnished with chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pastry",
+    "snack",
+    "meat",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-flaky-ukrainian-pastry-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:37:31.269Z"
+}
