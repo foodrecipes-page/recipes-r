@@ -1,0 +1,78 @@
+{
+  "slug": "radiant-spanish-chicken-cocido-madrileno",
+  "title": "Madrileno Chicken Stew",
+  "description": "A hearty Spanish stew originating from Madrid, made with tender chicken and a rich vegetable broth.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 can (28 oz) crushed tomatoes",
+      "notes": "preferably San Marzano"
+    },
+    {
+      "name": "radiant",
+      "amount": "4 tablespoons olive oil",
+      "notes": "use a high-quality Spanish olive oil"
+    },
+    {
+      "name": "cocido",
+      "amount": "1 onion, diced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "madrileno",
+      "amount": "2 cloves garlic, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the crushed tomatoes, salt, and black pepper to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stew",
+    "chicken",
+    "omnivore"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-spanish-chicken-cocido-madrileno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:55:33.620Z"
+}
