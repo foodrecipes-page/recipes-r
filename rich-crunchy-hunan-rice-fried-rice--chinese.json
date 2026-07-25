@@ -1,0 +1,93 @@
+{
+  "slug": "rich-crunchy-hunan-rice-fried-rice--chinese",
+  "title": "Hunan Fried Rice",
+  "description": "A classic Chinese dish made with stir-fried rice and various vegetables. The combination of crunchy and rich flavors is sure to satisfy your taste buds.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Hunan sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup",
+      "notes": "available in store"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy vegetables",
+      "amount": "1 cup",
+      "notes": "peas, carrots, corn"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the Hunan sauce and stir-fry for 1 minute.",
+    "Add the cooked rice, scallions, fried rice, salt, and pepper. Stir-fry for 2-3 minutes.",
+    "Add the green onions and soy sauce. Stir-fry for another minute.",
+    "Add the crunchy vegetables and stir-fry for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "hunan",
+    "fried-rice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-hunan-rice-fried-rice--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:56:39.509Z"
+}
