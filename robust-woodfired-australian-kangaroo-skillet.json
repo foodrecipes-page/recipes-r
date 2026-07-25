@@ -1,0 +1,91 @@
+{
+  "slug": "robust-woodfired-australian-kangaroo-skillet",
+  "title": "Woodfired Kangaroo Skillet Meal",
+  "description": "A hearty, woodfired skillet meal featuring robustly flavored kangaroo, served with a side of roasted vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kangaroo steaks",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Woodfired skillet",
+      "amount": "",
+      "notes": "Preheated to 400°F (200°C)"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the woodfired skillet to 400°F (200°C).",
+    "Season the kangaroo steaks with salt and pepper.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the red bell pepper and red onion to the skillet and cook for 3-4 minutes.",
+    "Add the kangaroo steaks to the skillet and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the kangaroo steaks with the roasted vegetables and a drizzle of Australian bush tomato sauce.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "kangaroo",
+    "skillet",
+    "woodfired",
+    "grill",
+    "meat",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-woodfired-australian-kangaroo-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:59:46.692Z"
+}
