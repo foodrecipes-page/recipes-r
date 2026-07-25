@@ -1,0 +1,81 @@
+{
+  "slug": "radiant-spanish-chicken-cocido-madrileno--chinese",
+  "title": "Madrileno Chicken Stir Fry",
+  "description": "A fusion of Spanish and Chinese flavors, this stir fry is a unique twist on traditional dishes. Chicken is marinated in a mixture of spices and then cooked with cocido and other vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Madrileno chicken",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Cocido",
+      "amount": "225g",
+      "notes": "Dried cocido, rehydrated"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Radiant rice",
+      "amount": "100g",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tbsp",
+      "notes": "For marinating chicken"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1tsp",
+      "notes": "For marinating chicken"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add rehydrated cocido and cook for 2-3 minutes.",
+    "Add marinated chicken and cook until browned.",
+    "Add cooked radiant rice to the wok and stir-fry for 2-3 minutes.",
+    "Season with soy sauce and paprika.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-chinese",
+    "stir-fry",
+    "chicken",
+    "cocido"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-spanish-chicken-cocido-madrileno--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:14:21.671Z"
+}
