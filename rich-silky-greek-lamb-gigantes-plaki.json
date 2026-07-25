@@ -1,0 +1,98 @@
+{
+  "slug": "rich-silky-greek-lamb-gigantes-plaki",
+  "title": "Greek Lamb Gigantes Plaki",
+  "description": "A hearty and flavorful Greek dish made with lamb and giant beans in a rich tomato sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Gigantes beans",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "28 ounces",
+      "notes": null
+    },
+    {
+      "name": "Rich tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the gigantes beans, diced tomatoes, and tomato sauce to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the lamb to the pot and cover it with a lid.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the fresh parsley and serve the lamb and gigantes beans hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "greek",
+    "slow-cooked",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 44,
+    "fat": 29
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-greek-lamb-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:36:43.758Z"
+}
