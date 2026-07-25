@@ -1,0 +1,106 @@
+{
+  "slug": "rich-malaysian-chicken-wrap",
+  "title": "Malaysian Chicken Wrap",
+  "description": "A flavorful and spicy Malaysian-inspired dish wrapped in a crispy chicken wrap.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "flour or wheat tortilla"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, curry paste, fish sauce, soy sauce, honey, rice vinegar, garlic, and shallot. Blend until smooth.",
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the blended coconut milk mixture to the skillet and stir to combine. Bring to a simmer and cook for 2-3 minutes.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the peanut sauce on the wrap, then adding the cooked chicken, cucumber, and lettuce leaves.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap tightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "malaysian",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malaysian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:10:11.942Z"
+}
