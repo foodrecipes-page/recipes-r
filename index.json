@@ -4595,16 +4595,14 @@
   },
   {
     "slug": "rich-crunchy-midnight-braise-lamb",
-    "title": "Rich Crunchy Midnight Braise Lamb",
+    "title": "Midnight Lamb Braise",
     "tags": [
-      "rich",
-      "crunchy",
-      "midnight",
-      "canadian",
-      "lamb"
+      "lamb",
+      "braise",
+      "mediterranean"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 65,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 200,
     "shard": "r"
   },
   {
@@ -23705,6 +23703,59 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-flaky-ukrainian-pastry-bake--italian",
+    "title": "Ukrainian Pastry Puffs",
+    "tags": [
+      "italian",
+      "appetizer",
+      "pastry",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-potato-crumble--keto",
+    "title": "Rich Keto Crumble",
+    "tags": [
+      "keto",
+      "dessert",
+      "rich",
+      "crumble",
+      "potato"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-kenyan-chickpea-stir-fry--thai",
+    "title": "Thai Chicken Stir Fry",
+    "tags": [
+      "thaifood",
+      "chickenstirfry",
+      "quickmeal"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-molten-uruguayan-bottarga-empanadas--thai",
+    "title": "Bottarga Empanadas with Spicy Thai Dipping Sauce",
+    "tags": [
+      "thai",
+      "empanadas",
+      "bottarga",
+      "fusion",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
