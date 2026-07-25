@@ -1,0 +1,87 @@
+{
+  "slug": "rich-silky-argentinian-walnut-empanadas--italian",
+  "title": "Argentinian Walnut Empanadas with Italian Twist",
+  "description": "A fusion of Italian and Argentinian cuisine, these empanadas are filled with rich, silky walnut sauce and topped with a sprinkle of mozzarella cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "Italian-style"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together ricotta cheese, parmesan cheese, and chopped walnuts.",
+    "Place a spoonful of the walnut mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with beaten eggs.",
+    "Fold the other half of the dough circle over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the empanadas are golden brown.",
+    "Remove from the oven and top with shredded mozzarella cheese.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "argentinian",
+    "walnut",
+    "empanada",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-argentinian-walnut-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:17:05.276Z"
+}
