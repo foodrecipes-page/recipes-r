@@ -1,0 +1,87 @@
+{
+  "slug": "rustic-silky-turkish-bulgur-kisir--gluten-free",
+  "title": "Turkish-Style Bulgar Salad (Kisir)",
+  "description": "A refreshing and healthy salad originating from Turkey, made with bulgur, vegetables, and spices. This gluten-free version is perfect for a quick and easy meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast\" | \"lunch\" | \"dinner\" | \"snack",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably fine bulgur"
+    },
+    {
+      "name": "kisir",
+      "amount": "1/2 cup",
+      "notes": "chopped, store-bought or homemade"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 30 minutes. Drain and set aside.",
+    "In a large bowl, combine the kisir, tomato, red onion, and parsley.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Add the bulgur to the bowl with the kisir mixture and pour the lemon juice mixture over it.",
+    "Season with salt and black pepper to taste.",
+    "Mix well and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "salad",
+    "turkish",
+    "bulgur"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-silky-turkish-bulgur-kisir--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:04:03.570Z"
+}
