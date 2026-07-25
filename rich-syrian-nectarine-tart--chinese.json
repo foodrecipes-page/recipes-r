@@ -1,0 +1,80 @@
+{
+  "slug": "rich-syrian-nectarine-tart--chinese",
+  "title": "Pan-Seared Nectarine with Rich Syrup",
+  "description": "A sweet and savory Chinese-inspired dessert featuring pan-seared nectarine in a rich syrup. Perfect for a warm evening.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "syrup",
+      "amount": "1/4 cup",
+      "notes": "rich"
+    },
+    {
+      "name": "tart cherries",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small saucepan, combine the syrup, tart cherries, brown sugar, water, sesame oil, ginger and salt. Bring to a boil over medium heat, then reduce to a simmer.",
+    "2. Continue to simmer the syrup for about 5 minutes, or until it thickens slightly.",
+    "3. Meanwhile, slice the nectarine into wedges and season with a pinch of salt.",
+    "4. Heat a non-stick pan or wok over medium heat. Add a small amount of oil and swirl it around to coat the pan.",
+    "5. Add the nectarine wedges to the pan and sear for about 2-3 minutes on each side, or until caramelized.",
+    "6. To serve, place the seared nectarine on a plate and spoon the warm syrup over the top.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "dessert",
+    "nectarine",
+    "syrup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 1,
+    "carbs": 60,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-syrian-nectarine-tart--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:48:55.240Z"
+}
