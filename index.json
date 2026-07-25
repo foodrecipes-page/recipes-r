@@ -9023,16 +9023,15 @@
   },
   {
     "slug": "rich-silky-greek-lamb-gigantes-plaki",
-    "title": "Rich Silky Greek Lamb Gigantes Plaki",
+    "title": "Greek Lamb Gigantes Plaki",
     "tags": [
-      "bean-dishes",
-      "comfort-food",
-      "greek-cuisine",
-      "lamb-recipes",
-      "one-pot-meals"
+      "mediterranean",
+      "greek",
+      "slow-cooked",
+      "lamb"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
@@ -17550,16 +17549,15 @@
   },
   {
     "slug": "robust-spicy-saudi-arabian-lamb-kebabs",
-    "title": "Robust Spicy Saudi Arabian Lamb Kebabs",
+    "title": "Saudian Lamb Kebabs",
     "tags": [
-      "dairy",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "kebab",
+      "saudian",
+      "lamb",
+      "arabic",
+      "grilled"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Saudian",
     "totalTimeMin": 35,
     "shard": "r"
   },
@@ -23875,6 +23873,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-creamy-spanish-masarepa-paella--italian",
+    "title": "Spanish Paella Risotto",
+    "tags": [
+      "italian",
+      "spanish",
+      "risotto",
+      "paella"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-smoky-ethiopian-beef-kitfo--french",
+    "title": "Braised Beef Kitfo in Red Wine",
+    "tags": [
+      "beef",
+      "french",
+      "braised",
+      "red-wine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
     "shard": "r"
   }
 ]
