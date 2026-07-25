@@ -1,0 +1,87 @@
+{
+  "slug": "rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry--thai",
+  "title": "Thai Stir Fry",
+  "description": "A quick and easy Thai-inspired stir-fry made with crunchy vegetables, protein-rich chicken, and a hint of Ukrainian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "High protein soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rich coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Friendly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ukrainian dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove chicken from the skillet and set aside.",
+    "Add bell peppers and mushrooms to the skillet and cook until tender, about 3-4 minutes.",
+    "Add yeast (if using) and dill to the skillet and stir to combine.",
+    "Return chicken to the skillet and stir to combine with vegetables and spices.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to medium-low and cook until sauce has thickened, about 2-3 minutes.",
+    "Season with high protein soy sauce to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry",
+    "vegetables",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-high-protein-friendly-ukrainian-yeast-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:25:10.033Z"
+}
