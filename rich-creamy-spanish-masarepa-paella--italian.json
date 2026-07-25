@@ -1,0 +1,96 @@
+{
+  "slug": "rich-creamy-spanish-masarepa-paella--italian",
+  "title": "Spanish Paella Risotto",
+  "description": "A creative fusion of Italian risotto and Spanish paella, featuring the bold flavors of saffron and smoked paprika.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the masarepa and cook for 1-2 minutes, stirring constantly.",
+    "Add the arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth, one cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "After 20-25 minutes of cooking, stir in the smoked paprika and saffron.",
+    "Add the cherry tomatoes and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "If using, stir in the rich for added creaminess.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spanish",
+    "risotto",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-creamy-spanish-masarepa-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:50:47.158Z"
+}
