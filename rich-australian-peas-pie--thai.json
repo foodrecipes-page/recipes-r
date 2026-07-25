@@ -1,0 +1,101 @@
+{
+  "slug": "rich-australian-peas-pie--thai",
+  "title": "Thai Pea and Rich Beef Pie",
+  "description": "A twist on the traditional beef pie, with a Thai-inspired flavor profile and a rich, savory filling.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Aussie beef mince",
+      "amount": "500g",
+      "notes": "Choose a lean cut of beef"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "100g",
+      "notes": "Fresh peas can be used if available"
+    },
+    {
+      "name": "Australian all-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the pie crust"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook the Australian beef mince in a large pan over medium heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onions and minced garlic to the pan and cook until the onions are translucent.",
+    "Stir in the Thai red curry paste and cook for 1 minute.",
+    "Add the fish sauce and soy sauce (if using) to the pan and stir to combine.",
+    "Add the frozen peas to the pan and cook until they are tender.",
+    "Roll out the Australian all-purpose flour to a thickness of about 3mm (1/8 inch).",
+    "Transfer the dough to a 23cm (9 inch) pie dish and trim the edges to fit.",
+    "Fill the pie crust with the beef and pea mixture and brush the edges with the beaten egg.",
+    "Roll out the remaining dough to a thickness of about 3mm (1/8 inch).",
+    "Use this dough to cover the pie and crimp the edges to seal.",
+    "Cut a few slits in the top of the pie to allow steam to escape.",
+    "Brush the top of the pie with the beaten egg and bake for 30-40 minutes, or until the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "pie",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-australian-peas-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:14:43.605Z"
+}
