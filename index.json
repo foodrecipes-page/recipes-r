@@ -11750,14 +11750,12 @@
     "slug": "richly-flavored-thai-chicken-toast",
     "title": "Thai Chicken Toast",
     "tags": [
-      "chicken-recipe",
-      "easy-meal",
-      "herbal-flavors",
-      "quick-snack",
-      "thai-inspired"
+      "thai",
+      "chicken",
+      "toast"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -23939,6 +23937,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-australian-peas-pie--thai",
+    "title": "Thai Pea and Rich Beef Pie",
+    "tags": [
+      "thai",
+      "beef",
+      "pie",
+      "peas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 60,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-australian-dish-roast--vegan",
+    "title": "Roasted Australian Roast Vegan Dish",
+    "tags": [
+      "vegan",
+      "australian-roast",
+      "roasted",
+      "dish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 80,
     "shard": "r"
   }
 ]
