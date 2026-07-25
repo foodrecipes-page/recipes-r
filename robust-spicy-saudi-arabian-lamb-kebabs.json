@@ -1,0 +1,95 @@
+{
+  "slug": "robust-spicy-saudi-arabian-lamb-kebabs",
+  "title": "Saudian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish inspired by Saudi Arabian cuisine, featuring marinated lamb kebabs grilled to perfection.",
+  "cuisine": "Saudian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "1 1/2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "yogurt",
+      "amount": "250ml",
+      "notes": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, cumin, coriander, cayenne pepper (if using), salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked through.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "saudian",
+    "lamb",
+    "arabic",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:28:56.830Z"
+}
