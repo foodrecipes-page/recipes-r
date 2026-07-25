@@ -1,0 +1,75 @@
+{
+  "slug": "roasted-australian-dish-roast--vegan",
+  "title": "Roasted Australian Roast Vegan Dish",
+  "description": "A flavorful and nutritious vegan dish made with roasted Australian roast, perfect for a comforting meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Roast",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the carrots and potatoes into bite-sized pieces.",
+    "Mince the onion and garlic.",
+    "In a large bowl, toss the chopped vegetables with olive oil, salt, and black pepper.",
+    "Add the Australian roast to the bowl and toss to combine.",
+    "Spread the mixture on a baking sheet and roast for 45 minutes.",
+    "After 45 minutes, reduce the oven temperature to 375°F (190°C) and continue roasting for another 20-25 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 65,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "australian-roast",
+    "roasted",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-australian-dish-roast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:26:56.062Z"
+}
