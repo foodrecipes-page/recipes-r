@@ -1,0 +1,73 @@
+{
+  "slug": "roasted-mediterranean-squash-skillet",
+  "title": "Roasted Mediterranean Squash Skillet",
+  "description": "A flavorful and nutritious skillet dish featuring roasted Mediterranean squash.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mediterranean squash",
+      "amount": "1 medium",
+      "notes": "Any variety of Mediterranean squash, such as acorn or butternut."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality extra-virgin olive oil."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced or pressed garlic."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt or kosher salt."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the squash in half lengthwise and scoop out the seeds.",
+    "Place the squash on a baking sheet, cut side up.",
+    "Drizzle with olive oil and sprinkle with salt.",
+    "Roast the squash in the oven for 30-40 minutes, or until tender.",
+    "Meanwhile, heat a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Remove the squash from the oven and let it cool slightly.",
+    "Scoop the flesh of the squash into the skillet with the garlic.",
+    "Toss the squash with the garlic and season with salt to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "skillet",
+    "squash",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-squash-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:44:11.537Z"
+}
