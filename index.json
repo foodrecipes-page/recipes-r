@@ -17122,14 +17122,11 @@
   },
   {
     "slug": "robust-roasted-polish-shungiku-skewers",
-    "title": "Robust Roasted Polish Shungiku Skewers",
+    "title": "Polish Shungiku Skewers with Roasted Vegetables",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "grilled",
-      "healthy",
-      "polish-cuisine",
-      "vegetarian"
+      "polish",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 30,
@@ -23628,6 +23625,71 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-silky-turkish-bulgur-kisir--gluten-free",
+    "title": "Turkish-Style Bulgar Salad (Kisir)",
+    "tags": [
+      "gluten-free",
+      "salad",
+      "turkish",
+      "bulgur"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-silky-argentinian-walnut-empanadas--italian",
+    "title": "Argentinian Walnut Empanadas with Italian Twist",
+    "tags": [
+      "italian",
+      "argentinian",
+      "walnut",
+      "empanada",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crumbly-argentinian-beef-empanadas--indian",
+    "title": "Argentinian Beef Empanada Pie",
+    "tags": [
+      "beef",
+      "empanada",
+      "indian",
+      "pie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-british-chicken-pie-and-mash--thai",
+    "title": "Thai Chicken Pie",
+    "tags": [
+      "thaifusion",
+      "chickenpie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-crunchy-hunan-rice-fried-rice--chinese",
+    "title": "Hunan Fried Rice",
+    "tags": [
+      "chinese",
+      "hunan",
+      "fried-rice",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "r"
   }
 ]
