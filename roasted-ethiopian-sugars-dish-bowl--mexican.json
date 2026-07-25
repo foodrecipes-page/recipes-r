@@ -1,0 +1,71 @@
+{
+  "slug": "roasted-ethiopian-sugars-dish-bowl--mexican",
+  "title": "Mexican Roasted Sweet Potatoes",
+  "description": "A flavorful and easy-to-make Mexican dish featuring roasted sweet potatoes, perfect for a quick snack or light meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Pierce the sweet potatoes several times with a fork to allow steam to escape.",
+    "3. Rub the sweet potatoes with cumin, chili powder, salt, and pepper.",
+    "4. Place the sweet potatoes on a baking sheet lined with parchment paper.",
+    "5. Roast in the preheated oven for 45-50 minutes, or until tender when pierced with a fork.",
+    "6. Remove from oven and brush with lime juice.",
+    "7. Sprinkle with coriander and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "sweet potatoes",
+    "roasted",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-ethiopian-sugars-dish-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:38:50.181Z"
+}
