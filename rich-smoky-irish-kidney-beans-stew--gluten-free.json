@@ -1,0 +1,98 @@
+{
+  "slug": "rich-smoky-irish-kidney-beans-stew--gluten-free",
+  "title": "Rich and Hearty Irish Stew",
+  "description": "A classic Irish stew recipe made with tender beef and vegetables, perfect for a cold winter's night. This stew is gluten-free and can be made in under an hour.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Irish Stew Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Bacon",
+      "amount": "6 slices",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kidney Beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped bacon and cook until browned.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the beef to the pot and cook until browned.",
+    "Add the onion, carrots, and potatoes to the pot.",
+    "Cook for 5 minutes, or until the vegetables are slightly tender.",
+    "Add the beef broth, tomato paste, salt, and pepper to the pot.",
+    "Stir to combine.",
+    "Return the bacon to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the kidney beans and cook for an additional 10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "beef",
+    "kidney-beans",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-irish-kidney-beans-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:30:09.358Z"
+}
