@@ -1,0 +1,82 @@
+{
+  "slug": "refreshing-tender-ukrainian-asparagus-dumplings",
+  "title": "Asparagus Dumpling Soup",
+  "description": "A hearty Ukrainian-inspired soup made with tender dumplings and fresh asparagus, perfect for a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "1 package (about 20-25 dumplings)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 bunch (about 1 pound)",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth and water to a boil in a large pot.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the asparagus and cook until tender.",
+    "Add the dumplings and cook for 5-7 minutes, or according to package instructions.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: serve with a dollop of sour cream or a sprinkle of chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "dumplings",
+    "soup",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/refreshing-tender-ukrainian-asparagus-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:03:56.263Z"
+}
