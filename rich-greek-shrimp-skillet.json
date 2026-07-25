@@ -1,0 +1,102 @@
+{
+  "slug": "rich-greek-shrimp-skillet",
+  "title": "Shrimp Skillet with Feta",
+  "description": "A quick and delicious Mediterranean-inspired dish featuring succulent shrimp, crispy vegetables, and tangy feta cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "preferably Greek feta"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, sliced",
+      "notes": "about 1 1/2 cups"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced",
+      "notes": "any color"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced red onion and cook for 3-4 minutes, until softened.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the diced tomato and cook for 1-2 minutes, until the vegetables are tender.",
+    "Stir in the minced garlic and cook for 1 minute, until fragrant.",
+    "Return the cooked shrimp to the skillet and stir in the crumbled feta cheese.",
+    "Season with salt, black pepper, and lemon juice to taste.",
+    "Serve the shrimp and vegetable mixture hot, garnished with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "seafood",
+    "skillet",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-greek-shrimp-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:16:43.186Z"
+}
