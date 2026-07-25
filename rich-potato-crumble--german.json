@@ -1,0 +1,62 @@
+{
+  "slug": "rich-potato-crumble--german",
+  "title": "German Potato Crumble",
+  "description": "A classic German dish featuring a rich topping over a bed of tender potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes and chopped onion.",
+    "In a separate bowl, mix melted butter with crumble topping.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Top the potatoes with the crumble mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potatoes",
+    "side-dish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-potato-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:30:19.094Z"
+}
