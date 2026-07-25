@@ -11067,19 +11067,15 @@
   },
   {
     "slug": "rich-whole30-ethiopian-lamb-kitfo",
-    "title": "Rich Whole30 Ethiopian Lamb Kitfo",
+    "title": "Ethiopian Kitfo with Spiced Berbere Sauce",
     "tags": [
       "ethiopian",
-      "grain-free",
-      "kitfo",
       "lamb",
-      "meal-prep",
-      "paleo",
-      "rich",
-      "whole30"
+      "kitfo",
+      "breakfast"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -23594,6 +23590,44 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-filipino-gobo-burdock-dinuguan--vegetarian",
+    "title": "Filipino-Style Burdock and Gobo Stir Fry",
+    "tags": [
+      "vegetarian",
+      "filipino",
+      "stir-fry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-potato-crumble--german",
+    "title": "German Potato Crumble",
+    "tags": [
+      "german",
+      "potatoes",
+      "side-dish",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-syrian-nectarine-tart--chinese",
+    "title": "Pan-Seared Nectarine with Rich Syrup",
+    "tags": [
+      "chinese",
+      "dessert",
+      "nectarine",
+      "syrup"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
