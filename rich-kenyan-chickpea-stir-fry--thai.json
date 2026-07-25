@@ -1,0 +1,81 @@
+{
+  "slug": "rich-kenyan-chickpea-stir-fry--thai",
+  "title": "Thai Chicken Stir Fry",
+  "description": "A flavorful and spicy Thai chicken stir fry that can be made in under 30 minutes. Serve with steamed vegetables or rice.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Rich Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality soy sauce for best flavor"
+    },
+    {
+      "name": "Kenyan Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste for spice level"
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "1 tablespoon",
+      "notes": "optional for thickening"
+    },
+    {
+      "name": "Stir Fry Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and snow peas"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "1 tablespoon",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove chicken from wok and set aside.",
+    "Add more oil if necessary, then add ginger and garlic and cook for 1 minute.",
+    "Add stir fry vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Add soy sauce, red pepper flakes, and chickpea flour (if using) to the wok and stir to combine.",
+    "Return chicken to the wok and stir to coat with sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "chickenstirfry",
+    "quickmeal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-kenyan-chickpea-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:37:22.286Z"
+}
