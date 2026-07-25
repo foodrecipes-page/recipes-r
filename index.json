@@ -17717,18 +17717,18 @@
   },
   {
     "slug": "robust-woodfired-australian-kangaroo-skillet",
-    "title": "Robust Woodfired Australian Kangaroo Skillet",
+    "title": "Woodfired Kangaroo Skillet Meal",
     "tags": [
       "australian",
-      "herbal",
       "kangaroo",
-      "one-pan",
-      "satvik-friendly",
-      "special-occasion",
-      "woodfired"
+      "skillet",
+      "woodfired",
+      "grill",
+      "meat",
+      "one-pot"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -23899,6 +23899,46 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "rainy-season-monsoon-korean-andouille-jjokkang--keto",
+    "title": "Korean-Style Andouille Skewers",
+    "tags": [
+      "korean",
+      "keto",
+      "sausage",
+      "skewers",
+      "monsoon"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-velvety-comforting-mediterranean-rice-flour-pancakes-pancakes--keto",
+    "title": "Keto Mediterranean Pancake Cakes",
+    "tags": [
+      "keto",
+      "breakfast",
+      "mediterranean",
+      "pancakes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-ethiopian-sugars-dish-bowl--mexican",
+    "title": "Mexican Roasted Sweet Potatoes",
+    "tags": [
+      "mexican",
+      "sweet potatoes",
+      "roasted",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "r"
   }
 ]
