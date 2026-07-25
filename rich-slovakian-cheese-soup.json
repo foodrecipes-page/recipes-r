@@ -1,0 +1,93 @@
+{
+  "slug": "rich-slovakian-cheese-soup",
+  "title": "Slovakian Cheese and Potato Soup",
+  "description": "A hearty, comforting soup originating from Slovakia, made with cheese, potatoes, and a touch of paprika.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, grated",
+      "notes": "Slovakian cheese or similar"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add diced potatoes, grated cheese, flour, paprika, salt, and black pepper. Stir to combine.",
+    "Gradually add chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes, or until potatoes are tender.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "soups",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-slovakian-cheese-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:16:11.242Z"
+}
