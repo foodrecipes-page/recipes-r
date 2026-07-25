@@ -1,0 +1,85 @@
+{
+  "slug": "richly-sweet-italian-fig-bake--thai",
+  "title": "Thai Fig and Sweet Italian Bread Dessert",
+  "description": "A unique Thai-inspired dessert featuring sweet Italian bread, rich figs, and a crispy bake.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Italian bread",
+      "amount": "1 loaf (12 oz)",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Fresh figs",
+      "amount": "1 cup, chopped",
+      "notes": "any variety"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat coconut milk for best results"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to balance sweetness"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "for crispy bake"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp, melted",
+      "notes": "for crispy bake"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the Italian bread into 1-inch thick slices.",
+    "3. In a small bowl, mix together honey, coconut milk, salt, and vanilla extract (if using).",
+    "4. Brush the mixture onto each bread slice.",
+    "5. Place the bread slices on a baking sheet lined with parchment paper.",
+    "6. Drizzle melted butter over the bread slices.",
+    "7. Sprinkle baking powder evenly over the bread slices.",
+    "8. Bake for 10-12 minutes or until crispy and golden brown.",
+    "9. While the bread is baking, toss the chopped figs with a pinch of salt.",
+    "10. Once the bread is ready, let it cool for a few minutes.",
+    "11. Top each bread slice with a spoonful of figs and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "thaidesert",
+    "figs",
+    "sweetbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-sweet-italian-fig-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:54:09.809Z"
+}
