@@ -796,16 +796,14 @@
   },
   {
     "slug": "ravenous-uruguayan-pepper-stew",
-    "title": "Ravenous Uruguayan Pepper Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "midnight-craving",
-      "one-pot",
-      "spicy",
-      "uruguayan",
-      "vegetarian"
+      "beef",
+      "stew",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 140,
     "shard": "r"
   },
   {
@@ -5789,15 +5787,15 @@
   },
   {
     "slug": "rich-greek-shrimp-skillet",
-    "title": "Rich Greek Shrimp Skillet",
+    "title": "Shrimp Skillet with Feta",
     "tags": [
-      "greek-cuisine",
-      "shrimp-recipes",
-      "one-pot-meals",
-      "pescatarian-friendly"
+      "mediterranean",
+      "seafood",
+      "skillet",
+      "shrimp"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -6585,17 +6583,15 @@
   },
   {
     "slug": "rich-malaysian-chicken-wrap",
-    "title": "Rich Malaysian Chicken Wrap",
+    "title": "Malaysian Chicken Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "malaysian-cuisine",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "wrap",
+      "malaysian",
+      "curry"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -14697,15 +14693,14 @@
     "slug": "roasted-mediterranean-squash-skillet",
     "title": "Roasted Mediterranean Squash Skillet",
     "tags": [
-      "flexitarian",
-      "healthy",
-      "mediterranean-diet",
-      "one-pan",
-      "post-workout",
-      "vegetarian"
+      "mediterranean",
+      "skillet",
+      "squash",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "r"
   },
   {
@@ -23685,6 +23680,31 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-smoky-tunisian-fish-tagine--french",
+    "title": "Tunisian Fish Tagine",
+    "tags": [
+      "fish",
+      "tagine",
+      "north-african",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-refreshing-greek-butter-beans-spanakopita--french",
+    "title": "French Bean and Spinach Tart (Spanakopita)",
+    "tags": [
+      "french",
+      "spanakopita",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
