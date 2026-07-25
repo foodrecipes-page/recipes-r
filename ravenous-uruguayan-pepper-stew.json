@@ -1,0 +1,79 @@
+{
+  "slug": "ravenous-uruguayan-pepper-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, made with tender beef and a variety of spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ravenous pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "uruguayan seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at most Latin American markets"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the peppers and cook for 2 minutes.",
+    "Add the browned beef back to the pot, along with the salt, black pepper, and uruguayan seasoning.",
+    "Pour in 2 cups of beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ravenous-uruguayan-pepper-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:56:51.721Z"
+}
