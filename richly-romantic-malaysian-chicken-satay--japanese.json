@@ -1,0 +1,91 @@
+{
+  "slug": "richly-romantic-malaysian-chicken-satay--japanese",
+  "title": "Japanese Chicken Satay",
+  "description": "A twist on the classic Southeast Asian dish, featuring tender chicken skewers in a Japanese-inspired flavor profile.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "satay sauce (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine coconut milk, soy sauce, rice vinegar, ginger, garlic, brown sugar, and lemongrass. Blend until smooth.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the chicken with the blended sauce, then grill for 8-10 minutes, or until cooked through.",
+    "Serve the chicken with satay sauce for dipping.",
+    "If desired, garnish with toasted sesame seeds and chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-romantic-malaysian-chicken-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:22:46.393Z"
+}
