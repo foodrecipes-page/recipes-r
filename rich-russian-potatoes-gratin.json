@@ -1,0 +1,69 @@
+{
+  "slug": "rich-russian-potatoes-gratin",
+  "title": "Russian Potato Gratin",
+  "description": "A creamy, rich side dish topped with a crispy crust. Perfect for cold winter nights.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds, thinly sliced"
+    },
+    {
+      "name": "rich milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish.",
+    "In a large bowl, combine sliced potatoes and grated onion.",
+    "In a separate bowl, mix together milk, grated gratin, and minced garlic.",
+    "Add the milk mixture to the potato mixture and toss until coated.",
+    "Transfer the potato mixture to the prepared baking dish.",
+    "Dot the top with butter.",
+    "Bake for 45-50 minutes or until the top is golden brown and the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "potato",
+    "gratin",
+    "side dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-russian-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:51:32.504Z"
+}
