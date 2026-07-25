@@ -1,0 +1,89 @@
+{
+  "slug": "rich-crunchy-midnight-braise-lamb",
+  "title": "Midnight Lamb Braise",
+  "description": "A rich and savory lamb braise with a crunchy texture, perfect for a cold evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "stock",
+      "amount": "2 cups",
+      "notes": "beef or lamb"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tsp",
+      "notes": "dried thyme and rosemary"
+    },
+    {
+      "name": "rich beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for 5 minutes.",
+    "Add the red wine, stock, tomato paste, and herbs.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Braise the lamb at 300°F (150°C) for 2-1/2 to 3 hours, or until tender.",
+    "Let the lamb rest for 10 minutes before serving.",
+    "Skim the excess fat from the sauce and serve with the lamb."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "braise",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-crunchy-midnight-braise-lamb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:20:15.065Z"
+}
