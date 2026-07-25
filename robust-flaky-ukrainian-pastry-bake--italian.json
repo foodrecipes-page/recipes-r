@@ -1,0 +1,73 @@
+{
+  "slug": "robust-flaky-ukrainian-pastry-bake--italian",
+  "title": "Ukrainian Pastry Puffs",
+  "description": "Delicate pastry puffs filled with a flaky, savory robust filling, perfect for an Italian-inspired appetizer.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 package frozen puff pastry, thawed",
+      "notes": null
+    },
+    {
+      "name": "Robust Filling",
+      "amount": "1/4 cup robust sausage, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium onion, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Sausage",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "Cut out small squares of pastry, about 3 inches (7.5 cm) per side.",
+    "In a small bowl, mix together the chopped sausage, onion, and flaky sea salt.",
+    "Place a small spoonful of the sausage mixture onto the center of each pastry square.",
+    "Fold the pastry squares in half to form triangles, pressing the edges to seal.",
+    "Place the pastry puffs onto a baking sheet lined with parchment paper.",
+    "Dot the tops of the pastry puffs with butter.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Optional: Sprinkle with chopped Ukrainian sausage before baking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "appetizer",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-flaky-ukrainian-pastry-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:16:59.902Z"
+}
