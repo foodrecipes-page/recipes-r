@@ -1,0 +1,84 @@
+{
+  "slug": "robust-refreshing-greek-butter-beans-spanakopita--french",
+  "title": "French Bean and Spinach Tart (Spanakopita)",
+  "description": "A French-inspired twist on the classic Greek spanakopita, featuring a rich buttery crust and a delicious bean and spinach filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "250g",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200g",
+      "notes": "wilted"
+    },
+    {
+      "name": "robust cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "refRESHING herbs",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "spanakopita pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "butTer",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Blanch the spinach in boiling water for 30 seconds, then drain and chop.",
+    "In a pan, sauté the chopped spinach with the robust cheese, refreshing herbs, and a pinch of salt until well combined.",
+    "Roll out the spanakopita pastry and place it on a baking sheet.",
+    "Spread the spinach and cheese mixture evenly over the pastry, leaving a 1cm border around the edges.",
+    "Dot the top of the filling with the melted butter.",
+    "In a small bowl, beat the eggs and brush the edges of the pastry with the egg wash.",
+    "Fold the edges of the pastry up over the filling to form a crust.",
+    "Bake the tart in the preheated oven for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the tart from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "spanakopita",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-refreshing-greek-butter-beans-spanakopita--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:00:56.699Z"
+}
