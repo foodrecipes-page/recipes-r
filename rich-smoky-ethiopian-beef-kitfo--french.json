@@ -1,0 +1,91 @@
+{
+  "slug": "rich-smoky-ethiopian-beef-kitfo--french",
+  "title": "Braised Beef Kitfo in Red Wine",
+  "description": "A hearty French dish that combines the flavors of rich, smoky beef kitfo with a bold red wine reduction.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kitfo",
+      "amount": "1.5 pounds",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the beef kitfo with salt and pepper.",
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the sliced onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and add the beef broth and thyme.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the beef for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and stir in the flour to thicken the sauce.",
+    "Serve the beef hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "braised",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-smoky-ethiopian-beef-kitfo--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:49:30.039Z"
+}
