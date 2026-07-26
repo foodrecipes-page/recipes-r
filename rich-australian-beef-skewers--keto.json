@@ -1,0 +1,83 @@
+{
+  "slug": "rich-australian-beef-skewers--keto",
+  "title": "Keto Australian Beef Skewers",
+  "description": "Grilled Australian beef skewers marinated in a rich and tangy sauce, perfect for a keto compliant meal.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Marinade"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "For yogurt sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, whisk together lime juice, garlic powder, onion powder, salt, and pepper.",
+    "3. Add the beef strips to the marinade and toss to coat.",
+    "4. Thread the marinated beef onto skewers.",
+    "5. Brush the coconut oil onto the grill or grill pan.",
+    "6. Grill the beef skewers for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "7. While the beef is cooking, mix together Greek yogurt and a pinch of salt for the yogurt sauce.",
+    "8. Serve the grilled beef skewers with the yogurt sauce, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "australian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-australian-beef-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:41:31.298Z"
+}
