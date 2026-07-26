@@ -1,0 +1,88 @@
+{
+  "slug": "roasted-egyptian-lamb-kebabs--italian",
+  "title": "Egyptian Lamb Kebab Italian-Style",
+  "description": "A Mediterranean twist on traditional lamb kebabs, with roasted lamb and Egyptian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian Spices (coriander, cumin, cinnamon)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut lamb shoulder into 1-inch cubes and season with salt, black pepper, and Egyptian spices.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the lamb and place on the grill.",
+    "Grill lamb for 8-10 minutes, turning occasionally.",
+    "While lamb is cooking, prepare roasted red pepper by slicing into strips.",
+    "Once lamb is cooked, serve with roasted red pepper, garlic, and feta cheese (if using).",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-egyptian-lamb-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:26:58.711Z"
+}
