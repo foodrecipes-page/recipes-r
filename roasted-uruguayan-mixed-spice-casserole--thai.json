@@ -1,0 +1,92 @@
+{
+  "slug": "roasted-uruguayan-mixed-spice-casserole--thai",
+  "title": "Thai Uruguayan Casserole",
+  "description": "A fusion of Thai flavors with Uruguayan inspiration, this casserole is a unique twist on traditional dishes.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted mixed vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan casserole meat (beef, pork, and chicken)",
+      "amount": "0.5 lb",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Thai spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Spice",
+      "amount": "1 tsp",
+      "notes": "Cumin"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": " chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, cook the Uruguayan casserole meat over medium heat until browned.",
+    "Add the Thai spice blend and cook for 1 minute.",
+    "Add the roasted mixed vegetables, soy sauce, coconut milk, brown sugar, salt, and pepper to the pan. Stir to combine.",
+    "Transfer the mixture to a baking dish and top with chopped cilantro.",
+    "Bake for 20-25 minutes or until the casserole is hot and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "uruguayan",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-uruguayan-mixed-spice-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:23:49.823Z"
+}
