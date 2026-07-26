@@ -1,0 +1,79 @@
+{
+  "slug": "robust-earthy-spanish-mitsuba-tagine--keto",
+  "title": "Pan-Seared Spanish Mackerel with Mitsuba",
+  "description": "A keto-friendly Spanish-inspired dish featuring pan-seared mackerel, mitsuba, and robust flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish Mackerel fillets",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Mitsuba leaves",
+      "amount": "1 bunch",
+      "notes": "Fresh and fragrant"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and aromatic"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unrefined and natural"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the mackerel fillets with salt and pepper.",
+    "Heat the ghee in an oven-safe skillet over medium-high heat.",
+    "Sear the mackerel fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "Meanwhile, mix the minced garlic with lemon juice.",
+    "Add the mitsuba leaves to the skillet and toss with the garlic-lemon mixture.",
+    "Serve the pan-seared mackerel with the mitsuba and garlic-lemon sauce.",
+    "Garnish with additional mitsuba leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "spanish",
+    "seafood",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-earthy-spanish-mitsuba-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:18:36.166Z"
+}
