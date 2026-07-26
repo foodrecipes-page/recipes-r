@@ -1,0 +1,98 @@
+{
+  "slug": "rich-pillowy-french-french-pilaf--german",
+  "title": "Sauerbraten German Beef Stew",
+  "description": "A classic German beef stew marinated in vinegar, water, and spices, then slow-cooked to tender perfection. Served with a side of pilaf and steamed vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (3-4 pounds chuck or round)",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "french pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "french pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Marinate the beef in a large bowl with vinegar, beef broth, onion, caraway seeds, salt, and black pepper for at least 2 days in the refrigerator.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the beef from the marinade and place it in a large Dutch oven or oven-safe pot.",
+    "Add the pilaf to the pot and stir to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the beef for 3 hours, or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Transfer the beef to a cutting board and slice it thinly against the grain.",
+    "Serve the beef with the pilaf and steamed vegetables.",
+    "Strain the cooking liquid and discard the solids.",
+    "Skim off any excess fat from the surface of the liquid.",
+    "Serve the beef stew hot, garnished with chopped fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-pillowy-french-french-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:32:39.174Z"
+}
