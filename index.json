@@ -4670,19 +4670,16 @@
   },
   {
     "slug": "rich-decadent-kenyan-ume-plum-tagine",
-    "title": "Rich Decadent Kenyan Ume-plum Tagine",
+    "title": "Kenyan Plum Tagine",
     "tags": [
-      "adventurous-eats",
-      "bhuna",
-      "kashrut",
       "kenyan",
-      "kosher-friendly",
-      "slow-cooker",
+      "plum",
+      "dessert",
       "tagine",
-      "ume-plum"
+      "sweet"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -23991,6 +23988,32 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 12,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-pillowy-egyptian-shortening-bisquette--vegan",
+    "title": "Vegan Egyptian-Style Mille-Feuille",
+    "tags": [
+      "vegan",
+      "mille-feuille",
+      "middle-eastern",
+      "dessert"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-toasted-american-nut-tagine--japanese",
+    "title": "Toasted Tagine Nuts Japanese-Style Dessert",
+    "tags": [
+      "japanese",
+      "dessert",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
