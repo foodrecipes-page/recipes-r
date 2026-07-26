@@ -23490,16 +23490,16 @@
   },
   {
     "slug": "roasted-algerian-lamb-tagine--chinese",
-    "title": "Chinese Lamb Tagine with Roasted Vegetables",
+    "title": "Algerian Lamb Tagine with Roasted Vegetables",
     "tags": [
-      "chinese",
       "lamb",
       "tagine",
-      "fusion",
-      "braising"
+      "roasted",
+      "vegetables",
+      "chinese"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 170,
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
     "shard": "r"
   },
   {
@@ -24036,6 +24036,44 @@
       "comfort-food"
     ],
     "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-earthy-spanish-mitsuba-tagine--keto",
+    "title": "Pan-Seared Spanish Mackerel with Mitsuba",
+    "tags": [
+      "keto",
+      "spanish",
+      "seafood",
+      "low-carb"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 33,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-egyptian-lamb-kebabs--italian",
+    "title": "Egyptian Lamb Kebab Italian-Style",
+    "tags": [
+      "italian",
+      "lamb",
+      "kebabs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-woodfired-australian-kangaroo-skillet--indian",
+    "title": "Woodfired Kangaroo Tikka Masala",
+    "tags": [
+      "indian",
+      "kangaroo",
+      "woodfired",
+      "tikka-masala"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "r"
   }
