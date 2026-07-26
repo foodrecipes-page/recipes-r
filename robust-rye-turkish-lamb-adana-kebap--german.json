@@ -1,0 +1,71 @@
+{
+  "slug": "robust-rye-turkish-lamb-adana-kebap--german",
+  "title": "Traditional German Lamb Kebap",
+  "description": "A hearty and flavorful lamb kebap dish inspired by German cuisine, featuring robust flavors and tender lamb.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish Adana Kebap Spice Mix",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the kebap"
+    },
+    {
+      "name": "Rye Bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb cubes and Adana Kebap Spice Mix. Mix well to coat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the kebap with olive oil and season with salt.",
+    "Grill the kebap for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the kebap with rye bread, sliced fresh cucumber, and red onion."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebap",
+    "german",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-rye-turkish-lamb-adana-kebap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:22:50.493Z"
+}
