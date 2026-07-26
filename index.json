@@ -24258,5 +24258,31 @@
     "cuisine": "argentinian",
     "totalTimeMin": 18,
     "shard": "r"
+  },
+  {
+    "slug": "robust-rye-turkish-lamb-adana-kebap--german",
+    "title": "Traditional German Lamb Kebap",
+    "tags": [
+      "lamb",
+      "kebap",
+      "german",
+      "grill"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-uruguayan-mixed-spice-casserole--thai",
+    "title": "Thai Uruguayan Casserole",
+    "tags": [
+      "thai",
+      "uruguayan",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "r"
   }
 ]
