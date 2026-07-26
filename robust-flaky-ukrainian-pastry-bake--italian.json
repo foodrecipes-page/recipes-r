@@ -1,73 +1,74 @@
 {
   "slug": "robust-flaky-ukrainian-pastry-bake--italian",
-  "title": "Ukrainian Pastry Puffs",
-  "description": "Delicate pastry puffs filled with a flaky, savory robust filling, perfect for an Italian-inspired appetizer.",
+  "title": "Ukrainian-Style Italian Sfoglia",
+  "description": "A traditional Italian pastry reimagined with Ukrainian flair, featuring a robust and flaky crust.",
   "cuisine": "italian",
-  "diet": [],
-  "meal": "snack",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dessert",
   "ingredients": [
     {
-      "name": "Pastry",
-      "amount": "1 package frozen puff pastry, thawed",
-      "notes": null
+      "name": "Pastry dough (see notes)",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
     },
     {
-      "name": "Robust Filling",
-      "amount": "1/4 cup robust sausage, finely chopped",
-      "notes": null
+      "name": "Robust coffee",
+      "amount": "2 tbsp",
+      "notes": "strong brewed or espresso"
     },
     {
-      "name": "Onion",
-      "amount": "1/2 medium onion, finely chopped",
-      "notes": null
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "optional"
     },
     {
-      "name": "Flaky Sea Salt",
-      "amount": "1/2 tsp",
-      "notes": null
+      "name": "Ukrainian honey",
+      "amount": "2 tbsp",
+      "notes": "high-quality, raw honey"
     },
     {
-      "name": "Ukrainian Sausage",
-      "amount": "1/4 cup, finely chopped",
-      "notes": "Optional"
+      "name": "Fresh berries (strawberries, blueberries, raspberries)",
+      "amount": "1 cup",
+      "notes": "mixed or single variety"
     },
     {
-      "name": "Butter",
-      "amount": "1 tbsp",
-      "notes": null
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped or doubled"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
-    "Cut out small squares of pastry, about 3 inches (7.5 cm) per side.",
-    "In a small bowl, mix together the chopped sausage, onion, and flaky sea salt.",
-    "Place a small spoonful of the sausage mixture onto the center of each pastry square.",
-    "Fold the pastry squares in half to form triangles, pressing the edges to seal.",
-    "Place the pastry puffs onto a baking sheet lined with parchment paper.",
-    "Dot the tops of the pastry puffs with butter.",
-    "Bake for 20-25 minutes, or until golden brown.",
-    "Optional: Sprinkle with chopped Ukrainian sausage before baking."
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "3. Cut the dough into desired shapes (e.g., triangles, squares, or circles).",
+    "4. In a small bowl, mix the robust coffee and flaky sea salt (if using).",
+    "5. Brush the pastry shapes with the coffee mixture, leaving a 1/2 inch (1 cm) border around the edges.",
+    "6. Bake the pastry for 15-20 minutes, or until golden brown.",
+    "7. While the pastry is baking, whip the heavy cream until stiff peaks form.",
+    "8. In a separate bowl, mix the Ukrainian honey and whipped cream.",
+    "9. Once the pastry is done, allow it to cool for a few minutes before drizzling with the honey-cream mixture.",
+    "10. Top with fresh berries and serve immediately."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
   "totalTimeMin": 35,
-  "servings": 12,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "italian",
-    "appetizer",
-    "pastry",
-    "snack"
+    "italian-pastry",
+    "ukrainian-honey",
+    "robust-coffee"
   ],
   "nutrition": {
-    "calories": 120,
-    "protein": 5,
-    "carbs": 10,
-    "fat": 8
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/robust-flaky-ukrainian-pastry-bake--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T19:16:59.902Z"
+  "createdAt": "2026-07-21T20:27:10.086Z"
 }
