@@ -1,0 +1,64 @@
+{
+  "slug": "robust-refreshing-greek-butter-beans-spanakopita--german",
+  "title": "German Beans and Spinach Stew",
+  "description": "A hearty and comforting stew made with beans and spinach, inspired by German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package, crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Brown the onion and caraway seeds in a large pot over medium heat.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beans, water, and crumbled spanakopita. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beans",
+    "spinach",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-refreshing-greek-butter-beans-spanakopita--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:28:55.356Z"
+}
