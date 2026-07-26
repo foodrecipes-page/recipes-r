@@ -1,8 +1,8 @@
 {
   "slug": "robust-spring-italian-chicken-skewers--keto",
-  "title": "Keto Chicken Skewers with Italian Seasoning",
-  "description": "A flavorful and healthy dish made with marinated chicken breast, served with a side of fresh vegetables. Perfect for a keto diet.",
-  "cuisine": "Italian",
+  "title": "Keto Italian Chicken Skewers",
+  "description": "A flavorful and healthy keto meal, perfect for a quick dinner. Marinated chicken breast is grilled to perfection and served with a side of roasted vegetables.",
+  "cuisine": "italian",
   "diet": [
     "keto"
   ],
@@ -11,22 +11,17 @@
     {
       "name": "Chicken breast",
       "amount": "1 pound",
-      "notes": "Boneless and skinless"
-    },
-    {
-      "name": "Italian seasoning",
-      "amount": "2 teaspoons",
       "notes": ""
     },
     {
-      "name": "Spring onions",
-      "amount": "1 cup",
-      "notes": "Thinly sliced"
+      "name": "Italian dressing",
+      "amount": "1/2 cup",
+      "notes": ""
     },
     {
-      "name": "Robust bell peppers",
-      "amount": "1 cup",
-      "notes": "Thinly sliced"
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
     },
     {
       "name": "Olive oil",
@@ -34,45 +29,52 @@
       "notes": ""
     },
     {
-      "name": "Salt and pepper",
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
       "amount": "to taste",
       "notes": ""
     },
     {
-      "name": "Skewers",
-      "amount": "10-12",
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Robust skewers",
+      "amount": "6-8",
       "notes": ""
     }
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "In a small bowl, mix together Italian seasoning, salt, and pepper.",
-    "Thread chicken, spring onions, and robust bell peppers onto skewers.",
-    "Brush both sides of the chicken and vegetables with olive oil.",
-    "Sprinkle the Italian seasoning mixture evenly over both sides of the chicken and vegetables.",
-    "Grill the skewers for 10-12 minutes, turning occasionally, or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
-    "Serve hot and enjoy!"
+    "In a large bowl, whisk together Italian dressing, olive oil, garlic, salt, and pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated chicken onto the robust skewers.",
+    "Grill the skewers for 8-10 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.",
+    "Serve immediately, garnished with fresh basil."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 12,
-  "totalTimeMin": 27,
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "keto",
     "italian",
-    "grilled",
-    "chicken",
-    "skewers"
+    "chicken"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 40,
+    "calories": 240,
+    "protein": 35,
     "carbs": 5,
-    "fat": 18
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/robust-spring-italian-chicken-skewers--keto",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T17:42:03.185Z"
+  "createdAt": "2026-07-21T08:29:29.765Z"
 }
