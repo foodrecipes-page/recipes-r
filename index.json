@@ -8687,17 +8687,15 @@
   },
   {
     "slug": "rich-savory-norwegian-lentil-stew",
-    "title": "Rich Savory Norwegian Lentil Stew",
+    "title": "Norwegian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil-stew",
-      "norwegian-cuisine",
-      "one-pot",
-      "ovo-vegetarian",
-      "slow-cooked"
+      "lentil",
+      "stew",
+      "norwegian",
+      "comfort-food"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 70,
+    "cuisine": "norwegian",
+    "totalTimeMin": 65,
     "shard": "r"
   },
   {
@@ -23308,16 +23306,14 @@
   },
   {
     "slug": "robust-spring-italian-chicken-skewers--keto",
-    "title": "Keto Chicken Skewers with Italian Seasoning",
+    "title": "Keto Italian Chicken Skewers",
     "tags": [
       "keto",
       "italian",
-      "grilled",
-      "chicken",
-      "skewers"
+      "chicken"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -24014,6 +24010,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-american-teque-nos-skewers--thai",
+    "title": "Spicy Thai Skewers",
+    "tags": [
+      "thaifood",
+      "spicy",
+      "grilled",
+      "skewers",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-potato-crumble--vegetarian",
+    "title": "Rich Potato Crumble",
+    "tags": [
+      "potatoes",
+      "crumble",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
