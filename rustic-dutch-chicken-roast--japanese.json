@@ -1,0 +1,93 @@
+{
+  "slug": "rustic-dutch-chicken-roast--japanese",
+  "title": "Japanese Roast Chicken",
+  "description": "A delicious and savory Japanese-inspired roast chicken with a rustic twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole, 3 lbs",
+      "notes": "thawed"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "dutch"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp, minced",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a small bowl, mix together soy sauce, sake, brown sugar, ginger, garlic, and sesame seeds.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "Stuff the cavity with green onions and place the chicken in a roasting pan.",
+    "Roast the chicken in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Baste the chicken with the pan juices every 20 minutes to keep it moist and golden brown.",
+    "Once the chicken is cooked, let it rest for 10-15 minutes before carving and serving.",
+    "Strain the pan juices and serve them on the side as a sauce.",
+    " Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-dutch-chicken-roast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:11:47.042Z"
+}
