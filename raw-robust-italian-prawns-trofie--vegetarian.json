@@ -1,0 +1,84 @@
+{
+  "slug": "raw-robust-italian-prawns-trofie--vegetarian",
+  "title": "Prawn and Tomato Trofie Pasta",
+  "description": "A fresh and flavorful vegetarian pasta dish featuring prawns and trofie pasta, perfect for a quick and easy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trofie pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "raw prawns",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Italian tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1 minute until fragrant.",
+    "Add the prawns to the skillet and cook for 2-3 minutes per side until pink and cooked through.",
+    "Add the Italian tomatoes to the skillet and stir to combine. Cook for 2-3 minutes until the tomatoes start to break down.",
+    "Stir in the chopped basil and reserved pasta water. Season with salt and black pepper to taste.",
+    "Add the cooked trofie pasta to the skillet and toss to combine with the tomato sauce.",
+    "Serve hot, topped with grated Parmesan cheese if desired.",
+    "Optional: Add some heat to the dish by sprinkling red pepper flakes on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "prawns",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-robust-italian-prawns-trofie--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:00:28.870Z"
+}
