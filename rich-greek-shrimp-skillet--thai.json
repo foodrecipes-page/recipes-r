@@ -1,0 +1,96 @@
+{
+  "slug": "rich-greek-shrimp-skillet--thai",
+  "title": "Thai Shrimp Skillet",
+  "description": "A spicy and flavorful Thai-inspired dish made with succulent shrimp, rich coconut milk, and crunchy vegetables.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add shallots and garlic and cook until fragrant, 1-2 minutes.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add shrimp and cook until pink, 2-3 minutes per side.",
+    "Add fish sauce, brown sugar, chicken broth, and coconut milk. Stir to combine.",
+    "Bring mixture to a simmer and cook for 2-3 minutes, or until sauce has thickened.",
+    "Stir in chili flakes and cook for 1 minute.",
+    "Serve hot, garnished with fresh basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "skillet",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-greek-shrimp-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:09:54.729Z"
+}
