@@ -1,0 +1,63 @@
+{
+  "slug": "rich-decadent-kenyan-ume-plum-tagine",
+  "title": "Kenyan Plum Tagine",
+  "description": "A rich and flavorful tagine originating from Kenya, featuring the sweetness of plums and the warmth of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "ume",
+      "amount": "2 tablespoons, syrup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced plums, ume syrup, and tagine spice blend. Toss to coat.",
+    "Transfer the plum mixture to a 9x13 inch baking dish.",
+    "Drizzle honey over the plums.",
+    "Sprinkle chopped pistachios over the top.",
+    "Bake for 25-30 minutes, or until the plums are tender and the topping is caramelized.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "plum",
+    "dessert",
+    "tagine",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-decadent-kenyan-ume-plum-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:38:15.035Z"
+}
