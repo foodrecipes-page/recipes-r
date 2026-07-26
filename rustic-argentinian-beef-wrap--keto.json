@@ -1,0 +1,79 @@
+{
+  "slug": "rustic-argentinian-beef-wrap--keto",
+  "title": "Argentinian Keto Beef Wrap",
+  "description": "A flavorful, low-carb take on a classic beef wrap, featuring juicy beef, fresh herbs, and a tangy sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef striploin",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Rustic sourdough wrap",
+      "amount": "1",
+      "notes": "Note: To remain keto, use a low-carb wrap or substitute with a portobello mushroom cap."
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "2 tbsp",
+      "notes": "Make your own by combining parsley, oregano, garlic, red pepper flakes, red wine vinegar, and olive oil."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Season the beef with salt and pepper.",
+    "Grill the beef for 3-4 minutes per side, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the beef rest for 5 minutes before slicing it thinly.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread a tablespoon of chimichurri on the wrap.",
+    "Place a few slices of beef on the wrap.",
+    "Top with cilantro, a squeeze of lime juice, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "keto",
+    "low-carb",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-argentinian-beef-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:55:30.439Z"
+}
