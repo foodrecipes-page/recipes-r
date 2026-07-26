@@ -1,0 +1,83 @@
+{
+  "slug": "rich-malay-turkey-curry--thai",
+  "title": "Thai Turkey Curry",
+  "description": "A flavorful and spicy Thai-inspired dish made with tender turkey and rich curry sauce. Serve with steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 pound, cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat or low-fat, depending on preference"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red or green curry paste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the turkey and cook until browned, about 5-7 minutes.",
+    "Remove the turkey from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the mushrooms and bell peppers and cook until tender, about 5 minutes.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, fish sauce, brown sugar, and rice vinegar.",
+    "Stir to combine and bring to a simmer.",
+    "Return the turkey to the skillet and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "turkey",
+    "coconut",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malay-turkey-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:15:31.021Z"
+}
