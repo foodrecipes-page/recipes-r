@@ -24089,5 +24089,45 @@
     "cuisine": "french",
     "totalTimeMin": 70,
     "shard": "r"
+  },
+  {
+    "slug": "robustly-roasted-greek-lamb-spanakopita--chinese",
+    "title": "Lamb Spanakopita Spring Rolls",
+    "tags": [
+      "lamb",
+      "spanakopita",
+      "spring-rolls",
+      "chinese-greek-fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-malay-turkey-curry--thai",
+    "title": "Thai Turkey Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "turkey",
+      "coconut",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-refreshing-greek-butter-beans-spanakopita--german",
+    "title": "German Beans and Spinach Stew",
+    "tags": [
+      "german",
+      "beans",
+      "spinach",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
   }
 ]
