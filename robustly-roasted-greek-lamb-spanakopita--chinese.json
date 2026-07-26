@@ -1,0 +1,98 @@
+{
+  "slug": "robustly-roasted-greek-lamb-spanakopita--chinese",
+  "title": "Lamb Spanakopita Spring Rolls",
+  "description": "Crispy spring rolls filled with lamb and spinach, a unique fusion of Greek and Chinese flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, ground",
+      "notes": ""
+    },
+    {
+      "name": "spinach",
+      "amount": "1 package, frozen",
+      "notes": ""
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "20 pieces",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat the vegetable oil over medium-high heat.",
+    "2. Add the lamb and cook, breaking it up with a spoon, until browned and cooked through, about 5 minutes.",
+    "3. Add the soy sauce, ginger, garlic, salt, and pepper to the skillet and stir to combine.",
+    "4. Stir in the spinach and cook until wilted.",
+    "5. Stir in the crumbled spanakopita.",
+    "6. Lay a spring roll wrapper on a clean surface and place about 1 tablespoon of the lamb mixture in the center of the wrapper.",
+    "7. Brush the edges of the wrapper with water and fold the bottom half of the wrapper up over the filling.",
+    "8. Fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "11. When the oil is hot, add a few of the spring rolls and fry until golden brown and crispy, about 2-3 minutes.",
+    "12. Drain the spring rolls on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "spanakopita",
+    "spring-rolls",
+    "chinese-greek-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-greek-lamb-spanakopita--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:04:58.164Z"
+}
