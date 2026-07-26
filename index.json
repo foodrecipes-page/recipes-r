@@ -23964,5 +23964,33 @@
     "cuisine": null,
     "totalTimeMin": 80,
     "shard": "r"
+  },
+  {
+    "slug": "rich-briny-greek-fish-galaktoboureko--german",
+    "title": "Pan-Seared Fish with Greek Galaktoboureko Crust",
+    "tags": [
+      "german",
+      "fish",
+      "greek",
+      "galaktoboureko",
+      "dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-shattering-ethiopian-jam-azifa--vegan",
+    "title": "Ethiopian Azifa Jam Toast",
+    "tags": [
+      "breakfast",
+      "snack",
+      "vegan",
+      "ethiopian",
+      "cashew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 12,
+    "shard": "r"
   }
 ]
