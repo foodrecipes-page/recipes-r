@@ -1152,17 +1152,15 @@
   },
   {
     "slug": "raw-robust-italian-prawns-trofie",
-    "title": "Raw Robust Italian Prawns Trofie",
+    "title": "Trofie with Prawn and Italian Sauce",
     "tags": [
-      "fermented-foods",
-      "gluten-free",
-      "italian-cuisine",
-      "low-glycemic",
-      "raw-food",
-      "seafood-lovers"
+      "italian",
+      "seafood",
+      "pasta",
+      "quick-and-easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -2223,16 +2221,14 @@
   },
   {
     "slug": "resinous-post-workout-kosher-chives-hash",
-    "title": "Resinous Post-Workout Kosher Chives Hash",
+    "title": "Workout Hash",
     "tags": [
-      "easy-kosher",
-      "high-protein",
-      "one-pan",
+      "breakfast-hash",
       "post-workout",
-      "weeknight"
+      "easy-meal"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "r"
   },
   {
@@ -24127,6 +24123,20 @@
       "stew"
     ],
     "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-roasted-northern-irish-beet-gratin--japanese",
+    "title": "Beet and Northern Irish Cheese Gratin with Japanese Twist",
+    "tags": [
+      "beets",
+      "cheese",
+      "japanese",
+      "irish",
+      "gratin"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "r"
   }
