@@ -1,0 +1,82 @@
+{
+  "slug": "rich-russian-potatoes-gratin--french",
+  "title": "French Russian Potato Gratin",
+  "description": "A rich and creamy French-inspired potato gratin with a Russian twist, perfect for a cold winter night.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "3 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "rich heavy cream",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup",
+      "notes": "grated and divided"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine the heavy cream, 1/2 cup of the grated cheese, and a pinch of salt and pepper. Bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the cream mixture simmer for 5-7 minutes, or until it has thickened slightly.",
+    "In a large bowl, combine the sliced potatoes, melted butter, and a pinch of salt and pepper. Toss to coat the potatoes evenly.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. You can overlap them slightly.",
+    "Pour some of the cream mixture over the potatoes, followed by a sprinkle of grated cheese.",
+    "Repeat the layers until all the ingredients have been used, finishing with a layer of potatoes on top.",
+    "Sprinkle the remaining grated cheese over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top layer of potatoes is golden brown.",
+    "Remove the dish from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "potato-gratin",
+    "rich-creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-russian-potatoes-gratin--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:40:30.411Z"
+}
