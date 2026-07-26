@@ -1,0 +1,95 @@
+{
+  "slug": "raw-robust-italian-prawns-trofie",
+  "title": "Trofie with Prawn and Italian Sauce",
+  "description": "A classic Italian dish featuring trofie pasta, prawns, and a robust tomato sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trofie",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie according to the package instructions until al dente.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cherry tomatoes and cook for 2-3 minutes until they start to release their juices.",
+    "Add the tomato paste and cook for 1-2 minutes until fragrant.",
+    "Add the prawns and cook for 2-3 minutes until they turn pink.",
+    "Stir in the basil and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the prawn mixture over the cooked trofie and top with grated parmesan.",
+    "Enjoy immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "pasta",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/raw-robust-italian-prawns-trofie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:43:29.422Z"
+}
