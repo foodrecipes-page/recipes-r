@@ -1,95 +1,87 @@
 {
   "slug": "roasted-algerian-lamb-tagine--chinese",
-  "title": "Chinese Lamb Tagine with Roasted Vegetables",
-  "description": "A fusion twist on the traditional Moroccan tagine, this Chinese-inspired dish features tender lamb and roasted vegetables in a rich and savory sauce.",
-  "cuisine": "chinese",
+  "title": "Algerian Lamb Tagine with Roasted Vegetables",
+  "description": "A twist on traditional Chinese cuisine, this dish combines the bold flavors of Algerian tagine with the tender lamb, all while incorporating roasted vegetables for added depth.",
+  "cuisine": "Chinese",
   "diet": [
-    "meat",
-    "omnivore"
+    "gluten-free",
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "lamb shoulder",
-      "amount": "1.5 pounds",
-      "notes": "cut into 2-inch pieces"
+      "name": "Boneless lamb shoulder",
+      "amount": "1.5 pounds"
     },
     {
-      "name": "roasted red peppers",
-      "amount": "2",
-      "notes": "sliced"
+      "name": "Roasted red peppers",
+      "amount": "2"
     },
     {
-      "name": "carrots",
-      "amount": "4",
-      "notes": "peeled and sliced"
+      "name": "Roasted eggplant",
+      "amount": "1 medium"
     },
     {
-      "name": "onions",
-      "amount": "2",
-      "notes": "peeled and sliced"
+      "name": "Roasted carrots",
+      "amount": "2 medium"
     },
     {
-      "name": "garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
+      "name": "Algerian tagine spice blend",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "algerian spice blend",
-      "amount": "2 tablespoons",
-      "notes": "see note"
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "soy sauce",
-      "amount": "2 tablespoons",
-      "notes": "or to taste"
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
     },
     {
-      "name": "brown sugar",
-      "amount": "1 tablespoon",
-      "notes": "or to taste"
+      "name": "Salt",
+      "amount": "1 teaspoon"
     },
     {
-      "name": "water",
-      "amount": "1 cup",
-      "notes": "or broth"
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
     },
     {
-      "name": "fresh cilantro",
-      "amount": "1/4 cup",
-      "notes": "chopped, for garnish"
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven or clay tagine over medium-high heat.",
-    "Add lamb and cook until browned on all sides, about 5 minutes.",
-    "Add roasted red peppers, carrots, onions, and garlic. Cook, stirring occasionally, for 5 minutes.",
-    "Add Algerian spice blend, soy sauce, and brown sugar. Stir to combine.",
-    "Add water or broth, and bring to a boil.",
-    "Transfer the pot to the oven and braise the lamb and vegetables for 2 1/2 to 3 hours, or until the lamb is tender.",
-    "Season with salt and pepper to taste.",
-    "Garnish with chopped cilantro and serve hot."
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the lamb shoulder with olive oil, salt, and black pepper. Roast in the oven for 20 minutes.",
+    "Add the roasted red peppers, eggplant, and carrots to the oven and roast for an additional 15 minutes.",
+    "Remove the lamb from the oven and let it rest for 5 minutes.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the Algerian tagine spice blend and cook for 1 minute, until fragrant.",
+    "Add the lamb to the skillet and cook for 2-3 minutes on each side.",
+    "Add the roasted vegetables to the skillet and stir to combine.",
+    "Serve the lamb and vegetables hot, garnished with parsley and cilantro.",
+    "Cook time may vary depending on the size and thickness of the lamb shoulder."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 150,
-  "totalTimeMin": 170,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
   "servings": 4,
-  "difficulty": "hard",
+  "difficulty": "medium",
   "tags": [
-    "chinese",
     "lamb",
     "tagine",
-    "fusion",
-    "braising"
+    "roasted",
+    "vegetables",
+    "chinese"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": 43,
-    "carbs": 30,
-    "fat": 34
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-lamb-tagine--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T08:27:53.944Z"
+  "createdAt": "2026-07-21T09:06:04.286Z"
 }
