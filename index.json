@@ -24232,5 +24232,31 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "rum-n-crumbles--vegan",
+    "title": "Vegan Rum Crumble Bars",
+    "tags": [
+      "vegan",
+      "rum",
+      "crumble",
+      "bars"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rustic-argentinian-beef-wrap--keto",
+    "title": "Argentinian Keto Beef Wrap",
+    "tags": [
+      "beef",
+      "keto",
+      "low-carb",
+      "argentinian"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 18,
+    "shard": "r"
   }
 ]
