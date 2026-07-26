@@ -1,0 +1,84 @@
+{
+  "slug": "rum-n-crumbles--vegan",
+  "title": "Vegan Rum Crumble Bars",
+  "description": "A twist on the classic crumble bars, made with a rum-infused filling and a crunchy topping.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is vegan"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crumbles",
+      "amount": "1 cup",
+      "notes": "make sure they are vegan"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C). Line an 8-inch square baking dish with parchment paper.",
+    "2. In a medium bowl, whisk together the almond flour, sugar, and nutmeg.",
+    "3. In a separate bowl, whisk together the almond milk, coconut oil, and vanilla extract.",
+    "4. Pour the wet ingredients into the dry ingredients and stir until combined.",
+    "5. Pour the mixture into the prepared baking dish and smooth the top.",
+    "6. In a separate bowl, mix together the crumbles and 1 tablespoon of sugar.",
+    "7. Sprinkle the crumble mixture evenly over the top of the filling.",
+    "8. Bake for 35-40 minutes, or until the crumble is golden brown and the filling is set.",
+    "9. Remove from the oven and let cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "rum",
+    "crumble",
+    "bars"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rum-n-crumbles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:19:59.229Z"
+}
