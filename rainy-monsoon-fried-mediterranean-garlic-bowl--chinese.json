@@ -1,0 +1,74 @@
+{
+  "slug": "rainy-monsoon-fried-mediterranean-garlic-bowl--chinese",
+  "title": "Stir-Fried Garlic Noodles",
+  "description": "A quick and easy Chinese stir-fry made with noodles, garlic, and a variety of flavors. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "rice noodles or egg noodles work well"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of veggie oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic.",
+    "In a small bowl, whisk together the soy sauce, honey, and sesame oil (if using).",
+    "Pour the sauce over the noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "noodle",
+    "stir-fry",
+    "garlic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rainy-monsoon-fried-mediterranean-garlic-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:54:14.642Z"
+}
