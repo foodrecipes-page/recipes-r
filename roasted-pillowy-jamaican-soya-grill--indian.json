@@ -1,0 +1,85 @@
+{
+  "slug": "roasted-pillowy-jamaican-soya-grill--indian",
+  "title": "Jamaican Chicken Tikka",
+  "description": "A popular Indian-inspired dish with marinated chicken, roasted in the oven and served with a side of pillowy naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "soya yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4-6 pieces",
+      "notes": "pillowy, store-bought or homemade"
+    },
+    {
+      "name": "cucumber raita",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soya yogurt, jamaican jerk seasoning, and lemon juice.",
+    "2. Add the chicken breast to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat the oven to 400°F (200°C). Line a baking sheet with aluminum foil or parchment paper.",
+    "4. Remove the chicken from the marinade and place it on the prepared baking sheet.",
+    "5. Brush the chicken with ghee or vegetable oil and roast in the preheated oven for 20-25 minutes, or until cooked through.",
+    "6. While the chicken is cooking, heat a grill or grill pan over medium-high heat.",
+    "7. Brush the naan bread with ghee or vegetable oil and grill for 1-2 minutes per side, or until lightly charred.",
+    "8. To serve, slice the roasted chicken and serve with grilled naan bread, cucumber raita, and chopped cilantro.",
+    "9. Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tikka",
+    "grilled",
+    "naan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-pillowy-jamaican-soya-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:09:41.122Z"
+}
