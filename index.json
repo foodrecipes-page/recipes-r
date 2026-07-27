@@ -6905,17 +6905,14 @@
   },
   {
     "slug": "rich-midnight-middle-eastern-dessert-pudding",
-    "title": "Rich Midnight Middle-Eastern Dessert Pudding",
+    "title": "Middle Eastern Pudding",
     "tags": [
+      "pudding",
       "dessert",
-      "donabe",
-      "gluten-free",
-      "middle-eastern",
-      "sugar-free",
-      "vegan"
+      "middle eastern"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -24421,6 +24418,45 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 65,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-pillowy-jamaican-soya-grill--indian",
+    "title": "Jamaican Chicken Tikka",
+    "tags": [
+      "indian",
+      "chicken",
+      "tikka",
+      "grilled",
+      "naan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-nostalgic-filipino-tapioca-crumble--japanese",
+    "title": "Japanese Crusty Tapioca Cake",
+    "tags": [
+      "tapioca",
+      "japanesecrumbly",
+      "cake"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-silky-adventurous-russian-hake-grill--mexican",
+    "title": "Grilled Hake Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "grilled-fish",
+      "adventurous-spices"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "r"
   }
 ]
