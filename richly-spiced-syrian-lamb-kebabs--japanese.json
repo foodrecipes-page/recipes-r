@@ -1,0 +1,89 @@
+{
+  "slug": "richly-spiced-syrian-lamb-kebabs--japanese",
+  "title": "Yakitori-Style Lamb Kebabs",
+  "description": "A fusion twist on traditional syrian kebabs, using Japanese-style yakitori flavors. Perfect for a summer evening.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Richly spiced",
+      "amount": "1 tsp",
+      "notes": "Syrian blend"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together sesame oil, yuzu juice, soy sauce, brown sugar, and richly spiced.",
+    "Add lamb shoulder to marinade and refrigerate for at least 2 hours or overnight.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush skewers with remaining marinade and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 63°C.",
+    "Let rest for 5 minutes before serving.",
+    "Garnish with green onions and toasted sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "lamb",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-syrian-lamb-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:48:32.472Z"
+}
