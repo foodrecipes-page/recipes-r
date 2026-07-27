@@ -1,0 +1,66 @@
+{
+  "slug": "rich-spanish-prune-stew--vegetarian",
+  "title": "Spanish Vegetable Stew",
+  "description": "A hearty and flavorful Spanish-inspired stew loaded with rich vegetables. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rich vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "sweet onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "prune",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can, diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic, cooking until softened, about 5 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add the diced tomatoes and prunes, continue to simmer for another 15 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spanish-prune-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:09:05.195Z"
+}
