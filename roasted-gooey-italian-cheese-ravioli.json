@@ -1,0 +1,70 @@
+{
+  "slug": "roasted-gooey-italian-cheese-ravioli",
+  "title": "Creamy Ravioli Bake",
+  "description": "A comforting casserole of gooey cheese and homemade ravioli topped with a crispy golden crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Homemade Ravioli",
+      "amount": "12-16 pieces",
+      "notes": "Make your own ravioli or use store-bought"
+    },
+    {
+      "name": "Roasted Cheese Sauce",
+      "amount": "1 cup",
+      "notes": "Melted mozzarella and parmesan cheese with a hint of nutmeg"
+    },
+    {
+      "name": "Gooey Mozzarella Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Optional for an extra gooey top layer"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried basil, oregano, and thyme"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ravioli according to package instructions.",
+    "In a separate saucepan, melt the roasted cheese sauce over low heat.",
+    "Add Italian seasoning and stir to combine.",
+    "In a greased 9x13 inch baking dish, arrange a layer of cooked ravioli.",
+    "Pour the cheese sauce over the ravioli, followed by a sprinkle of shredded mozzarella.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Optional: Add a layer of gooey mozzarella cheese on top and return to the oven for an additional 5-10 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "comfort-food",
+    "casserole",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-gooey-italian-cheese-ravioli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:25:56.806Z"
+}
