@@ -1,0 +1,84 @@
+{
+  "slug": "rich-whole30-ethiopian-lamb-kitfo--mexican",
+  "title": "Lamb Tacos",
+  "description": "A spicy lamb dish inspired by the flavors of Ethiopia, served in a traditional Mexican taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spice blend",
+      "amount": "1 tablespoon",
+      "notes": "Ethiopian berbere spice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 2-3 minutes.",
+    "Add the spice blend, cumin, and cayenne pepper (if using) and cook for 1 minute.",
+    "Add the lime juice and cook for 1-2 minutes, until the liquid has almost completely evaporated.",
+    "Season with salt and pepper to taste.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble the tacos by placing the lamb mixture onto a shell and topping with cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "whole30",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-whole30-ethiopian-lamb-kitfo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:51:47.235Z"
+}
