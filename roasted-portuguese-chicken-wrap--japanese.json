@@ -1,0 +1,93 @@
+{
+  "slug": "roasted-portuguese-chicken-wrap--japanese",
+  "title": "Japanese-Style Chicken Wrap",
+  "description": "A twist on traditional wraps, this Japanese-inspired dish combines roasted chicken with savory flavors and crunchy textures.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roasted chicken breast",
+      "amount": "1 large breast",
+      "notes": null
+    },
+    {
+      "name": "portuguese roll",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "wasabi mayonnaise",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the roasted chicken breast into thin strips.",
+    "In a small bowl, whisk together soy sauce and wasabi mayonnaise.",
+    "In a large pan, heat 1 tbsp of oil over medium heat. Add the sliced chicken and cook for 2-3 minutes, or until heated through.",
+    "In a separate pan, heat 1 tbsp of oil over medium heat. Add the pickled ginger and cook for 1-2 minutes, or until softened.",
+    "Assemble the wrap by spreading the sushi rice on the Portuguese roll, followed by the cooked chicken, pickled ginger, cucumber, carrots, green onions, and soy sauce.",
+    "Sprinkle sesame seeds on top.",
+    "Serve immediately and enjoy.",
+    "Note: You can also add other ingredients such as avocado, spinach, or grilled vegetables to suit your taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "wrap",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-portuguese-chicken-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:06:14.253Z"
+}
