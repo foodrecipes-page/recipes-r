@@ -1,0 +1,48 @@
+{
+  "slug": "rich-molten-ciabatta-sandwich--gluten-free",
+  "title": "Gluten-Free Ciabatta Sandwich with Rich Cheese",
+  "description": "A delicious and easy-to-make sandwich featuring rich cheese melted between two slices of gluten-free ciabatta. Perfect for a quick snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-free ciabatta",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Rich cheese (such as brie or camembert)",
+      "amount": "1/4 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a toaster or toaster oven to 350°F (180°C).",
+    "2. Place the slices of gluten-free ciabatta in the toaster or toaster oven and toast until lightly browned.",
+    "3. Remove the ciabatta from the toaster or toaster oven and spread a slice with the rich cheese.",
+    "4. Place the second slice of ciabatta on top of the cheese.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "easy",
+    "snack",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-molten-ciabatta-sandwich--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:19:35.979Z"
+}
