@@ -1,0 +1,88 @@
+{
+  "slug": "rich-velvety-ethiopian-lentils-misir-wot--french",
+  "title": "Ethiopian Lentil Stew with French Twist",
+  "description": "A rich and flavorful stew combining the traditional Ethiopian flavors with a French twist, perfect for a cold winter night.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or green lentils work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "misir wot spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion, garlic, carrot, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the misir wot spice blend and cook for 1 minute.",
+    "Add the lentils, tomato paste, red wine, and beef broth.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Traditionally, this stew is served over injera bread, but it also pairs well with crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "ethiopian-cuisine",
+    "french-twist"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-velvety-ethiopian-lentils-misir-wot--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:15:49.733Z"
+}
