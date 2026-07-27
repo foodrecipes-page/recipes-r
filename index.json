@@ -24309,5 +24309,31 @@
     "cuisine": "indian",
     "totalTimeMin": 27,
     "shard": "r"
+  },
+  {
+    "slug": "roasted-portuguese-chicken-wrap--japanese",
+    "title": "Japanese-Style Chicken Wrap",
+    "tags": [
+      "japanese",
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy-to-make"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-argentinian-kabanos-crumble--italian",
+    "title": "Italian-Style Kabanos Crumble",
+    "tags": [
+      "italian-food",
+      "kabanos-sausage",
+      "crumble-topping"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "r"
   }
 ]
