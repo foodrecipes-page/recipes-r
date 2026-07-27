@@ -1,0 +1,96 @@
+{
+  "slug": "robust-rye-turkish-lamb-adana-kebap--french",
+  "title": "Lamb Adana Kebap Frites",
+  "description": "French-inspired take on Turkish-style lamb kebap served with crispy frites.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Adana Kebap",
+      "amount": "500g",
+      "notes": "Available at local butcher or substitute with thinly sliced lamb shoulder"
+    },
+    {
+      "name": "Turkish Rye Bread",
+      "amount": "1 baguette",
+      "notes": "For serving"
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1 tsp",
+      "notes": "Comprised of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling and finishing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "For frites"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For frying frites"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 pat",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season lamb with salt, pepper, and Turkish spice mix.",
+    "Grill lamb for 5-6 minutes per side, or until cooked to your liking.",
+    "Slice lamb into thin strips.",
+    "Peel and cut potatoes into long strips for frites.",
+    "Heat vegetable oil in a deep frying pan to 350°F.",
+    "Fry potatoes in batches until golden brown, about 3-4 minutes.",
+    "Drain frites on paper towels.",
+    "Serve lamb strips with frites and a pat of butter.",
+    "Slice Turkish rye bread and serve on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "turkish",
+    "lamb",
+    "kebap",
+    "frites"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-rye-turkish-lamb-adana-kebap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:26:20.483Z"
+}
