@@ -1,0 +1,75 @@
+{
+  "slug": "rich-briny-greek-fish-galaktoboureko--indian",
+  "title": "Tandoori Fish Galaktoboureko",
+  "description": "A fusion dish combining the Indian tandoori technique with a Greek dessert, featuring rich and briny fish wrapped in a crispy phyllo pastry.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rich Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "briny fish fillet (salmon or tilapia)",
+      "amount": "1 pound",
+      "notes": "cut into a large rectangle"
+    },
+    {
+      "name": "galaktoboureko pastry",
+      "amount": "1 package (usually 4-6 pieces)"
+    },
+    {
+      "name": "tandoori spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the yogurt, tandoori spices, lemon juice, ghee or oil, cayenne pepper, and salt.",
+    "Add the fish fillet to the marinade and coat evenly.",
+    "Place the fish on a baking sheet lined with parchment paper and bake for 8-10 minutes or until cooked through.",
+    "While the fish is baking, warm the galaktoboureko pastry according to package instructions.",
+    "Once the fish is cooked, carefully wrap it in the warm pastry, brushing the edges with a little water to seal.",
+    "Place the wrapped fish on a serving plate and garnish with fresh herbs or a lemon wedge.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian-fusion",
+    "fish",
+    "galaktoboureko"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-briny-greek-fish-galaktoboureko--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:16:38.276Z"
+}
