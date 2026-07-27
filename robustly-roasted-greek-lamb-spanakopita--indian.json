@@ -1,0 +1,90 @@
+{
+  "slug": "robustly-roasted-greek-lamb-spanakopita--indian",
+  "title": "Indian-Style Lamb Koftas",
+  "description": "A flavorful and aromatic Indian-inspired lamb kofta recipe, perfect for a quick and easy dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1, diced",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Spanakopita",
+      "amount": "2 sheets, crumbled",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, yogurt, roasted red pepper, cilantro, garam masala, cumin, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat oven to 400°F (200°C).",
+    "Thread the lamb mixture onto skewers, leaving a small space between each kofta.",
+    "Grill the koftas for 4-5 minutes per side, or until cooked through.",
+    "Transfer the koftas to a baking sheet and top each with a piece of crumbled spanakopita, if using.",
+    "Bake in the preheated oven for an additional 2-3 minutes, or until the spanakopita is lightly browned.",
+    "Serve hot with your favorite sides, such as basmati rice and naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "kofta",
+    "spanakopita"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-greek-lamb-spanakopita--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:06:32.143Z"
+}
