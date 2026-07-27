@@ -1,0 +1,84 @@
+{
+  "slug": "roasted-argentinian-kabanos-crumble--italian",
+  "title": "Italian-Style Kabanos Crumble",
+  "description": "A creative twist on the classic Italian dish, combining the flavors of roasted vegetables with the smoky taste of kabanos and topped with a crunchy crumble.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Roasted bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the kabanos sausage into 1-inch pieces and cook in a skillet over medium-high heat until browned.",
+    "Add the roasted bell peppers and zucchini to the skillet and cook for an additional 2-3 minutes.",
+    "Transfer the mixture to a baking dish and top with mozzarella cheese.",
+    "In a separate bowl, mix together breadcrumbs and parmesan cheese.",
+    "Sprinkle the breadcrumb mixture evenly over the top of the mozzarella cheese.",
+    "Drizzle with olive oil and season with salt and pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes, or until the topping is golden brown and the cheese is melted.",
+    "Remove from the oven and sprinkle with fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "kabanos-sausage",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-argentinian-kabanos-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:45:07.355Z"
+}
