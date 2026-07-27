@@ -10337,17 +10337,14 @@
   },
   {
     "slug": "rich-tender-vietnamese-beef-stew",
-    "title": "Rich Tender Vietnamese Beef Stew",
+    "title": "Vietnamese Beef Stew",
     "tags": [
-      "low-fat",
-      "slow-cooked",
       "beef",
       "stew",
-      "vietnamese",
-      "lazy-sunday"
+      "vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 135,
+    "totalTimeMin": 105,
     "shard": "r"
   },
   {
@@ -24482,6 +24479,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-molten-ciabatta-sandwich--gluten-free",
+    "title": "Gluten-Free Ciabatta Sandwich with Rich Cheese",
+    "tags": [
+      "gluten-free",
+      "easy",
+      "snack",
+      "sandwich"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 8,
+    "shard": "r"
+  },
+  {
+    "slug": "robust-rye-turkish-lamb-adana-kebap--french",
+    "title": "Lamb Adana Kebap Frites",
+    "tags": [
+      "french",
+      "turkish",
+      "lamb",
+      "kebap",
+      "frites"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-spanish-prune-stew--vegetarian",
+    "title": "Spanish Vegetable Stew",
+    "tags": [
+      "stew",
+      "vegetarian",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "r"
   }
 ]
