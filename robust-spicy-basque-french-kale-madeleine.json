@@ -1,0 +1,77 @@
+{
+  "slug": "robust-spicy-basque-french-kale-madeleine",
+  "title": "French Kale Gratin",
+  "description": "A rich and creamy side dish made with French kale, onions, and a delicious cheesy bechamel sauce. Perfect for a weeknight dinner or as a side for your holiday feast.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French kale",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Robust cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Madeleine bread",
+      "amount": "1/2 loaf, cubed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, sauté the onions and garlic until softened.",
+    "Add the kale to the saucepan and cook until wilted.",
+    "In a separate saucepan, make a bechamel sauce by melting the butter and whisking in the flour.",
+    "Gradually add the milk, whisking constantly to prevent lumps.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Remove the sauce from the heat and stir in the robust cheese until melted.",
+    "In a greased 9x13-inch baking dish, create a layer of the kale mixture.",
+    "Top the kale with a layer of the bechamel sauce and then a layer of the cubed madeleine bread.",
+    "Repeat the layers two more times, finishing with a layer of the bechamel sauce.",
+    "Bake the gratin in the preheated oven for 25-30 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "kale",
+    "gratin",
+    "side-dish",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-spicy-basque-french-kale-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:59:03.900Z"
+}
