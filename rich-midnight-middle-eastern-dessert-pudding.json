@@ -1,0 +1,68 @@
+{
+  "slug": "rich-midnight-middle-eastern-dessert-pudding",
+  "title": "Middle Eastern Pudding",
+  "description": "A rich and creamy dessert inspired by the flavors of the Middle East. This pudding is perfect for warm weather and can be made ahead of time.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Combine milk, sugar, and cornstarch in a medium saucepan.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in butter, rose water, and vanilla extract.",
+    "Let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Sprinkle chopped pistachios on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pudding",
+    "dessert",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-midnight-middle-eastern-dessert-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:52:55.393Z"
+}
