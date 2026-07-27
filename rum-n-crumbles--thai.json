@@ -1,0 +1,77 @@
+{
+  "slug": "rum-n-crumbles--thai",
+  "title": "Thai Coconut Rum Crumble",
+  "description": "A unique Thai-inspired dessert with the warmth of rum and the crunch of crumble topping.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp",
+      "notes": "dark rum"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crumbles",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine coconut milk, rum, and brown sugar. Heat over medium heat, stirring occasionally, until sugar dissolves.",
+    "In a separate bowl, whisk together flour and baking powder.",
+    "Add dry ingredients to coconut mixture and whisk until combined.",
+    "Pour mixture into a 9x9-inch baking dish.",
+    "Top with crumbles.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "rum",
+    "coconut",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rum-n-crumbles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:23:01.633Z"
+}
