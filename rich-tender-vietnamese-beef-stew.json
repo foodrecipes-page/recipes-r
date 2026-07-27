@@ -1,0 +1,80 @@
+{
+  "slug": "rich-tender-vietnamese-beef-stew",
+  "title": "Vietnamese Beef Stew",
+  "description": "A rich and tender beef stew cooked in a flavorful Vietnamese-inspired broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 whole",
+      "notes": "optional"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, then set it aside.",
+    "Soften the onion and ginger in the pot.",
+    "Add the star anise, fish sauce, soy sauce, and brown sugar.",
+    "Pour in the beef broth and bring to a boil.",
+    "Return the beef to the pot and simmer for 1.5 hours.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-tender-vietnamese-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:47:57.911Z"
+}
