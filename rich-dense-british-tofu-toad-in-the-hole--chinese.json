@@ -1,0 +1,83 @@
+{
+  "slug": "rich-dense-british-tofu-toad-in-the-hole--chinese",
+  "title": "British-Style Tofu in the Hole",
+  "description": "A Chinese-inspired twist on a traditional British dish, featuring crispy tofu and rich flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "400g",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "in-the-hole (bread)",
+      "amount": "2",
+      "notes": "British-style bread, hollowed out"
+    },
+    {
+      "name": "rich soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dense rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Cut the bread in half lengthwise and hollow out the insides.",
+    "Crumble the tofu into a bowl and add soy sauce, rice vinegar, coriander, ginger, and hot sauce. Mix well.",
+    "Stuff each bread loaf with the tofu mixture.",
+    "Place the bread loaves on a baking sheet lined with parchment paper and drizzle with oil.",
+    "Bake for 20-25 minutes, or until the bread is golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "british",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-dense-british-tofu-toad-in-the-hole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:44:08.662Z"
+}
