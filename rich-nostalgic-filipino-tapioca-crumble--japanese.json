@@ -1,0 +1,73 @@
+{
+  "slug": "rich-nostalgic-filipino-tapioca-crumble--japanese",
+  "title": "Japanese Crusty Tapioca Cake",
+  "description": "A rich, nostalgic Japanese dessert that combines the crunch of tapioca with a crumbly texture.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crumble topping (store-bought or homemade)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the sugar, flour, and tapioca pearls.",
+    "Add the softened butter and mix until the mixture resembles coarse crumbs.",
+    "Beat in the eggs and vanilla extract until well combined.",
+    "Gradually add the milk, mixing until a smooth batter forms.",
+    "Pour the batter into a greased 9-inch (23cm) round cake pan.",
+    "Top with the crumble topping, spreading it evenly.",
+    "Bake for 35-40 minutes, or until the cake is golden brown and a toothpick inserted comes out clean.",
+    "Let the cake cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tapioca",
+    "japanesecrumbly",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-nostalgic-filipino-tapioca-crumble--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:23:40.847Z"
+}
