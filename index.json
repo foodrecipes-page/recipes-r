@@ -2825,17 +2825,14 @@
   },
   {
     "slug": "rich-algerian-soya-bean-stir-fry",
-    "title": "Rich Algerian Soya Bean Stir-fry",
+    "title": "Soya Bean Stir Fry",
     "tags": [
-      "algerian",
-      "soya-beans",
-      "stir-fry",
-      "dairy-free",
-      "lemon-juice",
-      "oregano"
+      "soya-bean-stir-fry",
+      "algerian-cuisine",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "r"
   },
   {
@@ -24457,6 +24454,34 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 18,
+    "shard": "r"
+  },
+  {
+    "slug": "rum-n-crumbles--thai",
+    "title": "Thai Coconut Rum Crumble",
+    "tags": [
+      "thai",
+      "dessert",
+      "rum",
+      "coconut",
+      "crumble"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rainy-monsoon-fried-mediterranean-garlic-bowl--chinese",
+    "title": "Stir-Fried Garlic Noodles",
+    "tags": [
+      "chinese",
+      "noodle",
+      "stir-fry",
+      "garlic",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
     "shard": "r"
   }
 ]
