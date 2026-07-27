@@ -12453,17 +12453,16 @@
   },
   {
     "slug": "richly-spiced-egyptian-lamb-tagine",
-    "title": "Richly Spiced Egyptian Lamb Tagine",
+    "title": "Egyptian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked",
+      "hearty"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "r"
   },
   {
@@ -17442,16 +17441,15 @@
   },
   {
     "slug": "robust-spicy-basque-french-kale-madeleine",
-    "title": "Robust Spicy Basque French Kale Madeleine",
+    "title": "French Kale Gratin",
     "tags": [
-      "basque",
-      "breakfast",
       "french",
-      "spicy",
-      "vegan",
-      "vegetarian"
+      "kale",
+      "gratin",
+      "side-dish",
+      "cheesy"
     ],
-    "cuisine": "Basque French",
+    "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "r"
   },
@@ -24518,6 +24516,18 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-briny-greek-fish-galaktoboureko--indian",
+    "title": "Tandoori Fish Galaktoboureko",
+    "tags": [
+      "indian-fusion",
+      "fish",
+      "galaktoboureko"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
