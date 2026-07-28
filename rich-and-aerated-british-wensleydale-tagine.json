@@ -1,0 +1,68 @@
+{
+  "slug": "rich-and-aerated-british-wensleydale-tagine",
+  "title": "Wensleydale and British Tagine",
+  "description": "A rich and creamy cheese tagine made with British cheese and a touch of spice. Serve with a side of aerated bread or as a snack on its own.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "British cheese",
+      "amount": "150g",
+      "notes": "matured"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cut the Wensleydale cheese into small cubes.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the tagine spice mix and cook for 1 minute.",
+    "Add the British cheese and cook until melted and creamy.",
+    "Stir in the Wensleydale cheese cubes.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a baking dish and bake for 10-15 minutes.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "snack",
+    "british",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-aerated-british-wensleydale-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:18:54.433Z"
+}
