@@ -1,0 +1,78 @@
+{
+  "slug": "rich-silky-greek-cheonggukjang-bowl--japanese",
+  "title": "Japanese Cheonggukjang Risotto Bowl",
+  "description": "A hearty Japanese-inspired risotto dish using Korean cheonggukjang paste, served in a bowl. Rich and silky texture makes this a satisfying meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add grated ginger and sauté for 1 minute.",
+    "Add Japanese short-grain rice and stir to coat in oil and mix with ginger.",
+    "Add vegetable broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "After 20 minutes of cooking, stir in Cheonggukjang paste and miso paste. Continue to cook for another 2 minutes.",
+    "Season with soy sauce to taste.",
+    "Transfer the risotto to a large bowl. Garnish with sliced green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "cheonggukjang",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-greek-cheonggukjang-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:08:21.266Z"
+}
