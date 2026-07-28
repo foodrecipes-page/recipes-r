@@ -7609,17 +7609,14 @@
   },
   {
     "slug": "rich-red-ethiopian-fish-stew",
-    "title": "Rich Red Ethiopian Fish Stew",
+    "title": "Ethiopian Red Beef Stew",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "beef",
+      "stew",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 110,
     "shard": "r"
   },
   {
@@ -12487,16 +12484,15 @@
   },
   {
     "slug": "richly-spiced-kenyan-goat-tagine",
-    "title": "Richly Spiced Kenyan Goat Tagine",
+    "title": "Kenyan Goat Tagine",
     "tags": [
-      "african-cuisine",
-      "braise",
-      "hearty",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "kenyan",
+      "goat",
+      "tagine",
+      "stew",
+      "meat"
     ],
-    "cuisine": "African",
+    "cuisine": "Kenyan",
     "totalTimeMin": 110,
     "shard": "r"
   },
@@ -24690,6 +24686,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-light-spanish-beef-toast--chinese",
+    "title": "Cantonese Beef Toast",
+    "tags": [
+      "chinese",
+      "beef",
+      "bread",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
     "shard": "r"
   }
 ]
