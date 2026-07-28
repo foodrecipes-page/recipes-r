@@ -1,0 +1,73 @@
+{
+  "slug": "rich-italian-peach-stir-fry",
+  "title": "Stir Fry Italian Peach Salsa",
+  "description": "A sweet and tangy Italian-inspired peach salsa made by stir-frying peaches with rich herbs and spices. Serve it as an appetizer or side dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 cups, sliced",
+      "notes": null
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": null
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese (optional)",
+      "amount": "1/4 cup, shredded",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the sliced peaches and cook for 3-4 minutes or until they start to release their juices.",
+    "3. Add the minced garlic and cook for another minute.",
+    "4. Stir in the chopped basil and red pepper flakes. Season with salt to taste.",
+    "5. Continue to cook for another 2-3 minutes or until the peaches are tender.",
+    "6. Serve the peach salsa warm, topped with shredded mozzarella cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach",
+    "italian",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-peach-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:37:44.137Z"
+}
