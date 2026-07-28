@@ -1,0 +1,85 @@
+{
+  "slug": "racy-irish-chicken-skewers--chinese",
+  "title": "Chinese Chicken Skewers with Irish Spice",
+  "description": "Grilled chicken skewers with an Irish twist, marinated in a flavorful Chinese-inspired sauce.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Irish whiskey",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for marinade"
+    },
+    {
+      "name": "racy",
+      "amount": "to taste",
+      "notes": "for marinade (optional)"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, honey, garlic, ginger, and black pepper. Blend until smooth.",
+    "Add Irish whiskey to the marinade and blend until well combined.",
+    "Add chicken to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through and slightly charred.",
+    "Serve hot with additional marinade as a dipping sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "chicken",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/racy-irish-chicken-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:16:30.184Z"
+}
