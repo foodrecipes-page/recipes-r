@@ -1,0 +1,79 @@
+{
+  "slug": "roasted-mediterranean-chinese-long-beans-gratin--vegetarian",
+  "title": "Vegetarian Roasted Mediterranean Gratin",
+  "description": "A flavorful and satisfying vegetarian gratin filled with roasted vegetables, perfect for a cozy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the bottom of a 9x13-inch baking dish with olive oil.",
+    "Arrange the long beans in the baking dish.",
+    "Top the beans with the roasted red peppers, olives, and garlic.",
+    "Sprinkle the Mediterranean seasoning over the top.",
+    "Combine the grated cheese and a pinch of salt and pepper in a bowl.",
+    "Pour the cheese mixture over the vegetables.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "mediterranean",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-chinese-long-beans-gratin--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:07:36.235Z"
+}
