@@ -1,0 +1,86 @@
+{
+  "slug": "rugged-canadian-beef-burger",
+  "title": "Classic Beef Burger",
+  "description": "A simple yet flavorful burger recipe featuring a juicy beef patty, served with a variety of toppings.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "for the buns"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "for topping"
+    },
+    {
+      "name": "Cheese",
+      "amount": "2 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "for topping"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "for topping"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 jar",
+      "notes": "for topping"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal portions and shape into patties.",
+    "3. Season the patties with salt and pepper.",
+    "4. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 63°C (145°F).",
+    "5. Meanwhile, toast the buns on the grill or in a toaster.",
+    "6. Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a lettuce leaf, a tomato slice, a cheese slice (if using), a beef patty, a few slices of onion, and finally the top bun.",
+    "7. Serve immediately and enjoy!",
+    "8. Optional: top with pickles and ketchup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rugged-canadian-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:47:57.022Z"
+}
