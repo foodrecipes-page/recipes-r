@@ -1,0 +1,96 @@
+{
+  "slug": "rich-spicy-middle-eastern-lamb-tagine--mexican",
+  "title": "Spicy Lamb Tagine Tacos",
+  "description": "A fusion twist on traditional tacos, blending the rich flavors of Moroccan tagine with the bold spices of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high.",
+    "2. Sear lamb until browned, about 5 minutes. Remove from pot.",
+    "3. Add onion and cook until softened, about 5 minutes.",
+    "4. Add garlic, cumin, smoked paprika, cayenne, salt, and black pepper. Cook 1 minute.",
+    "5. Add lamb back into the pot, cover, and transfer to the oven.",
+    "6. Braise for 2 1/2 hours, or until lamb is tender.",
+    "7. Shred lamb with two forks and stir in lime juice.",
+    "8. Warm tacos shells according to package instructions.",
+    "9. Assemble tacos by spooning lamb mixture into shells and garnishing with cilantro, if desired.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "meat",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-spicy-middle-eastern-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:00:34.770Z"
+}
