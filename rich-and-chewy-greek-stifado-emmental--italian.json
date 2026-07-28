@@ -1,0 +1,61 @@
+{
+  "slug": "rich-and-chewy-greek-stifado-emmental--italian",
+  "title": "Greek-Style Stifado Emmental Paninis",
+  "description": "A twist on classic Italian paninis, using Greek stifado sauce and rich emmental cheese for a unique flavor combination.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rich Emmental Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Greek Stifado Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Italian Bread ( Ciabatta or Focaccia )",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lean Ham",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Fresh Arugula",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375°F (190°C).",
+    "Butter one side of each bread slice.",
+    "Place a slice of bread, butter side down, in the panini press.",
+    "Top with a slice of emmental cheese, a few slices of ham, a spoonful of stifado sauce, and a handful of arugula.",
+    "Place another slice of bread, butter side up, on top.",
+    "Cook for 4-5 minutes, or until the bread is toasted and the cheese is melted.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "greek",
+    "panini",
+    "emmental",
+    "stifado"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-and-chewy-greek-stifado-emmental--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:09:29.285Z"
+}
