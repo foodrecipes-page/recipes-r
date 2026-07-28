@@ -1,0 +1,94 @@
+{
+  "slug": "richly-spiced-kenyan-goat-tagine",
+  "title": "Kenyan Goat Tagine",
+  "description": "Richly spiced Kenyan goat tagine is a hearty and flavorful stew originating from East Africa.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the goat meat and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the onions, garlic, and ginger to the pot and cook until the onions are translucent, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the browned goat meat back to the pot and stir to combine.",
+    "Add the tomatoes to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the goat meat is tender.",
+    "Serve the tagine hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "goat",
+    "tagine",
+    "stew",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-kenyan-goat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:07:21.628Z"
+}
