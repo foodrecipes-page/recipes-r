@@ -1,0 +1,93 @@
+{
+  "slug": "rapid-mexican-fennel-tostada--indian",
+  "title": "Indian-Style Tostada Fritters",
+  "description": "Crispy fritters filled with Indian spices and topped with a refreshing fennel slaw. A unique twist on traditional Mexican tostadas.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 large bulb",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tostada",
+      "amount": "4-6",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "veggie oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together flour, cumin, coriander, garam masala, and salt.",
+    "Add grated fennel, chopped onion, and crushed tostada crumbs to the bowl. Mix well.",
+    "Gradually add water to the bowl to form a thick batter.",
+    "Heat oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small portions of the batter into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a bowl, mix together grated fennel, lemon juice, and salt. Refrigerate the slaw until ready to serve.",
+    "Serve the fritters hot with a dollop of fennel slaw on top.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rapid-mexican-fennel-tostada--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:21:43.194Z"
+}
