@@ -1,0 +1,82 @@
+{
+  "slug": "rich-italian-peach-stir-fry--vegan",
+  "title": "Peachy Vegan Stir Fry",
+  "description": "A simple and delicious vegan stir fry recipe featuring juicy peaches and rich flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup uncooked",
+      "notes": ""
+    },
+    {
+      "name": "vegan stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the bell peppers and cook for 3-4 minutes, or until tender.",
+    "Add the garlic powder and cook for 1 minute, stirring constantly.",
+    "Add the peaches and cook for an additional 2-3 minutes, or until tender.",
+    "Stir in the vegan stir fry sauce and cook for 1 minute.",
+    "Serve the peachy stir fry over steaming hot rice.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "peach",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-italian-peach-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:29:10.677Z"
+}
