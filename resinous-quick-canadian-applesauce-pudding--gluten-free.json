@@ -1,0 +1,54 @@
+{
+  "slug": "resinous-quick-canadian-applesauce-pudding--gluten-free",
+  "title": "Pudding Parfait",
+  "description": "A layered dessert made with gluten-free pudding and applesauce.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "quick pudding",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "resinous",
+      "amount": "0.5 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together pudding and applesauce until well combined.",
+    "Add resinous if desired and stir to combine.",
+    "Spoon the mixture into individual serving cups or glasses.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-quick-canadian-applesauce-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:45:17.242Z"
+}
