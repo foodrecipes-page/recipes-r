@@ -1,0 +1,85 @@
+{
+  "slug": "rich-light-spanish-beef-toast--chinese",
+  "title": "Cantonese Beef Toast",
+  "description": "A Chinese-inspired dish featuring tender beef and crispy toast, served with a sweet and savory sauce.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Rich hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "for glazing"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Toast (white bread)",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Scallions (green onions)",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish (optional)"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced (for marinade)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced (for marinade)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together light soy sauce, hoisin sauce, olive oil, ginger, and garlic. Add the sliced beef and marinate for at least 30 minutes.",
+    "3. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "4. Brush both sides of the toast with olive oil and toast in the oven for 2-3 minutes, or until crispy.",
+    "5. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat. Add the marinated beef and cook for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "6. Assemble the dish by placing a slice of toasted bread on each plate, topping with a few slices of beef, and garnishing with scallions and sesame seeds (if using).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-light-spanish-beef-toast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:39:23.994Z"
+}
