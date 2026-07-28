@@ -2233,17 +2233,13 @@
   },
   {
     "slug": "resinous-quick-canadian-applesauce-pudding",
-    "title": "Resinous Quick Canadian Applesauce Pudding",
+    "title": "Canadian Apple Crisp",
     "tags": [
-      "applesauce-pudding",
-      "canadian-dessert",
-      "easy-dessert",
-      "jain-friendly",
-      "quick-fix",
-      "vegetarian"
+      "canadian",
+      "apple"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "cuisine": "North American",
+    "totalTimeMin": 55,
     "shard": "r"
   },
   {
@@ -2878,17 +2874,15 @@
   },
   {
     "slug": "rich-and-aerated-british-wensleydale-tagine",
-    "title": "Rich and Aerated British Wensleydale Tagine",
+    "title": "Wensleydale and British Tagine",
     "tags": [
+      "cheese",
+      "snack",
       "british",
-      "cheesy",
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "easy"
     ],
     "cuisine": "british",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "r"
   },
   {
@@ -24594,6 +24588,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-aerated-kenyan-dinner-meat-biryani--keto",
+    "title": "Kenyan Biryani Keto Dinner",
+    "tags": [
+      "kenyan",
+      "biryani",
+      "keto",
+      "dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "r"
   }
 ]
