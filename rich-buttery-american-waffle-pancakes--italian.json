@@ -1,0 +1,83 @@
+{
+  "slug": "rich-buttery-american-waffle-pancakes--italian",
+  "title": "Italian-Style Waffle Pancake Sandwich",
+  "description": "A creative twist on traditional pancakes, topped with a rich Italian-inspired filling and wrapped in a crispy waffle.",
+  "cuisine": "Italian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Waffle",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "American Pancake Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Caramel Sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup",
+      "notes": "strawberries, blueberries, raspberries"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Whipped Cream",
+      "amount": "1 cup",
+      "notes": "heavy cream and vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Cook the American pancake mix according to package instructions.",
+    "Meanwhile, toast the waffle in the same skillet until crispy.",
+    "In a small saucepan, melt 1 tablespoon of butter over low heat.",
+    "Add the caramel sauce to the melted butter and stir until smooth.",
+    "Once the pancakes are cooked, place one on a flat surface.",
+    "Spread a layer of whipped cream on top of the pancake.",
+    "Add a layer of fresh berries on top of the whipped cream.",
+    "Place the toasted waffle on top of the berries.",
+    "Drizzle the caramel sauce over the waffle.",
+    "Sprinkle powdered sugar on top of the waffle.",
+    "Fold the waffle in half to create a sandwich, pressing gently."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "sandwich",
+    "waffle",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-buttery-american-waffle-pancakes--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:33:41.495Z"
+}
