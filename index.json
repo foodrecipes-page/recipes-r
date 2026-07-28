@@ -24080,15 +24080,14 @@
   },
   {
     "slug": "robust-refreshing-greek-butter-beans-spanakopita--german",
-    "title": "German Beans and Spinach Stew",
+    "title": "German-Style White Bean and Spinach Stew",
     "tags": [
       "german",
-      "beans",
-      "spinach",
-      "stew"
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "german",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "r"
   },
   {
@@ -24869,6 +24868,19 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-flaky-irish-carnaroli-rice-risotto--indian",
+    "title": "Creamy Irish Risotto",
+    "tags": [
+      "indian",
+      "risotto",
+      "creamy",
+      "potatoes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
