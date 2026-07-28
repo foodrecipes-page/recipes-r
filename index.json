@@ -24843,5 +24843,32 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "r"
+  },
+  {
+    "slug": "racy-irish-chicken-skewers--chinese",
+    "title": "Chinese Chicken Skewers with Irish Spice",
+    "tags": [
+      "chinese",
+      "chicken",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-buttery-american-waffle-pancakes--italian",
+    "title": "Italian-Style Waffle Pancake Sandwich",
+    "tags": [
+      "italian",
+      "breakfast",
+      "sandwich",
+      "waffle",
+      "pancakes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "r"
   }
 ]
