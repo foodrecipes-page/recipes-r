@@ -1,0 +1,86 @@
+{
+  "slug": "robustly-roasted-greek-lamb-spanakopita--french",
+  "title": "Lamb Spanakopita Casserole",
+  "description": "A French twist on the classic Greek dish, combining the flavors of lamb and spanakopita in a hearty casserole.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Frozen spanakopita, thawed",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat. Add lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from skillet and set aside. Add onion and garlic to skillet and cook until onion is translucent, about 3-4 minutes.",
+    "Add frozen spanakopita to skillet and cook for an additional 2 minutes.",
+    "In a large bowl, combine cooked lamb, spanakopita mixture, feta cheese, parsley, salt, and black pepper.",
+    "Transfer mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove foil and continue baking for an additional 10-15 minutes, or until lamb is cooked through.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "spanakopita",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-roasted-greek-lamb-spanakopita--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:14:02.715Z"
+}
