@@ -19110,17 +19110,13 @@
   },
   {
     "slug": "rugged-canadian-beef-burger",
-    "title": "Rugged Canadian Beef Burger",
+    "title": "Classic Beef Burger",
     "tags": [
-      "briny",
-      "burger",
-      "canadian",
-      "dash-friendly",
-      "high-protein",
-      "quick"
+      "beef",
+      "burger"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 27,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "r"
   },
   {
@@ -24733,6 +24729,46 @@
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 50,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-spicy-middle-eastern-lamb-tagine--mexican",
+    "title": "Spicy Lamb Tagine Tacos",
+    "tags": [
+      "mexican",
+      "meat",
+      "lamb",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-and-chewy-greek-stifado-emmental--italian",
+    "title": "Greek-Style Stifado Emmental Paninis",
+    "tags": [
+      "italian",
+      "greek",
+      "panini",
+      "emmental",
+      "stifado"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-french-milk-chocolate-ratatouille--mexican",
+    "title": "Mexican Chocolate Flan",
+    "tags": [
+      "mexican",
+      "chocolate",
+      "dessert",
+      "flan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
     "shard": "r"
   }
 ]
