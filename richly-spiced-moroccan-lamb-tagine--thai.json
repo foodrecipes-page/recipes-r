@@ -1,0 +1,92 @@
+{
+  "slug": "richly-spiced-moroccan-lamb-tagine--thai",
+  "title": "Spiced Lamb Tagine with Moroccan Flair",
+  "description": "A unique fusion of Thai and Moroccan flavors in a hearty lamb tagine. Richly spiced and aromatic, this dish is perfect for adventurous foodies.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Bone-in or boneless, your preference"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Spiced Moroccan rub",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay pot over medium heat.",
+    "Brown the lamb shoulder on all sides, about 5 minutes per side.",
+    "Remove lamb and set aside.",
+    "Add onion, ginger, and garlic to the pot, cooking until softened, about 5 minutes.",
+    "Add Moroccan rub and curry paste, cooking for 1 minute.",
+    "Add chicken broth and diced tomatoes, scraping up any browned bits.",
+    "Return lamb to the pot, cover, and bring to a simmer.",
+    "Transfer pot to the oven and cook at 300°F (150°C) for 2.5 hours, or until lamb is tender.",
+    "Skim excess fat from the surface and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "thai",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-moroccan-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:02:22.732Z"
+}
