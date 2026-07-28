@@ -1,0 +1,81 @@
+{
+  "slug": "robust-umami-peruvian-fish-ceviche-clasico",
+  "title": "Ceviche Clasico",
+  "description": "A classic Peruvian dish made with raw fish marinated in citrus juices and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Robust red snapper",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Peruvian ceviche marinade",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Umami-rich soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Fish-friendly spices",
+      "amount": "to taste",
+      "notes": "Paprika, cumin, or aji amarillo"
+    }
+  ],
+  "instructions": [
+    "Cut the snapper into small, bite-sized pieces.",
+    "In a large bowl, combine the ceviche marinade, red onion, cilantro, lime juice, soy sauce (if using), salt, and fish-friendly spices.",
+    "Add the snapper to the marinade and mix well to coat.",
+    "Refrigerate for at least 30 minutes to allow the fish to 'cook' in the citrus juices.",
+    "Just before serving, stir in some chopped cilantro and a squeeze of lime juice.",
+    "Serve the ceviche in small glasses or bowls, garnished with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fish",
+    "ceviche",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-umami-peruvian-fish-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:03:34.257Z"
+}
