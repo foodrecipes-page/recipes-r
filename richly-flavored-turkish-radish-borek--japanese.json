@@ -1,0 +1,74 @@
+{
+  "slug": "richly-flavored-turkish-radish-borek--japanese",
+  "title": "Turkish-Style Radish Borek",
+  "description": "A Japanese-inspired twist on traditional Turkish borek, with the addition of radish and rich flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Radish",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Available at most international stores"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut the dough into 4-6 equal pieces.",
+    "Place a sheet of dough on a flat surface and brush with butter.",
+    "Sprinkle a quarter of the radish slices onto the dough, leaving a 1/2 inch border.",
+    "Sprinkle a quarter of the mozzarella cheese onto the radish.",
+    "Sprinkle a pinch of Turkish spice blend onto the cheese.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Place the borek on a baking sheet lined with parchment paper.",
+    "Brush the tops with butter and bake for 25-30 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "turkish",
+    "breakfast",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-flavored-turkish-radish-borek--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:02:54.861Z"
+}
