@@ -1,0 +1,82 @@
+{
+  "slug": "rich-malay-turkey-curry--vegetarian",
+  "title": "Malay Vegetable Curry",
+  "description": "A flavorful and aromatic curry dish made with rich coconut milk and a variety of vegetables. Perfect for a vegetarian dinner option.",
+  "cuisine": "malay",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Rich coconut milk",
+      "amount": "1 can (14 oz), full-fat"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup, trimmed and cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the turmeric, cumin, and curry powder. Cook for 1 minute.",
+    "Add the chopped carrots and potatoes. Cook for 5 minutes.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the vegetables are tender, about 15 minutes.",
+    "Stir in the green beans and cook until tender, about 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "curry",
+    "malay"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-malay-turkey-curry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:45:24.913Z"
+}
