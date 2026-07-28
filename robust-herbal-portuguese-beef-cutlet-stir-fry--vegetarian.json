@@ -1,0 +1,84 @@
+{
+  "slug": "robust-herbal-portuguese-beef-cutlet-stir-fry--vegetarian",
+  "title": "Portuguese Stir Fry Vegetables",
+  "description": "A flavorful and colorful stir fry made with a variety of vegetables and robust herbs, served as a vegetarian dinner option.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese Robust Herbs",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Color Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cutlets",
+      "amount": "1 bunch",
+      "notes": "Portobello mushrooms replace traditional cutlet"
+    },
+    {
+      "name": "Fry Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Stir Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Vegetable Oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the sliced onions and cook until they start to caramelize.",
+    "Add the sliced bell peppers and cook until they are tender.",
+    "Add the portobello mushrooms and cook until they are tender.",
+    "Season with salt, black pepper, and garlic powder.",
+    "Sprinkle the Portuguese Robust Herbs on top and stir well.",
+    "Serve hot and enjoy.",
+    "Garnish with additional herbs if desired.",
+    "Serve with your favorite sides or as a standalone dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robust-herbal-portuguese-beef-cutlet-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:58:04.119Z"
+}
