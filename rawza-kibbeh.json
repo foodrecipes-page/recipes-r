@@ -1,0 +1,68 @@
+{
+  "slug": "rawza-kibbeh",
+  "title": "Kibbeh Rawza",
+  "description": "A classic Middle Eastern dish consisting of ground meat and bulgur mixture, served raw with a side of rawza sauce. This variation is a refreshing twist on the traditional kibbeh, perfect for warm weather.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "rawza",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kibbeh",
+      "amount": "1 pound"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine kibbeh, bulgur, onion, parsley, salt, and black pepper. Mix well with your hands until all ingredients are fully incorporated.",
+    "Add the rawza to the bowl and mix until the ingredients are well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, shape the mixture into small patties or balls.",
+    "Serve the kibbeh rawza with rawza sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "appetizer",
+    "raw"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rawza-kibbeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:30:17.241Z"
+}
