@@ -1,0 +1,95 @@
+{
+  "slug": "richly-spiced-vietnamese-chicken-curry",
+  "title": "Vietnamese Chicken Curry",
+  "description": "A flavorful and aromatic curry made with chicken, a blend of Vietnamese spices, and a rich coconut milk sauce. Serve over steamed rice for a satisfying and delicious meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "richly spiced curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the curry powder to the pan and cook for 1-2 minutes, until fragrant.",
+    "Add the fish sauce, sugar, and chicken broth to the pan and stir to combine.",
+    "Return the chicken to the pan and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Stir in the coconut milk and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh cilantro and serve over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "curry",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/richly-spiced-vietnamese-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:31:47.692Z"
+}
