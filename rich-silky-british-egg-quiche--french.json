@@ -1,0 +1,85 @@
+{
+  "slug": "rich-silky-british-egg-quiche--french",
+  "title": "French Quiche Lorraine",
+  "description": "A classic French dish made with eggs, cream, and lardons, perfect for a weekend brunch.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian",
+    "Dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quiche crust",
+      "amount": "1",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lardons",
+      "amount": "1/2 cup",
+      "notes": "Small pieces of bacon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "3",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": "Gruyère or Swiss"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the quiche crust and place it in a tart pan.",
+    "In a skillet, cook the lardons over medium heat until crispy.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "In a large bowl, whisk together the eggs, cream, and a pinch of salt and pepper.",
+    "Add the cooked lardons and onion to the bowl and stir to combine.",
+    "Pour the egg mixture into the quiche crust.",
+    "Sprinkle the grated cheese over the top of the quiche.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "quiche",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-british-egg-quiche--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:01:21.366Z"
+}
