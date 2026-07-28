@@ -1,0 +1,93 @@
+{
+  "slug": "rich-flaky-irish-carnaroli-rice-risotto--indian",
+  "title": "Creamy Irish Risotto",
+  "description": "A rich and creamy Indian-inspired risotto dish made with Irish potatoes and Carnaroli rice.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for an additional minute.",
+    "Add the Carnaroli rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add 2 cups of the chicken broth to the skillet and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process, adding the remaining 2 cups of broth in 1/2 cup increments, until the rice is cooked and creamy.",
+    "Stir in the heavy cream and garam masala.",
+    "Add the diced Irish potatoes to the skillet and cook for an additional 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve the risotto hot, garnished with a sprinkle of rice and a dollop of heavy cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "risotto",
+    "creamy",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-flaky-irish-carnaroli-rice-risotto--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:16:23.547Z"
+}
