@@ -1,0 +1,69 @@
+{
+  "slug": "resinous-quick-canadian-applesauce-pudding",
+  "title": "Canadian Apple Crisp",
+  "description": "A delicious dessert made with Canadian apples and a crunchy oat topping.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian apples",
+      "amount": "6",
+      "notes": "Granny Smith apples work well."
+    },
+    {
+      "name": "resinous",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon"
+    },
+    {
+      "name": "quick",
+      "amount": "1 cup",
+      "notes": "Quick oats"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup",
+      "notes": "Applesauce adds moisture to the crisp."
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "Vanilla pudding to top the crisp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the apples. Mix with applesauce and set aside.",
+    "In a separate bowl, mix together quick, resinous, and a pinch of salt.",
+    "Add the dry mixture to the apple mixture and stir until combined.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "In a separate bowl, mix together more quick and a bit of resinous.",
+    "Add a bit more resinous to taste.",
+    "Top the apple mixture with the oat mixture and bake for 35-40 minutes.",
+    "Remove from the oven and top with pudding.",
+    "Return to the oven for an additional 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/resinous-quick-canadian-applesauce-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:40:02.398Z"
+}
