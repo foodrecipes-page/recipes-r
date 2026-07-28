@@ -1,0 +1,57 @@
+{
+  "slug": "radiant-saudi-deodeok-soup--thai",
+  "title": "Spicy Deodeok and Radiant Stir Fry",
+  "description": "A flavorful and spicy Thai-inspired stir fry featuring deodeok and radiant. Perfect as a snack or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "deodeok",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "radiant",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "soup",
+      "amount": "2 tablespoons, vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of saudi oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced radiant and cook until tender, about 3-4 minutes.",
+    "Add the chopped saudi and cook for an additional minute.",
+    "Add the deodeok and vegetable broth, stir-frying until the deodeok is tender.",
+    "Season with additional saudi if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "deodeok"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/radiant-saudi-deodeok-soup--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:27:42.142Z"
+}
