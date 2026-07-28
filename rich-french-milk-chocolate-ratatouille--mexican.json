@@ -1,0 +1,70 @@
+{
+  "slug": "rich-french-milk-chocolate-ratatouille--mexican",
+  "title": "Mexican Chocolate Flan",
+  "description": "A twist on the classic dessert, infused with Mexican chocolate and a hint of spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mexican chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Rich milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ratatouille",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a saucepan, combine the chocolate, sugar, and 1/2 cup of the milk. Heat over low heat, stirring until the chocolate is melted.",
+    "In a separate bowl, whisk together the eggs and remaining milk.",
+    "Add the egg mixture to the chocolate mixture and stir until well combined.",
+    "Add the vanilla extract and stir to combine.",
+    "Pour the mixture into 4 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45-50 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "To serve, run a knife around the edges of each ramekin and invert onto plates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chocolate",
+    "dessert",
+    "flan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-french-milk-chocolate-ratatouille--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:10:36.073Z"
+}
