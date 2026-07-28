@@ -1207,14 +1207,14 @@
   },
   {
     "slug": "rawza-kibbeh",
-    "title": "Rawza Kibbeh",
+    "title": "Kibbeh Rawza",
     "tags": [
-      "raw-friendly",
-      "ethiopian",
-      "flour-based"
+      "middle-eastern",
+      "appetizer",
+      "raw"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -24528,6 +24528,72 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-crispy-thai-beef-larb--vegan",
+    "title": "Vegan Thai Larb",
+    "tags": [
+      "vegan",
+      "thai",
+      "larb",
+      "tempeh",
+      "crispy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "ripe-mexican-dates-bowl--french",
+    "title": "French Date Crumble",
+    "tags": [
+      "crumble",
+      "dessert",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "red-blaze-low-carb-shawarma--vegan",
+    "title": "Spicy Red Shawarma Wrap",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "middle-eastern",
+      "spicy",
+      "lunch"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-silky-british-egg-quiche--french",
+    "title": "French Quiche Lorraine",
+    "tags": [
+      "french",
+      "quiche",
+      "brunch"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-flavored-turkish-radish-borek--japanese",
+    "title": "Turkish-Style Radish Borek",
+    "tags": [
+      "japanese",
+      "turkish",
+      "breakfast",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "r"
   }
 ]
