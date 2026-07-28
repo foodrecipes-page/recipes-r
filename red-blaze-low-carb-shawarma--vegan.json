@@ -1,0 +1,80 @@
+{
+  "slug": "red-blaze-low-carb-shawarma--vegan",
+  "title": "Spicy Red Shawarma Wrap",
+  "description": "A flavorful vegan wrap inspired by the classic Middle Eastern shawarma, featuring roasted red peppers and a spicy kick.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": "any color bell pepper will do"
+    },
+    {
+      "name": "Carb wrap",
+      "amount": "1",
+      "notes": "whole wheat or whole grain wrap"
+    },
+    {
+      "name": "Low carb hummus",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shawarma spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the red bell pepper on a baking sheet and roast for 30-40 minutes, or until the skin is blistered and charred.",
+    "Remove the pepper from the oven and let it cool. Then peel off the skin, discarding it.",
+    "In a small bowl, whisk together the shawarma spice blend and red pepper flakes.",
+    "Add the spice blend to the low carb hummus and stir to combine.",
+    "Warm the carb wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the hummus mixture evenly over the wrap.",
+    "Slice the roasted red pepper and add it to the wrap, along with the chopped parsley and sliced red onion (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "middle-eastern",
+    "spicy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/red-blaze-low-carb-shawarma--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:00:16.417Z"
+}
