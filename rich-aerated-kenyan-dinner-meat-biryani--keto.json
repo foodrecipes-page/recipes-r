@@ -1,0 +1,84 @@
+{
+  "slug": "rich-aerated-kenyan-dinner-meat-biryani--keto",
+  "title": "Kenyan Biryani Keto Dinner",
+  "description": "A keto version of the traditional Kenyan biryani dish, made with flavorful meat and spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": "Choose a high-fat cut of meat, suitable for a keto diet."
+    },
+    {
+      "name": "Rice (cauliflower-based or coconut-based)",
+      "amount": "100g",
+      "notes": "Use a low-carb alternative to traditional rice."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped, to add flavor and texture."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, to add flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated, to add flavor and aroma."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and adding flavor."
+    },
+    {
+      "name": "Spices (cumin, coriander, turmeric, paprika)",
+      "amount": "1 teaspoon each",
+      "notes": "To add flavor and aroma."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To season and bring out flavors."
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onions and cook until they're lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, until fragrant.",
+    "Add the beef and cook until browned, about 5-7 minutes.",
+    "Add the spices, salt, and rice to the pan and stir to combine.",
+    "Cook for another 5-7 minutes, until the rice is lightly toasted.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until the meat is cooked through and the rice is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "biryani",
+    "keto",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-aerated-kenyan-dinner-meat-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:09:52.334Z"
+}
