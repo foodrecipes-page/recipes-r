@@ -1,0 +1,94 @@
+{
+  "slug": "roasted-crispy-thai-beef-larb--vegan",
+  "title": "Vegan Thai Larb",
+  "description": "A plant-based twist on the classic Thai dish, using crispy tempeh instead of meat. This vegan larb is spicy, sour, and sweet all at once.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "crispy"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegan substitute"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium-high heat.",
+    "Add the tempeh and cook until crispy, about 3-4 minutes.",
+    "Add the onion, mushrooms, bell pepper, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the lime juice, fish sauce, soy sauce, chili flakes, and brown sugar. Stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Stir in the cilantro and cook for 1 minute.",
+    "Serve the larb hot, garnished with additional cilantro if desired.",
+    "Serve with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai",
+    "larb",
+    "tempeh",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-crispy-thai-beef-larb--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:41:20.781Z"
+}
