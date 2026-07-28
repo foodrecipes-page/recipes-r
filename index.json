@@ -6138,15 +6138,14 @@
   },
   {
     "slug": "rich-italian-peach-stir-fry",
-    "title": "Rich Italian Peach Stir-fry",
+    "title": "Stir Fry Italian Peach Salsa",
     "tags": [
-      "rich-italian-peach-stir-fry",
-      "silkysicilian",
-      "crowdpleaser",
-      "diabetic-friendly"
+      "peach",
+      "italian",
+      "salsa"
     ],
-    "cuisine": "Italian (Sicilian)",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "r"
   },
   {
@@ -24601,6 +24600,58 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "resinous-quick-canadian-applesauce-pudding--gluten-free",
+    "title": "Pudding Parfait",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "pudding"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-spiced-moroccan-lamb-tagine--thai",
+    "title": "Spiced Lamb Tagine with Moroccan Flair",
+    "tags": [
+      "lamb",
+      "tagine",
+      "moroccan",
+      "thai",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 180,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-polish-vietnamese-sausage-pho--gluten-free",
+    "title": "Vietnamese Pho with Sausage",
+    "tags": [
+      "gluten-free",
+      "vietnamese",
+      "pho",
+      "sausage",
+      "noodle-bowl"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-italian-peach-stir-fry--vegan",
+    "title": "Peachy Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "peach",
+      "stirfry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
