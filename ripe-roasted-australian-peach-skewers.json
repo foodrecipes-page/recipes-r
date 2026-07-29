@@ -1,0 +1,62 @@
+{
+  "slug": "ripe-roasted-australian-peach-skewers",
+  "title": "Australian Peach Skewers",
+  "description": "A sweet and refreshing dessert featuring grilled peaches and a hint of Australian charm. Perfect for warm summer evenings.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe peaches",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "australian honey",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 dozen",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread 2-3 peach pieces onto each skewer.",
+    "Brush skewers with a little honey and season with salt.",
+    "Grill skewers for 2-3 minutes per side, or until peaches are tender and lightly charred.",
+    "Drizzle additional honey over skewers and sprinkle with chopped almonds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach",
+    "australian",
+    "dessert",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ripe-roasted-australian-peach-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:07:11.354Z"
+}
