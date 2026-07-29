@@ -24994,5 +24994,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "radiant-kenyan-orange-salad--vegan",
+    "title": "Vegan Kenyan Salad",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "salad",
+      "easy"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-shattering-american-chocolate-pie--gluten-free",
+    "title": "American Chocolate Pie",
+    "tags": [
+      "american",
+      "chocolate",
+      "pie",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 60,
+    "shard": "r"
   }
 ]
