@@ -1,0 +1,88 @@
+{
+  "slug": "robustly-spiced-indian-sausages-chana-masala--mexican",
+  "title": "Sausage and Chana Masala Taco",
+  "description": "A twist on traditional tacos, featuring spicy Mexican-style sausage and a rich, Indian-inspired chana masala sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spiced sausages",
+      "amount": "4",
+      "notes": "Mexican-style sausages, sliced"
+    },
+    {
+      "name": "chana masala",
+      "amount": "1 can",
+      "notes": "Indian-inspired chana masala sauce"
+    },
+    {
+      "name": "robustly",
+      "amount": "1 can",
+      "notes": "black beans, drained and rinsed"
+    },
+    {
+      "name": "indian",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced sausages and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Stir in the chana masala sauce and cook for 1-2 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the sausage and chana masala mixture onto a tortilla, followed by a spoonful of black beans and a sprinkle of shredded cheese.",
+    "Serve with sour cream and cilantro, if desired.",
+    "Cook time: 10-12 minutes",
+    "Prep time: 10-12 minutes",
+    "Total time: 20-24 minutes",
+    "Servings: 4-6",
+    "Difficulty: easy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 5,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "indian",
+    "vegetarian",
+    "sausage",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/robustly-spiced-indian-sausages-chana-masala--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:32:01.219Z"
+}
