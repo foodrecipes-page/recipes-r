@@ -1,0 +1,68 @@
+{
+  "slug": "roasted-mediterranean-squash-skillet--german",
+  "title": "German Skillet Squash",
+  "description": "A hearty German-inspired dish featuring roasted squash, mediterranean flavors, and a crispy skillet finish.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "Mediterranean Roasted Red Pepper Hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Garlic Bread",
+      "amount": "1 slice, for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss squash cubes with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "3. In a large skillet, heat remaining 1 tablespoon olive oil over medium-high heat.",
+    "4. Add roasted squash to the skillet and cook for 5-7 minutes, or until crispy.",
+    "5. Stir in Mediterranean roasted red pepper hummus and cook for an additional 2-3 minutes.",
+    "6. Serve squash mixture over garlic bread and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skillet",
+    "squash"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-mediterranean-squash-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:13:23.401Z"
+}
