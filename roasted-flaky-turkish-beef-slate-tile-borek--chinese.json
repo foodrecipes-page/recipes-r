@@ -1,0 +1,74 @@
+{
+  "slug": "roasted-flaky-turkish-beef-slate-tile-borek--chinese",
+  "title": "Slate Turkish Borek",
+  "description": "A Chinese-inspired twist on the Turkish borek pastry, served as a savory snack or light meal. Flaky crust gives way to tender beef and spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry to a thickness of 1/8 inch.",
+    "In a pan over medium-high heat, cook beef until browned, breaking into small pieces.",
+    "Add soy sauce, scallions, and ginger to the pan and stir to combine.",
+    "Place a tablespoon of the beef mixture onto one half of the pastry rectangle.",
+    "Fold the other half of the pastry over to form a triangle or square shape.",
+    "Bake for 15-20 minutes, or until pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "beef",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-flaky-turkish-beef-slate-tile-borek--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:27:29.169Z"
+}
