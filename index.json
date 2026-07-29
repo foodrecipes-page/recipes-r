@@ -24882,5 +24882,43 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "r"
+  },
+  {
+    "slug": "richly-spiced-egyptian-lamb-tagine--german",
+    "title": "Spiced Lamb Tagine German-Style",
+    "tags": [
+      "german",
+      "lamb",
+      "tagine",
+      "braise"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "r"
+  },
+  {
+    "slug": "rich-whole30-ethiopian-lamb-kitfo--vegan",
+    "title": "Vegan Kitfo-Style Tibs",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "seitan",
+      "tibs"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "refreshing-quick-italian-zucchini-pasta--vegetarian",
+    "title": "Zucchini Pasta with Italian Flair",
+    "tags": [
+      "italian",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
