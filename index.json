@@ -24942,5 +24942,57 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "r"
+  },
+  {
+    "slug": "robustly-spiced-indian-sausages-chana-masala--mexican",
+    "title": "Sausage and Chana Masala Taco",
+    "tags": [
+      "mexican",
+      "indian",
+      "vegetarian",
+      "sausage",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "r"
+  },
+  {
+    "slug": "rugged-canadian-beef-burger--french",
+    "title": "French-Style Beef Burger",
+    "tags": [
+      "french",
+      "beef",
+      "burger",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-mediterranean-squash-skillet--german",
+    "title": "German Skillet Squash",
+    "tags": [
+      "german",
+      "skillet",
+      "squash"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "r"
+  },
+  {
+    "slug": "roasted-flaky-turkish-beef-slate-tile-borek--chinese",
+    "title": "Slate Turkish Borek",
+    "tags": [
+      "chinese",
+      "turkish",
+      "beef",
+      "pastry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "r"
   }
 ]
