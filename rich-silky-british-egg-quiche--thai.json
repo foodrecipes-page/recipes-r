@@ -1,0 +1,87 @@
+{
+  "slug": "rich-silky-british-egg-quiche--thai",
+  "title": "Thai Egg Quiche",
+  "description": "A unique fusion of British quiche and Thai flavors. Enjoy this egg-cellent dish for breakfast or brunch.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rich egg",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "silky british",
+      "amount": "1 cup",
+      "notes": "pastry dough, chilled"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "quiche",
+      "amount": "1 cup",
+      "notes": "shredded chicken"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "squeezed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the chilled pastry dough and place it in a 9-inch tart pan.",
+    "In a large bowl, whisk together the beaten eggs, salt, and a pinch of black pepper.",
+    "Add the shredded chicken, chopped Thai basil, fish sauce, and chili flakes (if using) to the egg mixture. Stir well.",
+    "Pour the egg mixture into the pastry-lined tart pan.",
+    "If using cheese, sprinkle it evenly over the egg mixture.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Slice the quiche into wedges and serve warm.",
+    "Enjoy your Thai Egg Quiche!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thaifusion",
+    "quiche",
+    "breakfast",
+    "brunch",
+    "egg",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-silky-british-egg-quiche--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:23:35.307Z"
+}
