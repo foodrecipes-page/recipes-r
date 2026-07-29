@@ -1,0 +1,91 @@
+{
+  "slug": "rustic-portuguese-daikon-sandwich",
+  "title": "Portuguese-Style Bifana Sandwiches",
+  "description": "Inspired by traditional Portuguese street food, these bifana sandwiches feature tender pork served on a rustic baguette with sliced daikon and a tangy slaw.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "russian vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "russian dill pickles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "russian rye bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the pork shoulder with salt and black pepper. Roast in the oven for 20 minutes.",
+    "In a bowl, combine Russian vinegar, garlic, and roasted pork. Refrigerate for at least 2 hours.",
+    "Slice the daikon into thin strips.",
+    "Assemble the sandwiches by spreading mayonnaise on the rustic bread, followed by the pickled daikon, roasted pork, and daikon slices.",
+    "Drizzle with red wine vinegar.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pork",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rustic-portuguese-daikon-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:11:26.677Z"
+}
