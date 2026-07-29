@@ -1,0 +1,72 @@
+{
+  "slug": "rich-shattering-american-chocolate-pie--gluten-free",
+  "title": "American Chocolate Pie",
+  "description": "A rich and decadent pie filled with a velvety chocolate filling. This gluten-free dessert is perfect for satisfying your sweet tooth.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "crust",
+      "amount": "1 pie crust (homemade or store-bought gluten-free)",
+      "notes": "Make sure to choose a gluten-free crust."
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup semisweet chocolate chips",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup heavy cream",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup granulated sugar",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2 large eggs",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp vanilla extract",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Roll out the pie crust and place it in a 9-inch pie dish.",
+    "In a medium saucepan over low heat, melt the chocolate chips and cream, stirring occasionally.",
+    "Once melted, remove from heat and stir in the sugar, eggs, and vanilla extract.",
+    "Pour the chocolate mixture into the pie crust.",
+    "Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "Let cool to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "american",
+    "chocolate",
+    "pie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-shattering-american-chocolate-pie--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:22:15.480Z"
+}
