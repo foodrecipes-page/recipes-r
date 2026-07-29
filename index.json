@@ -14057,16 +14057,15 @@
   },
   {
     "slug": "roasted-flaky-turkish-beef-slate-tile-borek",
-    "title": "Roasted, Flaky Turkish Beef Slate-Tile Borek",
+    "title": "Turkish Borek Beef Pastries",
     "tags": [
+      "turkish",
       "beef",
-      "borek",
-      "brunch",
-      "special-occasion",
-      "turkish"
+      "pastries",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "r"
   },
   {
@@ -19464,17 +19463,14 @@
   },
   {
     "slug": "rustic-portuguese-daikon-sandwich",
-    "title": "Rustic Portuguese Daikon Sandwich",
+    "title": "Portuguese-Style Bifana Sandwiches",
     "tags": [
-      "breakfast",
-      "brunch",
-      "dairy-free",
-      "pescatarian",
       "portuguese",
-      "quick"
+      "pork",
+      "sandwich"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "r"
   },
   {
@@ -24932,6 +24928,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "r"
+  },
+  {
+    "slug": "richly-filled-norwegian-egg-spring-rolls--indian",
+    "title": "Norwegian Spring Rolls",
+    "tags": [
+      "indianfood",
+      "norwegianfood",
+      "springrolls",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "r"
   }
 ]
