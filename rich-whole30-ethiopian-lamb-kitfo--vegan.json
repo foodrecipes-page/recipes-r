@@ -1,0 +1,87 @@
+{
+  "slug": "rich-whole30-ethiopian-lamb-kitfo--vegan",
+  "title": "Vegan Kitfo-Style Tibs",
+  "description": "Inspired by Ethiopian kitfo, this vegan version uses seitan and spices to mimic the original's rich flavor. Serve with injera or rice for a delicious and filling meal.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 block",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion, garlic, and ginger and cook, stirring occasionally, until the onion is translucent.",
+    "Add the seitan and cook, stirring occasionally, until browned on all sides.",
+    "Add the berbere spice and tamarind paste and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over injera or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "seitan",
+    "tibs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rich-whole30-ethiopian-lamb-kitfo--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:45:50.373Z"
+}
