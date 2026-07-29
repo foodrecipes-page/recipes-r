@@ -1,0 +1,83 @@
+{
+  "slug": "roasted-algerian-chicken-tacos--italian",
+  "title": "Chicken Fettuccine Alfredo Tacos",
+  "description": "A creative twist on Italian chicken fettuccine alfredo, served in a crispy taco shell.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Roasted garlic fettuccine",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy taco shells",
+      "amount": "4 shells"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the fettuccine according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the chicken breasts and cook until browned and cooked through.",
+    "Add the roasted garlic, Algerian spices, and Parmesan cheese to the skillet.",
+    "Stir to combine and cook until the cheese is melted.",
+    "Add the cooked fettuccine to the skillet and toss to combine.",
+    "Warm the taco shells by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken and fettuccine mixture into the taco shells.",
+    "Top with shredded mozzarella cheese and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "tacos",
+    "fettuccine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/roasted-algerian-chicken-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:30:40.071Z"
+}
