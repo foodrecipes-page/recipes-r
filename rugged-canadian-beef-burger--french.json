@@ -1,0 +1,89 @@
+{
+  "slug": "rugged-canadian-beef-burger--french",
+  "title": "French-Style Beef Burger",
+  "description": "A twist on the classic burger, French-inspired with fresh herbs and a crusty baguette.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 tbsp, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Baguette",
+      "amount": "1, sliced",
+      "notes": null
+    },
+    {
+      "name": "Brie Cheese",
+      "amount": "1/2 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": "see instructions for preparation"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal portions and shape into patties.",
+    "3. Season the patties with salt and pepper.",
+    "4. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "5. Meanwhile, toast the baguette slices on the grill or in the oven.",
+    "6. Spread a slice of brie cheese on each toasted baguette half.",
+    "7. Top each baguette half with a cooked patty, a spoonful of caramelized onions, and a sprinkle of parsley and thyme.",
+    "8. Serve immediately and enjoy!",
+    "9. To caramelize the onions, heat a tablespoon of oil in a pan over low heat.",
+    "10. Add 1/2 cup of sliced onions and cook, stirring occasionally, for 20-25 minutes or until they are dark golden brown and caramelized.",
+    "11. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "burger",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/rugged-canadian-beef-burger--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:37:06.910Z"
+}
